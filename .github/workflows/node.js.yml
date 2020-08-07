@@ -1,0 +1,48 @@
+# This workflow will do a clean install of node dependencies, build the source code and run tests across different versions of node
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
+
+name: Build my README
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    # “At minute 42 past every hour from 8 through 20 on every day-of-week from Monday through Friday.”
+    - cron: '42 8-20 * * 1-5'
+
+jobs:
+  build:
+    runs-on: ubuntu-20.04
+    # container: node:latest ## If used, the git command use git version < 2.11 
+    # and the checkout action uses tarball, so no git repository is created which
+    # makes the commits more complicated...
+    steps:
+    # https://github.com/actions/checkout
+    - name: Checkout the repo
+      uses: actions/checkout@v2
+    # https://github.com/actions/setup-node
+    - name: Use Node.js 12.x
+      uses: actions/setup-node@v1
+      with:
+        node-version: 12.x
+    # https://docs.npmjs.com/cli/ci.html
+    - name: NPM install clean
+      run: npm ci
+    - name: Update README
+      env:
+        GHTOKEN_README: ${{ secrets.GHTOKEN_README }}
+      run: |-
+        node index.js > README.md
+        cat README.md
+    # https://github.com/EndBug/add-and-commit
+    - name: commit changes
+      uses: EndBug/add-and-commit@v4 # You can change this to use a specific version
+      with:
+        author_name: Nicolas Borboën
+        author_email: ponsfrilus@gmail.com
+        force: false
+        signoff: false
+        message: 'README updated by GitHub Actions'
+      env:
+        # This is necessary in order to push a commit to the repo
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

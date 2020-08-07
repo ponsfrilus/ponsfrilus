@@ -1,0 +1,27 @@
+{
+  "name": "ponsfrilus",
+  "version": "0.0.1",
+  "description": "My github's profile README",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ponsfrilus/ponsfrilus.git"
+  },
+  "keywords": [
+    "github",
+    "readme",
+    "profile"
+  ],
+  "author": "Nicolas Borboën <ponsfrilus@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ponsfrilus/ponsfrilus/issues"
+  },
+  "homepage": "https://github.com/ponsfrilus/ponsfrilus#readme",
+  "dependencies": {
+    "octonode": "^0.9.5"
+  }
+}
