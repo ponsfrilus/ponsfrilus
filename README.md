@@ -1,84 +1,20 @@
-### Hi there 👋
-
-  <p align="center">
-    <img src="https://avatars3.githubusercontent.com/u/176002?v=4" />
-    <h3 align="center">
+### Hi there 👋<p align="center">
+  <img src="https://avatars3.githubusercontent.com/u/176002?v=4" />
+  <h3 align="center">
     Nicolas Borboën aka ponsfrilus
-    </h3>
-    <p align="center">
-      Full Stack Engineer @epfl-si, volunteer @epfl-dojo! #1TBS
-    </p>
+  </h3>
+  <p align="center">
+    Full Stack Engineer @epfl-si, volunteer @epfl-dojo! #1TBS
   </p>
-<h3>My last 10 starred repo</h3>
+</p><table><tr><td><h3>My last 10 commits</h3>
 <ul>
+<li><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/78f4fa936086f87a51f8447d058be8265e715bef" title="2020-08-19T18:24:46.000+02:00" target="_blank">78f4fa93</a>@<a href="https://api.github.com/users/ponsfrilus">ponsfrilus</a>/<a href="https://github.com/ponsfrilus/ponsfrilus" title="null">ponsfrilus</a><br/>[fix] table width</li><li><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/c75319f11b532b075afdb02c58dac323e4e66644" title="2020-08-19T16:20:02.000Z" target="_blank">c75319f1</a>@<a href="https://api.github.com/users/ponsfrilus">ponsfrilus</a>/<a href="https://github.com/ponsfrilus/ponsfrilus" title="null">ponsfrilus</a><br/>README updated by GitHub Actions</li><li><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/f05ecbdf79b00fc27299f830248c5969cfd7a96d" title="2020-08-19T18:19:27.000+02:00" target="_blank">f05ecbdf</a>@<a href="https://api.github.com/users/ponsfrilus">ponsfrilus</a>/<a href="https://github.com/ponsfrilus/ponsfrilus" title="null">ponsfrilus</a><br/>Merge branch 'master' of github.com:ponsfrilus/ponsfrilus</li><li><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/5be19fbf1e58010aa075f26bc182640d610cbfcd" title="2020-08-19T18:19:06.000+02:00" target="_blank">5be19fbf</a>@<a href="https://api.github.com/users/ponsfrilus">ponsfrilus</a>/<a href="https://github.com/ponsfrilus/ponsfrilus" title="null">ponsfrilus</a><br/>[feature] Now display latest commits
 
-  <li>
-    <a href="https://github.com/sallar/github-contributions-chart" title=":octocat: Generate an image of all your Github contributions" target="_blank">github-contributions-chart</a>&nbsp;
-    <a href="https://github.com/sallar/github-contributions-chart" title=":octocat: Generate an image of all your Github contributions" target="_blank">
-      <img src="https://img.shields.io/github/stars/sallar/github-contributions-chart?style=social" alt="GitHub">
-    </a>
-  </li>
+Uses [@octokit/core](https://github.com/octokit/core.js) instead of 
+octonode.</li><li><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/ae3fab81f10b6cff93ed53ead07d908431933e77" title="2020-08-19T14:45:45.000Z" target="_blank">ae3fab81</a>@<a href="https://api.github.com/users/ponsfrilus">ponsfrilus</a>/<a href="https://github.com/ponsfrilus/ponsfrilus" title="null">ponsfrilus</a><br/>README updated by GitHub Actions</li><li><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/ed51eb5c7d44942553392287742f5f229f33fa7e" title="2020-08-19T10:45:50.000Z" target="_blank">ed51eb5c</a>@<a href="https://api.github.com/users/ponsfrilus">ponsfrilus</a>/<a href="https://github.com/ponsfrilus/ponsfrilus" title="null">ponsfrilus</a><br/>README updated by GitHub Actions</li><li><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/ace972c29af65cd8d8d6a04fbb0ec7decdec525b" title="2020-08-10T16:29:19.000+02:00" target="_blank">ace972c2</a>@<a href="https://api.github.com/users/ponsfrilus">ponsfrilus</a>/<a href="https://github.com/ponsfrilus/ponsfrilus" title="null">ponsfrilus</a><br/>GH Actions, please do not forece add</li><li><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/d64c2082d6dd46a41198d44cbe22e411516cad04" title="2020-08-07T13:30:41.000+02:00" target="_blank">d64c2082</a>@<a href="https://api.github.com/users/ponsfrilus">ponsfrilus</a>/<a href="https://github.com/ponsfrilus/ponsfrilus" title="null">ponsfrilus</a><br/>Update README.md with GitHub Actions
 
-  <li>
-    <a href="https://github.com/williambelle/dotfiles" title="My Ubuntu / macOS dotfiles" target="_blank">dotfiles</a>&nbsp;
-    <a href="https://github.com/williambelle/dotfiles" title="My Ubuntu / macOS dotfiles" target="_blank">
-      <img src="https://img.shields.io/github/stars/williambelle/dotfiles?style=social" alt="GitHub">
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/mtlynch/tinypilot" title="Use your Raspberry Pi as a browser-based KVM." target="_blank">tinypilot</a>&nbsp;
-    <a href="https://github.com/mtlynch/tinypilot" title="Use your Raspberry Pi as a browser-based KVM." target="_blank">
-      <img src="https://img.shields.io/github/stars/mtlynch/tinypilot?style=social" alt="GitHub">
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/DojoRally/DRW" title="null" target="_blank">DRW</a>&nbsp;
-    <a href="https://github.com/DojoRally/DRW" title="null" target="_blank">
-      <img src="https://img.shields.io/github/stars/DojoRally/DRW?style=social" alt="GitHub">
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/metalmatze/alertmanager-bot" title="Bot for Prometheus' Alertmanager" target="_blank">alertmanager-bot</a>&nbsp;
-    <a href="https://github.com/metalmatze/alertmanager-bot" title="Bot for Prometheus' Alertmanager" target="_blank">
-      <img src="https://img.shields.io/github/stars/metalmatze/alertmanager-bot?style=social" alt="GitHub">
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/gitextensions/gitextensions" title="Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019)." target="_blank">gitextensions</a>&nbsp;
-    <a href="https://github.com/gitextensions/gitextensions" title="Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019)." target="_blank">
-      <img src="https://img.shields.io/github/stars/gitextensions/gitextensions?style=social" alt="GitHub">
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/TacticsCH/kata-javashapes" title="Recreation of an exam I had" target="_blank">kata-javashapes</a>&nbsp;
-    <a href="https://github.com/TacticsCH/kata-javashapes" title="Recreation of an exam I had" target="_blank">
-      <img src="https://img.shields.io/github/stars/TacticsCH/kata-javashapes?style=social" alt="GitHub">
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/epfl-dojo/kata-imagemagick" title="Introduction to Image Magick" target="_blank">kata-imagemagick</a>&nbsp;
-    <a href="https://github.com/epfl-dojo/kata-imagemagick" title="Introduction to Image Magick" target="_blank">
-      <img src="https://img.shields.io/github/stars/epfl-dojo/kata-imagemagick?style=social" alt="GitHub">
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/livewire/livewire" title="A full-stack framework for Laravel that takes the pain out of building dynamic UIs." target="_blank">livewire</a>&nbsp;
-    <a href="https://github.com/livewire/livewire" title="A full-stack framework for Laravel that takes the pain out of building dynamic UIs." target="_blank">
-      <img src="https://img.shields.io/github/stars/livewire/livewire?style=social" alt="GitHub">
-    </a>
-  </li>
-
-  <li>
-    <a href="https://github.com/PaperMC/Paper" title="High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies" target="_blank">Paper</a>&nbsp;
-    <a href="https://github.com/PaperMC/Paper" title="High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies" target="_blank">
-      <img src="https://img.shields.io/github/stars/PaperMC/Paper?style=social" alt="GitHub">
-    </a>
-  </li>
-</ul>
+When the repository state change, or on cron (“At minute 42 past every hour from 8
+through 20 on every day-of-week from Monday through Friday.”), the README will be
+update with the latest starred repo.</li><li><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/7f48cedbeac7ce2ffa40b549e3d82b80079bd5e8" title="2020-08-07T13:20:21.000+02:00" target="_blank">7f48cedb</a>@<a href="https://api.github.com/users/ponsfrilus">ponsfrilus</a>/<a href="https://github.com/ponsfrilus/ponsfrilus" title="null">ponsfrilus</a><br/>Initial commit</li><li><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/bfdf2cbcea4a235d4ed28d7f77a15b0e99f75ec6" title="2020-08-06T15:02:21.000+02:00" target="_blank">bfdf2cbc</a>@<a href="https://api.github.com/users/epfl-si">epfl-si</a>/<a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">wpforms-epfl-payonline</a><br/>[FT.] Better release summary</li></ul></td><td style="vertical-align:top;width:40%"><h3>My last 10 starred repo</h3>
+<ul>
+<li><a href="https://github.com/octokit/core.js" title="Extendable client for GitHub's REST & GraphQL APIs" target="_blank">core.js</a>&nbsp;<a href="https://github.com/octokit/core.js" title="Extendable client for GitHub's REST & GraphQL APIs" target="_blank"><img src="https://img.shields.io/github/stars/octokit/core.js?style=social" alt="GitHub"></a></li><li><a href="https://github.com/tektoncd/cli" title="A CLI for interacting with Tekton!" target="_blank">cli</a>&nbsp;<a href="https://github.com/tektoncd/cli" title="A CLI for interacting with Tekton!" target="_blank"><img src="https://img.shields.io/github/stars/tektoncd/cli?style=social" alt="GitHub"></a></li><li><a href="https://github.com/joellord/handson-tekton" title="null" target="_blank">handson-tekton</a>&nbsp;<a href="https://github.com/joellord/handson-tekton" title="null" target="_blank"><img src="https://img.shields.io/github/stars/joellord/handson-tekton?style=social" alt="GitHub"></a></li><li><a href="https://github.com/sallar/github-contributions-chart" title=":octocat: Generate an image of all your Github contributions" target="_blank">github-contributions-chart</a>&nbsp;<a href="https://github.com/sallar/github-contributions-chart" title=":octocat: Generate an image of all your Github contributions" target="_blank"><img src="https://img.shields.io/github/stars/sallar/github-contributions-chart?style=social" alt="GitHub"></a></li><li><a href="https://github.com/williambelle/dotfiles" title="My Ubuntu / macOS dotfiles" target="_blank">dotfiles</a>&nbsp;<a href="https://github.com/williambelle/dotfiles" title="My Ubuntu / macOS dotfiles" target="_blank"><img src="https://img.shields.io/github/stars/williambelle/dotfiles?style=social" alt="GitHub"></a></li><li><a href="https://github.com/mtlynch/tinypilot" title="Use your Raspberry Pi as a browser-based KVM." target="_blank">tinypilot</a>&nbsp;<a href="https://github.com/mtlynch/tinypilot" title="Use your Raspberry Pi as a browser-based KVM." target="_blank"><img src="https://img.shields.io/github/stars/mtlynch/tinypilot?style=social" alt="GitHub"></a></li><li><a href="https://github.com/DojoRally/DRW" title="null" target="_blank">DRW</a>&nbsp;<a href="https://github.com/DojoRally/DRW" title="null" target="_blank"><img src="https://img.shields.io/github/stars/DojoRally/DRW?style=social" alt="GitHub"></a></li><li><a href="https://github.com/metalmatze/alertmanager-bot" title="Bot for Prometheus' Alertmanager" target="_blank">alertmanager-bot</a>&nbsp;<a href="https://github.com/metalmatze/alertmanager-bot" title="Bot for Prometheus' Alertmanager" target="_blank"><img src="https://img.shields.io/github/stars/metalmatze/alertmanager-bot?style=social" alt="GitHub"></a></li><li><a href="https://github.com/gitextensions/gitextensions" title="Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019)." target="_blank">gitextensions</a>&nbsp;<a href="https://github.com/gitextensions/gitextensions" title="Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019)." target="_blank"><img src="https://img.shields.io/github/stars/gitextensions/gitextensions?style=social" alt="GitHub"></a></li><li><a href="https://github.com/TacticsCH/kata-javashapes" title="Recreation of an exam I had" target="_blank">kata-javashapes</a>&nbsp;<a href="https://github.com/TacticsCH/kata-javashapes" title="Recreation of an exam I had" target="_blank"><img src="https://img.shields.io/github/stars/TacticsCH/kata-javashapes?style=social" alt="GitHub"></a></li></ul></td></tr></table>
