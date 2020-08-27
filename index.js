@@ -56,7 +56,7 @@ const _generateLastCommits = async () => {
     q: 'author:ponsfrilus',
     sort: 'author-date',
     order: 'desc',
-    per_page: 10,
+    per_page: 100,
     mediaType: {
       previews: [
         'cloak'
@@ -65,8 +65,14 @@ const _generateLastCommits = async () => {
   })
 
   let ret = '\n<table>\n<thead>\n<tr>\n<th>My last commits</th>\n</tr>\n</thead>\n<tr>\n<td valign="top">\n<ul>\n'
-  commits.data.items.forEach((item, i) => {
-    ret += `<li><a href="${item.url}" title="${item.commit.author.date}" target="_blank">${item.sha.slice(0,8)}</a><a href="${item.repository.owner.html_url}">@${item.repository.owner.login}</a><a href="${item.repository.html_url}" title="${item.repository.description}">/${item.repository.name}</a><br/><pre>${item.commit.message}</pre></li>\n`
+  let num = 0
+  commits.data.items.every((item, i) => {
+    if (item.commit.message != 'README updated by GitHub Actions') {
+      num++
+      ret += `<li><a href="${item.url}" title="${item.commit.author.date}" target="_blank">${item.sha.slice(0,8)}</a><a href="${item.repository.owner.html_url}">@${item.repository.owner.login}</a><a href="${item.repository.html_url}" title="${item.repository.description}">/${item.repository.name}</a><br/><pre>${item.commit.message}</pre></li>\n`
+    }
+    if (num >= 10) return false
+    else return true
   })
   ret += '</ul>\n</td>\n</tr>\n</table>\n'
   return ret

@@ -7,8 +7,8 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    # “At minute 42 past every hour from 8 through 20 on every day-of-week from Monday through Friday.”
-    - cron: '42 8-20 * * 1-5'
+    # “At 13:37 on every day-of-week from Monday through Friday.”
+    - cron: '37 13 * * 1-5'
 
 jobs:
   build:
