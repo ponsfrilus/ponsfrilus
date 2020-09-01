@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 10 years and 7 months.
+    <br />Apparently, I'm hanging around on GitHub since 10 years and 8 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -103,6 +103,23 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/otg/commits/990d1e00bbf3e05984f011b2bf756472e3e0fa80" title="2020-09-01T11:15:49.000+02:00" target="_blank">990d1e00</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/otg" title="One Time Password (project)">/otg</a></strong></div>
+          <pre>[fix] bullet list and typo</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/GitlabStatisticsPrometheusExporter/commits/a789808ff9487c595303bb771295ad6d61f8067a" title="2020-08-31T18:39:13.000+02:00" target="_blank">a789808f</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter">/GitlabStatisticsPrometheusExporter</a></strong></div>
+          <pre>[fix] Change counter to gauge (v1.0.5)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/GitlabStatisticsPrometheusExporter/commits/e8cd01a66df828348181075564688f0cae1a7377" title="2020-08-31T16:49:56.000+02:00" target="_blank">e8cd01a6</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter">/GitlabStatisticsPrometheusExporter</a></strong></div>
+          <pre>[version] 1.0.4
+
+  - fix undefined labels</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/GitlabStatisticsPrometheusExporter/commits/ce4f92d6bcd469fd50570e4be5816ec9f110f0ca" title="2020-08-31T12:20:35.000+02:00" target="_blank">ce4f92d6</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter">/GitlabStatisticsPrometheusExporter</a></strong></div>
           <pre>[version] 1.0.3
 
@@ -147,26 +164,11 @@ Welcome `nocsible` and some refactoring</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/404efe9f7308213cebb4f7e1989b06377a7526ca" title="2020-08-28T17:18:11.000+02:00" target="_blank">404efe9f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
           <pre>[fix] mgmt role in last</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/3176736a23ef2c3acf483f41f8fcb4c9fbb32018" title="2020-08-28T16:30:56.000+02:00" target="_blank">3176736a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[feature] mgmt now have netstat</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/f52d573f030528a849f420f79b7c56df2675e271" title="2020-08-28T16:27:44.000+02:00" target="_blank">f52d573f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[fix] restart policy for whoami container</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/d34ea5715a19f23adcb36cc2d65dab0d29e3cb95" title="2020-08-28T16:17:26.000+02:00" target="_blank">d34ea571</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[fix] ensure that Python's docker lib are installed</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 31 Aug 2020 13:41:35 GMT</small>
+<small>⏰ Updated on Tue, 01 Sep 2020 13:41:30 GMT</small>
 </td>
 </tr>
 </tfoot>
