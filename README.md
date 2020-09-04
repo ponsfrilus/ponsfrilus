@@ -103,74 +103,61 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/d017d4fd3f6958fba7b012346c8a6648f03be9cc" title="2020-09-01T17:41:54.000+02:00" target="_blank">d017d4fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>Merge pull request #30 from epfl-si/feature/GitlabStatistics
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/bccb49f203bc0169de0e469bc1ba22483b130454" title="2020-09-03T18:03:06.000+02:00" target="_blank">bccb49f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>Merge branch 'dev'</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/e4c85a005c08511b3abf341aa648740ce9c41043" title="2020-09-03T18:00:34.000+02:00" target="_blank">e4c85a00</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[fix] removed unnecessary maintainer label</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/e2992e5dda5df9a51d800bc3f14ae7e152bbcd72" title="2020-09-03T14:45:36.000+02:00" target="_blank">e2992e5d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[feature] promtool in mgmgt container
 
-[feature] gitlab statistics</pre>
+This fixes #11</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/a778ae50b7ef1859f2fb4f7dc9890a2cc6c0cff7" title="2020-09-01T17:36:32.000+02:00" target="_blank">a778ae50</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[fix] gitlab statistics dashboard</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/4045afd85e7ac6b4bb9f5e06682a47b474dcd25b" title="2020-09-03T14:18:15.000+02:00" target="_blank">4045afd8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[feature] add renderer link</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/015eed1b99db5e9e5a0bdca381941279a5aa6e1f" title="2020-09-01T17:36:11.000+02:00" target="_blank">015eed1b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[fix] epfl-idevelop to epfl-idevfsd</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/89cf1332aef9082d3014c23139316063f47a453b" title="2020-09-03T14:00:14.000+02:00" target="_blank">89cf1332</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[fix] default maintainer to avoid yellow</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/otg/commits/990d1e00bbf3e05984f011b2bf756472e3e0fa80" title="2020-09-01T11:15:49.000+02:00" target="_blank">990d1e00</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/otg" title="One Time Password (project)">/otg</a></strong></div>
-          <pre>[fix] bullet list and typo</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/7dcc55303813dcb4a8c82d9dded5ba5649932ef7" title="2020-09-03T13:59:21.000+02:00" target="_blank">7dcc5530</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[fix] seeded salt to avoid yellow</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/44d6c38f8f078a79e08cf25c3a76ad7956e170e3" title="2020-09-01T08:38:37.000+02:00" target="_blank">44d6c38f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[feature] gitlab statistics dashboard
-
-and dashboard name homogenization</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/e0b4cb8364646cd1f3d5209bb889c0e899a17e0a" title="2020-09-01T18:04:12.000+02:00" target="_blank">e0b4cb83</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[fix] gitlab stat dashboard</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/GitlabStatisticsPrometheusExporter/commits/a789808ff9487c595303bb771295ad6d61f8067a" title="2020-08-31T18:39:13.000+02:00" target="_blank">a789808f</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter">/GitlabStatisticsPrometheusExporter</a></strong></div>
-          <pre>[fix] Change counter to gauge (v1.0.5)</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/760fdf09d5a4a1c0d89e365f0ca6cea3ef4f8af2" title="2020-09-01T18:03:59.000+02:00" target="_blank">760fdf09</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[fix] changed tasks (wip)</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/c5b32a358eed88e3d122f25d61fff334eb8eb262" title="2020-08-31T17:01:56.000+02:00" target="_blank">c5b32a35</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[feature] add metrics from https://gitlab.epfl.ch/GitlabStatistics</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/17802d4de977d120668ec023d50332f03a5b290c" title="2020-09-01T17:44:52.000+02:00" target="_blank">17802d4d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[fix] tell ansible to never "changed" that</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/GitlabStatisticsPrometheusExporter/commits/e8cd01a66df828348181075564688f0cae1a7377" title="2020-08-31T16:49:56.000+02:00" target="_blank">e8cd01a6</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter">/GitlabStatisticsPrometheusExporter</a></strong></div>
-          <pre>[version] 1.0.4
-
-  - fix undefined labels</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/GitlabStatisticsPrometheusExporter/commits/ce4f92d6bcd469fd50570e4be5816ec9f110f0ca" title="2020-08-31T12:20:35.000+02:00" target="_blank">ce4f92d6</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter">/GitlabStatisticsPrometheusExporter</a></strong></div>
-          <pre>[version] 1.0.3
-
-* Logging with winston
-* URL and env validation
-* Better doc on params
-* some refactoring</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/GitlabStatisticsPrometheusExporter/commits/1a37bb1d3f0badc901f17b6e7c0a17edbcf2179d" title="2020-08-28T19:14:14.000+02:00" target="_blank">1a37bb1d</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter">/GitlabStatisticsPrometheusExporter</a></strong></div>
-          <pre>[version] 1.0.2
-
-  - Docker file for publishing the image (now using node-slim)
-  - README updated with more documentation and usage
-  - `docker-compose.yml` no longer use volumes and got a name</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/cd6957d3d78efe9652144ad6102e452d2b2c202d" title="2020-09-01T17:44:32.000+02:00" target="_blank">cd6957d3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[feature] grafana image renderer docker</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 03 Sep 2020 13:41:30 GMT</small>
+<small>⏰ Updated on Fri, 04 Sep 2020 13:41:34 GMT</small>
 </td>
 </tr>
 </tfoot>
