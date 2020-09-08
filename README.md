@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/inCaller/prometheus_bot" title="Telegram bot for prometheus alerting" target="_blank">prometheus_bot</a>&nbsp;<a href="https://github.com/inCaller/prometheus_bot" title="Telegram bot for prometheus alerting" target="_blank"><img src="https://img.shields.io/github/stars/inCaller/prometheus_bot?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter" target="_blank">GitlabStatisticsPrometheusExporter</a>&nbsp;<a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/GitlabStatisticsPrometheusExporter?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/gitextensions/gitextensions" title="Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019)." target="_blank">gitextensions</a>&nbsp;<a href="https://github.com/gitextensions/gitextensions" title="Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019)." target="_blank"><img src="https://img.shields.io/github/stars/gitextensions/gitextensions?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/epfl-dojo/kata-imagemagick" title="Introduction to Image Magick" target="_blank">kata-imagemagick</a>&nbsp;<a href="https://github.com/epfl-dojo/kata-imagemagick" title="Introduction to Image Magick" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/kata-imagemagick?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/samber/awesome-prometheus-alerts" title="🚨 Collection of Prometheus alerting rules" target="_blank">awesome-prometheus-alerts</a>&nbsp;<a href="https://github.com/samber/awesome-prometheus-alerts" title="🚨 Collection of Prometheus alerting rules" target="_blank"><img src="https://img.shields.io/github/stars/samber/awesome-prometheus-alerts?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/reHackable/awesome-reMarkable" title="A curated list of projects related to the reMarkable tablet" target="_blank">awesome-reMarkable</a>&nbsp;<a href="https://github.com/reHackable/awesome-reMarkable" title="A curated list of projects related to the reMarkable tablet" target="_blank"><img src="https://img.shields.io/github/stars/reHackable/awesome-reMarkable?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/TacticsCH/kata-javashapes" title="Recreation of an exam I had" target="_blank">kata-javashapes</a>&nbsp;<a href="https://github.com/TacticsCH/kata-javashapes" title="Recreation of an exam I had" target="_blank"><img src="https://img.shields.io/github/stars/TacticsCH/kata-javashapes?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/livewire/livewire" title="A full-stack framework for Laravel that takes the pain out of building dynamic UIs." target="_blank">livewire</a>&nbsp;<a href="https://github.com/livewire/livewire" title="A full-stack framework for Laravel that takes the pain out of building dynamic UIs." target="_blank"><img src="https://img.shields.io/github/stars/livewire/livewire?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@ This fixes #11</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 07 Sep 2020 13:41:30 GMT</small>
+<small>⏰ Updated on Tue, 08 Sep 2020 13:41:31 GMT</small>
 </td>
 </tr>
 </tfoot>
