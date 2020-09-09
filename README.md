@@ -32,6 +32,12 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank">ingress-nginx</a>&nbsp;<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes/ingress-nginx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank">awesome-falsehood</a>&nbsp;<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank"><img src="https://img.shields.io/github/stars/kdeldycke/awesome-falsehood?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/inCaller/prometheus_bot" title="Telegram bot for prometheus alerting" target="_blank">prometheus_bot</a>&nbsp;<a href="https://github.com/inCaller/prometheus_bot" title="Telegram bot for prometheus alerting" target="_blank"><img src="https://img.shields.io/github/stars/inCaller/prometheus_bot?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -55,16 +61,16 @@
 <li>
 <a href="https://github.com/williambelle/dotfiles" title="My Ubuntu / macOS dotfiles" target="_blank">dotfiles</a>&nbsp;<a href="https://github.com/williambelle/dotfiles" title="My Ubuntu / macOS dotfiles" target="_blank"><img src="https://img.shields.io/github/stars/williambelle/dotfiles?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/DojoRally/DRW" title="null" target="_blank">DRW</a>&nbsp;<a href="https://github.com/DojoRally/DRW" title="null" target="_blank"><img src="https://img.shields.io/github/stars/DojoRally/DRW?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gitextensions/gitextensions" title="Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019)." target="_blank">gitextensions</a>&nbsp;<a href="https://github.com/gitextensions/gitextensions" title="Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019)." target="_blank"><img src="https://img.shields.io/github/stars/gitextensions/gitextensions?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/FXinnovation/alertmanager-webhook-servicenow" title="A Prometheus AlertManager webhook receiver that manages ServiceNow incidents from alerts" target="_blank">alertmanager-webhook-servicenow</a>&nbsp;<a href="https://github.com/FXinnovation/alertmanager-webhook-servicenow" title="A Prometheus AlertManager webhook receiver that manages ServiceNow incidents from alerts" target="_blank"><img src="https://img.shields.io/github/stars/FXinnovation/alertmanager-webhook-servicenow?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hasura/graphql-engine" title="Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events." target="_blank">graphql-engine</a>&nbsp;<a href="https://github.com/hasura/graphql-engine" title="Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events." target="_blank"><img src="https://img.shields.io/github/stars/hasura/graphql-engine?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/samber/awesome-prometheus-alerts" title="🚨 Collection of Prometheus alerting rules" target="_blank">awesome-prometheus-alerts</a>&nbsp;<a href="https://github.com/samber/awesome-prometheus-alerts" title="🚨 Collection of Prometheus alerting rules" target="_blank"><img src="https://img.shields.io/github/stars/samber/awesome-prometheus-alerts?style=social" alt="GitHub"></a>
 </li>
@@ -88,12 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/mtlynch/tinypilot" title="Use your Raspberry Pi as a browser-based KVM." target="_blank">tinypilot</a>&nbsp;<a href="https://github.com/mtlynch/tinypilot" title="Use your Raspberry Pi as a browser-based KVM." target="_blank"><img src="https://img.shields.io/github/stars/mtlynch/tinypilot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/metalmatze/alertmanager-bot" title="Bot for Prometheus' Alertmanager" target="_blank">alertmanager-bot</a>&nbsp;<a href="https://github.com/metalmatze/alertmanager-bot" title="Bot for Prometheus' Alertmanager" target="_blank"><img src="https://img.shields.io/github/stars/metalmatze/alertmanager-bot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TacticsCH/kata-javashapes" title="Recreation of an exam I had" target="_blank">kata-javashapes</a>&nbsp;<a href="https://github.com/TacticsCH/kata-javashapes" title="Recreation of an exam I had" target="_blank"><img src="https://img.shields.io/github/stars/TacticsCH/kata-javashapes?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@ This fixes #11</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 08 Sep 2020 13:41:31 GMT</small>
+<small>⏰ Updated on Wed, 09 Sep 2020 13:41:32 GMT</small>
 </td>
 </tr>
 </tfoot>
