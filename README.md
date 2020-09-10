@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/epfl-si/tools-cluster-infra" title="Tools running on the EPFL Tools Cluster ran the gitops way from this repository" target="_blank">tools-cluster-infra</a>&nbsp;<a href="https://github.com/epfl-si/tools-cluster-infra" title="Tools running on the EPFL Tools Cluster ran the gitops way from this repository" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/tools-cluster-infra?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/FXinnovation/alertmanager-webhook-servicenow" title="A Prometheus AlertManager webhook receiver that manages ServiceNow incidents from alerts" target="_blank">alertmanager-webhook-servicenow</a>&nbsp;<a href="https://github.com/FXinnovation/alertmanager-webhook-servicenow" title="A Prometheus AlertManager webhook receiver that manages ServiceNow incidents from alerts" target="_blank"><img src="https://img.shields.io/github/stars/FXinnovation/alertmanager-webhook-servicenow?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hasura/graphql-engine" title="Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events." target="_blank">graphql-engine</a>&nbsp;<a href="https://github.com/hasura/graphql-engine" title="Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events." target="_blank"><img src="https://img.shields.io/github/stars/hasura/graphql-engine?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/samber/awesome-prometheus-alerts" title="🚨 Collection of Prometheus alerting rules" target="_blank">awesome-prometheus-alerts</a>&nbsp;<a href="https://github.com/samber/awesome-prometheus-alerts" title="🚨 Collection of Prometheus alerting rules" target="_blank"><img src="https://img.shields.io/github/stars/samber/awesome-prometheus-alerts?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/reHackable/awesome-reMarkable" title="A curated list of projects related to the reMarkable tablet" target="_blank">awesome-reMarkable</a>&nbsp;<a href="https://github.com/reHackable/awesome-reMarkable" title="A curated list of projects related to the reMarkable tablet" target="_blank"><img src="https://img.shields.io/github/stars/reHackable/awesome-reMarkable?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/IMI-initiative/quatre-apparts-et-un-confinement" title="Repository for the free open-source web-based mobile game "Covidou"" target="_blank">quatre-apparts-et-un-confinement</a>&nbsp;<a href="https://github.com/IMI-initiative/quatre-apparts-et-un-confinement" title="Repository for the free open-source web-based mobile game "Covidou"" target="_blank"><img src="https://img.shields.io/github/stars/IMI-initiative/quatre-apparts-et-un-confinement?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/timqian/star-history" title="The missing star history graph of github repos" target="_blank">star-history</a>&nbsp;<a href="https://github.com/timqian/star-history" title="The missing star history graph of github repos" target="_blank"><img src="https://img.shields.io/github/stars/timqian/star-history?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/restic/restic" title="Fast, secure, efficient backup program" target="_blank">restic</a>&nbsp;<a href="https://github.com/restic/restic" title="Fast, secure, efficient backup program" target="_blank"><img src="https://img.shields.io/github/stars/restic/restic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tektoncd/cli" title="A CLI for interacting with Tekton!" target="_blank">cli</a>&nbsp;<a href="https://github.com/tektoncd/cli" title="A CLI for interacting with Tekton!" target="_blank"><img src="https://img.shields.io/github/stars/tektoncd/cli?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sallar/github-contributions-chart" title=":octocat: Generate an image of all your Github contributions" target="_blank">github-contributions-chart</a>&nbsp;<a href="https://github.com/sallar/github-contributions-chart" title=":octocat: Generate an image of all your Github contributions" target="_blank"><img src="https://img.shields.io/github/stars/sallar/github-contributions-chart?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank">ingress-nginx</a>&nbsp;<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes/ingress-nginx?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,21 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/FXinnovation/alertmanager-webhook-servicenow" title="A Prometheus AlertManager webhook receiver that manages ServiceNow incidents from alerts" target="_blank">alertmanager-webhook-servicenow</a>&nbsp;<a href="https://github.com/FXinnovation/alertmanager-webhook-servicenow" title="A Prometheus AlertManager webhook receiver that manages ServiceNow incidents from alerts" target="_blank"><img src="https://img.shields.io/github/stars/FXinnovation/alertmanager-webhook-servicenow?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hasura/graphql-engine" title="Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events." target="_blank">graphql-engine</a>&nbsp;<a href="https://github.com/hasura/graphql-engine" title="Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events." target="_blank"><img src="https://img.shields.io/github/stars/hasura/graphql-engine?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/samber/awesome-prometheus-alerts" title="🚨 Collection of Prometheus alerting rules" target="_blank">awesome-prometheus-alerts</a>&nbsp;<a href="https://github.com/samber/awesome-prometheus-alerts" title="🚨 Collection of Prometheus alerting rules" target="_blank"><img src="https://img.shields.io/github/stars/samber/awesome-prometheus-alerts?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/reHackable/awesome-reMarkable" title="A curated list of projects related to the reMarkable tablet" target="_blank">awesome-reMarkable</a>&nbsp;<a href="https://github.com/reHackable/awesome-reMarkable" title="A curated list of projects related to the reMarkable tablet" target="_blank"><img src="https://img.shields.io/github/stars/reHackable/awesome-reMarkable?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/IMI-initiative/quatre-apparts-et-un-confinement" title="Repository for the free open-source web-based mobile game "Covidou"" target="_blank">quatre-apparts-et-un-confinement</a>&nbsp;<a href="https://github.com/IMI-initiative/quatre-apparts-et-un-confinement" title="Repository for the free open-source web-based mobile game "Covidou"" target="_blank"><img src="https://img.shields.io/github/stars/IMI-initiative/quatre-apparts-et-un-confinement?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/timqian/star-history" title="The missing star history graph of github repos" target="_blank">star-history</a>&nbsp;<a href="https://github.com/timqian/star-history" title="The missing star history graph of github repos" target="_blank"><img src="https://img.shields.io/github/stars/timqian/star-history?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/restic/restic" title="Fast, secure, efficient backup program" target="_blank">restic</a>&nbsp;<a href="https://github.com/restic/restic" title="Fast, secure, efficient backup program" target="_blank"><img src="https://img.shields.io/github/stars/restic/restic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tektoncd/cli" title="A CLI for interacting with Tekton!" target="_blank">cli</a>&nbsp;<a href="https://github.com/tektoncd/cli" title="A CLI for interacting with Tekton!" target="_blank"><img src="https://img.shields.io/github/stars/tektoncd/cli?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sallar/github-contributions-chart" title=":octocat: Generate an image of all your Github contributions" target="_blank">github-contributions-chart</a>&nbsp;<a href="https://github.com/sallar/github-contributions-chart" title=":octocat: Generate an image of all your Github contributions" target="_blank"><img src="https://img.shields.io/github/stars/sallar/github-contributions-chart?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mtlynch/tinypilot" title="Use your Raspberry Pi as a browser-based KVM." target="_blank">tinypilot</a>&nbsp;<a href="https://github.com/mtlynch/tinypilot" title="Use your Raspberry Pi as a browser-based KVM." target="_blank"><img src="https://img.shields.io/github/stars/mtlynch/tinypilot?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/1a7082bd4f343d308817bfec09203885d69a8239" title="2020-09-10T11:52:29.000+02:00" target="_blank">1a7082bd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[feature] handle telegram bot events</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/49b03e88545677709619e4a33f014baff32371df" title="2020-09-10T11:12:02.000+02:00" target="_blank">49b03e88</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[feature] Group and Chat ID validation</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/bccb49f203bc0169de0e469bc1ba22483b130454" title="2020-09-03T18:03:06.000+02:00" target="_blank">bccb49f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
           <pre>Merge branch 'dev'</pre>
@@ -143,21 +153,11 @@ This fixes #11</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/760fdf09d5a4a1c0d89e365f0ca6cea3ef4f8af2" title="2020-09-01T18:03:59.000+02:00" target="_blank">760fdf09</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
           <pre>[fix] changed tasks (wip)</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/17802d4de977d120668ec023d50332f03a5b290c" title="2020-09-01T17:44:52.000+02:00" target="_blank">17802d4d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[fix] tell ansible to never "changed" that</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/cd6957d3d78efe9652144ad6102e452d2b2c202d" title="2020-09-01T17:44:32.000+02:00" target="_blank">cd6957d3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[feature] grafana image renderer docker</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 09 Sep 2020 13:41:32 GMT</small>
+<small>⏰ Updated on Thu, 10 Sep 2020 13:42:24 GMT</small>
 </td>
 </tr>
 </tfoot>
