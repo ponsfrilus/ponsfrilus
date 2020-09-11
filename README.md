@@ -103,6 +103,28 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/nanoGraph/commits/6198f243a60057c0a02149c2df06343c31ed197b" title="2020-09-11T13:04:50.000+02:00" target="_blank">6198f243</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/nanoGraph" title="Récupération de données d'un API json et affichage graphique dans une page HTML statique sans serveur backend">/nanoGraph</a></strong></div>
+          <pre>Merge pull request #1 from epfl-dojo/feature/beautifullage
+
+[janitor] clean up</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/nanoGraph/commits/41d2a3102ddbc494be0a91a35868147ce85990c6" title="2020-09-11T12:59:49.000+02:00" target="_blank">41d2a310</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/nanoGraph" title="Récupération de données d'un API json et affichage graphique dans une page HTML statique sans serveur backend">/nanoGraph</a></strong></div>
+          <pre>[janitor] clean up</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/081bb8deaf305396366a05f1d58d7d8371300066" title="2020-09-10T17:36:17.000+02:00" target="_blank">081bb8de</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[feature] now send some messages</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/4173e1df6aba82e74cd1aa2a4324cece7adcbfaf" title="2020-09-10T17:11:49.000+02:00" target="_blank">4173e1df</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[debug] intermediate version for debugging</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/1a7082bd4f343d308817bfec09203885d69a8239" title="2020-09-10T11:52:29.000+02:00" target="_blank">1a7082bd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
           <pre>[feature] handle telegram bot events</pre>
         </td>
@@ -133,31 +155,11 @@ This fixes #11</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/4045afd85e7ac6b4bb9f5e06682a47b474dcd25b" title="2020-09-03T14:18:15.000+02:00" target="_blank">4045afd8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
           <pre>[feature] add renderer link</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/89cf1332aef9082d3014c23139316063f47a453b" title="2020-09-03T14:00:14.000+02:00" target="_blank">89cf1332</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[fix] default maintainer to avoid yellow</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/7dcc55303813dcb4a8c82d9dded5ba5649932ef7" title="2020-09-03T13:59:21.000+02:00" target="_blank">7dcc5530</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[fix] seeded salt to avoid yellow</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/e0b4cb8364646cd1f3d5209bb889c0e899a17e0a" title="2020-09-01T18:04:12.000+02:00" target="_blank">e0b4cb83</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[fix] gitlab stat dashboard</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/760fdf09d5a4a1c0d89e365f0ca6cea3ef4f8af2" title="2020-09-01T18:03:59.000+02:00" target="_blank">760fdf09</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[fix] changed tasks (wip)</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 10 Sep 2020 13:42:24 GMT</small>
+<small>⏰ Updated on Fri, 11 Sep 2020 13:41:21 GMT</small>
 </td>
 </tr>
 </tfoot>
