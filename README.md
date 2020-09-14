@@ -103,6 +103,63 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/c783cc736dcc2679dbecdeb17e53c2582dab772d" title="2020-09-14T09:22:14.000+02:00" target="_blank">c783cc73</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[feature] test silence</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/6aad599977b5beed689d218bcd5e7261a4e4aef9" title="2020-09-11T19:50:22.000+02:00" target="_blank">6aad5999</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[feature] AM_URL as env var</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/fbee231b5cf04cce61a880190706f330b5fe289d" title="2020-09-11T19:42:42.000+02:00" target="_blank">fbee231b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[feature] alertmanager API
+
+Bot's commands `/status` and `/alerts` are now answering with basic info 
+from the alertmanager API.
+
+  - add the alertmanager.js library
+  - both env variables `AM_BASIC_AUTH_USER` & `AM_BASIC_AUTH_PASS` are 
+now required.
+  - bump to version 1.1.7</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/21cbf8ca8f1ebc1ad530ced3ae6c4f66361e0fb9" title="2020-09-11T18:17:46.000+02:00" target="_blank">21cbf8ca</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[feature] both cmd and cmd@botname now work</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/a55ab6120a0c65d053323e642379c091c87315b1" title="2020-09-11T17:49:39.000+02:00" target="_blank">a55ab612</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[feature] debug mode
+
+  - use of `DEBUG` process.env variable to activate more debug.
+  - Fix call back button</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/6474b542b7578853395ffbdea2b6f29e00037047" title="2020-09-11T17:27:46.000+02:00" target="_blank">6474b542</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[feature] alert msg got inline buttons</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/138497a4f82f4eca6368b219c4a1a251f093d6a9" title="2020-09-11T16:45:21.000+02:00" target="_blank">138497a4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[debug] better logging</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/2c403226f805cb7a24469e620c0086d7d7a6ed9f" title="2020-09-11T16:20:26.000+02:00" target="_blank">2c403226</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[feature] dev support
+
+  - now includes a Makefile, `make dev` and `make release` are very 
+useful.
+  - Bellter send message logs.
+  - Working list of bot commands to be implemented.
+  - Bump to version 1.1.4</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/nanoGraph/commits/6198f243a60057c0a02149c2df06343c31ed197b" title="2020-09-11T13:04:50.000+02:00" target="_blank">6198f243</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/nanoGraph" title="Récupération de données d'un API json et affichage graphique dans une page HTML statique sans serveur backend">/nanoGraph</a></strong></div>
           <pre>Merge pull request #1 from epfl-dojo/feature/beautifullage
 
@@ -113,53 +170,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/nanoGraph/commits/41d2a3102ddbc494be0a91a35868147ce85990c6" title="2020-09-11T12:59:49.000+02:00" target="_blank">41d2a310</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/nanoGraph" title="Récupération de données d'un API json et affichage graphique dans une page HTML statique sans serveur backend">/nanoGraph</a></strong></div>
           <pre>[janitor] clean up</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/081bb8deaf305396366a05f1d58d7d8371300066" title="2020-09-10T17:36:17.000+02:00" target="_blank">081bb8de</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[feature] now send some messages</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/4173e1df6aba82e74cd1aa2a4324cece7adcbfaf" title="2020-09-10T17:11:49.000+02:00" target="_blank">4173e1df</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[debug] intermediate version for debugging</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/1a7082bd4f343d308817bfec09203885d69a8239" title="2020-09-10T11:52:29.000+02:00" target="_blank">1a7082bd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[feature] handle telegram bot events</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/49b03e88545677709619e4a33f014baff32371df" title="2020-09-10T11:12:02.000+02:00" target="_blank">49b03e88</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[feature] Group and Chat ID validation</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/bccb49f203bc0169de0e469bc1ba22483b130454" title="2020-09-03T18:03:06.000+02:00" target="_blank">bccb49f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>Merge branch 'dev'</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/e4c85a005c08511b3abf341aa648740ce9c41043" title="2020-09-03T18:00:34.000+02:00" target="_blank">e4c85a00</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[fix] removed unnecessary maintainer label</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/e2992e5dda5df9a51d800bc3f14ae7e152bbcd72" title="2020-09-03T14:45:36.000+02:00" target="_blank">e2992e5d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[feature] promtool in mgmgt container
-
-This fixes #11</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/4045afd85e7ac6b4bb9f5e06682a47b474dcd25b" title="2020-09-03T14:18:15.000+02:00" target="_blank">4045afd8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[feature] add renderer link</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 11 Sep 2020 13:41:21 GMT</small>
+<small>⏰ Updated on Mon, 14 Sep 2020 13:41:40 GMT</small>
 </td>
 </tr>
 </tfoot>
