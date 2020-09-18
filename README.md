@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank">telebot</a>&nbsp;<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank"><img src="https://img.shields.io/github/stars/mullwar/telebot?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/material-shell/material-shell" title="A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone." target="_blank">material-shell</a>&nbsp;<a href="https://github.com/material-shell/material-shell" title="A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone." target="_blank"><img src="https://img.shields.io/github/stars/material-shell/material-shell?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/restic/restic" title="Fast, secure, efficient backup program" target="_blank">restic</a>&nbsp;<a href="https://github.com/restic/restic" title="Fast, secure, efficient backup program" target="_blank"><img src="https://img.shields.io/github/stars/restic/restic?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/tektoncd/cli" title="A CLI for interacting with Tekton!" target="_blank">cli</a>&nbsp;<a href="https://github.com/tektoncd/cli" title="A CLI for interacting with Tekton!" target="_blank"><img src="https://img.shields.io/github/stars/tektoncd/cli?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank">remodeling</a>&nbsp;<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank"><img src="https://img.shields.io/github/stars/WardCunningham/remodeling?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/skeeto/endlessh" title="SSH tarpit that slowly sends an endless banner" target="_blank">endlessh</a>&nbsp;<a href="https://github.com/skeeto/endlessh" title="SSH tarpit that slowly sends an endless banner" target="_blank"><img src="https://img.shields.io/github/stars/skeeto/endlessh?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/octokit/core.js" title="Extendable client for GitHub's REST & GraphQL APIs" target="_blank">core.js</a>&nbsp;<a href="https://github.com/octokit/core.js" title="Extendable client for GitHub's REST & GraphQL APIs" target="_blank"><img src="https://img.shields.io/github/stars/octokit/core.js?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/joellord/handson-tekton" title="null" target="_blank">handson-tekton</a>&nbsp;<a href="https://github.com/joellord/handson-tekton" title="null" target="_blank"><img src="https://img.shields.io/github/stars/joellord/handson-tekton?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -174,7 +174,7 @@ useful.
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 17 Sep 2020 13:41:30 GMT</small>
+<small>⏰ Updated on Fri, 18 Sep 2020 13:41:29 GMT</small>
 </td>
 </tr>
 </tfoot>
