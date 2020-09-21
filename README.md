@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank">solid</a>&nbsp;<a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank"><img src="https://img.shields.io/github/stars/ryansolid/solid?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3.0" target="_blank">vue-next</a>&nbsp;<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3.0" target="_blank"><img src="https://img.shields.io/github/stars/vuejs/vue-next?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank">remodeling</a>&nbsp;<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank"><img src="https://img.shields.io/github/stars/WardCunningham/remodeling?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/skeeto/endlessh" title="SSH tarpit that slowly sends an endless banner" target="_blank">endlessh</a>&nbsp;<a href="https://github.com/skeeto/endlessh" title="SSH tarpit that slowly sends an endless banner" target="_blank"><img src="https://img.shields.io/github/stars/skeeto/endlessh?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank">ingress-nginx</a>&nbsp;<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes/ingress-nginx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank">awesome-falsehood</a>&nbsp;<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank"><img src="https://img.shields.io/github/stars/kdeldycke/awesome-falsehood?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/inCaller/prometheus_bot" title="Telegram bot for prometheus alerting" target="_blank">prometheus_bot</a>&nbsp;<a href="https://github.com/inCaller/prometheus_bot" title="Telegram bot for prometheus alerting" target="_blank"><img src="https://img.shields.io/github/stars/inCaller/prometheus_bot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter" target="_blank">GitlabStatisticsPrometheusExporter</a>&nbsp;<a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/GitlabStatisticsPrometheusExporter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/iggredible/Learn-Vim" title="A book for learning the Vim editor the smart way." target="_blank">Learn-Vim</a>&nbsp;<a href="https://github.com/iggredible/Learn-Vim" title="A book for learning the Vim editor the smart way." target="_blank"><img src="https://img.shields.io/github/stars/iggredible/Learn-Vim?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/CommandLineHeroes/clh-bash" title="Arcade game to show your Command Line Hero skills!  The game challenges you to enter as many valid commands as you can in 60 seconds!" target="_blank">clh-bash</a>&nbsp;<a href="https://github.com/CommandLineHeroes/clh-bash" title="Arcade game to show your Command Line Hero skills!  The game challenges you to enter as many valid commands as you can in 60 seconds!" target="_blank"><img src="https://img.shields.io/github/stars/CommandLineHeroes/clh-bash?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank">rg3d</a>&nbsp;<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/mrDIMAS/rg3d?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank">telebot</a>&nbsp;<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank"><img src="https://img.shields.io/github/stars/mullwar/telebot?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/timqian/star-history" title="The missing star history graph of github repos" target="_blank">star-history</a>&nbsp;<a href="https://github.com/timqian/star-history" title="The missing star history graph of github repos" target="_blank"><img src="https://img.shields.io/github/stars/timqian/star-history?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/restic/restic" title="Fast, secure, efficient backup program" target="_blank">restic</a>&nbsp;<a href="https://github.com/restic/restic" title="Fast, secure, efficient backup program" target="_blank"><img src="https://img.shields.io/github/stars/restic/restic?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank">remodeling</a>&nbsp;<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank"><img src="https://img.shields.io/github/stars/WardCunningham/remodeling?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/skeeto/endlessh" title="SSH tarpit that slowly sends an endless banner" target="_blank">endlessh</a>&nbsp;<a href="https://github.com/skeeto/endlessh" title="SSH tarpit that slowly sends an endless banner" target="_blank"><img src="https://img.shields.io/github/stars/skeeto/endlessh?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank">ingress-nginx</a>&nbsp;<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes/ingress-nginx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank">awesome-falsehood</a>&nbsp;<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank"><img src="https://img.shields.io/github/stars/kdeldycke/awesome-falsehood?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/inCaller/prometheus_bot" title="Telegram bot for prometheus alerting" target="_blank">prometheus_bot</a>&nbsp;<a href="https://github.com/inCaller/prometheus_bot" title="Telegram bot for prometheus alerting" target="_blank"><img src="https://img.shields.io/github/stars/inCaller/prometheus_bot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter" target="_blank">GitlabStatisticsPrometheusExporter</a>&nbsp;<a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/GitlabStatisticsPrometheusExporter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/iggredible/Learn-Vim" title="A book for learning the Vim editor the smart way." target="_blank">Learn-Vim</a>&nbsp;<a href="https://github.com/iggredible/Learn-Vim" title="A book for learning the Vim editor the smart way." target="_blank"><img src="https://img.shields.io/github/stars/iggredible/Learn-Vim?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/CommandLineHeroes/clh-bash" title="Arcade game to show your Command Line Hero skills!  The game challenges you to enter as many valid commands as you can in 60 seconds!" target="_blank">clh-bash</a>&nbsp;<a href="https://github.com/CommandLineHeroes/clh-bash" title="Arcade game to show your Command Line Hero skills!  The game challenges you to enter as many valid commands as you can in 60 seconds!" target="_blank"><img src="https://img.shields.io/github/stars/CommandLineHeroes/clh-bash?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/anuraghazra/github-readme-stats" title=":zap: Dynamically generated stats for your github readmes" target="_blank">github-readme-stats</a>&nbsp;<a href="https://github.com/anuraghazra/github-readme-stats" title=":zap: Dynamically generated stats for your github readmes" target="_blank"><img src="https://img.shields.io/github/stars/anuraghazra/github-readme-stats?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/octokit/core.js" title="Extendable client for GitHub's REST & GraphQL APIs" target="_blank">core.js</a>&nbsp;<a href="https://github.com/octokit/core.js" title="Extendable client for GitHub's REST & GraphQL APIs" target="_blank"><img src="https://img.shields.io/github/stars/octokit/core.js?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -174,7 +174,7 @@ useful.
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 18 Sep 2020 13:41:29 GMT</small>
+<small>⏰ Updated on Mon, 21 Sep 2020 13:41:34 GMT</small>
 </td>
 </tr>
 </tfoot>
