@@ -103,6 +103,35 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6059d1f9be535b07a7fc5094f7a63085070d52cd" title="2020-09-23T13:07:17.000+02:00" target="_blank">6059d1f9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #342 from epfl-si/fix/env-plugins-secrets
+
+[fix] Ensure wp plugin secrets can be read from AWX</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-idevfsd/testBasicAuth/commits/5746568306d472811bcca6b1967e70c4de508abf" title="2020-09-23T12:15:22.000+02:00" target="_blank">57465683</a><a href="https://github.com/epfl-idevfsd">@epfl-idevfsd</a><a href="https://github.com/epfl-idevfsd/testBasicAuth" title="null">/testBasicAuth</a></strong></div>
+          <pre>[doc] README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-idevfsd/testBasicAuth/commits/19aa9631ac2c402d65bd40cb56373cf6592b8738" title="2020-09-23T12:08:39.000+02:00" target="_blank">19aa9631</a><a href="https://github.com/epfl-idevfsd">@epfl-idevfsd</a><a href="https://github.com/epfl-idevfsd/testBasicAuth" title="null">/testBasicAuth</a></strong></div>
+          <pre>[feature] BasicAuth for traefik
+
+and fix the Host() rule to match everything.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-idevfsd/testBasicAuth/commits/af3bee92e094aa363ad7320f06d73f32c51639e5" title="2020-09-23T11:19:45.000+02:00" target="_blank">af3bee92</a><a href="https://github.com/epfl-idevfsd">@epfl-idevfsd</a><a href="https://github.com/epfl-idevfsd/testBasicAuth" title="null">/testBasicAuth</a></strong></div>
+          <pre>[init] (WIP) nginx and traefik attempts</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ac17da31781830bf1e77ce5646c2607167da91c6" title="2020-09-18T16:55:57.000+02:00" target="_blank">ac17da31</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] Ensure wp plugin secrets can be read from AWX</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/c783cc736dcc2679dbecdeb17e53c2582dab772d" title="2020-09-14T09:22:14.000+02:00" target="_blank">c783cc73</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
           <pre>[feature] test silence</pre>
         </td>
@@ -137,44 +166,11 @@ now required.
   - use of `DEBUG` process.env variable to activate more debug.
   - Fix call back button</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/6474b542b7578853395ffbdea2b6f29e00037047" title="2020-09-11T17:27:46.000+02:00" target="_blank">6474b542</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[feature] alert msg got inline buttons</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/138497a4f82f4eca6368b219c4a1a251f093d6a9" title="2020-09-11T16:45:21.000+02:00" target="_blank">138497a4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[debug] better logging</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/2c403226f805cb7a24469e620c0086d7d7a6ed9f" title="2020-09-11T16:20:26.000+02:00" target="_blank">2c403226</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[feature] dev support
-
-  - now includes a Makefile, `make dev` and `make release` are very 
-useful.
-  - Bellter send message logs.
-  - Working list of bot commands to be implemented.
-  - Bump to version 1.1.4</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/nanoGraph/commits/6198f243a60057c0a02149c2df06343c31ed197b" title="2020-09-11T13:04:50.000+02:00" target="_blank">6198f243</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/nanoGraph" title="Récupération de données d'un API json et affichage graphique dans une page HTML statique sans serveur backend">/nanoGraph</a></strong></div>
-          <pre>Merge pull request #1 from epfl-dojo/feature/beautifullage
-
-[janitor] clean up</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/nanoGraph/commits/41d2a3102ddbc494be0a91a35868147ce85990c6" title="2020-09-11T12:59:49.000+02:00" target="_blank">41d2a310</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/nanoGraph" title="Récupération de données d'un API json et affichage graphique dans une page HTML statique sans serveur backend">/nanoGraph</a></strong></div>
-          <pre>[janitor] clean up</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 22 Sep 2020 13:41:40 GMT</small>
+<small>⏰ Updated on Wed, 23 Sep 2020 13:41:36 GMT</small>
 </td>
 </tr>
 </tfoot>
