@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-idevfsd/testBasicAuth/commits/c630a86107e15916f19cf0b250c8ffdf593e6bc7" title="2020-09-23T16:22:30.000+02:00" target="_blank">c630a861</a><a href="https://github.com/epfl-idevfsd">@epfl-idevfsd</a><a href="https://github.com/epfl-idevfsd/testBasicAuth" title="null">/testBasicAuth</a></strong></div>
+          <pre>[feature] traefik's listening on port 9999</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6059d1f9be535b07a7fc5094f7a63085070d52cd" title="2020-09-23T13:07:17.000+02:00" target="_blank">6059d1f9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #342 from epfl-si/fix/env-plugins-secrets
 
@@ -158,19 +163,11 @@ now required.
           <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/21cbf8ca8f1ebc1ad530ced3ae6c4f66361e0fb9" title="2020-09-11T18:17:46.000+02:00" target="_blank">21cbf8ca</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
           <pre>[feature] both cmd and cmd@botname now work</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/a55ab6120a0c65d053323e642379c091c87315b1" title="2020-09-11T17:49:39.000+02:00" target="_blank">a55ab612</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[feature] debug mode
-
-  - use of `DEBUG` process.env variable to activate more debug.
-  - Fix call back button</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 23 Sep 2020 13:41:36 GMT</small>
+<small>⏰ Updated on Thu, 24 Sep 2020 13:41:39 GMT</small>
 </td>
 </tr>
 </tfoot>
