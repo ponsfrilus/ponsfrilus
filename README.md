@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility" target="_blank">duf</a>&nbsp;<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility" target="_blank"><img src="https://img.shields.io/github/stars/muesli/duf?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank">grapesjs</a>&nbsp;<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank"><img src="https://img.shields.io/github/stars/artf/grapesjs?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/reHackable/awesome-reMarkable" title="A curated list of projects related to the reMarkable tablet" target="_blank">awesome-reMarkable</a>&nbsp;<a href="https://github.com/reHackable/awesome-reMarkable" title="A curated list of projects related to the reMarkable tablet" target="_blank"><img src="https://img.shields.io/github/stars/reHackable/awesome-reMarkable?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/IMI-initiative/quatre-apparts-et-un-confinement" title="Repository for the free open-source web-based mobile game "Covidou"" target="_blank">quatre-apparts-et-un-confinement</a>&nbsp;<a href="https://github.com/IMI-initiative/quatre-apparts-et-un-confinement" title="Repository for the free open-source web-based mobile game "Covidou"" target="_blank"><img src="https://img.shields.io/github/stars/IMI-initiative/quatre-apparts-et-un-confinement?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/ggerganov/wave-share" title="Serverless, peer-to-peer, local file sharing through sound" target="_blank">wave-share</a>&nbsp;<a href="https://github.com/ggerganov/wave-share" title="Serverless, peer-to-peer, local file sharing through sound" target="_blank"><img src="https://img.shields.io/github/stars/ggerganov/wave-share?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank">solid</a>&nbsp;<a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank"><img src="https://img.shields.io/github/stars/ryansolid/solid?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/iggredible/Learn-Vim" title="A book for learning the Vim editor the smart way." target="_blank">Learn-Vim</a>&nbsp;<a href="https://github.com/iggredible/Learn-Vim" title="A book for learning the Vim editor the smart way." target="_blank"><img src="https://img.shields.io/github/stars/iggredible/Learn-Vim?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/CommandLineHeroes/clh-bash" title="Arcade game to show your Command Line Hero skills!  The game challenges you to enter as many valid commands as you can in 60 seconds!" target="_blank">clh-bash</a>&nbsp;<a href="https://github.com/CommandLineHeroes/clh-bash" title="Arcade game to show your Command Line Hero skills!  The game challenges you to enter as many valid commands as you can in 60 seconds!" target="_blank"><img src="https://img.shields.io/github/stars/CommandLineHeroes/clh-bash?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,11 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ict-bot/commits/7532967c13f3fe52094429a1957060702c8b7899" title="2020-09-26T12:54:53.000+02:00" target="_blank">7532967c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ict-bot" title="Apprentissage CFC développement d'applications 2014 - Modules">/ict-bot</a></strong></div>
+          <pre>[bump] 0.0.5 + telebot update</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-idevfsd/testBasicAuth/commits/c630a86107e15916f19cf0b250c8ffdf593e6bc7" title="2020-09-23T16:22:30.000+02:00" target="_blank">c630a861</a><a href="https://github.com/epfl-idevfsd">@epfl-idevfsd</a><a href="https://github.com/epfl-idevfsd/testBasicAuth" title="null">/testBasicAuth</a></strong></div>
           <pre>[feature] traefik's listening on port 9999</pre>
@@ -158,16 +163,11 @@ from the alertmanager API.
 now required.
   - bump to version 1.1.7</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/21cbf8ca8f1ebc1ad530ced3ae6c4f66361e0fb9" title="2020-09-11T18:17:46.000+02:00" target="_blank">21cbf8ca</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[feature] both cmd and cmd@botname now work</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 25 Sep 2020 13:41:49 GMT</small>
+<small>⏰ Updated on Mon, 28 Sep 2020 13:41:27 GMT</small>
 </td>
 </tr>
 </tfoot>
