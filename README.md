@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/vanila-io/wireflow" title="Wireflow - user flow chart real-time collaborative tool" target="_blank">wireflow</a>&nbsp;<a href="https://github.com/vanila-io/wireflow" title="Wireflow - user flow chart real-time collaborative tool" target="_blank"><img src="https://img.shields.io/github/stars/vanila-io/wireflow?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ggerganov/wave-share" title="Serverless, peer-to-peer, local file sharing through sound" target="_blank">wave-share</a>&nbsp;<a href="https://github.com/ggerganov/wave-share" title="Serverless, peer-to-peer, local file sharing through sound" target="_blank"><img src="https://img.shields.io/github/stars/ggerganov/wave-share?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank">solid</a>&nbsp;<a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank"><img src="https://img.shields.io/github/stars/ryansolid/solid?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3.0" target="_blank">vue-next</a>&nbsp;<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3.0" target="_blank"><img src="https://img.shields.io/github/stars/vuejs/vue-next?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank">remodeling</a>&nbsp;<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank"><img src="https://img.shields.io/github/stars/WardCunningham/remodeling?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/skeeto/endlessh" title="SSH tarpit that slowly sends an endless banner" target="_blank">endlessh</a>&nbsp;<a href="https://github.com/skeeto/endlessh" title="SSH tarpit that slowly sends an endless banner" target="_blank"><img src="https://img.shields.io/github/stars/skeeto/endlessh?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank">ingress-nginx</a>&nbsp;<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes/ingress-nginx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank">awesome-falsehood</a>&nbsp;<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank"><img src="https://img.shields.io/github/stars/kdeldycke/awesome-falsehood?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/inCaller/prometheus_bot" title="Telegram bot for prometheus alerting" target="_blank">prometheus_bot</a>&nbsp;<a href="https://github.com/inCaller/prometheus_bot" title="Telegram bot for prometheus alerting" target="_blank"><img src="https://img.shields.io/github/stars/inCaller/prometheus_bot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter" target="_blank">GitlabStatisticsPrometheusExporter</a>&nbsp;<a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/GitlabStatisticsPrometheusExporter?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility" target="_blank">duf</a>&nbsp;<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility" target="_blank"><img src="https://img.shields.io/github/stars/muesli/duf?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/reHackable/awesome-reMarkable" title="A curated list of projects related to the reMarkable tablet" target="_blank">awesome-reMarkable</a>&nbsp;<a href="https://github.com/reHackable/awesome-reMarkable" title="A curated list of projects related to the reMarkable tablet" target="_blank"><img src="https://img.shields.io/github/stars/reHackable/awesome-reMarkable?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/ggerganov/wave-share" title="Serverless, peer-to-peer, local file sharing through sound" target="_blank">wave-share</a>&nbsp;<a href="https://github.com/ggerganov/wave-share" title="Serverless, peer-to-peer, local file sharing through sound" target="_blank"><img src="https://img.shields.io/github/stars/ggerganov/wave-share?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank">solid</a>&nbsp;<a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank"><img src="https://img.shields.io/github/stars/ryansolid/solid?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3.0" target="_blank">vue-next</a>&nbsp;<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3.0" target="_blank"><img src="https://img.shields.io/github/stars/vuejs/vue-next?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank">remodeling</a>&nbsp;<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank"><img src="https://img.shields.io/github/stars/WardCunningham/remodeling?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/skeeto/endlessh" title="SSH tarpit that slowly sends an endless banner" target="_blank">endlessh</a>&nbsp;<a href="https://github.com/skeeto/endlessh" title="SSH tarpit that slowly sends an endless banner" target="_blank"><img src="https://img.shields.io/github/stars/skeeto/endlessh?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank">ingress-nginx</a>&nbsp;<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes/ingress-nginx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank">awesome-falsehood</a>&nbsp;<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank"><img src="https://img.shields.io/github/stars/kdeldycke/awesome-falsehood?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/inCaller/prometheus_bot" title="Telegram bot for prometheus alerting" target="_blank">prometheus_bot</a>&nbsp;<a href="https://github.com/inCaller/prometheus_bot" title="Telegram bot for prometheus alerting" target="_blank"><img src="https://img.shields.io/github/stars/inCaller/prometheus_bot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter" target="_blank">GitlabStatisticsPrometheusExporter</a>&nbsp;<a href="https://github.com/epfl-dojo/GitlabStatisticsPrometheusExporter" title="Gitlab Statistics Prometheus Exporter" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/GitlabStatisticsPrometheusExporter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/iggredible/Learn-Vim" title="A book for learning the Vim editor the smart way." target="_blank">Learn-Vim</a>&nbsp;<a href="https://github.com/iggredible/Learn-Vim" title="A book for learning the Vim editor the smart way." target="_blank"><img src="https://img.shields.io/github/stars/iggredible/Learn-Vim?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -167,7 +167,7 @@ now required.
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 29 Sep 2020 13:41:42 GMT</small>
+<small>⏰ Updated on Wed, 30 Sep 2020 13:42:32 GMT</small>
 </td>
 </tr>
 </tfoot>
