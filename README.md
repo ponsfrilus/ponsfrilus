@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 10 years and 8 months.
+    <br />Apparently, I'm hanging around on GitHub since 10 years and 9 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ict-bot/commits/d12700e089ddcbbfada0a662a854539e039cfa40" title="2020-10-01T12:08:35.000+02:00" target="_blank">d12700e0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ict-bot" title="Apprentissage CFC développement d'applications 2014 - Modules">/ict-bot</a></strong></div>
+          <pre>Merge pull request #40 from TacticsCH/fix/issue37
+
+Fix/issue37</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/ict-bot/commits/7532967c13f3fe52094429a1957060702c8b7899" title="2020-09-26T12:54:53.000+02:00" target="_blank">7532967c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ict-bot" title="Apprentissage CFC développement d'applications 2014 - Modules">/ict-bot</a></strong></div>
           <pre>[bump] 0.0.5 + telebot update</pre>
         </td>
@@ -150,24 +157,11 @@ and fix the Host() rule to match everything.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/6aad599977b5beed689d218bcd5e7261a4e4aef9" title="2020-09-11T19:50:22.000+02:00" target="_blank">6aad5999</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
           <pre>[feature] AM_URL as env var</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/fbee231b5cf04cce61a880190706f330b5fe289d" title="2020-09-11T19:42:42.000+02:00" target="_blank">fbee231b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[feature] alertmanager API
-
-Bot's commands `/status` and `/alerts` are now answering with basic info 
-from the alertmanager API.
-
-  - add the alertmanager.js library
-  - both env variables `AM_BASIC_AUTH_USER` & `AM_BASIC_AUTH_PASS` are 
-now required.
-  - bump to version 1.1.7</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 30 Sep 2020 13:42:32 GMT</small>
+<small>⏰ Updated on Thu, 01 Oct 2020 13:41:38 GMT</small>
 </td>
 </tr>
 </tfoot>
