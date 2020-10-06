@@ -103,72 +103,69 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ict-bot/commits/caf13b6355a19ddba54368e3f0f6aa3b01550c6f" title="2020-10-01T17:29:42.000+02:00" target="_blank">caf13b63</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ict-bot" title="Apprentissage CFC développement d'applications 2014 - Modules">/ict-bot</a></strong></div>
-          <pre>[feature] env var renamed to `ICT_bOT_TOKEN`
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8162b20479c4e73462a39eafdbd31338f15e8eca" title="2020-10-06T09:35:06.000+02:00" target="_blank">8162b204</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #347 from epfl-si/feature/backup-job-template
 
-This avoid to use another Telegram bot Token for this bot...
+[feature] backup job template</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/51449c20a168a0656fede538d3b8e00d2cf2a8c6" title="2020-10-06T09:34:19.000+02:00" target="_blank">51449c20</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Update ansible/roles/awx-instance/tasks/job-templates.yml
 
-Also, commanted commands in Dockerfile are now updated with `$(jq -r 
-".version" package.json)` to avoid to think about version number.</pre>
+Co-authored-by: jdelasoie <julien.delasoie@epfl.ch></pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ict-bot/commits/b9e1f44836d98b27b6947994c3facfda17e482f1" title="2020-10-01T16:01:44.000+02:00" target="_blank">b9e1f448</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ict-bot" title="Apprentissage CFC développement d'applications 2014 - Modules">/ict-bot</a></strong></div>
-          <pre>Merge pull request #41 from TacticsCH/fix/issue32
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/defd528c4b12a056074a78b12af5a419dca2aa4b" title="2020-10-06T08:26:40.000+02:00" target="_blank">defd528c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] `awx.job-template.backups` tag</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/2d8e9aeea372c22972e7c9c08473547b6f0bcdb1" title="2020-10-05T18:26:49.000+02:00" target="_blank">2d8e9aee</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>Merge pull request #32 from epfl-si/dev
 
-[FEAT.] Added github source link on '/start' and '/info'</pre>
+Bot, alerting and more dashboards</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ict-bot/commits/d12700e089ddcbbfada0a662a854539e039cfa40" title="2020-10-01T12:08:35.000+02:00" target="_blank">d12700e0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ict-bot" title="Apprentissage CFC développement d'applications 2014 - Modules">/ict-bot</a></strong></div>
-          <pre>Merge pull request #40 from TacticsCH/fix/issue37
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/247c40c5e4148d072b7913db833283bb7c9bcea0" title="2020-10-05T18:25:08.000+02:00" target="_blank">247c40c5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[fix] honeycomb instant value and colors</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/407e80d076cb713c12997743f8ded97ad9cbac0b" title="2020-10-05T10:57:53.000+02:00" target="_blank">407e80d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[dashboard] wordpress details</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/4d975af8df7287d35c2c565dd15599d9346418a5" title="2020-10-02T17:59:19.000+02:00" target="_blank">4d975af8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] schedule nightly backups at 03:03:03...
 
-Fix/issue37</pre>
+...for now only on subdomains-lite.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ict-bot/commits/7532967c13f3fe52094429a1957060702c8b7899" title="2020-09-26T12:54:53.000+02:00" target="_blank">7532967c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ict-bot" title="Apprentissage CFC développement d'applications 2014 - Modules">/ict-bot</a></strong></div>
-          <pre>[bump] 0.0.5 + telebot update</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-idevfsd/testBasicAuth/commits/c630a86107e15916f19cf0b250c8ffdf593e6bc7" title="2020-09-23T16:22:30.000+02:00" target="_blank">c630a861</a><a href="https://github.com/epfl-idevfsd">@epfl-idevfsd</a><a href="https://github.com/epfl-idevfsd/testBasicAuth" title="null">/testBasicAuth</a></strong></div>
-          <pre>[feature] traefik's listening on port 9999</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6059d1f9be535b07a7fc5094f7a63085070d52cd" title="2020-09-23T13:07:17.000+02:00" target="_blank">6059d1f9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #342 from epfl-si/fix/env-plugins-secrets
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/34b4081680602ea905d86e9033d428ace914b71f" title="2020-10-02T17:36:23.000+02:00" target="_blank">34b40816</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] job template for backups
 
-[fix] Ensure wp plugin secrets can be read from AWX</pre>
+Configure the job for backing-up wordpresses from AWX.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-idevfsd/testBasicAuth/commits/5746568306d472811bcca6b1967e70c4de508abf" title="2020-09-23T12:15:22.000+02:00" target="_blank">57465683</a><a href="https://github.com/epfl-idevfsd">@epfl-idevfsd</a><a href="https://github.com/epfl-idevfsd/testBasicAuth" title="null">/testBasicAuth</a></strong></div>
-          <pre>[doc] README.md</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/025bc85b2a0d1853b446dbd410a29586bf768240" title="2020-10-01T21:36:54.000+02:00" target="_blank">025bc85b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[fix] honeycomb sorting</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-idevfsd/testBasicAuth/commits/19aa9631ac2c402d65bd40cb56373cf6592b8738" title="2020-09-23T12:08:39.000+02:00" target="_blank">19aa9631</a><a href="https://github.com/epfl-idevfsd">@epfl-idevfsd</a><a href="https://github.com/epfl-idevfsd/testBasicAuth" title="null">/testBasicAuth</a></strong></div>
-          <pre>[feature] BasicAuth for traefik
-
-and fix the Host() rule to match everything.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-idevfsd/testBasicAuth/commits/af3bee92e094aa363ad7320f06d73f32c51639e5" title="2020-09-23T11:19:45.000+02:00" target="_blank">af3bee92</a><a href="https://github.com/epfl-idevfsd">@epfl-idevfsd</a><a href="https://github.com/epfl-idevfsd/testBasicAuth" title="null">/testBasicAuth</a></strong></div>
-          <pre>[init] (WIP) nginx and traefik attempts</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ac17da31781830bf1e77ce5646c2607167da91c6" title="2020-09-18T16:55:57.000+02:00" target="_blank">ac17da31</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] Ensure wp plugin secrets can be read from AWX</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/907ef6230102c2fe9173e6ed9401ffcaa279b580" title="2020-10-01T19:05:11.000+02:00" target="_blank">907ef623</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[quickfix] honeycomb panel's fixed column</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 05 Oct 2020 13:41:33 GMT</small>
+<small>⏰ Updated on Tue, 06 Oct 2020 13:41:35 GMT</small>
 </td>
 </tr>
 </tfoot>
