@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/d4rkr41n/GithubBible/commits/3afc4a79f89c98b8b2191c578807e939dfa6997e" title="2020-10-07T06:24:31.000-05:00" target="_blank">3afc4a79</a><a href="https://github.com/d4rkr41n">@d4rkr41n</a><a href="https://github.com/d4rkr41n/GithubBible" title="null">/GithubBible</a></strong></div>
+          <pre>Praise Be</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/d4rkr41n/GithubBible/commits/413e1cf4d77558ae444bbab519727200b6515710" title="2020-10-07T06:24:27.000-05:00" target="_blank">413e1cf4</a><a href="https://github.com/d4rkr41n">@d4rkr41n</a><a href="https://github.com/d4rkr41n/GithubBible" title="null">/GithubBible</a></strong></div>
+          <pre>Praise Be</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8162b20479c4e73462a39eafdbd31338f15e8eca" title="2020-10-06T09:35:06.000+02:00" target="_blank">8162b204</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #347 from epfl-si/feature/backup-job-template
 
@@ -151,21 +161,11 @@ Bot, alerting and more dashboards</pre>
 
 Configure the job for backing-up wordpresses from AWX.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/025bc85b2a0d1853b446dbd410a29586bf768240" title="2020-10-01T21:36:54.000+02:00" target="_blank">025bc85b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[fix] honeycomb sorting</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/907ef6230102c2fe9173e6ed9401ffcaa279b580" title="2020-10-01T19:05:11.000+02:00" target="_blank">907ef623</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[quickfix] honeycomb panel's fixed column</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 06 Oct 2020 13:41:35 GMT</small>
+<small>⏰ Updated on Wed, 07 Oct 2020 13:41:46 GMT</small>
 </td>
 </tr>
 </tfoot>
