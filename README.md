@@ -165,7 +165,7 @@ Configure the job for backing-up wordpresses from AWX.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 09 Oct 2020 13:41:48 GMT</small>
+<small>⏰ Updated on Mon, 12 Oct 2020 13:41:23 GMT</small>
 </td>
 </tr>
 </tfoot>
