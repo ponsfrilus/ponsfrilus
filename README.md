@@ -103,6 +103,65 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8c0837a02517b3ccc67a478e8dda526ce22e85d7" title="2020-10-13T09:53:43.000+02:00" target="_blank">8c0837a0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #344 from epfl-si/feature/monitoring-of-sites
+
+This pull request lay the foundation for monitoring our wordpresses. It's based on prometheus-wwp.epfl.ch which collect all the metrics.
+
+It includes:
+
+    prometheus-wwp is now acessible to the world behind a basic authentification (welcome traefik proxy in the pod) (c83e85c).
+
+    Improved roles for ansible -t wp.backup task: when this task in ran, it push data to the pushgateway (538a43d) . Metrics are named restic_* (c83e85c).
+
+    The "prober" container has been improved and provide additional data to the wp_menus:
+
+    its query URL is now /wpprobe instead of /wpmenus (0b3ef16)
+
+    new gauges for site languages (d11b083)
+
+    new metrics for counting languages avalaible in a site (538a43d)
+
+    new metrics for pages (c462c0d)
+
+    logs ouput are now clean and readable.
+
+Please note that "unmanaged" websites are exclued (c462c0d).
+
+More globally, we've tried to always have the url and wp_env label in the metrics. Please keep that in mind if adding more metrics in the future. It's useful because of the templating of Grafana dashboards.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/18b784c4376622f9c440b8a418e70a4f6f0cbe4b" title="2020-10-13T09:51:11.000+02:00" target="_blank">18b784c4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] Use eyaml for prometheus secrets</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/saas/commits/5f66732106bb26d70bf61d14398c03083166dfb5" title="2020-10-12T16:10:32.000+02:00" target="_blank">5f667321</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/saas" title="Screenshot as a Service">/saas</a></strong></div>
+          <pre>[init] poc</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6c8f5a937fdff914fe83057edafa0c2e16e6d77a" title="2020-10-12T10:26:53.000+02:00" target="_blank">6c8f5a93</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[rename] monitoring-menus-probe to monitoring-wpprobe</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/54d56b1adeac069e5318cc4997ce0d1bebd54c43" title="2020-10-12T10:19:50.000+02:00" target="_blank">54d56b1a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[bump] v0.2.0 monitoring wpprobe</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/af7034b3c6b2b15d2883bd115dc41ebdbb572a70" title="2020-10-12T10:00:23.000+02:00" target="_blank">af7034b3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] logging improved</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c1ea444bcaebc8b661261be8b4430b3ac83ed8ee" title="2020-10-12T09:47:19.000+02:00" target="_blank">c1ea444b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge branch 'master' into feature/monitoring-of-sites</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/d4rkr41n/GithubBible/commits/3afc4a79f89c98b8b2191c578807e939dfa6997e" title="2020-10-07T06:24:31.000-05:00" target="_blank">3afc4a79</a><a href="https://github.com/d4rkr41n">@d4rkr41n</a><a href="https://github.com/d4rkr41n/GithubBible" title="null">/GithubBible</a></strong></div>
           <pre>Praise Be</pre>
         </td>
@@ -113,59 +172,18 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8162b20479c4e73462a39eafdbd31338f15e8eca" title="2020-10-06T09:35:06.000+02:00" target="_blank">8162b204</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #347 from epfl-si/feature/backup-job-template
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/e9fef86883636872e3f8fbc4c0e2bc9477c652a5" title="2020-10-06T10:45:37.000+02:00" target="_blank">e9fef868</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] configurator
 
-[feature] backup job template</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/51449c20a168a0656fede538d3b8e00d2cf2a8c6" title="2020-10-06T09:34:19.000+02:00" target="_blank">51449c20</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Update ansible/roles/awx-instance/tasks/job-templates.yml
-
-Co-authored-by: jdelasoie <julien.delasoie@epfl.ch></pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/defd528c4b12a056074a78b12af5a419dca2aa4b" title="2020-10-06T08:26:40.000+02:00" target="_blank">defd528c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] `awx.job-template.backups` tag</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/2d8e9aeea372c22972e7c9c08473547b6f0bcdb1" title="2020-10-05T18:26:49.000+02:00" target="_blank">2d8e9aee</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>Merge pull request #32 from epfl-si/dev
-
-Bot, alerting and more dashboards</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/247c40c5e4148d072b7913db833283bb7c9bcea0" title="2020-10-05T18:25:08.000+02:00" target="_blank">247c40c5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[fix] honeycomb instant value and colors</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/407e80d076cb713c12997743f8ded97ad9cbac0b" title="2020-10-05T10:57:53.000+02:00" target="_blank">407e80d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[dashboard] wordpress details</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/4d975af8df7287d35c2c565dd15599d9346418a5" title="2020-10-02T17:59:19.000+02:00" target="_blank">4d975af8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] schedule nightly backups at 03:03:03...
-
-...for now only on subdomains-lite.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/34b4081680602ea905d86e9033d428ace914b71f" title="2020-10-02T17:36:23.000+02:00" target="_blank">34b40816</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] job template for backups
-
-Configure the job for backing-up wordpresses from AWX.</pre>
+- Refactoring
+- Add starting log
+- Add frequency as variable</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 12 Oct 2020 13:41:23 GMT</small>
+<small>⏰ Updated on Tue, 13 Oct 2020 13:41:48 GMT</small>
 </td>
 </tr>
 </tfoot>
