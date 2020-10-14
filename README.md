@@ -103,6 +103,28 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/aa33ade869a3f23c2295e5a3fa1821cadb6619fe" title="2020-10-13T16:14:36.000+02:00" target="_blank">aa33ade8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #352 from epfl-si/feature/awx-backups
+
+[feature] Schedule backups on AWX
+
+This fixes the changes due to the removal of the backup playbook and set a scheduled backup job every night at 03:03:03 that backups all wordpresses.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6aebc0ae71c8d8cc14835fc2834af29101745824" title="2020-10-13T16:11:47.000+02:00" target="_blank">6aebc0ae</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] use absolute path in restics commands and excludes
+
+That fix the huge backup size of instance with sub-instances (e.g. 
+research) that can hit more that 15Go...</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f1137017173767f0c7c77b0402def10c7561cd59" title="2020-10-13T12:46:00.000+02:00" target="_blank">f1137017</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] Adapt config of Job Template</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8c0837a02517b3ccc67a478e8dda526ce22e85d7" title="2020-10-13T09:53:43.000+02:00" target="_blank">8c0837a0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #344 from epfl-si/feature/monitoring-of-sites
 
@@ -160,30 +182,11 @@ More globally, we've tried to always have the url and wp_env label in the metric
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c1ea444bcaebc8b661261be8b4430b3ac83ed8ee" title="2020-10-12T09:47:19.000+02:00" target="_blank">c1ea444b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge branch 'master' into feature/monitoring-of-sites</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/d4rkr41n/GithubBible/commits/3afc4a79f89c98b8b2191c578807e939dfa6997e" title="2020-10-07T06:24:31.000-05:00" target="_blank">3afc4a79</a><a href="https://github.com/d4rkr41n">@d4rkr41n</a><a href="https://github.com/d4rkr41n/GithubBible" title="null">/GithubBible</a></strong></div>
-          <pre>Praise Be</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/d4rkr41n/GithubBible/commits/413e1cf4d77558ae444bbab519727200b6515710" title="2020-10-07T06:24:27.000-05:00" target="_blank">413e1cf4</a><a href="https://github.com/d4rkr41n">@d4rkr41n</a><a href="https://github.com/d4rkr41n/GithubBible" title="null">/GithubBible</a></strong></div>
-          <pre>Praise Be</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/e9fef86883636872e3f8fbc4c0e2bc9477c652a5" title="2020-10-06T10:45:37.000+02:00" target="_blank">e9fef868</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] configurator
-
-- Refactoring
-- Add starting log
-- Add frequency as variable</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 13 Oct 2020 13:41:48 GMT</small>
+<small>⏰ Updated on Wed, 14 Oct 2020 13:41:24 GMT</small>
 </td>
 </tr>
 </tfoot>
