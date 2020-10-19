@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/865917f2226ea76587b16d1b9fc471f7cefb9efe" title="2020-10-19T14:00:15.000+02:00" target="_blank">865917f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[doc] schema added</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/aa33ade869a3f23c2295e5a3fa1821cadb6619fe" title="2020-10-13T16:14:36.000+02:00" target="_blank">aa33ade8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #352 from epfl-si/feature/awx-backups
 
@@ -177,16 +182,11 @@ More globally, we've tried to always have the url and wp_env label in the metric
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/af7034b3c6b2b15d2883bd115dc41ebdbb572a70" title="2020-10-12T10:00:23.000+02:00" target="_blank">af7034b3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[feature] logging improved</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c1ea444bcaebc8b661261be8b4430b3ac83ed8ee" title="2020-10-12T09:47:19.000+02:00" target="_blank">c1ea444b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge branch 'master' into feature/monitoring-of-sites</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 16 Oct 2020 13:41:24 GMT</small>
+<small>⏰ Updated on Mon, 19 Oct 2020 13:41:29 GMT</small>
 </td>
 </tr>
 </tfoot>
