@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/secretGeek/html_wysiwyg" title="A truly naked, brutalist html quine" target="_blank">html_wysiwyg</a>&nbsp;<a href="https://github.com/secretGeek/html_wysiwyg" title="A truly naked, brutalist html quine" target="_blank"><img src="https://img.shields.io/github/stars/secretGeek/html_wysiwyg?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/timescale/promscale" title="An open-source analytical platform for Prometheus metrics 🚀" target="_blank">promscale</a>&nbsp;<a href="https://github.com/timescale/promscale" title="An open-source analytical platform for Prometheus metrics 🚀" target="_blank"><img src="https://img.shields.io/github/stars/timescale/promscale?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vanila-io/wireflow" title="Wireflow - user flow chart real-time collaborative tool" target="_blank">wireflow</a>&nbsp;<a href="https://github.com/vanila-io/wireflow" title="Wireflow - user flow chart real-time collaborative tool" target="_blank"><img src="https://img.shields.io/github/stars/vanila-io/wireflow?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ggerganov/wave-share" title="Serverless, peer-to-peer, local file sharing through sound" target="_blank">wave-share</a>&nbsp;<a href="https://github.com/ggerganov/wave-share" title="Serverless, peer-to-peer, local file sharing through sound" target="_blank"><img src="https://img.shields.io/github/stars/ggerganov/wave-share?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank">solid</a>&nbsp;<a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank"><img src="https://img.shields.io/github/stars/ryansolid/solid?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3.0" target="_blank">vue-next</a>&nbsp;<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3.0" target="_blank"><img src="https://img.shields.io/github/stars/vuejs/vue-next?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank">remodeling</a>&nbsp;<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank"><img src="https://img.shields.io/github/stars/WardCunningham/remodeling?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/skeeto/endlessh" title="SSH tarpit that slowly sends an endless banner" target="_blank">endlessh</a>&nbsp;<a href="https://github.com/skeeto/endlessh" title="SSH tarpit that slowly sends an endless banner" target="_blank"><img src="https://img.shields.io/github/stars/skeeto/endlessh?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank">ingress-nginx</a>&nbsp;<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes/ingress-nginx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank">awesome-falsehood</a>&nbsp;<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank"><img src="https://img.shields.io/github/stars/kdeldycke/awesome-falsehood?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank">gitlabot</a>&nbsp;<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/gitlabot?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,40 +97,6 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/timescale/promscale" title="An open-source analytical platform for Prometheus metrics 🚀" target="_blank">promscale</a>&nbsp;<a href="https://github.com/timescale/promscale" title="An open-source analytical platform for Prometheus metrics 🚀" target="_blank"><img src="https://img.shields.io/github/stars/timescale/promscale?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vanila-io/wireflow" title="Wireflow - user flow chart real-time collaborative tool" target="_blank">wireflow</a>&nbsp;<a href="https://github.com/vanila-io/wireflow" title="Wireflow - user flow chart real-time collaborative tool" target="_blank"><img src="https://img.shields.io/github/stars/vanila-io/wireflow?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ggerganov/wave-share" title="Serverless, peer-to-peer, local file sharing through sound" target="_blank">wave-share</a>&nbsp;<a href="https://github.com/ggerganov/wave-share" title="Serverless, peer-to-peer, local file sharing through sound" target="_blank"><img src="https://img.shields.io/github/stars/ggerganov/wave-share?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank">solid</a>&nbsp;<a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank"><img src="https://img.shields.io/github/stars/ryansolid/solid?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3.0" target="_blank">vue-next</a>&nbsp;<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3.0" target="_blank"><img src="https://img.shields.io/github/stars/vuejs/vue-next?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank">remodeling</a>&nbsp;<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank"><img src="https://img.shields.io/github/stars/WardCunningham/remodeling?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/skeeto/endlessh" title="SSH tarpit that slowly sends an endless banner" target="_blank">endlessh</a>&nbsp;<a href="https://github.com/skeeto/endlessh" title="SSH tarpit that slowly sends an endless banner" target="_blank"><img src="https://img.shields.io/github/stars/skeeto/endlessh?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank">ingress-nginx</a>&nbsp;<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes/ingress-nginx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank">awesome-falsehood</a>&nbsp;<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank"><img src="https://img.shields.io/github/stars/kdeldycke/awesome-falsehood?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/inCaller/prometheus_bot" title="Telegram bot for prometheus alerting" target="_blank">prometheus_bot</a>&nbsp;<a href="https://github.com/inCaller/prometheus_bot" title="Telegram bot for prometheus alerting" target="_blank"><img src="https://img.shields.io/github/stars/inCaller/prometheus_bot?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
@@ -108,85 +108,61 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/aa33ade869a3f23c2295e5a3fa1821cadb6619fe" title="2020-10-13T16:14:36.000+02:00" target="_blank">aa33ade8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #352 from epfl-si/feature/awx-backups
-
-[feature] Schedule backups on AWX
-
-This fixes the changes due to the removal of the backup playbook and set a scheduled backup job every night at 03:03:03 that backups all wordpresses.</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/84790cc0e49bc24bdac621b468e97b62c2bc33a3" title="2020-10-18T11:19:52.000+02:00" target="_blank">84790cc0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] commander renamed</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6aebc0ae71c8d8cc14835fc2834af29101745824" title="2020-10-13T16:11:47.000+02:00" target="_blank">6aebc0ae</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] use absolute path in restics commands and excludes
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/b255379b6b70ad0e61df8765ee2f5b40e24bcc98" title="2020-10-16T15:16:35.000+02:00" target="_blank">b255379b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] regroup monitoring pods
 
-That fix the huge backup size of instance with sub-instances (e.g. 
-research) that can hit more that 15Go...</pre>
+- refactor disk-usage-monitoring.yml into monitoring.yml
+- cronjob openshift object that:
+  1. create srv-disk-usage-report container
+  2. and monitoring disk usage that been called by the former</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f1137017173767f0c7c77b0402def10c7561cd59" title="2020-10-13T12:46:00.000+02:00" target="_blank">f1137017</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] Adapt config of Job Template</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/0eae2553dbcf9dbb13965a003debbebafccad97c" title="2020-10-16T14:45:45.000+02:00" target="_blank">0eae2553</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] new 'expand_asap' filter</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8c0837a02517b3ccc67a478e8dda526ce22e85d7" title="2020-10-13T09:53:43.000+02:00" target="_blank">8c0837a0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #344 from epfl-si/feature/monitoring-of-sites
-
-This pull request lay the foundation for monitoring our wordpresses. It's based on prometheus-wwp.epfl.ch which collect all the metrics.
-
-It includes:
-
-    prometheus-wwp is now acessible to the world behind a basic authentification (welcome traefik proxy in the pod) (c83e85c).
-
-    Improved roles for ansible -t wp.backup task: when this task in ran, it push data to the pushgateway (538a43d) . Metrics are named restic_* (c83e85c).
-
-    The "prober" container has been improved and provide additional data to the wp_menus:
-
-    its query URL is now /wpprobe instead of /wpmenus (0b3ef16)
-
-    new gauges for site languages (d11b083)
-
-    new metrics for counting languages avalaible in a site (538a43d)
-
-    new metrics for pages (c462c0d)
-
-    logs ouput are now clean and readable.
-
-Please note that "unmanaged" websites are exclued (c462c0d).
-
-More globally, we've tried to always have the url and wp_env label in the metrics. Please keep that in mind if adding more metrics in the future. It's useful because of the templating of Grafana dashboards.</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/9880d14670910e2ab90648a877d9a9a186157def" title="2020-10-16T13:59:57.000+02:00" target="_blank">9880d146</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[cosmetics] pretterized</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/18b784c4376622f9c440b8a418e70a4f6f0cbe4b" title="2020-10-13T09:51:11.000+02:00" target="_blank">18b784c4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] Use eyaml for prometheus secrets</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/2265f3a191a7e5366212ff90421b24f8bbf49c9b" title="2020-10-16T13:59:40.000+02:00" target="_blank">2265f3a1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] one POST per instance</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/saas/commits/5f66732106bb26d70bf61d14398c03083166dfb5" title="2020-10-12T16:10:32.000+02:00" target="_blank">5f667321</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/saas" title="Screenshot as a Service">/saas</a></strong></div>
-          <pre>[init] poc</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/50593f5fc11dd2b650caceb1aa392bb28e1a71b2" title="2020-10-16T13:57:50.000+02:00" target="_blank">50593f5f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[refactor] webhook wait for completion
+
+Refactor into class Webhook</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6c8f5a937fdff914fe83057edafa0c2e16e6d77a" title="2020-10-12T10:26:53.000+02:00" target="_blank">6c8f5a93</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[rename] monitoring-menus-probe to monitoring-wpprobe</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/77d59f5c226482157390a94750381634b944378e" title="2020-10-16T11:09:58.000+02:00" target="_blank">77d59f5c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] metrics' type and help added (once)</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/54d56b1adeac069e5318cc4997ce0d1bebd54c43" title="2020-10-12T10:19:50.000+02:00" target="_blank">54d56b1a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[bump] v0.2.0 monitoring wpprobe</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6f6789a7475e4bf604a105e7d8c0c899a2769048" title="2020-10-15T20:59:28.000+02:00" target="_blank">6f6789a7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[cosmetics] imports sorted</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/af7034b3c6b2b15d2883bd115dc41ebdbb572a70" title="2020-10-12T10:00:23.000+02:00" target="_blank">af7034b3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] logging improved</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/a404bd1f88e603ad710479cf1bed8cb9bec9657e" title="2020-10-15T20:59:03.000+02:00" target="_blank">a404bd1f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] parse args opt with commander</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 19 Oct 2020 13:41:29 GMT</small>
+<small>⏰ Updated on Tue, 20 Oct 2020 13:41:57 GMT</small>
 </td>
 </tr>
 </tfoot>
