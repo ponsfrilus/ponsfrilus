@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank">Zettlr</a>&nbsp;<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank"><img src="https://img.shields.io/github/stars/Zettlr/Zettlr?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank">wiki</a>&nbsp;<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank"><img src="https://img.shields.io/github/stars/Requarks/wiki?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank">gitlabot</a>&nbsp;<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/gitlabot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank">kitty</a>&nbsp;<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank"><img src="https://img.shields.io/github/stars/kovidgoyal/kitty?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility" target="_blank">duf</a>&nbsp;<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility" target="_blank"><img src="https://img.shields.io/github/stars/muesli/duf?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank">grapesjs</a>&nbsp;<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank"><img src="https://img.shields.io/github/stars/artf/grapesjs?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank">rg3d</a>&nbsp;<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/mrDIMAS/rg3d?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank">telebot</a>&nbsp;<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank"><img src="https://img.shields.io/github/stars/mullwar/telebot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/material-shell/material-shell" title="A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone." target="_blank">material-shell</a>&nbsp;<a href="https://github.com/material-shell/material-shell" title="A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone." target="_blank"><img src="https://img.shields.io/github/stars/material-shell/material-shell?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/tools-cluster-infra" title="Tools running on the EPFL Tools Cluster ran the gitops way from this repository" target="_blank">tools-cluster-infra</a>&nbsp;<a href="https://github.com/epfl-si/tools-cluster-infra" title="Tools running on the EPFL Tools Cluster ran the gitops way from this repository" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/tools-cluster-infra?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/zim-desktop-wiki/zim-desktop-wiki" title="Main repository of the zim desktop wiki project" target="_blank">zim-desktop-wiki</a>&nbsp;<a href="https://github.com/zim-desktop-wiki/zim-desktop-wiki" title="Main repository of the zim desktop wiki project" target="_blank"><img src="https://img.shields.io/github/stars/zim-desktop-wiki/zim-desktop-wiki?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/secretGeek/html_wysiwyg" title="A truly naked, brutalist html quine" target="_blank">html_wysiwyg</a>&nbsp;<a href="https://github.com/secretGeek/html_wysiwyg" title="A truly naked, brutalist html quine" target="_blank"><img src="https://img.shields.io/github/stars/secretGeek/html_wysiwyg?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank">ingress-nginx</a>&nbsp;<a href="https://github.com/kubernetes/ingress-nginx" title="NGINX Ingress Controller for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes/ingress-nginx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank">awesome-falsehood</a>&nbsp;<a href="https://github.com/kdeldycke/awesome-falsehood" title="😱 Falsehoods Programmers Believe in" target="_blank"><img src="https://img.shields.io/github/stars/kdeldycke/awesome-falsehood?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank">gitlabot</a>&nbsp;<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/gitlabot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank">kitty</a>&nbsp;<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank"><img src="https://img.shields.io/github/stars/kovidgoyal/kitty?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility" target="_blank">duf</a>&nbsp;<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility" target="_blank"><img src="https://img.shields.io/github/stars/muesli/duf?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank">grapesjs</a>&nbsp;<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank"><img src="https://img.shields.io/github/stars/artf/grapesjs?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank">rg3d</a>&nbsp;<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/mrDIMAS/rg3d?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank">telebot</a>&nbsp;<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank"><img src="https://img.shields.io/github/stars/mullwar/telebot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/material-shell/material-shell" title="A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone." target="_blank">material-shell</a>&nbsp;<a href="https://github.com/material-shell/material-shell" title="A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone." target="_blank"><img src="https://img.shields.io/github/stars/material-shell/material-shell?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/tools-cluster-infra" title="Tools running on the EPFL Tools Cluster ran the gitops way from this repository" target="_blank">tools-cluster-infra</a>&nbsp;<a href="https://github.com/epfl-si/tools-cluster-infra" title="Tools running on the EPFL Tools Cluster ran the gitops way from this repository" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/tools-cluster-infra?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/FXinnovation/alertmanager-webhook-servicenow" title="A Prometheus AlertManager webhook receiver that manages ServiceNow incidents from alerts" target="_blank">alertmanager-webhook-servicenow</a>&nbsp;<a href="https://github.com/FXinnovation/alertmanager-webhook-servicenow" title="A Prometheus AlertManager webhook receiver that manages ServiceNow incidents from alerts" target="_blank"><img src="https://img.shields.io/github/stars/FXinnovation/alertmanager-webhook-servicenow?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hasura/graphql-engine" title="Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events." target="_blank">graphql-engine</a>&nbsp;<a href="https://github.com/hasura/graphql-engine" title="Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events." target="_blank"><img src="https://img.shields.io/github/stars/hasura/graphql-engine?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -162,7 +162,7 @@ Refactor into class Webhook</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 20 Oct 2020 13:41:57 GMT</small>
+<small>⏰ Updated on Wed, 21 Oct 2020 13:42:03 GMT</small>
 </td>
 </tr>
 </tfoot>
