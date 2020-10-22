@@ -103,6 +103,18 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/5ca362d4a23a33cb81e491b91cf135fc6b241fca" title="2020-10-22T12:59:34.000+02:00" target="_blank">5ca362d4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>Merge pull request #48 from epfl-si/fix/default-install
+
+[fix] make up workflow</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/70efcc0cc29f6966f167ed041545812df17ea6ca" title="2020-10-22T12:55:00.000+02:00" target="_blank">70efcc0c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] don't over symlink</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/865917f2226ea76587b16d1b9fc471f7cefb9efe" title="2020-10-19T14:00:15.000+02:00" target="_blank">865917f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
           <pre>[doc] schema added</pre>
         </td>
@@ -148,21 +160,11 @@ Refactor into class Webhook</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/77d59f5c226482157390a94750381634b944378e" title="2020-10-16T11:09:58.000+02:00" target="_blank">77d59f5c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[feature] metrics' type and help added (once)</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6f6789a7475e4bf604a105e7d8c0c899a2769048" title="2020-10-15T20:59:28.000+02:00" target="_blank">6f6789a7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[cosmetics] imports sorted</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/a404bd1f88e603ad710479cf1bed8cb9bec9657e" title="2020-10-15T20:59:03.000+02:00" target="_blank">a404bd1f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] parse args opt with commander</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 21 Oct 2020 13:42:03 GMT</small>
+<small>⏰ Updated on Thu, 22 Oct 2020 13:41:56 GMT</small>
 </td>
 </tr>
 </tfoot>
