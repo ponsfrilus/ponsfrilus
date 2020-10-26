@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/51217ac3e371425dc55ea7e4246339fc504311a3" title="2020-10-23T17:39:32.000+02:00" target="_blank">51217ac3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #368 from epfl-si/fix/new-wp-site
+
+[fix] ensure db_host is known to both new and old site</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/5ca362d4a23a33cb81e491b91cf135fc6b241fca" title="2020-10-22T12:59:34.000+02:00" target="_blank">5ca362d4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>Merge pull request #48 from epfl-si/fix/default-install
 
@@ -112,6 +119,11 @@
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/70efcc0cc29f6966f167ed041545812df17ea6ca" title="2020-10-22T12:55:00.000+02:00" target="_blank">70efcc0c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[fix] don't over symlink</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8c97f4ad6b86db894f3ff2abf9e2e314fb35bc18" title="2020-10-22T12:36:11.000+02:00" target="_blank">8c97f4ad</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] ensure db_host is known to both new and old site</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -148,23 +160,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/2265f3a191a7e5366212ff90421b24f8bbf49c9b" title="2020-10-16T13:59:40.000+02:00" target="_blank">2265f3a1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[fix] one POST per instance</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/50593f5fc11dd2b650caceb1aa392bb28e1a71b2" title="2020-10-16T13:57:50.000+02:00" target="_blank">50593f5f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[refactor] webhook wait for completion
-
-Refactor into class Webhook</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/77d59f5c226482157390a94750381634b944378e" title="2020-10-16T11:09:58.000+02:00" target="_blank">77d59f5c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] metrics' type and help added (once)</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 23 Oct 2020 13:42:07 GMT</small>
+<small>⏰ Updated on Mon, 26 Oct 2020 13:42:24 GMT</small>
 </td>
 </tr>
 </tfoot>
