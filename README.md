@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank">org-roam</a>&nbsp;<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank"><img src="https://img.shields.io/github/stars/org-roam/org-roam?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank">Zettlr</a>&nbsp;<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank"><img src="https://img.shields.io/github/stars/Zettlr/Zettlr?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank">wiki</a>&nbsp;<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank"><img src="https://img.shields.io/github/stars/Requarks/wiki?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank">gitlabot</a>&nbsp;<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/gitlabot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank">kitty</a>&nbsp;<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank"><img src="https://img.shields.io/github/stars/kovidgoyal/kitty?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility" target="_blank">duf</a>&nbsp;<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility" target="_blank"><img src="https://img.shields.io/github/stars/muesli/duf?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank">grapesjs</a>&nbsp;<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank"><img src="https://img.shields.io/github/stars/artf/grapesjs?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank">rg3d</a>&nbsp;<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/mrDIMAS/rg3d?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank">telebot</a>&nbsp;<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank"><img src="https://img.shields.io/github/stars/mullwar/telebot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/material-shell/material-shell" title="A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone." target="_blank">material-shell</a>&nbsp;<a href="https://github.com/material-shell/material-shell" title="A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone." target="_blank"><img src="https://img.shields.io/github/stars/material-shell/material-shell?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/IBM/plex" title="The package of IBM’s typeface, IBM Plex." target="_blank">plex</a>&nbsp;<a href="https://github.com/IBM/plex" title="The package of IBM’s typeface, IBM Plex." target="_blank"><img src="https://img.shields.io/github/stars/IBM/plex?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,18 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank">Zettlr</a>&nbsp;<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank"><img src="https://img.shields.io/github/stars/Zettlr/Zettlr?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank">wiki</a>&nbsp;<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank"><img src="https://img.shields.io/github/stars/Requarks/wiki?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank">gitlabot</a>&nbsp;<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/gitlabot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank">kitty</a>&nbsp;<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank"><img src="https://img.shields.io/github/stars/kovidgoyal/kitty?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility" target="_blank">duf</a>&nbsp;<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility" target="_blank"><img src="https://img.shields.io/github/stars/muesli/duf?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank">grapesjs</a>&nbsp;<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank"><img src="https://img.shields.io/github/stars/artf/grapesjs?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank">rg3d</a>&nbsp;<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/mrDIMAS/rg3d?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank">telebot</a>&nbsp;<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank"><img src="https://img.shields.io/github/stars/mullwar/telebot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/material-shell/material-shell" title="A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone." target="_blank">material-shell</a>&nbsp;<a href="https://github.com/material-shell/material-shell" title="A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone." target="_blank"><img src="https://img.shields.io/github/stars/material-shell/material-shell?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/tools-cluster-infra" title="Tools running on the EPFL Tools Cluster ran the gitops way from this repository" target="_blank">tools-cluster-infra</a>&nbsp;<a href="https://github.com/epfl-si/tools-cluster-infra" title="Tools running on the EPFL Tools Cluster ran the gitops way from this repository" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/tools-cluster-infra?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/db2b14ef93f852c1c21b4ecf1f0ca6e62e036194" title="2020-10-26T17:55:05.000+01:00" target="_blank">db2b14ef</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #372 from epfl-si/doc/README
+
+[doc] A very summary README.md file</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/51217ac3e371425dc55ea7e4246339fc504311a3" title="2020-10-23T17:39:32.000+02:00" target="_blank">51217ac3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #368 from epfl-si/fix/new-wp-site
@@ -155,16 +162,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/9880d14670910e2ab90648a877d9a9a186157def" title="2020-10-16T13:59:57.000+02:00" target="_blank">9880d146</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[cosmetics] pretterized</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/2265f3a191a7e5366212ff90421b24f8bbf49c9b" title="2020-10-16T13:59:40.000+02:00" target="_blank">2265f3a1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] one POST per instance</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 26 Oct 2020 13:42:24 GMT</small>
+<small>⏰ Updated on Tue, 27 Oct 2020 13:43:29 GMT</small>
 </td>
 </tr>
 </tfoot>
