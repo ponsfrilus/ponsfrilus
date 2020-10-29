@@ -103,6 +103,30 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/693a04c649c1aa292e97ff159950299b24029959" title="2020-10-28T16:38:40.000+01:00" target="_blank">693a04c6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge branch 'master' into feature/prober-plugins</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8e4246cc6f406495882c0bd9a46edf51f9cad768" title="2020-10-28T08:54:28.000+01:00" target="_blank">8e4246cc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] app version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/dc272ae39fa38b606617291c9fe59f8af8cf31a8" title="2020-10-28T08:19:35.000+01:00" target="_blank">dc272ae3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] renaming
+
+- wpSite renamed to langGauge
+- epflWPSiteLangs renamed to langName
+- use textdomain instead of plugin.name</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/35ab26c740e8cfdcadc3157c47aef1874d704d5f" title="2020-10-28T08:18:29.000+01:00" target="_blank">35ab26c7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[cosmetic] sort packages</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/db2b14ef93f852c1c21b4ecf1f0ca6e62e036194" title="2020-10-26T17:55:05.000+01:00" target="_blank">db2b14ef</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #372 from epfl-si/doc/README
 
@@ -137,36 +161,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/865917f2226ea76587b16d1b9fc471f7cefb9efe" title="2020-10-19T14:00:15.000+02:00" target="_blank">865917f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
           <pre>[doc] schema added</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/84790cc0e49bc24bdac621b468e97b62c2bc33a3" title="2020-10-18T11:19:52.000+02:00" target="_blank">84790cc0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] commander renamed</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/b255379b6b70ad0e61df8765ee2f5b40e24bcc98" title="2020-10-16T15:16:35.000+02:00" target="_blank">b255379b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] regroup monitoring pods
-
-- refactor disk-usage-monitoring.yml into monitoring.yml
-- cronjob openshift object that:
-  1. create srv-disk-usage-report container
-  2. and monitoring disk usage that been called by the former</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/0eae2553dbcf9dbb13965a003debbebafccad97c" title="2020-10-16T14:45:45.000+02:00" target="_blank">0eae2553</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] new 'expand_asap' filter</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/9880d14670910e2ab90648a877d9a9a186157def" title="2020-10-16T13:59:57.000+02:00" target="_blank">9880d146</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[cosmetics] pretterized</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 28 Oct 2020 13:44:10 GMT</small>
+<small>⏰ Updated on Thu, 29 Oct 2020 13:44:17 GMT</small>
 </td>
 </tr>
 </tfoot>
