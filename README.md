@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 10 years and 9 months.
+    <br />Apparently, I'm hanging around on GitHub since 10 years and 10 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -32,39 +32,8 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank">vim-mario</a>&nbsp;<a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank"><img src="https://img.shields.io/github/stars/rbtnn/vim-mario?style=social" alt="GitHub"></a>
+<a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank">docker-alertmanager-snow-webhook</a>&nbsp;<a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/docker-alertmanager-snow-webhook?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank">org-roam</a>&nbsp;<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank"><img src="https://img.shields.io/github/stars/org-roam/org-roam?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank">Zettlr</a>&nbsp;<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank"><img src="https://img.shields.io/github/stars/Zettlr/Zettlr?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank">wiki</a>&nbsp;<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank"><img src="https://img.shields.io/github/stars/Requarks/wiki?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank">gitlabot</a>&nbsp;<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/gitlabot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank">kitty</a>&nbsp;<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank"><img src="https://img.shields.io/github/stars/kovidgoyal/kitty?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility" target="_blank">duf</a>&nbsp;<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility" target="_blank"><img src="https://img.shields.io/github/stars/muesli/duf?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank">grapesjs</a>&nbsp;<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank"><img src="https://img.shields.io/github/stars/artf/grapesjs?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank">rg3d</a>&nbsp;<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/mrDIMAS/rg3d?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank">telebot</a>&nbsp;<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank"><img src="https://img.shields.io/github/stars/mullwar/telebot?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
 <li>
 <a href="https://github.com/CrowdNotifier/documents" title="null" target="_blank">documents</a>&nbsp;<a href="https://github.com/CrowdNotifier/documents" title="null" target="_blank"><img src="https://img.shields.io/github/stars/CrowdNotifier/documents?style=social" alt="GitHub"></a>
 </li>
@@ -90,10 +59,41 @@
 <a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank">solid</a>&nbsp;<a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank"><img src="https://img.shields.io/github/stars/ryansolid/solid?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3.0" target="_blank">vue-next</a>&nbsp;<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3.0" target="_blank"><img src="https://img.shields.io/github/stars/vuejs/vue-next?style=social" alt="GitHub"></a>
+<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3" target="_blank">vue-next</a>&nbsp;<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3" target="_blank"><img src="https://img.shields.io/github/stars/vuejs/vue-next?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank">vim-mario</a>&nbsp;<a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank"><img src="https://img.shields.io/github/stars/rbtnn/vim-mario?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank">remodeling</a>&nbsp;<a href="https://github.com/WardCunningham/remodeling" title="The original wiki rewritten as a single page application" target="_blank"><img src="https://img.shields.io/github/stars/WardCunningham/remodeling?style=social" alt="GitHub"></a>
+<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank">org-roam</a>&nbsp;<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank"><img src="https://img.shields.io/github/stars/org-roam/org-roam?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank">Zettlr</a>&nbsp;<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank"><img src="https://img.shields.io/github/stars/Zettlr/Zettlr?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank">wiki</a>&nbsp;<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank"><img src="https://img.shields.io/github/stars/Requarks/wiki?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank">gitlabot</a>&nbsp;<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/gitlabot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank">kitty</a>&nbsp;<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank"><img src="https://img.shields.io/github/stars/kovidgoyal/kitty?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility - a better 'df' alternative" target="_blank">duf</a>&nbsp;<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility - a better 'df' alternative" target="_blank"><img src="https://img.shields.io/github/stars/muesli/duf?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank">grapesjs</a>&nbsp;<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank"><img src="https://img.shields.io/github/stars/artf/grapesjs?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank">rg3d</a>&nbsp;<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/mrDIMAS/rg3d?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank">telebot</a>&nbsp;<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank"><img src="https://img.shields.io/github/stars/mullwar/telebot?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -102,6 +102,16 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/f803c0017d425eff46276147144f49092600fde4" title="2020-11-02T14:35:10.000+01:00" target="_blank">f803c001</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="wp-plugin-epfl-coming-soon">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[WIP] initial version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/a6d322d32a0f10fc8da94dca52aa47e120e189dd" title="2020-11-02T14:28:25.000+01:00" target="_blank">a6d322d3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="wp-plugin-epfl-coming-soon">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>Initial commit</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/693a04c649c1aa292e97ff159950299b24029959" title="2020-10-28T16:38:40.000+01:00" target="_blank">693a04c6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge branch 'master' into feature/prober-plugins</pre>
@@ -151,21 +161,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/70efcc0cc29f6966f167ed041545812df17ea6ca" title="2020-10-22T12:55:00.000+02:00" target="_blank">70efcc0c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[fix] don't over symlink</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8c97f4ad6b86db894f3ff2abf9e2e314fb35bc18" title="2020-10-22T12:36:11.000+02:00" target="_blank">8c97f4ad</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] ensure db_host is known to both new and old site</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/865917f2226ea76587b16d1b9fc471f7cefb9efe" title="2020-10-19T14:00:15.000+02:00" target="_blank">865917f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[doc] schema added</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 30 Oct 2020 13:41:27 GMT</small>
+<small>⏰ Updated on Mon, 02 Nov 2020 13:41:28 GMT</small>
 </td>
 </tr>
 </tfoot>
