@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode." target="_blank">wp-plugin-epfl-coming-soon</a>&nbsp;<a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode." target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-plugin-epfl-coming-soon?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank">vim-mario</a>&nbsp;<a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank"><img src="https://img.shields.io/github/stars/rbtnn/vim-mario?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank">org-roam</a>&nbsp;<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank"><img src="https://img.shields.io/github/stars/org-roam/org-roam?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank">Zettlr</a>&nbsp;<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank"><img src="https://img.shields.io/github/stars/Zettlr/Zettlr?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank">wiki</a>&nbsp;<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank"><img src="https://img.shields.io/github/stars/Requarks/wiki?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank">gitlabot</a>&nbsp;<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/gitlabot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank">kitty</a>&nbsp;<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank"><img src="https://img.shields.io/github/stars/kovidgoyal/kitty?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility - a better 'df' alternative" target="_blank">duf</a>&nbsp;<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility - a better 'df' alternative" target="_blank"><img src="https://img.shields.io/github/stars/muesli/duf?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank">grapesjs</a>&nbsp;<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank"><img src="https://img.shields.io/github/stars/artf/grapesjs?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank">rg3d</a>&nbsp;<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/mrDIMAS/rg3d?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank">docker-alertmanager-snow-webhook</a>&nbsp;<a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/docker-alertmanager-snow-webhook?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,109 +97,70 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank">vim-mario</a>&nbsp;<a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank"><img src="https://img.shields.io/github/stars/rbtnn/vim-mario?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank">org-roam</a>&nbsp;<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank"><img src="https://img.shields.io/github/stars/org-roam/org-roam?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank">Zettlr</a>&nbsp;<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank"><img src="https://img.shields.io/github/stars/Zettlr/Zettlr?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank">wiki</a>&nbsp;<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank"><img src="https://img.shields.io/github/stars/Requarks/wiki?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank">gitlabot</a>&nbsp;<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/gitlabot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank">kitty</a>&nbsp;<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank"><img src="https://img.shields.io/github/stars/kovidgoyal/kitty?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility - a better 'df' alternative" target="_blank">duf</a>&nbsp;<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility - a better 'df' alternative" target="_blank"><img src="https://img.shields.io/github/stars/muesli/duf?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank">grapesjs</a>&nbsp;<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank"><img src="https://img.shields.io/github/stars/artf/grapesjs?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank">rg3d</a>&nbsp;<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/mrDIMAS/rg3d?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank">telebot</a>&nbsp;<a href="https://github.com/mullwar/telebot" title="The easy way to write Telegram bots in Node.js" target="_blank"><img src="https://img.shields.io/github/stars/mullwar/telebot?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/f803c0017d425eff46276147144f49092600fde4" title="2020-11-02T14:35:10.000+01:00" target="_blank">f803c001</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="wp-plugin-epfl-coming-soon">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[WIP] initial version</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/c911c1fd0ed6010252e58fe5f8ae4e54588171bb" title="2020-11-03T00:28:18.000+01:00" target="_blank">c911c1fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[doc] freontend screenshot + issues link</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/a6d322d32a0f10fc8da94dca52aa47e120e189dd" title="2020-11-02T14:28:25.000+01:00" target="_blank">a6d322d3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="wp-plugin-epfl-coming-soon">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>Initial commit</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/49b7e06e181b3f7a5285470a289bdd388b63c547" title="2020-11-03T00:20:52.000+01:00" target="_blank">49b7e06e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[doc] features and screenshot</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/693a04c649c1aa292e97ff159950299b24029959" title="2020-10-28T16:38:40.000+01:00" target="_blank">693a04c6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge branch 'master' into feature/prober-plugins</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/60e3f26421a59481443fa6c5d51b0f778b43d1ac" title="2020-11-03T00:11:20.000+01:00" target="_blank">60e3f264</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[feature] theme's maintenance</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8e4246cc6f406495882c0bd9a46edf51f9cad768" title="2020-10-28T08:54:28.000+01:00" target="_blank">8e4246cc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] app version</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/bd206e53cbe7e8f409b59264261024cc0e5d68aa" title="2020-11-02T23:09:09.000+01:00" target="_blank">bd206e53</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[feature] `.maintenance` file and wp-cli check</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/dc272ae39fa38b606617291c9fe59f8af8cf31a8" title="2020-10-28T08:19:35.000+01:00" target="_blank">dc272ae3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] renaming
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/c5a818a1e0d0bc8ab8441a82a31b1fd7de6a1403" title="2020-11-02T22:05:32.000+01:00" target="_blank">c5a818a1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[feature] EPFL Theme and logo from web2018 CDN</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/7402da6e1e286e70c39dbf670ebaedf5c86746f8" title="2020-11-02T21:36:38.000+01:00" target="_blank">7402da6e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[feature] 
 
-- wpSite renamed to langGauge
-- epflWPSiteLangs renamed to langName
-- use textdomain instead of plugin.name</pre>
+- Homogenize the settings names
+- beautify
+- label for all input
+- logic for displaying the coming soon page with a HTML template</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/35ab26c740e8cfdcadc3157c47aef1874d704d5f" title="2020-10-28T08:18:29.000+01:00" target="_blank">35ab26c7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[cosmetic] sort packages</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/055c157130db21d8a3ba2b7168c6810693586020" title="2020-11-02T21:07:39.000+01:00" target="_blank">055c1571</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[fix] limit to on settings option array</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/db2b14ef93f852c1c21b4ecf1f0ca6e62e036194" title="2020-10-26T17:55:05.000+01:00" target="_blank">db2b14ef</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #372 from epfl-si/doc/README
-
-[doc] A very summary README.md file</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/1c27ba19ae634f5e45637f20b9b3da21f0c5d342" title="2020-11-02T18:14:05.000+01:00" target="_blank">1c27ba19</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[feature] add wp_editor</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/51217ac3e371425dc55ea7e4246339fc504311a3" title="2020-10-23T17:39:32.000+02:00" target="_blank">51217ac3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #368 from epfl-si/fix/new-wp-site
-
-[fix] ensure db_host is known to both new and old site</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/5b00851e331261e6f53842f5185ad06a98847172" title="2020-11-02T15:07:58.000+01:00" target="_blank">5b00851e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[WIP] better comments</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/5ca362d4a23a33cb81e491b91cf135fc6b241fca" title="2020-10-22T12:59:34.000+02:00" target="_blank">5ca362d4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>Merge pull request #48 from epfl-si/fix/default-install
-
-[fix] make up workflow</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/70efcc0cc29f6966f167ed041545812df17ea6ca" title="2020-10-22T12:55:00.000+02:00" target="_blank">70efcc0c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] don't over symlink</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/4c0037829fa0193e45858f363a7b04aceeac70a2" title="2020-11-02T15:06:24.000+01:00" target="_blank">4c003782</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[WIP] add HTTP status code option + cleanup</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 02 Nov 2020 13:41:28 GMT</small>
+<small>⏰ Updated on Tue, 03 Nov 2020 13:41:38 GMT</small>
 </td>
 </tr>
 </tfoot>
