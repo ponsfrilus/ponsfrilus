@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/dcfe938c803ed842e26c0b65faacace9f0766795" title="2020-11-05T20:31:47.000+01:00" target="_blank">dcfe938c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[fix] small ocd fixes + bump version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/c911c1fd0ed6010252e58fe5f8ae4e54588171bb" title="2020-11-03T00:28:18.000+01:00" target="_blank">c911c1fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
           <pre>[doc] freontend screenshot + issues link</pre>
         </td>
@@ -151,16 +156,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/5b00851e331261e6f53842f5185ad06a98847172" title="2020-11-02T15:07:58.000+01:00" target="_blank">5b00851e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
           <pre>[WIP] better comments</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/4c0037829fa0193e45858f363a7b04aceeac70a2" title="2020-11-02T15:06:24.000+01:00" target="_blank">4c003782</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[WIP] add HTTP status code option + cleanup</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 05 Nov 2020 13:41:31 GMT</small>
+<small>⏰ Updated on Fri, 06 Nov 2020 13:41:29 GMT</small>
 </td>
 </tr>
 </tfoot>
