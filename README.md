@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/tomnomnom/gron" title="Make JSON greppable!" target="_blank">gron</a>&nbsp;<a href="https://github.com/tomnomnom/gron" title="Make JSON greppable!" target="_blank"><img src="https://img.shields.io/github/stars/tomnomnom/gron?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode." target="_blank">wp-plugin-epfl-coming-soon</a>&nbsp;<a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode." target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-plugin-epfl-coming-soon?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank">grapesjs</a>&nbsp;<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank"><img src="https://img.shields.io/github/stars/artf/grapesjs?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank">rg3d</a>&nbsp;<a href="https://github.com/mrDIMAS/rg3d" title="3d game engine written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/mrDIMAS/rg3d?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank">nyt-2020-election-scraper</a>&nbsp;<a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/alex/nyt-2020-election-scraper?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank">docker-alertmanager-snow-webhook</a>&nbsp;<a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/docker-alertmanager-snow-webhook?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank">solid</a>&nbsp;<a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank"><img src="https://img.shields.io/github/stars/ryansolid/solid?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3" target="_blank">vue-next</a>&nbsp;<a href="https://github.com/vuejs/vue-next" title="Repo for Vue 3" target="_blank"><img src="https://img.shields.io/github/stars/vuejs/vue-next?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -160,7 +160,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 06 Nov 2020 13:41:29 GMT</small>
+<small>⏰ Updated on Mon, 09 Nov 2020 13:42:12 GMT</small>
 </td>
 </tr>
 </tfoot>
