@@ -103,6 +103,45 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/484d4d182561818c87b4031de4504b16b1bd89f9" title="2020-11-11T14:05:31.000+01:00" target="_blank">484d4d18</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[version] bump to v0.0.6</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/192ab7b7b36c06dc9e3ddd251af88a57b4abf997" title="2020-11-11T14:05:18.000+01:00" target="_blank">192ab7b7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[feature] show epfl-coming-soon status in admin bar (backend)
+
+This fixes #3</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/89ac73a38a4f0ab447c522e1dfacdd83a731ddbe" title="2020-11-11T14:04:28.000+01:00" target="_blank">89ac73a3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[feature] better meta tag</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/1506f47fa01462571a2b4d6ddd04be076e313878" title="2020-11-11T09:48:51.000+01:00" target="_blank">1506f47f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>Merge pull request #50 from epfl-si/feature/add-epfl-coming-soon
+
+[feature] add epfl-coming-soon</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/4d77a194bf8972a02ae38e39e78dd191fe26f320" title="2020-11-11T09:43:21.000+01:00" target="_blank">4d77a194</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[version] bump to v0.0.5</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/462763e31b79273d5b9391b541101b7e3af20c64" title="2020-11-11T09:39:01.000+01:00" target="_blank">462763e3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[fix] define base url in the template</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/53691f3d2564e61f5d953f2d9c26a6f0dd273764" title="2020-11-11T09:38:48.000+01:00" target="_blank">53691f3d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[fix] Allow users to login when csp is active</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/dcfe938c803ed842e26c0b65faacace9f0766795" title="2020-11-05T20:31:47.000+01:00" target="_blank">dcfe938c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
           <pre>[fix] small ocd fixes + bump version</pre>
         </td>
@@ -116,51 +155,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/49b7e06e181b3f7a5285470a289bdd388b63c547" title="2020-11-03T00:20:52.000+01:00" target="_blank">49b7e06e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
           <pre>[doc] features and screenshot</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/60e3f26421a59481443fa6c5d51b0f778b43d1ac" title="2020-11-03T00:11:20.000+01:00" target="_blank">60e3f264</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[feature] theme's maintenance</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/bd206e53cbe7e8f409b59264261024cc0e5d68aa" title="2020-11-02T23:09:09.000+01:00" target="_blank">bd206e53</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[feature] `.maintenance` file and wp-cli check</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/c5a818a1e0d0bc8ab8441a82a31b1fd7de6a1403" title="2020-11-02T22:05:32.000+01:00" target="_blank">c5a818a1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[feature] EPFL Theme and logo from web2018 CDN</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/7402da6e1e286e70c39dbf670ebaedf5c86746f8" title="2020-11-02T21:36:38.000+01:00" target="_blank">7402da6e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[feature] 
-
-- Homogenize the settings names
-- beautify
-- label for all input
-- logic for displaying the coming soon page with a HTML template</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/055c157130db21d8a3ba2b7168c6810693586020" title="2020-11-02T21:07:39.000+01:00" target="_blank">055c1571</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[fix] limit to on settings option array</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/1c27ba19ae634f5e45637f20b9b3da21f0c5d342" title="2020-11-02T18:14:05.000+01:00" target="_blank">1c27ba19</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[feature] add wp_editor</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/5b00851e331261e6f53842f5185ad06a98847172" title="2020-11-02T15:07:58.000+01:00" target="_blank">5b00851e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[WIP] better comments</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 10 Nov 2020 13:41:23 GMT</small>
+<small>⏰ Updated on Wed, 11 Nov 2020 13:41:32 GMT</small>
 </td>
 </tr>
 </tfoot>
