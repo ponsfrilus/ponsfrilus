@@ -103,6 +103,62 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/6660588e545efe91442c0bc0e43314b847a207d0" title="2020-11-12T19:27:22.000+01:00" target="_blank">6660588e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>Merge pull request #18 from epfl-si/fix/15
+
+[feature] better handling `.maintenance`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/bd7b3779ddb98744ed7409203f91238bad2d3da1" title="2020-11-12T19:26:13.000+01:00" target="_blank">bd7b3779</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[feature] better handling `.maintenance`
+
+This display a proper message when the plugin is activated by the 
+`.maintenance` file.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/e2ab76ca5ae64891f2d4241bef2c03da6ee460db" title="2020-11-12T19:00:42.000+01:00" target="_blank">e2ab76ca</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>Merge pull request #17 from epfl-si/fix/14
+
+[fix] vendor.min.css</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/5715bfdb09eb72e9f871b29ddf7b2367b3f6e837" title="2020-11-12T19:00:13.000+01:00" target="_blank">5715bfdb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[fix] vendor.min.css
+
+This fixes #14
+
+AFAIK there's no need for this stylesheet.
+
+Bump to v0.1.2</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/47563c14ba5bea7bf5a53a6cf2a612e94ce30ef9" title="2020-11-12T18:56:51.000+01:00" target="_blank">47563c14</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>Merge pull request #16 from epfl-si/feature/status-code-value
+
+[feature] status code value</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/60d87d7896b2d46268ac3d7b564cfdfbbd39f447" title="2020-11-12T18:55:51.000+01:00" target="_blank">60d87d78</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[feature] please ignore gettext tmp file</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/3e9d038d9d8629efa2ab3290051ad404c7e1109f" title="2020-11-12T18:55:30.000+01:00" target="_blank">3e9d038d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[feature] use HTTP code value as option
+
+- With retro-compatibility, the value of the option 
+`epfl_coming_soon_status_code` is now '200' or '503', instead of 'no' or 
+'yes'. This mean that it will easier to understand in the API.
+- Bump to version 0.1.1
+- gitignore pot tmp files</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/8feea60434e09bda73a5a3306b5e2680a3c1ed80" title="2020-11-11T21:01:01.000+01:00" target="_blank">8feea604</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
           <pre>[fix] i18n and plugin description</pre>
         </td>
@@ -116,60 +172,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/dafcffa7f54a792315314911ef5339c4d15c59b8" title="2020-11-11T20:38:29.000+01:00" target="_blank">dafcffa7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
           <pre>[fix] default HTTP code is now 200</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/03703ec96c1b18604ed20350bb4c564c028cdb69" title="2020-11-11T20:27:35.000+01:00" target="_blank">03703ec9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>Merge pull request #11 from epfl-si/feature/i18n
-
-[feature] i18n</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/7754665ff2abd78a0c75331a3bc9097fa00791bb" title="2020-11-11T20:26:02.000+01:00" target="_blank">7754665f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[fix] license</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/37a2d8e3a70fa98faafcc4eb7c62b3b3e9b3dcef" title="2020-11-11T20:22:47.000+01:00" target="_blank">37a2d8e3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[feature] i18n
-
-* All strings localized
-* Make file has a `pot` target
-* French translation complete</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/2268d903c4415a10764cd49e21439eb3fdd3bf4e" title="2020-11-11T18:26:26.000+01:00" target="_blank">2268d903</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[fix] WordPress-Core standard</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/5229c2c5264d6ba3269b0b8210bebfc2620efe0d" title="2020-11-11T18:09:09.000+01:00" target="_blank">5229c2c5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[feature] install and configure WPCS
-
-This commit manage the installation and the configuration of `phpcs`, 
-`phpcbf` and the sniff `WPCS` (WordPress Coding Standard). While the 
-standard `WordPress` almost pass (13 problems left), `WordPress-Core` 
-standard seems more agile and adapted to ours needs.
-
-One can use `make phpcbf` to install, configure and run (and fix) the 
-coding standards.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/0a51567c3dc2e1478820bef92626a9a42823d711" title="2020-11-11T14:49:29.000+01:00" target="_blank">0a51567c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[version] bump to v0.0.7</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/47456b1e89b4fe79672cb30316f903db50a86e49" title="2020-11-11T14:49:19.000+01:00" target="_blank">47456b1e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[fix] base URL with trailing slash</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 12 Nov 2020 13:41:26 GMT</small>
+<small>⏰ Updated on Fri, 13 Nov 2020 13:41:35 GMT</small>
 </td>
 </tr>
 </tfoot>
