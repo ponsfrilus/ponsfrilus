@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank">logseq</a>&nbsp;<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank"><img src="https://img.shields.io/github/stars/logseq/logseq?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/tomnomnom/gron" title="Make JSON greppable!" target="_blank">gron</a>&nbsp;<a href="https://github.com/tomnomnom/gron" title="Make JSON greppable!" target="_blank"><img src="https://img.shields.io/github/stars/tomnomnom/gron?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility - a better 'df' alternative" target="_blank">duf</a>&nbsp;<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility - a better 'df' alternative" target="_blank"><img src="https://img.shields.io/github/stars/muesli/duf?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank">grapesjs</a>&nbsp;<a href="https://github.com/artf/grapesjs" title="Free and Open source Web Builder Framework. Next generation tool for building templates without coding" target="_blank"><img src="https://img.shields.io/github/stars/artf/grapesjs?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank">readme</a>&nbsp;<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank"><img src="https://img.shields.io/github/stars/notifyme-app/readme?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank">nyt-2020-election-scraper</a>&nbsp;<a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/alex/nyt-2020-election-scraper?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/ggerganov/wave-share" title="Serverless, peer-to-peer, local file sharing through sound" target="_blank">wave-share</a>&nbsp;<a href="https://github.com/ggerganov/wave-share" title="Serverless, peer-to-peer, local file sharing through sound" target="_blank"><img src="https://img.shields.io/github/stars/ggerganov/wave-share?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank">solid</a>&nbsp;<a href="https://github.com/ryansolid/solid" title="A declarative, efficient, and flexible JavaScript library for building user interfaces." target="_blank"><img src="https://img.shields.io/github/stars/ryansolid/solid?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -103,80 +103,59 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/6660588e545efe91442c0bc0e43314b847a207d0" title="2020-11-12T19:27:22.000+01:00" target="_blank">6660588e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>Merge pull request #18 from epfl-si/fix/15
-
-[feature] better handling `.maintenance`</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/388884883695e03fada810cb6ae74370aaa880e1" title="2020-11-15T12:46:17.000+01:00" target="_blank">38888488</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
+          <pre>Logseq auto save</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/bd7b3779ddb98744ed7409203f91238bad2d3da1" title="2020-11-12T19:26:13.000+01:00" target="_blank">bd7b3779</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[feature] better handling `.maintenance`
-
-This display a proper message when the plugin is activated by the 
-`.maintenance` file.</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/b86b69809dce0717aaf0b90395cf9624d24e38aa" title="2020-11-15T12:45:58.000+01:00" target="_blank">b86b6980</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
+          <pre>Logseq auto save</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/e2ab76ca5ae64891f2d4241bef2c03da6ee460db" title="2020-11-12T19:00:42.000+01:00" target="_blank">e2ab76ca</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>Merge pull request #17 from epfl-si/fix/14
-
-[fix] vendor.min.css</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/cc53b6d25e5447b11b6e6a24d30fcf44d28d392c" title="2020-11-15T12:44:58.000+01:00" target="_blank">cc53b6d2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
+          <pre>Logseq auto save</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/5715bfdb09eb72e9f871b29ddf7b2367b3f6e837" title="2020-11-12T19:00:13.000+01:00" target="_blank">5715bfdb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[fix] vendor.min.css
-
-This fixes #14
-
-AFAIK there's no need for this stylesheet.
-
-Bump to v0.1.2</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/49ba422565ba2d5eef3336ce0460e0b379b4a1a9" title="2020-11-15T12:44:39.000+01:00" target="_blank">49ba4225</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
+          <pre>Logseq auto save</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/47563c14ba5bea7bf5a53a6cf2a612e94ce30ef9" title="2020-11-12T18:56:51.000+01:00" target="_blank">47563c14</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>Merge pull request #16 from epfl-si/feature/status-code-value
-
-[feature] status code value</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/c341392cb8b297ba64c93b4c37348cec22c6e46f" title="2020-11-15T12:44:27.000+01:00" target="_blank">c341392c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
+          <pre>Logseq auto save</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/60d87d7896b2d46268ac3d7b564cfdfbbd39f447" title="2020-11-12T18:55:51.000+01:00" target="_blank">60d87d78</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[feature] please ignore gettext tmp file</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/1e100a62d393b23428e833a63ebf04c653c07bdf" title="2020-11-15T12:44:21.000+01:00" target="_blank">1e100a62</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
+          <pre>Logseq auto save</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/3e9d038d9d8629efa2ab3290051ad404c7e1109f" title="2020-11-12T18:55:30.000+01:00" target="_blank">3e9d038d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[feature] use HTTP code value as option
-
-- With retro-compatibility, the value of the option 
-`epfl_coming_soon_status_code` is now '200' or '503', instead of 'no' or 
-'yes'. This mean that it will easier to understand in the API.
-- Bump to version 0.1.1
-- gitignore pot tmp files</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/c8ed2b9fa07854feae0e7cf34767d831b4354ad8" title="2020-11-15T12:43:48.000+01:00" target="_blank">c8ed2b9f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
+          <pre>Logseq auto save</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/8feea60434e09bda73a5a3306b5e2680a3c1ed80" title="2020-11-11T21:01:01.000+01:00" target="_blank">8feea604</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[fix] i18n and plugin description</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/134930c75608acdefd627e9a6fdec3adfa62a164" title="2020-11-15T12:43:36.000+01:00" target="_blank">134930c7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
+          <pre>Logseq auto save</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/829b8a2e9926a9aba0a50d234ad5058c536d348b" title="2020-11-11T20:41:20.000+01:00" target="_blank">829b8a2e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[version] bump to v0.1.0</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/ceeb74918e0537274403fe7de0beae1fed91e8f4" title="2020-11-15T12:43:29.000+01:00" target="_blank">ceeb7491</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
+          <pre>Logseq auto save</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/dafcffa7f54a792315314911ef5339c4d15c59b8" title="2020-11-11T20:38:29.000+01:00" target="_blank">dafcffa7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[fix] default HTTP code is now 200</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/a8474bd0990b434ec36aa4b7d4d2b125a8c4dd71" title="2020-11-15T12:41:04.000+01:00" target="_blank">a8474bd0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
+          <pre>Logseq auto save</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 13 Nov 2020 13:41:35 GMT</small>
+<small>⏰ Updated on Mon, 16 Nov 2020 13:41:25 GMT</small>
 </td>
 </tr>
 </tfoot>
