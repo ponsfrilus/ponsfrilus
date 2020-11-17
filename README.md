@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank">gh-pages-url-shortener</a>&nbsp;<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank"><img src="https://img.shields.io/github/stars/nelsontky/gh-pages-url-shortener?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank">logseq</a>&nbsp;<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank"><img src="https://img.shields.io/github/stars/logseq/logseq?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank">kitty</a>&nbsp;<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank"><img src="https://img.shields.io/github/stars/kovidgoyal/kitty?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility - a better 'df' alternative" target="_blank">duf</a>&nbsp;<a href="https://github.com/muesli/duf" title="Disk Usage/Free Utility - a better 'df' alternative" target="_blank"><img src="https://img.shields.io/github/stars/muesli/duf?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank">desktop</a>&nbsp;<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank"><img src="https://img.shields.io/github/stars/desktop/desktop?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank">readme</a>&nbsp;<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank"><img src="https://img.shields.io/github/stars/notifyme-app/readme?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/vanila-io/wireflow" title="Wireflow - user flow chart real-time collaborative tool" target="_blank">wireflow</a>&nbsp;<a href="https://github.com/vanila-io/wireflow" title="Wireflow - user flow chart real-time collaborative tool" target="_blank"><img src="https://img.shields.io/github/stars/vanila-io/wireflow?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ggerganov/wave-share" title="Serverless, peer-to-peer, local file sharing through sound" target="_blank">wave-share</a>&nbsp;<a href="https://github.com/ggerganov/wave-share" title="Serverless, peer-to-peer, local file sharing through sound" target="_blank"><img src="https://img.shields.io/github/stars/ggerganov/wave-share?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 16 Nov 2020 13:41:25 GMT</small>
+<small>⏰ Updated on Tue, 17 Nov 2020 13:41:35 GMT</small>
 </td>
 </tr>
 </tfoot>
