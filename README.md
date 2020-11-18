@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/radareorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by radare2" target="_blank">cutter</a>&nbsp;<a href="https://github.com/radareorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by radare2" target="_blank"><img src="https://img.shields.io/github/stars/radareorg/cutter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank">desktop</a>&nbsp;<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank"><img src="https://img.shields.io/github/stars/desktop/desktop?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank">readme</a>&nbsp;<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank"><img src="https://img.shields.io/github/stars/notifyme-app/readme?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank">nyt-2020-election-scraper</a>&nbsp;<a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/alex/nyt-2020-election-scraper?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank">docker-alertmanager-snow-webhook</a>&nbsp;<a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/docker-alertmanager-snow-webhook?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/CrowdNotifier/documents" title="null" target="_blank">documents</a>&nbsp;<a href="https://github.com/CrowdNotifier/documents" title="null" target="_blank"><img src="https://img.shields.io/github/stars/CrowdNotifier/documents?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/IBM/plex" title="The package of IBM’s typeface, IBM Plex." target="_blank">plex</a>&nbsp;<a href="https://github.com/IBM/plex" title="The package of IBM’s typeface, IBM Plex." target="_blank"><img src="https://img.shields.io/github/stars/IBM/plex?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zim-desktop-wiki/zim-desktop-wiki" title="Main repository of the zim desktop wiki project" target="_blank">zim-desktop-wiki</a>&nbsp;<a href="https://github.com/zim-desktop-wiki/zim-desktop-wiki" title="Main repository of the zim desktop wiki project" target="_blank"><img src="https://img.shields.io/github/stars/zim-desktop-wiki/zim-desktop-wiki?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/secretGeek/html_wysiwyg" title="A truly naked, brutalist html quine" target="_blank">html_wysiwyg</a>&nbsp;<a href="https://github.com/secretGeek/html_wysiwyg" title="A truly naked, brutalist html quine" target="_blank"><img src="https://img.shields.io/github/stars/secretGeek/html_wysiwyg?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/timescale/promscale" title="An open-source analytical platform for Prometheus metrics 🚀" target="_blank">promscale</a>&nbsp;<a href="https://github.com/timescale/promscale" title="An open-source analytical platform for Prometheus metrics 🚀" target="_blank"><img src="https://img.shields.io/github/stars/timescale/promscale?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank">gh-pages-url-shortener</a>&nbsp;<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank"><img src="https://img.shields.io/github/stars/nelsontky/gh-pages-url-shortener?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,18 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank">desktop</a>&nbsp;<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank"><img src="https://img.shields.io/github/stars/desktop/desktop?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank">readme</a>&nbsp;<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank"><img src="https://img.shields.io/github/stars/notifyme-app/readme?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank">nyt-2020-election-scraper</a>&nbsp;<a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/alex/nyt-2020-election-scraper?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank">docker-alertmanager-snow-webhook</a>&nbsp;<a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/docker-alertmanager-snow-webhook?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/CrowdNotifier/documents" title="null" target="_blank">documents</a>&nbsp;<a href="https://github.com/CrowdNotifier/documents" title="null" target="_blank"><img src="https://img.shields.io/github/stars/CrowdNotifier/documents?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/IBM/plex" title="The package of IBM’s typeface, IBM Plex." target="_blank">plex</a>&nbsp;<a href="https://github.com/IBM/plex" title="The package of IBM’s typeface, IBM Plex." target="_blank"><img src="https://img.shields.io/github/stars/IBM/plex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zim-desktop-wiki/zim-desktop-wiki" title="Main repository of the zim desktop wiki project" target="_blank">zim-desktop-wiki</a>&nbsp;<a href="https://github.com/zim-desktop-wiki/zim-desktop-wiki" title="Main repository of the zim desktop wiki project" target="_blank"><img src="https://img.shields.io/github/stars/zim-desktop-wiki/zim-desktop-wiki?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/secretGeek/html_wysiwyg" title="A truly naked, brutalist html quine" target="_blank">html_wysiwyg</a>&nbsp;<a href="https://github.com/secretGeek/html_wysiwyg" title="A truly naked, brutalist html quine" target="_blank"><img src="https://img.shields.io/github/stars/secretGeek/html_wysiwyg?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/timescale/promscale" title="An open-source analytical platform for Prometheus metrics 🚀" target="_blank">promscale</a>&nbsp;<a href="https://github.com/timescale/promscale" title="An open-source analytical platform for Prometheus metrics 🚀" target="_blank"><img src="https://img.shields.io/github/stars/timescale/promscale?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vanila-io/wireflow" title="Wireflow - user flow chart real-time collaborative tool" target="_blank">wireflow</a>&nbsp;<a href="https://github.com/vanila-io/wireflow" title="Wireflow - user flow chart real-time collaborative tool" target="_blank"><img src="https://img.shields.io/github/stars/vanila-io/wireflow?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/Chris-Kode/myanimelist-api-v2/commits/7d51434494a2d679e16967b1060bd3b00c3c2b62" title="2020-11-17T20:17:09.000+01:00" target="_blank">7d514344</a><a href="https://github.com/Chris-Kode">@Chris-Kode</a><a href="https://github.com/Chris-Kode/myanimelist-api-v2" title="An awesome wrapper on Nodejs for the new MyAnimeList's API v2!">/myanimelist-api-v2</a></strong></div>
+          <pre>fix: typo
+
+challengue → challenge</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/388884883695e03fada810cb6ae74370aaa880e1" title="2020-11-15T12:46:17.000+01:00" target="_blank">38888488</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
           <pre>Logseq auto save</pre>
@@ -146,16 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/ceeb74918e0537274403fe7de0beae1fed91e8f4" title="2020-11-15T12:43:29.000+01:00" target="_blank">ceeb7491</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
           <pre>Logseq auto save</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/a8474bd0990b434ec36aa4b7d4d2b125a8c4dd71" title="2020-11-15T12:41:04.000+01:00" target="_blank">a8474bd0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
-          <pre>Logseq auto save</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 17 Nov 2020 13:41:35 GMT</small>
+<small>⏰ Updated on Wed, 18 Nov 2020 13:41:23 GMT</small>
 </td>
 </tr>
 </tfoot>
