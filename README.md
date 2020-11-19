@@ -103,6 +103,18 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/cf0b3a316b58a514c69b9456258928e3d2779365" title="2020-11-18T15:22:38.000+01:00" target="_blank">cf0b3a31</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[typo] comming → coming</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/d4011e74bb547e8dce2484ebb33915317a162278" title="2020-11-18T15:14:37.000+01:00" target="_blank">d4011e74</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>Merge pull request #19 from epfl-si/feature/rest-api
+
+[feature] various small improvements</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/Chris-Kode/myanimelist-api-v2/commits/7d51434494a2d679e16967b1060bd3b00c3c2b62" title="2020-11-17T20:17:09.000+01:00" target="_blank">7d514344</a><a href="https://github.com/Chris-Kode">@Chris-Kode</a><a href="https://github.com/Chris-Kode/myanimelist-api-v2" title="An awesome wrapper on Nodejs for the new MyAnimeList's API v2!">/myanimelist-api-v2</a></strong></div>
           <pre>fix: typo
 
@@ -143,21 +155,11 @@ challengue → challenge</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/c8ed2b9fa07854feae0e7cf34767d831b4354ad8" title="2020-11-15T12:43:48.000+01:00" target="_blank">c8ed2b9f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
           <pre>Logseq auto save</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/134930c75608acdefd627e9a6fdec3adfa62a164" title="2020-11-15T12:43:36.000+01:00" target="_blank">134930c7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
-          <pre>Logseq auto save</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/ceeb74918e0537274403fe7de0beae1fed91e8f4" title="2020-11-15T12:43:29.000+01:00" target="_blank">ceeb7491</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
-          <pre>Logseq auto save</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 18 Nov 2020 13:41:23 GMT</small>
+<small>⏰ Updated on Thu, 19 Nov 2020 13:41:26 GMT</small>
 </td>
 </tr>
 </tfoot>
