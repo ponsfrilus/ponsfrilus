@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank">find-my-blocks</a>&nbsp;<a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank"><img src="https://img.shields.io/github/stars/eddysims/find-my-blocks?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/radareorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by radare2" target="_blank">cutter</a>&nbsp;<a href="https://github.com/radareorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by radare2" target="_blank"><img src="https://img.shields.io/github/stars/radareorg/cutter?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/secretGeek/html_wysiwyg" title="A truly naked, brutalist html quine" target="_blank">html_wysiwyg</a>&nbsp;<a href="https://github.com/secretGeek/html_wysiwyg" title="A truly naked, brutalist html quine" target="_blank"><img src="https://img.shields.io/github/stars/secretGeek/html_wysiwyg?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/timescale/promscale" title="An open-source analytical platform for Prometheus metrics 🚀" target="_blank">promscale</a>&nbsp;<a href="https://github.com/timescale/promscale" title="An open-source analytical platform for Prometheus metrics 🚀" target="_blank"><img src="https://img.shields.io/github/stars/timescale/promscale?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank">1mb-club</a>&nbsp;<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank"><img src="https://img.shields.io/github/stars/bradleytaunt/1mb-club?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank">gh-pages-url-shortener</a>&nbsp;<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank"><img src="https://img.shields.io/github/stars/nelsontky/gh-pages-url-shortener?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank">gitlabot</a>&nbsp;<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/gitlabot?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank">kitty</a>&nbsp;<a href="https://github.com/kovidgoyal/kitty" title="A cross-platform, fast, feature full, GPU based terminal emulator" target="_blank"><img src="https://img.shields.io/github/stars/kovidgoyal/kitty?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,13 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/eddysims/find-my-blocks/commits/2fcca918a39239d54125d4a7d40447626d6b5a41" title="2020-11-19T20:59:32.000+01:00" target="_blank">2fcca918</a><a href="https://github.com/eddysims">@eddysims</a><a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located.">/find-my-blocks</a></strong></div>
+          <pre>docs: Path to "Find My Blocks" submenu in Tools instead of Settiings (#60)
+
+Co-authored-by: Eddy Sims <46460840+eddysims@users.noreply.github.com></pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/cf0b3a316b58a514c69b9456258928e3d2779365" title="2020-11-18T15:22:38.000+01:00" target="_blank">cf0b3a31</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
           <pre>[typo] comming → coming</pre>
@@ -150,16 +157,11 @@ challengue → challenge</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/1e100a62d393b23428e833a63ebf04c653c07bdf" title="2020-11-15T12:44:21.000+01:00" target="_blank">1e100a62</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
           <pre>Logseq auto save</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/c8ed2b9fa07854feae0e7cf34767d831b4354ad8" title="2020-11-15T12:43:48.000+01:00" target="_blank">c8ed2b9f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
-          <pre>Logseq auto save</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 19 Nov 2020 13:41:26 GMT</small>
+<small>⏰ Updated on Fri, 20 Nov 2020 13:41:42 GMT</small>
 </td>
 </tr>
 </tfoot>
