@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank">node-myanimelist-oauth-example</a>&nbsp;<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank"><img src="https://img.shields.io/github/stars/ipmanlk/node-myanimelist-oauth-example?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank">ish</a>&nbsp;<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank"><img src="https://img.shields.io/github/stars/ish-app/ish?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank">1mb-club</a>&nbsp;<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank"><img src="https://img.shields.io/github/stars/bradleytaunt/1mb-club?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank">gh-pages-url-shortener</a>&nbsp;<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank"><img src="https://img.shields.io/github/stars/nelsontky/gh-pages-url-shortener?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank">logseq</a>&nbsp;<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank"><img src="https://img.shields.io/github/stars/logseq/logseq?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tomnomnom/gron" title="Make JSON greppable!" target="_blank">gron</a>&nbsp;<a href="https://github.com/tomnomnom/gron" title="Make JSON greppable!" target="_blank"><img src="https://img.shields.io/github/stars/tomnomnom/gron?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode." target="_blank">wp-plugin-epfl-coming-soon</a>&nbsp;<a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode." target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-plugin-epfl-coming-soon?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank">vim-mario</a>&nbsp;<a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank"><img src="https://img.shields.io/github/stars/rbtnn/vim-mario?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank">org-roam</a>&nbsp;<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank"><img src="https://img.shields.io/github/stars/org-roam/org-roam?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank">Zettlr</a>&nbsp;<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank"><img src="https://img.shields.io/github/stars/Zettlr/Zettlr?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/utmapp/UTM" title="Virtual machines for iOS" target="_blank">UTM</a>&nbsp;<a href="https://github.com/utmapp/UTM" title="Virtual machines for iOS" target="_blank"><img src="https://img.shields.io/github/stars/utmapp/UTM?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank">find-my-blocks</a>&nbsp;<a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank"><img src="https://img.shields.io/github/stars/eddysims/find-my-blocks?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/zim-desktop-wiki/zim-desktop-wiki" title="Main repository of the zim desktop wiki project" target="_blank">zim-desktop-wiki</a>&nbsp;<a href="https://github.com/zim-desktop-wiki/zim-desktop-wiki" title="Main repository of the zim desktop wiki project" target="_blank"><img src="https://img.shields.io/github/stars/zim-desktop-wiki/zim-desktop-wiki?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/secretGeek/html_wysiwyg" title="A truly naked, brutalist html quine" target="_blank">html_wysiwyg</a>&nbsp;<a href="https://github.com/secretGeek/html_wysiwyg" title="A truly naked, brutalist html quine" target="_blank"><img src="https://img.shields.io/github/stars/secretGeek/html_wysiwyg?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank">1mb-club</a>&nbsp;<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank"><img src="https://img.shields.io/github/stars/bradleytaunt/1mb-club?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank">gh-pages-url-shortener</a>&nbsp;<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank"><img src="https://img.shields.io/github/stars/nelsontky/gh-pages-url-shortener?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank">logseq</a>&nbsp;<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank"><img src="https://img.shields.io/github/stars/logseq/logseq?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tomnomnom/gron" title="Make JSON greppable!" target="_blank">gron</a>&nbsp;<a href="https://github.com/tomnomnom/gron" title="Make JSON greppable!" target="_blank"><img src="https://img.shields.io/github/stars/tomnomnom/gron?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode." target="_blank">wp-plugin-epfl-coming-soon</a>&nbsp;<a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode." target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-plugin-epfl-coming-soon?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank">vim-mario</a>&nbsp;<a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank"><img src="https://img.shields.io/github/stars/rbtnn/vim-mario?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank">org-roam</a>&nbsp;<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank"><img src="https://img.shields.io/github/stars/org-roam/org-roam?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank">Zettlr</a>&nbsp;<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank"><img src="https://img.shields.io/github/stars/Zettlr/Zettlr?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank">wiki</a>&nbsp;<a href="https://github.com/Requarks/wiki" title="Wiki.js | A modern, lightweight and powerful wiki app built on Node.js" target="_blank"><img src="https://img.shields.io/github/stars/Requarks/wiki?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank">gitlabot</a>&nbsp;<a href="https://github.com/SaphireVert/gitlabot" title="A gitlab update bot" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/gitlabot?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -161,7 +161,7 @@ challengue → challenge</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 20 Nov 2020 13:41:42 GMT</small>
+<small>⏰ Updated on Mon, 23 Nov 2020 13:41:26 GMT</small>
 </td>
 </tr>
 </tfoot>
