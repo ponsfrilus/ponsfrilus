@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/NUKnightLab/sql-mysteries" title="Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!" target="_blank">sql-mysteries</a>&nbsp;<a href="https://github.com/NUKnightLab/sql-mysteries" title="Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!" target="_blank"><img src="https://img.shields.io/github/stars/NUKnightLab/sql-mysteries?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/utmapp/UTM" title="Virtual machines for iOS" target="_blank">UTM</a>&nbsp;<a href="https://github.com/utmapp/UTM" title="Virtual machines for iOS" target="_blank"><img src="https://img.shields.io/github/stars/utmapp/UTM?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank">find-my-blocks</a>&nbsp;<a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank"><img src="https://img.shields.io/github/stars/eddysims/find-my-blocks?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/radareorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by radare2" target="_blank">cutter</a>&nbsp;<a href="https://github.com/radareorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by radare2" target="_blank"><img src="https://img.shields.io/github/stars/radareorg/cutter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank">desktop</a>&nbsp;<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank"><img src="https://img.shields.io/github/stars/desktop/desktop?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank">readme</a>&nbsp;<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank"><img src="https://img.shields.io/github/stars/notifyme-app/readme?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank">nyt-2020-election-scraper</a>&nbsp;<a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/alex/nyt-2020-election-scraper?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank">docker-alertmanager-snow-webhook</a>&nbsp;<a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/docker-alertmanager-snow-webhook?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/CrowdNotifier/documents" title="null" target="_blank">documents</a>&nbsp;<a href="https://github.com/CrowdNotifier/documents" title="null" target="_blank"><img src="https://img.shields.io/github/stars/CrowdNotifier/documents?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/IBM/plex" title="The package of IBM’s typeface, IBM Plex." target="_blank">plex</a>&nbsp;<a href="https://github.com/IBM/plex" title="The package of IBM’s typeface, IBM Plex." target="_blank"><img src="https://img.shields.io/github/stars/IBM/plex?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank">node-myanimelist-oauth-example</a>&nbsp;<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank"><img src="https://img.shields.io/github/stars/ipmanlk/node-myanimelist-oauth-example?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank">Zettlr</a>&nbsp;<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank"><img src="https://img.shields.io/github/stars/Zettlr/Zettlr?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/utmapp/UTM" title="Virtual machines for iOS" target="_blank">UTM</a>&nbsp;<a href="https://github.com/utmapp/UTM" title="Virtual machines for iOS" target="_blank"><img src="https://img.shields.io/github/stars/utmapp/UTM?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank">find-my-blocks</a>&nbsp;<a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank"><img src="https://img.shields.io/github/stars/eddysims/find-my-blocks?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/radareorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by radare2" target="_blank">cutter</a>&nbsp;<a href="https://github.com/radareorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by radare2" target="_blank"><img src="https://img.shields.io/github/stars/radareorg/cutter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank">desktop</a>&nbsp;<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank"><img src="https://img.shields.io/github/stars/desktop/desktop?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank">readme</a>&nbsp;<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank"><img src="https://img.shields.io/github/stars/notifyme-app/readme?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank">nyt-2020-election-scraper</a>&nbsp;<a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/alex/nyt-2020-election-scraper?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank">docker-alertmanager-snow-webhook</a>&nbsp;<a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/docker-alertmanager-snow-webhook?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/CrowdNotifier/documents" title="null" target="_blank">documents</a>&nbsp;<a href="https://github.com/CrowdNotifier/documents" title="null" target="_blank"><img src="https://img.shields.io/github/stars/CrowdNotifier/documents?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/IBM/plex" title="The package of IBM’s typeface, IBM Plex." target="_blank">plex</a>&nbsp;<a href="https://github.com/IBM/plex" title="The package of IBM’s typeface, IBM Plex." target="_blank"><img src="https://img.shields.io/github/stars/IBM/plex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zim-desktop-wiki/zim-desktop-wiki" title="Main repository of the zim desktop wiki project" target="_blank">zim-desktop-wiki</a>&nbsp;<a href="https://github.com/zim-desktop-wiki/zim-desktop-wiki" title="Main repository of the zim desktop wiki project" target="_blank"><img src="https://img.shields.io/github/stars/zim-desktop-wiki/zim-desktop-wiki?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -161,7 +161,7 @@ challengue → challenge</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 26 Nov 2020 13:41:28 GMT</small>
+<small>⏰ Updated on Fri, 27 Nov 2020 13:41:23 GMT</small>
 </td>
 </tr>
 </tfoot>
