@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 10 years and 10 months.
+    <br />Apparently, I'm hanging around on GitHub since 10 years and 11 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/nicolasreymond/Kata-API/commits/c9b4a280995b0d140618306646d485a51252fad9" title="2020-11-26T22:06:03.000+01:00" target="_blank">c9b4a280</a><a href="https://github.com/nicolasreymond">@nicolasreymond</a><a href="https://github.com/nicolasreymond/Kata-API" title="null">/Kata-API</a></strong></div>
+          <pre>[feature] README improved
+
+* Ortho and typos
+* Respect the 80 char ligne when possible
+* Added some sub-tasks
+* Fixed the endpoints to match the DB proposed in the PR #2</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/eddysims/find-my-blocks/commits/2fcca918a39239d54125d4a7d40447626d6b5a41" title="2020-11-19T20:59:32.000+01:00" target="_blank">2fcca918</a><a href="https://github.com/eddysims">@eddysims</a><a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located.">/find-my-blocks</a></strong></div>
           <pre>docs: Path to "Find My Blocks" submenu in Tools instead of Settiings (#60)
 
@@ -152,16 +162,11 @@ challengue → challenge</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/c341392cb8b297ba64c93b4c37348cec22c6e46f" title="2020-11-15T12:44:27.000+01:00" target="_blank">c341392c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
           <pre>Logseq auto save</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/1e100a62d393b23428e833a63ebf04c653c07bdf" title="2020-11-15T12:44:21.000+01:00" target="_blank">1e100a62</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
-          <pre>Logseq auto save</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 30 Nov 2020 13:41:21 GMT</small>
+<small>⏰ Updated on Tue, 01 Dec 2020 13:41:26 GMT</small>
 </td>
 </tr>
 </tfoot>
