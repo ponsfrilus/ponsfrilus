@@ -103,6 +103,49 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/0c163b037da1e41ab3e482166cc82aa0de0ebeb2" title="2020-12-02T13:03:11.000+01:00" target="_blank">0c163b03</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[feature] `node index.js all` to run them all</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/dbe3d6002f5e4864a1702daebc3e06e0e544ba07" title="2020-12-02T12:24:58.000+01:00" target="_blank">dbe3d600</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[fix] dummyData in index.js</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/78a41eeb82dd2c413382dec12a938c3dd011bad7" title="2020-12-02T12:14:29.000+01:00" target="_blank">78a41eeb</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[doc] README created</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/65328b1c55143b4b9578593c04eadea8f68d5bb1" title="2020-12-02T12:14:12.000+01:00" target="_blank">65328b1c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[feature] Day's scaffolding</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/3f00f1713be9b9deba910bfcffd2b45296e4ca91" title="2020-12-02T12:13:57.000+01:00" target="_blank">3f00f171</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[refactor] exports</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/2671740510f7b36b57a93102d481ee28b9b9ce18" title="2020-12-02T10:42:47.000+01:00" target="_blank">26717405</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[add] Day 02 solution</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/ccae00114e77a187dfe69f07a7001a2c48ac4ac5" title="2020-12-02T10:42:36.000+01:00" target="_blank">ccae0011</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[add] Day 01 solution</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/084404a545742ecc1165d10b9f9b9ca58cc74357" title="2020-12-02T10:42:19.000+01:00" target="_blank">084404a5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[init] Generic loading of day with input
+
+- This implies that each days of AoC will have a foler with a 
+`input.txt` and a `index.js`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/nicolasreymond/Kata-API/commits/c9b4a280995b0d140618306646d485a51252fad9" title="2020-11-26T22:06:03.000+01:00" target="_blank">c9b4a280</a><a href="https://github.com/nicolasreymond">@nicolasreymond</a><a href="https://github.com/nicolasreymond/Kata-API" title="null">/Kata-API</a></strong></div>
           <pre>[feature] README improved
 
@@ -118,55 +161,11 @@
 
 Co-authored-by: Eddy Sims <46460840+eddysims@users.noreply.github.com></pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/cf0b3a316b58a514c69b9456258928e3d2779365" title="2020-11-18T15:22:38.000+01:00" target="_blank">cf0b3a31</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[typo] comming → coming</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/d4011e74bb547e8dce2484ebb33915317a162278" title="2020-11-18T15:14:37.000+01:00" target="_blank">d4011e74</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>Merge pull request #19 from epfl-si/feature/rest-api
-
-[feature] various small improvements</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/Chris-Kode/myanimelist-api-v2/commits/7d51434494a2d679e16967b1060bd3b00c3c2b62" title="2020-11-17T20:17:09.000+01:00" target="_blank">7d514344</a><a href="https://github.com/Chris-Kode">@Chris-Kode</a><a href="https://github.com/Chris-Kode/myanimelist-api-v2" title="An awesome wrapper on Nodejs for the new MyAnimeList's API v2!">/myanimelist-api-v2</a></strong></div>
-          <pre>fix: typo
-
-challengue → challenge</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/388884883695e03fada810cb6ae74370aaa880e1" title="2020-11-15T12:46:17.000+01:00" target="_blank">38888488</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
-          <pre>Logseq auto save</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/b86b69809dce0717aaf0b90395cf9624d24e38aa" title="2020-11-15T12:45:58.000+01:00" target="_blank">b86b6980</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
-          <pre>Logseq auto save</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/cc53b6d25e5447b11b6e6a24d30fcf44d28d392c" title="2020-11-15T12:44:58.000+01:00" target="_blank">cc53b6d2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
-          <pre>Logseq auto save</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/49ba422565ba2d5eef3336ce0460e0b379b4a1a9" title="2020-11-15T12:44:39.000+01:00" target="_blank">49ba4225</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
-          <pre>Logseq auto save</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/notes/commits/c341392cb8b297ba64c93b4c37348cec22c6e46f" title="2020-11-15T12:44:27.000+01:00" target="_blank">c341392c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/notes" title="null">/notes</a></strong></div>
-          <pre>Logseq auto save</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 01 Dec 2020 13:41:26 GMT</small>
+<small>⏰ Updated on Wed, 02 Dec 2020 13:41:36 GMT</small>
 </td>
 </tr>
 </tfoot>
