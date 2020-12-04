@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/ce64caf275ac250f3fc41eb2d47e457c06bfe375" title="2020-12-03T15:41:24.000+01:00" target="_blank">ce64caf2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[typo]</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/f099989ac2880f45e207eb728873fb2e10b3ddc7" title="2020-12-03T15:41:01.000+01:00" target="_blank">f099989a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[add] Day 03 solution</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/0c163b037da1e41ab3e482166cc82aa0de0ebeb2" title="2020-12-02T13:03:11.000+01:00" target="_blank">0c163b03</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
           <pre>[feature] `node index.js all` to run them all</pre>
         </td>
@@ -144,28 +154,11 @@
 - This implies that each days of AoC will have a foler with a 
 `input.txt` and a `index.js`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/nicolasreymond/Kata-API/commits/c9b4a280995b0d140618306646d485a51252fad9" title="2020-11-26T22:06:03.000+01:00" target="_blank">c9b4a280</a><a href="https://github.com/nicolasreymond">@nicolasreymond</a><a href="https://github.com/nicolasreymond/Kata-API" title="null">/Kata-API</a></strong></div>
-          <pre>[feature] README improved
-
-* Ortho and typos
-* Respect the 80 char ligne when possible
-* Added some sub-tasks
-* Fixed the endpoints to match the DB proposed in the PR #2</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/eddysims/find-my-blocks/commits/2fcca918a39239d54125d4a7d40447626d6b5a41" title="2020-11-19T20:59:32.000+01:00" target="_blank">2fcca918</a><a href="https://github.com/eddysims">@eddysims</a><a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located.">/find-my-blocks</a></strong></div>
-          <pre>docs: Path to "Find My Blocks" submenu in Tools instead of Settiings (#60)
-
-Co-authored-by: Eddy Sims <46460840+eddysims@users.noreply.github.com></pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 03 Dec 2020 13:41:43 GMT</small>
+<small>⏰ Updated on Fri, 04 Dec 2020 13:41:19 GMT</small>
 </td>
 </tr>
 </tfoot>
