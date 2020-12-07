@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/c9b62aaf54140e056718ed90fe1a44080ba64fe6" title="2020-12-04T13:19:08.000+01:00" target="_blank">c9b62aaf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[add] Day 04 solution</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/ce64caf275ac250f3fc41eb2d47e457c06bfe375" title="2020-12-03T15:41:24.000+01:00" target="_blank">ce64caf2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
           <pre>[typo]</pre>
         </td>
@@ -146,19 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/ccae00114e77a187dfe69f07a7001a2c48ac4ac5" title="2020-12-02T10:42:36.000+01:00" target="_blank">ccae0011</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
           <pre>[add] Day 01 solution</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/084404a545742ecc1165d10b9f9b9ca58cc74357" title="2020-12-02T10:42:19.000+01:00" target="_blank">084404a5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[init] Generic loading of day with input
-
-- This implies that each days of AoC will have a foler with a 
-`input.txt` and a `index.js`</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 04 Dec 2020 13:41:19 GMT</small>
+<small>⏰ Updated on Mon, 07 Dec 2020 13:42:06 GMT</small>
 </td>
 </tr>
 </tfoot>
