@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank">tectonic</a>&nbsp;<a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank"><img src="https://img.shields.io/github/stars/crlf0710/tectonic?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/NUKnightLab/sql-mysteries" title="Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!" target="_blank">sql-mysteries</a>&nbsp;<a href="https://github.com/NUKnightLab/sql-mysteries" title="Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!" target="_blank"><img src="https://img.shields.io/github/stars/NUKnightLab/sql-mysteries?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/CrowdNotifier/documents" title="null" target="_blank">documents</a>&nbsp;<a href="https://github.com/CrowdNotifier/documents" title="null" target="_blank"><img src="https://img.shields.io/github/stars/CrowdNotifier/documents?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/IBM/plex" title="The package of IBM’s typeface, IBM Plex." target="_blank">plex</a>&nbsp;<a href="https://github.com/IBM/plex" title="The package of IBM’s typeface, IBM Plex." target="_blank"><img src="https://img.shields.io/github/stars/IBM/plex?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank">ms-teams-rce</a>&nbsp;<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank"><img src="https://img.shields.io/github/stars/oskarsve/ms-teams-rce?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank">node-myanimelist-oauth-example</a>&nbsp;<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank"><img src="https://img.shields.io/github/stars/ipmanlk/node-myanimelist-oauth-example?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank">org-roam</a>&nbsp;<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank"><img src="https://img.shields.io/github/stars/org-roam/org-roam?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank">Zettlr</a>&nbsp;<a href="https://github.com/Zettlr/Zettlr" title="A Markdown Editor for the 21st century." target="_blank"><img src="https://img.shields.io/github/stars/Zettlr/Zettlr?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 07 Dec 2020 13:42:06 GMT</small>
+<small>⏰ Updated on Tue, 08 Dec 2020 13:42:17 GMT</small>
 </td>
 </tr>
 </tfoot>
