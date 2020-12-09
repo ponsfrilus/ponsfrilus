@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role." target="_blank">school-of-sre</a>&nbsp;<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role." target="_blank"><img src="https://img.shields.io/github/stars/linkedin/school-of-sre?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank">tectonic</a>&nbsp;<a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank"><img src="https://img.shields.io/github/stars/crlf0710/tectonic?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -44,7 +47,7 @@
 <a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank">find-my-blocks</a>&nbsp;<a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank"><img src="https://img.shields.io/github/stars/eddysims/find-my-blocks?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/radareorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by radare2" target="_blank">cutter</a>&nbsp;<a href="https://github.com/radareorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by radare2" target="_blank"><img src="https://img.shields.io/github/stars/radareorg/cutter?style=social" alt="GitHub"></a>
+<a href="https://github.com/rizinorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by rizin" target="_blank">cutter</a>&nbsp;<a href="https://github.com/rizinorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by rizin" target="_blank"><img src="https://img.shields.io/github/stars/rizinorg/cutter?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank">desktop</a>&nbsp;<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank"><img src="https://img.shields.io/github/stars/desktop/desktop?style=social" alt="GitHub"></a>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank">docker-alertmanager-snow-webhook</a>&nbsp;<a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/docker-alertmanager-snow-webhook?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/CrowdNotifier/documents" title="null" target="_blank">documents</a>&nbsp;<a href="https://github.com/CrowdNotifier/documents" title="null" target="_blank"><img src="https://img.shields.io/github/stars/CrowdNotifier/documents?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank">css-in-readme-like-wat</a>&nbsp;<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank"><img src="https://img.shields.io/github/stars/sindresorhus/css-in-readme-like-wat?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank">ms-teams-rce</a>&nbsp;<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank"><img src="https://img.shields.io/github/stars/oskarsve/ms-teams-rce?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank">vim-mario</a>&nbsp;<a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank"><img src="https://img.shields.io/github/stars/rbtnn/vim-mario?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank">org-roam</a>&nbsp;<a href="https://github.com/org-roam/org-roam" title="Rudimentary Roam replica with Org-mode" target="_blank"><img src="https://img.shields.io/github/stars/org-roam/org-roam?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 08 Dec 2020 13:42:17 GMT</small>
+<small>⏰ Updated on Wed, 09 Dec 2020 13:42:45 GMT</small>
 </td>
 </tr>
 </tfoot>
