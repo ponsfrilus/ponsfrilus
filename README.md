@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank">graphql-voyager</a>&nbsp;<a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank"><img src="https://img.shields.io/github/stars/APIs-guru/graphql-voyager?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role." target="_blank">school-of-sre</a>&nbsp;<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role." target="_blank"><img src="https://img.shields.io/github/stars/linkedin/school-of-sre?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank">nyt-2020-election-scraper</a>&nbsp;<a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/alex/nyt-2020-election-scraper?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank">docker-alertmanager-snow-webhook</a>&nbsp;<a href="https://github.com/camptocamp/docker-alertmanager-snow-webhook" title="null" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/docker-alertmanager-snow-webhook?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank">PlotJuggler</a>&nbsp;<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank"><img src="https://img.shields.io/github/stars/facontidavide/PlotJuggler?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank">css-in-readme-like-wat</a>&nbsp;<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank"><img src="https://img.shields.io/github/stars/sindresorhus/css-in-readme-like-wat?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode." target="_blank">wp-plugin-epfl-coming-soon</a>&nbsp;<a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode." target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-plugin-epfl-coming-soon?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank">vim-mario</a>&nbsp;<a href="https://github.com/rbtnn/vim-mario" title="Mario on Vim" target="_blank"><img src="https://img.shields.io/github/stars/rbtnn/vim-mario?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 09 Dec 2020 13:42:45 GMT</small>
+<small>⏰ Updated on Thu, 10 Dec 2020 13:43:21 GMT</small>
 </td>
 </tr>
 </tfoot>
