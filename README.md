@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank">unsplash-wallpaper</a>&nbsp;<a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank"><img src="https://img.shields.io/github/stars/cuth/unsplash-wallpaper?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank">PlotJuggler</a>&nbsp;<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank"><img src="https://img.shields.io/github/stars/facontidavide/PlotJuggler?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank">css-in-readme-like-wat</a>&nbsp;<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank"><img src="https://img.shields.io/github/stars/sindresorhus/css-in-readme-like-wat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank">ms-teams-rce</a>&nbsp;<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank"><img src="https://img.shields.io/github/stars/oskarsve/ms-teams-rce?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank">node-myanimelist-oauth-example</a>&nbsp;<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank"><img src="https://img.shields.io/github/stars/ipmanlk/node-myanimelist-oauth-example?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank">ish</a>&nbsp;<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank"><img src="https://img.shields.io/github/stars/ish-app/ish?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank">1mb-club</a>&nbsp;<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank"><img src="https://img.shields.io/github/stars/bradleytaunt/1mb-club?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank">gh-pages-url-shortener</a>&nbsp;<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank"><img src="https://img.shields.io/github/stars/nelsontky/gh-pages-url-shortener?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank">logseq</a>&nbsp;<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank"><img src="https://img.shields.io/github/stars/logseq/logseq?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tomnomnom/gron" title="Make JSON greppable!" target="_blank">gron</a>&nbsp;<a href="https://github.com/tomnomnom/gron" title="Make JSON greppable!" target="_blank"><img src="https://img.shields.io/github/stars/tomnomnom/gron?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank">graphql-voyager</a>&nbsp;<a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank"><img src="https://img.shields.io/github/stars/APIs-guru/graphql-voyager?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,51 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank">PlotJuggler</a>&nbsp;<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank"><img src="https://img.shields.io/github/stars/facontidavide/PlotJuggler?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank">css-in-readme-like-wat</a>&nbsp;<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank"><img src="https://img.shields.io/github/stars/sindresorhus/css-in-readme-like-wat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank">ms-teams-rce</a>&nbsp;<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank"><img src="https://img.shields.io/github/stars/oskarsve/ms-teams-rce?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank">node-myanimelist-oauth-example</a>&nbsp;<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank"><img src="https://img.shields.io/github/stars/ipmanlk/node-myanimelist-oauth-example?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank">ish</a>&nbsp;<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank"><img src="https://img.shields.io/github/stars/ish-app/ish?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank">1mb-club</a>&nbsp;<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank"><img src="https://img.shields.io/github/stars/bradleytaunt/1mb-club?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank">gh-pages-url-shortener</a>&nbsp;<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank"><img src="https://img.shields.io/github/stars/nelsontky/gh-pages-url-shortener?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank">logseq</a>&nbsp;<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank"><img src="https://img.shields.io/github/stars/logseq/logseq?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tomnomnom/gron" title="Make JSON greppable!" target="_blank">gron</a>&nbsp;<a href="https://github.com/tomnomnom/gron" title="Make JSON greppable!" target="_blank"><img src="https://img.shields.io/github/stars/tomnomnom/gron?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode." target="_blank">wp-plugin-epfl-coming-soon</a>&nbsp;<a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode." target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-plugin-epfl-coming-soon?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/f7dff531f55284110a20ac21dea06b58873ab819" title="2020-12-10T18:18:00.000+01:00" target="_blank">f7dff531</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[add] Day 10 solution (1)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/2fe2755674e441c1d976b19374278652cbf10b79" title="2020-12-10T18:17:38.000+01:00" target="_blank">2fe27556</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[add] Day 09 solution</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/1ec1d9010105469836126e1afeed7e342bfeb19f" title="2020-12-10T18:17:26.000+01:00" target="_blank">1ec1d901</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[fix]</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/9c7acf82419e61af2eda71b6b72b8b88fd441b5c" title="2020-12-10T18:17:18.000+01:00" target="_blank">9c7acf82</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[add] Day 08 solution</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/9d7d6d4efc5cd82453e92862a330dceb9242181e" title="2020-12-08T17:09:25.000+01:00" target="_blank">9d7d6d4e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[add] Day 07 solution</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/ec0f0f590947c5467718feed6d064c671315b198" title="2020-12-08T17:08:46.000+01:00" target="_blank">ec0f0f59</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[format] prettier</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/4f5bcc4cda4b25da3b6adba7f231b793161f0e71" title="2020-12-06T12:04:17.000+01:00" target="_blank">4f5bcc4c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[add] Day 06 solution</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/2a625d39fc91eeaffcaad6ca2af5cdb009f02694" title="2020-12-05T09:29:18.000+01:00" target="_blank">2a625d39</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
+          <pre>[add] Day 06 solution</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/c9b62aaf54140e056718ed90fe1a44080ba64fe6" title="2020-12-04T13:19:08.000+01:00" target="_blank">c9b62aaf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
           <pre>[add] Day 04 solution</pre>
@@ -111,51 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/ce64caf275ac250f3fc41eb2d47e457c06bfe375" title="2020-12-03T15:41:24.000+01:00" target="_blank">ce64caf2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
           <pre>[typo]</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/f099989ac2880f45e207eb728873fb2e10b3ddc7" title="2020-12-03T15:41:01.000+01:00" target="_blank">f099989a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[add] Day 03 solution</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/0c163b037da1e41ab3e482166cc82aa0de0ebeb2" title="2020-12-02T13:03:11.000+01:00" target="_blank">0c163b03</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[feature] `node index.js all` to run them all</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/dbe3d6002f5e4864a1702daebc3e06e0e544ba07" title="2020-12-02T12:24:58.000+01:00" target="_blank">dbe3d600</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[fix] dummyData in index.js</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/78a41eeb82dd2c413382dec12a938c3dd011bad7" title="2020-12-02T12:14:29.000+01:00" target="_blank">78a41eeb</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[doc] README created</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/65328b1c55143b4b9578593c04eadea8f68d5bb1" title="2020-12-02T12:14:12.000+01:00" target="_blank">65328b1c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[feature] Day's scaffolding</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/3f00f1713be9b9deba910bfcffd2b45296e4ca91" title="2020-12-02T12:13:57.000+01:00" target="_blank">3f00f171</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[refactor] exports</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/2671740510f7b36b57a93102d481ee28b9b9ce18" title="2020-12-02T10:42:47.000+01:00" target="_blank">26717405</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[add] Day 02 solution</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/ccae00114e77a187dfe69f07a7001a2c48ac4ac5" title="2020-12-02T10:42:36.000+01:00" target="_blank">ccae0011</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[add] Day 01 solution</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 10 Dec 2020 13:43:21 GMT</small>
+<small>⏰ Updated on Fri, 11 Dec 2020 13:43:35 GMT</small>
 </td>
 </tr>
 </tfoot>
