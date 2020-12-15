@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/LawsOfUX/commits/a9272e2eed31b497f70070c18aaae4db75b47a4b" title="2020-12-15T10:08:25.000+01:00" target="_blank">a9272e2e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/LawsOfUX" title="null">/LawsOfUX</a></strong></div>
+          <pre>Update README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/LawsOfUX/commits/7adb59ea435274082246a8e654cdfc9711b26ca1" title="2020-12-15T10:06:55.000+01:00" target="_blank">7adb59ea</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/LawsOfUX" title="null">/LawsOfUX</a></strong></div>
+          <pre>init</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/f7dff531f55284110a20ac21dea06b58873ab819" title="2020-12-10T18:18:00.000+01:00" target="_blank">f7dff531</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
           <pre>[add] Day 10 solution (1)</pre>
         </td>
@@ -141,21 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/2a625d39fc91eeaffcaad6ca2af5cdb009f02694" title="2020-12-05T09:29:18.000+01:00" target="_blank">2a625d39</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
           <pre>[add] Day 06 solution</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/c9b62aaf54140e056718ed90fe1a44080ba64fe6" title="2020-12-04T13:19:08.000+01:00" target="_blank">c9b62aaf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[add] Day 04 solution</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/ce64caf275ac250f3fc41eb2d47e457c06bfe375" title="2020-12-03T15:41:24.000+01:00" target="_blank">ce64caf2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[typo]</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 14 Dec 2020 13:44:44 GMT</small>
+<small>⏰ Updated on Tue, 15 Dec 2020 13:44:48 GMT</small>
 </td>
 </tr>
 </tfoot>
