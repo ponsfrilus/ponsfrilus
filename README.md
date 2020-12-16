@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/wagtail/wagtail" title="A Django content management system focused on flexibility and user experience" target="_blank">wagtail</a>&nbsp;<a href="https://github.com/wagtail/wagtail" title="A Django content management system focused on flexibility and user experience" target="_blank"><img src="https://img.shields.io/github/stars/wagtail/wagtail?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank">graphql-voyager</a>&nbsp;<a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank"><img src="https://img.shields.io/github/stars/APIs-guru/graphql-voyager?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role." target="_blank">school-of-sre</a>&nbsp;<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role." target="_blank"><img src="https://img.shields.io/github/stars/linkedin/school-of-sre?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank">tectonic</a>&nbsp;<a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank"><img src="https://img.shields.io/github/stars/crlf0710/tectonic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/NUKnightLab/sql-mysteries" title="Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!" target="_blank">sql-mysteries</a>&nbsp;<a href="https://github.com/NUKnightLab/sql-mysteries" title="Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!" target="_blank"><img src="https://img.shields.io/github/stars/NUKnightLab/sql-mysteries?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/utmapp/UTM" title="Virtual machines for iOS" target="_blank">UTM</a>&nbsp;<a href="https://github.com/utmapp/UTM" title="Virtual machines for iOS" target="_blank"><img src="https://img.shields.io/github/stars/utmapp/UTM?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank">find-my-blocks</a>&nbsp;<a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank"><img src="https://img.shields.io/github/stars/eddysims/find-my-blocks?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rizinorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by rizin" target="_blank">cutter</a>&nbsp;<a href="https://github.com/rizinorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by rizin" target="_blank"><img src="https://img.shields.io/github/stars/rizinorg/cutter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank">desktop</a>&nbsp;<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank"><img src="https://img.shields.io/github/stars/desktop/desktop?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank">readme</a>&nbsp;<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank"><img src="https://img.shields.io/github/stars/notifyme-app/readme?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank">unsplash-wallpaper</a>&nbsp;<a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank"><img src="https://img.shields.io/github/stars/cuth/unsplash-wallpaper?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank">graphql-voyager</a>&nbsp;<a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank"><img src="https://img.shields.io/github/stars/APIs-guru/graphql-voyager?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role." target="_blank">school-of-sre</a>&nbsp;<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role." target="_blank"><img src="https://img.shields.io/github/stars/linkedin/school-of-sre?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank">tectonic</a>&nbsp;<a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank"><img src="https://img.shields.io/github/stars/crlf0710/tectonic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/NUKnightLab/sql-mysteries" title="Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!" target="_blank">sql-mysteries</a>&nbsp;<a href="https://github.com/NUKnightLab/sql-mysteries" title="Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!" target="_blank"><img src="https://img.shields.io/github/stars/NUKnightLab/sql-mysteries?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/utmapp/UTM" title="Virtual machines for iOS" target="_blank">UTM</a>&nbsp;<a href="https://github.com/utmapp/UTM" title="Virtual machines for iOS" target="_blank"><img src="https://img.shields.io/github/stars/utmapp/UTM?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank">find-my-blocks</a>&nbsp;<a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank"><img src="https://img.shields.io/github/stars/eddysims/find-my-blocks?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rizinorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by rizin" target="_blank">cutter</a>&nbsp;<a href="https://github.com/rizinorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by rizin" target="_blank"><img src="https://img.shields.io/github/stars/rizinorg/cutter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank">desktop</a>&nbsp;<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank"><img src="https://img.shields.io/github/stars/desktop/desktop?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank">readme</a>&nbsp;<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank"><img src="https://img.shields.io/github/stars/notifyme-app/readme?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank">nyt-2020-election-scraper</a>&nbsp;<a href="https://github.com/alex/nyt-2020-election-scraper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/alex/nyt-2020-election-scraper?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/9a140c6314586b1dd66fed47f4ce0fd84a4e6721" title="2020-12-15T19:13:20.000+01:00" target="_blank">9a140c63</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="null">/kata-manga</a></strong></div>
+          <pre>[init] import top 100 MAL mangas</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/LawsOfUX/commits/a9272e2eed31b497f70070c18aaae4db75b47a4b" title="2020-12-15T10:08:25.000+01:00" target="_blank">a9272e2e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/LawsOfUX" title="null">/LawsOfUX</a></strong></div>
           <pre>Update README.md</pre>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/4f5bcc4cda4b25da3b6adba7f231b793161f0e71" title="2020-12-06T12:04:17.000+01:00" target="_blank">4f5bcc4c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
           <pre>[add] Day 06 solution</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/2a625d39fc91eeaffcaad6ca2af5cdb009f02694" title="2020-12-05T09:29:18.000+01:00" target="_blank">2a625d39</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[add] Day 06 solution</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 15 Dec 2020 13:44:48 GMT</small>
+<small>⏰ Updated on Wed, 16 Dec 2020 13:45:03 GMT</small>
 </td>
 </tr>
 </tfoot>
