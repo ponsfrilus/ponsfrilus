@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/rocky-linux/rocky" title="Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS." target="_blank">rocky</a>&nbsp;<a href="https://github.com/rocky-linux/rocky" title="Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS." target="_blank"><img src="https://img.shields.io/github/stars/rocky-linux/rocky?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank">unsplash-wallpaper</a>&nbsp;<a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank"><img src="https://img.shields.io/github/stars/cuth/unsplash-wallpaper?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank">PlotJuggler</a>&nbsp;<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank"><img src="https://img.shields.io/github/stars/facontidavide/PlotJuggler?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank">css-in-readme-like-wat</a>&nbsp;<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank"><img src="https://img.shields.io/github/stars/sindresorhus/css-in-readme-like-wat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank">ms-teams-rce</a>&nbsp;<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank"><img src="https://img.shields.io/github/stars/oskarsve/ms-teams-rce?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank">node-myanimelist-oauth-example</a>&nbsp;<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank"><img src="https://img.shields.io/github/stars/ipmanlk/node-myanimelist-oauth-example?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank">ish</a>&nbsp;<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank"><img src="https://img.shields.io/github/stars/ish-app/ish?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank">1mb-club</a>&nbsp;<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank"><img src="https://img.shields.io/github/stars/bradleytaunt/1mb-club?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank">gh-pages-url-shortener</a>&nbsp;<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank"><img src="https://img.shields.io/github/stars/nelsontky/gh-pages-url-shortener?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank">logseq</a>&nbsp;<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank"><img src="https://img.shields.io/github/stars/logseq/logseq?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/wagtail/wagtail" title="A Django content management system focused on flexibility and user experience" target="_blank">wagtail</a>&nbsp;<a href="https://github.com/wagtail/wagtail" title="A Django content management system focused on flexibility and user experience" target="_blank"><img src="https://img.shields.io/github/stars/wagtail/wagtail?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank">readme</a>&nbsp;<a href="https://github.com/notifyme-app/readme" title="Overview of NotifyMe: A decentralised check-in system for meetings and events" target="_blank"><img src="https://img.shields.io/github/stars/notifyme-app/readme?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank">unsplash-wallpaper</a>&nbsp;<a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank"><img src="https://img.shields.io/github/stars/cuth/unsplash-wallpaper?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank">PlotJuggler</a>&nbsp;<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank"><img src="https://img.shields.io/github/stars/facontidavide/PlotJuggler?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank">css-in-readme-like-wat</a>&nbsp;<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank"><img src="https://img.shields.io/github/stars/sindresorhus/css-in-readme-like-wat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank">ms-teams-rce</a>&nbsp;<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank"><img src="https://img.shields.io/github/stars/oskarsve/ms-teams-rce?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank">node-myanimelist-oauth-example</a>&nbsp;<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank"><img src="https://img.shields.io/github/stars/ipmanlk/node-myanimelist-oauth-example?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank">ish</a>&nbsp;<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank"><img src="https://img.shields.io/github/stars/ish-app/ish?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank">1mb-club</a>&nbsp;<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank"><img src="https://img.shields.io/github/stars/bradleytaunt/1mb-club?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank">gh-pages-url-shortener</a>&nbsp;<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank"><img src="https://img.shields.io/github/stars/nelsontky/gh-pages-url-shortener?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank">logseq</a>&nbsp;<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank"><img src="https://img.shields.io/github/stars/logseq/logseq?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tomnomnom/gron" title="Make JSON greppable!" target="_blank">gron</a>&nbsp;<a href="https://github.com/tomnomnom/gron" title="Make JSON greppable!" target="_blank"><img src="https://img.shields.io/github/stars/tomnomnom/gron?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 16 Dec 2020 13:45:03 GMT</small>
+<small>⏰ Updated on Thu, 17 Dec 2020 13:46:40 GMT</small>
 </td>
 </tr>
 </tfoot>
