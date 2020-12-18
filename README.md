@@ -103,6 +103,23 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/ae70e00dfed372c4ad20e5d04a7c307d246334f0" title="2020-12-17T17:38:32.000+01:00" target="_blank">ae70e00d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="null">/kata-manga</a></strong></div>
+          <pre>[feature] CdC</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/59237bcee0dad1bb00b8c4fcd77764b3421c0e99" title="2020-12-17T13:34:18.000+01:00" target="_blank">59237bce</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="null">/kata-manga</a></strong></div>
+          <pre>[feature] add image and volumes to DB
+
+... plus better readme</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/a12011741b9af63ff168838e9e95db0aacd763fc" title="2020-12-15T19:18:04.000+01:00" target="_blank">a1201174</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="null">/kata-manga</a></strong></div>
+          <pre>[chore] commented constraints removed</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/9a140c6314586b1dd66fed47f4ce0fd84a4e6721" title="2020-12-15T19:13:20.000+01:00" target="_blank">9a140c63</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="null">/kata-manga</a></strong></div>
           <pre>[init] import top 100 MAL mangas</pre>
         </td>
@@ -136,26 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/9c7acf82419e61af2eda71b6b72b8b88fd441b5c" title="2020-12-10T18:17:18.000+01:00" target="_blank">9c7acf82</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
           <pre>[add] Day 08 solution</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/9d7d6d4efc5cd82453e92862a330dceb9242181e" title="2020-12-08T17:09:25.000+01:00" target="_blank">9d7d6d4e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[add] Day 07 solution</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/ec0f0f590947c5467718feed6d064c671315b198" title="2020-12-08T17:08:46.000+01:00" target="_blank">ec0f0f59</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[format] prettier</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/4f5bcc4cda4b25da3b6adba7f231b793161f0e71" title="2020-12-06T12:04:17.000+01:00" target="_blank">4f5bcc4c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[add] Day 06 solution</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 17 Dec 2020 13:46:40 GMT</small>
+<small>⏰ Updated on Fri, 18 Dec 2020 13:48:43 GMT</small>
 </td>
 </tr>
 </tfoot>
