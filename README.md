@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/8229ec621b4de254b9b55d4bdfe8f96e05e81199" title="2021-01-04T13:51:32.000+01:00" target="_blank">8229ec62</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="null">/kata-manga</a></strong></div>
+          <pre>[beautifullage] fix alignment</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/ae70e00dfed372c4ad20e5d04a7c307d246334f0" title="2020-12-17T17:38:32.000+01:00" target="_blank">ae70e00d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="null">/kata-manga</a></strong></div>
           <pre>[feature] CdC</pre>
         </td>
@@ -148,16 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/1ec1d9010105469836126e1afeed7e342bfeb19f" title="2020-12-10T18:17:26.000+01:00" target="_blank">1ec1d901</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
           <pre>[fix]</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/9c7acf82419e61af2eda71b6b72b8b88fd441b5c" title="2020-12-10T18:17:18.000+01:00" target="_blank">9c7acf82</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[add] Day 08 solution</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 01 Jan 2021 13:57:27 GMT</small>
+<small>⏰ Updated on Mon, 04 Jan 2021 14:00:58 GMT</small>
 </td>
 </tr>
 </tfoot>
