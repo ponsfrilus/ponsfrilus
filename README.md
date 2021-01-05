@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/TanguyCavagna/Animanga" title="Travail Pratique Individuel (TPI) de fin de formation CFC-Informaticien Développement d'Application" target="_blank">Animanga</a>&nbsp;<a href="https://github.com/TanguyCavagna/Animanga" title="Travail Pratique Individuel (TPI) de fin de formation CFC-Informaticien Développement d'Application" target="_blank"><img src="https://img.shields.io/github/stars/TanguyCavagna/Animanga?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/Kong/insomnia" title="The Open Source API Client and Design Platform for GraphQL, REST and gRPC" target="_blank">insomnia</a>&nbsp;<a href="https://github.com/Kong/insomnia" title="The Open Source API Client and Design Platform for GraphQL, REST and gRPC" target="_blank"><img src="https://img.shields.io/github/stars/Kong/insomnia?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/rizinorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by rizin" target="_blank">cutter</a>&nbsp;<a href="https://github.com/rizinorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by rizin" target="_blank"><img src="https://img.shields.io/github/stars/rizinorg/cutter?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank">desktop</a>&nbsp;<a href="https://github.com/desktop/desktop" title="Simple collaboration from your desktop" target="_blank"><img src="https://img.shields.io/github/stars/desktop/desktop?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank">Project-Lightspeed</a>&nbsp;<a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank"><img src="https://img.shields.io/github/stars/GRVYDEV/Project-Lightspeed?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/rocky-linux/rocky" title="Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS." target="_blank">rocky</a>&nbsp;<a href="https://github.com/rocky-linux/rocky" title="Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS." target="_blank"><img src="https://img.shields.io/github/stars/rocky-linux/rocky?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank">gh-pages-url-shortener</a>&nbsp;<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank"><img src="https://img.shields.io/github/stars/nelsontky/gh-pages-url-shortener?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank">logseq</a>&nbsp;<a href="https://github.com/logseq/logseq" title="A privacy-first, open-source platform for knowledge sharing and management. " target="_blank"><img src="https://img.shields.io/github/stars/logseq/logseq?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -103,29 +103,46 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/8229ec621b4de254b9b55d4bdfe8f96e05e81199" title="2021-01-04T13:51:32.000+01:00" target="_blank">8229ec62</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="null">/kata-manga</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/0c4e2b47c65a9d0f6e8f55e7f7724fb855818a21" title="2021-01-04T18:16:47.000+01:00" target="_blank">0c4e2b47</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #385 from epfl-si/feature/move-backups-on-wp-infra
+
+Feature/move backups on wp infra</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f3df895a6b38705036241569114418b164279ac3" title="2021-01-04T18:06:58.000+01:00" target="_blank">f3df895a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] host rule
+
+The wildcard trick (`rule: "Host(``)"`) that was matching any host is
+not working anymore. The new rule is now set to address
+`prometheus-wwp.epfl.ch`. This mean that other routes, as
+`https://prometheus2.128.178.222.83.nip.io` won't work from now.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/8229ec621b4de254b9b55d4bdfe8f96e05e81199" title="2021-01-04T13:51:32.000+01:00" target="_blank">8229ec62</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
           <pre>[beautifullage] fix alignment</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/ae70e00dfed372c4ad20e5d04a7c307d246334f0" title="2020-12-17T17:38:32.000+01:00" target="_blank">ae70e00d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="null">/kata-manga</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/ae70e00dfed372c4ad20e5d04a7c307d246334f0" title="2020-12-17T17:38:32.000+01:00" target="_blank">ae70e00d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
           <pre>[feature] CdC</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/59237bcee0dad1bb00b8c4fcd77764b3421c0e99" title="2020-12-17T13:34:18.000+01:00" target="_blank">59237bce</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="null">/kata-manga</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/59237bcee0dad1bb00b8c4fcd77764b3421c0e99" title="2020-12-17T13:34:18.000+01:00" target="_blank">59237bce</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
           <pre>[feature] add image and volumes to DB
 
 ... plus better readme</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/a12011741b9af63ff168838e9e95db0aacd763fc" title="2020-12-15T19:18:04.000+01:00" target="_blank">a1201174</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="null">/kata-manga</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/a12011741b9af63ff168838e9e95db0aacd763fc" title="2020-12-15T19:18:04.000+01:00" target="_blank">a1201174</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
           <pre>[chore] commented constraints removed</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/9a140c6314586b1dd66fed47f4ce0fd84a4e6721" title="2020-12-15T19:13:20.000+01:00" target="_blank">9a140c63</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="null">/kata-manga</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/9a140c6314586b1dd66fed47f4ce0fd84a4e6721" title="2020-12-15T19:13:20.000+01:00" target="_blank">9a140c63</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
           <pre>[init] import top 100 MAL mangas</pre>
         </td>
         </tr><tr>
@@ -143,21 +160,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/f7dff531f55284110a20ac21dea06b58873ab819" title="2020-12-10T18:18:00.000+01:00" target="_blank">f7dff531</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
           <pre>[add] Day 10 solution (1)</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/2fe2755674e441c1d976b19374278652cbf10b79" title="2020-12-10T18:17:38.000+01:00" target="_blank">2fe27556</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[add] Day 09 solution</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/1ec1d9010105469836126e1afeed7e342bfeb19f" title="2020-12-10T18:17:26.000+01:00" target="_blank">1ec1d901</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[fix]</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 04 Jan 2021 14:00:58 GMT</small>
+<small>⏰ Updated on Tue, 05 Jan 2021 14:01:31 GMT</small>
 </td>
 </tr>
 </tfoot>
