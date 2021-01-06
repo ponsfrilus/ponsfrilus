@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ab6d776b40925b678252c1ebec29358babeb19b8" title="2021-01-05T16:27:55.000+01:00" target="_blank">ab6d776b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #398 from epfl-si/fix/pushgateway-wwp-infra
+
+[fix] push to wwp-infra pushgateway</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/0c4e2b47c65a9d0f6e8f55e7f7724fb855818a21" title="2021-01-04T18:16:47.000+01:00" target="_blank">0c4e2b47</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #385 from epfl-si/feature/move-backups-on-wp-infra
 
@@ -155,16 +162,11 @@ not working anymore. The new rule is now set to address
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/LawsOfUX/commits/7adb59ea435274082246a8e654cdfc9711b26ca1" title="2020-12-15T10:06:55.000+01:00" target="_blank">7adb59ea</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/LawsOfUX" title="null">/LawsOfUX</a></strong></div>
           <pre>init</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AoC2020/commits/f7dff531f55284110a20ac21dea06b58873ab819" title="2020-12-10T18:18:00.000+01:00" target="_blank">f7dff531</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AoC2020" title="null">/AoC2020</a></strong></div>
-          <pre>[add] Day 10 solution (1)</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 05 Jan 2021 14:01:31 GMT</small>
+<small>⏰ Updated on Wed, 06 Jan 2021 14:02:20 GMT</small>
 </td>
 </tr>
 </tfoot>
