@@ -103,10 +103,46 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6fe9a93e3f464f9a45ee9083c04c6d159176b7e8" title="2021-01-07T08:37:02.000+01:00" target="_blank">6fe9a93e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #397 from epfl-si/ocd/tailing-stuff
+
+[ocd] trailing spaces and EOF new line</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/e2809300eb7fcecc31a091dc1b6df93480ecda59" title="2021-01-07T08:36:10.000+01:00" target="_blank">e2809300</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #402 from epfl-si/fix/configurator-cache
+
+[fix] ensure that targets are regenerated every run</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/cb8701067da6f5e0c7767c489b0440055c5c7712" title="2021-01-06T19:53:18.000+01:00" target="_blank">cb870106</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[reviewed] as asked</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/e5931bed640c05cf1b4d4ba5a7919643aca2e783" title="2021-01-06T19:34:13.000+01:00" target="_blank">e5931bed</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] ensure that target are regenerated each run</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/nicolasreymond/Kata-API/commits/5e25bb6e59a24a21740e3fe6998c5f47c4272233" title="2021-01-06T16:53:27.000+01:00" target="_blank">5e25bb6e</a><a href="https://github.com/nicolasreymond">@nicolasreymond</a><a href="https://github.com/nicolasreymond/Kata-API" title="null">/Kata-API</a></strong></div>
+          <pre>Merge pull request #4 from SaphireVert/contributors
+
+[Add] Added SaphireVert in Contributors list</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ab6d776b40925b678252c1ebec29358babeb19b8" title="2021-01-05T16:27:55.000+01:00" target="_blank">ab6d776b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #398 from epfl-si/fix/pushgateway-wwp-infra
 
 [fix] push to wwp-infra pushgateway</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/73677fc0a2251c375e82c939fb4f33fbe333be41" title="2021-01-04T19:23:38.000+01:00" target="_blank">73677fc0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[ocd] trailing spaces and EOF</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -130,43 +166,11 @@ not working anymore. The new rule is now set to address
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/8229ec621b4de254b9b55d4bdfe8f96e05e81199" title="2021-01-04T13:51:32.000+01:00" target="_blank">8229ec62</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
           <pre>[beautifullage] fix alignment</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/ae70e00dfed372c4ad20e5d04a7c307d246334f0" title="2020-12-17T17:38:32.000+01:00" target="_blank">ae70e00d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
-          <pre>[feature] CdC</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/59237bcee0dad1bb00b8c4fcd77764b3421c0e99" title="2020-12-17T13:34:18.000+01:00" target="_blank">59237bce</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
-          <pre>[feature] add image and volumes to DB
-
-... plus better readme</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/a12011741b9af63ff168838e9e95db0aacd763fc" title="2020-12-15T19:18:04.000+01:00" target="_blank">a1201174</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
-          <pre>[chore] commented constraints removed</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/9a140c6314586b1dd66fed47f4ce0fd84a4e6721" title="2020-12-15T19:13:20.000+01:00" target="_blank">9a140c63</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
-          <pre>[init] import top 100 MAL mangas</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/LawsOfUX/commits/a9272e2eed31b497f70070c18aaae4db75b47a4b" title="2020-12-15T10:08:25.000+01:00" target="_blank">a9272e2e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/LawsOfUX" title="null">/LawsOfUX</a></strong></div>
-          <pre>Update README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/LawsOfUX/commits/7adb59ea435274082246a8e654cdfc9711b26ca1" title="2020-12-15T10:06:55.000+01:00" target="_blank">7adb59ea</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/LawsOfUX" title="null">/LawsOfUX</a></strong></div>
-          <pre>init</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 06 Jan 2021 14:02:20 GMT</small>
+<small>⏰ Updated on Thu, 07 Jan 2021 14:03:09 GMT</small>
 </td>
 </tr>
 </tfoot>
