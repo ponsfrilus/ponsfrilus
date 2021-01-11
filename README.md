@@ -103,6 +103,26 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/69a82870c18b102e2a34853dab3d07b744ab6c74" title="2021-01-11T10:18:19.000+01:00" target="_blank">69a82870</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] a limit domain</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/aa9cc410ed6754e932daf393d37545d135acdbc3" title="2021-01-09T13:32:29.000+01:00" target="_blank">aa9cc410</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] commander</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/3ab64a9e369b7c51e255581484fdc3764a6a08ff" title="2021-01-09T12:45:10.000+01:00" target="_blank">3ab64a9e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] tsified</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/586d6baef51559c402eef768886a52f4a0556b9e" title="2021-01-09T11:39:26.000+01:00" target="_blank">586d6bae</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[init] foundation</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6fe9a93e3f464f9a45ee9083c04c6d159176b7e8" title="2021-01-07T08:37:02.000+01:00" target="_blank">6fe9a93e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #397 from epfl-si/ocd/tailing-stuff
 
@@ -139,38 +159,11 @@
 
 [fix] push to wwp-infra pushgateway</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/73677fc0a2251c375e82c939fb4f33fbe333be41" title="2021-01-04T19:23:38.000+01:00" target="_blank">73677fc0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[ocd] trailing spaces and EOF</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/0c4e2b47c65a9d0f6e8f55e7f7724fb855818a21" title="2021-01-04T18:16:47.000+01:00" target="_blank">0c4e2b47</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #385 from epfl-si/feature/move-backups-on-wp-infra
-
-Feature/move backups on wp infra</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f3df895a6b38705036241569114418b164279ac3" title="2021-01-04T18:06:58.000+01:00" target="_blank">f3df895a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] host rule
-
-The wildcard trick (`rule: "Host(``)"`) that was matching any host is
-not working anymore. The new rule is now set to address
-`prometheus-wwp.epfl.ch`. This mean that other routes, as
-`https://prometheus2.128.178.222.83.nip.io` won't work from now.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/8229ec621b4de254b9b55d4bdfe8f96e05e81199" title="2021-01-04T13:51:32.000+01:00" target="_blank">8229ec62</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
-          <pre>[beautifullage] fix alignment</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 08 Jan 2021 14:04:59 GMT</small>
+<small>⏰ Updated on Mon, 11 Jan 2021 14:09:35 GMT</small>
 </td>
 </tr>
 </tfoot>
