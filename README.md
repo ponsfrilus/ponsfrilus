@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/jbesomi/texthero" title="Text preprocessing, representation and visualization from zero to hero." target="_blank">texthero</a>&nbsp;<a href="https://github.com/jbesomi/texthero" title="Text preprocessing, representation and visualization from zero to hero." target="_blank"><img src="https://img.shields.io/github/stars/jbesomi/texthero?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/TanguyCavagna/Animanga" title="Travail Pratique Individuel (TPI) de fin de formation CFC-Informaticien Développement d'Application" target="_blank">Animanga</a>&nbsp;<a href="https://github.com/TanguyCavagna/Animanga" title="Travail Pratique Individuel (TPI) de fin de formation CFC-Informaticien Développement d'Application" target="_blank"><img src="https://img.shields.io/github/stars/TanguyCavagna/Animanga?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank">find-my-blocks</a>&nbsp;<a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank"><img src="https://img.shields.io/github/stars/eddysims/find-my-blocks?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/rizinorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by rizin" target="_blank">cutter</a>&nbsp;<a href="https://github.com/rizinorg/cutter" title="Free and Open Source Reverse Engineering Platform powered by rizin" target="_blank"><img src="https://img.shields.io/github/stars/rizinorg/cutter?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/dbeaver/dbeaver" title="Free universal database tool and SQL client" target="_blank">dbeaver</a>&nbsp;<a href="https://github.com/dbeaver/dbeaver" title="Free universal database tool and SQL client" target="_blank"><img src="https://img.shields.io/github/stars/dbeaver/dbeaver?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank">Project-Lightspeed</a>&nbsp;<a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank"><img src="https://img.shields.io/github/stars/GRVYDEV/Project-Lightspeed?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank">1mb-club</a>&nbsp;<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank"><img src="https://img.shields.io/github/stars/bradleytaunt/1mb-club?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank">gh-pages-url-shortener</a>&nbsp;<a href="https://github.com/nelsontky/gh-pages-url-shortener" title="Minimal URL shortener that can be entirely hosted on GitHub pages." target="_blank"><img src="https://img.shields.io/github/stars/nelsontky/gh-pages-url-shortener?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,38 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/55d12e6c841cbf0502656bba1ffb58fcbe09750e" title="2021-01-11T16:53:37.000+01:00" target="_blank">55d12e6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #406 from epfl-si/fix/pushgateway-on-infra
+
+[fix] no more pushgateway on `wwp`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/f189cc8945e593979df26baf0ad10855195531eb" title="2021-01-11T16:39:26.000+01:00" target="_blank">f189cc89</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[refactor] call options</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/669f44342f94c0b9ab059ef536659da865d9805f" title="2021-01-11T16:37:22.000+01:00" target="_blank">669f4434</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[fix] debug renamed to dumpOptions</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/d98256d573ef51d5b459497e259f6459f12b2fb1" title="2021-01-11T16:31:10.000+01:00" target="_blank">d98256d5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[doc] README + console</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/0ec0fac826dbda0065ac56d2cb596b5b03a88acf" title="2021-01-11T16:23:22.000+01:00" target="_blank">0ec0fac8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[fix] empty limit should work</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/9653636c2009c4570bc76ed4acd6ecf64c7bf775" title="2021-01-11T16:20:58.000+01:00" target="_blank">9653636c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[cosmetic] pretterified</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/69a82870c18b102e2a34853dab3d07b744ab6c74" title="2021-01-11T10:18:19.000+01:00" target="_blank">69a82870</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[feature] a limit domain</pre>
@@ -121,49 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/586d6baef51559c402eef768886a52f4a0556b9e" title="2021-01-09T11:39:26.000+01:00" target="_blank">586d6bae</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[init] foundation</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6fe9a93e3f464f9a45ee9083c04c6d159176b7e8" title="2021-01-07T08:37:02.000+01:00" target="_blank">6fe9a93e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #397 from epfl-si/ocd/tailing-stuff
-
-[ocd] trailing spaces and EOF new line</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/e2809300eb7fcecc31a091dc1b6df93480ecda59" title="2021-01-07T08:36:10.000+01:00" target="_blank">e2809300</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #402 from epfl-si/fix/configurator-cache
-
-[fix] ensure that targets are regenerated every run</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/cb8701067da6f5e0c7767c489b0440055c5c7712" title="2021-01-06T19:53:18.000+01:00" target="_blank">cb870106</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[reviewed] as asked</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/e5931bed640c05cf1b4d4ba5a7919643aca2e783" title="2021-01-06T19:34:13.000+01:00" target="_blank">e5931bed</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] ensure that target are regenerated each run</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/nicolasreymond/Kata-API/commits/5e25bb6e59a24a21740e3fe6998c5f47c4272233" title="2021-01-06T16:53:27.000+01:00" target="_blank">5e25bb6e</a><a href="https://github.com/nicolasreymond">@nicolasreymond</a><a href="https://github.com/nicolasreymond/Kata-API" title="null">/Kata-API</a></strong></div>
-          <pre>Merge pull request #4 from SaphireVert/contributors
-
-[Add] Added SaphireVert in Contributors list</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ab6d776b40925b678252c1ebec29358babeb19b8" title="2021-01-05T16:27:55.000+01:00" target="_blank">ab6d776b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #398 from epfl-si/fix/pushgateway-wwp-infra
-
-[fix] push to wwp-infra pushgateway</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 11 Jan 2021 14:09:35 GMT</small>
+<small>⏰ Updated on Tue, 12 Jan 2021 14:10:58 GMT</small>
 </td>
 </tr>
 </tfoot>
