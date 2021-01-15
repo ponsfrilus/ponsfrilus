@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/dslul/openboard" title="100% FOSS keyboard, based on AOSP" target="_blank">openboard</a>&nbsp;<a href="https://github.com/dslul/openboard" title="100% FOSS keyboard, based on AOSP" target="_blank"><img src="https://img.shields.io/github/stars/dslul/openboard?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dbeaver/dbeaver" title="Free universal database tool and SQL client" target="_blank">dbeaver</a>&nbsp;<a href="https://github.com/dbeaver/dbeaver" title="Free universal database tool and SQL client" target="_blank"><img src="https://img.shields.io/github/stars/dbeaver/dbeaver?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank">Project-Lightspeed</a>&nbsp;<a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank"><img src="https://img.shields.io/github/stars/GRVYDEV/Project-Lightspeed?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rocky-linux/rocky" title="Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS." target="_blank">rocky</a>&nbsp;<a href="https://github.com/rocky-linux/rocky" title="Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS." target="_blank"><img src="https://img.shields.io/github/stars/rocky-linux/rocky?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank">unsplash-wallpaper</a>&nbsp;<a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank"><img src="https://img.shields.io/github/stars/cuth/unsplash-wallpaper?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank">PlotJuggler</a>&nbsp;<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank"><img src="https://img.shields.io/github/stars/facontidavide/PlotJuggler?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank">css-in-readme-like-wat</a>&nbsp;<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank"><img src="https://img.shields.io/github/stars/sindresorhus/css-in-readme-like-wat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank">ms-teams-rce</a>&nbsp;<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank"><img src="https://img.shields.io/github/stars/oskarsve/ms-teams-rce?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank">node-myanimelist-oauth-example</a>&nbsp;<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank"><img src="https://img.shields.io/github/stars/ipmanlk/node-myanimelist-oauth-example?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank">ish</a>&nbsp;<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank"><img src="https://img.shields.io/github/stars/ish-app/ish?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/jbesomi/texthero" title="Text preprocessing, representation and visualization from zero to hero." target="_blank">texthero</a>&nbsp;<a href="https://github.com/jbesomi/texthero" title="Text preprocessing, representation and visualization from zero to hero." target="_blank"><img src="https://img.shields.io/github/stars/jbesomi/texthero?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/dbeaver/dbeaver" title="Free universal database tool and SQL client" target="_blank">dbeaver</a>&nbsp;<a href="https://github.com/dbeaver/dbeaver" title="Free universal database tool and SQL client" target="_blank"><img src="https://img.shields.io/github/stars/dbeaver/dbeaver?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank">Project-Lightspeed</a>&nbsp;<a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank"><img src="https://img.shields.io/github/stars/GRVYDEV/Project-Lightspeed?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rocky-linux/rocky" title="Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS." target="_blank">rocky</a>&nbsp;<a href="https://github.com/rocky-linux/rocky" title="Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS." target="_blank"><img src="https://img.shields.io/github/stars/rocky-linux/rocky?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank">unsplash-wallpaper</a>&nbsp;<a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank"><img src="https://img.shields.io/github/stars/cuth/unsplash-wallpaper?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank">PlotJuggler</a>&nbsp;<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank"><img src="https://img.shields.io/github/stars/facontidavide/PlotJuggler?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank">css-in-readme-like-wat</a>&nbsp;<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank"><img src="https://img.shields.io/github/stars/sindresorhus/css-in-readme-like-wat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank">ms-teams-rce</a>&nbsp;<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank"><img src="https://img.shields.io/github/stars/oskarsve/ms-teams-rce?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank">node-myanimelist-oauth-example</a>&nbsp;<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank"><img src="https://img.shields.io/github/stars/ipmanlk/node-myanimelist-oauth-example?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank">ish</a>&nbsp;<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank"><img src="https://img.shields.io/github/stars/ish-app/ish?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank">1mb-club</a>&nbsp;<a href="https://github.com/bradleytaunt/1mb-club" title="An exclusive members-only club for web pages weighing less than 1 megabyte" target="_blank"><img src="https://img.shields.io/github/stars/bradleytaunt/1mb-club?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/b16e87e58f68c9790792f289d62d882f8389f9c2" title="2021-01-14T17:39:41.000+01:00" target="_blank">b16e87e5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Exercices SQL">/kata-sql</a></strong></div>
+          <pre>Help bullets</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/55d12e6c841cbf0502656bba1ffb58fcbe09750e" title="2021-01-11T16:53:37.000+01:00" target="_blank">55d12e6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #406 from epfl-si/fix/pushgateway-on-infra
@@ -148,16 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/3ab64a9e369b7c51e255581484fdc3764a6a08ff" title="2021-01-09T12:45:10.000+01:00" target="_blank">3ab64a9e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[feature] tsified</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/586d6baef51559c402eef768886a52f4a0556b9e" title="2021-01-09T11:39:26.000+01:00" target="_blank">586d6bae</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[init] foundation</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 14 Jan 2021 14:21:37 GMT</small>
+<small>⏰ Updated on Fri, 15 Jan 2021 14:21:41 GMT</small>
 </td>
 </tr>
 </tfoot>
