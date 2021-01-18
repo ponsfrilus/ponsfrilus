@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/laravel/dusk" title="null" target="_blank">dusk</a>&nbsp;<a href="https://github.com/laravel/dusk" title="null" target="_blank"><img src="https://img.shields.io/github/stars/laravel/dusk?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/dslul/openboard" title="100% FOSS keyboard, based on AOSP" target="_blank">openboard</a>&nbsp;<a href="https://github.com/dslul/openboard" title="100% FOSS keyboard, based on AOSP" target="_blank"><img src="https://img.shields.io/github/stars/dslul/openboard?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank">node-myanimelist-oauth-example</a>&nbsp;<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank"><img src="https://img.shields.io/github/stars/ipmanlk/node-myanimelist-oauth-example?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank">ish</a>&nbsp;<a href="https://github.com/ish-app/ish" title="Linux shell for iOS" target="_blank"><img src="https://img.shields.io/github/stars/ish-app/ish?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/Jaredk3nt/homepage" title="Custom homepage for use locally in browser" target="_blank">homepage</a>&nbsp;<a href="https://github.com/Jaredk3nt/homepage" title="Custom homepage for use locally in browser" target="_blank"><img src="https://img.shields.io/github/stars/Jaredk3nt/homepage?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/jbesomi/texthero" title="Text preprocessing, representation and visualization from zero to hero." target="_blank">texthero</a>&nbsp;<a href="https://github.com/jbesomi/texthero" title="Text preprocessing, representation and visualization from zero to hero." target="_blank"><img src="https://img.shields.io/github/stars/jbesomi/texthero?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/utmapp/UTM" title="Virtual machines for iOS" target="_blank">UTM</a>&nbsp;<a href="https://github.com/utmapp/UTM" title="Virtual machines for iOS" target="_blank"><img src="https://img.shields.io/github/stars/utmapp/UTM?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank">find-my-blocks</a>&nbsp;<a href="https://github.com/eddysims/find-my-blocks" title="A tool to help you find what Gutenbergs blocks you have used on your website and where they are located." target="_blank"><img src="https://img.shields.io/github/stars/eddysims/find-my-blocks?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,41 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/d6a9dba12472247cca4b1550bcdd0b9c2c07fe4b" title="2021-01-18T15:15:20.000+01:00" target="_blank">d6a9dba1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[doc] usage with a input file explained</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/582b7fd04dc546f108f46f24e4dfcd2c3414181c" title="2021-01-18T15:15:03.000+01:00" target="_blank">582b7fd0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[fix] add personnes.epfl.ch in exclude list</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/a31a9830b97b3aa5cf554cec92106300e5272689" title="2021-01-18T11:39:52.000+01:00" target="_blank">a31a9830</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] exclude list improved</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/2c203005b04760d3d241c1d08b8a09a99c642ae7" title="2021-01-18T11:30:21.000+01:00" target="_blank">2c203005</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] exclude list improved</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/7dfa32f0adacef69ee5e0db4b150e5eced5b50bf" title="2021-01-18T11:21:57.000+01:00" target="_blank">7dfa32f0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] includes and excludes + prettier</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/7153011bb1135151a90fbdc8a179ebb45d74d7f2" title="2021-01-18T10:59:38.000+01:00" target="_blank">7153011b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[fix] output folder</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/4517e0a828b01f920caf73875059e2463893e81a" title="2021-01-18T10:57:02.000+01:00" target="_blank">4517e0a8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] add "qalpl" in project</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/b16e87e58f68c9790792f289d62d882f8389f9c2" title="2021-01-14T17:39:41.000+01:00" target="_blank">b16e87e5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Exercices SQL">/kata-sql</a></strong></div>
           <pre>Help bullets</pre>
@@ -118,46 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/f189cc8945e593979df26baf0ad10855195531eb" title="2021-01-11T16:39:26.000+01:00" target="_blank">f189cc89</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[refactor] call options</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/669f44342f94c0b9ab059ef536659da865d9805f" title="2021-01-11T16:37:22.000+01:00" target="_blank">669f4434</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] debug renamed to dumpOptions</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/d98256d573ef51d5b459497e259f6459f12b2fb1" title="2021-01-11T16:31:10.000+01:00" target="_blank">d98256d5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[doc] README + console</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/0ec0fac826dbda0065ac56d2cb596b5b03a88acf" title="2021-01-11T16:23:22.000+01:00" target="_blank">0ec0fac8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] empty limit should work</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/9653636c2009c4570bc76ed4acd6ecf64c7bf775" title="2021-01-11T16:20:58.000+01:00" target="_blank">9653636c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[cosmetic] pretterified</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/69a82870c18b102e2a34853dab3d07b744ab6c74" title="2021-01-11T10:18:19.000+01:00" target="_blank">69a82870</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] a limit domain</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/aa9cc410ed6754e932daf393d37545d135acdbc3" title="2021-01-09T13:32:29.000+01:00" target="_blank">aa9cc410</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] commander</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/3ab64a9e369b7c51e255581484fdc3764a6a08ff" title="2021-01-09T12:45:10.000+01:00" target="_blank">3ab64a9e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] tsified</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 15 Jan 2021 14:21:41 GMT</small>
+<small>⏰ Updated on Mon, 18 Jan 2021 14:22:16 GMT</small>
 </td>
 </tr>
 </tfoot>
