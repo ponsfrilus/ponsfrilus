@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="center">
-  <!-- use https://avatars3.githubusercontent.com/u/176002?v=4 for your default github picture -->
+  <!-- use https://avatars.githubusercontent.com/u/176002?v=4 for your default github picture -->
   <img src="https://raw.githubusercontent.com/ponsfrilus/ponsfrilus/master/img/ponsfrilus.png" title="Nicolas Borboën aka ‟ponsfrilus„" alt="Nicolas Borboën aka ‟ponsfrilus„" />
   <h3 align="center">
     Nicolas Borboën aka ‟ponsfrilus„
@@ -29,6 +29,40 @@
 <td colspan="2" align="center"><h4>My last starred repos</h4></td>
 </tr>
 <tr>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/vlucas/phpdotenv" title="Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically." target="_blank">phpdotenv</a>&nbsp;<a href="https://github.com/vlucas/phpdotenv" title="Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically." target="_blank"><img src="https://img.shields.io/github/stars/vlucas/phpdotenv?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Jaredk3nt/homepage" title="Custom homepage for use locally in browser" target="_blank">homepage</a>&nbsp;<a href="https://github.com/Jaredk3nt/homepage" title="Custom homepage for use locally in browser" target="_blank"><img src="https://img.shields.io/github/stars/Jaredk3nt/homepage?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jbesomi/texthero" title="Text preprocessing, representation and visualization from zero to hero." target="_blank">texthero</a>&nbsp;<a href="https://github.com/jbesomi/texthero" title="Text preprocessing, representation and visualization from zero to hero." target="_blank"><img src="https://img.shields.io/github/stars/jbesomi/texthero?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TanguyCavagna/Animanga" title="Travail Pratique Individuel (TPI) de fin de formation CFC-Informaticien Développement d'Application" target="_blank">Animanga</a>&nbsp;<a href="https://github.com/TanguyCavagna/Animanga" title="Travail Pratique Individuel (TPI) de fin de formation CFC-Informaticien Développement d'Application" target="_blank"><img src="https://img.shields.io/github/stars/TanguyCavagna/Animanga?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Kong/insomnia" title="The Open Source API Client and Design Platform for GraphQL, REST and gRPC" target="_blank">insomnia</a>&nbsp;<a href="https://github.com/Kong/insomnia" title="The Open Source API Client and Design Platform for GraphQL, REST and gRPC" target="_blank"><img src="https://img.shields.io/github/stars/Kong/insomnia?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/wagtail/wagtail" title="A Django content management system focused on flexibility and user experience" target="_blank">wagtail</a>&nbsp;<a href="https://github.com/wagtail/wagtail" title="A Django content management system focused on flexibility and user experience" target="_blank"><img src="https://img.shields.io/github/stars/wagtail/wagtail?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank">graphql-voyager</a>&nbsp;<a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank"><img src="https://img.shields.io/github/stars/APIs-guru/graphql-voyager?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role." target="_blank">school-of-sre</a>&nbsp;<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role." target="_blank"><img src="https://img.shields.io/github/stars/linkedin/school-of-sre?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank">tectonic</a>&nbsp;<a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank"><img src="https://img.shields.io/github/stars/crlf0710/tectonic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/NUKnightLab/sql-mysteries" title="Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!" target="_blank">sql-mysteries</a>&nbsp;<a href="https://github.com/NUKnightLab/sql-mysteries" title="Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!" target="_blank"><img src="https://img.shields.io/github/stars/NUKnightLab/sql-mysteries?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
 <td valign="top">
 <ul>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank">node-myanimelist-oauth-example</a>&nbsp;<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank"><img src="https://img.shields.io/github/stars/ipmanlk/node-myanimelist-oauth-example?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/Jaredk3nt/homepage" title="Custom homepage for use locally in browser" target="_blank">homepage</a>&nbsp;<a href="https://github.com/Jaredk3nt/homepage" title="Custom homepage for use locally in browser" target="_blank"><img src="https://img.shields.io/github/stars/Jaredk3nt/homepage?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jbesomi/texthero" title="Text preprocessing, representation and visualization from zero to hero." target="_blank">texthero</a>&nbsp;<a href="https://github.com/jbesomi/texthero" title="Text preprocessing, representation and visualization from zero to hero." target="_blank"><img src="https://img.shields.io/github/stars/jbesomi/texthero?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TanguyCavagna/Animanga" title="Travail Pratique Individuel (TPI) de fin de formation CFC-Informaticien Développement d'Application" target="_blank">Animanga</a>&nbsp;<a href="https://github.com/TanguyCavagna/Animanga" title="Travail Pratique Individuel (TPI) de fin de formation CFC-Informaticien Développement d'Application" target="_blank"><img src="https://img.shields.io/github/stars/TanguyCavagna/Animanga?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Kong/insomnia" title="The Open Source API Client and Design Platform for GraphQL, REST and gRPC" target="_blank">insomnia</a>&nbsp;<a href="https://github.com/Kong/insomnia" title="The Open Source API Client and Design Platform for GraphQL, REST and gRPC" target="_blank"><img src="https://img.shields.io/github/stars/Kong/insomnia?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/wagtail/wagtail" title="A Django content management system focused on flexibility and user experience" target="_blank">wagtail</a>&nbsp;<a href="https://github.com/wagtail/wagtail" title="A Django content management system focused on flexibility and user experience" target="_blank"><img src="https://img.shields.io/github/stars/wagtail/wagtail?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank">graphql-voyager</a>&nbsp;<a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank"><img src="https://img.shields.io/github/stars/APIs-guru/graphql-voyager?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role." target="_blank">school-of-sre</a>&nbsp;<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role." target="_blank"><img src="https://img.shields.io/github/stars/linkedin/school-of-sre?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank">tectonic</a>&nbsp;<a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank"><img src="https://img.shields.io/github/stars/crlf0710/tectonic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/NUKnightLab/sql-mysteries" title="Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!" target="_blank">sql-mysteries</a>&nbsp;<a href="https://github.com/NUKnightLab/sql-mysteries" title="Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!" target="_blank"><img src="https://img.shields.io/github/stars/NUKnightLab/sql-mysteries?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/utmapp/UTM" title="Virtual machines for iOS" target="_blank">UTM</a>&nbsp;<a href="https://github.com/utmapp/UTM" title="Virtual machines for iOS" target="_blank"><img src="https://img.shields.io/github/stars/utmapp/UTM?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 20 Jan 2021 14:21:56 GMT</small>
+<small>⏰ Updated on Thu, 21 Jan 2021 14:21:49 GMT</small>
 </td>
 </tr>
 </tfoot>
