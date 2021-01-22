@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/477480f5d355eda771d97c651c827212fb7edba3" title="2021-01-22T09:56:41.000+01:00" target="_blank">477480f5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[fix] ensure output dir exists</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/d6a9dba12472247cca4b1550bcdd0b9c2c07fe4b" title="2021-01-18T15:15:20.000+01:00" target="_blank">d6a9dba1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[doc] usage with a input file explained</pre>
         </td>
@@ -148,16 +153,11 @@
 
 [fix] no more pushgateway on `wwp`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/f189cc8945e593979df26baf0ad10855195531eb" title="2021-01-11T16:39:26.000+01:00" target="_blank">f189cc89</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[refactor] call options</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 21 Jan 2021 14:21:49 GMT</small>
+<small>⏰ Updated on Fri, 22 Jan 2021 14:22:07 GMT</small>
 </td>
 </tr>
 </tfoot>
