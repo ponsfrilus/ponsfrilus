@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/pavlobu/deskreen" title="Deskreen turns any device with a web browser to a second screen for your computer" target="_blank">deskreen</a>&nbsp;<a href="https://github.com/pavlobu/deskreen" title="Deskreen turns any device with a web browser to a second screen for your computer" target="_blank"><img src="https://img.shields.io/github/stars/pavlobu/deskreen?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/vlucas/phpdotenv" title="Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically." target="_blank">phpdotenv</a>&nbsp;<a href="https://github.com/vlucas/phpdotenv" title="Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically." target="_blank"><img src="https://img.shields.io/github/stars/vlucas/phpdotenv?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank">tectonic</a>&nbsp;<a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank"><img src="https://img.shields.io/github/stars/crlf0710/tectonic?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/NUKnightLab/sql-mysteries" title="Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!" target="_blank">sql-mysteries</a>&nbsp;<a href="https://github.com/NUKnightLab/sql-mysteries" title="Inspired by @veltman's command-line mystery, use SQL to research clues and find out whodunit!" target="_blank"><img src="https://img.shields.io/github/stars/NUKnightLab/sql-mysteries?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/tagadanar/leekwars_gardener" title="null" target="_blank">leekwars_gardener</a>&nbsp;<a href="https://github.com/tagadanar/leekwars_gardener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/tagadanar/leekwars_gardener?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/laravel/dusk" title="null" target="_blank">dusk</a>&nbsp;<a href="https://github.com/laravel/dusk" title="null" target="_blank"><img src="https://img.shields.io/github/stars/laravel/dusk?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank">ms-teams-rce</a>&nbsp;<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank"><img src="https://img.shields.io/github/stars/oskarsve/ms-teams-rce?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank">node-myanimelist-oauth-example</a>&nbsp;<a href="https://github.com/ipmanlk/node-myanimelist-oauth-example" title="How to generate an Access Token using the new MyAnimeList's API." target="_blank"><img src="https://img.shields.io/github/stars/ipmanlk/node-myanimelist-oauth-example?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,23 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/db127a4d06ec2f7fd2dc9f91290022fc3b278717" title="2021-01-25T14:48:41.000+01:00" target="_blank">db127a4d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] run qalpl in tmux</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/7d700f1b7dcf314821921ace1e610e1edd94d0af" title="2021-01-22T10:03:57.000+01:00" target="_blank">7d700f1b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] Ansible
+
+This brings Ansible in the project, with the goal to:
+- facilitate the setup of the machine (installing needed software and
+  managing the authorized_keys)
+- deploy the code in the `rcc_install_path`, and install dependencies
+  (npm)
+- run the code in a tmux ad-hoc tmux session with some useful windows</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/477480f5d355eda771d97c651c827212fb7edba3" title="2021-01-22T09:56:41.000+01:00" target="_blank">477480f5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[fix] ensure output dir exists</pre>
@@ -141,23 +158,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/4517e0a828b01f920caf73875059e2463893e81a" title="2021-01-18T10:57:02.000+01:00" target="_blank">4517e0a8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[feature] add "qalpl" in project</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/b16e87e58f68c9790792f289d62d882f8389f9c2" title="2021-01-14T17:39:41.000+01:00" target="_blank">b16e87e5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Exercices SQL">/kata-sql</a></strong></div>
-          <pre>Help bullets</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/55d12e6c841cbf0502656bba1ffb58fcbe09750e" title="2021-01-11T16:53:37.000+01:00" target="_blank">55d12e6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #406 from epfl-si/fix/pushgateway-on-infra
-
-[fix] no more pushgateway on `wwp`</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 22 Jan 2021 14:22:07 GMT</small>
+<small>⏰ Updated on Mon, 25 Jan 2021 14:22:17 GMT</small>
 </td>
 </tr>
 </tfoot>
