@@ -103,66 +103,65 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/db127a4d06ec2f7fd2dc9f91290022fc3b278717" title="2021-01-25T14:48:41.000+01:00" target="_blank">db127a4d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] run qalpl in tmux</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/679370726c2ffe1759e9cd57b7ff24e347857e3e" title="2021-01-26T12:31:16.000+01:00" target="_blank">67937072</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] minimal output</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/7d700f1b7dcf314821921ace1e610e1edd94d0af" title="2021-01-22T10:03:57.000+01:00" target="_blank">7d700f1b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] Ansible
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/f702ef517c3be57c15546afa34f72c30f01df0dd" title="2021-01-26T12:31:03.000+01:00" target="_blank">f702ef51</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[test] `node --max_old_space_size=4096`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/0d3fe5027cd5c617fa6dd41b9a5fbd6ad89c8d05" title="2021-01-26T12:30:45.000+01:00" target="_blank">0d3fe502</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] tmux history limit</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/026420cf00c7d73147398ac468f94d99be8faec4" title="2021-01-26T12:15:08.000+01:00" target="_blank">026420cf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[fix] final message</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/a781dee5a40930d99d409bc09c579bd305e74254" title="2021-01-26T12:11:32.000+01:00" target="_blank">a781dee5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[fix] collected URLs ouptut</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/761f17c652c15b5c06de911c756d52453212aeb2" title="2021-01-26T12:02:31.000+01:00" target="_blank">761f17c6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] sed command to prefix protocol to URLs</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/14a1995eff98aa6270757141b6ad881dd3a18f0e" title="2021-01-26T12:02:13.000+01:00" target="_blank">14a1995e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[fix] pretty terminal output removed</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/bc9f1e876d854150d647ba56f38bffe2298856da" title="2021-01-26T12:01:47.000+01:00" target="_blank">bc9f1e87</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] better ansible scripts
 
-This brings Ansible in the project, with the goal to:
-- facilitate the setup of the machine (installing needed software and
-  managing the authorized_keys)
-- deploy the code in the `rcc_install_path`, and install dependencies
-  (npm)
-- run the code in a tmux ad-hoc tmux session with some useful windows</pre>
+- homogenized hosts file
+- tags `qalpl` and `rcc`
+- `/srv` and `/srv/rcc` set-up
+- Role `run` for both rcc and qalpl
+- Install all puppeteer dependancies</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/477480f5d355eda771d97c651c827212fb7edba3" title="2021-01-22T09:56:41.000+01:00" target="_blank">477480f5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] ensure output dir exists</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/8e73a26ae85205335ac1dad4720feff67a46a04f" title="2021-01-26T10:15:38.000+01:00" target="_blank">8e73a26a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[fix] rcc inventory mode</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/d6a9dba12472247cca4b1550bcdd0b9c2c07fe4b" title="2021-01-18T15:15:20.000+01:00" target="_blank">d6a9dba1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[doc] usage with a input file explained</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/582b7fd04dc546f108f46f24e4dfcd2c3414181c" title="2021-01-18T15:15:03.000+01:00" target="_blank">582b7fd0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] add personnes.epfl.ch in exclude list</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/a31a9830b97b3aa5cf554cec92106300e5272689" title="2021-01-18T11:39:52.000+01:00" target="_blank">a31a9830</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] exclude list improved</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/2c203005b04760d3d241c1d08b8a09a99c642ae7" title="2021-01-18T11:30:21.000+01:00" target="_blank">2c203005</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] exclude list improved</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/7dfa32f0adacef69ee5e0db4b150e5eced5b50bf" title="2021-01-18T11:21:57.000+01:00" target="_blank">7dfa32f0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] includes and excludes + prettier</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/7153011bb1135151a90fbdc8a179ebb45d74d7f2" title="2021-01-18T10:59:38.000+01:00" target="_blank">7153011b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] output folder</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/4517e0a828b01f920caf73875059e2463893e81a" title="2021-01-18T10:57:02.000+01:00" target="_blank">4517e0a8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] add "qalpl" in project</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/d10995fd21e60b4d75800cfb729664caae6f4316" title="2021-01-26T09:40:21.000+01:00" target="_blank">d10995fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[merge] ...</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 25 Jan 2021 14:22:17 GMT</small>
+<small>⏰ Updated on Tue, 26 Jan 2021 13:51:08 GMT</small>
 </td>
 </tr>
 </tfoot>
