@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 11 years and 0 months.
+    <br />Apparently, I'm hanging around on GitHub since 11 years and 1 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -32,7 +32,7 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/pavlobu/deskreen" title="Deskreen turns any device with a web browser into a second screen for your computer" target="_blank">deskreen</a>&nbsp;<a href="https://github.com/pavlobu/deskreen" title="Deskreen turns any device with a web browser into a second screen for your computer" target="_blank"><img src="https://img.shields.io/github/stars/pavlobu/deskreen?style=social" alt="GitHub"></a>
+<a href="https://github.com/pavlobu/deskreen" title="Deskreen turns any device with a web browser into a secondary screen for your computer" target="_blank">deskreen</a>&nbsp;<a href="https://github.com/pavlobu/deskreen" title="Deskreen turns any device with a web browser into a secondary screen for your computer" target="_blank"><img src="https://img.shields.io/github/stars/pavlobu/deskreen?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/vlucas/phpdotenv" title="Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically." target="_blank">phpdotenv</a>&nbsp;<a href="https://github.com/vlucas/phpdotenv" title="Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically." target="_blank"><img src="https://img.shields.io/github/stars/vlucas/phpdotenv?style=social" alt="GitHub"></a>
@@ -103,6 +103,40 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/0eb37f81a0357997add94ee3d5a70a770ee103c5" title="2021-02-01T12:35:15.000+01:00" target="_blank">0eb37f81</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #408 from epfl-si/feature/varnish-cache
+
+[feature] varnish cache</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/b3a2bdd041967a6cc2875a4f706f3be52cad904d" title="2021-02-01T12:28:52.000+01:00" target="_blank">b3a2bdd0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[add] varnish replicas config</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c461313baf0e4e9a50b24c7d16add049d44a6562" title="2021-02-01T12:25:37.000+01:00" target="_blank">c461313b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[add] varnishkafka.conf configmap as code</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/44066b30deebda00bd2143f6454974a9db420ee4" title="2021-02-01T11:58:27.000+01:00" target="_blank">44066b30</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[add] varnish-collectd configmap as code</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/1ad5bec5da7f6bcb0481ee13d5d1654c5ef91bff" title="2021-01-29T23:51:11.000+01:00" target="_blank">1ad5bec5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[fix] HTTParty dependencies
+
+... sigh</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/5eec3eefeca25938e4b06258fac7d6c7e550b412" title="2021-01-29T19:32:38.000+01:00" target="_blank">5eec3eef</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[add] ruby install + @multiscan</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/604eface0412da213acc86efcc6fad171a9d2e87" title="2021-01-28T08:24:20.000+01:00" target="_blank">604eface</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[fix] run.only tag</pre>
         </td>
@@ -121,41 +155,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/070155ce8e22e25ce15cbb91b0c8d93ee284327a" title="2021-01-27T20:00:50.000+01:00" target="_blank">070155ce</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[fix] don't collect img src anymore</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/4b8f942a10359053d1249fb8f015ba790dcb0c23" title="2021-01-27T19:58:53.000+01:00" target="_blank">4b8f942a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[refactor] say no to main.yml</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/ff4724e0bd9b8485f19ea4f8e6df579d7b860027" title="2021-01-27T16:30:46.000+01:00" target="_blank">ff4724e0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] too much console.log</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/8324ad77d8bb06281a2967d418b5ad1c7c3cefa7" title="2021-01-27T16:28:09.000+01:00" target="_blank">8324ad77</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[add] silversearcher-ag</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/87f9bc8a3f83c7037448808a3842c8718f42708b" title="2021-01-27T13:49:50.000+01:00" target="_blank">87f9bc8a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] better logs</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/7696900607da707fba6d4bcf1c63a9a8894ee8e0" title="2021-01-27T12:35:20.000+01:00" target="_blank">76969006</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] now collect image and PDF</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/ba2a4096a7b265fdb69183c29877d15e7894f3a1" title="2021-01-27T12:34:56.000+01:00" target="_blank">ba2a4096</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] safegard to limit qalpl</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 29 Jan 2021 13:51:49 GMT</small>
+<small>⏰ Updated on Mon, 01 Feb 2021 13:51:46 GMT</small>
 </td>
 </tr>
 </tfoot>
