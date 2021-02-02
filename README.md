@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/61e9080fa337fda0eb2d42b6e2665760d2b40f75" title="2021-02-02T14:06:34.000+01:00" target="_blank">61e9080f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[prepare] for test tonight</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/0eb37f81a0357997add94ee3d5a70a770ee103c5" title="2021-02-01T12:35:15.000+01:00" target="_blank">0eb37f81</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #408 from epfl-si/feature/varnish-cache
 
@@ -150,16 +155,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/8a1dab3b1e56df6234fd86a2c0c39f1402ecb9f2" title="2021-01-27T20:05:33.000+01:00" target="_blank">8a1dab3b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[feature] tmux variables</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/070155ce8e22e25ce15cbb91b0c8d93ee284327a" title="2021-01-27T20:00:50.000+01:00" target="_blank">070155ce</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] don't collect img src anymore</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 01 Feb 2021 13:51:46 GMT</small>
+<small>⏰ Updated on Tue, 02 Feb 2021 13:52:00 GMT</small>
 </td>
 </tr>
 </tfoot>
