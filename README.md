@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/1bc5065d2369592d2c00c5bed26fe26818c5025f" title="2021-02-03T18:40:47.000+01:00" target="_blank">1bc5065d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[rename] software</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/ae1bee5a92be1bb4eb339df795c56c4ee0192e15" title="2021-02-03T18:31:36.000+01:00" target="_blank">ae1bee5a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] JSON stream stringify</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/dd4b2a4e815efde8e70bddc096d96d171bf50e8e" title="2021-02-03T18:02:43.000+01:00" target="_blank">dd4b2a4e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] BitSet</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/61e9080fa337fda0eb2d42b6e2665760d2b40f75" title="2021-02-02T14:06:34.000+01:00" target="_blank">61e9080f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[prepare] for test tonight</pre>
         </td>
@@ -140,26 +155,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/5eec3eefeca25938e4b06258fac7d6c7e550b412" title="2021-01-29T19:32:38.000+01:00" target="_blank">5eec3eef</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[add] ruby install + @multiscan</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/604eface0412da213acc86efcc6fad171a9d2e87" title="2021-01-28T08:24:20.000+01:00" target="_blank">604eface</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] run.only tag</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/993b58cf8402cf58b5141e160cb470ce4ae12175" title="2021-01-28T08:20:09.000+01:00" target="_blank">993b58cf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] add swap</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/8a1dab3b1e56df6234fd86a2c0c39f1402ecb9f2" title="2021-01-27T20:05:33.000+01:00" target="_blank">8a1dab3b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] tmux variables</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 03 Feb 2021 13:49:44 GMT</small>
+<small>⏰ Updated on Thu, 04 Feb 2021 13:42:15 GMT</small>
 </td>
 </tr>
 </tfoot>
