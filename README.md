@@ -56,7 +56,7 @@
 <a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank">graphql-voyager</a>&nbsp;<a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank"><img src="https://img.shields.io/github/stars/APIs-guru/graphql-voyager?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role." target="_blank">school-of-sre</a>&nbsp;<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role." target="_blank"><img src="https://img.shields.io/github/stars/linkedin/school-of-sre?style=social" alt="GitHub"></a>
+<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role." target="_blank">school-of-sre</a>&nbsp;<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role." target="_blank"><img src="https://img.shields.io/github/stars/linkedin/school-of-sre?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank">tectonic</a>&nbsp;<a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank"><img src="https://img.shields.io/github/stars/crlf0710/tectonic?style=social" alt="GitHub"></a>
@@ -159,7 +159,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 04 Feb 2021 13:42:15 GMT</small>
+<small>⏰ Updated on Fri, 05 Feb 2021 13:41:38 GMT</small>
 </td>
 </tr>
 </tfoot>
