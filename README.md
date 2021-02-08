@@ -32,6 +32,15 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Soldat/soldat" title="Soldat is a unique 2D (side-view) multiplayer action game" target="_blank">soldat</a>&nbsp;<a href="https://github.com/Soldat/soldat" title="Soldat is a unique 2D (side-view) multiplayer action game" target="_blank"><img src="https://img.shields.io/github/stars/Soldat/soldat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/type-challenges/type-challenges" title="Collection of TypeScript type challenges with online judge" target="_blank">type-challenges</a>&nbsp;<a href="https://github.com/type-challenges/type-challenges" title="Collection of TypeScript type challenges with online judge" target="_blank"><img src="https://img.shields.io/github/stars/type-challenges/type-challenges?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/RustPython/RustPython" title="A Python Interpreter written in Rust" target="_blank">RustPython</a>&nbsp;<a href="https://github.com/RustPython/RustPython" title="A Python Interpreter written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/RustPython/RustPython?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/pavlobu/deskreen" title="Deskreen turns any device with a web browser into a secondary screen for your computer" target="_blank">deskreen</a>&nbsp;<a href="https://github.com/pavlobu/deskreen" title="Deskreen turns any device with a web browser into a secondary screen for your computer" target="_blank"><img src="https://img.shields.io/github/stars/pavlobu/deskreen?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -52,19 +61,19 @@
 <li>
 <a href="https://github.com/wagtail/wagtail" title="A Django content management system focused on flexibility and user experience" target="_blank">wagtail</a>&nbsp;<a href="https://github.com/wagtail/wagtail" title="A Django content management system focused on flexibility and user experience" target="_blank"><img src="https://img.shields.io/github/stars/wagtail/wagtail?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank">graphql-voyager</a>&nbsp;<a href="https://github.com/APIs-guru/graphql-voyager" title="🛰️ Represent any GraphQL API as an interactive graph" target="_blank"><img src="https://img.shields.io/github/stars/APIs-guru/graphql-voyager?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role." target="_blank">school-of-sre</a>&nbsp;<a href="https://github.com/linkedin/school-of-sre" title="At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role." target="_blank"><img src="https://img.shields.io/github/stars/linkedin/school-of-sre?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank">tectonic</a>&nbsp;<a href="https://github.com/crlf0710/tectonic" title="Experimental Oxidization of Tectonic the TeX/LaTeX engine." target="_blank"><img src="https://img.shields.io/github/stars/crlf0710/tectonic?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/medialab/gazouilloire" title="Twitter stream + search API grabber" target="_blank">gazouilloire</a>&nbsp;<a href="https://github.com/medialab/gazouilloire" title="Twitter stream + search API grabber" target="_blank"><img src="https://img.shields.io/github/stars/medialab/gazouilloire?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/grafana/grafana-plugin-repository" title="The plugin repository for plugins that are published on grafana.com." target="_blank">grafana-plugin-repository</a>&nbsp;<a href="https://github.com/grafana/grafana-plugin-repository" title="The plugin repository for plugins that are published on grafana.com." target="_blank"><img src="https://img.shields.io/github/stars/grafana/grafana-plugin-repository?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/openZH/covid_19" title="COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README." target="_blank">covid_19</a>&nbsp;<a href="https://github.com/openZH/covid_19" title="COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README." target="_blank"><img src="https://img.shields.io/github/stars/openZH/covid_19?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/tagadanar/leekwars_gardener" title="null" target="_blank">leekwars_gardener</a>&nbsp;<a href="https://github.com/tagadanar/leekwars_gardener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/tagadanar/leekwars_gardener?style=social" alt="GitHub"></a>
 </li>
@@ -86,15 +95,6 @@
 <li>
 <a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank">unsplash-wallpaper</a>&nbsp;<a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank"><img src="https://img.shields.io/github/stars/cuth/unsplash-wallpaper?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank">PlotJuggler</a>&nbsp;<a href="https://github.com/facontidavide/PlotJuggler" title="The Time Series Visualization Tool that you deserve." target="_blank"><img src="https://img.shields.io/github/stars/facontidavide/PlotJuggler?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank">css-in-readme-like-wat</a>&nbsp;<a href="https://github.com/sindresorhus/css-in-readme-like-wat" title="Style your readme using CSS with this simple trick" target="_blank"><img src="https://img.shields.io/github/stars/sindresorhus/css-in-readme-like-wat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank">ms-teams-rce</a>&nbsp;<a href="https://github.com/oskarsve/ms-teams-rce" title="null" target="_blank"><img src="https://img.shields.io/github/stars/oskarsve/ms-teams-rce?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,11 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/mkcertdemo/commits/658017e11289a084d6d32c7e2938fb934c793653" title="2021-02-05T14:44:43.000+01:00" target="_blank">658017e1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/mkcertdemo" title="mkcertdemo">/mkcertdemo</a></strong></div>
+          <pre>[feature] A demo app with traefik and mkcert</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/1bc5065d2369592d2c00c5bed26fe26818c5025f" title="2021-02-03T18:40:47.000+01:00" target="_blank">1bc5065d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[rename] software</pre>
@@ -150,16 +155,11 @@
 
 ... sigh</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/5eec3eefeca25938e4b06258fac7d6c7e550b412" title="2021-01-29T19:32:38.000+01:00" target="_blank">5eec3eef</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[add] ruby install + @multiscan</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 05 Feb 2021 13:41:38 GMT</small>
+<small>⏰ Updated on Mon, 08 Feb 2021 13:42:36 GMT</small>
 </td>
 </tr>
 </tfoot>
