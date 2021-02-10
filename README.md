@@ -103,6 +103,41 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/396ee9fd4cd476911b870638eb44a059aa9362bb" title="2021-02-10T13:34:14.000+01:00" target="_blank">396ee9fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[fix] forgot a tag + add spare URLs</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/05033845ca76ae85a879e6c7c75068a6464ca4e2" title="2021-02-10T13:15:24.000+01:00" target="_blank">05033845</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[doc] typos</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/1e2b9f2fcb93e54a15669a5db8da332fc8478cda" title="2021-02-10T12:42:09.000+01:00" target="_blank">1e2b9f2f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[doc] explaination</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/a8e03c93129f46744b5c06bef675af006f113860" title="2021-02-10T12:41:57.000+01:00" target="_blank">a8e03c93</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[feature] add viewport size</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/287a7e8de2d5ac1990b998ca992ae154242486f2" title="2021-02-10T10:38:33.000+01:00" target="_blank">287a7e8d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[log] add viewport size in logs</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/8cad23f275596a3e689674d11ec9097774dd7797" title="2021-02-10T10:38:18.000+01:00" target="_blank">8cad23f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[fix] headless by default</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/04426a3a685d43326b2aac3aea40ec6a5afdc915" title="2021-02-10T10:38:06.000+01:00" target="_blank">04426a3a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
+          <pre>[fix] Invalid URL are no longer crashing discover</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/7107ecb33ff6e450d6f635e611dd4ec9359883e1" title="2021-02-09T13:50:41.000+01:00" target="_blank">7107ecb3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[feature] GIFs</pre>
         </td>
@@ -116,49 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/c683a009584097f6260bda97d46a787738e8269e" title="2021-02-08T23:09:19.000+01:00" target="_blank">c683a009</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[fix] logs</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/174c6fc5f070ecca83ddf5a396623eebd2b4ed23" title="2021-02-08T23:01:56.000+01:00" target="_blank">174c6fc5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] logs</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/8174b21ff398b2be98995d79f85176429e829a17" title="2021-02-08T22:45:56.000+01:00" target="_blank">8174b21f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] Xetchy
-
-XML Wordpress wp-sitemap.xml links fetcher (fetch_all_urls.rb rewritten 
-in node)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/3d0de00a46953b1502367a476f6299493ed967d5" title="2021-02-08T22:44:38.000+01:00" target="_blank">3d0de00a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] trailing slash manipulation</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/916f9497b8bc96b9f56f9c9ec7d97a4dc37b3868" title="2021-02-08T22:29:37.000+01:00" target="_blank">916f9497</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] user agent in discover</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/faa08865fc1d63070a96cb4565ed94a2056aec42" title="2021-02-08T22:17:56.000+01:00" target="_blank">faa08865</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] allow unkown tld</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/a1d2e43c483f7cd364a284dc6de7fab2ee9aa666" title="2021-02-08T21:02:19.000+01:00" target="_blank">a1d2e43c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] better windows name + soft tags</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/mkcertdemo/commits/658017e11289a084d6d32c7e2938fb934c793653" title="2021-02-05T14:44:43.000+01:00" target="_blank">658017e1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/mkcertdemo" title="mkcertdemo">/mkcertdemo</a></strong></div>
-          <pre>[feature] A demo app with traefik and mkcert</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 09 Feb 2021 13:41:55 GMT</small>
+<small>⏰ Updated on Wed, 10 Feb 2021 13:42:12 GMT</small>
 </td>
 </tr>
 </tfoot>
