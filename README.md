@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/system76/launch" title="System76 Launch Configurable Keyboard" target="_blank">launch</a>&nbsp;<a href="https://github.com/system76/launch" title="System76 Launch Configurable Keyboard" target="_blank"><img src="https://img.shields.io/github/stars/system76/launch?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/medialab/gazouilloire" title="Twitter stream + search API grabber" target="_blank">gazouilloire</a>&nbsp;<a href="https://github.com/medialab/gazouilloire" title="Twitter stream + search API grabber" target="_blank"><img src="https://img.shields.io/github/stars/medialab/gazouilloire?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/grafana/grafana-plugin-repository" title="The plugin repository for plugins that are published on grafana.com." target="_blank">grafana-plugin-repository</a>&nbsp;<a href="https://github.com/grafana/grafana-plugin-repository" title="The plugin repository for plugins that are published on grafana.com." target="_blank"><img src="https://img.shields.io/github/stars/grafana/grafana-plugin-repository?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/openZH/covid_19" title="COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README." target="_blank">covid_19</a>&nbsp;<a href="https://github.com/openZH/covid_19" title="COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README." target="_blank"><img src="https://img.shields.io/github/stars/openZH/covid_19?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tagadanar/leekwars_gardener" title="null" target="_blank">leekwars_gardener</a>&nbsp;<a href="https://github.com/tagadanar/leekwars_gardener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/tagadanar/leekwars_gardener?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/laravel/dusk" title="null" target="_blank">dusk</a>&nbsp;<a href="https://github.com/laravel/dusk" title="null" target="_blank"><img src="https://img.shields.io/github/stars/laravel/dusk?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dslul/openboard" title="100% FOSS keyboard, based on AOSP" target="_blank">openboard</a>&nbsp;<a href="https://github.com/dslul/openboard" title="100% FOSS keyboard, based on AOSP" target="_blank"><img src="https://img.shields.io/github/stars/dslul/openboard?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dbeaver/dbeaver" title="Free universal database tool and SQL client" target="_blank">dbeaver</a>&nbsp;<a href="https://github.com/dbeaver/dbeaver" title="Free universal database tool and SQL client" target="_blank"><img src="https://img.shields.io/github/stars/dbeaver/dbeaver?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank">Project-Lightspeed</a>&nbsp;<a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank"><img src="https://img.shields.io/github/stars/GRVYDEV/Project-Lightspeed?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rocky-linux/rocky" title="Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS." target="_blank">rocky</a>&nbsp;<a href="https://github.com/rocky-linux/rocky" title="Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS." target="_blank"><img src="https://img.shields.io/github/stars/rocky-linux/rocky?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/Soldat/soldat" title="Soldat is a unique 2D (side-view) multiplayer action game" target="_blank">soldat</a>&nbsp;<a href="https://github.com/Soldat/soldat" title="Soldat is a unique 2D (side-view) multiplayer action game" target="_blank"><img src="https://img.shields.io/github/stars/Soldat/soldat?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/wagtail/wagtail" title="A Django content management system focused on flexibility and user experience" target="_blank">wagtail</a>&nbsp;<a href="https://github.com/wagtail/wagtail" title="A Django content management system focused on flexibility and user experience" target="_blank"><img src="https://img.shields.io/github/stars/wagtail/wagtail?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/medialab/gazouilloire" title="Twitter stream + search API grabber" target="_blank">gazouilloire</a>&nbsp;<a href="https://github.com/medialab/gazouilloire" title="Twitter stream + search API grabber" target="_blank"><img src="https://img.shields.io/github/stars/medialab/gazouilloire?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/grafana/grafana-plugin-repository" title="The plugin repository for plugins that are published on grafana.com." target="_blank">grafana-plugin-repository</a>&nbsp;<a href="https://github.com/grafana/grafana-plugin-repository" title="The plugin repository for plugins that are published on grafana.com." target="_blank"><img src="https://img.shields.io/github/stars/grafana/grafana-plugin-repository?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/openZH/covid_19" title="COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README." target="_blank">covid_19</a>&nbsp;<a href="https://github.com/openZH/covid_19" title="COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README." target="_blank"><img src="https://img.shields.io/github/stars/openZH/covid_19?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tagadanar/leekwars_gardener" title="null" target="_blank">leekwars_gardener</a>&nbsp;<a href="https://github.com/tagadanar/leekwars_gardener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/tagadanar/leekwars_gardener?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/laravel/dusk" title="null" target="_blank">dusk</a>&nbsp;<a href="https://github.com/laravel/dusk" title="null" target="_blank"><img src="https://img.shields.io/github/stars/laravel/dusk?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dslul/openboard" title="100% FOSS keyboard, based on AOSP" target="_blank">openboard</a>&nbsp;<a href="https://github.com/dslul/openboard" title="100% FOSS keyboard, based on AOSP" target="_blank"><img src="https://img.shields.io/github/stars/dslul/openboard?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dbeaver/dbeaver" title="Free universal database tool and SQL client" target="_blank">dbeaver</a>&nbsp;<a href="https://github.com/dbeaver/dbeaver" title="Free universal database tool and SQL client" target="_blank"><img src="https://img.shields.io/github/stars/dbeaver/dbeaver?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank">Project-Lightspeed</a>&nbsp;<a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank"><img src="https://img.shields.io/github/stars/GRVYDEV/Project-Lightspeed?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rocky-linux/rocky" title="Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS." target="_blank">rocky</a>&nbsp;<a href="https://github.com/rocky-linux/rocky" title="Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS." target="_blank"><img src="https://img.shields.io/github/stars/rocky-linux/rocky?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank">unsplash-wallpaper</a>&nbsp;<a href="https://github.com/cuth/unsplash-wallpaper" title="Use an image from unsplash.com as your background image from a simple command." target="_blank"><img src="https://img.shields.io/github/stars/cuth/unsplash-wallpaper?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 11 Feb 2021 13:42:33 GMT</small>
+<small>⏰ Updated on Fri, 12 Feb 2021 13:42:35 GMT</small>
 </td>
 </tr>
 </tfoot>
