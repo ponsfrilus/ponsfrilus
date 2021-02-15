@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/jaspervdj/patat" title="Terminal-based presentations using Pandoc" target="_blank">patat</a>&nbsp;<a href="https://github.com/jaspervdj/patat" title="Terminal-based presentations using Pandoc" target="_blank"><img src="https://img.shields.io/github/stars/jaspervdj/patat?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/system76/launch" title="System76 Launch Configurable Keyboard" target="_blank">launch</a>&nbsp;<a href="https://github.com/system76/launch" title="System76 Launch Configurable Keyboard" target="_blank"><img src="https://img.shields.io/github/stars/system76/launch?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank">Project-Lightspeed</a>&nbsp;<a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank"><img src="https://img.shields.io/github/stars/GRVYDEV/Project-Lightspeed?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/rocky-linux/rocky" title="Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS." target="_blank">rocky</a>&nbsp;<a href="https://github.com/rocky-linux/rocky" title="Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS." target="_blank"><img src="https://img.shields.io/github/stars/rocky-linux/rocky?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/flameshot-org/flameshot" title="Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" target="_blank">flameshot</a>&nbsp;<a href="https://github.com/flameshot-org/flameshot" title="Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" target="_blank"><img src="https://img.shields.io/github/stars/flameshot-org/flameshot?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/Soldat/soldat" title="Soldat is a unique 2D (side-view) multiplayer action game" target="_blank">soldat</a>&nbsp;<a href="https://github.com/Soldat/soldat" title="Soldat is a unique 2D (side-view) multiplayer action game" target="_blank"><img src="https://img.shields.io/github/stars/Soldat/soldat?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/Kong/insomnia" title="The Open Source API Client and Design Platform for GraphQL, REST and gRPC" target="_blank">insomnia</a>&nbsp;<a href="https://github.com/Kong/insomnia" title="The Open Source API Client and Design Platform for GraphQL, REST and gRPC" target="_blank"><img src="https://img.shields.io/github/stars/Kong/insomnia?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/wagtail/wagtail" title="A Django content management system focused on flexibility and user experience" target="_blank">wagtail</a>&nbsp;<a href="https://github.com/wagtail/wagtail" title="A Django content management system focused on flexibility and user experience" target="_blank"><img src="https://img.shields.io/github/stars/wagtail/wagtail?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,11 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/gitro/commits/4a21aa60e83103dc9d0509a323d75e094c87dea6" title="2021-02-14T22:32:22.000+01:00" target="_blank">4a21aa60</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/gitro" title="Une petite introduction à Git">/gitro</a></strong></div>
+          <pre>version 2</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/396ee9fd4cd476911b870638eb44a059aa9362bb" title="2021-02-10T13:34:14.000+01:00" target="_blank">396ee9fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[fix] forgot a tag + add spare URLs</pre>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/328de060dbb91c1a54218ba9728c0ff7d96f78e3" title="2021-02-09T12:46:53.000+01:00" target="_blank">328de060</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[doc] README updated</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/c683a009584097f6260bda97d46a787738e8269e" title="2021-02-08T23:09:19.000+01:00" target="_blank">c683a009</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] logs</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 12 Feb 2021 13:42:35 GMT</small>
+<small>⏰ Updated on Mon, 15 Feb 2021 13:43:28 GMT</small>
 </td>
 </tr>
 </tfoot>
