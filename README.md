@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/OWASP/CheatSheetSeries" title="The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics." target="_blank">CheatSheetSeries</a>&nbsp;<a href="https://github.com/OWASP/CheatSheetSeries" title="The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics." target="_blank"><img src="https://img.shields.io/github/stars/OWASP/CheatSheetSeries?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/jaspervdj/patat" title="Terminal-based presentations using Pandoc" target="_blank">patat</a>&nbsp;<a href="https://github.com/jaspervdj/patat" title="Terminal-based presentations using Pandoc" target="_blank"><img src="https://img.shields.io/github/stars/jaspervdj/patat?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/dbeaver/dbeaver" title="Free universal database tool and SQL client" target="_blank">dbeaver</a>&nbsp;<a href="https://github.com/dbeaver/dbeaver" title="Free universal database tool and SQL client" target="_blank"><img src="https://img.shields.io/github/stars/dbeaver/dbeaver?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank">Project-Lightspeed</a>&nbsp;<a href="https://github.com/GRVYDEV/Project-Lightspeed" title="A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming" target="_blank"><img src="https://img.shields.io/github/stars/GRVYDEV/Project-Lightspeed?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/cri-o/cri-o" title="Open Container Initiative-based implementation of Kubernetes Container Runtime Interface" target="_blank">cri-o</a>&nbsp;<a href="https://github.com/cri-o/cri-o" title="Open Container Initiative-based implementation of Kubernetes Container Runtime Interface" target="_blank"><img src="https://img.shields.io/github/stars/cri-o/cri-o?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/flameshot-org/flameshot" title="Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" target="_blank">flameshot</a>&nbsp;<a href="https://github.com/flameshot-org/flameshot" title="Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" target="_blank"><img src="https://img.shields.io/github/stars/flameshot-org/flameshot?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/TanguyCavagna/Animanga" title="Travail Pratique Individuel (TPI) de fin de formation CFC-Informaticien Développement d'Application" target="_blank">Animanga</a>&nbsp;<a href="https://github.com/TanguyCavagna/Animanga" title="Travail Pratique Individuel (TPI) de fin de formation CFC-Informaticien Développement d'Application" target="_blank"><img src="https://img.shields.io/github/stars/TanguyCavagna/Animanga?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Kong/insomnia" title="The Open Source API Client and Design Platform for GraphQL, REST and gRPC" target="_blank">insomnia</a>&nbsp;<a href="https://github.com/Kong/insomnia" title="The Open Source API Client and Design Platform for GraphQL, REST and gRPC" target="_blank"><img src="https://img.shields.io/github/stars/Kong/insomnia?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 15 Feb 2021 13:43:28 GMT</small>
+<small>⏰ Updated on Tue, 16 Feb 2021 13:42:45 GMT</small>
 </td>
 </tr>
 </tfoot>
