@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank">howtheysre</a>&nbsp;<a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank"><img src="https://img.shields.io/github/stars/upgundecha/howtheysre?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/OWASP/CheatSheetSeries" title="The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics." target="_blank">CheatSheetSeries</a>&nbsp;<a href="https://github.com/OWASP/CheatSheetSeries" title="The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics." target="_blank"><img src="https://img.shields.io/github/stars/OWASP/CheatSheetSeries?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/dslul/openboard" title="100% FOSS keyboard, based on AOSP" target="_blank">openboard</a>&nbsp;<a href="https://github.com/dslul/openboard" title="100% FOSS keyboard, based on AOSP" target="_blank"><img src="https://img.shields.io/github/stars/dslul/openboard?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/dbeaver/dbeaver" title="Free universal database tool and SQL client" target="_blank">dbeaver</a>&nbsp;<a href="https://github.com/dbeaver/dbeaver" title="Free universal database tool and SQL client" target="_blank"><img src="https://img.shields.io/github/stars/dbeaver/dbeaver?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/apankrat/nullboard" title="Nullboard is a minimalist kanban board, focused on compactness and readability." target="_blank">nullboard</a>&nbsp;<a href="https://github.com/apankrat/nullboard" title="Nullboard is a minimalist kanban board, focused on compactness and readability." target="_blank"><img src="https://img.shields.io/github/stars/apankrat/nullboard?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/cri-o/cri-o" title="Open Container Initiative-based implementation of Kubernetes Container Runtime Interface" target="_blank">cri-o</a>&nbsp;<a href="https://github.com/cri-o/cri-o" title="Open Container Initiative-based implementation of Kubernetes Container Runtime Interface" target="_blank"><img src="https://img.shields.io/github/stars/cri-o/cri-o?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/jbesomi/texthero" title="Text preprocessing, representation and visualization from zero to hero." target="_blank">texthero</a>&nbsp;<a href="https://github.com/jbesomi/texthero" title="Text preprocessing, representation and visualization from zero to hero." target="_blank"><img src="https://img.shields.io/github/stars/jbesomi/texthero?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TanguyCavagna/Animanga" title="Travail Pratique Individuel (TPI) de fin de formation CFC-Informaticien Développement d'Application" target="_blank">Animanga</a>&nbsp;<a href="https://github.com/TanguyCavagna/Animanga" title="Travail Pratique Individuel (TPI) de fin de formation CFC-Informaticien Développement d'Application" target="_blank"><img src="https://img.shields.io/github/stars/TanguyCavagna/Animanga?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 16 Feb 2021 13:42:45 GMT</small>
+<small>⏰ Updated on Wed, 17 Feb 2021 13:42:59 GMT</small>
 </td>
 </tr>
 </tfoot>
