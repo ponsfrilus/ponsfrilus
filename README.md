@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/leafac/kill-the-newsletter.com" title="Convert email newsletters into Atom feeds" target="_blank">kill-the-newsletter.com</a>&nbsp;<a href="https://github.com/leafac/kill-the-newsletter.com" title="Convert email newsletters into Atom feeds" target="_blank"><img src="https://img.shields.io/github/stars/leafac/kill-the-newsletter.com?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/apankrat/nullboard" title="Nullboard is a minimalist kanban board, focused on compactness and readability." target="_blank">nullboard</a>&nbsp;<a href="https://github.com/apankrat/nullboard" title="Nullboard is a minimalist kanban board, focused on compactness and readability." target="_blank"><img src="https://img.shields.io/github/stars/apankrat/nullboard?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cri-o/cri-o" title="Open Container Initiative-based implementation of Kubernetes Container Runtime Interface" target="_blank">cri-o</a>&nbsp;<a href="https://github.com/cri-o/cri-o" title="Open Container Initiative-based implementation of Kubernetes Container Runtime Interface" target="_blank"><img src="https://img.shields.io/github/stars/cri-o/cri-o?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/flameshot-org/flameshot" title="Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" target="_blank">flameshot</a>&nbsp;<a href="https://github.com/flameshot-org/flameshot" title="Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" target="_blank"><img src="https://img.shields.io/github/stars/flameshot-org/flameshot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Soldat/soldat" title="Soldat is a unique 2D (side-view) multiplayer action game" target="_blank">soldat</a>&nbsp;<a href="https://github.com/Soldat/soldat" title="Soldat is a unique 2D (side-view) multiplayer action game" target="_blank"><img src="https://img.shields.io/github/stars/Soldat/soldat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/type-challenges/type-challenges" title="Collection of TypeScript type challenges with online judge" target="_blank">type-challenges</a>&nbsp;<a href="https://github.com/type-challenges/type-challenges" title="Collection of TypeScript type challenges with online judge" target="_blank"><img src="https://img.shields.io/github/stars/type-challenges/type-challenges?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/RustPython/RustPython" title="A Python Interpreter written in Rust" target="_blank">RustPython</a>&nbsp;<a href="https://github.com/RustPython/RustPython" title="A Python Interpreter written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/RustPython/RustPython?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/pavlobu/deskreen" title="Deskreen turns any device with a web browser into a secondary screen for your computer" target="_blank">deskreen</a>&nbsp;<a href="https://github.com/pavlobu/deskreen" title="Deskreen turns any device with a web browser into a secondary screen for your computer" target="_blank"><img src="https://img.shields.io/github/stars/pavlobu/deskreen?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vlucas/phpdotenv" title="Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically." target="_blank">phpdotenv</a>&nbsp;<a href="https://github.com/vlucas/phpdotenv" title="Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically." target="_blank"><img src="https://img.shields.io/github/stars/vlucas/phpdotenv?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Jaredk3nt/homepage" title="Custom homepage for use locally in browser" target="_blank">homepage</a>&nbsp;<a href="https://github.com/Jaredk3nt/homepage" title="Custom homepage for use locally in browser" target="_blank"><img src="https://img.shields.io/github/stars/Jaredk3nt/homepage?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank">howtheysre</a>&nbsp;<a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank"><img src="https://img.shields.io/github/stars/upgundecha/howtheysre?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/dslul/openboard" title="100% FOSS keyboard, based on AOSP" target="_blank">openboard</a>&nbsp;<a href="https://github.com/dslul/openboard" title="100% FOSS keyboard, based on AOSP" target="_blank"><img src="https://img.shields.io/github/stars/dslul/openboard?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/apankrat/nullboard" title="Nullboard is a minimalist kanban board, focused on compactness and readability." target="_blank">nullboard</a>&nbsp;<a href="https://github.com/apankrat/nullboard" title="Nullboard is a minimalist kanban board, focused on compactness and readability." target="_blank"><img src="https://img.shields.io/github/stars/apankrat/nullboard?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cri-o/cri-o" title="Open Container Initiative-based implementation of Kubernetes Container Runtime Interface" target="_blank">cri-o</a>&nbsp;<a href="https://github.com/cri-o/cri-o" title="Open Container Initiative-based implementation of Kubernetes Container Runtime Interface" target="_blank"><img src="https://img.shields.io/github/stars/cri-o/cri-o?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/flameshot-org/flameshot" title="Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" target="_blank">flameshot</a>&nbsp;<a href="https://github.com/flameshot-org/flameshot" title="Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" target="_blank"><img src="https://img.shields.io/github/stars/flameshot-org/flameshot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Soldat/soldat" title="Soldat is a unique 2D (side-view) multiplayer action game" target="_blank">soldat</a>&nbsp;<a href="https://github.com/Soldat/soldat" title="Soldat is a unique 2D (side-view) multiplayer action game" target="_blank"><img src="https://img.shields.io/github/stars/Soldat/soldat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/type-challenges/type-challenges" title="Collection of TypeScript type challenges with online judge" target="_blank">type-challenges</a>&nbsp;<a href="https://github.com/type-challenges/type-challenges" title="Collection of TypeScript type challenges with online judge" target="_blank"><img src="https://img.shields.io/github/stars/type-challenges/type-challenges?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/RustPython/RustPython" title="A Python Interpreter written in Rust" target="_blank">RustPython</a>&nbsp;<a href="https://github.com/RustPython/RustPython" title="A Python Interpreter written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/RustPython/RustPython?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pavlobu/deskreen" title="Deskreen turns any device with a web browser into a secondary screen for your computer" target="_blank">deskreen</a>&nbsp;<a href="https://github.com/pavlobu/deskreen" title="Deskreen turns any device with a web browser into a secondary screen for your computer" target="_blank"><img src="https://img.shields.io/github/stars/pavlobu/deskreen?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vlucas/phpdotenv" title="Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically." target="_blank">phpdotenv</a>&nbsp;<a href="https://github.com/vlucas/phpdotenv" title="Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically." target="_blank"><img src="https://img.shields.io/github/stars/vlucas/phpdotenv?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Jaredk3nt/homepage" title="Custom homepage for use locally in browser" target="_blank">homepage</a>&nbsp;<a href="https://github.com/Jaredk3nt/homepage" title="Custom homepage for use locally in browser" target="_blank"><img src="https://img.shields.io/github/stars/Jaredk3nt/homepage?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jbesomi/texthero" title="Text preprocessing, representation and visualization from zero to hero." target="_blank">texthero</a>&nbsp;<a href="https://github.com/jbesomi/texthero" title="Text preprocessing, representation and visualization from zero to hero." target="_blank"><img src="https://img.shields.io/github/stars/jbesomi/texthero?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 17 Feb 2021 13:42:59 GMT</small>
+<small>⏰ Updated on Thu, 18 Feb 2021 13:52:19 GMT</small>
 </td>
 </tr>
 </tfoot>
