@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/conwnet/github1s" title="One second to read GitHub code with VS Code." target="_blank">github1s</a>&nbsp;<a href="https://github.com/conwnet/github1s" title="One second to read GitHub code with VS Code." target="_blank"><img src="https://img.shields.io/github/stars/conwnet/github1s?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/twitterdev/Twitter-API-v2-sample-code" title="Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js)." target="_blank">Twitter-API-v2-sample-code</a>&nbsp;<a href="https://github.com/twitterdev/Twitter-API-v2-sample-code" title="Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js)." target="_blank"><img src="https://img.shields.io/github/stars/twitterdev/Twitter-API-v2-sample-code?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank">howtheysre</a>&nbsp;<a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank"><img src="https://img.shields.io/github/stars/upgundecha/howtheysre?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/OWASP/CheatSheetSeries" title="The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics." target="_blank">CheatSheetSeries</a>&nbsp;<a href="https://github.com/OWASP/CheatSheetSeries" title="The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics." target="_blank"><img src="https://img.shields.io/github/stars/OWASP/CheatSheetSeries?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jaspervdj/patat" title="Terminal-based presentations using Pandoc" target="_blank">patat</a>&nbsp;<a href="https://github.com/jaspervdj/patat" title="Terminal-based presentations using Pandoc" target="_blank"><img src="https://img.shields.io/github/stars/jaspervdj/patat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/system76/launch" title="System76 Launch Configurable Keyboard" target="_blank">launch</a>&nbsp;<a href="https://github.com/system76/launch" title="System76 Launch Configurable Keyboard" target="_blank"><img src="https://img.shields.io/github/stars/system76/launch?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/medialab/gazouilloire" title="Twitter stream + search API grabber" target="_blank">gazouilloire</a>&nbsp;<a href="https://github.com/medialab/gazouilloire" title="Twitter stream + search API grabber" target="_blank"><img src="https://img.shields.io/github/stars/medialab/gazouilloire?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/grafana/grafana-plugin-repository" title="The plugin repository for plugins that are published on grafana.com." target="_blank">grafana-plugin-repository</a>&nbsp;<a href="https://github.com/grafana/grafana-plugin-repository" title="The plugin repository for plugins that are published on grafana.com." target="_blank"><img src="https://img.shields.io/github/stars/grafana/grafana-plugin-repository?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/openZH/covid_19" title="COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README." target="_blank">covid_19</a>&nbsp;<a href="https://github.com/openZH/covid_19" title="COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README." target="_blank"><img src="https://img.shields.io/github/stars/openZH/covid_19?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tagadanar/leekwars_gardener" title="null" target="_blank">leekwars_gardener</a>&nbsp;<a href="https://github.com/tagadanar/leekwars_gardener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/tagadanar/leekwars_gardener?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/qeeqbox/social-analyzer" title="API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)" target="_blank">social-analyzer</a>&nbsp;<a href="https://github.com/qeeqbox/social-analyzer" title="API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)" target="_blank"><img src="https://img.shields.io/github/stars/qeeqbox/social-analyzer?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/vlucas/phpdotenv" title="Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically." target="_blank">phpdotenv</a>&nbsp;<a href="https://github.com/vlucas/phpdotenv" title="Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically." target="_blank"><img src="https://img.shields.io/github/stars/vlucas/phpdotenv?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/twitterdev/Twitter-API-v2-sample-code" title="Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js)." target="_blank">Twitter-API-v2-sample-code</a>&nbsp;<a href="https://github.com/twitterdev/Twitter-API-v2-sample-code" title="Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js)." target="_blank"><img src="https://img.shields.io/github/stars/twitterdev/Twitter-API-v2-sample-code?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank">howtheysre</a>&nbsp;<a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank"><img src="https://img.shields.io/github/stars/upgundecha/howtheysre?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/OWASP/CheatSheetSeries" title="The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics." target="_blank">CheatSheetSeries</a>&nbsp;<a href="https://github.com/OWASP/CheatSheetSeries" title="The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics." target="_blank"><img src="https://img.shields.io/github/stars/OWASP/CheatSheetSeries?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jaspervdj/patat" title="Terminal-based presentations using Pandoc" target="_blank">patat</a>&nbsp;<a href="https://github.com/jaspervdj/patat" title="Terminal-based presentations using Pandoc" target="_blank"><img src="https://img.shields.io/github/stars/jaspervdj/patat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/system76/launch" title="System76 Launch Configurable Keyboard" target="_blank">launch</a>&nbsp;<a href="https://github.com/system76/launch" title="System76 Launch Configurable Keyboard" target="_blank"><img src="https://img.shields.io/github/stars/system76/launch?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/medialab/gazouilloire" title="Twitter stream + search API grabber" target="_blank">gazouilloire</a>&nbsp;<a href="https://github.com/medialab/gazouilloire" title="Twitter stream + search API grabber" target="_blank"><img src="https://img.shields.io/github/stars/medialab/gazouilloire?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/grafana/grafana-plugin-repository" title="The plugin repository for plugins that are published on grafana.com." target="_blank">grafana-plugin-repository</a>&nbsp;<a href="https://github.com/grafana/grafana-plugin-repository" title="The plugin repository for plugins that are published on grafana.com." target="_blank"><img src="https://img.shields.io/github/stars/grafana/grafana-plugin-repository?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/openZH/covid_19" title="COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README." target="_blank">covid_19</a>&nbsp;<a href="https://github.com/openZH/covid_19" title="COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README." target="_blank"><img src="https://img.shields.io/github/stars/openZH/covid_19?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tagadanar/leekwars_gardener" title="null" target="_blank">leekwars_gardener</a>&nbsp;<a href="https://github.com/tagadanar/leekwars_gardener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/tagadanar/leekwars_gardener?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/laravel/dusk" title="null" target="_blank">dusk</a>&nbsp;<a href="https://github.com/laravel/dusk" title="null" target="_blank"><img src="https://img.shields.io/github/stars/laravel/dusk?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 22 Feb 2021 13:41:15 GMT</small>
+<small>⏰ Updated on Tue, 23 Feb 2021 13:44:02 GMT</small>
 </td>
 </tr>
 </tfoot>
