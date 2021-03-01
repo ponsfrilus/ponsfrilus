@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 11 years and 1 months.
+    <br />Apparently, I'm hanging around on GitHub since 11 years and 2 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -31,6 +31,12 @@
 <tr>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/lmorg/murex" title="Bash-like $SHELL designed for greater commandline productivity and safer shell scripts" target="_blank">murex</a>&nbsp;<a href="https://github.com/lmorg/murex" title="Bash-like $SHELL designed for greater commandline productivity and safer shell scripts" target="_blank"><img src="https://img.shields.io/github/stars/lmorg/murex?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/BillDietrich/fake_contacts" title="Create fake phone contacts, to do data-poisoning." target="_blank">fake_contacts</a>&nbsp;<a href="https://github.com/BillDietrich/fake_contacts" title="Create fake phone contacts, to do data-poisoning." target="_blank"><img src="https://img.shields.io/github/stars/BillDietrich/fake_contacts?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/wereturtle/ghostwriter" title="ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor." target="_blank">ghostwriter</a>&nbsp;<a href="https://github.com/wereturtle/ghostwriter" title="ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor." target="_blank"><img src="https://img.shields.io/github/stars/wereturtle/ghostwriter?style=social" alt="GitHub"></a>
 </li>
@@ -55,16 +61,16 @@
 <li>
 <a href="https://github.com/type-challenges/type-challenges" title="Collection of TypeScript type challenges with online judge" target="_blank">type-challenges</a>&nbsp;<a href="https://github.com/type-challenges/type-challenges" title="Collection of TypeScript type challenges with online judge" target="_blank"><img src="https://img.shields.io/github/stars/type-challenges/type-challenges?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/RustPython/RustPython" title="A Python Interpreter written in Rust" target="_blank">RustPython</a>&nbsp;<a href="https://github.com/RustPython/RustPython" title="A Python Interpreter written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/RustPython/RustPython?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pavlobu/deskreen" title="Deskreen turns any device with a web browser into a secondary screen for your computer" target="_blank">deskreen</a>&nbsp;<a href="https://github.com/pavlobu/deskreen" title="Deskreen turns any device with a web browser into a secondary screen for your computer" target="_blank"><img src="https://img.shields.io/github/stars/pavlobu/deskreen?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank">bit</a>&nbsp;<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank"><img src="https://img.shields.io/github/stars/chriswalz/bit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)" target="_blank">wasm3</a>&nbsp;<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)" target="_blank"><img src="https://img.shields.io/github/stars/wasm3/wasm3?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/conwnet/github1s" title="One second to read GitHub code with VS Code." target="_blank">github1s</a>&nbsp;<a href="https://github.com/conwnet/github1s" title="One second to read GitHub code with VS Code." target="_blank"><img src="https://img.shields.io/github/stars/conwnet/github1s?style=social" alt="GitHub"></a>
 </li>
@@ -88,12 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/grafana/grafana-plugin-repository" title="The plugin repository for plugins that are published on grafana.com." target="_blank">grafana-plugin-repository</a>&nbsp;<a href="https://github.com/grafana/grafana-plugin-repository" title="The plugin repository for plugins that are published on grafana.com." target="_blank"><img src="https://img.shields.io/github/stars/grafana/grafana-plugin-repository?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/openZH/covid_19" title="COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README." target="_blank">covid_19</a>&nbsp;<a href="https://github.com/openZH/covid_19" title="COVID19 case numbers Cantons of Switzerland and Principality of Liechtenstein (FL). The data is updated at best once a day (times of collection and update may vary). Start with the README." target="_blank"><img src="https://img.shields.io/github/stars/openZH/covid_19?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tagadanar/leekwars_gardener" title="null" target="_blank">leekwars_gardener</a>&nbsp;<a href="https://github.com/tagadanar/leekwars_gardener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/tagadanar/leekwars_gardener?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 26 Feb 2021 13:47:10 GMT</small>
+<small>⏰ Updated on Mon, 01 Mar 2021 13:44:50 GMT</small>
 </td>
 </tr>
 </tfoot>
