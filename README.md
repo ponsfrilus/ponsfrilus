@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Marak/faker.js" title="generate massive amounts of realistic fake data in Node.js and the browser" target="_blank">faker.js</a>&nbsp;<a href="https://github.com/Marak/faker.js" title="generate massive amounts of realistic fake data in Node.js and the browser" target="_blank"><img src="https://img.shields.io/github/stars/Marak/faker.js?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/lmorg/murex" title="Bash-like $SHELL designed for greater commandline productivity and safer shell scripts" target="_blank">murex</a>&nbsp;<a href="https://github.com/lmorg/murex" title="Bash-like $SHELL designed for greater commandline productivity and safer shell scripts" target="_blank"><img src="https://img.shields.io/github/stars/lmorg/murex?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/Soldat/soldat" title="Soldat is a unique 2D (side-view) multiplayer action game" target="_blank">soldat</a>&nbsp;<a href="https://github.com/Soldat/soldat" title="Soldat is a unique 2D (side-view) multiplayer action game" target="_blank"><img src="https://img.shields.io/github/stars/Soldat/soldat?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/type-challenges/type-challenges" title="Collection of TypeScript type challenges with online judge" target="_blank">type-challenges</a>&nbsp;<a href="https://github.com/type-challenges/type-challenges" title="Collection of TypeScript type challenges with online judge" target="_blank"><img src="https://img.shields.io/github/stars/type-challenges/type-challenges?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank">generatedata</a>&nbsp;<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank"><img src="https://img.shields.io/github/stars/benkeen/generatedata?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank">bit</a>&nbsp;<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank"><img src="https://img.shields.io/github/stars/chriswalz/bit?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/medialab/gazouilloire" title="Twitter stream + search API grabber" target="_blank">gazouilloire</a>&nbsp;<a href="https://github.com/medialab/gazouilloire" title="Twitter stream + search API grabber" target="_blank"><img src="https://img.shields.io/github/stars/medialab/gazouilloire?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/grafana/grafana-plugin-repository" title="The plugin repository for plugins that are published on grafana.com." target="_blank">grafana-plugin-repository</a>&nbsp;<a href="https://github.com/grafana/grafana-plugin-repository" title="The plugin repository for plugins that are published on grafana.com." target="_blank"><img src="https://img.shields.io/github/stars/grafana/grafana-plugin-repository?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 01 Mar 2021 13:44:50 GMT</small>
+<small>⏰ Updated on Tue, 02 Mar 2021 13:41:51 GMT</small>
 </td>
 </tr>
 </tfoot>
