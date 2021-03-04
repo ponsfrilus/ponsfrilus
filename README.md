@@ -44,7 +44,7 @@
 <a href="https://github.com/wereturtle/ghostwriter" title="ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor." target="_blank">ghostwriter</a>&nbsp;<a href="https://github.com/wereturtle/ghostwriter" title="ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor." target="_blank"><img src="https://img.shields.io/github/stars/wereturtle/ghostwriter?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/qeeqbox/social-analyzer" title="API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)" target="_blank">social-analyzer</a>&nbsp;<a href="https://github.com/qeeqbox/social-analyzer" title="API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)" target="_blank"><img src="https://img.shields.io/github/stars/qeeqbox/social-analyzer?style=social" alt="GitHub"></a>
+<a href="https://github.com/qeeqbox/social-analyzer" title="API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)" target="_blank">social-analyzer</a>&nbsp;<a href="https://github.com/qeeqbox/social-analyzer" title="API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)" target="_blank"><img src="https://img.shields.io/github/stars/qeeqbox/social-analyzer?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/leafac/kill-the-newsletter.com" title="Convert email newsletters into Atom feeds" target="_blank">kill-the-newsletter.com</a>&nbsp;<a href="https://github.com/leafac/kill-the-newsletter.com" title="Convert email newsletters into Atom feeds" target="_blank"><img src="https://img.shields.io/github/stars/leafac/kill-the-newsletter.com?style=social" alt="GitHub"></a>
@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/19e07d4e4bd0bc0ee6851ee388a199f2d2ea4907" title="2021-03-04T13:20:47.000+01:00" target="_blank">19e07d4e</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
+          <pre>[git] please ignore tiled session</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/gitro/commits/4a21aa60e83103dc9d0509a323d75e094c87dea6" title="2021-02-14T22:32:22.000+01:00" target="_blank">4a21aa60</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/gitro" title="Une petite introduction à Git">/gitro</a></strong></div>
           <pre>version 2</pre>
         </td>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/7107ecb33ff6e450d6f635e611dd4ec9359883e1" title="2021-02-09T13:50:41.000+01:00" target="_blank">7107ecb3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[feature] GIFs</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/328de060dbb91c1a54218ba9728c0ff7d96f78e3" title="2021-02-09T12:46:53.000+01:00" target="_blank">328de060</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[doc] README updated</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 03 Mar 2021 13:45:06 GMT</small>
+<small>⏰ Updated on Thu, 04 Mar 2021 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
