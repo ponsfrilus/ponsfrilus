@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/git/git" title="Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements." target="_blank">git</a>&nbsp;<a href="https://github.com/git/git" title="Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements." target="_blank"><img src="https://img.shields.io/github/stars/git/git?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/Marak/faker.js" title="generate massive amounts of realistic fake data in Node.js and the browser" target="_blank">faker.js</a>&nbsp;<a href="https://github.com/Marak/faker.js" title="generate massive amounts of realistic fake data in Node.js and the browser" target="_blank"><img src="https://img.shields.io/github/stars/Marak/faker.js?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/flameshot-org/flameshot" title="Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" target="_blank">flameshot</a>&nbsp;<a href="https://github.com/flameshot-org/flameshot" title="Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" target="_blank"><img src="https://img.shields.io/github/stars/flameshot-org/flameshot?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/Soldat/soldat" title="Soldat is a unique 2D (side-view) multiplayer action game" target="_blank">soldat</a>&nbsp;<a href="https://github.com/Soldat/soldat" title="Soldat is a unique 2D (side-view) multiplayer action game" target="_blank"><img src="https://img.shields.io/github/stars/Soldat/soldat?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank">workadventure-map-starter-kit</a>&nbsp;<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank"><img src="https://img.shields.io/github/stars/thecodingmachine/workadventure-map-starter-kit?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank">generatedata</a>&nbsp;<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank"><img src="https://img.shields.io/github/stars/benkeen/generatedata?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/system76/launch" title="System76 Launch Configurable Keyboard" target="_blank">launch</a>&nbsp;<a href="https://github.com/system76/launch" title="System76 Launch Configurable Keyboard" target="_blank"><img src="https://img.shields.io/github/stars/system76/launch?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/medialab/gazouilloire" title="Twitter stream + search API grabber" target="_blank">gazouilloire</a>&nbsp;<a href="https://github.com/medialab/gazouilloire" title="Twitter stream + search API grabber" target="_blank"><img src="https://img.shields.io/github/stars/medialab/gazouilloire?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,11 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/a8a7d9b2ec5c8f688ddbcc47cd6c2f1379b84c6b" title="2021-03-04T13:20:47.000+01:00" target="_blank">a8a7d9b2</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
+          <pre>[git] please ignore tiled session</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/19e07d4e4bd0bc0ee6851ee388a199f2d2ea4907" title="2021-03-04T13:20:47.000+01:00" target="_blank">19e07d4e</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
           <pre>[git] please ignore tiled session</pre>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/04426a3a685d43326b2aac3aea40ec6a5afdc915" title="2021-02-10T10:38:06.000+01:00" target="_blank">04426a3a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
           <pre>[fix] Invalid URL are no longer crashing discover</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/7107ecb33ff6e450d6f635e611dd4ec9359883e1" title="2021-02-09T13:50:41.000+01:00" target="_blank">7107ecb3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] GIFs</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 04 Mar 2021 13:45:11 GMT</small>
+<small>⏰ Updated on Fri, 05 Mar 2021 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
