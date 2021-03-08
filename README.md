@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank">Chibre-manager</a>&nbsp;<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nours33/Chibre-manager?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank">avatarify-python</a>&nbsp;<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank"><img src="https://img.shields.io/github/stars/alievk/avatarify-python?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank">workadventure-map-starter-kit</a>&nbsp;<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank"><img src="https://img.shields.io/github/stars/thecodingmachine/workadventure-map-starter-kit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank">generatedata</a>&nbsp;<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank"><img src="https://img.shields.io/github/stars/benkeen/generatedata?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank">bit</a>&nbsp;<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank"><img src="https://img.shields.io/github/stars/chriswalz/bit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)" target="_blank">wasm3</a>&nbsp;<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)" target="_blank"><img src="https://img.shields.io/github/stars/wasm3/wasm3?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/conwnet/github1s" title="One second to read GitHub code with VS Code." target="_blank">github1s</a>&nbsp;<a href="https://github.com/conwnet/github1s" title="One second to read GitHub code with VS Code." target="_blank"><img src="https://img.shields.io/github/stars/conwnet/github1s?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/twitterdev/Twitter-API-v2-sample-code" title="Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js)." target="_blank">Twitter-API-v2-sample-code</a>&nbsp;<a href="https://github.com/twitterdev/Twitter-API-v2-sample-code" title="Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js)." target="_blank"><img src="https://img.shields.io/github/stars/twitterdev/Twitter-API-v2-sample-code?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank">howtheysre</a>&nbsp;<a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank"><img src="https://img.shields.io/github/stars/upgundecha/howtheysre?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/OWASP/CheatSheetSeries" title="The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics." target="_blank">CheatSheetSeries</a>&nbsp;<a href="https://github.com/OWASP/CheatSheetSeries" title="The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics." target="_blank"><img src="https://img.shields.io/github/stars/OWASP/CheatSheetSeries?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/plausible/analytics" title="Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics." target="_blank">analytics</a>&nbsp;<a href="https://github.com/plausible/analytics" title="Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics." target="_blank"><img src="https://img.shields.io/github/stars/plausible/analytics?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/git/git" title="Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements." target="_blank">git</a>&nbsp;<a href="https://github.com/git/git" title="Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements." target="_blank"><img src="https://img.shields.io/github/stars/git/git?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,43 +95,6 @@
 <li>
 <a href="https://github.com/cri-o/cri-o" title="Open Container Initiative-based implementation of Kubernetes Container Runtime Interface" target="_blank">cri-o</a>&nbsp;<a href="https://github.com/cri-o/cri-o" title="Open Container Initiative-based implementation of Kubernetes Container Runtime Interface" target="_blank"><img src="https://img.shields.io/github/stars/cri-o/cri-o?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/flameshot-org/flameshot" title="Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" target="_blank">flameshot</a>&nbsp;<a href="https://github.com/flameshot-org/flameshot" title="Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:" target="_blank"><img src="https://img.shields.io/github/stars/flameshot-org/flameshot?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank">workadventure-map-starter-kit</a>&nbsp;<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank"><img src="https://img.shields.io/github/stars/thecodingmachine/workadventure-map-starter-kit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank">generatedata</a>&nbsp;<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank"><img src="https://img.shields.io/github/stars/benkeen/generatedata?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank">bit</a>&nbsp;<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank"><img src="https://img.shields.io/github/stars/chriswalz/bit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)" target="_blank">wasm3</a>&nbsp;<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)" target="_blank"><img src="https://img.shields.io/github/stars/wasm3/wasm3?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/conwnet/github1s" title="One second to read GitHub code with VS Code." target="_blank">github1s</a>&nbsp;<a href="https://github.com/conwnet/github1s" title="One second to read GitHub code with VS Code." target="_blank"><img src="https://img.shields.io/github/stars/conwnet/github1s?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/twitterdev/Twitter-API-v2-sample-code" title="Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js)." target="_blank">Twitter-API-v2-sample-code</a>&nbsp;<a href="https://github.com/twitterdev/Twitter-API-v2-sample-code" title="Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js)." target="_blank"><img src="https://img.shields.io/github/stars/twitterdev/Twitter-API-v2-sample-code?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank">howtheysre</a>&nbsp;<a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank"><img src="https://img.shields.io/github/stars/upgundecha/howtheysre?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/OWASP/CheatSheetSeries" title="The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics." target="_blank">CheatSheetSeries</a>&nbsp;<a href="https://github.com/OWASP/CheatSheetSeries" title="The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics." target="_blank"><img src="https://img.shields.io/github/stars/OWASP/CheatSheetSeries?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jaspervdj/patat" title="Terminal-based presentations using Pandoc" target="_blank">patat</a>&nbsp;<a href="https://github.com/jaspervdj/patat" title="Terminal-based presentations using Pandoc" target="_blank"><img src="https://img.shields.io/github/stars/jaspervdj/patat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/system76/launch" title="System76 Launch Configurable Keyboard" target="_blank">launch</a>&nbsp;<a href="https://github.com/system76/launch" title="System76 Launch Configurable Keyboard" target="_blank"><img src="https://img.shields.io/github/stars/system76/launch?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -103,59 +103,69 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/a8a7d9b2ec5c8f688ddbcc47cd6c2f1379b84c6b" title="2021-03-04T13:20:47.000+01:00" target="_blank">a8a7d9b2</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
-          <pre>[git] please ignore tiled session</pre>
+          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/005f854ba74c813b401bf70d781fb168793b913d" title="2021-03-06T23:44:23.000+01:00" target="_blank">005f854b</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
+          <pre>Merge pull request #31 from TacticsCH/feature/EPFL_lobby
+
+fix: Lobby highlight changed to red</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/19e07d4e4bd0bc0ee6851ee388a199f2d2ea4907" title="2021-03-04T13:20:47.000+01:00" target="_blank">19e07d4e</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
-          <pre>[git] please ignore tiled session</pre>
+          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/1dfe64ab232024377269a762140cef9f58a21171" title="2021-03-06T23:41:54.000+01:00" target="_blank">1dfe64ab</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
+          <pre>fix: Lobby highlight changed to red</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/gitro/commits/4a21aa60e83103dc9d0509a323d75e094c87dea6" title="2021-02-14T22:32:22.000+01:00" target="_blank">4a21aa60</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/gitro" title="Une petite introduction à Git">/gitro</a></strong></div>
-          <pre>version 2</pre>
+          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/e0314f72b6614f9c5a7190c214959682fbd79c44" title="2021-03-06T18:56:05.000+01:00" target="_blank">e0314f72</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
+          <pre>Merge pull request #29 from TacticsCH/feature/EPFL_lobby
+
+feature: EPFL's lobby higlight</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/396ee9fd4cd476911b870638eb44a059aa9362bb" title="2021-02-10T13:34:14.000+01:00" target="_blank">396ee9fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] forgot a tag + add spare URLs</pre>
+          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/4d8fbb6890adb27a31f0ddfabf872070023f399e" title="2021-03-06T18:55:22.000+01:00" target="_blank">4d8fbb68</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
+          <pre>feature: EPFL's lobby higlight</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/05033845ca76ae85a879e6c7c75068a6464ca4e2" title="2021-02-10T13:15:24.000+01:00" target="_blank">05033845</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[doc] typos</pre>
+          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/1ab05d11f8ccf4b0a49ccd86b267d5fb4fc2493e" title="2021-03-06T18:29:47.000+01:00" target="_blank">1ab05d11</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
+          <pre>Merge pull request #28 from TacticsCH/feature/EPFL_lobby
+
+feature: EPFL Lobby bird's view</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/1e2b9f2fcb93e54a15669a5db8da332fc8478cda" title="2021-02-10T12:42:09.000+01:00" target="_blank">1e2b9f2f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[doc] explaination</pre>
+          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/58ae897a932a9389252de127ca9f602cbd60f859" title="2021-03-06T18:27:49.000+01:00" target="_blank">58ae897a</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
+          <pre>feature: EPFL Lobby bird's view</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/a8e03c93129f46744b5c06bef675af006f113860" title="2021-02-10T12:41:57.000+01:00" target="_blank">a8e03c93</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[feature] add viewport size</pre>
+          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/461ea6d6a1b4a95438ae617773a07745dd28fb0a" title="2021-03-06T12:40:12.000+01:00" target="_blank">461ea6d6</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
+          <pre>Merge pull request #27 from TacticsCH/feature/INN_1
+
+feature: add inn's floors</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/287a7e8de2d5ac1990b998ca992ae154242486f2" title="2021-02-10T10:38:33.000+01:00" target="_blank">287a7e8d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[log] add viewport size in logs</pre>
+          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/640ca7d8f055f62bad99f478e111da8687a326d0" title="2021-03-06T12:39:36.000+01:00" target="_blank">640ca7d8</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
+          <pre>feature: add inn's floors</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/8cad23f275596a3e689674d11ec9097774dd7797" title="2021-02-10T10:38:18.000+01:00" target="_blank">8cad23f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] headless by default</pre>
+          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/9b8966f2764eb5027ebe240994a83744a101452b" title="2021-03-06T12:20:41.000+01:00" target="_blank">9b8966f2</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
+          <pre>Merge pull request #26 from TacticsCH/feature/EPFL_lobby
+
+fix: EPFL overview</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/rcc/commits/04426a3a685d43326b2aac3aea40ec6a5afdc915" title="2021-02-10T10:38:06.000+01:00" target="_blank">04426a3a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/rcc" title="RCC — Reload Cloudflare Cache">/rcc</a></strong></div>
-          <pre>[fix] Invalid URL are no longer crashing discover</pre>
+          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/5bfbaef6c6ccf750c1b522b19a55aaa9b4fea179" title="2021-03-06T12:19:28.000+01:00" target="_blank">5bfbaef6</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
+          <pre>fix: EPFL overview</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 05 Mar 2021 13:45:16 GMT</small>
+<small>⏰ Updated on Mon, 08 Mar 2021 13:45:47 GMT</small>
 </td>
 </tr>
 </tfoot>
