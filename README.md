@@ -32,39 +32,8 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/home-assistant/core" title=":house_with_garden: Open source home automation that puts local control and privacy first" target="_blank">core</a>&nbsp;<a href="https://github.com/home-assistant/core" title=":house_with_garden: Open source home automation that puts local control and privacy first" target="_blank"><img src="https://img.shields.io/github/stars/home-assistant/core?style=social" alt="GitHub"></a>
+<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank">decoded-coreutils</a>&nbsp;<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank"><img src="https://img.shields.io/github/stars/MaiZure/decoded-coreutils?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/plausible/analytics" title="Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics." target="_blank">analytics</a>&nbsp;<a href="https://github.com/plausible/analytics" title="Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics." target="_blank"><img src="https://img.shields.io/github/stars/plausible/analytics?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/git/git" title="Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements." target="_blank">git</a>&nbsp;<a href="https://github.com/git/git" title="Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements." target="_blank"><img src="https://img.shields.io/github/stars/git/git?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Marak/faker.js" title="generate massive amounts of realistic fake data in Node.js and the browser" target="_blank">faker.js</a>&nbsp;<a href="https://github.com/Marak/faker.js" title="generate massive amounts of realistic fake data in Node.js and the browser" target="_blank"><img src="https://img.shields.io/github/stars/Marak/faker.js?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lmorg/murex" title="Bash-like $SHELL designed for greater commandline productivity and safer shell scripts" target="_blank">murex</a>&nbsp;<a href="https://github.com/lmorg/murex" title="Bash-like $SHELL designed for greater commandline productivity and safer shell scripts" target="_blank"><img src="https://img.shields.io/github/stars/lmorg/murex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/BillDietrich/fake_contacts" title="Create fake phone contacts, to do data-poisoning." target="_blank">fake_contacts</a>&nbsp;<a href="https://github.com/BillDietrich/fake_contacts" title="Create fake phone contacts, to do data-poisoning." target="_blank"><img src="https://img.shields.io/github/stars/BillDietrich/fake_contacts?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/wereturtle/ghostwriter" title="ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor." target="_blank">ghostwriter</a>&nbsp;<a href="https://github.com/wereturtle/ghostwriter" title="ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor." target="_blank"><img src="https://img.shields.io/github/stars/wereturtle/ghostwriter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/qeeqbox/social-analyzer" title="API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)" target="_blank">social-analyzer</a>&nbsp;<a href="https://github.com/qeeqbox/social-analyzer" title="API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)" target="_blank"><img src="https://img.shields.io/github/stars/qeeqbox/social-analyzer?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/leafac/kill-the-newsletter.com" title="Convert email newsletters into Atom feeds" target="_blank">kill-the-newsletter.com</a>&nbsp;<a href="https://github.com/leafac/kill-the-newsletter.com" title="Convert email newsletters into Atom feeds" target="_blank"><img src="https://img.shields.io/github/stars/leafac/kill-the-newsletter.com?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/apankrat/nullboard" title="Nullboard is a minimalist kanban board, focused on compactness and readability." target="_blank">nullboard</a>&nbsp;<a href="https://github.com/apankrat/nullboard" title="Nullboard is a minimalist kanban board, focused on compactness and readability." target="_blank"><img src="https://img.shields.io/github/stars/apankrat/nullboard?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
 <li>
 <a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank">Chibre-manager</a>&nbsp;<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nours33/Chibre-manager?style=social" alt="GitHub"></a>
 </li>
@@ -92,8 +61,39 @@
 <li>
 <a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank">howtheysre</a>&nbsp;<a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank"><img src="https://img.shields.io/github/stars/upgundecha/howtheysre?style=social" alt="GitHub"></a>
 </li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
 <li>
-<a href="https://github.com/OWASP/CheatSheetSeries" title="The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics." target="_blank">CheatSheetSeries</a>&nbsp;<a href="https://github.com/OWASP/CheatSheetSeries" title="The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics." target="_blank"><img src="https://img.shields.io/github/stars/OWASP/CheatSheetSeries?style=social" alt="GitHub"></a>
+<a href="https://github.com/home-assistant/core" title=":house_with_garden: Open source home automation that puts local control and privacy first" target="_blank">core</a>&nbsp;<a href="https://github.com/home-assistant/core" title=":house_with_garden: Open source home automation that puts local control and privacy first" target="_blank"><img src="https://img.shields.io/github/stars/home-assistant/core?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/plausible/analytics" title="Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics." target="_blank">analytics</a>&nbsp;<a href="https://github.com/plausible/analytics" title="Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics." target="_blank"><img src="https://img.shields.io/github/stars/plausible/analytics?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/git/git" title="Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements." target="_blank">git</a>&nbsp;<a href="https://github.com/git/git" title="Git Source Code Mirror - This is a publish-only repository and all pull requests are ignored. Please follow Documentation/SubmittingPatches procedure for any of your improvements." target="_blank"><img src="https://img.shields.io/github/stars/git/git?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Marak/faker.js" title="generate massive amounts of realistic fake data in Node.js and the browser" target="_blank">faker.js</a>&nbsp;<a href="https://github.com/Marak/faker.js" title="generate massive amounts of realistic fake data in Node.js and the browser" target="_blank"><img src="https://img.shields.io/github/stars/Marak/faker.js?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lmorg/murex" title="Bash-like $SHELL designed for greater commandline productivity and safer shell scripts" target="_blank">murex</a>&nbsp;<a href="https://github.com/lmorg/murex" title="Bash-like $SHELL designed for greater commandline productivity and safer shell scripts" target="_blank"><img src="https://img.shields.io/github/stars/lmorg/murex?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/BillDietrich/fake_contacts" title="Create fake phone contacts, to do data-poisoning." target="_blank">fake_contacts</a>&nbsp;<a href="https://github.com/BillDietrich/fake_contacts" title="Create fake phone contacts, to do data-poisoning." target="_blank"><img src="https://img.shields.io/github/stars/BillDietrich/fake_contacts?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/wereturtle/ghostwriter" title="ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor." target="_blank">ghostwriter</a>&nbsp;<a href="https://github.com/wereturtle/ghostwriter" title="ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor." target="_blank"><img src="https://img.shields.io/github/stars/wereturtle/ghostwriter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/qeeqbox/social-analyzer" title="API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)" target="_blank">social-analyzer</a>&nbsp;<a href="https://github.com/qeeqbox/social-analyzer" title="API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)" target="_blank"><img src="https://img.shields.io/github/stars/qeeqbox/social-analyzer?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/leafac/kill-the-newsletter" title="Convert email newsletters into Atom feeds" target="_blank">kill-the-newsletter</a>&nbsp;<a href="https://github.com/leafac/kill-the-newsletter" title="Convert email newsletters into Atom feeds" target="_blank"><img src="https://img.shields.io/github/stars/leafac/kill-the-newsletter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/apankrat/nullboard" title="Nullboard is a minimalist kanban board, focused on compactness and readability." target="_blank">nullboard</a>&nbsp;<a href="https://github.com/apankrat/nullboard" title="Nullboard is a minimalist kanban board, focused on compactness and readability." target="_blank"><img src="https://img.shields.io/github/stars/apankrat/nullboard?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -102,6 +102,22 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/fad68c3c5922f6665b0fd7b6106a83cab0b8cdf7" title="2021-03-11T13:55:16.000+01:00" target="_blank">fad68c3c</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
+          <pre>Merge pull request #35 from TacticsCH/fix/jitsi_zones
+
+fix: jitsi zones</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/cdb2e600eb60611cfe31823a59c3ab3713a59644" title="2021-03-11T11:43:22.000+01:00" target="_blank">cdb2e600</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
+          <pre>fix: jitsi zones
+
+* INN 14 was usin INN 13
+* INN 011 zone 2 was duplication INN 011 zone 1
+* A jitsi layer was merging INN28, 13 and 14</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/005f854ba74c813b401bf70d781fb168793b913d" title="2021-03-06T23:44:23.000+01:00" target="_blank">005f854b</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
           <pre>Merge pull request #31 from TacticsCH/feature/EPFL_lobby
@@ -149,23 +165,11 @@ feature: add inn's floors</pre>
           <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/640ca7d8f055f62bad99f478e111da8687a326d0" title="2021-03-06T12:39:36.000+01:00" target="_blank">640ca7d8</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
           <pre>feature: add inn's floors</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/9b8966f2764eb5027ebe240994a83744a101452b" title="2021-03-06T12:20:41.000+01:00" target="_blank">9b8966f2</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
-          <pre>Merge pull request #26 from TacticsCH/feature/EPFL_lobby
-
-fix: EPFL overview</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/5bfbaef6c6ccf750c1b522b19a55aaa9b4fea179" title="2021-03-06T12:19:28.000+01:00" target="_blank">5bfbaef6</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
-          <pre>fix: EPFL overview</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 10 Mar 2021 13:46:13 GMT</small>
+<small>⏰ Updated on Thu, 11 Mar 2021 13:47:07 GMT</small>
 </td>
 </tr>
 </tfoot>
