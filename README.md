@@ -32,39 +32,11 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank">decoded-coreutils</a>&nbsp;<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank"><img src="https://img.shields.io/github/stars/MaiZure/decoded-coreutils?style=social" alt="GitHub"></a>
+<a href="https://github.com/umlaeute/v4l2loopback" title="v4l2-loopback device " target="_blank">v4l2loopback</a>&nbsp;<a href="https://github.com/umlaeute/v4l2loopback" title="v4l2-loopback device " target="_blank"><img src="https://img.shields.io/github/stars/umlaeute/v4l2loopback?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank">Chibre-manager</a>&nbsp;<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nours33/Chibre-manager?style=social" alt="GitHub"></a>
+<a href="https://github.com/sigstore/cosign" title="Container Signing" target="_blank">cosign</a>&nbsp;<a href="https://github.com/sigstore/cosign" title="Container Signing" target="_blank"><img src="https://img.shields.io/github/stars/sigstore/cosign?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank">avatarify-python</a>&nbsp;<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank"><img src="https://img.shields.io/github/stars/alievk/avatarify-python?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank">workadventure-map-starter-kit</a>&nbsp;<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank"><img src="https://img.shields.io/github/stars/thecodingmachine/workadventure-map-starter-kit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank">generatedata</a>&nbsp;<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank"><img src="https://img.shields.io/github/stars/benkeen/generatedata?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank">bit</a>&nbsp;<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank"><img src="https://img.shields.io/github/stars/chriswalz/bit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)" target="_blank">wasm3</a>&nbsp;<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal wasm runtime)" target="_blank"><img src="https://img.shields.io/github/stars/wasm3/wasm3?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/conwnet/github1s" title="One second to read GitHub code with VS Code." target="_blank">github1s</a>&nbsp;<a href="https://github.com/conwnet/github1s" title="One second to read GitHub code with VS Code." target="_blank"><img src="https://img.shields.io/github/stars/conwnet/github1s?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/twitterdev/Twitter-API-v2-sample-code" title="Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js)." target="_blank">Twitter-API-v2-sample-code</a>&nbsp;<a href="https://github.com/twitterdev/Twitter-API-v2-sample-code" title="Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js)." target="_blank"><img src="https://img.shields.io/github/stars/twitterdev/Twitter-API-v2-sample-code?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank">howtheysre</a>&nbsp;<a href="https://github.com/upgundecha/howtheysre" title="A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)" target="_blank"><img src="https://img.shields.io/github/stars/upgundecha/howtheysre?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
 <li>
 <a href="https://github.com/home-assistant/core" title=":house_with_garden: Open source home automation that puts local control and privacy first" target="_blank">core</a>&nbsp;<a href="https://github.com/home-assistant/core" title=":house_with_garden: Open source home automation that puts local control and privacy first" target="_blank"><img src="https://img.shields.io/github/stars/home-assistant/core?style=social" alt="GitHub"></a>
 </li>
@@ -89,11 +61,39 @@
 <li>
 <a href="https://github.com/qeeqbox/social-analyzer" title="API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)" target="_blank">social-analyzer</a>&nbsp;<a href="https://github.com/qeeqbox/social-analyzer" title="API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)" target="_blank"><img src="https://img.shields.io/github/stars/qeeqbox/social-analyzer?style=social" alt="GitHub"></a>
 </li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
 <li>
-<a href="https://github.com/leafac/kill-the-newsletter" title="Convert email newsletters into Atom feeds" target="_blank">kill-the-newsletter</a>&nbsp;<a href="https://github.com/leafac/kill-the-newsletter" title="Convert email newsletters into Atom feeds" target="_blank"><img src="https://img.shields.io/github/stars/leafac/kill-the-newsletter?style=social" alt="GitHub"></a>
+<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank">legacy-cc</a>&nbsp;<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank"><img src="https://img.shields.io/github/stars/mortdeus/legacy-cc?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/apankrat/nullboard" title="Nullboard is a minimalist kanban board, focused on compactness and readability." target="_blank">nullboard</a>&nbsp;<a href="https://github.com/apankrat/nullboard" title="Nullboard is a minimalist kanban board, focused on compactness and readability." target="_blank"><img src="https://img.shields.io/github/stars/apankrat/nullboard?style=social" alt="GitHub"></a>
+<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank">decoded-coreutils</a>&nbsp;<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank"><img src="https://img.shields.io/github/stars/MaiZure/decoded-coreutils?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank">Chibre-manager</a>&nbsp;<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nours33/Chibre-manager?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank">avatarify-python</a>&nbsp;<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank"><img src="https://img.shields.io/github/stars/alievk/avatarify-python?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank">workadventure-map-starter-kit</a>&nbsp;<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank"><img src="https://img.shields.io/github/stars/thecodingmachine/workadventure-map-starter-kit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank">generatedata</a>&nbsp;<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank"><img src="https://img.shields.io/github/stars/benkeen/generatedata?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank">bit</a>&nbsp;<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank"><img src="https://img.shields.io/github/stars/chriswalz/bit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal runtime)" target="_blank">wasm3</a>&nbsp;<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal runtime)" target="_blank"><img src="https://img.shields.io/github/stars/wasm3/wasm3?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/conwnet/github1s" title="One second to read GitHub code with VS Code." target="_blank">github1s</a>&nbsp;<a href="https://github.com/conwnet/github1s" title="One second to read GitHub code with VS Code." target="_blank"><img src="https://img.shields.io/github/stars/conwnet/github1s?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/twitterdev/Twitter-API-v2-sample-code" title="Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js)." target="_blank">Twitter-API-v2-sample-code</a>&nbsp;<a href="https://github.com/twitterdev/Twitter-API-v2-sample-code" title="Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js)." target="_blank"><img src="https://img.shields.io/github/stars/twitterdev/Twitter-API-v2-sample-code?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -102,6 +102,11 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/5cbea6b2489fcf83484b62eb52d18a293e274556" title="2021-03-12T11:06:56.000+01:00" target="_blank">5cbea6b2</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
+          <pre>feature: add default furnitures to INN0's office (#36)</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/fad68c3c5922f6665b0fd7b6106a83cab0b8cdf7" title="2021-03-11T13:55:16.000+01:00" target="_blank">fad68c3c</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
           <pre>Merge pull request #35 from TacticsCH/fix/jitsi_zones
@@ -160,16 +165,11 @@ feature: EPFL Lobby bird's view</pre>
 
 feature: add inn's floors</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/640ca7d8f055f62bad99f478e111da8687a326d0" title="2021-03-06T12:39:36.000+01:00" target="_blank">640ca7d8</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
-          <pre>feature: add inn's floors</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 11 Mar 2021 13:47:07 GMT</small>
+<small>⏰ Updated on Fri, 12 Mar 2021 13:47:14 GMT</small>
 </td>
 </tr>
 </tfoot>
