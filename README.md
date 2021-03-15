@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/sveltejs/kit" title="A monorepo for SvelteKit and friends" target="_blank">kit</a>&nbsp;<a href="https://github.com/sveltejs/kit" title="A monorepo for SvelteKit and friends" target="_blank"><img src="https://img.shields.io/github/stars/sveltejs/kit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/foreman_kubespray" title="Kubespray plugin for Foreman 2.3.2+" target="_blank">foreman_kubespray</a>&nbsp;<a href="https://github.com/epfl-si/foreman_kubespray" title="Kubespray plugin for Foreman 2.3.2+" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/foreman_kubespray?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank">legacy-cc</a>&nbsp;<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank"><img src="https://img.shields.io/github/stars/mortdeus/legacy-cc?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank">decoded-coreutils</a>&nbsp;<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank"><img src="https://img.shields.io/github/stars/MaiZure/decoded-coreutils?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank">Chibre-manager</a>&nbsp;<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nours33/Chibre-manager?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank">avatarify-python</a>&nbsp;<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank"><img src="https://img.shields.io/github/stars/alievk/avatarify-python?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank">workadventure-map-starter-kit</a>&nbsp;<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank"><img src="https://img.shields.io/github/stars/thecodingmachine/workadventure-map-starter-kit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank">generatedata</a>&nbsp;<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank"><img src="https://img.shields.io/github/stars/benkeen/generatedata?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank">bit</a>&nbsp;<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank"><img src="https://img.shields.io/github/stars/chriswalz/bit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal runtime)" target="_blank">wasm3</a>&nbsp;<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal runtime)" target="_blank"><img src="https://img.shields.io/github/stars/wasm3/wasm3?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/google/security-research-pocs" title="Proof-of-concept codes created as part of security research done by Google Security Team." target="_blank">security-research-pocs</a>&nbsp;<a href="https://github.com/google/security-research-pocs" title="Proof-of-concept codes created as part of security research done by Google Security Team." target="_blank"><img src="https://img.shields.io/github/stars/google/security-research-pocs?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/umlaeute/v4l2loopback" title="v4l2-loopback device " target="_blank">v4l2loopback</a>&nbsp;<a href="https://github.com/umlaeute/v4l2loopback" title="v4l2-loopback device " target="_blank"><img src="https://img.shields.io/github/stars/umlaeute/v4l2loopback?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/wereturtle/ghostwriter" title="ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor." target="_blank">ghostwriter</a>&nbsp;<a href="https://github.com/wereturtle/ghostwriter" title="ghostwriter is a cross-platform, aesthetic, distraction-free Markdown editor." target="_blank"><img src="https://img.shields.io/github/stars/wereturtle/ghostwriter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/qeeqbox/social-analyzer" title="API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)" target="_blank">social-analyzer</a>&nbsp;<a href="https://github.com/qeeqbox/social-analyzer" title="API, CLI & Web App for analyzing & finding a person's profile across 350+ social media \ websites (Detections are updated regularly)" target="_blank"><img src="https://img.shields.io/github/stars/qeeqbox/social-analyzer?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank">legacy-cc</a>&nbsp;<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank"><img src="https://img.shields.io/github/stars/mortdeus/legacy-cc?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank">decoded-coreutils</a>&nbsp;<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank"><img src="https://img.shields.io/github/stars/MaiZure/decoded-coreutils?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank">Chibre-manager</a>&nbsp;<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nours33/Chibre-manager?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank">avatarify-python</a>&nbsp;<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank"><img src="https://img.shields.io/github/stars/alievk/avatarify-python?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank">workadventure-map-starter-kit</a>&nbsp;<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank"><img src="https://img.shields.io/github/stars/thecodingmachine/workadventure-map-starter-kit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank">generatedata</a>&nbsp;<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank"><img src="https://img.shields.io/github/stars/benkeen/generatedata?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank">bit</a>&nbsp;<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank"><img src="https://img.shields.io/github/stars/chriswalz/bit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal runtime)" target="_blank">wasm3</a>&nbsp;<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal runtime)" target="_blank"><img src="https://img.shields.io/github/stars/wasm3/wasm3?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/conwnet/github1s" title="One second to read GitHub code with VS Code." target="_blank">github1s</a>&nbsp;<a href="https://github.com/conwnet/github1s" title="One second to read GitHub code with VS Code." target="_blank"><img src="https://img.shields.io/github/stars/conwnet/github1s?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/twitterdev/Twitter-API-v2-sample-code" title="Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js)." target="_blank">Twitter-API-v2-sample-code</a>&nbsp;<a href="https://github.com/twitterdev/Twitter-API-v2-sample-code" title="Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js)." target="_blank"><img src="https://img.shields.io/github/stars/twitterdev/Twitter-API-v2-sample-code?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -169,7 +169,7 @@ feature: add inn's floors</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 12 Mar 2021 13:47:14 GMT</small>
+<small>⏰ Updated on Mon, 15 Mar 2021 13:45:44 GMT</small>
 </td>
 </tr>
 </tfoot>
