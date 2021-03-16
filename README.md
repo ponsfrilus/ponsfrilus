@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/2a8d9cb8f236cee617d26c33c2006e4b0f41d196" title="2021-03-16T10:24:01.000+01:00" target="_blank">2a8d9cb8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
+          <pre>[doc] list projects that use `foosible`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/5cbea6b2489fcf83484b62eb52d18a293e274556" title="2021-03-12T11:06:56.000+01:00" target="_blank">5cbea6b2</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
           <pre>feature: add default furnitures to INN0's office (#36)</pre>
         </td>
@@ -158,18 +163,11 @@ feature: EPFL Lobby bird's view</pre>
           <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/58ae897a932a9389252de127ca9f602cbd60f859" title="2021-03-06T18:27:49.000+01:00" target="_blank">58ae897a</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
           <pre>feature: EPFL Lobby bird's view</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/TacticsCH/WA-INN/commits/461ea6d6a1b4a95438ae617773a07745dd28fb0a" title="2021-03-06T12:40:12.000+01:00" target="_blank">461ea6d6</a><a href="https://github.com/TacticsCH">@TacticsCH</a><a href="https://github.com/TacticsCH/WA-INN" title="Work Adventure pour l'INN !">/WA-INN</a></strong></div>
-          <pre>Merge pull request #27 from TacticsCH/feature/INN_1
-
-feature: add inn's floors</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 15 Mar 2021 13:45:44 GMT</small>
+<small>⏰ Updated on Tue, 16 Mar 2021 13:50:17 GMT</small>
 </td>
 </tr>
 </tfoot>
