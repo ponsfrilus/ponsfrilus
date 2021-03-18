@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/camunda-cloud/zeebe" title="Distributed Workflow Engine for Microservices Orchestration" target="_blank">zeebe</a>&nbsp;<a href="https://github.com/camunda-cloud/zeebe" title="Distributed Workflow Engine for Microservices Orchestration" target="_blank"><img src="https://img.shields.io/github/stars/camunda-cloud/zeebe?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/formio/formio.js" title="JavaScript powered Forms with JSON Form Builder" target="_blank">formio.js</a>&nbsp;<a href="https://github.com/formio/formio.js" title="JavaScript powered Forms with JSON Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/formio/formio.js?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sveltejs/kit" title="A monorepo for SvelteKit and friends" target="_blank">kit</a>&nbsp;<a href="https://github.com/sveltejs/kit" title="A monorepo for SvelteKit and friends" target="_blank"><img src="https://img.shields.io/github/stars/sveltejs/kit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/foreman_kubespray" title="Kubespray plugin for Foreman 2.3.2+" target="_blank">foreman_kubespray</a>&nbsp;<a href="https://github.com/epfl-si/foreman_kubespray" title="Kubespray plugin for Foreman 2.3.2+" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/foreman_kubespray?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank">legacy-cc</a>&nbsp;<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank"><img src="https://img.shields.io/github/stars/mortdeus/legacy-cc?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank">decoded-coreutils</a>&nbsp;<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank"><img src="https://img.shields.io/github/stars/MaiZure/decoded-coreutils?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank">Chibre-manager</a>&nbsp;<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nours33/Chibre-manager?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank">avatarify-python</a>&nbsp;<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank"><img src="https://img.shields.io/github/stars/alievk/avatarify-python?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank">workadventure-map-starter-kit</a>&nbsp;<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank"><img src="https://img.shields.io/github/stars/thecodingmachine/workadventure-map-starter-kit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank">generatedata</a>&nbsp;<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank"><img src="https://img.shields.io/github/stars/benkeen/generatedata?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/zeebe-io/zeebe-modeler" title="Desktop Application for modeling Zeebe Workflows with BPMN" target="_blank">zeebe-modeler</a>&nbsp;<a href="https://github.com/zeebe-io/zeebe-modeler" title="Desktop Application for modeling Zeebe Workflows with BPMN" target="_blank"><img src="https://img.shields.io/github/stars/zeebe-io/zeebe-modeler?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas" target="_blank">colors-palette-generator</a>&nbsp;<a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/colors-palette-generator?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,43 +95,6 @@
 <li>
 <a href="https://github.com/lmorg/murex" title="Bash-like $SHELL designed for greater commandline productivity and safer shell scripts" target="_blank">murex</a>&nbsp;<a href="https://github.com/lmorg/murex" title="Bash-like $SHELL designed for greater commandline productivity and safer shell scripts" target="_blank"><img src="https://img.shields.io/github/stars/lmorg/murex?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/BillDietrich/fake_contacts" title="Create fake phone contacts, to do data-poisoning." target="_blank">fake_contacts</a>&nbsp;<a href="https://github.com/BillDietrich/fake_contacts" title="Create fake phone contacts, to do data-poisoning." target="_blank"><img src="https://img.shields.io/github/stars/BillDietrich/fake_contacts?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/sveltejs/kit" title="A monorepo for SvelteKit and friends" target="_blank">kit</a>&nbsp;<a href="https://github.com/sveltejs/kit" title="A monorepo for SvelteKit and friends" target="_blank"><img src="https://img.shields.io/github/stars/sveltejs/kit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/foreman_kubespray" title="Kubespray plugin for Foreman 2.3.2+" target="_blank">foreman_kubespray</a>&nbsp;<a href="https://github.com/epfl-si/foreman_kubespray" title="Kubespray plugin for Foreman 2.3.2+" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/foreman_kubespray?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank">legacy-cc</a>&nbsp;<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank"><img src="https://img.shields.io/github/stars/mortdeus/legacy-cc?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank">decoded-coreutils</a>&nbsp;<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank"><img src="https://img.shields.io/github/stars/MaiZure/decoded-coreutils?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank">Chibre-manager</a>&nbsp;<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nours33/Chibre-manager?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank">avatarify-python</a>&nbsp;<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank"><img src="https://img.shields.io/github/stars/alievk/avatarify-python?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank">workadventure-map-starter-kit</a>&nbsp;<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank"><img src="https://img.shields.io/github/stars/thecodingmachine/workadventure-map-starter-kit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank">generatedata</a>&nbsp;<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank"><img src="https://img.shields.io/github/stars/benkeen/generatedata?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank">bit</a>&nbsp;<a href="https://github.com/chriswalz/bit" title="Bit is a modern Git CLI" target="_blank"><img src="https://img.shields.io/github/stars/chriswalz/bit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal runtime)" target="_blank">wasm3</a>&nbsp;<a href="https://github.com/wasm3/wasm3" title="🚀 The fastest WebAssembly interpreter (and the most universal runtime)" target="_blank"><img src="https://img.shields.io/github/stars/wasm3/wasm3?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,35 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/2f869ad0e5bf433b2587f760639fd73113a55983" title="2021-03-17T23:24:03.000+01:00" target="_blank">2f869ad0</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
+          <pre>[doc] screenshot updated</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/d6fe9e86fb4dcccedb51c602be1b924c7a281562" title="2021-03-17T23:23:49.000+01:00" target="_blank">d6fe9e86</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
+          <pre>[feature] will we get famous?</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/0b7cd2019c4673c62a2bbb921b9ba29b0ad7aa9b" title="2021-03-17T23:23:31.000+01:00" target="_blank">0b7cd201</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
+          <pre>[feature] Pattern option
+
+Fixes #3</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/fb028d512b4858c672b8f281f47c1c7afe2da5d0" title="2021-03-17T23:22:49.000+01:00" target="_blank">fb028d51</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
+          <pre>[ocd]</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/6a4a448f17ace912170df79369f4cd18587d0fba" title="2021-03-17T23:01:45.000+01:00" target="_blank">6a4a448f</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
+          <pre>[refactor] oninput elements
+
+This fixes #1</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/f1d8069a6b4bf24a5291789842cbb26413e8fea9" title="2021-03-17T09:43:15.000+01:00" target="_blank">f1d8069a</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
           <pre>[fix] white square pattern
@@ -134,36 +163,11 @@ The downloaded filename includes the generator's options.
 
 This fixes #2</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/9898d019e1ac5c0319ea2c9fb72291374f074952" title="2021-03-17T07:53:49.000+01:00" target="_blank">9898d019</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
-          <pre>[doc] add options + image example</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/6baca69023270d300eec9e286fdebff3b59d3b66" title="2021-03-17T07:47:40.000+01:00" target="_blank">6baca690</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
-          <pre>[doc] link to github pages</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/0dab4e3625a2becf3f09d24d9c68228a033ce12e" title="2021-03-17T07:45:35.000+01:00" target="_blank">0dab4e36</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
-          <pre>[doc] screenshot added</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/77d5dbe09dab8c51b7e30d3ee23aa8464a3567fc" title="2021-03-17T07:44:29.000+01:00" target="_blank">77d5dbe0</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
-          <pre>[init] initial commit</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/2a8d9cb8f236cee617d26c33c2006e4b0f41d196" title="2021-03-16T10:24:01.000+01:00" target="_blank">2a8d9cb8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
-          <pre>[doc] list projects that use `foosible`</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 17 Mar 2021 13:52:28 GMT</small>
+<small>⏰ Updated on Thu, 18 Mar 2021 13:48:15 GMT</small>
 </td>
 </tr>
 </tfoot>
