@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/zumbov2/swissgd" title="R Interface to the Geo-Information Platform of the Swiss Confederation" target="_blank">swissgd</a>&nbsp;<a href="https://github.com/zumbov2/swissgd" title="R Interface to the Geo-Information Platform of the Swiss Confederation" target="_blank"><img src="https://img.shields.io/github/stars/zumbov2/swissgd?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/camunda-cloud/zeebe" title="Distributed Workflow Engine for Microservices Orchestration" target="_blank">zeebe</a>&nbsp;<a href="https://github.com/camunda-cloud/zeebe" title="Distributed Workflow Engine for Microservices Orchestration" target="_blank"><img src="https://img.shields.io/github/stars/camunda-cloud/zeebe?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/formio/formio.js" title="JavaScript powered Forms with JSON Form Builder" target="_blank">formio.js</a>&nbsp;<a href="https://github.com/formio/formio.js" title="JavaScript powered Forms with JSON Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/formio/formio.js?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sveltejs/kit" title="A monorepo for SvelteKit and friends" target="_blank">kit</a>&nbsp;<a href="https://github.com/sveltejs/kit" title="A monorepo for SvelteKit and friends" target="_blank"><img src="https://img.shields.io/github/stars/sveltejs/kit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/foreman_kubespray" title="Kubespray plugin for Foreman 2.3.2+" target="_blank">foreman_kubespray</a>&nbsp;<a href="https://github.com/epfl-si/foreman_kubespray" title="Kubespray plugin for Foreman 2.3.2+" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/foreman_kubespray?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank">legacy-cc</a>&nbsp;<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank"><img src="https://img.shields.io/github/stars/mortdeus/legacy-cc?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank">decoded-coreutils</a>&nbsp;<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank"><img src="https://img.shields.io/github/stars/MaiZure/decoded-coreutils?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank">Chibre-manager</a>&nbsp;<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nours33/Chibre-manager?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank">avatarify-python</a>&nbsp;<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank"><img src="https://img.shields.io/github/stars/alievk/avatarify-python?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank">workadventure-map-starter-kit</a>&nbsp;<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank"><img src="https://img.shields.io/github/stars/thecodingmachine/workadventure-map-starter-kit?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/scriptype/sorted-colors" title="A tool to sort the named CSS colors in a way that it shows related colors together" target="_blank">sorted-colors</a>&nbsp;<a href="https://github.com/scriptype/sorted-colors" title="A tool to sort the named CSS colors in a way that it shows related colors together" target="_blank"><img src="https://img.shields.io/github/stars/scriptype/sorted-colors?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Marak/faker.js" title="generate massive amounts of realistic fake data in Node.js and the browser" target="_blank">faker.js</a>&nbsp;<a href="https://github.com/Marak/faker.js" title="generate massive amounts of realistic fake data in Node.js and the browser" target="_blank"><img src="https://img.shields.io/github/stars/Marak/faker.js?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/camunda-cloud/zeebe" title="Distributed Workflow Engine for Microservices Orchestration" target="_blank">zeebe</a>&nbsp;<a href="https://github.com/camunda-cloud/zeebe" title="Distributed Workflow Engine for Microservices Orchestration" target="_blank"><img src="https://img.shields.io/github/stars/camunda-cloud/zeebe?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/formio/formio.js" title="JavaScript powered Forms with JSON Form Builder" target="_blank">formio.js</a>&nbsp;<a href="https://github.com/formio/formio.js" title="JavaScript powered Forms with JSON Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/formio/formio.js?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sveltejs/kit" title="A monorepo for SvelteKit and friends" target="_blank">kit</a>&nbsp;<a href="https://github.com/sveltejs/kit" title="A monorepo for SvelteKit and friends" target="_blank"><img src="https://img.shields.io/github/stars/sveltejs/kit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/foreman_kubespray" title="Kubespray plugin for Foreman 2.3.2+" target="_blank">foreman_kubespray</a>&nbsp;<a href="https://github.com/epfl-si/foreman_kubespray" title="Kubespray plugin for Foreman 2.3.2+" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/foreman_kubespray?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank">legacy-cc</a>&nbsp;<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank"><img src="https://img.shields.io/github/stars/mortdeus/legacy-cc?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank">decoded-coreutils</a>&nbsp;<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank"><img src="https://img.shields.io/github/stars/MaiZure/decoded-coreutils?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank">Chibre-manager</a>&nbsp;<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nours33/Chibre-manager?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank">avatarify-python</a>&nbsp;<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank"><img src="https://img.shields.io/github/stars/alievk/avatarify-python?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank">workadventure-map-starter-kit</a>&nbsp;<a href="https://github.com/thecodingmachine/workadventure-map-starter-kit" title="A starter kit to help you get started developing your own maps for Workadventu.re" target="_blank"><img src="https://img.shields.io/github/stars/thecodingmachine/workadventure-map-starter-kit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank">generatedata</a>&nbsp;<a href="https://github.com/benkeen/generatedata" title="Random data generator." target="_blank"><img src="https://img.shields.io/github/stars/benkeen/generatedata?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -167,7 +167,7 @@ This fixes #2</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 19 Mar 2021 13:47:49 GMT</small>
+<small>⏰ Updated on Mon, 22 Mar 2021 13:49:23 GMT</small>
 </td>
 </tr>
 </tfoot>
