@@ -103,6 +103,26 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/53fd7c7b8e84b62689b6ad47c342a8860f731358" title="2021-03-24T08:55:26.000+01:00" target="_blank">53fd7c7b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les travails pratiques individuels (TPI) de fin d'apprentissage des informaticiens CFC.">/Awesome-TPI</a></strong></div>
+          <pre>fix: bullet lists</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/2959c9f8e506a10b33f5c838ebfc3a57fd979f2f" title="2021-03-24T08:44:19.000+01:00" target="_blank">2959c9f8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les travails pratiques individuels (TPI) de fin d'apprentissage des informaticiens CFC.">/Awesome-TPI</a></strong></div>
+          <pre>[fix] Awesome-TPI link</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/8c78907b80597616331222ca1db0523095957cc6" title="2021-03-24T08:43:58.000+01:00" target="_blank">8c78907b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les travails pratiques individuels (TPI) de fin d'apprentissage des informaticiens CFC.">/Awesome-TPI</a></strong></div>
+          <pre>[fix] Edit on github link</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/5380c9a9fa02486e88384db5520d963d3e207f66" title="2021-03-24T08:37:21.000+01:00" target="_blank">5380c9a9</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les travails pratiques individuels (TPI) de fin d'apprentissage des informaticiens CFC.">/Awesome-TPI</a></strong></div>
+          <pre>version 0.0.1</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/2f869ad0e5bf433b2587f760639fd73113a55983" title="2021-03-17T23:24:03.000+01:00" target="_blank">2f869ad0</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
           <pre>[doc] screenshot updated</pre>
         </td>
@@ -137,37 +157,11 @@ This fixes #1</pre>
 
 Ref #2</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/068da2b721bf7e7a2345b2ba2d6e11b66912c2d4" title="2021-03-17T09:29:57.000+01:00" target="_blank">068da2b7</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
-          <pre>[feature] dashedLine pattern
-
-Ref #3</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/9329fb6d3d6f435928c1ea8d03655078764564e9" title="2021-03-17T08:21:39.000+01:00" target="_blank">9329fb6d</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
-          <pre>[fix] change defaults</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/f8fc01c6ae578cdbb5dc2fc27fd6893456cf408e" title="2021-03-17T08:16:45.000+01:00" target="_blank">f8fc01c6</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
-          <pre>[fix] generator options order in filename</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/de7be3c056c9d3e71590e058bc66b9d8d05005af" title="2021-03-17T08:14:23.000+01:00" target="_blank">de7be3c0</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
-          <pre>[feature] downloaded image filename
-
-The downloaded filename includes the generator's options.
-
-This fixes #2</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 23 Mar 2021 13:51:07 GMT</small>
+<small>⏰ Updated on Wed, 24 Mar 2021 13:58:43 GMT</small>
 </td>
 </tr>
 </tfoot>
