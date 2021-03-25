@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/876917784ff26524adfd28f9ee7d6587f9974efe" title="2021-03-25T12:15:15.000+01:00" target="_blank">87691778</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
+          <pre>[doc] definition of the goals</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/53fd7c7b8e84b62689b6ad47c342a8860f731358" title="2021-03-24T08:55:26.000+01:00" target="_blank">53fd7c7b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les travails pratiques individuels (TPI) de fin d'apprentissage des informaticiens CFC.">/Awesome-TPI</a></strong></div>
           <pre>fix: bullet lists</pre>
         </td>
@@ -150,18 +155,11 @@ Fixes #3</pre>
 
 This fixes #1</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/colors-palette-generator/commits/f1d8069a6b4bf24a5291789842cbb26413e8fea9" title="2021-03-17T09:43:15.000+01:00" target="_blank">f1d8069a</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/colors-palette-generator" title="A colors palette generator made with HTML5 canvas">/colors-palette-generator</a></strong></div>
-          <pre>[fix] white square pattern
-
-Ref #2</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 24 Mar 2021 13:58:43 GMT</small>
+<small>⏰ Updated on Thu, 25 Mar 2021 13:59:04 GMT</small>
 </td>
 </tr>
 </tfoot>
