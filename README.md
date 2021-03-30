@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/manosim/gitify" title="GitHub notifications on your menu bar. Available on macOS, Windows & Linux." target="_blank">gitify</a>&nbsp;<a href="https://github.com/manosim/gitify" title="GitHub notifications on your menu bar. Available on macOS, Windows & Linux." target="_blank"><img src="https://img.shields.io/github/stars/manosim/gitify?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/graiz/newsprint" title="Newsprint is a simple PHP web app that fetches frontpages from newspapers and publishes them for display in an eInk Display. " target="_blank">newsprint</a>&nbsp;<a href="https://github.com/graiz/newsprint" title="Newsprint is a simple PHP web app that fetches frontpages from newspapers and publishes them for display in an eInk Display. " target="_blank"><img src="https://img.shields.io/github/stars/graiz/newsprint?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/home-assistant/core" title=":house_with_garden: Open source home automation that puts local control and privacy first" target="_blank">core</a>&nbsp;<a href="https://github.com/home-assistant/core" title=":house_with_garden: Open source home automation that puts local control and privacy first" target="_blank"><img src="https://img.shields.io/github/stars/home-assistant/core?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/plausible/analytics" title="Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics." target="_blank">analytics</a>&nbsp;<a href="https://github.com/plausible/analytics" title="Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics." target="_blank"><img src="https://img.shields.io/github/stars/plausible/analytics?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/coollabsio/coolify" title="An open-source, hassle-free, self-hostable Heroku & Netlify alternative" target="_blank">coolify</a>&nbsp;<a href="https://github.com/coollabsio/coolify" title="An open-source, hassle-free, self-hostable Heroku & Netlify alternative" target="_blank"><img src="https://img.shields.io/github/stars/coollabsio/coolify?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/harc/ohm" title="A library and language for building parsers, interpreters, compilers, etc." target="_blank">ohm</a>&nbsp;<a href="https://github.com/harc/ohm" title="A library and language for building parsers, interpreters, compilers, etc." target="_blank"><img src="https://img.shields.io/github/stars/harc/ohm?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank">Chibre-manager</a>&nbsp;<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nours33/Chibre-manager?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank">avatarify-python</a>&nbsp;<a href="https://github.com/alievk/avatarify-python" title="Avatars for Zoom, Skype and other video-conferencing apps." target="_blank"><img src="https://img.shields.io/github/stars/alievk/avatarify-python?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,11 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/scripts/commits/726f504ea821102e1359b11cf518702290a5d3c2" title="2021-03-30T13:57:17.000+02:00" target="_blank">726f504e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/scripts" title="null">/scripts</a></strong></div>
+          <pre>Create ldapsearch.md</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/f70f6f86c3174ab723f2ebaa5ec74f3266792ad6" title="2021-03-26T17:34:24.000+01:00" target="_blank">f70f6f86</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
           <pre>[fix] CSS layout</pre>
@@ -113,18 +118,13 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/821962174fd9c200314e148b76119179fe5d8f8f" title="2021-03-26T14:41:34.000+01:00" target="_blank">82196217</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
-          <pre>[feature] hide buttons and input number arrows for print</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/30dcf911a76f35ee3c2317aac14c9afeef7f4ed5" title="2021-03-26T14:41:34.000+01:00" target="_blank">30dcf911</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
           <pre>[feature] hide buttons and input number arrows for print</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/b21cd3e7838e23424953b8423bcc683ee32d3911" title="2021-03-26T14:25:12.000+01:00" target="_blank">b21cd3e7</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
-          <pre>[feature] browser print</pre>
+          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/821962174fd9c200314e148b76119179fe5d8f8f" title="2021-03-26T14:41:34.000+01:00" target="_blank">82196217</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
+          <pre>[feature] hide buttons and input number arrows for print</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -133,8 +133,8 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/d26df23289748807a3a8023a057781d91404b16a" title="2021-03-26T14:24:48.000+01:00" target="_blank">d26df232</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
-          <pre>[janitor] update dependancies</pre>
+          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/b21cd3e7838e23424953b8423bcc683ee32d3911" title="2021-03-26T14:25:12.000+01:00" target="_blank">b21cd3e7</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
+          <pre>[feature] browser print</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -143,19 +143,19 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/5dcba87a44b630477530393bdc0bf8c150e4b640" title="2021-03-26T08:42:44.000+01:00" target="_blank">5dcba87a</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
-          <pre>[refactor] useless directories removed</pre>
+          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/d26df23289748807a3a8023a057781d91404b16a" title="2021-03-26T14:24:48.000+01:00" target="_blank">d26df232</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
+          <pre>[janitor] update dependancies</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/146987f222c296a4a591db1d4b4ec735117e3227" title="2021-03-26T00:23:10.000+01:00" target="_blank">146987f2</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
-          <pre>[feature] evaluation table moved to a component</pre>
+          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/5dcba87a44b630477530393bdc0bf8c150e4b640" title="2021-03-26T08:42:44.000+01:00" target="_blank">5dcba87a</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
+          <pre>[refactor] useless directories removed</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 29 Mar 2021 13:51:00 GMT</small>
+<small>⏰ Updated on Tue, 30 Mar 2021 13:51:12 GMT</small>
 </td>
 </tr>
 </tfoot>
