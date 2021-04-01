@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 11 years and 2 months.
+    <br />Apparently, I'm hanging around on GitHub since 11 years and 3 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -31,6 +31,43 @@
 <tr>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/headllines/hackernews-daily" title="Hacker News daily top 10 posts" target="_blank">hackernews-daily</a>&nbsp;<a href="https://github.com/headllines/hackernews-daily" title="Hacker News daily top 10 posts" target="_blank"><img src="https://img.shields.io/github/stars/headllines/hackernews-daily?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/netdata/netdata" title="Real-time performance monitoring, done right! https://www.netdata.cloud" target="_blank">netdata</a>&nbsp;<a href="https://github.com/netdata/netdata" title="Real-time performance monitoring, done right! https://www.netdata.cloud" target="_blank"><img src="https://img.shields.io/github/stars/netdata/netdata?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/coollabsio/coolify" title="An open-source, hassle-free, self-hostable Heroku & Netlify alternative" target="_blank">coolify</a>&nbsp;<a href="https://github.com/coollabsio/coolify" title="An open-source, hassle-free, self-hostable Heroku & Netlify alternative" target="_blank"><img src="https://img.shields.io/github/stars/coollabsio/coolify?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/harc/ohm" title="A library and language for building parsers, interpreters, compilers, etc." target="_blank">ohm</a>&nbsp;<a href="https://github.com/harc/ohm" title="A library and language for building parsers, interpreters, compilers, etc." target="_blank"><img src="https://img.shields.io/github/stars/harc/ohm?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zumbov2/swissgd" title="R Interface to the Geo-Information Platform of the Swiss Confederation" target="_blank">swissgd</a>&nbsp;<a href="https://github.com/zumbov2/swissgd" title="R Interface to the Geo-Information Platform of the Swiss Confederation" target="_blank"><img src="https://img.shields.io/github/stars/zumbov2/swissgd?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/camunda-cloud/zeebe" title="Distributed Workflow Engine for Microservices Orchestration" target="_blank">zeebe</a>&nbsp;<a href="https://github.com/camunda-cloud/zeebe" title="Distributed Workflow Engine for Microservices Orchestration" target="_blank"><img src="https://img.shields.io/github/stars/camunda-cloud/zeebe?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/formio/formio.js" title="JavaScript powered Forms with JSON Form Builder" target="_blank">formio.js</a>&nbsp;<a href="https://github.com/formio/formio.js" title="JavaScript powered Forms with JSON Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/formio/formio.js?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sveltejs/kit" title="A monorepo for SvelteKit and friends" target="_blank">kit</a>&nbsp;<a href="https://github.com/sveltejs/kit" title="A monorepo for SvelteKit and friends" target="_blank"><img src="https://img.shields.io/github/stars/sveltejs/kit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/foreman_kubespray" title="Kubespray plugin for Foreman 2.3.2+" target="_blank">foreman_kubespray</a>&nbsp;<a href="https://github.com/epfl-si/foreman_kubespray" title="Kubespray plugin for Foreman 2.3.2+" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/foreman_kubespray?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank">legacy-cc</a>&nbsp;<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank"><img src="https://img.shields.io/github/stars/mortdeus/legacy-cc?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/akavel/up" title="Ultimate Plumber is a tool for writing Linux pipes with instant live preview" target="_blank">up</a>&nbsp;<a href="https://github.com/akavel/up" title="Ultimate Plumber is a tool for writing Linux pipes with instant live preview" target="_blank"><img src="https://img.shields.io/github/stars/akavel/up?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/manosim/gitify" title="GitHub notifications on your menu bar. Available on macOS, Windows & Linux." target="_blank">gitify</a>&nbsp;<a href="https://github.com/manosim/gitify" title="GitHub notifications on your menu bar. Available on macOS, Windows & Linux." target="_blank"><img src="https://img.shields.io/github/stars/manosim/gitify?style=social" alt="GitHub"></a>
 </li>
@@ -58,43 +95,6 @@
 <li>
 <a href="https://github.com/sigstore/cosign" title="Container Signing" target="_blank">cosign</a>&nbsp;<a href="https://github.com/sigstore/cosign" title="Container Signing" target="_blank"><img src="https://img.shields.io/github/stars/sigstore/cosign?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/home-assistant/core" title=":house_with_garden: Open source home automation that puts local control and privacy first" target="_blank">core</a>&nbsp;<a href="https://github.com/home-assistant/core" title=":house_with_garden: Open source home automation that puts local control and privacy first" target="_blank"><img src="https://img.shields.io/github/stars/home-assistant/core?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/coollabsio/coolify" title="An open-source, hassle-free, self-hostable Heroku & Netlify alternative" target="_blank">coolify</a>&nbsp;<a href="https://github.com/coollabsio/coolify" title="An open-source, hassle-free, self-hostable Heroku & Netlify alternative" target="_blank"><img src="https://img.shields.io/github/stars/coollabsio/coolify?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/harc/ohm" title="A library and language for building parsers, interpreters, compilers, etc." target="_blank">ohm</a>&nbsp;<a href="https://github.com/harc/ohm" title="A library and language for building parsers, interpreters, compilers, etc." target="_blank"><img src="https://img.shields.io/github/stars/harc/ohm?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zumbov2/swissgd" title="R Interface to the Geo-Information Platform of the Swiss Confederation" target="_blank">swissgd</a>&nbsp;<a href="https://github.com/zumbov2/swissgd" title="R Interface to the Geo-Information Platform of the Swiss Confederation" target="_blank"><img src="https://img.shields.io/github/stars/zumbov2/swissgd?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/camunda-cloud/zeebe" title="Distributed Workflow Engine for Microservices Orchestration" target="_blank">zeebe</a>&nbsp;<a href="https://github.com/camunda-cloud/zeebe" title="Distributed Workflow Engine for Microservices Orchestration" target="_blank"><img src="https://img.shields.io/github/stars/camunda-cloud/zeebe?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/formio/formio.js" title="JavaScript powered Forms with JSON Form Builder" target="_blank">formio.js</a>&nbsp;<a href="https://github.com/formio/formio.js" title="JavaScript powered Forms with JSON Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/formio/formio.js?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sveltejs/kit" title="A monorepo for SvelteKit and friends" target="_blank">kit</a>&nbsp;<a href="https://github.com/sveltejs/kit" title="A monorepo for SvelteKit and friends" target="_blank"><img src="https://img.shields.io/github/stars/sveltejs/kit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/foreman_kubespray" title="Kubespray plugin for Foreman 2.3.2+" target="_blank">foreman_kubespray</a>&nbsp;<a href="https://github.com/epfl-si/foreman_kubespray" title="Kubespray plugin for Foreman 2.3.2+" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/foreman_kubespray?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank">legacy-cc</a>&nbsp;<a href="https://github.com/mortdeus/legacy-cc" title="The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr. " target="_blank"><img src="https://img.shields.io/github/stars/mortdeus/legacy-cc?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank">decoded-coreutils</a>&nbsp;<a href="https://github.com/MaiZure/decoded-coreutils" title="null" target="_blank"><img src="https://img.shields.io/github/stars/MaiZure/decoded-coreutils?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank">Chibre-manager</a>&nbsp;<a href="https://github.com/nours33/Chibre-manager" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nours33/Chibre-manager?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -118,18 +118,13 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/30dcf911a76f35ee3c2317aac14c9afeef7f4ed5" title="2021-03-26T14:41:34.000+01:00" target="_blank">30dcf911</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
-          <pre>[feature] hide buttons and input number arrows for print</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/821962174fd9c200314e148b76119179fe5d8f8f" title="2021-03-26T14:41:34.000+01:00" target="_blank">82196217</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
           <pre>[feature] hide buttons and input number arrows for print</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/f06edf60b28ad63c53a7916beb816e683df40c59" title="2021-03-26T14:25:12.000+01:00" target="_blank">f06edf60</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
-          <pre>[feature] browser print</pre>
+          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/30dcf911a76f35ee3c2317aac14c9afeef7f4ed5" title="2021-03-26T14:41:34.000+01:00" target="_blank">30dcf911</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
+          <pre>[feature] hide buttons and input number arrows for print</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -138,12 +133,17 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/00442fd0d973a8b566734b51db1bbb8b7eb14571" title="2021-03-26T14:24:48.000+01:00" target="_blank">00442fd0</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
-          <pre>[janitor] update dependancies</pre>
+          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/f06edf60b28ad63c53a7916beb816e683df40c59" title="2021-03-26T14:25:12.000+01:00" target="_blank">f06edf60</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
+          <pre>[feature] browser print</pre>
         </td>
         </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/d26df23289748807a3a8023a057781d91404b16a" title="2021-03-26T14:24:48.000+01:00" target="_blank">d26df232</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
+          <pre>[janitor] update dependancies</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/00442fd0d973a8b566734b51db1bbb8b7eb14571" title="2021-03-26T14:24:48.000+01:00" target="_blank">00442fd0</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
           <pre>[janitor] update dependancies</pre>
         </td>
         </tr><tr>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 31 Mar 2021 13:51:05 GMT</small>
+<small>⏰ Updated on Thu, 01 Apr 2021 13:50:52 GMT</small>
 </td>
 </tr>
 </tfoot>
