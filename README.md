@@ -128,18 +128,13 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/30dcf911a76f35ee3c2317aac14c9afeef7f4ed5" title="2021-03-26T14:41:34.000+01:00" target="_blank">30dcf911</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
-          <pre>[feature] hide buttons and input number arrows for print</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/821962174fd9c200314e148b76119179fe5d8f8f" title="2021-03-26T14:41:34.000+01:00" target="_blank">82196217</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
           <pre>[feature] hide buttons and input number arrows for print</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/f06edf60b28ad63c53a7916beb816e683df40c59" title="2021-03-26T14:25:12.000+01:00" target="_blank">f06edf60</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
-          <pre>[feature] browser print</pre>
+          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/30dcf911a76f35ee3c2317aac14c9afeef7f4ed5" title="2021-03-26T14:41:34.000+01:00" target="_blank">30dcf911</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
+          <pre>[feature] hide buttons and input number arrows for print</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -148,14 +143,19 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/00442fd0d973a8b566734b51db1bbb8b7eb14571" title="2021-03-26T14:24:48.000+01:00" target="_blank">00442fd0</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/f06edf60b28ad63c53a7916beb816e683df40c59" title="2021-03-26T14:25:12.000+01:00" target="_blank">f06edf60</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
+          <pre>[feature] browser print</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/d26df23289748807a3a8023a057781d91404b16a" title="2021-03-26T14:24:48.000+01:00" target="_blank">d26df232</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
           <pre>[janitor] update dependancies</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 12 Apr 2021 13:51:12 GMT</small>
+<small>⏰ Updated on Tue, 13 Apr 2021 13:51:02 GMT</small>
 </td>
 </tr>
 </tfoot>
