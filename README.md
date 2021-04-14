@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/checkly/headless-recorder" title="🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script. " target="_blank">headless-recorder</a>&nbsp;<a href="https://github.com/checkly/headless-recorder" title="🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script. " target="_blank"><img src="https://img.shields.io/github/stars/checkly/headless-recorder?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/pamoroso/free-python-books" title="Python books free to read online or download" target="_blank">free-python-books</a>&nbsp;<a href="https://github.com/pamoroso/free-python-books" title="Python books free to read online or download" target="_blank"><img src="https://img.shields.io/github/stars/pamoroso/free-python-books?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/scriptype/sorted-colors" title="A tool to sort the named CSS colors in a way that it shows related colors together" target="_blank">sorted-colors</a>&nbsp;<a href="https://github.com/scriptype/sorted-colors" title="A tool to sort the named CSS colors in a way that it shows related colors together" target="_blank"><img src="https://img.shields.io/github/stars/scriptype/sorted-colors?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/zeebe-io/zeebe-modeler" title="Desktop Application for modeling Zeebe Workflows with BPMN" target="_blank">zeebe-modeler</a>&nbsp;<a href="https://github.com/zeebe-io/zeebe-modeler" title="Desktop Application for modeling Zeebe Workflows with BPMN" target="_blank"><img src="https://img.shields.io/github/stars/zeebe-io/zeebe-modeler?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/spreaker/prometheus-pgbouncer-exporter" title="Prometheus exporter for PgBouncer" target="_blank">prometheus-pgbouncer-exporter</a>&nbsp;<a href="https://github.com/spreaker/prometheus-pgbouncer-exporter" title="Prometheus exporter for PgBouncer" target="_blank"><img src="https://img.shields.io/github/stars/spreaker/prometheus-pgbouncer-exporter?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/starship/starship" title="☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!" target="_blank">starship</a>&nbsp;<a href="https://github.com/starship/starship" title="☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!" target="_blank"><img src="https://img.shields.io/github/stars/starship/starship?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/camunda-cloud/zeebe" title="Distributed Workflow Engine for Microservices Orchestration" target="_blank">zeebe</a>&nbsp;<a href="https://github.com/camunda-cloud/zeebe" title="Distributed Workflow Engine for Microservices Orchestration" target="_blank"><img src="https://img.shields.io/github/stars/camunda-cloud/zeebe?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/formio/formio.js" title="JavaScript powered Forms with JSON Form Builder" target="_blank">formio.js</a>&nbsp;<a href="https://github.com/formio/formio.js" title="JavaScript powered Forms with JSON Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/formio/formio.js?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,19 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/652fc9c5aa696687fc4b110524b9dbd1390d907d" title="2021-04-14T10:55:05.000+02:00" target="_blank">652fc9c5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
+          <pre>[feature] Allows WPForms codeblock UI when present</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/6cc841c8d1fb19f98ab83e93a922b7c64316a462" title="2021-04-13T19:27:10.000+02:00" target="_blank">6cc841c8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[tuning] make gitpull
+
+* avoid to try to pull directories from `/volumes/srv`
+* Use `git pull --rebase --autostash`</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/f632f695b5074d3ef0d9294a2c5a69018ca46597" title="2021-04-08T23:05:04.000+02:00" target="_blank">f632f695</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les travails pratiques individuels (TPI) de fin d'apprentissage des informaticiens CFC.">/Awesome-TPI</a></strong></div>
           <pre>[feature] better contributing guide + minor improvements</pre>
@@ -141,21 +154,11 @@
           <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/b21cd3e7838e23424953b8423bcc683ee32d3911" title="2021-03-26T14:25:12.000+01:00" target="_blank">b21cd3e7</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
           <pre>[feature] browser print</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/f06edf60b28ad63c53a7916beb816e683df40c59" title="2021-03-26T14:25:12.000+01:00" target="_blank">f06edf60</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
-          <pre>[feature] browser print</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/SaphireVert/tpi-maker/commits/d26df23289748807a3a8023a057781d91404b16a" title="2021-03-26T14:24:48.000+01:00" target="_blank">d26df232</a><a href="https://github.com/SaphireVert">@SaphireVert</a><a href="https://github.com/SaphireVert/tpi-maker" title="null">/tpi-maker</a></strong></div>
-          <pre>[janitor] update dependancies</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 13 Apr 2021 13:51:02 GMT</small>
+<small>⏰ Updated on Wed, 14 Apr 2021 13:49:46 GMT</small>
 </td>
 </tr>
 </tfoot>
