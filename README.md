@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/RH12503/triangula" title="Generate high-quality triangulated art from images." target="_blank">triangula</a>&nbsp;<a href="https://github.com/RH12503/triangula" title="Generate high-quality triangulated art from images." target="_blank"><img src="https://img.shields.io/github/stars/RH12503/triangula?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zellij-org/zellij" title="A terminal workspace with batteries included" target="_blank">zellij</a>&nbsp;<a href="https://github.com/zellij-org/zellij" title="A terminal workspace with batteries included" target="_blank"><img src="https://img.shields.io/github/stars/zellij-org/zellij?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/pulumi/pulumi" title="Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀" target="_blank">pulumi</a>&nbsp;<a href="https://github.com/pulumi/pulumi" title="Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀" target="_blank"><img src="https://img.shields.io/github/stars/pulumi/pulumi?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/spreaker/prometheus-pgbouncer-exporter" title="Prometheus exporter for PgBouncer" target="_blank">prometheus-pgbouncer-exporter</a>&nbsp;<a href="https://github.com/spreaker/prometheus-pgbouncer-exporter" title="Prometheus exporter for PgBouncer" target="_blank"><img src="https://img.shields.io/github/stars/spreaker/prometheus-pgbouncer-exporter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/starship/starship" title="☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!" target="_blank">starship</a>&nbsp;<a href="https://github.com/starship/starship" title="☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!" target="_blank"><img src="https://img.shields.io/github/stars/starship/starship?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bytecodealliance/lucet" title="Lucet, the Sandboxing WebAssembly Compiler." target="_blank">lucet</a>&nbsp;<a href="https://github.com/bytecodealliance/lucet" title="Lucet, the Sandboxing WebAssembly Compiler." target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/lucet?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/signalapp/Signal-Server" title="Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS" target="_blank">Signal-Server</a>&nbsp;<a href="https://github.com/signalapp/Signal-Server" title="Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS" target="_blank"><img src="https://img.shields.io/github/stars/signalapp/Signal-Server?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/headllines/hackernews-daily" title="Hacker News daily top 10 posts" target="_blank">hackernews-daily</a>&nbsp;<a href="https://github.com/headllines/hackernews-daily" title="Hacker News daily top 10 posts" target="_blank"><img src="https://img.shields.io/github/stars/headllines/hackernews-daily?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/netdata/netdata" title="Real-time performance monitoring, done right! https://www.netdata.cloud" target="_blank">netdata</a>&nbsp;<a href="https://github.com/netdata/netdata" title="Real-time performance monitoring, done right! https://www.netdata.cloud" target="_blank"><img src="https://img.shields.io/github/stars/netdata/netdata?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/coollabsio/coolify" title="An open-source, hassle-free, self-hostable Heroku & Netlify alternative" target="_blank">coolify</a>&nbsp;<a href="https://github.com/coollabsio/coolify" title="An open-source, hassle-free, self-hostable Heroku & Netlify alternative" target="_blank"><img src="https://img.shields.io/github/stars/coollabsio/coolify?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/rupa/z" title="z - jump around" target="_blank">z</a>&nbsp;<a href="https://github.com/rupa/z" title="z - jump around" target="_blank"><img src="https://img.shields.io/github/stars/rupa/z?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/m5stack/M5Stack" title="M5Stack Arduino Library" target="_blank">M5Stack</a>&nbsp;<a href="https://github.com/m5stack/M5Stack" title="M5Stack Arduino Library" target="_blank"><img src="https://img.shields.io/github/stars/m5stack/M5Stack?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/graiz/newsprint" title="Newsprint is a simple PHP web app that fetches frontpages from newspapers and publishes them for display in an eInk Display. " target="_blank">newsprint</a>&nbsp;<a href="https://github.com/graiz/newsprint" title="Newsprint is a simple PHP web app that fetches frontpages from newspapers and publishes them for display in an eInk Display. " target="_blank"><img src="https://img.shields.io/github/stars/graiz/newsprint?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/brouberol/marcel" title="Le docker français :whale: :fr: " target="_blank">marcel</a>&nbsp;<a href="https://github.com/brouberol/marcel" title="Le docker français :whale: :fr: " target="_blank"><img src="https://img.shields.io/github/stars/brouberol/marcel?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/pulumi/pulumi" title="Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀" target="_blank">pulumi</a>&nbsp;<a href="https://github.com/pulumi/pulumi" title="Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀" target="_blank"><img src="https://img.shields.io/github/stars/pulumi/pulumi?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/spreaker/prometheus-pgbouncer-exporter" title="Prometheus exporter for PgBouncer" target="_blank">prometheus-pgbouncer-exporter</a>&nbsp;<a href="https://github.com/spreaker/prometheus-pgbouncer-exporter" title="Prometheus exporter for PgBouncer" target="_blank"><img src="https://img.shields.io/github/stars/spreaker/prometheus-pgbouncer-exporter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/starship/starship" title="☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!" target="_blank">starship</a>&nbsp;<a href="https://github.com/starship/starship" title="☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!" target="_blank"><img src="https://img.shields.io/github/stars/starship/starship?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bytecodealliance/lucet" title="Lucet, the Sandboxing WebAssembly Compiler." target="_blank">lucet</a>&nbsp;<a href="https://github.com/bytecodealliance/lucet" title="Lucet, the Sandboxing WebAssembly Compiler." target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/lucet?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/signalapp/Signal-Server" title="Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS" target="_blank">Signal-Server</a>&nbsp;<a href="https://github.com/signalapp/Signal-Server" title="Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS" target="_blank"><img src="https://img.shields.io/github/stars/signalapp/Signal-Server?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/headllines/hackernews-daily" title="Hacker News daily top 10 posts" target="_blank">hackernews-daily</a>&nbsp;<a href="https://github.com/headllines/hackernews-daily" title="Hacker News daily top 10 posts" target="_blank"><img src="https://img.shields.io/github/stars/headllines/hackernews-daily?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/netdata/netdata" title="Real-time performance monitoring, done right! https://www.netdata.cloud" target="_blank">netdata</a>&nbsp;<a href="https://github.com/netdata/netdata" title="Real-time performance monitoring, done right! https://www.netdata.cloud" target="_blank"><img src="https://img.shields.io/github/stars/netdata/netdata?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/coollabsio/coolify" title="An open-source, hassle-free, self-hostable Heroku & Netlify alternative" target="_blank">coolify</a>&nbsp;<a href="https://github.com/coollabsio/coolify" title="An open-source, hassle-free, self-hostable Heroku & Netlify alternative" target="_blank"><img src="https://img.shields.io/github/stars/coollabsio/coolify?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/harc/ohm" title="A library and language for building parsers, interpreters, compilers, etc." target="_blank">ohm</a>&nbsp;<a href="https://github.com/harc/ohm" title="A library and language for building parsers, interpreters, compilers, etc." target="_blank"><img src="https://img.shields.io/github/stars/harc/ohm?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zumbov2/swissgd" title="R Interface to the Geo-Information Platform of the Swiss Confederation" target="_blank">swissgd</a>&nbsp;<a href="https://github.com/zumbov2/swissgd" title="R Interface to the Geo-Information Platform of the Swiss Confederation" target="_blank"><img src="https://img.shields.io/github/stars/zumbov2/swissgd?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 22 Apr 2021 13:51:12 GMT</small>
+<small>⏰ Updated on Fri, 23 Apr 2021 13:50:25 GMT</small>
 </td>
 </tr>
 </tfoot>
