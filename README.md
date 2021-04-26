@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Redcrafter/verilog2factorio" title="This project will compile verilog (a hardware description language) into factorio blueprints." target="_blank">verilog2factorio</a>&nbsp;<a href="https://github.com/Redcrafter/verilog2factorio" title="This project will compile verilog (a hardware description language) into factorio blueprints." target="_blank"><img src="https://img.shields.io/github/stars/Redcrafter/verilog2factorio?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kanaka/mal" title="mal - Make a Lisp" target="_blank">mal</a>&nbsp;<a href="https://github.com/kanaka/mal" title="mal - Make a Lisp" target="_blank"><img src="https://img.shields.io/github/stars/kanaka/mal?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rupa/z" title="z - jump around" target="_blank">z</a>&nbsp;<a href="https://github.com/rupa/z" title="z - jump around" target="_blank"><img src="https://img.shields.io/github/stars/rupa/z?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/m5stack/M5Stack" title="M5Stack Arduino Library" target="_blank">M5Stack</a>&nbsp;<a href="https://github.com/m5stack/M5Stack" title="M5Stack Arduino Library" target="_blank"><img src="https://img.shields.io/github/stars/m5stack/M5Stack?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/checkly/headless-recorder" title="🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script. " target="_blank">headless-recorder</a>&nbsp;<a href="https://github.com/checkly/headless-recorder" title="🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script. " target="_blank"><img src="https://img.shields.io/github/stars/checkly/headless-recorder?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/pamoroso/free-python-books" title="Python books free to read online or download" target="_blank">free-python-books</a>&nbsp;<a href="https://github.com/pamoroso/free-python-books" title="Python books free to read online or download" target="_blank"><img src="https://img.shields.io/github/stars/pamoroso/free-python-books?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/WebAssembly/WASI" title="WebAssembly System Interface" target="_blank">WASI</a>&nbsp;<a href="https://github.com/WebAssembly/WASI" title="WebAssembly System Interface" target="_blank"><img src="https://img.shields.io/github/stars/WebAssembly/WASI?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/superfly/flyctl" title="Command line tools for fly.io services" target="_blank">flyctl</a>&nbsp;<a href="https://github.com/superfly/flyctl" title="Command line tools for fly.io services" target="_blank"><img src="https://img.shields.io/github/stars/superfly/flyctl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/CesiumGS/cesium" title="An open-source JavaScript library for world-class 3D globes and maps :earth_americas:" target="_blank">cesium</a>&nbsp;<a href="https://github.com/CesiumGS/cesium" title="An open-source JavaScript library for world-class 3D globes and maps :earth_americas:" target="_blank"><img src="https://img.shields.io/github/stars/CesiumGS/cesium?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/akavel/up" title="Ultimate Plumber is a tool for writing Linux pipes with instant live preview" target="_blank">up</a>&nbsp;<a href="https://github.com/akavel/up" title="Ultimate Plumber is a tool for writing Linux pipes with instant live preview" target="_blank"><img src="https://img.shields.io/github/stars/akavel/up?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/tc39/proposal-regexp-named-groups" title="Named capture groups for JavaScript RegExps" target="_blank">proposal-regexp-named-groups</a>&nbsp;<a href="https://github.com/tc39/proposal-regexp-named-groups" title="Named capture groups for JavaScript RegExps" target="_blank"><img src="https://img.shields.io/github/stars/tc39/proposal-regexp-named-groups?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/RH12503/triangula" title="Generate high-quality triangulated art from images." target="_blank">triangula</a>&nbsp;<a href="https://github.com/RH12503/triangula" title="Generate high-quality triangulated art from images." target="_blank"><img src="https://img.shields.io/github/stars/RH12503/triangula?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/netdata/netdata" title="Real-time performance monitoring, done right! https://www.netdata.cloud" target="_blank">netdata</a>&nbsp;<a href="https://github.com/netdata/netdata" title="Real-time performance monitoring, done right! https://www.netdata.cloud" target="_blank"><img src="https://img.shields.io/github/stars/netdata/netdata?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/coollabsio/coolify" title="An open-source, hassle-free, self-hostable Heroku & Netlify alternative" target="_blank">coolify</a>&nbsp;<a href="https://github.com/coollabsio/coolify" title="An open-source, hassle-free, self-hostable Heroku & Netlify alternative" target="_blank"><img src="https://img.shields.io/github/stars/coollabsio/coolify?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/rupa/z" title="z - jump around" target="_blank">z</a>&nbsp;<a href="https://github.com/rupa/z" title="z - jump around" target="_blank"><img src="https://img.shields.io/github/stars/rupa/z?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/m5stack/M5Stack" title="M5Stack Arduino Library" target="_blank">M5Stack</a>&nbsp;<a href="https://github.com/m5stack/M5Stack" title="M5Stack Arduino Library" target="_blank"><img src="https://img.shields.io/github/stars/m5stack/M5Stack?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/checkly/headless-recorder" title="🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script. " target="_blank">headless-recorder</a>&nbsp;<a href="https://github.com/checkly/headless-recorder" title="🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script. " target="_blank"><img src="https://img.shields.io/github/stars/checkly/headless-recorder?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pamoroso/free-python-books" title="Python books free to read online or download" target="_blank">free-python-books</a>&nbsp;<a href="https://github.com/pamoroso/free-python-books" title="Python books free to read online or download" target="_blank"><img src="https://img.shields.io/github/stars/pamoroso/free-python-books?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/WebAssembly/WASI" title="WebAssembly System Interface" target="_blank">WASI</a>&nbsp;<a href="https://github.com/WebAssembly/WASI" title="WebAssembly System Interface" target="_blank"><img src="https://img.shields.io/github/stars/WebAssembly/WASI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/superfly/flyctl" title="Command line tools for fly.io services" target="_blank">flyctl</a>&nbsp;<a href="https://github.com/superfly/flyctl" title="Command line tools for fly.io services" target="_blank"><img src="https://img.shields.io/github/stars/superfly/flyctl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/CesiumGS/cesium" title="An open-source JavaScript library for world-class 3D globes and maps :earth_americas:" target="_blank">cesium</a>&nbsp;<a href="https://github.com/CesiumGS/cesium" title="An open-source JavaScript library for world-class 3D globes and maps :earth_americas:" target="_blank"><img src="https://img.shields.io/github/stars/CesiumGS/cesium?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/akavel/up" title="Ultimate Plumber is a tool for writing Linux pipes with instant live preview" target="_blank">up</a>&nbsp;<a href="https://github.com/akavel/up" title="Ultimate Plumber is a tool for writing Linux pipes with instant live preview" target="_blank"><img src="https://img.shields.io/github/stars/akavel/up?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/manosim/gitify" title="GitHub notifications on your menu bar. Available on macOS, Windows & Linux." target="_blank">gitify</a>&nbsp;<a href="https://github.com/manosim/gitify" title="GitHub notifications on your menu bar. Available on macOS, Windows & Linux." target="_blank"><img src="https://img.shields.io/github/stars/manosim/gitify?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/graiz/newsprint" title="Newsprint is a simple PHP web app that fetches frontpages from newspapers and publishes them for display in an eInk Display. " target="_blank">newsprint</a>&nbsp;<a href="https://github.com/graiz/newsprint" title="Newsprint is a simple PHP web app that fetches frontpages from newspapers and publishes them for display in an eInk Display. " target="_blank"><img src="https://img.shields.io/github/stars/graiz/newsprint?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 23 Apr 2021 13:50:25 GMT</small>
+<small>⏰ Updated on Mon, 26 Apr 2021 13:51:50 GMT</small>
 </td>
 </tr>
 </tfoot>
