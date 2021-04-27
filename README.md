@@ -103,6 +103,18 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/290abb578a44694717ce889dee10aee73e5d93c8" title="2021-04-27T09:38:19.000+02:00" target="_blank">290abb57</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>Merge pull request #35 from epfl-si/dev
+
+A whole bunch of improvements</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/1a0db0f98153aaad40fb90193ab158ae4e610638" title="2021-04-27T09:38:00.000+02:00" target="_blank">1a0db0f9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[fix] new line</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/bc2e98fd357a99b7fbe102f0c999ec39011fab01" title="2021-04-15T20:22:11.000+02:00" target="_blank">bc2e98fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[ARE] Automated releasing change</pre>
         </td>
@@ -141,21 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/54481a43df64260954ef6fdc30f13fef1d0bdbeb" title="2021-04-15T19:26:07.000+02:00" target="_blank">54481a43</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[T9N] Translations updated</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/5ded0d27d972adf4dd871b30d9be21461a7d4c19" title="2021-04-15T19:25:26.000+02:00" target="_blank">5ded0d27</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[VER] Bump to v1.0.7</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/c630d6eacf7861c63ab6441804b7bcdc7dade1b5" title="2021-04-15T19:25:26.000+02:00" target="_blank">c630d6ea</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[T9N] Translations updated</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 26 Apr 2021 13:51:50 GMT</small>
+<small>⏰ Updated on Tue, 27 Apr 2021 13:50:07 GMT</small>
 </td>
 </tr>
 </tfoot>
