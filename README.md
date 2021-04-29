@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/vitejs/vite" title="Next generation frontend tooling. It's fast!" target="_blank">vite</a>&nbsp;<a href="https://github.com/vitejs/vite" title="Next generation frontend tooling. It's fast!" target="_blank"><img src="https://img.shields.io/github/stars/vitejs/vite?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/Redcrafter/verilog2factorio" title="This project will compile verilog (a hardware description language) into factorio blueprints." target="_blank">verilog2factorio</a>&nbsp;<a href="https://github.com/Redcrafter/verilog2factorio" title="This project will compile verilog (a hardware description language) into factorio blueprints." target="_blank"><img src="https://img.shields.io/github/stars/Redcrafter/verilog2factorio?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/CesiumGS/cesium" title="An open-source JavaScript library for world-class 3D globes and maps :earth_americas:" target="_blank">cesium</a>&nbsp;<a href="https://github.com/CesiumGS/cesium" title="An open-source JavaScript library for world-class 3D globes and maps :earth_americas:" target="_blank"><img src="https://img.shields.io/github/stars/CesiumGS/cesium?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/akavel/up" title="Ultimate Plumber is a tool for writing Linux pipes with instant live preview" target="_blank">up</a>&nbsp;<a href="https://github.com/akavel/up" title="Ultimate Plumber is a tool for writing Linux pipes with instant live preview" target="_blank"><img src="https://img.shields.io/github/stars/akavel/up?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/phyver/GameShell" title=""jeu" d'apprentissage du shell et des commandes standards" target="_blank">GameShell</a>&nbsp;<a href="https://github.com/phyver/GameShell" title=""jeu" d'apprentissage du shell et des commandes standards" target="_blank"><img src="https://img.shields.io/github/stars/phyver/GameShell?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/tc39/proposal-regexp-named-groups" title="Named capture groups for JavaScript RegExps" target="_blank">proposal-regexp-named-groups</a>&nbsp;<a href="https://github.com/tc39/proposal-regexp-named-groups" title="Named capture groups for JavaScript RegExps" target="_blank"><img src="https://img.shields.io/github/stars/tc39/proposal-regexp-named-groups?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/headllines/hackernews-daily" title="Hacker News daily top 10 posts" target="_blank">hackernews-daily</a>&nbsp;<a href="https://github.com/headllines/hackernews-daily" title="Hacker News daily top 10 posts" target="_blank"><img src="https://img.shields.io/github/stars/headllines/hackernews-daily?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/netdata/netdata" title="Real-time performance monitoring, done right! https://www.netdata.cloud" target="_blank">netdata</a>&nbsp;<a href="https://github.com/netdata/netdata" title="Real-time performance monitoring, done right! https://www.netdata.cloud" target="_blank"><img src="https://img.shields.io/github/stars/netdata/netdata?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@ A whole bunch of improvements</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 28 Apr 2021 13:50:19 GMT</small>
+<small>⏰ Updated on Thu, 29 Apr 2021 13:49:37 GMT</small>
 </td>
 </tr>
 </tfoot>
