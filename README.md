@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/bytecodealliance/wasmtime" title="Standalone JIT-style runtime for WebAssembly, using Cranelift" target="_blank">wasmtime</a>&nbsp;<a href="https://github.com/bytecodealliance/wasmtime" title="Standalone JIT-style runtime for WebAssembly, using Cranelift" target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/vitejs/vite" title="Next generation frontend tooling. It's fast!" target="_blank">vite</a>&nbsp;<a href="https://github.com/vitejs/vite" title="Next generation frontend tooling. It's fast!" target="_blank"><img src="https://img.shields.io/github/stars/vitejs/vite?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/superfly/flyctl" title="Command line tools for fly.io services" target="_blank">flyctl</a>&nbsp;<a href="https://github.com/superfly/flyctl" title="Command line tools for fly.io services" target="_blank"><img src="https://img.shields.io/github/stars/superfly/flyctl?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/CesiumGS/cesium" title="An open-source JavaScript library for world-class 3D globes and maps :earth_americas:" target="_blank">cesium</a>&nbsp;<a href="https://github.com/CesiumGS/cesium" title="An open-source JavaScript library for world-class 3D globes and maps :earth_americas:" target="_blank"><img src="https://img.shields.io/github/stars/CesiumGS/cesium?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/bytecodealliance/wasm-micro-runtime" title="WebAssembly Micro Runtime (WAMR)" target="_blank">wasm-micro-runtime</a>&nbsp;<a href="https://github.com/bytecodealliance/wasm-micro-runtime" title="WebAssembly Micro Runtime (WAMR)" target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/wasm-micro-runtime?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/phyver/GameShell" title=""jeu" d'apprentissage du shell et des commandes standards" target="_blank">GameShell</a>&nbsp;<a href="https://github.com/phyver/GameShell" title=""jeu" d'apprentissage du shell et des commandes standards" target="_blank"><img src="https://img.shields.io/github/stars/phyver/GameShell?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/signalapp/Signal-Server" title="Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS" target="_blank">Signal-Server</a>&nbsp;<a href="https://github.com/signalapp/Signal-Server" title="Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS" target="_blank"><img src="https://img.shields.io/github/stars/signalapp/Signal-Server?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/headllines/hackernews-daily" title="Hacker News daily top 10 posts" target="_blank">hackernews-daily</a>&nbsp;<a href="https://github.com/headllines/hackernews-daily" title="Hacker News daily top 10 posts" target="_blank"><img src="https://img.shields.io/github/stars/headllines/hackernews-daily?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,36 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/scripts/commits/867db65684fb765b97feac1f7b64e4836deebaa2" title="2021-04-30T15:24:23.000+02:00" target="_blank">867db656</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/scripts" title="null">/scripts</a></strong></div>
+          <pre>[add] ldapStats</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/scripts/commits/5759dc038cd0843dc1d54b276e85848e8f1d895c" title="2021-04-30T15:21:02.000+02:00" target="_blank">5759dc03</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/scripts" title="null">/scripts</a></strong></div>
+          <pre>[add] getMailFromUserList.sh</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/scripts/commits/24e030600ae898134010ad914fdbb3142e94c595" title="2021-04-30T15:18:08.000+02:00" target="_blank">24e03060</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/scripts" title="null">/scripts</a></strong></div>
+          <pre>[add] sciperFromEmail</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/scripts/commits/84cede12f6e8fc03cc5980a50cd55cff69e68faa" title="2021-04-30T15:16:18.000+02:00" target="_blank">84cede12</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/scripts" title="null">/scripts</a></strong></div>
+          <pre>[add] sciper2email</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/scripts/commits/6f7666b6aec62fa51b7e06752fd2de63bf1714c4" title="2021-04-30T15:15:52.000+02:00" target="_blank">6f7666b6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/scripts" title="null">/scripts</a></strong></div>
+          <pre>[add] goValidateEmail</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/scripts/commits/d2268ec1cc507394a90bc15fb80d66bdeac05aea" title="2021-04-30T15:09:00.000+02:00" target="_blank">d2268ec1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/scripts" title="null">/scripts</a></strong></div>
+          <pre>[add] webstats</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/290abb578a44694717ce889dee10aee73e5d93c8" title="2021-04-27T09:38:19.000+02:00" target="_blank">290abb57</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
           <pre>Merge pull request #35 from epfl-si/dev
@@ -123,41 +153,11 @@ A whole bunch of improvements</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/54231a6db654a22c5a50a5836abb7326e0c86d67" title="2021-04-15T20:22:09.000+02:00" target="_blank">54231a6d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[VER] Bump to v1.0.9</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/de832aab1aa243ed754186e16e1c70761d36bc19" title="2021-04-15T20:22:09.000+02:00" target="_blank">de832aab</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[T9N] Translations updated</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/1cb86259300f655fbb8fdad9c6ee5bb613e60333" title="2021-04-15T20:00:11.000+02:00" target="_blank">1cb86259</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[FIX] HTML escaping</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/38203ed71ecc4d0a3d08c139fface6dae7f099a1" title="2021-04-15T19:56:03.000+02:00" target="_blank">38203ed7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[FT.] Set template form to large</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/98ef3f2d27413e089142b9ee7a3d1180f12483c4" title="2021-04-15T19:26:13.000+02:00" target="_blank">98ef3f2d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[ARE] Automated releasing change</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/1ed250645d224cf85deeb1037967f57b83f765ab" title="2021-04-15T19:26:07.000+02:00" target="_blank">1ed25064</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[VER] Bump to v1.0.8</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/54481a43df64260954ef6fdc30f13fef1d0bdbeb" title="2021-04-15T19:26:07.000+02:00" target="_blank">54481a43</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[T9N] Translations updated</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 29 Apr 2021 13:49:37 GMT</small>
+<small>⏰ Updated on Fri, 30 Apr 2021 13:49:28 GMT</small>
 </td>
 </tr>
 </tfoot>
