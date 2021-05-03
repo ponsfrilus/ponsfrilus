@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 11 years and 3 months.
+    <br />Apparently, I'm hanging around on GitHub since 11 years and 4 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -31,6 +31,9 @@
 <tr>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/RektInator/kill-docker-auto-update" title="Contains assemblies to kill auto updating of Docker Desktop for Windows." target="_blank">kill-docker-auto-update</a>&nbsp;<a href="https://github.com/RektInator/kill-docker-auto-update" title="Contains assemblies to kill auto updating of Docker Desktop for Windows." target="_blank"><img src="https://img.shields.io/github/stars/RektInator/kill-docker-auto-update?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/bytecodealliance/wasmtime" title="Standalone JIT-style runtime for WebAssembly, using Cranelift" target="_blank">wasmtime</a>&nbsp;<a href="https://github.com/bytecodealliance/wasmtime" title="Standalone JIT-style runtime for WebAssembly, using Cranelift" target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=social" alt="GitHub"></a>
 </li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/WebAssembly/WASI" title="WebAssembly System Interface" target="_blank">WASI</a>&nbsp;<a href="https://github.com/WebAssembly/WASI" title="WebAssembly System Interface" target="_blank"><img src="https://img.shields.io/github/stars/WebAssembly/WASI?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/superfly/flyctl" title="Command line tools for fly.io services" target="_blank">flyctl</a>&nbsp;<a href="https://github.com/superfly/flyctl" title="Command line tools for fly.io services" target="_blank"><img src="https://img.shields.io/github/stars/superfly/flyctl?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/dekuNukem/bob_cassette_rewinder" title="Defeating Dishwasher Detergents DRM, Renew and Refill Bob Cassettes for 98% cost saving!" target="_blank">bob_cassette_rewinder</a>&nbsp;<a href="https://github.com/dekuNukem/bob_cassette_rewinder" title="Defeating Dishwasher Detergents DRM, Renew and Refill Bob Cassettes for 98% cost saving!" target="_blank"><img src="https://img.shields.io/github/stars/dekuNukem/bob_cassette_rewinder?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/bytecodealliance/wasm-micro-runtime" title="WebAssembly Micro Runtime (WAMR)" target="_blank">wasm-micro-runtime</a>&nbsp;<a href="https://github.com/bytecodealliance/wasm-micro-runtime" title="WebAssembly Micro Runtime (WAMR)" target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/wasm-micro-runtime?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/bytecodealliance/lucet" title="Lucet, the Sandboxing WebAssembly Compiler." target="_blank">lucet</a>&nbsp;<a href="https://github.com/bytecodealliance/lucet" title="Lucet, the Sandboxing WebAssembly Compiler." target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/lucet?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/signalapp/Signal-Server" title="Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS" target="_blank">Signal-Server</a>&nbsp;<a href="https://github.com/signalapp/Signal-Server" title="Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS" target="_blank"><img src="https://img.shields.io/github/stars/signalapp/Signal-Server?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@ A whole bunch of improvements</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 30 Apr 2021 13:49:28 GMT</small>
+<small>⏰ Updated on Mon, 03 May 2021 13:50:21 GMT</small>
 </td>
 </tr>
 </tfoot>
