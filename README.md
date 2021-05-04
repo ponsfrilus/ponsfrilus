@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank">stack-on-a-budget</a>&nbsp;<a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank"><img src="https://img.shields.io/github/stars/255kb/stack-on-a-budget?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/RektInator/kill-docker-auto-update" title="Contains assemblies to kill auto updating of Docker Desktop for Windows." target="_blank">kill-docker-auto-update</a>&nbsp;<a href="https://github.com/RektInator/kill-docker-auto-update" title="Contains assemblies to kill auto updating of Docker Desktop for Windows." target="_blank"><img src="https://img.shields.io/github/stars/RektInator/kill-docker-auto-update?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,15 +61,15 @@
 <li>
 <a href="https://github.com/pamoroso/free-python-books" title="Python books free to read online or download" target="_blank">free-python-books</a>&nbsp;<a href="https://github.com/pamoroso/free-python-books" title="Python books free to read online or download" target="_blank"><img src="https://img.shields.io/github/stars/pamoroso/free-python-books?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/WebAssembly/WASI" title="WebAssembly System Interface" target="_blank">WASI</a>&nbsp;<a href="https://github.com/WebAssembly/WASI" title="WebAssembly System Interface" target="_blank"><img src="https://img.shields.io/github/stars/WebAssembly/WASI?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/dekuNukem/bob_cassette_rewinder" title="Defeating Dishwasher Detergents DRM, Renew and Refill Bob Cassettes for 98% cost saving!" target="_blank">bob_cassette_rewinder</a>&nbsp;<a href="https://github.com/dekuNukem/bob_cassette_rewinder" title="Defeating Dishwasher Detergents DRM, Renew and Refill Bob Cassettes for 98% cost saving!" target="_blank"><img src="https://img.shields.io/github/stars/dekuNukem/bob_cassette_rewinder?style=social" alt="GitHub"></a>
+<a href="https://github.com/volta-cli/volta" title="Volta: JS Toolchains as Code. ⚡" target="_blank">volta</a>&nbsp;<a href="https://github.com/volta-cli/volta" title="Volta: JS Toolchains as Code. ⚡" target="_blank"><img src="https://img.shields.io/github/stars/volta-cli/volta?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dekuNukem/bob_cassette_rewinder" title="Renew and Refill Bob Cassettes for 98% Cost Saving!" target="_blank">bob_cassette_rewinder</a>&nbsp;<a href="https://github.com/dekuNukem/bob_cassette_rewinder" title="Renew and Refill Bob Cassettes for 98% Cost Saving!" target="_blank"><img src="https://img.shields.io/github/stars/dekuNukem/bob_cassette_rewinder?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/bytecodealliance/wasm-micro-runtime" title="WebAssembly Micro Runtime (WAMR)" target="_blank">wasm-micro-runtime</a>&nbsp;<a href="https://github.com/bytecodealliance/wasm-micro-runtime" title="WebAssembly Micro Runtime (WAMR)" target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/wasm-micro-runtime?style=social" alt="GitHub"></a>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/starship/starship" title="☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!" target="_blank">starship</a>&nbsp;<a href="https://github.com/starship/starship" title="☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!" target="_blank"><img src="https://img.shields.io/github/stars/starship/starship?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bytecodealliance/lucet" title="Lucet, the Sandboxing WebAssembly Compiler." target="_blank">lucet</a>&nbsp;<a href="https://github.com/bytecodealliance/lucet" title="Lucet, the Sandboxing WebAssembly Compiler." target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/lucet?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@ A whole bunch of improvements</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 03 May 2021 13:50:21 GMT</small>
+<small>⏰ Updated on Tue, 04 May 2021 13:49:59 GMT</small>
 </td>
 </tr>
 </tfoot>
