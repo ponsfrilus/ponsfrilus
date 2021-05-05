@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/rome/tools" title="The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS." target="_blank">tools</a>&nbsp;<a href="https://github.com/rome/tools" title="The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS." target="_blank"><img src="https://img.shields.io/github/stars/rome/tools?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/volta-cli/volta" title="Volta: JS Toolchains as Code. ⚡" target="_blank">volta</a>&nbsp;<a href="https://github.com/volta-cli/volta" title="Volta: JS Toolchains as Code. ⚡" target="_blank"><img src="https://img.shields.io/github/stars/volta-cli/volta?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dekuNukem/bob_cassette_rewinder" title="Renew and Refill Bob Cassettes for 98% Cost Saving!" target="_blank">bob_cassette_rewinder</a>&nbsp;<a href="https://github.com/dekuNukem/bob_cassette_rewinder" title="Renew and Refill Bob Cassettes for 98% Cost Saving!" target="_blank"><img src="https://img.shields.io/github/stars/dekuNukem/bob_cassette_rewinder?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bytecodealliance/wasm-micro-runtime" title="WebAssembly Micro Runtime (WAMR)" target="_blank">wasm-micro-runtime</a>&nbsp;<a href="https://github.com/bytecodealliance/wasm-micro-runtime" title="WebAssembly Micro Runtime (WAMR)" target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/wasm-micro-runtime?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/phyver/GameShell" title=""jeu" d'apprentissage du shell et des commandes standards" target="_blank">GameShell</a>&nbsp;<a href="https://github.com/phyver/GameShell" title=""jeu" d'apprentissage du shell et des commandes standards" target="_blank"><img src="https://img.shields.io/github/stars/phyver/GameShell?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tc39/proposal-regexp-named-groups" title="Named capture groups for JavaScript RegExps" target="_blank">proposal-regexp-named-groups</a>&nbsp;<a href="https://github.com/tc39/proposal-regexp-named-groups" title="Named capture groups for JavaScript RegExps" target="_blank"><img src="https://img.shields.io/github/stars/tc39/proposal-regexp-named-groups?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/RH12503/triangula" title="Generate high-quality triangulated art from images." target="_blank">triangula</a>&nbsp;<a href="https://github.com/RH12503/triangula" title="Generate high-quality triangulated art from images." target="_blank"><img src="https://img.shields.io/github/stars/RH12503/triangula?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zellij-org/zellij" title="A terminal workspace with batteries included" target="_blank">zellij</a>&nbsp;<a href="https://github.com/zellij-org/zellij" title="A terminal workspace with batteries included" target="_blank"><img src="https://img.shields.io/github/stars/zellij-org/zellij?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/pulumi/pulumi" title="Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀" target="_blank">pulumi</a>&nbsp;<a href="https://github.com/pulumi/pulumi" title="Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀" target="_blank"><img src="https://img.shields.io/github/stars/pulumi/pulumi?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/spreaker/prometheus-pgbouncer-exporter" title="Prometheus exporter for PgBouncer" target="_blank">prometheus-pgbouncer-exporter</a>&nbsp;<a href="https://github.com/spreaker/prometheus-pgbouncer-exporter" title="Prometheus exporter for PgBouncer" target="_blank"><img src="https://img.shields.io/github/stars/spreaker/prometheus-pgbouncer-exporter?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank">stack-on-a-budget</a>&nbsp;<a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank"><img src="https://img.shields.io/github/stars/255kb/stack-on-a-budget?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/pamoroso/free-python-books" title="Python books free to read online or download" target="_blank">free-python-books</a>&nbsp;<a href="https://github.com/pamoroso/free-python-books" title="Python books free to read online or download" target="_blank"><img src="https://img.shields.io/github/stars/pamoroso/free-python-books?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/volta-cli/volta" title="Volta: JS Toolchains as Code. ⚡" target="_blank">volta</a>&nbsp;<a href="https://github.com/volta-cli/volta" title="Volta: JS Toolchains as Code. ⚡" target="_blank"><img src="https://img.shields.io/github/stars/volta-cli/volta?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dekuNukem/bob_cassette_rewinder" title="Renew and Refill Bob Cassettes for 98% Cost Saving!" target="_blank">bob_cassette_rewinder</a>&nbsp;<a href="https://github.com/dekuNukem/bob_cassette_rewinder" title="Renew and Refill Bob Cassettes for 98% Cost Saving!" target="_blank"><img src="https://img.shields.io/github/stars/dekuNukem/bob_cassette_rewinder?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bytecodealliance/wasm-micro-runtime" title="WebAssembly Micro Runtime (WAMR)" target="_blank">wasm-micro-runtime</a>&nbsp;<a href="https://github.com/bytecodealliance/wasm-micro-runtime" title="WebAssembly Micro Runtime (WAMR)" target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/wasm-micro-runtime?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/phyver/GameShell" title=""jeu" d'apprentissage du shell et des commandes standards" target="_blank">GameShell</a>&nbsp;<a href="https://github.com/phyver/GameShell" title=""jeu" d'apprentissage du shell et des commandes standards" target="_blank"><img src="https://img.shields.io/github/stars/phyver/GameShell?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tc39/proposal-regexp-named-groups" title="Named capture groups for JavaScript RegExps" target="_blank">proposal-regexp-named-groups</a>&nbsp;<a href="https://github.com/tc39/proposal-regexp-named-groups" title="Named capture groups for JavaScript RegExps" target="_blank"><img src="https://img.shields.io/github/stars/tc39/proposal-regexp-named-groups?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/RH12503/triangula" title="Generate high-quality triangulated art from images." target="_blank">triangula</a>&nbsp;<a href="https://github.com/RH12503/triangula" title="Generate high-quality triangulated art from images." target="_blank"><img src="https://img.shields.io/github/stars/RH12503/triangula?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zellij-org/zellij" title="A terminal workspace with batteries included" target="_blank">zellij</a>&nbsp;<a href="https://github.com/zellij-org/zellij" title="A terminal workspace with batteries included" target="_blank"><img src="https://img.shields.io/github/stars/zellij-org/zellij?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pulumi/pulumi" title="Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀" target="_blank">pulumi</a>&nbsp;<a href="https://github.com/pulumi/pulumi" title="Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀" target="_blank"><img src="https://img.shields.io/github/stars/pulumi/pulumi?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/spreaker/prometheus-pgbouncer-exporter" title="Prometheus exporter for PgBouncer" target="_blank">prometheus-pgbouncer-exporter</a>&nbsp;<a href="https://github.com/spreaker/prometheus-pgbouncer-exporter" title="Prometheus exporter for PgBouncer" target="_blank"><img src="https://img.shields.io/github/stars/spreaker/prometheus-pgbouncer-exporter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/starship/starship" title="☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!" target="_blank">starship</a>&nbsp;<a href="https://github.com/starship/starship" title="☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!" target="_blank"><img src="https://img.shields.io/github/stars/starship/starship?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@ A whole bunch of improvements</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 04 May 2021 13:49:59 GMT</small>
+<small>⏰ Updated on Wed, 05 May 2021 13:49:35 GMT</small>
 </td>
 </tr>
 </tfoot>
