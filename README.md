@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/timvisee/send" title=":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send" target="_blank">send</a>&nbsp;<a href="https://github.com/timvisee/send" title=":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send" target="_blank"><img src="https://img.shields.io/github/stars/timvisee/send?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/rome/tools" title="The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS." target="_blank">tools</a>&nbsp;<a href="https://github.com/rome/tools" title="The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS." target="_blank"><img src="https://img.shields.io/github/stars/rome/tools?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/pulumi/pulumi" title="Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀" target="_blank">pulumi</a>&nbsp;<a href="https://github.com/pulumi/pulumi" title="Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀" target="_blank"><img src="https://img.shields.io/github/stars/pulumi/pulumi?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/spreaker/prometheus-pgbouncer-exporter" title="Prometheus exporter for PgBouncer" target="_blank">prometheus-pgbouncer-exporter</a>&nbsp;<a href="https://github.com/spreaker/prometheus-pgbouncer-exporter" title="Prometheus exporter for PgBouncer" target="_blank"><img src="https://img.shields.io/github/stars/spreaker/prometheus-pgbouncer-exporter?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank">Addon</a>&nbsp;<a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank"><img src="https://img.shields.io/github/stars/ClearURLs/Addon?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank">stack-on-a-budget</a>&nbsp;<a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank"><img src="https://img.shields.io/github/stars/255kb/stack-on-a-budget?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/checkly/headless-recorder" title="🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script. " target="_blank">headless-recorder</a>&nbsp;<a href="https://github.com/checkly/headless-recorder" title="🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script. " target="_blank"><img src="https://img.shields.io/github/stars/checkly/headless-recorder?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pamoroso/free-python-books" title="Python books free to read online or download" target="_blank">free-python-books</a>&nbsp;<a href="https://github.com/pamoroso/free-python-books" title="Python books free to read online or download" target="_blank"><img src="https://img.shields.io/github/stars/pamoroso/free-python-books?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@ A whole bunch of improvements</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 05 May 2021 13:49:35 GMT</small>
+<small>⏰ Updated on Thu, 06 May 2021 13:49:37 GMT</small>
 </td>
 </tr>
 </tfoot>
