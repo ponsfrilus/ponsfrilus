@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/1dcb3e2f657613a90911f7cef24c31edc840aa97" title="2021-05-07T13:08:57.000+02:00" target="_blank">1dcb3e2f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
+          <pre>[fix] typo</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/scripts/commits/867db65684fb765b97feac1f7b64e4836deebaa2" title="2021-04-30T15:24:23.000+02:00" target="_blank">867db656</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/scripts" title="null">/scripts</a></strong></div>
           <pre>[add] ldapStats</pre>
         </td>
@@ -148,16 +153,11 @@ A whole bunch of improvements</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/bc2e98fd357a99b7fbe102f0c999ec39011fab01" title="2021-04-15T20:22:11.000+02:00" target="_blank">bc2e98fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[ARE] Automated releasing change</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/54231a6db654a22c5a50a5836abb7326e0c86d67" title="2021-04-15T20:22:09.000+02:00" target="_blank">54231a6d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[VER] Bump to v1.0.9</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 06 May 2021 13:49:37 GMT</small>
+<small>⏰ Updated on Fri, 07 May 2021 13:49:35 GMT</small>
 </td>
 </tr>
 </tfoot>
