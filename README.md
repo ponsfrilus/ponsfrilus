@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/google/zx" title="A tool for writing better scripts" target="_blank">zx</a>&nbsp;<a href="https://github.com/google/zx" title="A tool for writing better scripts" target="_blank"><img src="https://img.shields.io/github/stars/google/zx?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/timvisee/send" title=":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send" target="_blank">send</a>&nbsp;<a href="https://github.com/timvisee/send" title=":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send" target="_blank"><img src="https://img.shields.io/github/stars/timvisee/send?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/zellij-org/zellij" title="A terminal workspace with batteries included" target="_blank">zellij</a>&nbsp;<a href="https://github.com/zellij-org/zellij" title="A terminal workspace with batteries included" target="_blank"><img src="https://img.shields.io/github/stars/zellij-org/zellij?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/pulumi/pulumi" title="Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀" target="_blank">pulumi</a>&nbsp;<a href="https://github.com/pulumi/pulumi" title="Pulumi - Modern Infrastructure as Code. Any cloud, any language 🚀" target="_blank"><img src="https://img.shields.io/github/stars/pulumi/pulumi?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank">rufus</a>&nbsp;<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank"><img src="https://img.shields.io/github/stars/pbatard/rufus?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank">Addon</a>&nbsp;<a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank"><img src="https://img.shields.io/github/stars/ClearURLs/Addon?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/m5stack/M5Stack" title="M5Stack Arduino Library" target="_blank">M5Stack</a>&nbsp;<a href="https://github.com/m5stack/M5Stack" title="M5Stack Arduino Library" target="_blank"><img src="https://img.shields.io/github/stars/m5stack/M5Stack?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/checkly/headless-recorder" title="🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script. " target="_blank">headless-recorder</a>&nbsp;<a href="https://github.com/checkly/headless-recorder" title="🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script. " target="_blank"><img src="https://img.shields.io/github/stars/checkly/headless-recorder?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@ A whole bunch of improvements</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 07 May 2021 13:49:35 GMT</small>
+<small>⏰ Updated on Mon, 10 May 2021 13:49:40 GMT</small>
 </td>
 </tr>
 </tfoot>
