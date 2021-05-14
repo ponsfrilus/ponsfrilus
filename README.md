@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank">external-protocol-flooding</a>&nbsp;<a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank"><img src="https://img.shields.io/github/stars/fingerprintjs/external-protocol-flooding?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jsomers/hacker-classics" title="Classic Hacker News stories" target="_blank">hacker-classics</a>&nbsp;<a href="https://github.com/jsomers/hacker-classics" title="Classic Hacker News stories" target="_blank"><img src="https://img.shields.io/github/stars/jsomers/hacker-classics?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vanhoefm/fragattacks" title="null" target="_blank">fragattacks</a>&nbsp;<a href="https://github.com/vanhoefm/fragattacks" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vanhoefm/fragattacks?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank">rufus</a>&nbsp;<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank"><img src="https://img.shields.io/github/stars/pbatard/rufus?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank">Addon</a>&nbsp;<a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank"><img src="https://img.shields.io/github/stars/ClearURLs/Addon?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank">stack-on-a-budget</a>&nbsp;<a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank"><img src="https://img.shields.io/github/stars/255kb/stack-on-a-budget?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/RektInator/kill-docker-auto-update" title="Contains assemblies to kill auto updating of Docker Desktop for Windows." target="_blank">kill-docker-auto-update</a>&nbsp;<a href="https://github.com/RektInator/kill-docker-auto-update" title="Contains assemblies to kill auto updating of Docker Desktop for Windows." target="_blank"><img src="https://img.shields.io/github/stars/RektInator/kill-docker-auto-update?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bytecodealliance/wasmtime" title="Standalone JIT-style runtime for WebAssembly, using Cranelift" target="_blank">wasmtime</a>&nbsp;<a href="https://github.com/bytecodealliance/wasmtime" title="Standalone JIT-style runtime for WebAssembly, using Cranelift" target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vitejs/vite" title="Next generation frontend tooling. It's fast!" target="_blank">vite</a>&nbsp;<a href="https://github.com/vitejs/vite" title="Next generation frontend tooling. It's fast!" target="_blank"><img src="https://img.shields.io/github/stars/vitejs/vite?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Redcrafter/verilog2factorio" title="This project will compile verilog (a hardware description language) into factorio blueprints." target="_blank">verilog2factorio</a>&nbsp;<a href="https://github.com/Redcrafter/verilog2factorio" title="This project will compile verilog (a hardware description language) into factorio blueprints." target="_blank"><img src="https://img.shields.io/github/stars/Redcrafter/verilog2factorio?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/seemoo-lab/openhaystack" title="Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network." target="_blank">openhaystack</a>&nbsp;<a href="https://github.com/seemoo-lab/openhaystack" title="Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network." target="_blank"><img src="https://img.shields.io/github/stars/seemoo-lab/openhaystack?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/tc39/proposal-regexp-named-groups" title="Named capture groups for JavaScript RegExps" target="_blank">proposal-regexp-named-groups</a>&nbsp;<a href="https://github.com/tc39/proposal-regexp-named-groups" title="Named capture groups for JavaScript RegExps" target="_blank"><img src="https://img.shields.io/github/stars/tc39/proposal-regexp-named-groups?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/jsomers/hacker-classics" title="Classic Hacker News stories" target="_blank">hacker-classics</a>&nbsp;<a href="https://github.com/jsomers/hacker-classics" title="Classic Hacker News stories" target="_blank"><img src="https://img.shields.io/github/stars/jsomers/hacker-classics?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vanhoefm/fragattacks" title="null" target="_blank">fragattacks</a>&nbsp;<a href="https://github.com/vanhoefm/fragattacks" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vanhoefm/fragattacks?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank">rufus</a>&nbsp;<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank"><img src="https://img.shields.io/github/stars/pbatard/rufus?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank">Addon</a>&nbsp;<a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank"><img src="https://img.shields.io/github/stars/ClearURLs/Addon?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank">stack-on-a-budget</a>&nbsp;<a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank"><img src="https://img.shields.io/github/stars/255kb/stack-on-a-budget?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/RektInator/kill-docker-auto-update" title="Contains assemblies to kill auto updating of Docker Desktop for Windows." target="_blank">kill-docker-auto-update</a>&nbsp;<a href="https://github.com/RektInator/kill-docker-auto-update" title="Contains assemblies to kill auto updating of Docker Desktop for Windows." target="_blank"><img src="https://img.shields.io/github/stars/RektInator/kill-docker-auto-update?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bytecodealliance/wasmtime" title="Standalone JIT-style runtime for WebAssembly, using Cranelift" target="_blank">wasmtime</a>&nbsp;<a href="https://github.com/bytecodealliance/wasmtime" title="Standalone JIT-style runtime for WebAssembly, using Cranelift" target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vitejs/vite" title="Next generation frontend tooling. It's fast!" target="_blank">vite</a>&nbsp;<a href="https://github.com/vitejs/vite" title="Next generation frontend tooling. It's fast!" target="_blank"><img src="https://img.shields.io/github/stars/vitejs/vite?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Redcrafter/verilog2factorio" title="This project will compile verilog (a hardware description language) into factorio blueprints." target="_blank">verilog2factorio</a>&nbsp;<a href="https://github.com/Redcrafter/verilog2factorio" title="This project will compile verilog (a hardware description language) into factorio blueprints." target="_blank"><img src="https://img.shields.io/github/stars/Redcrafter/verilog2factorio?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kanaka/mal" title="mal - Make a Lisp" target="_blank">mal</a>&nbsp;<a href="https://github.com/kanaka/mal" title="mal - Make a Lisp" target="_blank"><img src="https://img.shields.io/github/stars/kanaka/mal?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@ A whole bunch of improvements</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 13 May 2021 13:52:33 GMT</small>
+<small>⏰ Updated on Fri, 14 May 2021 13:52:07 GMT</small>
 </td>
 </tr>
 </tfoot>
