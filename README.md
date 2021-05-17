@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank">la-rache.com</a>&nbsp;<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank"><img src="https://img.shields.io/github/stars/la-rache/la-rache.com?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank">external-protocol-flooding</a>&nbsp;<a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank"><img src="https://img.shields.io/github/stars/fingerprintjs/external-protocol-flooding?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/vitejs/vite" title="Next generation frontend tooling. It's fast!" target="_blank">vite</a>&nbsp;<a href="https://github.com/vitejs/vite" title="Next generation frontend tooling. It's fast!" target="_blank"><img src="https://img.shields.io/github/stars/vitejs/vite?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/Redcrafter/verilog2factorio" title="This project will compile verilog (a hardware description language) into factorio blueprints." target="_blank">verilog2factorio</a>&nbsp;<a href="https://github.com/Redcrafter/verilog2factorio" title="This project will compile verilog (a hardware description language) into factorio blueprints." target="_blank"><img src="https://img.shields.io/github/stars/Redcrafter/verilog2factorio?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/epfl-si/vpi-startups" title="null" target="_blank">vpi-startups</a>&nbsp;<a href="https://github.com/epfl-si/vpi-startups" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/vpi-startups?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/seemoo-lab/openhaystack" title="Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network." target="_blank">openhaystack</a>&nbsp;<a href="https://github.com/seemoo-lab/openhaystack" title="Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network." target="_blank"><img src="https://img.shields.io/github/stars/seemoo-lab/openhaystack?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/phyver/GameShell" title=""jeu" d'apprentissage du shell et des commandes standards" target="_blank">GameShell</a>&nbsp;<a href="https://github.com/phyver/GameShell" title=""jeu" d'apprentissage du shell et des commandes standards" target="_blank"><img src="https://img.shields.io/github/stars/phyver/GameShell?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tc39/proposal-regexp-named-groups" title="Named capture groups for JavaScript RegExps" target="_blank">proposal-regexp-named-groups</a>&nbsp;<a href="https://github.com/tc39/proposal-regexp-named-groups" title="Named capture groups for JavaScript RegExps" target="_blank"><img src="https://img.shields.io/github/stars/tc39/proposal-regexp-named-groups?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@ A whole bunch of improvements</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 14 May 2021 13:52:07 GMT</small>
+<small>⏰ Updated on Mon, 17 May 2021 13:55:18 GMT</small>
 </td>
 </tr>
 </tfoot>
