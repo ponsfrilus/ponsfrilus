@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank">TPI</a>&nbsp;<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank"><img src="https://img.shields.io/github/stars/Bakbat/TPI?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank">la-rache.com</a>&nbsp;<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank"><img src="https://img.shields.io/github/stars/la-rache/la-rache.com?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/bytecodealliance/wasmtime" title="Standalone JIT-style runtime for WebAssembly, using Cranelift" target="_blank">wasmtime</a>&nbsp;<a href="https://github.com/bytecodealliance/wasmtime" title="Standalone JIT-style runtime for WebAssembly, using Cranelift" target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/vitejs/vite" title="Next generation frontend tooling. It's fast!" target="_blank">vite</a>&nbsp;<a href="https://github.com/vitejs/vite" title="Next generation frontend tooling. It's fast!" target="_blank"><img src="https://img.shields.io/github/stars/vitejs/vite?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank">FIT_VIEWER</a>&nbsp;<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank"><img src="https://img.shields.io/github/stars/FazlijaYlli/FIT_VIEWER?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/epfl-si/vpi-startups" title="null" target="_blank">vpi-startups</a>&nbsp;<a href="https://github.com/epfl-si/vpi-startups" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/vpi-startups?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/bytecodealliance/wasm-micro-runtime" title="WebAssembly Micro Runtime (WAMR)" target="_blank">wasm-micro-runtime</a>&nbsp;<a href="https://github.com/bytecodealliance/wasm-micro-runtime" title="WebAssembly Micro Runtime (WAMR)" target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/wasm-micro-runtime?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/phyver/GameShell" title=""jeu" d'apprentissage du shell et des commandes standards" target="_blank">GameShell</a>&nbsp;<a href="https://github.com/phyver/GameShell" title=""jeu" d'apprentissage du shell et des commandes standards" target="_blank"><img src="https://img.shields.io/github/stars/phyver/GameShell?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@ A whole bunch of improvements</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 18 May 2021 13:53:50 GMT</small>
+<small>⏰ Updated on Wed, 19 May 2021 13:52:46 GMT</small>
 </td>
 </tr>
 </tfoot>
