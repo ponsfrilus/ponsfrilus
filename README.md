@@ -103,6 +103,26 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/81ecafa2dd6022abb713208fc54ab272de7bd13b" title="2021-05-21T14:41:29.000+02:00" target="_blank">81ecafa2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[add] simpod-json-datasource
+
+See https://grafana.com/grafana/plugins/simpod-json-datasource/</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/985bcd84ab7efabe9ae3e961ec9137f1b873bb9d" title="2021-05-21T13:44:07.000+02:00" target="_blank">985bcd84</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[add] frser-sqlite-datasource Grafana plugin</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/50f3aeeb3c3d8d304d1f47306b97fe6dce72b8b4" title="2021-05-21T09:04:24.000+02:00" target="_blank">50f3aeeb</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les travails pratiques individuels (TPI) de fin d'apprentissage des informaticiens CFC.">/Awesome-TPI</a></strong></div>
+          <pre>[feature] mail templates
+
+* Add mail templates for "chef de projet" and "lancement TPI"
+* Add `--no-fund` to `npm install` in `Makefile`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/1dcb3e2f657613a90911f7cef24c31edc840aa97" title="2021-05-07T13:08:57.000+02:00" target="_blank">1dcb3e2f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
           <pre>[fix] typo</pre>
         </td>
@@ -136,28 +156,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/scripts/commits/d2268ec1cc507394a90bc15fb80d66bdeac05aea" title="2021-04-30T15:09:00.000+02:00" target="_blank">d2268ec1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/scripts" title="null">/scripts</a></strong></div>
           <pre>[add] webstats</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/290abb578a44694717ce889dee10aee73e5d93c8" title="2021-04-27T09:38:19.000+02:00" target="_blank">290abb57</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>Merge pull request #35 from epfl-si/dev
-
-A whole bunch of improvements</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/1a0db0f98153aaad40fb90193ab158ae4e610638" title="2021-04-27T09:38:00.000+02:00" target="_blank">1a0db0f9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[fix] new line</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/bc2e98fd357a99b7fbe102f0c999ec39011fab01" title="2021-04-15T20:22:11.000+02:00" target="_blank">bc2e98fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[ARE] Automated releasing change</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 20 May 2021 13:55:16 GMT</small>
+<small>⏰ Updated on Fri, 21 May 2021 13:56:48 GMT</small>
 </td>
 </tr>
 </tfoot>
