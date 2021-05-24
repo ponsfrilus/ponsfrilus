@@ -160,7 +160,7 @@ See https://grafana.com/grafana/plugins/simpod-json-datasource/</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 21 May 2021 13:56:48 GMT</small>
+<small>⏰ Updated on Mon, 24 May 2021 14:01:38 GMT</small>
 </td>
 </tr>
 </tfoot>
