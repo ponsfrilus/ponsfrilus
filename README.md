@@ -103,6 +103,38 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ict-bot/commits/30de0025194f426f9f7626e5094162a04f91219e" title="2021-05-26T11:54:40.000+02:00" target="_blank">30de0025</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ict-bot" title="Apprentissage CFC développement d'applications 2014 - Modules">/ict-bot</a></strong></div>
+          <pre>Merge pull request #45 from ponsfrilus/feature/44-refactor
+
+Feature/44 refactor</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline.ops/commits/af65a26a81f95ad6873f7743b7a71d9393a07973" title="2021-05-25T20:30:16.000+02:00" target="_blank">af65a26a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline.ops" title="Ansible-based DevOps automation for Payonline">/payonline.ops</a></strong></div>
+          <pre>[feature] deployment config</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline.ops/commits/096cf7d7f6c852bae27eeb26fc69dcfd2be2d06a" title="2021-05-25T20:29:59.000+02:00" target="_blank">096cf7d7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline.ops" title="Ansible-based DevOps automation for Payonline">/payonline.ops</a></strong></div>
+          <pre>[feature] config map</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline.ops/commits/2d44db5e5c83075343551939cc8572edaf547468" title="2021-05-25T20:29:42.000+02:00" target="_blank">2d44db5e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline.ops" title="Ansible-based DevOps automation for Payonline">/payonline.ops</a></strong></div>
+          <pre>[feature] promote payonline image</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline.ops/commits/fdc9797c14c3343c2f3339f6a576c47cb1b25317" title="2021-05-25T19:34:07.000+02:00" target="_blank">fdc9797c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline.ops" title="Ansible-based DevOps automation for Payonline">/payonline.ops</a></strong></div>
+          <pre>[add] payonline route</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline.ops/commits/411d3fa8ccef655f210c416c080bdfe5a8ae3aa5" title="2021-05-25T19:33:37.000+02:00" target="_blank">411d3fa8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline.ops" title="Ansible-based DevOps automation for Payonline">/payonline.ops</a></strong></div>
+          <pre>[add] payonline service</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/81ecafa2dd6022abb713208fc54ab272de7bd13b" title="2021-05-21T14:41:29.000+02:00" target="_blank">81ecafa2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
           <pre>[add] simpod-json-datasource
 
@@ -126,41 +158,11 @@ See https://grafana.com/grafana/plugins/simpod-json-datasource/</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/1dcb3e2f657613a90911f7cef24c31edc840aa97" title="2021-05-07T13:08:57.000+02:00" target="_blank">1dcb3e2f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
           <pre>[fix] typo</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/scripts/commits/867db65684fb765b97feac1f7b64e4836deebaa2" title="2021-04-30T15:24:23.000+02:00" target="_blank">867db656</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/scripts" title="null">/scripts</a></strong></div>
-          <pre>[add] ldapStats</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/scripts/commits/5759dc038cd0843dc1d54b276e85848e8f1d895c" title="2021-04-30T15:21:02.000+02:00" target="_blank">5759dc03</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/scripts" title="null">/scripts</a></strong></div>
-          <pre>[add] getMailFromUserList.sh</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/scripts/commits/24e030600ae898134010ad914fdbb3142e94c595" title="2021-04-30T15:18:08.000+02:00" target="_blank">24e03060</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/scripts" title="null">/scripts</a></strong></div>
-          <pre>[add] sciperFromEmail</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/scripts/commits/84cede12f6e8fc03cc5980a50cd55cff69e68faa" title="2021-04-30T15:16:18.000+02:00" target="_blank">84cede12</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/scripts" title="null">/scripts</a></strong></div>
-          <pre>[add] sciper2email</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/scripts/commits/6f7666b6aec62fa51b7e06752fd2de63bf1714c4" title="2021-04-30T15:15:52.000+02:00" target="_blank">6f7666b6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/scripts" title="null">/scripts</a></strong></div>
-          <pre>[add] goValidateEmail</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/scripts/commits/d2268ec1cc507394a90bc15fb80d66bdeac05aea" title="2021-04-30T15:09:00.000+02:00" target="_blank">d2268ec1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/scripts" title="null">/scripts</a></strong></div>
-          <pre>[add] webstats</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 25 May 2021 14:06:35 GMT</small>
+<small>⏰ Updated on Wed, 26 May 2021 14:14:28 GMT</small>
 </td>
 </tr>
 </tfoot>
