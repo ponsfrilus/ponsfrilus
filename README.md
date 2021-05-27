@@ -103,6 +103,25 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ict-bot/commits/0cb9830d12d272eb8bfab3b0cb30ed0f688168d2" title="2021-05-26T17:46:52.000+02:00" target="_blank">0cb9830d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ict-bot" title="Apprentissage CFC développement d'applications 2014 - Modules">/ict-bot</a></strong></div>
+          <pre>Merge pull request #49 from ponsfrilus/fix/data-scraper
+
+[fix] getData.js</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ict-bot/commits/e39908d5fcc654197db56e4d788dd88c38cb813e" title="2021-05-26T17:45:21.000+02:00" target="_blank">e39908d5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ict-bot" title="Apprentissage CFC développement d'applications 2014 - Modules">/ict-bot</a></strong></div>
+          <pre>[fix] getData.js
+
+The test of the PDF link was broken. This PR fixes that and add some 
+logging information.
+
+Also, the data are updated.
+
+Bump to version 0.0.9</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/ict-bot/commits/30de0025194f426f9f7626e5094162a04f91219e" title="2021-05-26T11:54:40.000+02:00" target="_blank">30de0025</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ict-bot" title="Apprentissage CFC développement d'applications 2014 - Modules">/ict-bot</a></strong></div>
           <pre>Merge pull request #45 from ponsfrilus/feature/44-refactor
 
@@ -145,24 +164,11 @@ See https://grafana.com/grafana/plugins/simpod-json-datasource/</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/985bcd84ab7efabe9ae3e961ec9137f1b873bb9d" title="2021-05-21T13:44:07.000+02:00" target="_blank">985bcd84</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
           <pre>[add] frser-sqlite-datasource Grafana plugin</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/50f3aeeb3c3d8d304d1f47306b97fe6dce72b8b4" title="2021-05-21T09:04:24.000+02:00" target="_blank">50f3aeeb</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les travails pratiques individuels (TPI) de fin d'apprentissage des informaticiens CFC.">/Awesome-TPI</a></strong></div>
-          <pre>[feature] mail templates
-
-* Add mail templates for "chef de projet" and "lancement TPI"
-* Add `--no-fund` to `npm install` in `Makefile`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/1dcb3e2f657613a90911f7cef24c31edc840aa97" title="2021-05-07T13:08:57.000+02:00" target="_blank">1dcb3e2f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
-          <pre>[fix] typo</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 26 May 2021 14:14:28 GMT</small>
+<small>⏰ Updated on Thu, 27 May 2021 14:19:28 GMT</small>
 </td>
 </tr>
 </tfoot>
