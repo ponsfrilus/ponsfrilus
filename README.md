@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank">patroni</a>&nbsp;<a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/zalando/patroni?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative" target="_blank">nocodb</a>&nbsp;<a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative" target="_blank"><img src="https://img.shields.io/github/stars/nocodb/nocodb?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank">FIT_VIEWER</a>&nbsp;<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank"><img src="https://img.shields.io/github/stars/FazlijaYlli/FIT_VIEWER?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/vpi-startups" title="null" target="_blank">vpi-startups</a>&nbsp;<a href="https://github.com/epfl-si/vpi-startups" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/vpi-startups?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/seemoo-lab/openhaystack" title="Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network." target="_blank">openhaystack</a>&nbsp;<a href="https://github.com/seemoo-lab/openhaystack" title="Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network." target="_blank"><img src="https://img.shields.io/github/stars/seemoo-lab/openhaystack?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/spiral/roadrunner" title="High-performance PHP application server, load-balancer and process manager written in Golang" target="_blank">roadrunner</a>&nbsp;<a href="https://github.com/spiral/roadrunner" title="High-performance PHP application server, load-balancer and process manager written in Golang" target="_blank"><img src="https://img.shields.io/github/stars/spiral/roadrunner?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/google/zx" title="A tool for writing better scripts" target="_blank">zx</a>&nbsp;<a href="https://github.com/google/zx" title="A tool for writing better scripts" target="_blank"><img src="https://img.shields.io/github/stars/google/zx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/timvisee/send" title=":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send" target="_blank">send</a>&nbsp;<a href="https://github.com/timvisee/send" title=":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send" target="_blank"><img src="https://img.shields.io/github/stars/timvisee/send?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rome/tools" title="The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS." target="_blank">tools</a>&nbsp;<a href="https://github.com/rome/tools" title="The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS." target="_blank"><img src="https://img.shields.io/github/stars/rome/tools?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/volta-cli/volta" title="Volta: JS Toolchains as Code. ⚡" target="_blank">volta</a>&nbsp;<a href="https://github.com/volta-cli/volta" title="Volta: JS Toolchains as Code. ⚡" target="_blank"><img src="https://img.shields.io/github/stars/volta-cli/volta?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank">barman</a>&nbsp;<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank"><img src="https://img.shields.io/github/stars/EnterpriseDB/barman?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank">TPI</a>&nbsp;<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank"><img src="https://img.shields.io/github/stars/Bakbat/TPI?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/RektInator/kill-docker-auto-update" title="Contains assemblies to kill auto updating of Docker Desktop for Windows." target="_blank">kill-docker-auto-update</a>&nbsp;<a href="https://github.com/RektInator/kill-docker-auto-update" title="Contains assemblies to kill auto updating of Docker Desktop for Windows." target="_blank"><img src="https://img.shields.io/github/stars/RektInator/kill-docker-auto-update?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bytecodealliance/wasmtime" title="Standalone JIT-style runtime for WebAssembly, using Cranelift" target="_blank">wasmtime</a>&nbsp;<a href="https://github.com/bytecodealliance/wasmtime" title="Standalone JIT-style runtime for WebAssembly, using Cranelift" target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/wasmtime?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank">FIT_VIEWER</a>&nbsp;<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank"><img src="https://img.shields.io/github/stars/FazlijaYlli/FIT_VIEWER?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/vpi-startups" title="null" target="_blank">vpi-startups</a>&nbsp;<a href="https://github.com/epfl-si/vpi-startups" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/vpi-startups?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/seemoo-lab/openhaystack" title="Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network." target="_blank">openhaystack</a>&nbsp;<a href="https://github.com/seemoo-lab/openhaystack" title="Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network." target="_blank"><img src="https://img.shields.io/github/stars/seemoo-lab/openhaystack?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/spiral/roadrunner" title="High-performance PHP application server, load-balancer and process manager written in Golang" target="_blank">roadrunner</a>&nbsp;<a href="https://github.com/spiral/roadrunner" title="High-performance PHP application server, load-balancer and process manager written in Golang" target="_blank"><img src="https://img.shields.io/github/stars/spiral/roadrunner?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/google/zx" title="A tool for writing better scripts" target="_blank">zx</a>&nbsp;<a href="https://github.com/google/zx" title="A tool for writing better scripts" target="_blank"><img src="https://img.shields.io/github/stars/google/zx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/timvisee/send" title=":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send" target="_blank">send</a>&nbsp;<a href="https://github.com/timvisee/send" title=":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send" target="_blank"><img src="https://img.shields.io/github/stars/timvisee/send?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rome/tools" title="The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS." target="_blank">tools</a>&nbsp;<a href="https://github.com/rome/tools" title="The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS." target="_blank"><img src="https://img.shields.io/github/stars/rome/tools?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/volta-cli/volta" title="Volta: JS Toolchains as Code. ⚡" target="_blank">volta</a>&nbsp;<a href="https://github.com/volta-cli/volta" title="Volta: JS Toolchains as Code. ⚡" target="_blank"><img src="https://img.shields.io/github/stars/volta-cli/volta?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dekuNukem/bob_cassette_rewinder" title="Renew and Refill Bob Cassettes for 98% Cost Saving!" target="_blank">bob_cassette_rewinder</a>&nbsp;<a href="https://github.com/dekuNukem/bob_cassette_rewinder" title="Renew and Refill Bob Cassettes for 98% Cost Saving!" target="_blank"><img src="https://img.shields.io/github/stars/dekuNukem/bob_cassette_rewinder?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bytecodealliance/wasm-micro-runtime" title="WebAssembly Micro Runtime (WAMR)" target="_blank">wasm-micro-runtime</a>&nbsp;<a href="https://github.com/bytecodealliance/wasm-micro-runtime" title="WebAssembly Micro Runtime (WAMR)" target="_blank"><img src="https://img.shields.io/github/stars/bytecodealliance/wasm-micro-runtime?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -168,7 +168,7 @@ See https://grafana.com/grafana/plugins/simpod-json-datasource/</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 27 May 2021 14:19:28 GMT</small>
+<small>⏰ Updated on Fri, 28 May 2021 14:17:44 GMT</small>
 </td>
 </tr>
 </tfoot>
