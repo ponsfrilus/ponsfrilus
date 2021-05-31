@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank">Magisk</a>&nbsp;<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank"><img src="https://img.shields.io/github/stars/topjohnwu/Magisk?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank">barman</a>&nbsp;<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank"><img src="https://img.shields.io/github/stars/EnterpriseDB/barman?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank">TPI</a>&nbsp;<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank"><img src="https://img.shields.io/github/stars/Bakbat/TPI?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank">la-rache.com</a>&nbsp;<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank"><img src="https://img.shields.io/github/stars/la-rache/la-rache.com?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank">external-protocol-flooding</a>&nbsp;<a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank"><img src="https://img.shields.io/github/stars/fingerprintjs/external-protocol-flooding?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jsomers/hacker-classics" title="Classic Hacker News stories" target="_blank">hacker-classics</a>&nbsp;<a href="https://github.com/jsomers/hacker-classics" title="Classic Hacker News stories" target="_blank"><img src="https://img.shields.io/github/stars/jsomers/hacker-classics?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vanhoefm/fragattacks" title="null" target="_blank">fragattacks</a>&nbsp;<a href="https://github.com/vanhoefm/fragattacks" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vanhoefm/fragattacks?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank">rufus</a>&nbsp;<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank"><img src="https://img.shields.io/github/stars/pbatard/rufus?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank">Addon</a>&nbsp;<a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank"><img src="https://img.shields.io/github/stars/ClearURLs/Addon?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank">stack-on-a-budget</a>&nbsp;<a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank"><img src="https://img.shields.io/github/stars/255kb/stack-on-a-budget?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank">patroni</a>&nbsp;<a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/zalando/patroni?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/volta-cli/volta" title="Volta: JS Toolchains as Code. ⚡" target="_blank">volta</a>&nbsp;<a href="https://github.com/volta-cli/volta" title="Volta: JS Toolchains as Code. ⚡" target="_blank"><img src="https://img.shields.io/github/stars/volta-cli/volta?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank">barman</a>&nbsp;<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank"><img src="https://img.shields.io/github/stars/EnterpriseDB/barman?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank">TPI</a>&nbsp;<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank"><img src="https://img.shields.io/github/stars/Bakbat/TPI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank">la-rache.com</a>&nbsp;<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank"><img src="https://img.shields.io/github/stars/la-rache/la-rache.com?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank">external-protocol-flooding</a>&nbsp;<a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank"><img src="https://img.shields.io/github/stars/fingerprintjs/external-protocol-flooding?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jsomers/hacker-classics" title="Classic Hacker News stories" target="_blank">hacker-classics</a>&nbsp;<a href="https://github.com/jsomers/hacker-classics" title="Classic Hacker News stories" target="_blank"><img src="https://img.shields.io/github/stars/jsomers/hacker-classics?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vanhoefm/fragattacks" title="null" target="_blank">fragattacks</a>&nbsp;<a href="https://github.com/vanhoefm/fragattacks" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vanhoefm/fragattacks?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank">rufus</a>&nbsp;<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank"><img src="https://img.shields.io/github/stars/pbatard/rufus?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank">Addon</a>&nbsp;<a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank"><img src="https://img.shields.io/github/stars/ClearURLs/Addon?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank">stack-on-a-budget</a>&nbsp;<a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank"><img src="https://img.shields.io/github/stars/255kb/stack-on-a-budget?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/RektInator/kill-docker-auto-update" title="Contains assemblies to kill auto updating of Docker Desktop for Windows." target="_blank">kill-docker-auto-update</a>&nbsp;<a href="https://github.com/RektInator/kill-docker-auto-update" title="Contains assemblies to kill auto updating of Docker Desktop for Windows." target="_blank"><img src="https://img.shields.io/github/stars/RektInator/kill-docker-auto-update?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -168,7 +168,7 @@ See https://grafana.com/grafana/plugins/simpod-json-datasource/</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 28 May 2021 14:17:44 GMT</small>
+<small>⏰ Updated on Mon, 31 May 2021 14:24:17 GMT</small>
 </td>
 </tr>
 </tfoot>
