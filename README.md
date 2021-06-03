@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/22c0cdc046698f7bfef4988573e246cb8d06c03b" title="2021-06-02T17:54:49.000+02:00" target="_blank">22c0cdc0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[refactor] wp commands order
+
+wp-cli seems to want to create the DB with credentials of wp-config.php 
+instead of the one we specify.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/7922fe93a5cbf5deffe00fc43542ecca48f9765b" title="2021-06-02T17:49:45.000+02:00" target="_blank">7922fe93</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[secrets] change test-db-wwp password
+
+This ensure wp-miration uses the test database with a new password.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/ict-bot/commits/0cb9830d12d272eb8bfab3b0cb30ed0f688168d2" title="2021-05-26T17:46:52.000+02:00" target="_blank">0cb9830d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ict-bot" title="Apprentissage CFC développement d'applications 2014 - Modules">/ict-bot</a></strong></div>
           <pre>Merge pull request #49 from ponsfrilus/fix/data-scraper
 
@@ -152,23 +167,11 @@ Feature/44 refactor</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/payonline.ops/commits/411d3fa8ccef655f210c416c080bdfe5a8ae3aa5" title="2021-05-25T19:33:37.000+02:00" target="_blank">411d3fa8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline.ops" title="Ansible-based DevOps automation for Payonline">/payonline.ops</a></strong></div>
           <pre>[add] payonline service</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/81ecafa2dd6022abb713208fc54ab272de7bd13b" title="2021-05-21T14:41:29.000+02:00" target="_blank">81ecafa2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[add] simpod-json-datasource
-
-See https://grafana.com/grafana/plugins/simpod-json-datasource/</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/985bcd84ab7efabe9ae3e961ec9137f1b873bb9d" title="2021-05-21T13:44:07.000+02:00" target="_blank">985bcd84</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[add] frser-sqlite-datasource Grafana plugin</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 02 Jun 2021 14:50:21 GMT</small>
+<small>⏰ Updated on Thu, 03 Jun 2021 14:21:59 GMT</small>
 </td>
 </tr>
 </tfoot>
