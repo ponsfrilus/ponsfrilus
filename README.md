@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank">webextensions</a>&nbsp;<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank"><img src="https://img.shields.io/github/stars/w3c/webextensions?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/helix-editor/helix" title="A post-modern modal text editor." target="_blank">helix</a>&nbsp;<a href="https://github.com/helix-editor/helix" title="A post-modern modal text editor." target="_blank"><img src="https://img.shields.io/github/stars/helix-editor/helix?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/timvisee/send" title=":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send" target="_blank">send</a>&nbsp;<a href="https://github.com/timvisee/send" title=":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send" target="_blank"><img src="https://img.shields.io/github/stars/timvisee/send?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/rome/tools" title="The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS." target="_blank">tools</a>&nbsp;<a href="https://github.com/rome/tools" title="The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS." target="_blank"><img src="https://img.shields.io/github/stars/rome/tools?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank">SectorTradingAlgorithm</a>&nbsp;<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank"><img src="https://img.shields.io/github/stars/KibaeKim/SectorTradingAlgorithm?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank">Magisk</a>&nbsp;<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank"><img src="https://img.shields.io/github/stars/topjohnwu/Magisk?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank">Addon</a>&nbsp;<a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank"><img src="https://img.shields.io/github/stars/ClearURLs/Addon?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank">stack-on-a-budget</a>&nbsp;<a href="https://github.com/255kb/stack-on-a-budget" title="A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com" target="_blank"><img src="https://img.shields.io/github/stars/255kb/stack-on-a-budget?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -171,7 +171,7 @@ Feature/44 refactor</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 04 Jun 2021 14:44:41 GMT</small>
+<small>⏰ Updated on Mon, 07 Jun 2021 14:34:47 GMT</small>
 </td>
 </tr>
 </tfoot>
