@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank">quine-relay</a>&nbsp;<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank"><img src="https://img.shields.io/github/stars/mame/quine-relay?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank">SectorTradingAlgorithm</a>&nbsp;<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank"><img src="https://img.shields.io/github/stars/KibaeKim/SectorTradingAlgorithm?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank">Magisk</a>&nbsp;<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank"><img src="https://img.shields.io/github/stars/topjohnwu/Magisk?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank">barman</a>&nbsp;<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank"><img src="https://img.shields.io/github/stars/EnterpriseDB/barman?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank">TPI</a>&nbsp;<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank"><img src="https://img.shields.io/github/stars/Bakbat/TPI?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank">la-rache.com</a>&nbsp;<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank"><img src="https://img.shields.io/github/stars/la-rache/la-rache.com?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank">external-protocol-flooding</a>&nbsp;<a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank"><img src="https://img.shields.io/github/stars/fingerprintjs/external-protocol-flooding?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jsomers/hacker-classics" title="Classic Hacker News stories" target="_blank">hacker-classics</a>&nbsp;<a href="https://github.com/jsomers/hacker-classics" title="Classic Hacker News stories" target="_blank"><img src="https://img.shields.io/github/stars/jsomers/hacker-classics?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vanhoefm/fragattacks" title="null" target="_blank">fragattacks</a>&nbsp;<a href="https://github.com/vanhoefm/fragattacks" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vanhoefm/fragattacks?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank">rufus</a>&nbsp;<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank"><img src="https://img.shields.io/github/stars/pbatard/rufus?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank">webextensions</a>&nbsp;<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank"><img src="https://img.shields.io/github/stars/w3c/webextensions?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/timvisee/send" title=":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send" target="_blank">send</a>&nbsp;<a href="https://github.com/timvisee/send" title=":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send" target="_blank"><img src="https://img.shields.io/github/stars/timvisee/send?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank">SectorTradingAlgorithm</a>&nbsp;<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank"><img src="https://img.shields.io/github/stars/KibaeKim/SectorTradingAlgorithm?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank">Magisk</a>&nbsp;<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank"><img src="https://img.shields.io/github/stars/topjohnwu/Magisk?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank">barman</a>&nbsp;<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank"><img src="https://img.shields.io/github/stars/EnterpriseDB/barman?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank">TPI</a>&nbsp;<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank"><img src="https://img.shields.io/github/stars/Bakbat/TPI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank">la-rache.com</a>&nbsp;<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank"><img src="https://img.shields.io/github/stars/la-rache/la-rache.com?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank">external-protocol-flooding</a>&nbsp;<a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank"><img src="https://img.shields.io/github/stars/fingerprintjs/external-protocol-flooding?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jsomers/hacker-classics" title="Classic Hacker News stories" target="_blank">hacker-classics</a>&nbsp;<a href="https://github.com/jsomers/hacker-classics" title="Classic Hacker News stories" target="_blank"><img src="https://img.shields.io/github/stars/jsomers/hacker-classics?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vanhoefm/fragattacks" title="null" target="_blank">fragattacks</a>&nbsp;<a href="https://github.com/vanhoefm/fragattacks" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vanhoefm/fragattacks?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank">rufus</a>&nbsp;<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank"><img src="https://img.shields.io/github/stars/pbatard/rufus?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank">Addon</a>&nbsp;<a href="https://github.com/ClearURLs/Addon" title="ClearURLs is an add-on based on the new WebExtensions technology and will automatically remove tracking elements from URLs to help protect your privacy." target="_blank"><img src="https://img.shields.io/github/stars/ClearURLs/Addon?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -171,7 +171,7 @@ Feature/44 refactor</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 07 Jun 2021 14:34:47 GMT</small>
+<small>⏰ Updated on Tue, 08 Jun 2021 14:04:02 GMT</small>
 </td>
 </tr>
 </tfoot>
