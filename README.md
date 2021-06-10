@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank">terraform</a>&nbsp;<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank">quine-relay</a>&nbsp;<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank"><img src="https://img.shields.io/github/stars/mame/quine-relay?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/vanhoefm/fragattacks" title="null" target="_blank">fragattacks</a>&nbsp;<a href="https://github.com/vanhoefm/fragattacks" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vanhoefm/fragattacks?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank">rufus</a>&nbsp;<a href="https://github.com/pbatard/rufus" title="The Reliable USB Formatting Utility" target="_blank"><img src="https://img.shields.io/github/stars/pbatard/rufus?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank">astro</a>&nbsp;<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank"><img src="https://img.shields.io/github/stars/snowpackjs/astro?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank">webextensions</a>&nbsp;<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank"><img src="https://img.shields.io/github/stars/w3c/webextensions?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/google/zx" title="A tool for writing better scripts" target="_blank">zx</a>&nbsp;<a href="https://github.com/google/zx" title="A tool for writing better scripts" target="_blank"><img src="https://img.shields.io/github/stars/google/zx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/timvisee/send" title=":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send" target="_blank">send</a>&nbsp;<a href="https://github.com/timvisee/send" title=":mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send" target="_blank"><img src="https://img.shields.io/github/stars/timvisee/send?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -171,7 +171,7 @@ Feature/44 refactor</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 09 Jun 2021 13:59:32 GMT</small>
+<small>⏰ Updated on Thu, 10 Jun 2021 13:59:16 GMT</small>
 </td>
 </tr>
 </tfoot>
