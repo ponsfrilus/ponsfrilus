@@ -103,6 +103,30 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/8fadb51775d5e907cd20d79922eba9a1e85f73b2" title="2021-06-24T12:09:05.000+02:00" target="_blank">8fadb517</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>Merge pull request #59 from epfl-si/feature/debug-enabled-wp-config
+
+[feature] debug enabled in wp-config.php</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f7a8cdf4c0de2852392edcad9b45490204b97a75" title="2021-06-24T12:07:57.000+02:00" target="_blank">f7a8cdf4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #431 from epfl-si/feature/debug-enabled-wp-config
+
+[feature] option to enable debug in wp-config.php</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/2609a74ef89bf1725b0e750b76a5b73bec31c947" title="2021-06-24T12:04:00.000+02:00" target="_blank">2609a74e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[feature] debug enabled in wp-config.php</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ca115a7f82564b2365e966fa5a9d1712dc47a22d" title="2021-06-24T12:03:02.000+02:00" target="_blank">ca115a7f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] option to enable debug in wp-config.php</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-gdpr/commits/d27f4eaae3c7afb96d93dab8fa3d565ea60faf89" title="2021-06-23T08:57:11.000+02:00" target="_blank">d27f4eaa</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-gdpr" title="WPForms EPFL GDPR is a WPForms addon that add EPFL specific functionalities in relation to the GDPR.">/wpforms-epfl-gdpr</a></strong></div>
           <pre>[add] base files</pre>
         </td>
@@ -145,33 +169,11 @@ Also, the data are updated.
 
 Bump to version 0.0.9</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ict-bot/commits/30de0025194f426f9f7626e5094162a04f91219e" title="2021-05-26T11:54:40.000+02:00" target="_blank">30de0025</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ict-bot" title="Apprentissage CFC développement d'applications 2014 - Modules">/ict-bot</a></strong></div>
-          <pre>Merge pull request #45 from ponsfrilus/feature/44-refactor
-
-Feature/44 refactor</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline.ops/commits/af65a26a81f95ad6873f7743b7a71d9393a07973" title="2021-05-25T20:30:16.000+02:00" target="_blank">af65a26a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline.ops" title="Ansible-based DevOps automation for Payonline">/payonline.ops</a></strong></div>
-          <pre>[feature] deployment config</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline.ops/commits/096cf7d7f6c852bae27eeb26fc69dcfd2be2d06a" title="2021-05-25T20:29:59.000+02:00" target="_blank">096cf7d7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline.ops" title="Ansible-based DevOps automation for Payonline">/payonline.ops</a></strong></div>
-          <pre>[feature] config map</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline.ops/commits/2d44db5e5c83075343551939cc8572edaf547468" title="2021-05-25T20:29:42.000+02:00" target="_blank">2d44db5e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline.ops" title="Ansible-based DevOps automation for Payonline">/payonline.ops</a></strong></div>
-          <pre>[feature] promote payonline image</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 23 Jun 2021 13:41:54 GMT</small>
+<small>⏰ Updated on Thu, 24 Jun 2021 13:43:08 GMT</small>
 </td>
 </tr>
 </tfoot>
