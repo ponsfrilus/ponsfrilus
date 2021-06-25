@@ -103,6 +103,27 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/453d6541876dabd6242665ccec1cbda3fae2256c" title="2021-06-25T08:55:19.000+02:00" target="_blank">453d6541</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[feature] make zip</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/83c6bc4a595b0ee46040d8ebd634ef8ba23422b7" title="2021-06-25T08:25:20.000+02:00" target="_blank">83c6bc4a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>Merge pull request #20 from epfl-si/fix/notice-array-offset
+
+[fix] avoid notice 'Trying to access array offset on value of type bool'</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/b430157473ff835cffbb6dc46d9c87146bea3245" title="2021-06-24T17:18:07.000+02:00" target="_blank">b4301574</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[fix] avoid notice 'Trying to access array offset on value of type bool'
+
+...and bump version
+...and bump version
+...and bump version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/8fadb51775d5e907cd20d79922eba9a1e85f73b2" title="2021-06-24T12:09:05.000+02:00" target="_blank">8fadb517</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>Merge pull request #59 from epfl-si/feature/debug-enabled-wp-config
 
@@ -143,37 +164,11 @@
 wp-cli seems to want to create the DB with credentials of wp-config.php 
 instead of the one we specify.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/7922fe93a5cbf5deffe00fc43542ecca48f9765b" title="2021-06-02T17:49:45.000+02:00" target="_blank">7922fe93</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[secrets] change test-db-wwp password
-
-This ensure wp-miration uses the test database with a new password.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ict-bot/commits/0cb9830d12d272eb8bfab3b0cb30ed0f688168d2" title="2021-05-26T17:46:52.000+02:00" target="_blank">0cb9830d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ict-bot" title="Apprentissage CFC développement d'applications 2014 - Modules">/ict-bot</a></strong></div>
-          <pre>Merge pull request #49 from ponsfrilus/fix/data-scraper
-
-[fix] getData.js</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ict-bot/commits/e39908d5fcc654197db56e4d788dd88c38cb813e" title="2021-05-26T17:45:21.000+02:00" target="_blank">e39908d5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ict-bot" title="Apprentissage CFC développement d'applications 2014 - Modules">/ict-bot</a></strong></div>
-          <pre>[fix] getData.js
-
-The test of the PDF link was broken. This PR fixes that and add some 
-logging information.
-
-Also, the data are updated.
-
-Bump to version 0.0.9</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 24 Jun 2021 13:43:08 GMT</small>
+<small>⏰ Updated on Fri, 25 Jun 2021 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
