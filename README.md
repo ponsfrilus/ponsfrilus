@@ -81,7 +81,7 @@
 <a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank">patroni</a>&nbsp;<a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/zalando/patroni?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative." target="_blank">nocodb</a>&nbsp;<a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative." target="_blank"><img src="https://img.shields.io/github/stars/nocodb/nocodb?style=social" alt="GitHub"></a>
+<a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀  " target="_blank">nocodb</a>&nbsp;<a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀  " target="_blank"><img src="https://img.shields.io/github/stars/nocodb/nocodb?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank">FIT_VIEWER</a>&nbsp;<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank"><img src="https://img.shields.io/github/stars/FazlijaYlli/FIT_VIEWER?style=social" alt="GitHub"></a>
@@ -171,7 +171,7 @@ these values fix that.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 22 Jul 2021 13:45:18 GMT</small>
+<small>⏰ Updated on Fri, 23 Jul 2021 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
