@@ -103,6 +103,17 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-gdpr/commits/59fee160a6f13b4aa8cff7af537247bd2f31f3d4" title="2021-07-26T15:25:41.000+02:00" target="_blank">59fee160</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-gdpr" title="WPForms EPFL GDPR is a WPForms addon that add EPFL specific functionalities in relation to the GDPR.">/wpforms-epfl-gdpr</a></strong></div>
+          <pre>[add] Linter and documentation
+
+* Makefile is now self-documentated (`make help`)
+* PHP_CodeSniffer and WPCS (WordPress Coding Standard) have been brought 
+to the project
+* `.gitignore`updated accordingly
+*</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-courses-se/commits/03055774cc7859748b3d7764be6440228937acb8" title="2021-06-30T14:03:38.000+02:00" target="_blank">03055774</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-courses-se" title="null">/wp-plugin-epfl-courses-se</a></strong></div>
           <pre>Merge pull request #1 from epfl-si/fix/php-notices
 
@@ -162,16 +173,11 @@ these values fix that.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ca115a7f82564b2365e966fa5a9d1712dc47a22d" title="2021-06-24T12:03:02.000+02:00" target="_blank">ca115a7f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[feature] option to enable debug in wp-config.php</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-gdpr/commits/d27f4eaae3c7afb96d93dab8fa3d565ea60faf89" title="2021-06-23T08:57:11.000+02:00" target="_blank">d27f4eaa</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-gdpr" title="WPForms EPFL GDPR is a WPForms addon that add EPFL specific functionalities in relation to the GDPR.">/wpforms-epfl-gdpr</a></strong></div>
-          <pre>[add] base files</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 23 Jul 2021 13:45:16 GMT</small>
+<small>⏰ Updated on Mon, 26 Jul 2021 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
