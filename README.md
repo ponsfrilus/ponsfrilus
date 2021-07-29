@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank">kubectl-tmux-exec</a>&nbsp;<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank"><img src="https://img.shields.io/github/stars/predatorray/kubectl-tmux-exec?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/qutebrowser/qutebrowser" title="A keyboard-driven, vim-like browser based on PyQt5." target="_blank">qutebrowser</a>&nbsp;<a href="https://github.com/qutebrowser/qutebrowser" title="A keyboard-driven, vim-like browser based on PyQt5." target="_blank"><img src="https://img.shields.io/github/stars/qutebrowser/qutebrowser?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank">modern-unix</a>&nbsp;<a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank"><img src="https://img.shields.io/github/stars/ibraheemdev/modern-unix?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank">astro</a>&nbsp;<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank"><img src="https://img.shields.io/github/stars/snowpackjs/astro?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank">webextensions</a>&nbsp;<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank"><img src="https://img.shields.io/github/stars/w3c/webextensions?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/helix-editor/helix" title="A post-modern modal text editor." target="_blank">helix</a>&nbsp;<a href="https://github.com/helix-editor/helix" title="A post-modern modal text editor." target="_blank"><img src="https://img.shields.io/github/stars/helix-editor/helix?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank">patroni</a>&nbsp;<a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/zalando/patroni?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀  " target="_blank">nocodb</a>&nbsp;<a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀  " target="_blank"><img src="https://img.shields.io/github/stars/nocodb/nocodb?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank">FIT_VIEWER</a>&nbsp;<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank"><img src="https://img.shields.io/github/stars/FazlijaYlli/FIT_VIEWER?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/vpi-startups" title="null" target="_blank">vpi-startups</a>&nbsp;<a href="https://github.com/epfl-si/vpi-startups" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/vpi-startups?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank">responsively-app</a>&nbsp;<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank"><img src="https://img.shields.io/github/stars/responsively-org/responsively-app?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank">keep-a-changelog</a>&nbsp;<a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank"><img src="https://img.shields.io/github/stars/olivierlacan/keep-a-changelog?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,43 +95,6 @@
 <li>
 <a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank">external-protocol-flooding</a>&nbsp;<a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank"><img src="https://img.shields.io/github/stars/fingerprintjs/external-protocol-flooding?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/jsomers/hacker-classics" title="Classic Hacker News stories" target="_blank">hacker-classics</a>&nbsp;<a href="https://github.com/jsomers/hacker-classics" title="Classic Hacker News stories" target="_blank"><img src="https://img.shields.io/github/stars/jsomers/hacker-classics?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank">modern-unix</a>&nbsp;<a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank"><img src="https://img.shields.io/github/stars/ibraheemdev/modern-unix?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank">astro</a>&nbsp;<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank"><img src="https://img.shields.io/github/stars/snowpackjs/astro?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank">webextensions</a>&nbsp;<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank"><img src="https://img.shields.io/github/stars/w3c/webextensions?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/helix-editor/helix" title="A post-modern modal text editor." target="_blank">helix</a>&nbsp;<a href="https://github.com/helix-editor/helix" title="A post-modern modal text editor." target="_blank"><img src="https://img.shields.io/github/stars/helix-editor/helix?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank">patroni</a>&nbsp;<a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/zalando/patroni?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀  " target="_blank">nocodb</a>&nbsp;<a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀  " target="_blank"><img src="https://img.shields.io/github/stars/nocodb/nocodb?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank">FIT_VIEWER</a>&nbsp;<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank"><img src="https://img.shields.io/github/stars/FazlijaYlli/FIT_VIEWER?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/vpi-startups" title="null" target="_blank">vpi-startups</a>&nbsp;<a href="https://github.com/epfl-si/vpi-startups" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/vpi-startups?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/seemoo-lab/openhaystack" title="Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network." target="_blank">openhaystack</a>&nbsp;<a href="https://github.com/seemoo-lab/openhaystack" title="Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network." target="_blank"><img src="https://img.shields.io/github/stars/seemoo-lab/openhaystack?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/spiral/roadrunner" title="High-performance PHP application server, load-balancer and process manager written in Golang" target="_blank">roadrunner</a>&nbsp;<a href="https://github.com/spiral/roadrunner" title="High-performance PHP application server, load-balancer and process manager written in Golang" target="_blank"><img src="https://img.shields.io/github/stars/spiral/roadrunner?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,21 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-gdpr/commits/103c5a86b4f9c6737dbd85f7be6178feacc3a660" title="2021-07-28T17:54:30.000+02:00" target="_blank">103c5a86</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-gdpr" title="WPForms EPFL GDPR is a WPForms addon that add EPFL specific functionalities in relation to the GDPR.">/wpforms-epfl-gdpr</a></strong></div>
+          <pre>[feature] Block form
+
+Pgrogression of blocking enforcement when the date are out of range.
+
+* Block the display of the form in the frontend
+* Block the entries details</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-gdpr/commits/c8da6008e69b6ac7a845ec16dd13a95e1b818303" title="2021-07-27T15:56:44.000+02:00" target="_blank">c8da6008</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-gdpr" title="WPForms EPFL GDPR is a WPForms addon that add EPFL specific functionalities in relation to the GDPR.">/wpforms-epfl-gdpr</a></strong></div>
+          <pre>[conciergerie] clean up</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-gdpr/commits/59fee160a6f13b4aa8cff7af537247bd2f31f3d4" title="2021-07-26T15:25:41.000+02:00" target="_blank">59fee160</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-gdpr" title="WPForms EPFL GDPR is a WPForms addon that add EPFL specific functionalities in relation to the GDPR.">/wpforms-epfl-gdpr</a></strong></div>
           <pre>[add] Linter and documentation
@@ -163,21 +178,11 @@ these values fix that.</pre>
 
 [feature] option to enable debug in wp-config.php</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/2609a74ef89bf1725b0e750b76a5b73bec31c947" title="2021-06-24T12:04:00.000+02:00" target="_blank">2609a74e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[feature] debug enabled in wp-config.php</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ca115a7f82564b2365e966fa5a9d1712dc47a22d" title="2021-06-24T12:03:02.000+02:00" target="_blank">ca115a7f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] option to enable debug in wp-config.php</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 28 Jul 2021 13:46:00 GMT</small>
+<small>⏰ Updated on Thu, 29 Jul 2021 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
