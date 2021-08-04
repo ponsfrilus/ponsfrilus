@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/arch-novnc/commits/74961bfb7a56cb3b89c8213c2b40c33bff351abc" title="2021-08-03T19:35:19.000+02:00" target="_blank">74961bfb</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/arch-novnc" title="Docker container running ArchLinux accessible through novnc in a browser">/arch-novnc</a></strong></div>
+          <pre>Merge pull request #1 from billyb2/patch-1
+
+Update to official Arch Linux image</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-gdpr/commits/103c5a86b4f9c6737dbd85f7be6178feacc3a660" title="2021-07-28T17:54:30.000+02:00" target="_blank">103c5a86</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-gdpr" title="WPForms EPFL GDPR is a WPForms addon that add EPFL specific functionalities in relation to the GDPR.">/wpforms-epfl-gdpr</a></strong></div>
           <pre>[feature] Block form
 
@@ -171,18 +178,11 @@ these values fix that.</pre>
 
 [feature] debug enabled in wp-config.php</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f7a8cdf4c0de2852392edcad9b45490204b97a75" title="2021-06-24T12:07:57.000+02:00" target="_blank">f7a8cdf4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #431 from epfl-si/feature/debug-enabled-wp-config
-
-[feature] option to enable debug in wp-config.php</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 03 Aug 2021 13:45:20 GMT</small>
+<small>⏰ Updated on Wed, 04 Aug 2021 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
