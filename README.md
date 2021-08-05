@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank">kong</a>&nbsp;<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank"><img src="https://img.shields.io/github/stars/Kong/kong?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank">responsively-app</a>&nbsp;<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank"><img src="https://img.shields.io/github/stars/responsively-org/responsively-app?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank">keep-a-changelog</a>&nbsp;<a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank"><img src="https://img.shields.io/github/stars/olivierlacan/keep-a-changelog?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank">terraform</a>&nbsp;<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank">quine-relay</a>&nbsp;<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank"><img src="https://img.shields.io/github/stars/mame/quine-relay?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank">SectorTradingAlgorithm</a>&nbsp;<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank"><img src="https://img.shields.io/github/stars/KibaeKim/SectorTradingAlgorithm?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank">Magisk</a>&nbsp;<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank"><img src="https://img.shields.io/github/stars/topjohnwu/Magisk?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank">barman</a>&nbsp;<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank"><img src="https://img.shields.io/github/stars/EnterpriseDB/barman?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank">TPI</a>&nbsp;<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank"><img src="https://img.shields.io/github/stars/Bakbat/TPI?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank">la-rache.com</a>&nbsp;<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank"><img src="https://img.shields.io/github/stars/la-rache/la-rache.com?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank">kubectl-tmux-exec</a>&nbsp;<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank"><img src="https://img.shields.io/github/stars/predatorray/kubectl-tmux-exec?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,40 +97,6 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank">responsively-app</a>&nbsp;<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank"><img src="https://img.shields.io/github/stars/responsively-org/responsively-app?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank">keep-a-changelog</a>&nbsp;<a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank"><img src="https://img.shields.io/github/stars/olivierlacan/keep-a-changelog?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank">terraform</a>&nbsp;<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank">quine-relay</a>&nbsp;<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank"><img src="https://img.shields.io/github/stars/mame/quine-relay?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank">SectorTradingAlgorithm</a>&nbsp;<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank"><img src="https://img.shields.io/github/stars/KibaeKim/SectorTradingAlgorithm?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank">Magisk</a>&nbsp;<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank"><img src="https://img.shields.io/github/stars/topjohnwu/Magisk?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank">barman</a>&nbsp;<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank"><img src="https://img.shields.io/github/stars/EnterpriseDB/barman?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank">TPI</a>&nbsp;<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank"><img src="https://img.shields.io/github/stars/Bakbat/TPI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank">la-rache.com</a>&nbsp;<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank"><img src="https://img.shields.io/github/stars/la-rache/la-rache.com?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank">external-protocol-flooding</a>&nbsp;<a href="https://github.com/fingerprintjs/external-protocol-flooding" title="Scheme flooding vulnerability: how it works and why it is a threat to anonymous browsing" target="_blank"><img src="https://img.shields.io/github/stars/fingerprintjs/external-protocol-flooding?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
@@ -107,6 +107,29 @@
           <pre>Merge pull request #1 from billyb2/patch-1
 
 Update to official Arch Linux image</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/JaavLex/changelog-maker/commits/b737212cd75f58b6560906e73e2c1cd8165cdf02" title="2021-08-03T14:49:59.000+02:00" target="_blank">b737212c</a><a href="https://github.com/JaavLex">@JaavLex</a><a href="https://github.com/JaavLex/changelog-maker" title="A changelog maker, uses commit messages">/changelog-maker</a></strong></div>
+          <pre>[add] favicon.ico</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/JaavLex/changelog-maker/commits/60f674e524298975e8ae15ca162c62b1d4ebdd8d" title="2021-08-03T14:47:28.000+02:00" target="_blank">60f674e5</a><a href="https://github.com/JaavLex">@JaavLex</a><a href="https://github.com/JaavLex/changelog-maker" title="A changelog maker, uses commit messages">/changelog-maker</a></strong></div>
+          <pre>[feat] Add version based on package.json</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/JaavLex/changelog-maker/commits/4ffb44ec48851756d6c21d30cbae90a38d840703" title="2021-08-03T14:27:37.000+02:00" target="_blank">4ffb44ec</a><a href="https://github.com/JaavLex">@JaavLex</a><a href="https://github.com/JaavLex/changelog-maker" title="A changelog maker, uses commit messages">/changelog-maker</a></strong></div>
+          <pre>[fix] repo's URL</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/JaavLex/changelog-maker/commits/63671fca761a006af4813016e57b84f72b44d90e" title="2021-08-03T14:26:56.000+02:00" target="_blank">63671fca</a><a href="https://github.com/JaavLex">@JaavLex</a><a href="https://github.com/JaavLex/changelog-maker" title="A changelog maker, uses commit messages">/changelog-maker</a></strong></div>
+          <pre>[feat] Markdown preview
+
+This use [marked js](https://github.com/markedjs/marked) to render a
+HTML version of the changelog based on the generated markdown.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -150,39 +173,11 @@ Freshly installed on a environnement with debugging on, some notices are
 displayed on unexisting value. Using the "null coalescing operator" on 
 these values fix that.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/453d6541876dabd6242665ccec1cbda3fae2256c" title="2021-06-25T08:55:19.000+02:00" target="_blank">453d6541</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[feature] make zip</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/83c6bc4a595b0ee46040d8ebd634ef8ba23422b7" title="2021-06-25T08:25:20.000+02:00" target="_blank">83c6bc4a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>Merge pull request #20 from epfl-si/fix/notice-array-offset
-
-[fix] avoid notice 'Trying to access array offset on value of type bool'</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/b430157473ff835cffbb6dc46d9c87146bea3245" title="2021-06-24T17:18:07.000+02:00" target="_blank">b4301574</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[fix] avoid notice 'Trying to access array offset on value of type bool'
-
-...and bump version
-...and bump version
-...and bump version</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/8fadb51775d5e907cd20d79922eba9a1e85f73b2" title="2021-06-24T12:09:05.000+02:00" target="_blank">8fadb517</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>Merge pull request #59 from epfl-si/feature/debug-enabled-wp-config
-
-[feature] debug enabled in wp-config.php</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 04 Aug 2021 13:45:15 GMT</small>
+<small>⏰ Updated on Thu, 05 Aug 2021 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
