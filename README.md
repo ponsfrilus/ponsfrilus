@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank">LinuxTimeline</a>&nbsp;<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank"><img src="https://img.shields.io/github/stars/FabioLolix/LinuxTimeline?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank">kubectl-tmux-exec</a>&nbsp;<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank"><img src="https://img.shields.io/github/stars/predatorray/kubectl-tmux-exec?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/qutebrowser/qutebrowser" title="A keyboard-driven, vim-like browser based on PyQt5." target="_blank">qutebrowser</a>&nbsp;<a href="https://github.com/qutebrowser/qutebrowser" title="A keyboard-driven, vim-like browser based on PyQt5." target="_blank"><img src="https://img.shields.io/github/stars/qutebrowser/qutebrowser?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank">modern-unix</a>&nbsp;<a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank"><img src="https://img.shields.io/github/stars/ibraheemdev/modern-unix?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank">astro</a>&nbsp;<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank"><img src="https://img.shields.io/github/stars/snowpackjs/astro?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank">webextensions</a>&nbsp;<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank"><img src="https://img.shields.io/github/stars/w3c/webextensions?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/helix-editor/helix" title="A post-modern modal text editor." target="_blank">helix</a>&nbsp;<a href="https://github.com/helix-editor/helix" title="A post-modern modal text editor." target="_blank"><img src="https://img.shields.io/github/stars/helix-editor/helix?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank">patroni</a>&nbsp;<a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/zalando/patroni?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀  " target="_blank">nocodb</a>&nbsp;<a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀  " target="_blank"><img src="https://img.shields.io/github/stars/nocodb/nocodb?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank">FIT_VIEWER</a>&nbsp;<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank"><img src="https://img.shields.io/github/stars/FazlijaYlli/FIT_VIEWER?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank">kong</a>&nbsp;<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank"><img src="https://img.shields.io/github/stars/Kong/kong?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank">la-rache.com</a>&nbsp;<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank"><img src="https://img.shields.io/github/stars/la-rache/la-rache.com?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank">kubectl-tmux-exec</a>&nbsp;<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank"><img src="https://img.shields.io/github/stars/predatorray/kubectl-tmux-exec?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/qutebrowser/qutebrowser" title="A keyboard-driven, vim-like browser based on PyQt5." target="_blank">qutebrowser</a>&nbsp;<a href="https://github.com/qutebrowser/qutebrowser" title="A keyboard-driven, vim-like browser based on PyQt5." target="_blank"><img src="https://img.shields.io/github/stars/qutebrowser/qutebrowser?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank">modern-unix</a>&nbsp;<a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank"><img src="https://img.shields.io/github/stars/ibraheemdev/modern-unix?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank">astro</a>&nbsp;<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank"><img src="https://img.shields.io/github/stars/snowpackjs/astro?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank">webextensions</a>&nbsp;<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank"><img src="https://img.shields.io/github/stars/w3c/webextensions?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/helix-editor/helix" title="A post-modern modal text editor." target="_blank">helix</a>&nbsp;<a href="https://github.com/helix-editor/helix" title="A post-modern modal text editor." target="_blank"><img src="https://img.shields.io/github/stars/helix-editor/helix?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank">patroni</a>&nbsp;<a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/zalando/patroni?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀  " target="_blank">nocodb</a>&nbsp;<a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀  " target="_blank"><img src="https://img.shields.io/github/stars/nocodb/nocodb?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank">FIT_VIEWER</a>&nbsp;<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank"><img src="https://img.shields.io/github/stars/FazlijaYlli/FIT_VIEWER?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/vpi-startups" title="null" target="_blank">vpi-startups</a>&nbsp;<a href="https://github.com/epfl-si/vpi-startups" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/vpi-startups?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -177,7 +177,7 @@ these values fix that.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 05 Aug 2021 13:45:12 GMT</small>
+<small>⏰ Updated on Fri, 06 Aug 2021 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
