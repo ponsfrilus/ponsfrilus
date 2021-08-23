@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank">markmap</a>&nbsp;<a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank"><img src="https://img.shields.io/github/stars/gera2ld/markmap?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ffmpegwasm/ffmpeg.wasm" title="FFmpeg for browser and node, powered by WebAssembly" target="_blank">ffmpeg.wasm</a>&nbsp;<a href="https://github.com/ffmpegwasm/ffmpeg.wasm" title="FFmpeg for browser and node, powered by WebAssembly" target="_blank"><img src="https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank">kong</a>&nbsp;<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank"><img src="https://img.shields.io/github/stars/Kong/kong?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank">responsively-app</a>&nbsp;<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank"><img src="https://img.shields.io/github/stars/responsively-org/responsively-app?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank">keep-a-changelog</a>&nbsp;<a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank"><img src="https://img.shields.io/github/stars/olivierlacan/keep-a-changelog?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank">terraform</a>&nbsp;<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank">quine-relay</a>&nbsp;<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank"><img src="https://img.shields.io/github/stars/mame/quine-relay?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank">SectorTradingAlgorithm</a>&nbsp;<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank"><img src="https://img.shields.io/github/stars/KibaeKim/SectorTradingAlgorithm?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank">Magisk</a>&nbsp;<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank"><img src="https://img.shields.io/github/stars/topjohnwu/Magisk?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank">barman</a>&nbsp;<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank"><img src="https://img.shields.io/github/stars/EnterpriseDB/barman?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank">kata-manga</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-manga?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank">LinuxTimeline</a>&nbsp;<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank"><img src="https://img.shields.io/github/stars/FabioLolix/LinuxTimeline?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,43 +95,6 @@
 <li>
 <a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀  " target="_blank">nocodb</a>&nbsp;<a href="https://github.com/nocodb/nocodb" title="🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀  " target="_blank"><img src="https://img.shields.io/github/stars/nocodb/nocodb?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank">FIT_VIEWER</a>&nbsp;<a href="https://github.com/FazlijaYlli/FIT_VIEWER" title="This is the repository for my graduation project. FIT_VIEWER is a PHP & JS website where you are able to upload a ".fit" file, and view all of its content with graphics and statistics, all dynamically generated." target="_blank"><img src="https://img.shields.io/github/stars/FazlijaYlli/FIT_VIEWER?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank">kong</a>&nbsp;<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank"><img src="https://img.shields.io/github/stars/Kong/kong?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank">responsively-app</a>&nbsp;<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank"><img src="https://img.shields.io/github/stars/responsively-org/responsively-app?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank">keep-a-changelog</a>&nbsp;<a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank"><img src="https://img.shields.io/github/stars/olivierlacan/keep-a-changelog?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank">terraform</a>&nbsp;<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank">quine-relay</a>&nbsp;<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank"><img src="https://img.shields.io/github/stars/mame/quine-relay?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank">SectorTradingAlgorithm</a>&nbsp;<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank"><img src="https://img.shields.io/github/stars/KibaeKim/SectorTradingAlgorithm?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank">Magisk</a>&nbsp;<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank"><img src="https://img.shields.io/github/stars/topjohnwu/Magisk?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank">barman</a>&nbsp;<a href="https://github.com/EnterpriseDB/barman" title="Barman - Backup and Recovery Manager for PostgreSQL" target="_blank"><img src="https://img.shields.io/github/stars/EnterpriseDB/barman?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank">TPI</a>&nbsp;<a href="https://github.com/Bakbat/TPI" title="Gestions Des Membres Pour Une Association" target="_blank"><img src="https://img.shields.io/github/stars/Bakbat/TPI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank">la-rache.com</a>&nbsp;<a href="https://github.com/la-rache/la-rache.com" title="Site web la-rache.com" target="_blank"><img src="https://img.shields.io/github/stars/la-rache/la-rache.com?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,26 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/testFSD2021/commits/8ea14256734291e6f02f82efd55f156cea9fc466" title="2021-08-23T11:00:34.000Z" target="_blank">8ea14256</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/testFSD2021" title="Repo de test pour les nouveaux apprentis IDEV-FSD">/testFSD2021</a></strong></div>
+          <pre>Test HTML</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/testFSD2021/commits/e1e23655bba39b918a53e0d30b3fa49434a63f68" title="2021-08-23T10:58:58.000+02:00" target="_blank">e1e23655</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/testFSD2021" title="Repo de test pour les nouveaux apprentis IDEV-FSD">/testFSD2021</a></strong></div>
+          <pre>Mise à jour + ajout d'un titre</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/testFSD2021/commits/a5e9119340ef38e927262ceb518fe99c13e91e1a" title="2021-08-23T10:39:28.000+02:00" target="_blank">a5e91193</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/testFSD2021" title="Repo de test pour les nouveaux apprentis IDEV-FSD">/testFSD2021</a></strong></div>
+          <pre>Add @ponsfrilus</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/testFSD2021/commits/7dc9debeb06a963e86b3cd8ff95c6cdc2c6b133d" title="2021-08-23T10:32:46.000+02:00" target="_blank">7dc9debe</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/testFSD2021" title="Repo de test pour les nouveaux apprentis IDEV-FSD">/testFSD2021</a></strong></div>
+          <pre>Initial commit</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/arch-novnc/commits/74961bfb7a56cb3b89c8213c2b40c33bff351abc" title="2021-08-03T19:35:19.000+02:00" target="_blank">74961bfb</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/arch-novnc" title="Docker container running ArchLinux accessible through novnc in a browser">/arch-novnc</a></strong></div>
           <pre>Merge pull request #1 from billyb2/patch-1
@@ -141,43 +161,11 @@ Pgrogression of blocking enforcement when the date are out of range.
 * Block the display of the form in the frontend
 * Block the entries details</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-gdpr/commits/c8da6008e69b6ac7a845ec16dd13a95e1b818303" title="2021-07-27T15:56:44.000+02:00" target="_blank">c8da6008</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-gdpr" title="WPForms EPFL GDPR is a WPForms addon that add EPFL specific functionalities in relation to the GDPR.">/wpforms-epfl-gdpr</a></strong></div>
-          <pre>[conciergerie] clean up</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-gdpr/commits/59fee160a6f13b4aa8cff7af537247bd2f31f3d4" title="2021-07-26T15:25:41.000+02:00" target="_blank">59fee160</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-gdpr" title="WPForms EPFL GDPR is a WPForms addon that add EPFL specific functionalities in relation to the GDPR.">/wpforms-epfl-gdpr</a></strong></div>
-          <pre>[add] Linter and documentation
-
-* Makefile is now self-documentated (`make help`)
-* PHP_CodeSniffer and WPCS (WordPress Coding Standard) have been brought 
-to the project
-* `.gitignore`updated accordingly
-*</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-courses-se/commits/03055774cc7859748b3d7764be6440228937acb8" title="2021-06-30T14:03:38.000+02:00" target="_blank">03055774</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-courses-se" title="null">/wp-plugin-epfl-courses-se</a></strong></div>
-          <pre>Merge pull request #1 from epfl-si/fix/php-notices
-
-[fix] PHP notices on fresh install</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-courses-se/commits/8dcea1aa779c2cd48ab8976262049a4324c536be" title="2021-06-30T12:47:52.000+02:00" target="_blank">8dcea1aa</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-courses-se" title="null">/wp-plugin-epfl-courses-se</a></strong></div>
-          <pre>[fix] PHP notices on fresh install
-
-Freshly installed on a environnement with debugging on, some notices are 
-displayed on unexisting value. Using the "null coalescing operator" on 
-these values fix that.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 20 Aug 2021 13:45:17 GMT</small>
+<small>⏰ Updated on Mon, 23 Aug 2021 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
