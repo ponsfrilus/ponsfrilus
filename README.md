@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank">nitter</a>&nbsp;<a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank"><img src="https://img.shields.io/github/stars/zedeus/nitter?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/openwebdocs/project" title="project documentation, policies & meeting minutes " target="_blank">project</a>&nbsp;<a href="https://github.com/openwebdocs/project" title="project documentation, policies & meeting minutes " target="_blank"><img src="https://img.shields.io/github/stars/openwebdocs/project?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank">SectorTradingAlgorithm</a>&nbsp;<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank"><img src="https://img.shields.io/github/stars/KibaeKim/SectorTradingAlgorithm?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank">Magisk</a>&nbsp;<a href="https://github.com/topjohnwu/Magisk" title="The Magic Mask for Android" target="_blank"><img src="https://img.shields.io/github/stars/topjohnwu/Magisk?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank">yt-dlp</a>&nbsp;<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank"><img src="https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank">pam-duress</a>&nbsp;<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank"><img src="https://img.shields.io/github/stars/nuvious/pam-duress?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/helix-editor/helix" title="A post-modern modal text editor." target="_blank">helix</a>&nbsp;<a href="https://github.com/helix-editor/helix" title="A post-modern modal text editor." target="_blank"><img src="https://img.shields.io/github/stars/helix-editor/helix?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank">patroni</a>&nbsp;<a href="https://github.com/zalando/patroni" title="A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/zalando/patroni?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -165,7 +165,7 @@ Pgrogression of blocking enforcement when the date are out of range.
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 24 Aug 2021 13:45:14 GMT</small>
+<small>⏰ Updated on Wed, 25 Aug 2021 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
