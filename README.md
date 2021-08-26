@@ -165,7 +165,7 @@ Pgrogression of blocking enforcement when the date are out of range.
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 25 Aug 2021 13:45:19 GMT</small>
+<small>⏰ Updated on Thu, 26 Aug 2021 13:45:14 GMT</small>
 </td>
 </tr>
 </tfoot>
