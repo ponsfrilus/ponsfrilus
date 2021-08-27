@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/f14fba7398aa45df0cff1c3a8c3114ecccd47edf" title="2021-08-27T12:08:06.000+02:00" target="_blank">f14fba73</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="null">/ticketshop.ops</a></strong></div>
+          <pre>[feat] better build and use of idevfsd-checkouter</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/3a48b0e6b838319a019c99ef88e020b1bdac1811" title="2021-08-26T18:43:07.000+02:00" target="_blank">3a48b0e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="null">/ticketshop.ops</a></strong></div>
+          <pre>[WIP]</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/cdb19a0725f5d99b0e6ee2f4286cb131e65709f2" title="2021-08-26T17:30:25.000+02:00" target="_blank">cdb19a07</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="null">/ticketshop.ops</a></strong></div>
+          <pre>Initial commit</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/testFSD2021/commits/8ea14256734291e6f02f82efd55f156cea9fc466" title="2021-08-23T11:00:34.000Z" target="_blank">8ea14256</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/testFSD2021" title="Repo de test pour les nouveaux apprentis IDEV-FSD">/testFSD2021</a></strong></div>
           <pre>Test HTML</pre>
         </td>
@@ -138,34 +153,11 @@ Update to official Arch Linux image</pre>
           <div><strong><a href="https://api.github.com/repos/JaavLex/changelog-maker/commits/60f674e524298975e8ae15ca162c62b1d4ebdd8d" title="2021-08-03T14:47:28.000+02:00" target="_blank">60f674e5</a><a href="https://github.com/JaavLex">@JaavLex</a><a href="https://github.com/JaavLex/changelog-maker" title="A changelog maker, uses commit messages">/changelog-maker</a></strong></div>
           <pre>[feat] Add version based on package.json</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/JaavLex/changelog-maker/commits/4ffb44ec48851756d6c21d30cbae90a38d840703" title="2021-08-03T14:27:37.000+02:00" target="_blank">4ffb44ec</a><a href="https://github.com/JaavLex">@JaavLex</a><a href="https://github.com/JaavLex/changelog-maker" title="A changelog maker, uses commit messages">/changelog-maker</a></strong></div>
-          <pre>[fix] repo's URL</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/JaavLex/changelog-maker/commits/63671fca761a006af4813016e57b84f72b44d90e" title="2021-08-03T14:26:56.000+02:00" target="_blank">63671fca</a><a href="https://github.com/JaavLex">@JaavLex</a><a href="https://github.com/JaavLex/changelog-maker" title="A changelog maker, uses commit messages">/changelog-maker</a></strong></div>
-          <pre>[feat] Markdown preview
-
-This use [marked js](https://github.com/markedjs/marked) to render a
-HTML version of the changelog based on the generated markdown.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-gdpr/commits/103c5a86b4f9c6737dbd85f7be6178feacc3a660" title="2021-07-28T17:54:30.000+02:00" target="_blank">103c5a86</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-gdpr" title="WPForms EPFL GDPR is a WPForms addon that add EPFL specific functionalities in relation to the GDPR.">/wpforms-epfl-gdpr</a></strong></div>
-          <pre>[feature] Block form
-
-Pgrogression of blocking enforcement when the date are out of range.
-
-* Block the display of the form in the frontend
-* Block the entries details</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 26 Aug 2021 13:45:14 GMT</small>
+<small>⏰ Updated on Fri, 27 Aug 2021 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
