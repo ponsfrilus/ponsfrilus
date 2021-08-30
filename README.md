@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank">monkeytype</a>&nbsp;<a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank"><img src="https://img.shields.io/github/stars/Miodec/monkeytype?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank">yt-dlp</a>&nbsp;<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank"><img src="https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank">pam-duress</a>&nbsp;<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank"><img src="https://img.shields.io/github/stars/nuvious/pam-duress?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank">kata-manga</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-manga?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank">LinuxTimeline</a>&nbsp;<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank"><img src="https://img.shields.io/github/stars/FabioLolix/LinuxTimeline?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank">kubectl-tmux-exec</a>&nbsp;<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank"><img src="https://img.shields.io/github/stars/predatorray/kubectl-tmux-exec?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/qutebrowser/qutebrowser" title="A keyboard-driven, vim-like browser based on PyQt5." target="_blank">qutebrowser</a>&nbsp;<a href="https://github.com/qutebrowser/qutebrowser" title="A keyboard-driven, vim-like browser based on PyQt5." target="_blank"><img src="https://img.shields.io/github/stars/qutebrowser/qutebrowser?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank">modern-unix</a>&nbsp;<a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank"><img src="https://img.shields.io/github/stars/ibraheemdev/modern-unix?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank">astro</a>&nbsp;<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank"><img src="https://img.shields.io/github/stars/snowpackjs/astro?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank">webextensions</a>&nbsp;<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank"><img src="https://img.shields.io/github/stars/w3c/webextensions?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank">nitter</a>&nbsp;<a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank"><img src="https://img.shields.io/github/stars/zedeus/nitter?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,23 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank">yt-dlp</a>&nbsp;<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank"><img src="https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank">pam-duress</a>&nbsp;<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank"><img src="https://img.shields.io/github/stars/nuvious/pam-duress?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank">kata-manga</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-manga?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank">LinuxTimeline</a>&nbsp;<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank"><img src="https://img.shields.io/github/stars/FabioLolix/LinuxTimeline?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank">kubectl-tmux-exec</a>&nbsp;<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank"><img src="https://img.shields.io/github/stars/predatorray/kubectl-tmux-exec?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/qutebrowser/qutebrowser" title="A keyboard-driven, vim-like browser based on PyQt5." target="_blank">qutebrowser</a>&nbsp;<a href="https://github.com/qutebrowser/qutebrowser" title="A keyboard-driven, vim-like browser based on PyQt5." target="_blank"><img src="https://img.shields.io/github/stars/qutebrowser/qutebrowser?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank">modern-unix</a>&nbsp;<a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank"><img src="https://img.shields.io/github/stars/ibraheemdev/modern-unix?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank">astro</a>&nbsp;<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank"><img src="https://img.shields.io/github/stars/snowpackjs/astro?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank">webextensions</a>&nbsp;<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank"><img src="https://img.shields.io/github/stars/w3c/webextensions?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/helix-editor/helix" title="A post-modern modal text editor." target="_blank">helix</a>&nbsp;<a href="https://github.com/helix-editor/helix" title="A post-modern modal text editor." target="_blank"><img src="https://img.shields.io/github/stars/helix-editor/helix?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/2d53e209fbf7e08c43a01676d13b9adeec2a1bce" title="2021-08-27T16:57:41.000+02:00" target="_blank">2d53e209</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="null">/ticketshop.ops</a></strong></div>
+          <pre>[add] ticketshop perl modoules
+
+HTML::Template and JSON::SL are required by the application.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/e440dfd99bd3cd3d1fdab732d3f2013cd2ad7af2" title="2021-08-27T16:53:31.000+02:00" target="_blank">e440dfd9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="null">/ticketshop.ops</a></strong></div>
+          <pre>[fix] gitignore with python and macosx jam</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/f14fba7398aa45df0cff1c3a8c3114ecccd47edf" title="2021-08-27T12:08:06.000+02:00" target="_blank">f14fba73</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="null">/ticketshop.ops</a></strong></div>
           <pre>[feat] better build and use of idevfsd-checkouter</pre>
@@ -143,21 +155,11 @@
 
 Update to official Arch Linux image</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/JaavLex/changelog-maker/commits/b737212cd75f58b6560906e73e2c1cd8165cdf02" title="2021-08-03T14:49:59.000+02:00" target="_blank">b737212c</a><a href="https://github.com/JaavLex">@JaavLex</a><a href="https://github.com/JaavLex/changelog-maker" title="A changelog maker, uses commit messages">/changelog-maker</a></strong></div>
-          <pre>[add] favicon.ico</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/JaavLex/changelog-maker/commits/60f674e524298975e8ae15ca162c62b1d4ebdd8d" title="2021-08-03T14:47:28.000+02:00" target="_blank">60f674e5</a><a href="https://github.com/JaavLex">@JaavLex</a><a href="https://github.com/JaavLex/changelog-maker" title="A changelog maker, uses commit messages">/changelog-maker</a></strong></div>
-          <pre>[feat] Add version based on package.json</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 27 Aug 2021 13:45:11 GMT</small>
+<small>⏰ Updated on Mon, 30 Aug 2021 13:45:25 GMT</small>
 </td>
 </tr>
 </tfoot>
