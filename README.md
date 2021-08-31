@@ -159,7 +159,7 @@ Update to official Arch Linux image</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 30 Aug 2021 13:45:25 GMT</small>
+<small>⏰ Updated on Tue, 31 Aug 2021 13:45:14 GMT</small>
 </td>
 </tr>
 </tfoot>
