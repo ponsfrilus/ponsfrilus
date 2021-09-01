@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 11 years and 7 months.
+    <br />Apparently, I'm hanging around on GitHub since 11 years and 8 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -29,6 +29,40 @@
 <td colspan="2" align="center"><h4>My last starred repos</h4></td>
 </tr>
 <tr>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/Azecko/BotoNews" title="Bot news telegram" target="_blank">BotoNews</a>&nbsp;<a href="https://github.com/Azecko/BotoNews" title="Bot news telegram" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/BotoNews?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank">nitter</a>&nbsp;<a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank"><img src="https://img.shields.io/github/stars/zedeus/nitter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/openwebdocs/project" title="project documentation, policies & meeting minutes " target="_blank">project</a>&nbsp;<a href="https://github.com/openwebdocs/project" title="project documentation, policies & meeting minutes " target="_blank"><img src="https://img.shields.io/github/stars/openwebdocs/project?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank">markmap</a>&nbsp;<a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank"><img src="https://img.shields.io/github/stars/gera2ld/markmap?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ffmpegwasm/ffmpeg.wasm" title="FFmpeg for browser and node, powered by WebAssembly" target="_blank">ffmpeg.wasm</a>&nbsp;<a href="https://github.com/ffmpegwasm/ffmpeg.wasm" title="FFmpeg for browser and node, powered by WebAssembly" target="_blank"><img src="https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank">kong</a>&nbsp;<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank"><img src="https://img.shields.io/github/stars/Kong/kong?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank">responsively-app</a>&nbsp;<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank"><img src="https://img.shields.io/github/stars/responsively-org/responsively-app?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank">keep-a-changelog</a>&nbsp;<a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank"><img src="https://img.shields.io/github/stars/olivierlacan/keep-a-changelog?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank">terraform</a>&nbsp;<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank">quine-relay</a>&nbsp;<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank"><img src="https://img.shields.io/github/stars/mame/quine-relay?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
 <td valign="top">
 <ul>
 <li>
@@ -63,45 +97,42 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank">nitter</a>&nbsp;<a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank"><img src="https://img.shields.io/github/stars/zedeus/nitter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/openwebdocs/project" title="project documentation, policies & meeting minutes " target="_blank">project</a>&nbsp;<a href="https://github.com/openwebdocs/project" title="project documentation, policies & meeting minutes " target="_blank"><img src="https://img.shields.io/github/stars/openwebdocs/project?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank">markmap</a>&nbsp;<a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank"><img src="https://img.shields.io/github/stars/gera2ld/markmap?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ffmpegwasm/ffmpeg.wasm" title="FFmpeg for browser and node, powered by WebAssembly" target="_blank">ffmpeg.wasm</a>&nbsp;<a href="https://github.com/ffmpegwasm/ffmpeg.wasm" title="FFmpeg for browser and node, powered by WebAssembly" target="_blank"><img src="https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank">kong</a>&nbsp;<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank"><img src="https://img.shields.io/github/stars/Kong/kong?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank">responsively-app</a>&nbsp;<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank"><img src="https://img.shields.io/github/stars/responsively-org/responsively-app?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank">keep-a-changelog</a>&nbsp;<a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank"><img src="https://img.shields.io/github/stars/olivierlacan/keep-a-changelog?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank">terraform</a>&nbsp;<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank">quine-relay</a>&nbsp;<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank"><img src="https://img.shields.io/github/stars/mame/quine-relay?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank">SectorTradingAlgorithm</a>&nbsp;<a href="https://github.com/KibaeKim/SectorTradingAlgorithm" title="null" target="_blank"><img src="https://img.shields.io/github/stars/KibaeKim/SectorTradingAlgorithm?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/664cb482b57ec41cfeadd402f00ff949f9076e13" title="2021-09-01T09:06:27.000+02:00" target="_blank">664cb482</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
+          <pre>[add] cffsible, paysible and possible...
+
+... and the "Is it any good" FAQ entry.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/a9f355a79659ddf26b80100144254326d513c983" title="2021-09-01T08:37:13.000+02:00" target="_blank">a9f355a7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #446 from epfl-si/fix/445-settagline-quotes
+
+[fix] Tagline quotes</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/7f9b9afead09c66a265072b9b0fdc1a963e420f5" title="2021-09-01T08:22:13.000+02:00" target="_blank">7f9b9afe</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] Site's title quotes
+
+Likewise the previous commit (4de5df3c), this allow to have quotes in 
+the site's title.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/4de5df3c125dd771b196228932d39bf724019ecb" title="2021-09-01T07:57:08.000+02:00" target="_blank">4de5df3c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] Tagline quotes
+
+Some quoting gymnastics to deal with quotes in site's tagline.
+
+This fixes #445.</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/2d53e209fbf7e08c43a01676d13b9adeec2a1bce" title="2021-08-27T16:57:41.000+02:00" target="_blank">2d53e209</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="null">/ticketshop.ops</a></strong></div>
           <pre>[add] ticketshop perl modoules
@@ -133,33 +164,11 @@ HTML::Template and JSON::SL are required by the application.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/testFSD2021/commits/8ea14256734291e6f02f82efd55f156cea9fc466" title="2021-08-23T11:00:34.000Z" target="_blank">8ea14256</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/testFSD2021" title="Repo de test pour les nouveaux apprentis IDEV-FSD">/testFSD2021</a></strong></div>
           <pre>Test HTML</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/testFSD2021/commits/e1e23655bba39b918a53e0d30b3fa49434a63f68" title="2021-08-23T10:58:58.000+02:00" target="_blank">e1e23655</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/testFSD2021" title="Repo de test pour les nouveaux apprentis IDEV-FSD">/testFSD2021</a></strong></div>
-          <pre>Mise à jour + ajout d'un titre</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/testFSD2021/commits/a5e9119340ef38e927262ceb518fe99c13e91e1a" title="2021-08-23T10:39:28.000+02:00" target="_blank">a5e91193</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/testFSD2021" title="Repo de test pour les nouveaux apprentis IDEV-FSD">/testFSD2021</a></strong></div>
-          <pre>Add @ponsfrilus</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/testFSD2021/commits/7dc9debeb06a963e86b3cd8ff95c6cdc2c6b133d" title="2021-08-23T10:32:46.000+02:00" target="_blank">7dc9debe</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/testFSD2021" title="Repo de test pour les nouveaux apprentis IDEV-FSD">/testFSD2021</a></strong></div>
-          <pre>Initial commit</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/arch-novnc/commits/74961bfb7a56cb3b89c8213c2b40c33bff351abc" title="2021-08-03T19:35:19.000+02:00" target="_blank">74961bfb</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/arch-novnc" title="Docker container running ArchLinux accessible through novnc in a browser">/arch-novnc</a></strong></div>
-          <pre>Merge pull request #1 from billyb2/patch-1
-
-Update to official Arch Linux image</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 31 Aug 2021 13:45:14 GMT</small>
+<small>⏰ Updated on Wed, 01 Sep 2021 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
