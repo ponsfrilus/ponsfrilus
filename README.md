@@ -103,6 +103,30 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/197f423e3c8794d77e1b7d1d144d804c1b0f1742" title="2021-09-02T15:40:37.000+02:00" target="_blank">197f423e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[feat] build / run
+
+This uses a apache configuration file templated by ansible in order to 
+be able to keep the same image both for production and others 
+environments.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/6d4d98c6fb6f2e12dd53d2707d1df3c292d4e480" title="2021-09-02T15:38:41.000+02:00" target="_blank">6d4d98c6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] Dockerfile</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/7ecbc36f9592e4cd411c17a85f831fbec228fd6b" title="2021-09-02T15:22:22.000+02:00" target="_blank">7ecbc36f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] inventories</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/7c2990f86d6033d1d21920f6112d68ab2204441a" title="2021-09-02T15:21:16.000+02:00" target="_blank">7c2990f8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[feat] test/prod management</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/664cb482b57ec41cfeadd402f00ff949f9076e13" title="2021-09-01T09:06:27.000+02:00" target="_blank">664cb482</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
           <pre>[add] cffsible, paysible and possible...
 
@@ -134,41 +158,21 @@ This fixes #445.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/2d53e209fbf7e08c43a01676d13b9adeec2a1bce" title="2021-08-27T16:57:41.000+02:00" target="_blank">2d53e209</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="null">/ticketshop.ops</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/2d53e209fbf7e08c43a01676d13b9adeec2a1bce" title="2021-08-27T16:57:41.000+02:00" target="_blank">2d53e209</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[add] ticketshop perl modoules
 
 HTML::Template and JSON::SL are required by the application.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/e440dfd99bd3cd3d1fdab732d3f2013cd2ad7af2" title="2021-08-27T16:53:31.000+02:00" target="_blank">e440dfd9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="null">/ticketshop.ops</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/e440dfd99bd3cd3d1fdab732d3f2013cd2ad7af2" title="2021-08-27T16:53:31.000+02:00" target="_blank">e440dfd9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[fix] gitignore with python and macosx jam</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/f14fba7398aa45df0cff1c3a8c3114ecccd47edf" title="2021-08-27T12:08:06.000+02:00" target="_blank">f14fba73</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="null">/ticketshop.ops</a></strong></div>
-          <pre>[feat] better build and use of idevfsd-checkouter</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/3a48b0e6b838319a019c99ef88e020b1bdac1811" title="2021-08-26T18:43:07.000+02:00" target="_blank">3a48b0e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="null">/ticketshop.ops</a></strong></div>
-          <pre>[WIP]</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/cdb19a0725f5d99b0e6ee2f4286cb131e65709f2" title="2021-08-26T17:30:25.000+02:00" target="_blank">cdb19a07</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="null">/ticketshop.ops</a></strong></div>
-          <pre>Initial commit</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/testFSD2021/commits/8ea14256734291e6f02f82efd55f156cea9fc466" title="2021-08-23T11:00:34.000Z" target="_blank">8ea14256</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/testFSD2021" title="Repo de test pour les nouveaux apprentis IDEV-FSD">/testFSD2021</a></strong></div>
-          <pre>Test HTML</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 01 Sep 2021 13:45:19 GMT</small>
+<small>⏰ Updated on Thu, 02 Sep 2021 13:45:18 GMT</small>
 </td>
 </tr>
 </tfoot>
