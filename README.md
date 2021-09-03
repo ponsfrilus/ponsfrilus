@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/a65fb04e2e97238cf5091406d634fc4948e9ca34" title="2021-09-02T17:02:33.000+02:00" target="_blank">a65fb04e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[comfort] Working dir</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/9014f93d3c5a44af0754ec63346682281b1a72a7" title="2021-09-02T17:02:11.000+02:00" target="_blank">9014f93d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] LogLevel</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/9ca4e9207ca2f0090175e201d03d62f9e832e891" title="2021-09-02T17:01:52.000+02:00" target="_blank">9ca4e920</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] ServerAlias</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/197f423e3c8794d77e1b7d1d144d804c1b0f1742" title="2021-09-02T15:40:37.000+02:00" target="_blank">197f423e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[feat] build / run
 
@@ -147,32 +162,11 @@ environments.</pre>
 Likewise the previous commit (4de5df3c), this allow to have quotes in 
 the site's title.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/4de5df3c125dd771b196228932d39bf724019ecb" title="2021-09-01T07:57:08.000+02:00" target="_blank">4de5df3c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] Tagline quotes
-
-Some quoting gymnastics to deal with quotes in site's tagline.
-
-This fixes #445.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/2d53e209fbf7e08c43a01676d13b9adeec2a1bce" title="2021-08-27T16:57:41.000+02:00" target="_blank">2d53e209</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[add] ticketshop perl modoules
-
-HTML::Template and JSON::SL are required by the application.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/e440dfd99bd3cd3d1fdab732d3f2013cd2ad7af2" title="2021-08-27T16:53:31.000+02:00" target="_blank">e440dfd9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] gitignore with python and macosx jam</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 02 Sep 2021 13:45:18 GMT</small>
+<small>⏰ Updated on Fri, 03 Sep 2021 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
