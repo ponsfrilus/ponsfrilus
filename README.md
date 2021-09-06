@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/krakrukra/PocketAdmin" title="oshw keystroke injection device ( badusb )" target="_blank">PocketAdmin</a>&nbsp;<a href="https://github.com/krakrukra/PocketAdmin" title="oshw keystroke injection device ( badusb )" target="_blank"><img src="https://img.shields.io/github/stars/krakrukra/PocketAdmin?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/Azecko/BotoNews" title="Bot news telegram" target="_blank">BotoNews</a>&nbsp;<a href="https://github.com/Azecko/BotoNews" title="Bot news telegram" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/BotoNews?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank">terraform</a>&nbsp;<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank">quine-relay</a>&nbsp;<a href="https://github.com/mame/quine-relay" title="An uroboros program with 100+ programming languages" target="_blank"><img src="https://img.shields.io/github/stars/mame/quine-relay?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank">git-cliff</a>&nbsp;<a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank"><img src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank">monkeytype</a>&nbsp;<a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank"><img src="https://img.shields.io/github/stars/Miodec/monkeytype?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank">astro</a>&nbsp;<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank"><img src="https://img.shields.io/github/stars/snowpackjs/astro?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank">webextensions</a>&nbsp;<a href="https://github.com/w3c/webextensions" title="Charter and administrivia for the WebExtensions Community Group (WECG)" target="_blank"><img src="https://img.shields.io/github/stars/w3c/webextensions?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,21 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/0e0f776d102dde298052feef974b328e4739bb7f" title="2021-09-03T17:21:19.000+02:00" target="_blank">0e0f776d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[k8s] dbs.conf and access_conf secret management</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/8a39fb95a0c3524617c096dd6e235e06619e7640" title="2021-09-03T17:20:55.000+02:00" target="_blank">8a39fb95</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[dirty] dir chmod</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/fb04e340505641d10f4be86516ab6b4ae0fc0e15" title="2021-09-03T17:20:38.000+02:00" target="_blank">fb04e340</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] htdocs dir access granted</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/a65fb04e2e97238cf5091406d634fc4948e9ca34" title="2021-09-02T17:02:33.000+02:00" target="_blank">a65fb04e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[comfort] Working dir</pre>
@@ -140,33 +155,11 @@ environments.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/7c2990f86d6033d1d21920f6112d68ab2204441a" title="2021-09-02T15:21:16.000+02:00" target="_blank">7c2990f8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[feat] test/prod management</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/664cb482b57ec41cfeadd402f00ff949f9076e13" title="2021-09-01T09:06:27.000+02:00" target="_blank">664cb482</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
-          <pre>[add] cffsible, paysible and possible...
-
-... and the "Is it any good" FAQ entry.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/a9f355a79659ddf26b80100144254326d513c983" title="2021-09-01T08:37:13.000+02:00" target="_blank">a9f355a7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #446 from epfl-si/fix/445-settagline-quotes
-
-[fix] Tagline quotes</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/7f9b9afead09c66a265072b9b0fdc1a963e420f5" title="2021-09-01T08:22:13.000+02:00" target="_blank">7f9b9afe</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] Site's title quotes
-
-Likewise the previous commit (4de5df3c), this allow to have quotes in 
-the site's title.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 03 Sep 2021 13:45:15 GMT</small>
+<small>⏰ Updated on Mon, 06 Sep 2021 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
