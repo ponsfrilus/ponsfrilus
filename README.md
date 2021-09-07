@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/Kata-APOD/commits/ab93867886cea462863a0361259b18a26f586974" title="2021-09-07T13:09:05.000+02:00" target="_blank">ab938678</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser">/Kata-APOD</a></strong></div>
+          <pre>Kata APOD</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/0e0f776d102dde298052feef974b328e4739bb7f" title="2021-09-03T17:21:19.000+02:00" target="_blank">0e0f776d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[k8s] dbs.conf and access_conf secret management</pre>
         </td>
@@ -150,16 +155,11 @@ environments.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/7ecbc36f9592e4cd411c17a85f831fbec228fd6b" title="2021-09-02T15:22:22.000+02:00" target="_blank">7ecbc36f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[fix] inventories</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/7c2990f86d6033d1d21920f6112d68ab2204441a" title="2021-09-02T15:21:16.000+02:00" target="_blank">7c2990f8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[feat] test/prod management</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 06 Sep 2021 13:45:15 GMT</small>
+<small>⏰ Updated on Tue, 07 Sep 2021 13:45:17 GMT</small>
 </td>
 </tr>
 </tfoot>
