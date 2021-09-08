@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank">htmlq</a>&nbsp;<a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank"><img src="https://img.shields.io/github/stars/mgdm/htmlq?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/krakrukra/PocketAdmin" title="oshw keystroke injection device ( badusb )" target="_blank">PocketAdmin</a>&nbsp;<a href="https://github.com/krakrukra/PocketAdmin" title="oshw keystroke injection device ( badusb )" target="_blank"><img src="https://img.shields.io/github/stars/krakrukra/PocketAdmin?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank">keep-a-changelog</a>&nbsp;<a href="https://github.com/olivierlacan/keep-a-changelog" title="If you build software, keep a changelog." target="_blank"><img src="https://img.shields.io/github/stars/olivierlacan/keep-a-changelog?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank">terraform</a>&nbsp;<a href="https://github.com/hashicorp/terraform" title="Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned." target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank">git-cliff</a>&nbsp;<a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank"><img src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank">modern-unix</a>&nbsp;<a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank"><img src="https://img.shields.io/github/stars/ibraheemdev/modern-unix?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank">astro</a>&nbsp;<a href="https://github.com/snowpackjs/astro" title="🚀🧑‍🚀 Keep your eyes to the skies, astronauts!" target="_blank"><img src="https://img.shields.io/github/stars/snowpackjs/astro?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -159,7 +159,7 @@ environments.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 07 Sep 2021 13:45:17 GMT</small>
+<small>⏰ Updated on Wed, 08 Sep 2021 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
