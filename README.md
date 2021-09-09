@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/doctorray117/minecraft-ondemand" title="Templates to deploy a serverless Minecraft Server on demand in AWS" target="_blank">minecraft-ondemand</a>&nbsp;<a href="https://github.com/doctorray117/minecraft-ondemand" title="Templates to deploy a serverless Minecraft Server on demand in AWS" target="_blank"><img src="https://img.shields.io/github/stars/doctorray117/minecraft-ondemand?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank">git-cliff</a>&nbsp;<a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank"><img src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank">monkeytype</a>&nbsp;<a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank"><img src="https://img.shields.io/github/stars/Miodec/monkeytype?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank">yt-dlp</a>&nbsp;<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank"><img src="https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank">pam-duress</a>&nbsp;<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank"><img src="https://img.shields.io/github/stars/nuvious/pam-duress?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank">kata-manga</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-manga?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank">LinuxTimeline</a>&nbsp;<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank"><img src="https://img.shields.io/github/stars/FabioLolix/LinuxTimeline?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank">kubectl-tmux-exec</a>&nbsp;<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank"><img src="https://img.shields.io/github/stars/predatorray/kubectl-tmux-exec?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/qutebrowser/qutebrowser" title="A keyboard-driven, vim-like browser based on PyQt5." target="_blank">qutebrowser</a>&nbsp;<a href="https://github.com/qutebrowser/qutebrowser" title="A keyboard-driven, vim-like browser based on PyQt5." target="_blank"><img src="https://img.shields.io/github/stars/qutebrowser/qutebrowser?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank">htmlq</a>&nbsp;<a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank"><img src="https://img.shields.io/github/stars/mgdm/htmlq?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,24 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank">git-cliff</a>&nbsp;<a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank"><img src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank">monkeytype</a>&nbsp;<a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank"><img src="https://img.shields.io/github/stars/Miodec/monkeytype?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank">yt-dlp</a>&nbsp;<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank"><img src="https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank">pam-duress</a>&nbsp;<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank"><img src="https://img.shields.io/github/stars/nuvious/pam-duress?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank">kata-manga</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-manga?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank">LinuxTimeline</a>&nbsp;<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank"><img src="https://img.shields.io/github/stars/FabioLolix/LinuxTimeline?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank">kubectl-tmux-exec</a>&nbsp;<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank"><img src="https://img.shields.io/github/stars/predatorray/kubectl-tmux-exec?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/qutebrowser/qutebrowser" title="A keyboard-driven, vim-like browser based on PyQt5." target="_blank">qutebrowser</a>&nbsp;<a href="https://github.com/qutebrowser/qutebrowser" title="A keyboard-driven, vim-like browser based on PyQt5." target="_blank"><img src="https://img.shields.io/github/stars/qutebrowser/qutebrowser?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank">modern-unix</a>&nbsp;<a href="https://github.com/ibraheemdev/modern-unix" title="A collection of modern/faster/saner alternatives to common unix commands." target="_blank"><img src="https://img.shields.io/github/stars/ibraheemdev/modern-unix?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/Kata-APOD/commits/49336be81e11ca66741bbba2d4d8adad10981161" title="2021-09-09T09:05:05.000+02:00" target="_blank">49336be8</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser">/Kata-APOD</a></strong></div>
+          <pre>[doc] réorganisation
+
+* Réorganisation (maquette après réalisation)
+* Ajout de `<>` autour des liens non markdownifiés
+* Amélioration de la consigne (checklist) concernant les médias (image 
+ou vidéo)
+* Ajout de l'information concernant le copyright par défaut
+* Proposition de commentaire sous "Je l'ai fait"
+* Typo/Ortho</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/Kata-APOD/commits/ab93867886cea462863a0361259b18a26f586974" title="2021-09-07T13:09:05.000+02:00" target="_blank">ab938678</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser">/Kata-APOD</a></strong></div>
           <pre>Kata APOD</pre>
@@ -150,16 +163,11 @@ environments.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/6d4d98c6fb6f2e12dd53d2707d1df3c292d4e480" title="2021-09-02T15:38:41.000+02:00" target="_blank">6d4d98c6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[fix] Dockerfile</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/7ecbc36f9592e4cd411c17a85f831fbec228fd6b" title="2021-09-02T15:22:22.000+02:00" target="_blank">7ecbc36f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] inventories</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 08 Sep 2021 13:45:19 GMT</small>
+<small>⏰ Updated on Thu, 09 Sep 2021 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
