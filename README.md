@@ -103,6 +103,20 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/39d9e50ff69a30ea0fa8232e4a7bd0bca36f2238" title="2021-09-09T17:31:15.000+02:00" target="_blank">39d9e50f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] Tequila's session directory</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/9b9f344da21527f1479642df111ba71334fc40b6" title="2021-09-09T17:31:02.000+02:00" target="_blank">9b9f344d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[feat]  git switch branch
+
+* use `ticketshop_git_branch` to switch to `dev` branch when in the 
+openshift's test namespace
+* add a temporary marker file</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/Kata-APOD/commits/49336be81e11ca66741bbba2d4d8adad10981161" title="2021-09-09T09:05:05.000+02:00" target="_blank">49336be8</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser">/Kata-APOD</a></strong></div>
           <pre>[doc] réorganisation
 
@@ -149,25 +163,11 @@ ou vidéo)
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/9ca4e9207ca2f0090175e201d03d62f9e832e891" title="2021-09-02T17:01:52.000+02:00" target="_blank">9ca4e920</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[fix] ServerAlias</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/197f423e3c8794d77e1b7d1d144d804c1b0f1742" title="2021-09-02T15:40:37.000+02:00" target="_blank">197f423e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[feat] build / run
-
-This uses a apache configuration file templated by ansible in order to 
-be able to keep the same image both for production and others 
-environments.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/6d4d98c6fb6f2e12dd53d2707d1df3c292d4e480" title="2021-09-02T15:38:41.000+02:00" target="_blank">6d4d98c6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] Dockerfile</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 09 Sep 2021 13:45:15 GMT</small>
+<small>⏰ Updated on Fri, 10 Sep 2021 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
