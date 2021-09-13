@@ -103,6 +103,23 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/8ee2be53f7dac0169b20017a4845fd575d0932be" title="2021-09-13T10:12:39.000+02:00" target="_blank">8ee2be53</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>Update README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/38641fe3136cca09e3c850dae5fc064603cd53cf" title="2021-09-13T10:11:23.000+02:00" target="_blank">38641fe3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>Initial commit</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/Kata-APOD/commits/73f1fff86f11625fb0d4446582aa246cd19e8f78" title="2021-09-10T17:12:04.000+02:00" target="_blank">73f1fff8</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser">/Kata-APOD</a></strong></div>
+          <pre>Merge pull request #1 from epfl-dojo/Azecko-patch-1
+
+Update README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/39d9e50ff69a30ea0fa8232e4a7bd0bca36f2238" title="2021-09-09T17:31:15.000+02:00" target="_blank">39d9e50f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[fix] Tequila's session directory</pre>
         </td>
@@ -148,26 +165,11 @@ ou vidéo)
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/fb04e340505641d10f4be86516ab6b4ae0fc0e15" title="2021-09-03T17:20:38.000+02:00" target="_blank">fb04e340</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[fix] htdocs dir access granted</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/a65fb04e2e97238cf5091406d634fc4948e9ca34" title="2021-09-02T17:02:33.000+02:00" target="_blank">a65fb04e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[comfort] Working dir</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/9014f93d3c5a44af0754ec63346682281b1a72a7" title="2021-09-02T17:02:11.000+02:00" target="_blank">9014f93d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] LogLevel</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/9ca4e9207ca2f0090175e201d03d62f9e832e891" title="2021-09-02T17:01:52.000+02:00" target="_blank">9ca4e920</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] ServerAlias</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 10 Sep 2021 13:45:16 GMT</small>
+<small>⏰ Updated on Mon, 13 Sep 2021 13:45:26 GMT</small>
 </td>
 </tr>
 </tfoot>
