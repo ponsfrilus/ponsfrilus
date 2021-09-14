@@ -103,6 +103,15 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/2048nginx/commits/cbb58d1da3664a9a79912b661d960325301e3ef5" title="2021-09-14T12:42:58.000+02:00" target="_blank">cbb58d1d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/2048nginx" title="A docker demo with 2048 game and nginx">/2048nginx</a></strong></div>
+          <pre>2021 update
+
+Use git clone in the docker file and makes a fully stateless container 
+with the 2048 games. The README.md (in french) explain every step and 
+can be used for teaching purpose.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/8ee2be53f7dac0169b20017a4845fd575d0932be" title="2021-09-13T10:12:39.000+02:00" target="_blank">8ee2be53</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
           <pre>Update README.md</pre>
         </td>
@@ -160,16 +169,11 @@ ou vidéo)
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/8a39fb95a0c3524617c096dd6e235e06619e7640" title="2021-09-03T17:20:55.000+02:00" target="_blank">8a39fb95</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[dirty] dir chmod</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/fb04e340505641d10f4be86516ab6b4ae0fc0e15" title="2021-09-03T17:20:38.000+02:00" target="_blank">fb04e340</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] htdocs dir access granted</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 13 Sep 2021 13:45:26 GMT</small>
+<small>⏰ Updated on Tue, 14 Sep 2021 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
