@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/crazylady2004/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives" target="_blank">Kata-FMW</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-FMW?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank">htmlq</a>&nbsp;<a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank"><img src="https://img.shields.io/github/stars/mgdm/htmlq?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/krakrukra/PocketAdmin" title="oshw keystroke injection device ( badusb )" target="_blank">PocketAdmin</a>&nbsp;<a href="https://github.com/krakrukra/PocketAdmin" title="oshw keystroke injection device ( badusb )" target="_blank"><img src="https://img.shields.io/github/stars/krakrukra/PocketAdmin?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/BotoNews" title="Bot news telegram" target="_blank">BotoNews</a>&nbsp;<a href="https://github.com/Azecko/BotoNews" title="Bot news telegram" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/BotoNews?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank">nitter</a>&nbsp;<a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank"><img src="https://img.shields.io/github/stars/zedeus/nitter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/openwebdocs/project" title="project documentation, policies & meeting minutes " target="_blank">project</a>&nbsp;<a href="https://github.com/openwebdocs/project" title="project documentation, policies & meeting minutes " target="_blank"><img src="https://img.shields.io/github/stars/openwebdocs/project?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank">markmap</a>&nbsp;<a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank"><img src="https://img.shields.io/github/stars/gera2ld/markmap?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ffmpegwasm/ffmpeg.wasm" title="FFmpeg for browser and node, powered by WebAssembly" target="_blank">ffmpeg.wasm</a>&nbsp;<a href="https://github.com/ffmpegwasm/ffmpeg.wasm" title="FFmpeg for browser and node, powered by WebAssembly" target="_blank"><img src="https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank">kong</a>&nbsp;<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank"><img src="https://img.shields.io/github/stars/Kong/kong?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank">thefuck</a>&nbsp;<a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank"><img src="https://img.shields.io/github/stars/nvbn/thefuck?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,21 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives" target="_blank">Kata-FMW</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-FMW?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank">htmlq</a>&nbsp;<a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank"><img src="https://img.shields.io/github/stars/mgdm/htmlq?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/krakrukra/PocketAdmin" title="oshw keystroke injection device ( badusb )" target="_blank">PocketAdmin</a>&nbsp;<a href="https://github.com/krakrukra/PocketAdmin" title="oshw keystroke injection device ( badusb )" target="_blank"><img src="https://img.shields.io/github/stars/krakrukra/PocketAdmin?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/BotoNews" title="Bot news telegram" target="_blank">BotoNews</a>&nbsp;<a href="https://github.com/Azecko/BotoNews" title="Bot news telegram" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/BotoNews?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank">nitter</a>&nbsp;<a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank"><img src="https://img.shields.io/github/stars/zedeus/nitter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/openwebdocs/project" title="project documentation, policies & meeting minutes " target="_blank">project</a>&nbsp;<a href="https://github.com/openwebdocs/project" title="project documentation, policies & meeting minutes " target="_blank"><img src="https://img.shields.io/github/stars/openwebdocs/project?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank">markmap</a>&nbsp;<a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank"><img src="https://img.shields.io/github/stars/gera2ld/markmap?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ffmpegwasm/ffmpeg.wasm" title="FFmpeg for browser and node, powered by WebAssembly" target="_blank">ffmpeg.wasm</a>&nbsp;<a href="https://github.com/ffmpegwasm/ffmpeg.wasm" title="FFmpeg for browser and node, powered by WebAssembly" target="_blank"><img src="https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank">kong</a>&nbsp;<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank"><img src="https://img.shields.io/github/stars/Kong/kong?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank">responsively-app</a>&nbsp;<a href="https://github.com/responsively-org/responsively-app" title="A modified web browser that helps in responsive web development. A web developer's must have dev-tool." target="_blank"><img src="https://img.shields.io/github/stars/responsively-org/responsively-app?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/6b1f68c140f7d0e1f50ac6b285dd8d7e7a4de272" title="2021-09-16T17:46:38.000+02:00" target="_blank">6b1f68c1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[doc] README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/b801f6f7b18c2315d2b5411c7142cf47778f834f" title="2021-09-16T17:46:30.000+02:00" target="_blank">b801f6f7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix]`-t ticketshop.secrets`</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/a4f5cc8f63389c8333370b4b428b391d5282be25" title="2021-09-16T09:48:04.000+02:00" target="_blank">a4f5cc8f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[refactor] image name minus idevfsd</pre>
@@ -147,25 +157,11 @@ Implicit rebuild when build config changes</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/Kata-FMW/commits/56645b2ece7a510ea124dcb7917729a8b6960d26" title="2021-09-14T16:16:03.000+02:00" target="_blank">56645b2e</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives">/Kata-FMW</a></strong></div>
           <pre>FMW pic added</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/Kata-FMW/commits/f58a93ad1758300b3eab7f4c77ca42b994835900" title="2021-09-14T16:12:26.000+02:00" target="_blank">f58a93ad</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives">/Kata-FMW</a></strong></div>
-          <pre>A wild kata appeared</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/2048nginx/commits/cbb58d1da3664a9a79912b661d960325301e3ef5" title="2021-09-14T12:42:58.000+02:00" target="_blank">cbb58d1d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/2048nginx" title="A docker demo with 2048 game and nginx">/2048nginx</a></strong></div>
-          <pre>2021 update
-
-Use git clone in the docker file and makes a fully stateless container 
-with the 2048 games. The README.md (in french) explain every step and 
-can be used for teaching purpose.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 16 Sep 2021 13:45:26 GMT</small>
+<small>⏰ Updated on Fri, 17 Sep 2021 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
