@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-fleche/commits/6e23e0642531e4655cceb8e11b17fec5916f8e12" title="2021-09-17T17:07:09.000+02:00" target="_blank">6e23e064</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur">/kata-fleche</a></strong></div>
+          <pre>Merge pull request #33 from D4rkHeart/master
+
+[Node.js] Added a new version of the kata arrow .</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/6b1f68c140f7d0e1f50ac6b285dd8d7e7a4de272" title="2021-09-16T17:46:38.000+02:00" target="_blank">6b1f68c1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[doc] README.md</pre>
         </td>
@@ -152,16 +159,11 @@ Implicit rebuild when build config changes</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/93dd167d6f665cd8551713c3abe176fadc059f65" title="2021-09-15T18:27:47.000+02:00" target="_blank">93dd167d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[feature] add routes</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/Kata-FMW/commits/56645b2ece7a510ea124dcb7917729a8b6960d26" title="2021-09-14T16:16:03.000+02:00" target="_blank">56645b2e</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives">/Kata-FMW</a></strong></div>
-          <pre>FMW pic added</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 17 Sep 2021 13:45:15 GMT</small>
+<small>⏰ Updated on Mon, 20 Sep 2021 13:45:17 GMT</small>
 </td>
 </tr>
 </tfoot>
