@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/ClickHouse/ClickHouse" title="ClickHouse® is a free analytics DBMS for big data" target="_blank">ClickHouse</a>&nbsp;<a href="https://github.com/ClickHouse/ClickHouse" title="ClickHouse® is a free analytics DBMS for big data" target="_blank"><img src="https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank">thefuck</a>&nbsp;<a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank"><img src="https://img.shields.io/github/stars/nvbn/thefuck?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/doctorray117/minecraft-ondemand" title="Templates to deploy a serverless Minecraft Server on demand in AWS" target="_blank">minecraft-ondemand</a>&nbsp;<a href="https://github.com/doctorray117/minecraft-ondemand" title="Templates to deploy a serverless Minecraft Server on demand in AWS" target="_blank"><img src="https://img.shields.io/github/stars/doctorray117/minecraft-ondemand?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank">git-cliff</a>&nbsp;<a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank"><img src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank">monkeytype</a>&nbsp;<a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank"><img src="https://img.shields.io/github/stars/Miodec/monkeytype?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank">yt-dlp</a>&nbsp;<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank"><img src="https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank">pam-duress</a>&nbsp;<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank"><img src="https://img.shields.io/github/stars/nuvious/pam-duress?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank">kata-manga</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-manga?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank">LinuxTimeline</a>&nbsp;<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank"><img src="https://img.shields.io/github/stars/FabioLolix/LinuxTimeline?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/crazylady2004/Kata-APOD?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank">kong</a>&nbsp;<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank"><img src="https://img.shields.io/github/stars/Kong/kong?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank">thefuck</a>&nbsp;<a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank"><img src="https://img.shields.io/github/stars/nvbn/thefuck?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/doctorray117/minecraft-ondemand" title="Templates to deploy a serverless Minecraft Server on demand in AWS" target="_blank">minecraft-ondemand</a>&nbsp;<a href="https://github.com/doctorray117/minecraft-ondemand" title="Templates to deploy a serverless Minecraft Server on demand in AWS" target="_blank"><img src="https://img.shields.io/github/stars/doctorray117/minecraft-ondemand?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank">git-cliff</a>&nbsp;<a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank"><img src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank">monkeytype</a>&nbsp;<a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank"><img src="https://img.shields.io/github/stars/Miodec/monkeytype?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank">yt-dlp</a>&nbsp;<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank"><img src="https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank">pam-duress</a>&nbsp;<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank"><img src="https://img.shields.io/github/stars/nuvious/pam-duress?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank">kata-manga</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-manga?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank">LinuxTimeline</a>&nbsp;<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank"><img src="https://img.shields.io/github/stars/FabioLolix/LinuxTimeline?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank">kubectl-tmux-exec</a>&nbsp;<a href="https://github.com/predatorray/kubectl-tmux-exec" title="A kubectl plugin to control multiple pods simultaneously using Tmux" target="_blank"><img src="https://img.shields.io/github/stars/predatorray/kubectl-tmux-exec?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -163,7 +163,7 @@ Implicit rebuild when build config changes</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 20 Sep 2021 13:45:17 GMT</small>
+<small>⏰ Updated on Tue, 21 Sep 2021 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
