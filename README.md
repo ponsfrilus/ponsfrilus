@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Azecko/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/Azecko/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/joeycastillo/The-Open-Book" title="null" target="_blank">The-Open-Book</a>&nbsp;<a href="https://github.com/joeycastillo/The-Open-Book" title="null" target="_blank"><img src="https://img.shields.io/github/stars/joeycastillo/The-Open-Book?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/crazylady2004/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives" target="_blank">Kata-FMW</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-FMW?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank">htmlq</a>&nbsp;<a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank"><img src="https://img.shields.io/github/stars/mgdm/htmlq?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/krakrukra/PocketAdmin" title="oshw keystroke injection device ( badusb )" target="_blank">PocketAdmin</a>&nbsp;<a href="https://github.com/krakrukra/PocketAdmin" title="oshw keystroke injection device ( badusb )" target="_blank"><img src="https://img.shields.io/github/stars/krakrukra/PocketAdmin?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/BotoNews" title="Bot news telegram" target="_blank">BotoNews</a>&nbsp;<a href="https://github.com/Azecko/BotoNews" title="Bot news telegram" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/BotoNews?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank">nitter</a>&nbsp;<a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank"><img src="https://img.shields.io/github/stars/zedeus/nitter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/openwebdocs/project" title="project documentation, policies & meeting minutes " target="_blank">project</a>&nbsp;<a href="https://github.com/openwebdocs/project" title="project documentation, policies & meeting minutes " target="_blank"><img src="https://img.shields.io/github/stars/openwebdocs/project?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank">markmap</a>&nbsp;<a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank"><img src="https://img.shields.io/github/stars/gera2ld/markmap?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank">kata-fleche</a>&nbsp;<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/kata-fleche?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/ClickHouse/ClickHouse" title="ClickHouse® is a free analytics DBMS for big data" target="_blank">ClickHouse</a>&nbsp;<a href="https://github.com/ClickHouse/ClickHouse" title="ClickHouse® is a free analytics DBMS for big data" target="_blank"><img src="https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,43 +95,6 @@
 <li>
 <a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank">kata-manga</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-manga?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank">LinuxTimeline</a>&nbsp;<a href="https://github.com/FabioLolix/LinuxTimeline" title="Linux Distributions Timeline" target="_blank"><img src="https://img.shields.io/github/stars/FabioLolix/LinuxTimeline?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/crazylady2004/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives" target="_blank">Kata-FMW</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-FMW?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank">htmlq</a>&nbsp;<a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank"><img src="https://img.shields.io/github/stars/mgdm/htmlq?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/krakrukra/PocketAdmin" title="oshw keystroke injection device ( badusb )" target="_blank">PocketAdmin</a>&nbsp;<a href="https://github.com/krakrukra/PocketAdmin" title="oshw keystroke injection device ( badusb )" target="_blank"><img src="https://img.shields.io/github/stars/krakrukra/PocketAdmin?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/BotoNews" title="Bot news telegram" target="_blank">BotoNews</a>&nbsp;<a href="https://github.com/Azecko/BotoNews" title="Bot news telegram" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/BotoNews?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank">nitter</a>&nbsp;<a href="https://github.com/zedeus/nitter" title="Alternative Twitter front-end" target="_blank"><img src="https://img.shields.io/github/stars/zedeus/nitter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/openwebdocs/project" title="project documentation, policies & meeting minutes " target="_blank">project</a>&nbsp;<a href="https://github.com/openwebdocs/project" title="project documentation, policies & meeting minutes " target="_blank"><img src="https://img.shields.io/github/stars/openwebdocs/project?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank">markmap</a>&nbsp;<a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank"><img src="https://img.shields.io/github/stars/gera2ld/markmap?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ffmpegwasm/ffmpeg.wasm" title="FFmpeg for browser and node, powered by WebAssembly" target="_blank">ffmpeg.wasm</a>&nbsp;<a href="https://github.com/ffmpegwasm/ffmpeg.wasm" title="FFmpeg for browser and node, powered by WebAssembly" target="_blank"><img src="https://img.shields.io/github/stars/ffmpegwasm/ffmpeg.wasm?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank">kong</a>&nbsp;<a href="https://github.com/Kong/kong" title="🦍 The Cloud-Native API Gateway " target="_blank"><img src="https://img.shields.io/github/stars/Kong/kong?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,11 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/859aebb33d2f8125fbc839173de74286bfb7f532" title="2021-09-21T16:40:32.000+02:00" target="_blank">859aebb3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>[doc] Better README + schema</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-fleche/commits/6e23e0642531e4655cceb8e11b17fec5916f8e12" title="2021-09-17T17:07:09.000+02:00" target="_blank">6e23e064</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur">/kata-fleche</a></strong></div>
           <pre>Merge pull request #33 from D4rkHeart/master
@@ -154,16 +159,11 @@ Deploy now or implicitly when deploymentconfig changes</pre>
 
 Implicit rebuild when build config changes</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/93dd167d6f665cd8551713c3abe176fadc059f65" title="2021-09-15T18:27:47.000+02:00" target="_blank">93dd167d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[feature] add routes</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 21 Sep 2021 13:45:15 GMT</small>
+<small>⏰ Updated on Wed, 22 Sep 2021 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
