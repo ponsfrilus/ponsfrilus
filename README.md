@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/epfl-dojo/Kata-API" title="Kata API — pour entraîner le développement d'API et la compréhension des requêtes HTTP" target="_blank">Kata-API</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-API" title="Kata API — pour entraîner le développement d'API et la compréhension des requêtes HTTP" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-API?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank">kata-fleche</a>&nbsp;<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/kata-fleche?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ClickHouse/ClickHouse" title="ClickHouse® is a free analytics DBMS for big data" target="_blank">ClickHouse</a>&nbsp;<a href="https://github.com/ClickHouse/ClickHouse" title="ClickHouse® is a free analytics DBMS for big data" target="_blank"><img src="https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank">thefuck</a>&nbsp;<a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank"><img src="https://img.shields.io/github/stars/nvbn/thefuck?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/doctorray117/minecraft-ondemand" title="Templates to deploy a serverless Minecraft Server on demand in AWS" target="_blank">minecraft-ondemand</a>&nbsp;<a href="https://github.com/doctorray117/minecraft-ondemand" title="Templates to deploy a serverless Minecraft Server on demand in AWS" target="_blank"><img src="https://img.shields.io/github/stars/doctorray117/minecraft-ondemand?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank">git-cliff</a>&nbsp;<a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank"><img src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank">monkeytype</a>&nbsp;<a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank"><img src="https://img.shields.io/github/stars/Miodec/monkeytype?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank">yt-dlp</a>&nbsp;<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank"><img src="https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank">pam-duress</a>&nbsp;<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank"><img src="https://img.shields.io/github/stars/nuvious/pam-duress?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/Azecko/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/Azecko/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/Kata-APOD?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank">markmap</a>&nbsp;<a href="https://github.com/gera2ld/markmap" title="Visualize your Markdown as mindmaps with Markmap." target="_blank"><img src="https://img.shields.io/github/stars/gera2ld/markmap?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank">kata-fleche</a>&nbsp;<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/kata-fleche?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ClickHouse/ClickHouse" title="ClickHouse® is a free analytics DBMS for big data" target="_blank">ClickHouse</a>&nbsp;<a href="https://github.com/ClickHouse/ClickHouse" title="ClickHouse® is a free analytics DBMS for big data" target="_blank"><img src="https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank">thefuck</a>&nbsp;<a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank"><img src="https://img.shields.io/github/stars/nvbn/thefuck?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/doctorray117/minecraft-ondemand" title="Templates to deploy a serverless Minecraft Server on demand in AWS" target="_blank">minecraft-ondemand</a>&nbsp;<a href="https://github.com/doctorray117/minecraft-ondemand" title="Templates to deploy a serverless Minecraft Server on demand in AWS" target="_blank"><img src="https://img.shields.io/github/stars/doctorray117/minecraft-ondemand?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank">git-cliff</a>&nbsp;<a href="https://github.com/orhun/git-cliff" title="A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️ " target="_blank"><img src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank">monkeytype</a>&nbsp;<a href="https://github.com/Miodec/monkeytype" title="The most customizable typing website with a minimalistic design and a ton of features. Test yourself in various modes, track your progress and improve your speed." target="_blank"><img src="https://img.shields.io/github/stars/Miodec/monkeytype?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank">yt-dlp</a>&nbsp;<a href="https://github.com/yt-dlp/yt-dlp" title="A youtube-dl fork with additional features and fixes" target="_blank"><img src="https://img.shields.io/github/stars/yt-dlp/yt-dlp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank">pam-duress</a>&nbsp;<a href="https://github.com/nuvious/pam-duress" title="A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password." target="_blank"><img src="https://img.shields.io/github/stars/nuvious/pam-duress?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank">kata-manga</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-manga?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -163,7 +163,7 @@ Implicit rebuild when build config changes</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 22 Sep 2021 13:45:12 GMT</small>
+<small>⏰ Updated on Thu, 23 Sep 2021 13:46:42 GMT</small>
 </td>
 </tr>
 </tfoot>
