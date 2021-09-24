@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Kata-Luhn/commits/7746447dc53754180d88a64ea489a906965da7e9" title="2021-09-24T09:52:08.000+02:00" target="_blank">7746447d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Kata-Luhn" title="Kata : implémenter la formule de Luhn pour vérifier des numéros de cartes bancaires">/Kata-Luhn</a></strong></div>
+          <pre>[init] Kata-Luhn</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/859aebb33d2f8125fbc839173de74286bfb7f532" title="2021-09-21T16:40:32.000+02:00" target="_blank">859aebb3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
           <pre>[doc] Better README + schema</pre>
         </td>
@@ -152,18 +157,11 @@ Deploy now or implicitly when deploymentconfig changes</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/14a09cf43c52c43894f15d9560dd3d74c23cc506" title="2021-09-15T18:29:42.000+02:00" target="_blank">14a09cf4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[feature] deploymentconfig's triggers</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/5b6508410f8881e6e1caa3becd45a1cafc54ae38" title="2021-09-15T18:29:00.000+02:00" target="_blank">5b650841</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[feature] `-t ticketshop.build`
-
-Implicit rebuild when build config changes</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 23 Sep 2021 13:46:42 GMT</small>
+<small>⏰ Updated on Fri, 24 Sep 2021 13:45:28 GMT</small>
 </td>
 </tr>
 </tfoot>
