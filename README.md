@@ -103,8 +103,18 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/D4rkHeart/IdeaGenerator/commits/504590b982e62e66f89e77c43f28f50d9329a50c" title="2021-09-27T17:20:20.000+02:00" target="_blank">504590b9</a><a href="https://github.com/D4rkHeart">@D4rkHeart</a><a href="https://github.com/D4rkHeart/IdeaGenerator" title="A application who give idea for training">/IdeaGenerator</a></strong></div>
+          <pre>[make] A Makefile proposal</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/Kata-Luhn/commits/6d483d3cbe18956ec8d134f14f0a4eb06d2f2e21" title="2021-09-24T23:58:17.000+02:00" target="_blank">6d483d3c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Kata-Luhn" title="Kata : implémenter la formule de Luhn pour vérifier des numéros de cartes bancaires">/Kata-Luhn</a></strong></div>
           <pre>[doc] Add pointer to npm's fast-luhn</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-frame/commits/18b70c0cad10d68747cb709df58266180e3b445b" title="2021-09-24T23:10:48.000+02:00" target="_blank">18b70c0c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D">/kata-frame</a></strong></div>
+          <pre>[init] A wild kata appeared</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -141,23 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-squareNumbers/commits/28c41f3600a8904c4595657ac6da621da6e28474" title="2021-09-24T22:58:53.000+02:00" target="_blank">28c41f36</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-squareNumbers" title="Kata : remplir un carré de chiffres organisés en lignes, colonnes et spirale.">/kata-squareNumbers</a></strong></div>
           <pre>[doc] À propos added/updated</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/3fda9985b24f419aa2a516c8e9f3175daa178c40" title="2021-09-24T22:58:27.000+02:00" target="_blank">3fda9985</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Exercices SQL">/kata-sql</a></strong></div>
-          <pre>Merge pull request #2 from epfl-dojo/master
-
-[doc] À propos added/updated</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/d2d72b8e33f28d9b42ad468ed898ff1c52eb3cf0" title="2021-09-24T22:56:32.000+02:00" target="_blank">d2d72b8e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Exercices SQL">/kata-sql</a></strong></div>
-          <pre>[doc] À propos added/updated</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 27 Sep 2021 13:45:16 GMT</small>
+<small>⏰ Updated on Tue, 28 Sep 2021 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
