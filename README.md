@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank">cantonal-adequation</a>&nbsp;<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank"><img src="https://img.shields.io/github/stars/sephii/cantonal-adequation?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/waydroid/waydroid" title="null" target="_blank">waydroid</a>&nbsp;<a href="https://github.com/waydroid/waydroid" title="null" target="_blank"><img src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/doctorray117/minecraft-ondemand" title="Templates to deploy a serverless Minecraft Server on demand in AWS" target="_blank">minecraft-ondemand</a>&nbsp;<a href="https://github.com/doctorray117/minecraft-ondemand" title="Templates to deploy a serverless Minecraft Server on demand in AWS" target="_blank"><img src="https://img.shields.io/github/stars/doctorray117/minecraft-ondemand?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank">openvscode-server</a>&nbsp;<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank"><img src="https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank">juice-shop</a>&nbsp;<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank"><img src="https://img.shields.io/github/stars/juice-shop/juice-shop?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank">htmlq</a>&nbsp;<a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank"><img src="https://img.shields.io/github/stars/mgdm/htmlq?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/krakrukra/PocketAdmin" title="oshw keystroke injection device ( badusb )" target="_blank">PocketAdmin</a>&nbsp;<a href="https://github.com/krakrukra/PocketAdmin" title="oshw keystroke injection device ( badusb )" target="_blank"><img src="https://img.shields.io/github/stars/krakrukra/PocketAdmin?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 28 Sep 2021 13:45:15 GMT</small>
+<small>⏰ Updated on Wed, 29 Sep 2021 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
