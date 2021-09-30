@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/JaavLex/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank">openvscode-server</a>&nbsp;<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank"><img src="https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank">juice-shop</a>&nbsp;<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank"><img src="https://img.shields.io/github/stars/juice-shop/juice-shop?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank">tauri</a>&nbsp;<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank"><img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bendrucker/fast-luhn" title="A fast Luhn algorithm for validating credit cards" target="_blank">fast-luhn</a>&nbsp;<a href="https://github.com/bendrucker/fast-luhn" title="A fast Luhn algorithm for validating credit cards" target="_blank"><img src="https://img.shields.io/github/stars/bendrucker/fast-luhn?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/crazylady2004/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-dojo/Kata-API" title="Kata API — pour entraîner le développement d'API et la compréhension des requêtes HTTP" target="_blank">Kata-API</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-API" title="Kata API — pour entraîner le développement d'API et la compréhension des requêtes HTTP" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-API?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank">kata-fleche</a>&nbsp;<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/kata-fleche?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ClickHouse/ClickHouse" title="ClickHouse® is a free analytics DBMS for big data" target="_blank">ClickHouse</a>&nbsp;<a href="https://github.com/ClickHouse/ClickHouse" title="ClickHouse® is a free analytics DBMS for big data" target="_blank"><img src="https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives" target="_blank">Kata-FMW</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-FMW?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank">cantonal-adequation</a>&nbsp;<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank"><img src="https://img.shields.io/github/stars/sephii/cantonal-adequation?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,18 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank">openvscode-server</a>&nbsp;<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank"><img src="https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank">juice-shop</a>&nbsp;<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank"><img src="https://img.shields.io/github/stars/juice-shop/juice-shop?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank">tauri</a>&nbsp;<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank"><img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bendrucker/fast-luhn" title="A fast Luhn algorithm for validating credit cards" target="_blank">fast-luhn</a>&nbsp;<a href="https://github.com/bendrucker/fast-luhn" title="A fast Luhn algorithm for validating credit cards" target="_blank"><img src="https://img.shields.io/github/stars/bendrucker/fast-luhn?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/crazylady2004/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-dojo/Kata-API" title="Kata API — pour entraîner le développement d'API et la compréhension des requêtes HTTP" target="_blank">Kata-API</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-API" title="Kata API — pour entraîner le développement d'API et la compréhension des requêtes HTTP" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-API?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank">kata-fleche</a>&nbsp;<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/kata-fleche?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ClickHouse/ClickHouse" title="ClickHouse® is a free analytics DBMS for big data" target="_blank">ClickHouse</a>&nbsp;<a href="https://github.com/ClickHouse/ClickHouse" title="ClickHouse® is a free analytics DBMS for big data" target="_blank"><img src="https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives" target="_blank">Kata-FMW</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-FMW?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank">htmlq</a>&nbsp;<a href="https://github.com/mgdm/htmlq" title="Like jq, but for HTML." target="_blank"><img src="https://img.shields.io/github/stars/mgdm/htmlq?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/Kata-APOD/commits/eed7fabe16a55aa759ddd5afd488d81849e45013" title="2021-09-30T10:54:08.000+02:00" target="_blank">eed7fabe</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser">/Kata-APOD</a></strong></div>
+          <pre>Merge pull request #2 from epfl-dojo/JaavLex-patch-1
+
+[doc] Added myself to 'Je l'ai fait' section</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/D4rkHeart/IdeaGenerator/commits/504590b982e62e66f89e77c43f28f50d9329a50c" title="2021-09-27T17:20:20.000+02:00" target="_blank">504590b9</a><a href="https://github.com/D4rkHeart">@D4rkHeart</a><a href="https://github.com/D4rkHeart/IdeaGenerator" title="A application who give idea for training">/IdeaGenerator</a></strong></div>
           <pre>[make] A Makefile proposal</pre>
@@ -146,16 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-coins/commits/b0142af59a97ef0930a6b8be5d4c48dc3af37639" title="2021-09-24T22:59:09.000+02:00" target="_blank">b0142af5</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-coins" title="Kata : exploration du Problème du rendu de monnaie">/kata-coins</a></strong></div>
           <pre>[doc] À propos added/updated</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-squareNumbers/commits/28c41f3600a8904c4595657ac6da621da6e28474" title="2021-09-24T22:58:53.000+02:00" target="_blank">28c41f36</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-squareNumbers" title="Kata : remplir un carré de chiffres organisés en lignes, colonnes et spirale.">/kata-squareNumbers</a></strong></div>
-          <pre>[doc] À propos added/updated</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 29 Sep 2021 13:45:13 GMT</small>
+<small>⏰ Updated on Thu, 30 Sep 2021 13:45:17 GMT</small>
 </td>
 </tr>
 </tfoot>
