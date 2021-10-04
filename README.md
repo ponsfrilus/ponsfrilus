@@ -103,6 +103,40 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/897ad017e03199a9b93d74abdd83ac58191c13f9" title="2021-10-04T12:35:11.000Z" target="_blank">897ad017</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>[feat] Basic home page</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/a9e8b150301f09436e97a0daebd85965f3fa88e7" title="2021-10-04T14:27:46.000+02:00" target="_blank">a9e8b150</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>[gitpod] init</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/52afb86901906fa3304f2f7309f2c54bd63cfc1e" title="2021-10-04T14:11:12.000+02:00" target="_blank">52afb869</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>Merge pull request #2 from Azecko/main
+
+Better Botonews item type + News route</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/5735b0f23aa3d2fccb32397be5728d2f7e18b11d" title="2021-10-04T09:42:11.000+02:00" target="_blank">5735b0f2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>Merge pull request #1 from SaphireVert/main
+
+[feat] Basic structure</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/fe0a62e95f5592336220f371643e6454751cba8b" title="2021-10-01T11:45:05.000+02:00" target="_blank">fe0a62e9</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>[fix] add port as a const</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/5a55c29a6b4c1a9345b0ac4322dcc35b5e07d7f9" title="2021-10-01T11:41:56.000+02:00" target="_blank">5a55c29a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>[doc] README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/Kata-APOD/commits/eed7fabe16a55aa759ddd5afd488d81849e45013" title="2021-09-30T10:54:08.000+02:00" target="_blank">eed7fabe</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser">/Kata-APOD</a></strong></div>
           <pre>Merge pull request #2 from epfl-dojo/JaavLex-patch-1
 
@@ -123,41 +157,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-frame/commits/18b70c0cad10d68747cb709df58266180e3b445b" title="2021-09-24T23:10:48.000+02:00" target="_blank">18b70c0c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D">/kata-frame</a></strong></div>
           <pre>[init] A wild kata appeared</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-regexp/commits/b69efc0485e067782fd6426586a1c9d8e9eaf78a" title="2021-09-24T23:03:42.000+02:00" target="_blank">b69efc04</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-regexp" title="Kata d'exploration des expressions régulières (RegExp)">/kata-regexp</a></strong></div>
-          <pre>[doc] À propos added/updated</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/Kata-APOD/commits/40410259927d64ebe3b3e44857e6e481cc078f11" title="2021-09-24T23:01:49.000+02:00" target="_blank">40410259</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser">/Kata-APOD</a></strong></div>
-          <pre>[doc] À propos added/updated</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Kata-Luhn/commits/f7035ea78c17355257d06fc9f611e10ddbefad7d" title="2021-09-24T23:01:28.000+02:00" target="_blank">f7035ea7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Kata-Luhn" title="Kata : implémenter la formule de Luhn pour vérifier des numéros de cartes bancaires">/Kata-Luhn</a></strong></div>
-          <pre>[doc] À propos added/updated</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/Kata-FMW/commits/2e5d02b9f1c8f506668ee8959f91ea97f0818977" title="2021-09-24T23:01:20.000+02:00" target="_blank">2e5d02b9</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives">/Kata-FMW</a></strong></div>
-          <pre>[doc] À propos added/updated</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-ldap/commits/8965a06b9f25facba25324bfa56a80f4b7ba01b8" title="2021-09-24T22:59:19.000+02:00" target="_blank">8965a06b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-ldap" title="  Kata d'exploration d'un annuaire LDAP (ldapsearch)">/kata-ldap</a></strong></div>
-          <pre>[doc] À propos added/updated</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-coins/commits/b0142af59a97ef0930a6b8be5d4c48dc3af37639" title="2021-09-24T22:59:09.000+02:00" target="_blank">b0142af5</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-coins" title="Kata : exploration du Problème du rendu de monnaie">/kata-coins</a></strong></div>
-          <pre>[doc] À propos added/updated</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 01 Oct 2021 13:45:20 GMT</small>
+<small>⏰ Updated on Mon, 04 Oct 2021 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
