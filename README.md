@@ -103,6 +103,25 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/80ae85b9376932a78b3e58be0cf95c6f54397b29" title="2021-10-05T19:15:51.000+02:00" target="_blank">80ae85b9</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>[fix] GoEPFL subtitle + links</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/5b4c1008a239560f3df92af60faea689587d11d4" title="2021-10-05T17:36:24.000+02:00" target="_blank">5b4c1008</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>Merge pull request #5 from Azecko/main
+
+[fix] CORS Header</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/f0717cec4371d77230cefee1cb3cd24801e8367a" title="2021-10-05T16:55:41.000+02:00" target="_blank">f0717cec</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>Merge pull request #4 from Azecko/main
+
+[feat] Actu EPFL and PHP_CEO support</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/Kata-APOD/commits/e43e3dabb82837ce0a6f171885026cae03744ee5" title="2021-10-05T15:17:38.000+02:00" target="_blank">e43e3dab</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser">/Kata-APOD</a></strong></div>
           <pre>[doc] Add some bonus</pre>
         </td>
@@ -138,28 +157,11 @@ That way it is possible to kown from where the news come from.</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/d3a4802e1530245ba2c3148e32dc34df5dcfa602" title="2021-10-04T17:11:24.000+02:00" target="_blank">d3a4802e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
           <pre>[ocd] `npm run lint` on all ts file</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/689d100dd01a8e191d4d8b2c03e1449eb8d49677" title="2021-10-04T16:36:17.000+02:00" target="_blank">689d100d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>Merge pull request #3 from Azecko/main
-
-[feat] HackerNews support, goEPFL support, query string handling</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/897ad017e03199a9b93d74abdd83ac58191c13f9" title="2021-10-04T12:35:11.000Z" target="_blank">897ad017</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>[feat] Basic home page</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/a9e8b150301f09436e97a0daebd85965f3fa88e7" title="2021-10-04T14:27:46.000+02:00" target="_blank">a9e8b150</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>[gitpod] init</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 05 Oct 2021 14:49:01 GMT</small>
+<small>⏰ Updated on Wed, 06 Oct 2021 13:50:15 GMT</small>
 </td>
 </tr>
 </tfoot>
