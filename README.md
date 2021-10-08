@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank">zotero</a>&nbsp;<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank"><img src="https://img.shields.io/github/stars/zotero/zotero?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank">cantonal-adequation</a>&nbsp;<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank"><img src="https://img.shields.io/github/stars/sephii/cantonal-adequation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/waydroid/waydroid" title="null" target="_blank">waydroid</a>&nbsp;<a href="https://github.com/waydroid/waydroid" title="null" target="_blank"><img src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank">MockingBird</a>&nbsp;<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank"><img src="https://img.shields.io/github/stars/babysor/MockingBird?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zumbov2/swissparl" title="The Swiss Parliament Webservices R API" target="_blank">swissparl</a>&nbsp;<a href="https://github.com/zumbov2/swissparl" title="The Swiss Parliament Webservices R API" target="_blank"><img src="https://img.shields.io/github/stars/zumbov2/swissparl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D" target="_blank">kata-frame</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-frame?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/Kata-Luhn" title="Kata : implémenter la formule de Luhn pour vérifier des numéros de cartes bancaires" target="_blank">Kata-Luhn</a>&nbsp;<a href="https://github.com/ponsfrilus/Kata-Luhn" title="Kata : implémenter la formule de Luhn pour vérifier des numéros de cartes bancaires" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/Kata-Luhn?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/Azecko/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/joeycastillo/The-Open-Book" title="null" target="_blank">The-Open-Book</a>&nbsp;<a href="https://github.com/joeycastillo/The-Open-Book" title="null" target="_blank"><img src="https://img.shields.io/github/stars/joeycastillo/The-Open-Book?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank">thefuck</a>&nbsp;<a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank"><img src="https://img.shields.io/github/stars/nvbn/thefuck?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/JaavLex/Kata-APOD?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,39 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank">cantonal-adequation</a>&nbsp;<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank"><img src="https://img.shields.io/github/stars/sephii/cantonal-adequation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/waydroid/waydroid" title="null" target="_blank">waydroid</a>&nbsp;<a href="https://github.com/waydroid/waydroid" title="null" target="_blank"><img src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank">MockingBird</a>&nbsp;<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank"><img src="https://img.shields.io/github/stars/babysor/MockingBird?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zumbov2/swissparl" title="The Swiss Parliament Webservices R API" target="_blank">swissparl</a>&nbsp;<a href="https://github.com/zumbov2/swissparl" title="The Swiss Parliament Webservices R API" target="_blank"><img src="https://img.shields.io/github/stars/zumbov2/swissparl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D" target="_blank">kata-frame</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-frame?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/Kata-Luhn" title="Kata : implémenter la formule de Luhn pour vérifier des numéros de cartes bancaires" target="_blank">Kata-Luhn</a>&nbsp;<a href="https://github.com/ponsfrilus/Kata-Luhn" title="Kata : implémenter la formule de Luhn pour vérifier des numéros de cartes bancaires" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/Kata-Luhn?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/Azecko/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/joeycastillo/The-Open-Book" title="null" target="_blank">The-Open-Book</a>&nbsp;<a href="https://github.com/joeycastillo/The-Open-Book" title="null" target="_blank"><img src="https://img.shields.io/github/stars/joeycastillo/The-Open-Book?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank">thefuck</a>&nbsp;<a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank"><img src="https://img.shields.io/github/stars/nvbn/thefuck?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/doctorray117/minecraft-ondemand" title="Templates to deploy a serverless Minecraft Server on demand in AWS" target="_blank">minecraft-ondemand</a>&nbsp;<a href="https://github.com/doctorray117/minecraft-ondemand" title="Templates to deploy a serverless Minecraft Server on demand in AWS" target="_blank"><img src="https://img.shields.io/github/stars/doctorray117/minecraft-ondemand?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/b5bcb844278c1720d8cddd368c895a3d9042f5c1" title="2021-10-08T12:48:30.000+02:00" target="_blank">b5bcb844</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #454 from epfl-si/feature/msmtp-configuration
+
+[feature] msmtp set_from_header</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/7b130a20ee8e11fd4e748027014107801905c83d" title="2021-10-08T11:01:49.000+02:00" target="_blank">7b130a20</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] redirect msmtp logs
+
+The file name ‘-’ directs the log information to standard
+output. See [Logging](https://marlam.de/msmtp/msmtp.html#Logging).</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/e7b7073584fa38d9040bef5256da86cd5e914a72" title="2021-10-08T11:00:21.000+02:00" target="_blank">e7b70735</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] msmtp `set_from_header`
+
+This allow to rewrite the e-mail `From:` header with noreply@epfl.ch. 
+This is
+mandatory in our production environment as the `from:` from the e-mail 
+envelope
+is not enough. This is possible since msmtp 11.8, and is documented in 
+the
+[set_from_header](https://marlam.de/msmtp/msmtp.html#set_005ffrom_005fheader).</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/80ae85b9376932a78b3e58be0cf95c6f54397b29" title="2021-10-05T19:15:51.000+02:00" target="_blank">80ae85b9</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
           <pre>[fix] GoEPFL subtitle + links</pre>
@@ -140,28 +168,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/ca9f13ce99de53ca1e97ccad79a00b28bb4a4ca1" title="2021-10-04T17:49:01.000+02:00" target="_blank">ca9f13ce</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
           <pre>[feature] Use top stories on HN</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/57715935248cfbde132c93733374956e7da21f7a" title="2021-10-04T17:48:34.000+02:00" target="_blank">57715935</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>[fix] Query only what we need</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/12d8483558f151194dd86f27dfa84c415b2a6b0f" title="2021-10-04T17:47:59.000+02:00" target="_blank">12d84835</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>[feature] Add the `src_channel` in BotonewsItem Type
-
-That way it is possible to kown from where the news come from.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/d3a4802e1530245ba2c3148e32dc34df5dcfa602" title="2021-10-04T17:11:24.000+02:00" target="_blank">d3a4802e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>[ocd] `npm run lint` on all ts file</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 07 Oct 2021 13:45:17 GMT</small>
+<small>⏰ Updated on Fri, 08 Oct 2021 13:45:21 GMT</small>
 </td>
 </tr>
 </tfoot>
