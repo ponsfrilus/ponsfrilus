@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank">sqlectron-gui</a>&nbsp;<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank"><img src="https://img.shields.io/github/stars/sqlectron/sqlectron-gui?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank">av1-avif</a>&nbsp;<a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank"><img src="https://img.shields.io/github/stars/AOMediaCodec/av1-avif?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/JaavLex/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank">openvscode-server</a>&nbsp;<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank"><img src="https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank">juice-shop</a>&nbsp;<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank"><img src="https://img.shields.io/github/stars/juice-shop/juice-shop?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank">tauri</a>&nbsp;<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank"><img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bendrucker/fast-luhn" title="A fast Luhn algorithm for validating credit cards" target="_blank">fast-luhn</a>&nbsp;<a href="https://github.com/bendrucker/fast-luhn" title="A fast Luhn algorithm for validating credit cards" target="_blank"><img src="https://img.shields.io/github/stars/bendrucker/fast-luhn?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/crazylady2004/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-dojo/Kata-API" title="Kata API — pour entraîner le développement d'API et la compréhension des requêtes HTTP" target="_blank">Kata-API</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-API" title="Kata API — pour entraîner le développement d'API et la compréhension des requêtes HTTP" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-API?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank">kata-fleche</a>&nbsp;<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/kata-fleche?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank">hacktoberfest-swag-list</a>&nbsp;<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank"><img src="https://img.shields.io/github/stars/crweiner/hacktoberfest-swag-list?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank">zotero</a>&nbsp;<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank"><img src="https://img.shields.io/github/stars/zotero/zotero?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/joeycastillo/The-Open-Book" title="null" target="_blank">The-Open-Book</a>&nbsp;<a href="https://github.com/joeycastillo/The-Open-Book" title="null" target="_blank"><img src="https://img.shields.io/github/stars/joeycastillo/The-Open-Book?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank">thefuck</a>&nbsp;<a href="https://github.com/nvbn/thefuck" title="Magnificent app which corrects your previous console command." target="_blank"><img src="https://img.shields.io/github/stars/nvbn/thefuck?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/JaavLex/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank">openvscode-server</a>&nbsp;<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank"><img src="https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank">juice-shop</a>&nbsp;<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank"><img src="https://img.shields.io/github/stars/juice-shop/juice-shop?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank">tauri</a>&nbsp;<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank"><img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bendrucker/fast-luhn" title="A fast Luhn algorithm for validating credit cards" target="_blank">fast-luhn</a>&nbsp;<a href="https://github.com/bendrucker/fast-luhn" title="A fast Luhn algorithm for validating credit cards" target="_blank"><img src="https://img.shields.io/github/stars/bendrucker/fast-luhn?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/crazylady2004/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-dojo/Kata-API" title="Kata API — pour entraîner le développement d'API et la compréhension des requêtes HTTP" target="_blank">Kata-API</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-API" title="Kata API — pour entraîner le développement d'API et la compréhension des requêtes HTTP" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-API?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank">kata-fleche</a>&nbsp;<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/kata-fleche?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ClickHouse/ClickHouse" title="ClickHouse® is a free analytics DBMS for big data" target="_blank">ClickHouse</a>&nbsp;<a href="https://github.com/ClickHouse/ClickHouse" title="ClickHouse® is a free analytics DBMS for big data" target="_blank"><img src="https://img.shields.io/github/stars/ClickHouse/ClickHouse?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives" target="_blank">Kata-FMW</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-FMW" title="Kata FBI Most Wanted (FMW) // Crete a quiz with the FBI top 10 most wanted fugitives" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-FMW?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -172,7 +172,7 @@ the
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 08 Oct 2021 13:45:21 GMT</small>
+<small>⏰ Updated on Mon, 11 Oct 2021 13:45:14 GMT</small>
 </td>
 </tr>
 </tfoot>
