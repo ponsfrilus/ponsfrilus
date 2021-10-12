@@ -103,6 +103,48 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/9faefa6dd16f3dfec2d9d814b36cc0d927a119fb" title="2021-10-12T14:14:00.000+02:00" target="_blank">9faefa6d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
+          <pre>[hotfix] Increase filter priority
+
+Ensure that this filter is called after the one in WPForms by setting its priority to 20.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/6aa5342bb7a5360a0e48d46f960a9c52e58a2b79" title="2021-10-12T11:24:08.000+02:00" target="_blank">6aa5342b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
+          <pre>Merge pull request #36 from epfl-si/feature/plugin-uri
+
+[fix] Set plugin URI</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/00d84e6a34f7b13a04edb9585ed6d243a7251f67" title="2021-10-12T11:23:59.000+02:00" target="_blank">00d84e6a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
+          <pre>Merge branch 'master' into feature/plugin-uri</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/f0d3a85bd04f7861430afe2559eba5afb03c3ec2" title="2021-10-12T11:22:52.000+02:00" target="_blank">f0d3a85b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
+          <pre>Merge pull request #35 from epfl-si/feature/from-mail-noreply
+
+[feature] Ensure noreply@epfl.ch</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/0f874816d928ca178befa6ab9b4ea2d11bc8645e" title="2021-10-12T11:21:42.000+02:00" target="_blank">0f874816</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
+          <pre>[fix] Set plugin URI</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/09acd02322669fbb45356263ff6d170683b5efd2" title="2021-10-12T11:16:13.000+02:00" target="_blank">09acd023</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
+          <pre>[feature] Ensure noreply@epfl.ch
+
+This, in case of use of the wp_mail() function, ensure that the From: 
+header of the email uses the noreply+something@epfl.ch.
+The "something" is taken from the site title and cleaned up.
+
+Bump to version 1.2.4</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/b5bcb844278c1720d8cddd368c895a3d9042f5c1" title="2021-10-08T12:48:30.000+02:00" target="_blank">b5bcb844</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #454 from epfl-si/feature/msmtp-configuration
 
@@ -134,45 +176,11 @@ the
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/80ae85b9376932a78b3e58be0cf95c6f54397b29" title="2021-10-05T19:15:51.000+02:00" target="_blank">80ae85b9</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
           <pre>[fix] GoEPFL subtitle + links</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/5b4c1008a239560f3df92af60faea689587d11d4" title="2021-10-05T17:36:24.000+02:00" target="_blank">5b4c1008</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>Merge pull request #5 from Azecko/main
-
-[fix] CORS Header</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/f0717cec4371d77230cefee1cb3cd24801e8367a" title="2021-10-05T16:55:41.000+02:00" target="_blank">f0717cec</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>Merge pull request #4 from Azecko/main
-
-[feat] Actu EPFL and PHP_CEO support</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/Kata-APOD/commits/e43e3dabb82837ce0a6f171885026cae03744ee5" title="2021-10-05T15:17:38.000+02:00" target="_blank">e43e3dab</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser">/Kata-APOD</a></strong></div>
-          <pre>[doc] Add some bonus</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/faa8bfe84be3e5d76046714af55f5f264c11e218" title="2021-10-04T17:59:30.000+02:00" target="_blank">faa8bfe8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>[fix] Unsetted channels return all</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/8ad67e274740139cf12f4d17c1610ba0eb9b6475" title="2021-10-04T17:50:36.000+02:00" target="_blank">8ad67e27</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>[refactor] Avoid errors when channels are null</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/ca9f13ce99de53ca1e97ccad79a00b28bb4a4ca1" title="2021-10-04T17:49:01.000+02:00" target="_blank">ca9f13ce</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>[feature] Use top stories on HN</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 11 Oct 2021 13:45:14 GMT</small>
+<small>⏰ Updated on Tue, 12 Oct 2021 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
