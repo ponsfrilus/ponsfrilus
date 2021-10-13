@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/rahul-thakoor/air-pi-play" title="Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors." target="_blank">air-pi-play</a>&nbsp;<a href="https://github.com/rahul-thakoor/air-pi-play" title="Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors." target="_blank"><img src="https://img.shields.io/github/stars/rahul-thakoor/air-pi-play?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank">hacktoberfest-swag-list</a>&nbsp;<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank"><img src="https://img.shields.io/github/stars/crweiner/hacktoberfest-swag-list?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank">zotero</a>&nbsp;<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank"><img src="https://img.shields.io/github/stars/zotero/zotero?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank">cantonal-adequation</a>&nbsp;<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank"><img src="https://img.shields.io/github/stars/sephii/cantonal-adequation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/waydroid/waydroid" title="null" target="_blank">waydroid</a>&nbsp;<a href="https://github.com/waydroid/waydroid" title="null" target="_blank"><img src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank">MockingBird</a>&nbsp;<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank"><img src="https://img.shields.io/github/stars/babysor/MockingBird?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zumbov2/swissparl" title="The Swiss Parliament Webservices R API" target="_blank">swissparl</a>&nbsp;<a href="https://github.com/zumbov2/swissparl" title="The Swiss Parliament Webservices R API" target="_blank"><img src="https://img.shields.io/github/stars/zumbov2/swissparl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D" target="_blank">kata-frame</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-frame?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/Kata-Luhn" title="Kata : implémenter la formule de Luhn pour vérifier des numéros de cartes bancaires" target="_blank">Kata-Luhn</a>&nbsp;<a href="https://github.com/ponsfrilus/Kata-Luhn" title="Kata : implémenter la formule de Luhn pour vérifier des numéros de cartes bancaires" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/Kata-Luhn?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/Azecko/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank">sqlectron-gui</a>&nbsp;<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank"><img src="https://img.shields.io/github/stars/sqlectron/sqlectron-gui?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank">kata-fleche</a>&nbsp;<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/kata-fleche?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank">hacktoberfest-swag-list</a>&nbsp;<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank"><img src="https://img.shields.io/github/stars/crweiner/hacktoberfest-swag-list?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank">zotero</a>&nbsp;<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank"><img src="https://img.shields.io/github/stars/zotero/zotero?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank">cantonal-adequation</a>&nbsp;<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank"><img src="https://img.shields.io/github/stars/sephii/cantonal-adequation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/waydroid/waydroid" title="null" target="_blank">waydroid</a>&nbsp;<a href="https://github.com/waydroid/waydroid" title="null" target="_blank"><img src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank">MockingBird</a>&nbsp;<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank"><img src="https://img.shields.io/github/stars/babysor/MockingBird?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zumbov2/swissparl" title="The Swiss Parliament Webservices R API" target="_blank">swissparl</a>&nbsp;<a href="https://github.com/zumbov2/swissparl" title="The Swiss Parliament Webservices R API" target="_blank"><img src="https://img.shields.io/github/stars/zumbov2/swissparl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D" target="_blank">kata-frame</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-frame?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/Kata-Luhn" title="Kata : implémenter la formule de Luhn pour vérifier des numéros de cartes bancaires" target="_blank">Kata-Luhn</a>&nbsp;<a href="https://github.com/ponsfrilus/Kata-Luhn" title="Kata : implémenter la formule de Luhn pour vérifier des numéros de cartes bancaires" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/Kata-Luhn?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/Azecko/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/joeycastillo/The-Open-Book" title="null" target="_blank">The-Open-Book</a>&nbsp;<a href="https://github.com/joeycastillo/The-Open-Book" title="null" target="_blank"><img src="https://img.shields.io/github/stars/joeycastillo/The-Open-Book?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -180,7 +180,7 @@ the
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 12 Oct 2021 13:45:16 GMT</small>
+<small>⏰ Updated on Wed, 13 Oct 2021 13:45:17 GMT</small>
 </td>
 </tr>
 </tfoot>
