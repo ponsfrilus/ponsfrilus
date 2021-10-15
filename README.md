@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/271a21837dd7a6645c691add61086d24f2a3da45" title="2021-10-14T16:03:25.000+02:00" target="_blank">271a2183</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>Merge pull request #38 from epfl-si/fix/nevergreen-dynamic-targets-json
+
+[fix] Nevergreen caused by `state: touch`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/9faefa6dd16f3dfec2d9d814b36cc0d927a119fb" title="2021-10-12T14:14:00.000+02:00" target="_blank">9faefa6d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
           <pre>[hotfix] Increase filter priority
 
@@ -171,16 +178,11 @@ is not enough. This is possible since msmtp 11.8, and is documented in
 the
 [set_from_header](https://marlam.de/msmtp/msmtp.html#set_005ffrom_005fheader).</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/80ae85b9376932a78b3e58be0cf95c6f54397b29" title="2021-10-05T19:15:51.000+02:00" target="_blank">80ae85b9</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>[fix] GoEPFL subtitle + links</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 14 Oct 2021 13:45:19 GMT</small>
+<small>⏰ Updated on Fri, 15 Oct 2021 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
