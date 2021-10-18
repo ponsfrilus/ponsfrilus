@@ -44,7 +44,7 @@
 <a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank">cantonal-adequation</a>&nbsp;<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank"><img src="https://img.shields.io/github/stars/sephii/cantonal-adequation?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/waydroid/waydroid" title="null" target="_blank">waydroid</a>&nbsp;<a href="https://github.com/waydroid/waydroid" title="null" target="_blank"><img src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" alt="GitHub"></a>
+<a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank">waydroid</a>&nbsp;<a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank"><img src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank">MockingBird</a>&nbsp;<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank"><img src="https://img.shields.io/github/stars/babysor/MockingBird?style=social" alt="GitHub"></a>
@@ -182,7 +182,7 @@ the
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 15 Oct 2021 13:45:19 GMT</small>
+<small>⏰ Updated on Mon, 18 Oct 2021 13:45:26 GMT</small>
 </td>
 </tr>
 </tfoot>
