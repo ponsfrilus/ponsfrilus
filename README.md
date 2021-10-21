@@ -103,6 +103,35 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/242cb7e6f8eecd4e5341c162e8b0cb14328829c1" title="2021-10-21T00:45:47.000+02:00" target="_blank">242cb7e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] LWP::Protocol::https
+
+`'_msg' => 'Protocol scheme \'https\' is not supported 
+(LWP::Protocol::https not installed)'`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/dea5438489acc0f3394c69301b88924cfd1ca58e" title="2021-10-21T00:45:07.000+02:00" target="_blank">dea54384</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[feature] image tag env dependant</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/6f24a480df1d15bc619c9339fed151747c51ec74" title="2021-10-21T00:44:41.000+02:00" target="_blank">6f24a480</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[feature] promote image
+
+The idea is to tag the image used in preprod in prod to be sure to use 
+the exact same image.
+
+This still need some improvements, as the branch used is environment 
+dependant, so `--prod` will uses `master` then others will use `dev`.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/b588aa53e6e08d292b6b24e005cb139d4e221e3c" title="2021-10-20T23:22:15.000+02:00" target="_blank">b588aa53</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] namespac parameter</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/271a21837dd7a6645c691add61086d24f2a3da45" title="2021-10-14T16:03:25.000+02:00" target="_blank">271a2183</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
           <pre>Merge pull request #38 from epfl-si/fix/nevergreen-dynamic-targets-json
 
@@ -139,50 +168,11 @@ Ensure that this filter is called after the one in WPForms by setting its priori
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/0f874816d928ca178befa6ab9b4ea2d11bc8645e" title="2021-10-12T11:21:42.000+02:00" target="_blank">0f874816</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
           <pre>[fix] Set plugin URI</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/09acd02322669fbb45356263ff6d170683b5efd2" title="2021-10-12T11:16:13.000+02:00" target="_blank">09acd023</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
-          <pre>[feature] Ensure noreply@epfl.ch
-
-This, in case of use of the wp_mail() function, ensure that the From: 
-header of the email uses the noreply+something@epfl.ch.
-The "something" is taken from the site title and cleaned up.
-
-Bump to version 1.2.4</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/b5bcb844278c1720d8cddd368c895a3d9042f5c1" title="2021-10-08T12:48:30.000+02:00" target="_blank">b5bcb844</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #454 from epfl-si/feature/msmtp-configuration
-
-[feature] msmtp set_from_header</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/7b130a20ee8e11fd4e748027014107801905c83d" title="2021-10-08T11:01:49.000+02:00" target="_blank">7b130a20</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] redirect msmtp logs
-
-The file name ‘-’ directs the log information to standard
-output. See [Logging](https://marlam.de/msmtp/msmtp.html#Logging).</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/e7b7073584fa38d9040bef5256da86cd5e914a72" title="2021-10-08T11:00:21.000+02:00" target="_blank">e7b70735</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] msmtp `set_from_header`
-
-This allow to rewrite the e-mail `From:` header with noreply@epfl.ch. 
-This is
-mandatory in our production environment as the `from:` from the e-mail 
-envelope
-is not enough. This is possible since msmtp 11.8, and is documented in 
-the
-[set_from_header](https://marlam.de/msmtp/msmtp.html#set_005ffrom_005fheader).</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 20 Oct 2021 13:45:14 GMT</small>
+<small>⏰ Updated on Thu, 21 Oct 2021 13:45:17 GMT</small>
 </td>
 </tr>
 </tfoot>
