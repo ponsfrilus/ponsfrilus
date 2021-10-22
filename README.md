@@ -103,6 +103,31 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/4d6cd55a16bbe58a97ea9c12780f8aee4d7ddfc9" title="2021-10-22T09:54:13.000+02:00" target="_blank">4d6cd55a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[feature] default branch is master</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/ef1202289a98db82afff99a683ea7b6b866203cf" title="2021-10-22T09:53:50.000+02:00" target="_blank">ef120228</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[feature] dynamic openshift_namespace</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/de9ca120b0290bc90a9ca8d2d911bb130365959d" title="2021-10-21T16:41:29.000+02:00" target="_blank">de9ca120</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[doc] operations</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/7773e651e343c4759b38c58470300b6337b2baac" title="2021-10-21T16:36:28.000+02:00" target="_blank">7773e651</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] master branch is the new default</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/67d99f71503bb8001f51d95876bf77c6d0e8cc0e" title="2021-10-21T16:36:10.000+02:00" target="_blank">67d99f71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] image promotion</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/242cb7e6f8eecd4e5341c162e8b0cb14328829c1" title="2021-10-21T00:45:47.000+02:00" target="_blank">242cb7e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[fix] LWP::Protocol::https
 
@@ -137,42 +162,11 @@ dependant, so `--prod` will uses `master` then others will use `dev`.</pre>
 
 [fix] Nevergreen caused by `state: touch`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/9faefa6dd16f3dfec2d9d814b36cc0d927a119fb" title="2021-10-12T14:14:00.000+02:00" target="_blank">9faefa6d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
-          <pre>[hotfix] Increase filter priority
-
-Ensure that this filter is called after the one in WPForms by setting its priority to 20.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/6aa5342bb7a5360a0e48d46f960a9c52e58a2b79" title="2021-10-12T11:24:08.000+02:00" target="_blank">6aa5342b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
-          <pre>Merge pull request #36 from epfl-si/feature/plugin-uri
-
-[fix] Set plugin URI</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/00d84e6a34f7b13a04edb9585ed6d243a7251f67" title="2021-10-12T11:23:59.000+02:00" target="_blank">00d84e6a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
-          <pre>Merge branch 'master' into feature/plugin-uri</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/f0d3a85bd04f7861430afe2559eba5afb03c3ec2" title="2021-10-12T11:22:52.000+02:00" target="_blank">f0d3a85b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
-          <pre>Merge pull request #35 from epfl-si/feature/from-mail-noreply
-
-[feature] Ensure noreply@epfl.ch</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/0f874816d928ca178befa6ab9b4ea2d11bc8645e" title="2021-10-12T11:21:42.000+02:00" target="_blank">0f874816</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
-          <pre>[fix] Set plugin URI</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 21 Oct 2021 13:45:17 GMT</small>
+<small>⏰ Updated on Fri, 22 Oct 2021 13:45:32 GMT</small>
 </td>
 </tr>
 </tfoot>
