@@ -170,7 +170,7 @@ Ensure that this filter is called after the one in WPForms by setting its priori
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 28 Oct 2021 13:45:17 GMT</small>
+<small>⏰ Updated on Fri, 29 Oct 2021 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
