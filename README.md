@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 11 years and 9 months.
+    <br />Apparently, I'm hanging around on GitHub since 11 years and 10 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -29,6 +29,40 @@
 <td colspan="2" align="center"><h4>My last starred repos</h4></td>
 </tr>
 <tr>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/mysql/mysql-workbench" title="MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more." target="_blank">mysql-workbench</a>&nbsp;<a href="https://github.com/mysql/mysql-workbench" title="MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more." target="_blank"><img src="https://img.shields.io/github/stars/mysql/mysql-workbench?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank">sqlectron-gui</a>&nbsp;<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank"><img src="https://img.shields.io/github/stars/sqlectron/sqlectron-gui?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank">av1-avif</a>&nbsp;<a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank"><img src="https://img.shields.io/github/stars/AOMediaCodec/av1-avif?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/JaavLex/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank">openvscode-server</a>&nbsp;<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank"><img src="https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank">juice-shop</a>&nbsp;<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank"><img src="https://img.shields.io/github/stars/juice-shop/juice-shop?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank">tauri</a>&nbsp;<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank"><img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bendrucker/fast-luhn" title="A fast Luhn algorithm for validating credit cards" target="_blank">fast-luhn</a>&nbsp;<a href="https://github.com/bendrucker/fast-luhn" title="A fast Luhn algorithm for validating credit cards" target="_blank"><img src="https://img.shields.io/github/stars/bendrucker/fast-luhn?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/crazylady2004/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-dojo/Kata-API" title="Kata API — pour entraîner le développement d'API et la compréhension des requêtes HTTP" target="_blank">Kata-API</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-API" title="Kata API — pour entraîner le développement d'API et la compréhension des requêtes HTTP" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-API?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
 <td valign="top">
 <ul>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Azecko/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/Azecko/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank">sqlectron-gui</a>&nbsp;<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank"><img src="https://img.shields.io/github/stars/sqlectron/sqlectron-gui?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank">av1-avif</a>&nbsp;<a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank"><img src="https://img.shields.io/github/stars/AOMediaCodec/av1-avif?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/JaavLex/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank">openvscode-server</a>&nbsp;<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank"><img src="https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank">juice-shop</a>&nbsp;<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank"><img src="https://img.shields.io/github/stars/juice-shop/juice-shop?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank">tauri</a>&nbsp;<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank"><img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bendrucker/fast-luhn" title="A fast Luhn algorithm for validating credit cards" target="_blank">fast-luhn</a>&nbsp;<a href="https://github.com/bendrucker/fast-luhn" title="A fast Luhn algorithm for validating credit cards" target="_blank"><img src="https://img.shields.io/github/stars/bendrucker/fast-luhn?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/crazylady2004/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-dojo/Kata-API" title="Kata API — pour entraîner le développement d'API et la compréhension des requêtes HTTP" target="_blank">Kata-API</a>&nbsp;<a href="https://github.com/epfl-dojo/Kata-API" title="Kata API — pour entraîner le développement d'API et la compréhension des requêtes HTTP" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/Kata-API?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank">kata-fleche</a>&nbsp;<a href="https://github.com/Azecko/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/kata-fleche?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -170,7 +170,7 @@ Ensure that this filter is called after the one in WPForms by setting its priori
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 29 Oct 2021 13:45:19 GMT</small>
+<small>⏰ Updated on Mon, 01 Nov 2021 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
