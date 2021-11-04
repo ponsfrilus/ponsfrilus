@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-moozoon-landing/commits/3c353f6abc5aad34d22f7d80e19456f089106485" title="2021-11-04T08:50:13.000+01:00" target="_blank">3c353f6a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-moozoon-landing" title="Moozoon's EPFL landing page">/epfl-moozoon-landing</a></strong></div>
+          <pre>Initial commit</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/de9ca120b0290bc90a9ca8d2d911bb130365959d" title="2021-10-21T16:41:29.000+02:00" target="_blank">de9ca120</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[doc] operations</pre>
         </td>
@@ -159,18 +164,11 @@ dependant, so `--prod` will uses `master` then others will use `dev`.</pre>
 
 Ensure that this filter is called after the one in WPForms by setting its priority to 20.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/6aa5342bb7a5360a0e48d46f960a9c52e58a2b79" title="2021-10-12T11:24:08.000+02:00" target="_blank">6aa5342b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
-          <pre>Merge pull request #36 from epfl-si/feature/plugin-uri
-
-[fix] Set plugin URI</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 03 Nov 2021 13:45:18 GMT</small>
+<small>⏰ Updated on Thu, 04 Nov 2021 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
