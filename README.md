@@ -103,72 +103,59 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ops.build-common/commits/7f37d939781739c28940144ccd100a5364fb372c" title="2021-11-04T22:25:46.000+01:00" target="_blank">7f37d939</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ops.build-common" title="Manage common base Docker images in OpenShift">/ops.build-common</a></strong></div>
+          <pre>[doc] About</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ops.build-common/commits/9bfb7a0073b9040a23f4407c3a8a0666a18537a8" title="2021-11-04T22:24:13.000+01:00" target="_blank">9bfb7a00</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ops.build-common" title="Manage common base Docker images in OpenShift">/ops.build-common</a></strong></div>
+          <pre>[fix] pull from our registry on the `idev-fsd` branch</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ops.build-common/commits/d53f3367edffa6ecbb78906304d40bbad9efbec0" title="2021-11-04T22:22:38.000+01:00" target="_blank">d53f3367</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ops.build-common" title="Manage common base Docker images in OpenShift">/ops.build-common</a></strong></div>
+          <pre>[fix] no more local path</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/8ccca34b5b8bb599d257be3d4b8246e25543b48d" title="2021-11-04T17:48:20.000+01:00" target="_blank">8ccca34b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] default `master` branch</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/32f57a2433ed09f6febaf35ad5240d99f7f0d43a" title="2021-11-04T17:35:36.000+01:00" target="_blank">32f57a24</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[feature] rely on parent image Perl lib</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/3b3f966de975a8c61c670baef6cd418951784124" title="2021-11-04T17:34:58.000+01:00" target="_blank">3b3f966d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] conf's name</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/731e30c9ae936ec7fd9ff0308d416833640be034" title="2021-11-04T17:34:47.000+01:00" target="_blank">731e30c9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[feat] namespace management</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-moozoon-landing/commits/3c353f6abc5aad34d22f7d80e19456f089106485" title="2021-11-04T08:50:13.000+01:00" target="_blank">3c353f6a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-moozoon-landing" title="Moozoon's EPFL landing page">/epfl-moozoon-landing</a></strong></div>
           <pre>Initial commit</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/de9ca120b0290bc90a9ca8d2d911bb130365959d" title="2021-10-21T16:41:29.000+02:00" target="_blank">de9ca120</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[doc] operations</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/4d6cd55a16bbe58a97ea9c12780f8aee4d7ddfc9" title="2021-10-22T09:54:13.000+02:00" target="_blank">4d6cd55a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[feature] default branch is master</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/7773e651e343c4759b38c58470300b6337b2baac" title="2021-10-21T16:36:28.000+02:00" target="_blank">7773e651</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] master branch is the new default</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/67d99f71503bb8001f51d95876bf77c6d0e8cc0e" title="2021-10-21T16:36:10.000+02:00" target="_blank">67d99f71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] image promotion</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/242cb7e6f8eecd4e5341c162e8b0cb14328829c1" title="2021-10-21T00:45:47.000+02:00" target="_blank">242cb7e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] LWP::Protocol::https
-
-`'_msg' => 'Protocol scheme \'https\' is not supported 
-(LWP::Protocol::https not installed)'`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/dea5438489acc0f3394c69301b88924cfd1ca58e" title="2021-10-21T00:45:07.000+02:00" target="_blank">dea54384</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[feature] image tag env dependant</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/6f24a480df1d15bc619c9339fed151747c51ec74" title="2021-10-21T00:44:41.000+02:00" target="_blank">6f24a480</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[feature] promote image
-
-The idea is to tag the image used in preprod in prod to be sure to use 
-the exact same image.
-
-This still need some improvements, as the branch used is environment 
-dependant, so `--prod` will uses `master` then others will use `dev`.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/b588aa53e6e08d292b6b24e005cb139d4e221e3c" title="2021-10-20T23:22:15.000+02:00" target="_blank">b588aa53</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] namespac parameter</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/271a21837dd7a6645c691add61086d24f2a3da45" title="2021-10-14T16:03:25.000+02:00" target="_blank">271a2183</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>Merge pull request #38 from epfl-si/fix/nevergreen-dynamic-targets-json
-
-[fix] Nevergreen caused by `state: touch`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/9faefa6dd16f3dfec2d9d814b36cc0d927a119fb" title="2021-10-12T14:14:00.000+02:00" target="_blank">9faefa6d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
-          <pre>[hotfix] Increase filter priority
-
-Ensure that this filter is called after the one in WPForms by setting its priority to 20.</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/ef1202289a98db82afff99a683ea7b6b866203cf" title="2021-10-22T09:53:50.000+02:00" target="_blank">ef120228</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[feature] dynamic openshift_namespace</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 04 Nov 2021 13:45:16 GMT</small>
+<small>⏰ Updated on Fri, 05 Nov 2021 13:45:23 GMT</small>
 </td>
 </tr>
 </tfoot>
