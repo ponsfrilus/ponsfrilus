@@ -118,6 +118,11 @@
         </td>
         </tr><tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/3584db3e689cbd0d2f089db33decc7ac02570c31" title="2021-11-04T17:52:40.000+01:00" target="_blank">3584db3e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] manage redeploy</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/8ccca34b5b8bb599d257be3d4b8246e25543b48d" title="2021-11-04T17:48:20.000+01:00" target="_blank">8ccca34b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[fix] default `master` branch</pre>
         </td>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/4d6cd55a16bbe58a97ea9c12780f8aee4d7ddfc9" title="2021-10-22T09:54:13.000+02:00" target="_blank">4d6cd55a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[feature] default branch is master</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/ef1202289a98db82afff99a683ea7b6b866203cf" title="2021-10-22T09:53:50.000+02:00" target="_blank">ef120228</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[feature] dynamic openshift_namespace</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 05 Nov 2021 13:45:23 GMT</small>
+<small>⏰ Updated on Mon, 08 Nov 2021 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
