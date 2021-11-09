@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/OWASP/www-project-top-ten" title="OWASP Foundation Web Respository" target="_blank">www-project-top-ten</a>&nbsp;<a href="https://github.com/OWASP/www-project-top-ten" title="OWASP Foundation Web Respository" target="_blank"><img src="https://img.shields.io/github/stars/OWASP/www-project-top-ten?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/m5stack/M5EPD" title="null" target="_blank">M5EPD</a>&nbsp;<a href="https://github.com/m5stack/M5EPD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/m5stack/M5EPD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rahul-thakoor/balena-rpiplay" title="Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors." target="_blank">balena-rpiplay</a>&nbsp;<a href="https://github.com/rahul-thakoor/balena-rpiplay" title="Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors." target="_blank"><img src="https://img.shields.io/github/stars/rahul-thakoor/balena-rpiplay?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank">hacktoberfest-swag-list</a>&nbsp;<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank"><img src="https://img.shields.io/github/stars/crweiner/hacktoberfest-swag-list?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank">zotero</a>&nbsp;<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank"><img src="https://img.shields.io/github/stars/zotero/zotero?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank">cantonal-adequation</a>&nbsp;<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank"><img src="https://img.shields.io/github/stars/sephii/cantonal-adequation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank">waydroid</a>&nbsp;<a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank"><img src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank">MockingBird</a>&nbsp;<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank"><img src="https://img.shields.io/github/stars/babysor/MockingBird?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zumbov2/swissparl" title="The Swiss Parliament Webservices R API" target="_blank">swissparl</a>&nbsp;<a href="https://github.com/zumbov2/swissparl" title="The Swiss Parliament Webservices R API" target="_blank"><img src="https://img.shields.io/github/stars/zumbov2/swissparl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D" target="_blank">kata-frame</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-frame?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/gopasspw/gopass" title="The slightly more awesome standard unix password manager for teams" target="_blank">gopass</a>&nbsp;<a href="https://github.com/gopasspw/gopass" title="The slightly more awesome standard unix password manager for teams" target="_blank"><img src="https://img.shields.io/github/stars/gopasspw/gopass?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/crazylady2004/Kata-APOD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/crazylady2004/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/m5stack/M5EPD" title="null" target="_blank">M5EPD</a>&nbsp;<a href="https://github.com/m5stack/M5EPD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/m5stack/M5EPD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rahul-thakoor/balena-rpiplay" title="Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors." target="_blank">balena-rpiplay</a>&nbsp;<a href="https://github.com/rahul-thakoor/balena-rpiplay" title="Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors." target="_blank"><img src="https://img.shields.io/github/stars/rahul-thakoor/balena-rpiplay?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank">hacktoberfest-swag-list</a>&nbsp;<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank"><img src="https://img.shields.io/github/stars/crweiner/hacktoberfest-swag-list?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank">zotero</a>&nbsp;<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank"><img src="https://img.shields.io/github/stars/zotero/zotero?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank">cantonal-adequation</a>&nbsp;<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank"><img src="https://img.shields.io/github/stars/sephii/cantonal-adequation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank">waydroid</a>&nbsp;<a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank"><img src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank">MockingBird</a>&nbsp;<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank"><img src="https://img.shields.io/github/stars/babysor/MockingBird?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zumbov2/swissparl" title="The Swiss Parliament Webservices R API" target="_blank">swissparl</a>&nbsp;<a href="https://github.com/zumbov2/swissparl" title="The Swiss Parliament Webservices R API" target="_blank"><img src="https://img.shields.io/github/stars/zumbov2/swissparl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D" target="_blank">kata-frame</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-frame?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/Kata-Luhn" title="Kata : implémenter la formule de Luhn pour vérifier des numéros de cartes bancaires" target="_blank">Kata-Luhn</a>&nbsp;<a href="https://github.com/ponsfrilus/Kata-Luhn" title="Kata : implémenter la formule de Luhn pour vérifier des numéros de cartes bancaires" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/Kata-Luhn?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 08 Nov 2021 13:45:19 GMT</small>
+<small>⏰ Updated on Tue, 09 Nov 2021 13:45:20 GMT</small>
 </td>
 </tr>
 </tfoot>
