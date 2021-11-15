@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank">useful-sed</a>&nbsp;<a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank"><img src="https://img.shields.io/github/stars/adrianscheff/useful-sed?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kenp-io/not-for-iphone-usb-c" title="null" target="_blank">not-for-iphone-usb-c</a>&nbsp;<a href="https://github.com/kenp-io/not-for-iphone-usb-c" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kenp-io/not-for-iphone-usb-c?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gopasspw/gopass" title="The slightly more awesome standard unix password manager for teams" target="_blank">gopass</a>&nbsp;<a href="https://github.com/gopasspw/gopass" title="The slightly more awesome standard unix password manager for teams" target="_blank"><img src="https://img.shields.io/github/stars/gopasspw/gopass?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mysql/mysql-workbench" title="MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more." target="_blank">mysql-workbench</a>&nbsp;<a href="https://github.com/mysql/mysql-workbench" title="MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more." target="_blank"><img src="https://img.shields.io/github/stars/mysql/mysql-workbench?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank">sqlectron-gui</a>&nbsp;<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank"><img src="https://img.shields.io/github/stars/sqlectron/sqlectron-gui?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank">av1-avif</a>&nbsp;<a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank"><img src="https://img.shields.io/github/stars/AOMediaCodec/av1-avif?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/JaavLex/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank">openvscode-server</a>&nbsp;<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank"><img src="https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank">juice-shop</a>&nbsp;<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank"><img src="https://img.shields.io/github/stars/juice-shop/juice-shop?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank">tauri</a>&nbsp;<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank"><img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank">3D-printed-mirror-array</a>&nbsp;<a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank"><img src="https://img.shields.io/github/stars/bencbartlett/3D-printed-mirror-array?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,40 +97,6 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/kenp-io/not-for-iphone-usb-c" title="null" target="_blank">not-for-iphone-usb-c</a>&nbsp;<a href="https://github.com/kenp-io/not-for-iphone-usb-c" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kenp-io/not-for-iphone-usb-c?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gopasspw/gopass" title="The slightly more awesome standard unix password manager for teams" target="_blank">gopass</a>&nbsp;<a href="https://github.com/gopasspw/gopass" title="The slightly more awesome standard unix password manager for teams" target="_blank"><img src="https://img.shields.io/github/stars/gopasspw/gopass?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mysql/mysql-workbench" title="MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more." target="_blank">mysql-workbench</a>&nbsp;<a href="https://github.com/mysql/mysql-workbench" title="MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more." target="_blank"><img src="https://img.shields.io/github/stars/mysql/mysql-workbench?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank">sqlectron-gui</a>&nbsp;<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank"><img src="https://img.shields.io/github/stars/sqlectron/sqlectron-gui?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank">av1-avif</a>&nbsp;<a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank"><img src="https://img.shields.io/github/stars/AOMediaCodec/av1-avif?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/JaavLex/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank">openvscode-server</a>&nbsp;<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank"><img src="https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank">juice-shop</a>&nbsp;<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank"><img src="https://img.shields.io/github/stars/juice-shop/juice-shop?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank">tauri</a>&nbsp;<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank"><img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bendrucker/fast-luhn" title="A fast Luhn algorithm for validating credit cards" target="_blank">fast-luhn</a>&nbsp;<a href="https://github.com/bendrucker/fast-luhn" title="A fast Luhn algorithm for validating credit cards" target="_blank"><img src="https://img.shields.io/github/stars/bendrucker/fast-luhn?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
@@ -118,44 +118,53 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/3584db3e689cbd0d2f089db33decc7ac02570c31" title="2021-11-04T17:52:40.000+01:00" target="_blank">3584db3e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] manage redeploy</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/8ccca34b5b8bb599d257be3d4b8246e25543b48d" title="2021-11-04T17:48:20.000+01:00" target="_blank">8ccca34b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] default `master` branch</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/32f57a2433ed09f6febaf35ad5240d99f7f0d43a" title="2021-11-04T17:35:36.000+01:00" target="_blank">32f57a24</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[feature] rely on parent image Perl lib</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/3b3f966de975a8c61c670baef6cd418951784124" title="2021-11-04T17:34:58.000+01:00" target="_blank">3b3f966d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] conf's name</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/731e30c9ae936ec7fd9ff0308d416833640be034" title="2021-11-04T17:34:47.000+01:00" target="_blank">731e30c9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[feat] namespace management</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-moozoon-landing/commits/3c353f6abc5aad34d22f7d80e19456f089106485" title="2021-11-04T08:50:13.000+01:00" target="_blank">3c353f6a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-moozoon-landing" title="Moozoon's EPFL landing page">/epfl-moozoon-landing</a></strong></div>
           <pre>Initial commit</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/4d6cd55a16bbe58a97ea9c12780f8aee4d7ddfc9" title="2021-10-22T09:54:13.000+02:00" target="_blank">4d6cd55a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[feature] default branch is master</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/de9ca120b0290bc90a9ca8d2d911bb130365959d" title="2021-10-21T16:41:29.000+02:00" target="_blank">de9ca120</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[doc] operations</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/7773e651e343c4759b38c58470300b6337b2baac" title="2021-10-21T16:36:28.000+02:00" target="_blank">7773e651</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] master branch is the new default</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/67d99f71503bb8001f51d95876bf77c6d0e8cc0e" title="2021-10-21T16:36:10.000+02:00" target="_blank">67d99f71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] image promotion</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/242cb7e6f8eecd4e5341c162e8b0cb14328829c1" title="2021-10-21T00:45:47.000+02:00" target="_blank">242cb7e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[fix] LWP::Protocol::https
+
+`'_msg' => 'Protocol scheme \'https\' is not supported 
+(LWP::Protocol::https not installed)'`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/dea5438489acc0f3394c69301b88924cfd1ca58e" title="2021-10-21T00:45:07.000+02:00" target="_blank">dea54384</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[feature] image tag env dependant</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/6f24a480df1d15bc619c9339fed151747c51ec74" title="2021-10-21T00:44:41.000+02:00" target="_blank">6f24a480</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[feature] promote image
+
+The idea is to tag the image used in preprod in prod to be sure to use 
+the exact same image.
+
+This still need some improvements, as the branch used is environment 
+dependant, so `--prod` will uses `master` then others will use `dev`.</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 12 Nov 2021 13:45:13 GMT</small>
+<small>⏰ Updated on Mon, 15 Nov 2021 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
