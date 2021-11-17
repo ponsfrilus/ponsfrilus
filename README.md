@@ -103,6 +103,44 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/juice-shop-ansible/commits/a415fd8030cadac068c076f5dd1e90da36dce259" title="2021-11-17T14:42:29.000+01:00" target="_blank">a415fd80</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/juice-shop-ansible" title="Some Ansible role to deploy the juice-shop">/juice-shop-ansible</a></strong></div>
+          <pre>[Doc] Hello README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/juice-shop-ansible/commits/cd8faac4729d37251f9f86238e0714f9027384a8" title="2021-11-17T14:42:16.000+01:00" target="_blank">cd8faac4</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/juice-shop-ansible" title="Some Ansible role to deploy the juice-shop">/juice-shop-ansible</a></strong></div>
+          <pre>[Feature] Deploy CTFd
+
+This role deploy the `ctfd/ctfd` container, with variablized
+`config.ini` file. It uses a local SQLite file as database and still
+need a human intervention once deployed to finish the setup.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/juice-shop-ansible/commits/68b35b3ff714f32875aafa0e95a2bdf93564d8c0" title="2021-11-17T14:40:12.000+01:00" target="_blank">68b35b3f</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/juice-shop-ansible" title="Some Ansible role to deploy the juice-shop">/juice-shop-ansible</a></strong></div>
+          <pre>[Feature] JuiceShop deployment
+
+This role deploy a JuiceShop with the `juice-shop-ctf-cli` in it. That
+way, one will be able to generate the challenge list and export them.
+The Ansible's tag `juiceshop.fetch` can copy the exported challenge
+locally.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/juice-shop-ansible/commits/99a8cc585ca56f64b3f46226680338add6d308b6" title="2021-11-17T14:07:56.000+01:00" target="_blank">99a8cc58</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/juice-shop-ansible" title="Some Ansible role to deploy the juice-shop">/juice-shop-ansible</a></strong></div>
+          <pre>[CleanUp] "de-gosibleification"
+
+Header doc improved and "gosible" references removed.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/juice-shop-ansible/commits/3db6bcfb801d0755c34b5465c5f22aeb7a5cbde2" title="2021-11-17T14:07:01.000+01:00" target="_blank">3db6bcfb</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/juice-shop-ansible" title="Some Ansible role to deploy the juice-shop">/juice-shop-ansible</a></strong></div>
+          <pre>[Refactor] Juicyble → juicyble
+
+Renamed Juicyble to juicyble.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ops.build-common/commits/7f37d939781739c28940144ccd100a5364fb372c" title="2021-11-04T22:25:46.000+01:00" target="_blank">7f37d939</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ops.build-common" title="Manage common base Docker images in OpenShift">/ops.build-common</a></strong></div>
           <pre>[doc] About</pre>
         </td>
@@ -126,36 +164,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/8ccca34b5b8bb599d257be3d4b8246e25543b48d" title="2021-11-04T17:48:20.000+01:00" target="_blank">8ccca34b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
           <pre>[fix] default `master` branch</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/32f57a2433ed09f6febaf35ad5240d99f7f0d43a" title="2021-11-04T17:35:36.000+01:00" target="_blank">32f57a24</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[feature] rely on parent image Perl lib</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/3b3f966de975a8c61c670baef6cd418951784124" title="2021-11-04T17:34:58.000+01:00" target="_blank">3b3f966d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] conf's name</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/731e30c9ae936ec7fd9ff0308d416833640be034" title="2021-11-04T17:34:47.000+01:00" target="_blank">731e30c9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[feat] namespace management</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-moozoon-landing/commits/3c353f6abc5aad34d22f7d80e19456f089106485" title="2021-11-04T08:50:13.000+01:00" target="_blank">3c353f6a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-moozoon-landing" title="Moozoon's EPFL landing page">/epfl-moozoon-landing</a></strong></div>
-          <pre>Initial commit</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/4d6cd55a16bbe58a97ea9c12780f8aee4d7ddfc9" title="2021-10-22T09:54:13.000+02:00" target="_blank">4d6cd55a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[feature] default branch is master</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 16 Nov 2021 13:45:19 GMT</small>
+<small>⏰ Updated on Wed, 17 Nov 2021 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
