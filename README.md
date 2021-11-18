@@ -103,6 +103,40 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/3dd0f186c206e5f6d12c623f673a6bf3eb7efad8" title="2021-11-18T12:10:46.000+01:00" target="_blank">3dd0f186</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
+          <pre>[add] whitlist edamonitoring.epfl.ch
+
+See INC0447342 for further details</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6d0e37b2b62447462516908212fe44bf0d78b5d4" title="2021-11-18T11:30:51.000+01:00" target="_blank">6d0e37b2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[hotfix] refactor restauration plugin task</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8169a39b798ba844f708315040de90c225499658" title="2021-11-18T11:30:10.000+01:00" target="_blank">8169a39b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[hotfix] specify namespace for rollout</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/juice-shop-ansible/commits/f79fbe583948bc23a4c06d2d9a44313aab144402" title="2021-11-18T00:29:52.000+01:00" target="_blank">f79fbe58</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/juice-shop-ansible" title="Some Ansible role to deploy the juice-shop">/juice-shop-ansible</a></strong></div>
+          <pre>[Feature] deploy the full CTFd stack
+
+It includes redis for the cache, nginx as web server, mysql for the DB 
+and CTFd.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/juice-shop-ansible/commits/f7ecae8af5c3b1e209f07a92822398ec0c060a70" title="2021-11-18T00:08:37.000+01:00" target="_blank">f7ecae8a</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/juice-shop-ansible" title="Some Ansible role to deploy the juice-shop">/juice-shop-ansible</a></strong></div>
+          <pre>[WIP] heck docker_compose
+
+`community.docker.docker_compose` only pass environment to container if
+provided via a `.env` file — have to split this task into 4 smaller that
+use the `docker_container` module, hence this intermediate commit.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/juice-shop-ansible/commits/a415fd8030cadac068c076f5dd1e90da36dce259" title="2021-11-17T14:42:29.000+01:00" target="_blank">a415fd80</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/juice-shop-ansible" title="Some Ansible role to deploy the juice-shop">/juice-shop-ansible</a></strong></div>
           <pre>[Doc] Hello README.md</pre>
         </td>
@@ -139,36 +173,11 @@ Header doc improved and "gosible" references removed.</pre>
 
 Renamed Juicyble to juicyble.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ops.build-common/commits/7f37d939781739c28940144ccd100a5364fb372c" title="2021-11-04T22:25:46.000+01:00" target="_blank">7f37d939</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ops.build-common" title="Manage common base Docker images in OpenShift">/ops.build-common</a></strong></div>
-          <pre>[doc] About</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ops.build-common/commits/9bfb7a0073b9040a23f4407c3a8a0666a18537a8" title="2021-11-04T22:24:13.000+01:00" target="_blank">9bfb7a00</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ops.build-common" title="Manage common base Docker images in OpenShift">/ops.build-common</a></strong></div>
-          <pre>[fix] pull from our registry on the `idev-fsd` branch</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ops.build-common/commits/d53f3367edffa6ecbb78906304d40bbad9efbec0" title="2021-11-04T22:22:38.000+01:00" target="_blank">d53f3367</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ops.build-common" title="Manage common base Docker images in OpenShift">/ops.build-common</a></strong></div>
-          <pre>[fix] no more local path</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/3584db3e689cbd0d2f089db33decc7ac02570c31" title="2021-11-04T17:52:40.000+01:00" target="_blank">3584db3e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] manage redeploy</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/8ccca34b5b8bb599d257be3d4b8246e25543b48d" title="2021-11-04T17:48:20.000+01:00" target="_blank">8ccca34b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[fix] default `master` branch</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 17 Nov 2021 13:45:13 GMT</small>
+<small>⏰ Updated on Thu, 18 Nov 2021 13:45:21 GMT</small>
 </td>
 </tr>
 </tfoot>
