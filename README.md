@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/AppFlowy-IO/appflowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank">appflowy</a>&nbsp;<a href="https://github.com/AppFlowy-IO/appflowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank"><img src="https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank">3D-printed-mirror-array</a>&nbsp;<a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank"><img src="https://img.shields.io/github/stars/bencbartlett/3D-printed-mirror-array?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/OWASP/www-project-top-ten" title="OWASP Foundation Web Respository" target="_blank">www-project-top-ten</a>&nbsp;<a href="https://github.com/OWASP/www-project-top-ten" title="OWASP Foundation Web Respository" target="_blank"><img src="https://img.shields.io/github/stars/OWASP/www-project-top-ten?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/m5stack/M5EPD" title="null" target="_blank">M5EPD</a>&nbsp;<a href="https://github.com/m5stack/M5EPD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/m5stack/M5EPD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rahul-thakoor/balena-rpiplay" title="Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors." target="_blank">balena-rpiplay</a>&nbsp;<a href="https://github.com/rahul-thakoor/balena-rpiplay" title="Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors." target="_blank"><img src="https://img.shields.io/github/stars/rahul-thakoor/balena-rpiplay?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank">hacktoberfest-swag-list</a>&nbsp;<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank"><img src="https://img.shields.io/github/stars/crweiner/hacktoberfest-swag-list?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank">zotero</a>&nbsp;<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank"><img src="https://img.shields.io/github/stars/zotero/zotero?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank">cantonal-adequation</a>&nbsp;<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank"><img src="https://img.shields.io/github/stars/sephii/cantonal-adequation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank">waydroid</a>&nbsp;<a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank"><img src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank">MockingBird</a>&nbsp;<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank"><img src="https://img.shields.io/github/stars/babysor/MockingBird?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank">useful-sed</a>&nbsp;<a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank"><img src="https://img.shields.io/github/stars/adrianscheff/useful-sed?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,18 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank">3D-printed-mirror-array</a>&nbsp;<a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank"><img src="https://img.shields.io/github/stars/bencbartlett/3D-printed-mirror-array?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/OWASP/www-project-top-ten" title="OWASP Foundation Web Respository" target="_blank">www-project-top-ten</a>&nbsp;<a href="https://github.com/OWASP/www-project-top-ten" title="OWASP Foundation Web Respository" target="_blank"><img src="https://img.shields.io/github/stars/OWASP/www-project-top-ten?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/m5stack/M5EPD" title="null" target="_blank">M5EPD</a>&nbsp;<a href="https://github.com/m5stack/M5EPD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/m5stack/M5EPD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rahul-thakoor/balena-rpiplay" title="Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors." target="_blank">balena-rpiplay</a>&nbsp;<a href="https://github.com/rahul-thakoor/balena-rpiplay" title="Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors." target="_blank"><img src="https://img.shields.io/github/stars/rahul-thakoor/balena-rpiplay?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank">hacktoberfest-swag-list</a>&nbsp;<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank"><img src="https://img.shields.io/github/stars/crweiner/hacktoberfest-swag-list?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank">zotero</a>&nbsp;<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank"><img src="https://img.shields.io/github/stars/zotero/zotero?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank">cantonal-adequation</a>&nbsp;<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank"><img src="https://img.shields.io/github/stars/sephii/cantonal-adequation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank">waydroid</a>&nbsp;<a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank"><img src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank">MockingBird</a>&nbsp;<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank"><img src="https://img.shields.io/github/stars/babysor/MockingBird?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zumbov2/swissparl" title="The Swiss Parliament Webservices R API" target="_blank">swissparl</a>&nbsp;<a href="https://github.com/zumbov2/swissparl" title="The Swiss Parliament Webservices R API" target="_blank"><img src="https://img.shields.io/github/stars/zumbov2/swissparl?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/fd97d068afa9a764453e568652befe943c9284c0" title="2021-11-18T15:43:50.000+01:00" target="_blank">fd97d068</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #473 from epfl-si/feature/build-wpbase-without-cache
+
+[fix] do not use cache when building wp-base</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/3dd0f186c206e5f6d12c623f673a6bf3eb7efad8" title="2021-11-18T12:10:46.000+01:00" target="_blank">3dd0f186</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
           <pre>[add] whitlist edamonitoring.epfl.ch
@@ -117,6 +124,16 @@ See INC0447342 for further details</pre>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8169a39b798ba844f708315040de90c225499658" title="2021-11-18T11:30:10.000+01:00" target="_blank">8169a39b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[hotfix] specify namespace for rollout</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/66b59f93100e79e424703341a71ddb80f0d9fdde" title="2021-11-18T10:29:36.000+01:00" target="_blank">66b59f93</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] do not use cache when building wp-base
+
+As in the [documentation](https://docs.openshift.com/enterprise/3.1/dev_guide/builds.html) :
+> Docker builds normally reuse cached layers found on the host performing
+> the build. Setting the noCache option to true forces the build to ignore
+> cached layers and rerun all steps of the Dockerfile.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -159,25 +176,11 @@ way, one will be able to generate the challenge list and export them.
 The Ansible's tag `juiceshop.fetch` can copy the exported challenge
 locally.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/juice-shop-ansible/commits/99a8cc585ca56f64b3f46226680338add6d308b6" title="2021-11-17T14:07:56.000+01:00" target="_blank">99a8cc58</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/juice-shop-ansible" title="Some Ansible role to deploy the juice-shop">/juice-shop-ansible</a></strong></div>
-          <pre>[CleanUp] "de-gosibleification"
-
-Header doc improved and "gosible" references removed.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/juice-shop-ansible/commits/3db6bcfb801d0755c34b5465c5f22aeb7a5cbde2" title="2021-11-17T14:07:01.000+01:00" target="_blank">3db6bcfb</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/juice-shop-ansible" title="Some Ansible role to deploy the juice-shop">/juice-shop-ansible</a></strong></div>
-          <pre>[Refactor] Juicyble → juicyble
-
-Renamed Juicyble to juicyble.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 18 Nov 2021 13:45:21 GMT</small>
+<small>⏰ Updated on Fri, 19 Nov 2021 13:45:23 GMT</small>
 </td>
 </tr>
 </tfoot>
