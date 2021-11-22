@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/cluster.k8s.testserver/commits/1d95cfc46228c26581e478f52c92fdbdd1468e5d" title="2021-11-19T16:36:05.000+01:00" target="_blank">1d95cfc4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/cluster.k8s.testserver" title="A containerized node webserver to use as a test app on k8s">/cluster.k8s.testserver</a></strong></div>
+          <pre>Create k3s-testserver.yml</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/fd97d068afa9a764453e568652befe943c9284c0" title="2021-11-18T15:43:50.000+01:00" target="_blank">fd97d068</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #473 from epfl-si/feature/build-wpbase-without-cache
 
@@ -166,21 +171,11 @@ This role deploy the `ctfd/ctfd` container, with variablized
 `config.ini` file. It uses a local SQLite file as database and still
 need a human intervention once deployed to finish the setup.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/juice-shop-ansible/commits/68b35b3ff714f32875aafa0e95a2bdf93564d8c0" title="2021-11-17T14:40:12.000+01:00" target="_blank">68b35b3f</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/juice-shop-ansible" title="Some Ansible role to deploy the juice-shop">/juice-shop-ansible</a></strong></div>
-          <pre>[Feature] JuiceShop deployment
-
-This role deploy a JuiceShop with the `juice-shop-ctf-cli` in it. That
-way, one will be able to generate the challenge list and export them.
-The Ansible's tag `juiceshop.fetch` can copy the exported challenge
-locally.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 19 Nov 2021 13:45:23 GMT</small>
+<small>⏰ Updated on Mon, 22 Nov 2021 13:45:21 GMT</small>
 </td>
 </tr>
 </tfoot>
