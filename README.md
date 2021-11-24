@@ -103,6 +103,23 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/96410a625ca479395d2db8d686f0b2e5eb3d73c8" title="2021-11-23T17:11:05.000+01:00" target="_blank">96410a62</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
+          <pre>Merge pull request #328 from epfl-si/feature/epfl-allowed-iframe
+
+[feature] epfl-allowed-iframe</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/be8d4d2ac287815dff059434a72f34b96d27f1d7" title="2021-11-23T17:10:10.000+01:00" target="_blank">be8d4d2a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
+          <pre>[fix] no query strings in URLs</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/c94d285971e72989307a12361d0f34f5818a546b" title="2021-11-23T17:08:49.000+01:00" target="_blank">c94d2859</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
+          <pre>[fix] query strings removed from URLs</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/cluster.k8s.testserver/commits/1d95cfc46228c26581e478f52c92fdbdd1468e5d" title="2021-11-19T16:36:05.000+01:00" target="_blank">1d95cfc4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/cluster.k8s.testserver" title="A containerized node webserver to use as a test app on k8s">/cluster.k8s.testserver</a></strong></div>
           <pre>Create k3s-testserver.yml</pre>
         </td>
@@ -148,34 +165,11 @@ As in the [documentation](https://docs.openshift.com/enterprise/3.1/dev_guide/bu
 It includes redis for the cache, nginx as web server, mysql for the DB 
 and CTFd.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/juice-shop-ansible/commits/f7ecae8af5c3b1e209f07a92822398ec0c060a70" title="2021-11-18T00:08:37.000+01:00" target="_blank">f7ecae8a</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/juice-shop-ansible" title="Some Ansible role to deploy the juice-shop">/juice-shop-ansible</a></strong></div>
-          <pre>[WIP] heck docker_compose
-
-`community.docker.docker_compose` only pass environment to container if
-provided via a `.env` file — have to split this task into 4 smaller that
-use the `docker_container` module, hence this intermediate commit.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/juice-shop-ansible/commits/a415fd8030cadac068c076f5dd1e90da36dce259" title="2021-11-17T14:42:29.000+01:00" target="_blank">a415fd80</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/juice-shop-ansible" title="Some Ansible role to deploy the juice-shop">/juice-shop-ansible</a></strong></div>
-          <pre>[Doc] Hello README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/juice-shop-ansible/commits/cd8faac4729d37251f9f86238e0714f9027384a8" title="2021-11-17T14:42:16.000+01:00" target="_blank">cd8faac4</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/juice-shop-ansible" title="Some Ansible role to deploy the juice-shop">/juice-shop-ansible</a></strong></div>
-          <pre>[Feature] Deploy CTFd
-
-This role deploy the `ctfd/ctfd` container, with variablized
-`config.ini` file. It uses a local SQLite file as database and still
-need a human intervention once deployed to finish the setup.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 23 Nov 2021 13:45:18 GMT</small>
+<small>⏰ Updated on Wed, 24 Nov 2021 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
