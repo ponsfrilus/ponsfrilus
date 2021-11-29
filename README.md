@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank">Telegram-Instant-View-Template-for-Wordpress</a>&nbsp;<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank"><img src="https://img.shields.io/github/stars/olkitu/Telegram-Instant-View-Template-for-Wordpress?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/AppFlowy-IO/appflowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank">appflowy</a>&nbsp;<a href="https://github.com/AppFlowy-IO/appflowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank"><img src="https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank">waydroid</a>&nbsp;<a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank"><img src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank">MockingBird</a>&nbsp;<a href="https://github.com/babysor/MockingBird" title="🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time" target="_blank"><img src="https://img.shields.io/github/stars/babysor/MockingBird?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank">awesome-k8s-resources</a>&nbsp;<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank"><img src="https://img.shields.io/github/stars/tomhuang12/awesome-k8s-resources?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank">useful-sed</a>&nbsp;<a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank"><img src="https://img.shields.io/github/stars/adrianscheff/useful-sed?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank">juice-shop</a>&nbsp;<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank"><img src="https://img.shields.io/github/stars/juice-shop/juice-shop?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank">tauri</a>&nbsp;<a href="https://github.com/tauri-apps/tauri" title="Build smaller, faster, and more secure desktop applications with a web frontend." target="_blank"><img src="https://img.shields.io/github/stars/tauri-apps/tauri?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -169,7 +169,7 @@ and CTFd.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 26 Nov 2021 13:45:18 GMT</small>
+<small>⏰ Updated on Mon, 29 Nov 2021 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
