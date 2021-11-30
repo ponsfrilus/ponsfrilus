@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/epfl-idevfsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank">presence_bot</a>&nbsp;<a href="https://github.com/epfl-idevfsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank"><img src="https://img.shields.io/github/stars/epfl-idevfsd/presence_bot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank">awesome-k8s-resources</a>&nbsp;<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank"><img src="https://img.shields.io/github/stars/tomhuang12/awesome-k8s-resources?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank">useful-sed</a>&nbsp;<a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank"><img src="https://img.shields.io/github/stars/adrianscheff/useful-sed?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kenp-io/not-for-iphone-usb-c" title="null" target="_blank">not-for-iphone-usb-c</a>&nbsp;<a href="https://github.com/kenp-io/not-for-iphone-usb-c" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kenp-io/not-for-iphone-usb-c?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gopasspw/gopass" title="The slightly more awesome standard unix password manager for teams" target="_blank">gopass</a>&nbsp;<a href="https://github.com/gopasspw/gopass" title="The slightly more awesome standard unix password manager for teams" target="_blank"><img src="https://img.shields.io/github/stars/gopasspw/gopass?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mysql/mysql-workbench" title="MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more." target="_blank">mysql-workbench</a>&nbsp;<a href="https://github.com/mysql/mysql-workbench" title="MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more." target="_blank"><img src="https://img.shields.io/github/stars/mysql/mysql-workbench?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank">sqlectron-gui</a>&nbsp;<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank"><img src="https://img.shields.io/github/stars/sqlectron/sqlectron-gui?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank">av1-avif</a>&nbsp;<a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank"><img src="https://img.shields.io/github/stars/AOMediaCodec/av1-avif?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/JaavLex/Kata-APOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank">openvscode-server</a>&nbsp;<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank"><img src="https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank">Telegram-Instant-View-Template-for-Wordpress</a>&nbsp;<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank"><img src="https://img.shields.io/github/stars/olkitu/Telegram-Instant-View-Template-for-Wordpress?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank">waydroid</a>&nbsp;<a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank"><img src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank">awesome-k8s-resources</a>&nbsp;<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank"><img src="https://img.shields.io/github/stars/tomhuang12/awesome-k8s-resources?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank">useful-sed</a>&nbsp;<a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank"><img src="https://img.shields.io/github/stars/adrianscheff/useful-sed?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kenp-io/not-for-iphone-usb-c" title="null" target="_blank">not-for-iphone-usb-c</a>&nbsp;<a href="https://github.com/kenp-io/not-for-iphone-usb-c" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kenp-io/not-for-iphone-usb-c?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gopasspw/gopass" title="The slightly more awesome standard unix password manager for teams" target="_blank">gopass</a>&nbsp;<a href="https://github.com/gopasspw/gopass" title="The slightly more awesome standard unix password manager for teams" target="_blank"><img src="https://img.shields.io/github/stars/gopasspw/gopass?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mysql/mysql-workbench" title="MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more." target="_blank">mysql-workbench</a>&nbsp;<a href="https://github.com/mysql/mysql-workbench" title="MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more." target="_blank"><img src="https://img.shields.io/github/stars/mysql/mysql-workbench?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank">sqlectron-gui</a>&nbsp;<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank"><img src="https://img.shields.io/github/stars/sqlectron/sqlectron-gui?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank">av1-avif</a>&nbsp;<a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank"><img src="https://img.shields.io/github/stars/AOMediaCodec/av1-avif?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/JaavLex/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank">openvscode-server</a>&nbsp;<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank"><img src="https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank">juice-shop</a>&nbsp;<a href="https://github.com/juice-shop/juice-shop" title="OWASP Juice Shop: Probably the most modern and sophisticated insecure web application" target="_blank"><img src="https://img.shields.io/github/stars/juice-shop/juice-shop?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -169,7 +169,7 @@ and CTFd.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 29 Nov 2021 13:45:15 GMT</small>
+<small>⏰ Updated on Tue, 30 Nov 2021 13:45:17 GMT</small>
 </td>
 </tr>
 </tfoot>
