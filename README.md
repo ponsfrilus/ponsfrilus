@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 11 years and 10 months.
+    <br />Apparently, I'm hanging around on GitHub since 11 years and 11 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -31,6 +31,9 @@
 <tr>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank">py_regular_expressions</a>&nbsp;<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank"><img src="https://img.shields.io/github/stars/learnbyexample/py_regular_expressions?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/epfl-idevfsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank">presence_bot</a>&nbsp;<a href="https://github.com/epfl-idevfsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank"><img src="https://img.shields.io/github/stars/epfl-idevfsd/presence_bot?style=social" alt="GitHub"></a>
 </li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/JaavLex/Kata-APOD?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank">openvscode-server</a>&nbsp;<a href="https://github.com/gitpod-io/openvscode-server" title="Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere." target="_blank"><img src="https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank">lazydocker</a>&nbsp;<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank"><img src="https://img.shields.io/github/stars/jesseduffield/lazydocker?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank">Telegram-Instant-View-Template-for-Wordpress</a>&nbsp;<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank"><img src="https://img.shields.io/github/stars/olkitu/Telegram-Instant-View-Template-for-Wordpress?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank">cantonal-adequation</a>&nbsp;<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank"><img src="https://img.shields.io/github/stars/sephii/cantonal-adequation?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank">waydroid</a>&nbsp;<a href="https://github.com/waydroid/waydroid" title="Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu." target="_blank"><img src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,29 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/d4d29e7ef6820edb94c7fb659c10aba23126f09f" title="2021-12-01T10:09:04.000+01:00" target="_blank">d4d29e7e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
+          <pre>Merge pull request #37 from epfl-si/feature/socia-graph-improved
+
+[feature] social graph improved</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/afaa60624183f9eb56df19e94b162f115100fe75" title="2021-11-25T17:01:15.000+01:00" target="_blank">afaa6062</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
+          <pre>[fix] PHP notice</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/1803935d686d6635ab6be220426be70432535f8f" title="2021-11-25T17:00:58.000+01:00" target="_blank">1803935d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
+          <pre>[feature] Social Graph improved
+
+Fine selection of information related to the current page.
+
+- code removed from `epfl-functions.php` and rewritten as a class
+- get info from 'epfl/hero' whenever avalaible
+- more open graph image elements</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/96410a625ca479395d2db8d686f0b2e5eb3d73c8" title="2021-11-23T17:11:05.000+01:00" target="_blank">96410a62</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
           <pre>Merge pull request #328 from epfl-si/feature/epfl-allowed-iframe
@@ -142,34 +165,11 @@ See INC0447342 for further details</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6d0e37b2b62447462516908212fe44bf0d78b5d4" title="2021-11-18T11:30:51.000+01:00" target="_blank">6d0e37b2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[hotfix] refactor restauration plugin task</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8169a39b798ba844f708315040de90c225499658" title="2021-11-18T11:30:10.000+01:00" target="_blank">8169a39b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[hotfix] specify namespace for rollout</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/66b59f93100e79e424703341a71ddb80f0d9fdde" title="2021-11-18T10:29:36.000+01:00" target="_blank">66b59f93</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] do not use cache when building wp-base
-
-As in the [documentation](https://docs.openshift.com/enterprise/3.1/dev_guide/builds.html) :
-> Docker builds normally reuse cached layers found on the host performing
-> the build. Setting the noCache option to true forces the build to ignore
-> cached layers and rerun all steps of the Dockerfile.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/juice-shop-ansible/commits/f79fbe583948bc23a4c06d2d9a44313aab144402" title="2021-11-18T00:29:52.000+01:00" target="_blank">f79fbe58</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/juice-shop-ansible" title="Some Ansible role to deploy the juice-shop">/juice-shop-ansible</a></strong></div>
-          <pre>[Feature] deploy the full CTFd stack
-
-It includes redis for the cache, nginx as web server, mysql for the DB 
-and CTFd.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 30 Nov 2021 13:45:17 GMT</small>
+<small>⏰ Updated on Wed, 01 Dec 2021 13:45:32 GMT</small>
 </td>
 </tr>
 </tfoot>
