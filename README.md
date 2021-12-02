@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-tg-instantview/commits/5ee55f643a7e6c89a9470a16c410e98509bf1c24" title="2021-12-01T22:36:02.000+01:00" target="_blank">5ee55f64</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-tg-instantview" title="EPFL Telegram Instant View (IV)">/epfl-tg-instantview</a></strong></div>
+          <pre>EPFL's instant view template</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/d4d29e7ef6820edb94c7fb659c10aba23126f09f" title="2021-12-01T10:09:04.000+01:00" target="_blank">d4d29e7e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
           <pre>Merge pull request #37 from epfl-si/feature/socia-graph-improved
 
@@ -160,16 +165,11 @@ Fine selection of information related to the current page.
 
 See INC0447342 for further details</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6d0e37b2b62447462516908212fe44bf0d78b5d4" title="2021-11-18T11:30:51.000+01:00" target="_blank">6d0e37b2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[hotfix] refactor restauration plugin task</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 01 Dec 2021 13:45:32 GMT</small>
+<small>⏰ Updated on Thu, 02 Dec 2021 13:45:17 GMT</small>
 </td>
 </tr>
 </tfoot>
