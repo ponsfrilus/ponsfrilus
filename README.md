@@ -103,6 +103,18 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/4d0e7b1a2f149db9ab1c6ea08b0be6ff47558671" title="2021-12-04T16:11:28.000+01:00" target="_blank">4d0e7b1a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[FT.] developer mode removed
+
+And bump to version 1.2.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/c5a0916c28fb1ccf9500b23705df5a3caf216541" title="2021-12-04T16:05:07.000+01:00" target="_blank">c5a0916c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[FT.] Hide some add-on</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-tg-instantview/commits/5ee55f643a7e6c89a9470a16c410e98509bf1c24" title="2021-12-01T22:36:02.000+01:00" target="_blank">5ee55f64</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-tg-instantview" title="EPFL Telegram Instant View (IV)">/epfl-tg-instantview</a></strong></div>
           <pre>EPFL's instant view template</pre>
         </td>
@@ -151,25 +163,11 @@ Fine selection of information related to the current page.
           <div><strong><a href="https://api.github.com/repos/epfl-si/cluster.k8s.testserver/commits/1d95cfc46228c26581e478f52c92fdbdd1468e5d" title="2021-11-19T16:36:05.000+01:00" target="_blank">1d95cfc4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/cluster.k8s.testserver" title="A containerized node webserver to use as a test app on k8s">/cluster.k8s.testserver</a></strong></div>
           <pre>Create k3s-testserver.yml</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/fd97d068afa9a764453e568652befe943c9284c0" title="2021-11-18T15:43:50.000+01:00" target="_blank">fd97d068</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #473 from epfl-si/feature/build-wpbase-without-cache
-
-[fix] do not use cache when building wp-base</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/3dd0f186c206e5f6d12c623f673a6bf3eb7efad8" title="2021-11-18T12:10:46.000+01:00" target="_blank">3dd0f186</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
-          <pre>[add] whitlist edamonitoring.epfl.ch
-
-See INC0447342 for further details</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 03 Dec 2021 13:45:17 GMT</small>
+<small>⏰ Updated on Mon, 06 Dec 2021 13:46:01 GMT</small>
 </td>
 </tr>
 </tfoot>
