@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank">pg_graphql</a>&nbsp;<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank"><img src="https://img.shields.io/github/stars/supabase/pg_graphql?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank">py_regular_expressions</a>&nbsp;<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank"><img src="https://img.shields.io/github/stars/learnbyexample/py_regular_expressions?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank">av1-avif</a>&nbsp;<a href="https://github.com/AOMediaCodec/av1-avif" title="AV1 Image File Format Specification - ISO-BMFF/HEIF derivative" target="_blank"><img src="https://img.shields.io/github/stars/AOMediaCodec/av1-avif?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank">Kata-APOD</a>&nbsp;<a href="https://github.com/JaavLex/Kata-APOD" title="Kata APOD - Astronomy Picture of the Day // create your own APOD browser" target="_blank"><img src="https://img.shields.io/github/stars/JaavLex/Kata-APOD?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank">adventofcode-2021</a>&nbsp;<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank"><img src="https://img.shields.io/github/stars/domq/adventofcode-2021?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank">lazydocker</a>&nbsp;<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank"><img src="https://img.shields.io/github/stars/jesseduffield/lazydocker?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank">zotero</a>&nbsp;<a href="https://github.com/zotero/zotero" title="Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources." target="_blank"><img src="https://img.shields.io/github/stars/zotero/zotero?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank">cantonal-adequation</a>&nbsp;<a href="https://github.com/sephii/cantonal-adequation" title="Measure your Swiss cantonal adequation from votation objects" target="_blank"><img src="https://img.shields.io/github/stars/sephii/cantonal-adequation?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,16 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/12377f61cb38ecde49bfe96dd57337c7e5b2a5bd" title="2021-12-07T17:27:14.000+01:00" target="_blank">12377f61</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[FIX] Result is a string</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/35117074fc4820b2345cd66fed00cebaf996161d" title="2021-12-04T16:17:10.000+01:00" target="_blank">35117074</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[T9N] Translations updated</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/4d0e7b1a2f149db9ab1c6ea08b0be6ff47558671" title="2021-12-04T16:11:28.000+01:00" target="_blank">4d0e7b1a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[FT.] developer mode removed
@@ -153,21 +163,11 @@ Fine selection of information related to the current page.
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/be8d4d2ac287815dff059434a72f34b96d27f1d7" title="2021-11-23T17:10:10.000+01:00" target="_blank">be8d4d2a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
           <pre>[fix] no query strings in URLs</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/c94d285971e72989307a12361d0f34f5818a546b" title="2021-11-23T17:08:49.000+01:00" target="_blank">c94d2859</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
-          <pre>[fix] query strings removed from URLs</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/cluster.k8s.testserver/commits/1d95cfc46228c26581e478f52c92fdbdd1468e5d" title="2021-11-19T16:36:05.000+01:00" target="_blank">1d95cfc4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/cluster.k8s.testserver" title="A containerized node webserver to use as a test app on k8s">/cluster.k8s.testserver</a></strong></div>
-          <pre>Create k3s-testserver.yml</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 07 Dec 2021 13:48:25 GMT</small>
+<small>⏰ Updated on Wed, 08 Dec 2021 13:46:08 GMT</small>
 </td>
 </tr>
 </tfoot>
