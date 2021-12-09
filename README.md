@@ -103,71 +103,64 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/12377f61cb38ecde49bfe96dd57337c7e5b2a5bd" title="2021-12-07T17:27:14.000+01:00" target="_blank">12377f61</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[FIX] Result is a string</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8e1f2fc74a7b1213c179fa407d10e99e5813dab8" title="2021-12-09T11:20:25.000+01:00" target="_blank">8e1f2fc7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] `wp.plugins.mu` tag</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/35117074fc4820b2345cd66fed00cebaf996161d" title="2021-12-04T16:17:10.000+01:00" target="_blank">35117074</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[T9N] Translations updated</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ee278c2afedc1dda8df9dd3931b3050281c7d871" title="2021-12-09T10:26:28.000+01:00" target="_blank">ee278c2a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] removed unused routes</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/4d0e7b1a2f149db9ab1c6ea08b0be6ff47558671" title="2021-12-04T16:11:28.000+01:00" target="_blank">4d0e7b1a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[FT.] developer mode removed
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ca065f9581b9b15e024e9a492bb4730d358013ba" title="2021-12-09T10:23:09.000+01:00" target="_blank">ca065f95</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] whitelist python 3.8.10</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/466fa30dc8e1b85f40feb6484a2eb435c3cd57c5" title="2021-12-09T08:53:30.000+01:00" target="_blank">466fa30d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #476 from epfl-si/feature/epfl-social-graph
 
-And bump to version 1.2.0</pre>
+[feature] EPFL Social Graph</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/c5a0916c28fb1ccf9500b23705df5a3caf216541" title="2021-12-04T16:05:07.000+01:00" target="_blank">c5a0916c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[FT.] Hide some add-on</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-tg-instantview/commits/5ee55f643a7e6c89a9470a16c410e98509bf1c24" title="2021-12-01T22:36:02.000+01:00" target="_blank">5ee55f64</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-tg-instantview" title="EPFL Telegram Instant View (IV)">/epfl-tg-instantview</a></strong></div>
-          <pre>EPFL's instant view template</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/d4d29e7ef6820edb94c7fb659c10aba23126f09f" title="2021-12-01T10:09:04.000+01:00" target="_blank">d4d29e7e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
-          <pre>Merge pull request #37 from epfl-si/feature/socia-graph-improved
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/753b490aaf67f6f936b0ed7968a4a533a2b58fa2" title="2021-12-09T08:45:46.000+01:00" target="_blank">753b490a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] EPFL Social Graph
 
-[feature] social graph improved</pre>
+EPFL Social Graph must use plugin is now splitted from 
+EPFL_functions.php, it needs to be installed.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/afaa60624183f9eb56df19e94b162f115100fe75" title="2021-11-25T17:01:15.000+01:00" target="_blank">afaa6062</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
-          <pre>[fix] PHP notice</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/d719a77e0a3fe5cc525bf75dff662963f0236723" title="2021-12-08T18:55:57.000+01:00" target="_blank">d719a77e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[VER] Bump to v1.4.0</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/1803935d686d6635ab6be220426be70432535f8f" title="2021-11-25T17:00:58.000+01:00" target="_blank">1803935d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
-          <pre>[feature] Social Graph improved
-
-Fine selection of information related to the current page.
-
-- code removed from `epfl-functions.php` and rewritten as a class
-- get info from 'epfl/hero' whenever avalaible
-- more open graph image elements</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/101c9bf3cbb4e9a32b7cd0639124304a19ee769e" title="2021-12-08T18:54:37.000+01:00" target="_blank">101c9bf3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[FT.] ReplyTo email</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/96410a625ca479395d2db8d686f0b2e5eb3d73c8" title="2021-11-23T17:11:05.000+01:00" target="_blank">96410a62</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
-          <pre>Merge pull request #328 from epfl-si/feature/epfl-allowed-iframe
-
-[feature] epfl-allowed-iframe</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/a4f7d4e51d98e35fcf5afb931202923ed5c1de6a" title="2021-12-08T18:04:42.000+01:00" target="_blank">a4f7d4e5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[VER] Bump to 1.3.0</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/be8d4d2ac287815dff059434a72f34b96d27f1d7" title="2021-11-23T17:10:10.000+01:00" target="_blank">be8d4d2a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
-          <pre>[fix] no query strings in URLs</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/3a07d90dbd5a7ff59d81d73578ce3881ca9bab9f" title="2021-12-08T17:58:23.000+01:00" target="_blank">3a07d90d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[FT.] debug/log refactored</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/86490f04f393364162b878f5d6c860c88b332cf6" title="2021-12-08T17:56:49.000+01:00" target="_blank">86490f04</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[DOC] list</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 08 Dec 2021 13:46:08 GMT</small>
+<small>⏰ Updated on Thu, 09 Dec 2021 13:45:44 GMT</small>
 </td>
 </tr>
 </tfoot>
