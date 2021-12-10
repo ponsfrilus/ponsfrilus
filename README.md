@@ -32,13 +32,13 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank">pg_graphql</a>&nbsp;<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank"><img src="https://img.shields.io/github/stars/supabase/pg_graphql?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank">py_regular_expressions</a>&nbsp;<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank"><img src="https://img.shields.io/github/stars/learnbyexample/py_regular_expressions?style=social" alt="GitHub"></a>
-</li>
-<li>
 <a href="https://github.com/epfl-idevfsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank">presence_bot</a>&nbsp;<a href="https://github.com/epfl-idevfsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank"><img src="https://img.shields.io/github/stars/epfl-idevfsd/presence_bot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank">adventofcode-2021</a>&nbsp;<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank"><img src="https://img.shields.io/github/stars/domq/adventofcode-2021?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank">lazydocker</a>&nbsp;<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank"><img src="https://img.shields.io/github/stars/jesseduffield/lazydocker?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank">awesome-k8s-resources</a>&nbsp;<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank"><img src="https://img.shields.io/github/stars/tomhuang12/awesome-k8s-resources?style=social" alt="GitHub"></a>
@@ -66,10 +66,10 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank">adventofcode-2021</a>&nbsp;<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank"><img src="https://img.shields.io/github/stars/domq/adventofcode-2021?style=social" alt="GitHub"></a>
+<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank">pg_graphql</a>&nbsp;<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank"><img src="https://img.shields.io/github/stars/supabase/pg_graphql?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank">lazydocker</a>&nbsp;<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank"><img src="https://img.shields.io/github/stars/jesseduffield/lazydocker?style=social" alt="GitHub"></a>
+<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank">py_regular_expressions</a>&nbsp;<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank"><img src="https://img.shields.io/github/stars/learnbyexample/py_regular_expressions?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank">Telegram-Instant-View-Template-for-Wordpress</a>&nbsp;<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank"><img src="https://img.shields.io/github/stars/olkitu/Telegram-Instant-View-Template-for-Wordpress?style=social" alt="GitHub"></a>
@@ -102,6 +102,26 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/dbbff1f3a077b7002800ee9210e5ef10e9de80a6" title="2021-12-09T16:43:28.000+01:00" target="_blank">dbbff1f3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[VER] Bump to v1.5.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/64963814435482b9ee9d7089bd633a3edc925a08" title="2021-12-09T16:42:20.000+01:00" target="_blank">64963814</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[FIX] Set author to IDEV-FSD</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/04842315fa6febe9e042a1dab99f5ac09d439eea" title="2021-12-09T16:37:50.000+01:00" target="_blank">04842315</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[FT.] Redefine notifications emails when needed</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/abf02d43766a2cc4683f018469b4d03735c4ce3b" title="2021-12-09T16:37:00.000+01:00" target="_blank">abf02d43</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[FIX] PHP notices</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8e1f2fc74a7b1213c179fa407d10e99e5813dab8" title="2021-12-09T11:20:25.000+01:00" target="_blank">8e1f2fc7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[feature] `wp.plugins.mu` tag</pre>
@@ -136,31 +156,11 @@ EPFL_functions.php, it needs to be installed.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/d719a77e0a3fe5cc525bf75dff662963f0236723" title="2021-12-08T18:55:57.000+01:00" target="_blank">d719a77e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[VER] Bump to v1.4.0</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/101c9bf3cbb4e9a32b7cd0639124304a19ee769e" title="2021-12-08T18:54:37.000+01:00" target="_blank">101c9bf3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[FT.] ReplyTo email</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/a4f7d4e51d98e35fcf5afb931202923ed5c1de6a" title="2021-12-08T18:04:42.000+01:00" target="_blank">a4f7d4e5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[VER] Bump to 1.3.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/3a07d90dbd5a7ff59d81d73578ce3881ca9bab9f" title="2021-12-08T17:58:23.000+01:00" target="_blank">3a07d90d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[FT.] debug/log refactored</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/86490f04f393364162b878f5d6c860c88b332cf6" title="2021-12-08T17:56:49.000+01:00" target="_blank">86490f04</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[DOC] list</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 09 Dec 2021 13:45:44 GMT</small>
+<small>⏰ Updated on Fri, 10 Dec 2021 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
