@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/9d73fb40c2dccd16dbabf62d30a3b2fa155c0df2" title="2021-12-10T23:44:00.000+01:00" target="_blank">9d73fb40</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[DOC] HowTo FR</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/dbbff1f3a077b7002800ee9210e5ef10e9de80a6" title="2021-12-09T16:43:28.000+01:00" target="_blank">dbbff1f3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[VER] Bump to v1.5.0</pre>
         </td>
@@ -151,16 +156,11 @@
 EPFL Social Graph must use plugin is now splitted from 
 EPFL_functions.php, it needs to be installed.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/d719a77e0a3fe5cc525bf75dff662963f0236723" title="2021-12-08T18:55:57.000+01:00" target="_blank">d719a77e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[VER] Bump to v1.4.0</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 10 Dec 2021 13:45:15 GMT</small>
+<small>⏰ Updated on Mon, 13 Dec 2021 13:45:34 GMT</small>
 </td>
 </tr>
 </tfoot>
