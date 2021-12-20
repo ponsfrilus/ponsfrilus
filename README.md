@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/meteor/react-tutorial/commits/52e52808ad8e19d8480a1f30b3d5bccc238ebce2" title="2021-12-16T21:08:08.000+01:00" target="_blank">52e52808</a><a href="https://github.com/meteor">@meteor</a><a href="https://github.com/meteor/react-tutorial" title="React Tutorial is the best place to learn how to use React and Meteor together">/react-tutorial</a></strong></div>
+          <pre>Fix intermediate code</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/meteor/react-tutorial/commits/9245a60f84af5e9ad0e4eaff2cfe2c55d27e21bc" title="2021-12-16T21:07:59.000+01:00" target="_blank">9245a60f</a><a href="https://github.com/meteor">@meteor</a><a href="https://github.com/meteor/react-tutorial" title="React Tutorial is the best place to learn how to use React and Meteor together">/react-tutorial</a></strong></div>
+          <pre>Unecessary spaces removed</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/3994ed95f4c1f9887334576c7fdc5412ed01f77d" title="2021-12-14T21:51:42.000+01:00" target="_blank">3994ed95</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[DOC] HowTo FR</pre>
         </td>
@@ -141,26 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ca065f9581b9b15e024e9a492bb4730d358013ba" title="2021-12-09T10:23:09.000+01:00" target="_blank">ca065f95</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[fix] whitelist python 3.8.10</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/466fa30dc8e1b85f40feb6484a2eb435c3cd57c5" title="2021-12-09T08:53:30.000+01:00" target="_blank">466fa30d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #476 from epfl-si/feature/epfl-social-graph
-
-[feature] EPFL Social Graph</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/753b490aaf67f6f936b0ed7968a4a533a2b58fa2" title="2021-12-09T08:45:46.000+01:00" target="_blank">753b490a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] EPFL Social Graph
-
-EPFL Social Graph must use plugin is now splitted from 
-EPFL_functions.php, it needs to be installed.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 17 Dec 2021 13:45:41 GMT</small>
+<small>⏰ Updated on Mon, 20 Dec 2021 13:46:57 GMT</small>
 </td>
 </tr>
 </tfoot>
