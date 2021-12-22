@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/256043bcd3e692652ad583bf062fdc07594fb6c5" title="2021-12-22T14:12:50.000+01:00" target="_blank">256043bc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[feature] christmas alerting 7 days</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/25ced6d876f3c0c62ef0961a7ebb20ed8cdc3230" title="2021-12-22T10:47:23.000+01:00" target="_blank">25ced6d8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
+          <pre>[chore] bump to version 1.38.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/f6de5eb27bb20516b0eb267c9f780eba7b260fe0" title="2021-12-22T10:40:11.000+01:00" target="_blank">f6de5eb2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
+          <pre>[fix] alert to search within EPFL for the time being</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/meteor/react-tutorial/commits/52e52808ad8e19d8480a1f30b3d5bccc238ebce2" title="2021-12-16T21:08:08.000+01:00" target="_blank">52e52808</a><a href="https://github.com/meteor">@meteor</a><a href="https://github.com/meteor/react-tutorial" title="React Tutorial is the best place to learn how to use React and Meteor together">/react-tutorial</a></strong></div>
           <pre>Fix intermediate code</pre>
         </td>
@@ -136,26 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/abf02d43766a2cc4683f018469b4d03735c4ce3b" title="2021-12-09T16:37:00.000+01:00" target="_blank">abf02d43</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[FIX] PHP notices</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8e1f2fc74a7b1213c179fa407d10e99e5813dab8" title="2021-12-09T11:20:25.000+01:00" target="_blank">8e1f2fc7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] `wp.plugins.mu` tag</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ee278c2afedc1dda8df9dd3931b3050281c7d871" title="2021-12-09T10:26:28.000+01:00" target="_blank">ee278c2a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] removed unused routes</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ca065f9581b9b15e024e9a492bb4730d358013ba" title="2021-12-09T10:23:09.000+01:00" target="_blank">ca065f95</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] whitelist python 3.8.10</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 21 Dec 2021 13:46:23 GMT</small>
+<small>⏰ Updated on Wed, 22 Dec 2021 13:46:41 GMT</small>
 </td>
 </tr>
 </tfoot>
