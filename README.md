@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank">rts-parlometre</a>&nbsp;<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank"><img src="https://img.shields.io/github/stars/jplusplus/rts-parlometre?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank">rawgraphs-app</a>&nbsp;<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank"><img src="https://img.shields.io/github/stars/rawgraphs/rawgraphs-app?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank">lapce</a>&nbsp;<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/lapce/lapce?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank">pg_graphql</a>&nbsp;<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank"><img src="https://img.shields.io/github/stars/supabase/pg_graphql?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank">py_regular_expressions</a>&nbsp;<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank"><img src="https://img.shields.io/github/stars/learnbyexample/py_regular_expressions?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank">Telegram-Instant-View-Template-for-Wordpress</a>&nbsp;<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank"><img src="https://img.shields.io/github/stars/olkitu/Telegram-Instant-View-Template-for-Wordpress?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/AppFlowy-IO/appflowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank">appflowy</a>&nbsp;<a href="https://github.com/AppFlowy-IO/appflowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank"><img src="https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank">3D-printed-mirror-array</a>&nbsp;<a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank"><img src="https://img.shields.io/github/stars/bencbartlett/3D-printed-mirror-array?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/OWASP/www-project-top-ten" title="OWASP Foundation Web Respository" target="_blank">www-project-top-ten</a>&nbsp;<a href="https://github.com/OWASP/www-project-top-ten" title="OWASP Foundation Web Respository" target="_blank"><img src="https://img.shields.io/github/stars/OWASP/www-project-top-ten?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/m5stack/M5EPD" title="null" target="_blank">M5EPD</a>&nbsp;<a href="https://github.com/m5stack/M5EPD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/m5stack/M5EPD?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/Financial-Times/chart-doctor" title="Sample files to accompany the FT's Chart Doctor column" target="_blank">chart-doctor</a>&nbsp;<a href="https://github.com/Financial-Times/chart-doctor" title="Sample files to accompany the FT's Chart Doctor column" target="_blank"><img src="https://img.shields.io/github/stars/Financial-Times/chart-doctor?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank">directus</a>&nbsp;<a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank"><img src="https://img.shields.io/github/stars/directus/directus?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/mysql/mysql-workbench" title="MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more." target="_blank">mysql-workbench</a>&nbsp;<a href="https://github.com/mysql/mysql-workbench" title="MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more." target="_blank"><img src="https://img.shields.io/github/stars/mysql/mysql-workbench?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank">sqlectron-gui</a>&nbsp;<a href="https://github.com/sqlectron/sqlectron-gui" title="A simple and lightweight SQL client desktop with cross database and platform support." target="_blank"><img src="https://img.shields.io/github/stars/sqlectron/sqlectron-gui?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank">lapce</a>&nbsp;<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/lapce/lapce?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank">pg_graphql</a>&nbsp;<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank"><img src="https://img.shields.io/github/stars/supabase/pg_graphql?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank">py_regular_expressions</a>&nbsp;<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank"><img src="https://img.shields.io/github/stars/learnbyexample/py_regular_expressions?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank">Telegram-Instant-View-Template-for-Wordpress</a>&nbsp;<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank"><img src="https://img.shields.io/github/stars/olkitu/Telegram-Instant-View-Template-for-Wordpress?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/AppFlowy-IO/appflowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank">appflowy</a>&nbsp;<a href="https://github.com/AppFlowy-IO/appflowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank"><img src="https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank">3D-printed-mirror-array</a>&nbsp;<a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank"><img src="https://img.shields.io/github/stars/bencbartlett/3D-printed-mirror-array?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/OWASP/www-project-top-ten" title="OWASP Foundation Web Respository" target="_blank">www-project-top-ten</a>&nbsp;<a href="https://github.com/OWASP/www-project-top-ten" title="OWASP Foundation Web Respository" target="_blank"><img src="https://img.shields.io/github/stars/OWASP/www-project-top-ten?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/m5stack/M5EPD" title="null" target="_blank">M5EPD</a>&nbsp;<a href="https://github.com/m5stack/M5EPD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/m5stack/M5EPD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rahul-thakoor/balena-rpiplay" title="Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors." target="_blank">balena-rpiplay</a>&nbsp;<a href="https://github.com/rahul-thakoor/balena-rpiplay" title="Turn a Raspberry Pi into an Airplay server using RPiPlay to enable screen mirroring on tvs, monitors and projectors." target="_blank"><img src="https://img.shields.io/github/stars/rahul-thakoor/balena-rpiplay?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank">hacktoberfest-swag-list</a>&nbsp;<a href="https://github.com/crweiner/hacktoberfest-swag-list" title="Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all." target="_blank"><img src="https://img.shields.io/github/stars/crweiner/hacktoberfest-swag-list?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 05 Jan 2022 13:47:13 GMT</small>
+<small>⏰ Updated on Thu, 06 Jan 2022 13:47:22 GMT</small>
 </td>
 </tr>
 </tfoot>
