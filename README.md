@@ -103,6 +103,29 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f428787d02d88f1bfdac96ce3bbc6270dc2dd029" title="2022-01-11T09:24:41.000+01:00" target="_blank">f428787d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #477 from epfl-si/feature/aws-default-region
+
+[feature] define `AWS_DEFAULT_REGION` environment variable</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/3dbd3308203f8f965ac419e73106b17e32520f02" title="2022-01-10T16:00:31.000+01:00" target="_blank">3dbd3308</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>This commit ensures that the AWS's default region is defined in all environments.
+
+Set to "us-east-1" (which is the default), this environment variable is 
+used by aws-cli and restic. It can be overridden with:
+   - `--region` for `aws` command,
+   - `-o s3.region="us-east-1"` for `restic` command.
+
+Please check the [AWS-cli 
+documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-options.html) 
+and the [Restic 
+documentation](https://restic.readthedocs.io/en/stable/030_preparing_a_new_repo.html#amazon-s3)
+for further details.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/256043bcd3e692652ad583bf062fdc07594fb6c5" title="2021-12-22T14:12:50.000+01:00" target="_blank">256043bc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
           <pre>[feature] christmas alerting 7 days</pre>
         </td>
@@ -141,21 +164,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/64963814435482b9ee9d7089bd633a3edc925a08" title="2021-12-09T16:42:20.000+01:00" target="_blank">64963814</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[FIX] Set author to IDEV-FSD</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/04842315fa6febe9e042a1dab99f5ac09d439eea" title="2021-12-09T16:37:50.000+01:00" target="_blank">04842315</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[FT.] Redefine notifications emails when needed</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/abf02d43766a2cc4683f018469b4d03735c4ce3b" title="2021-12-09T16:37:00.000+01:00" target="_blank">abf02d43</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[FIX] PHP notices</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 10 Jan 2022 13:47:51 GMT</small>
+<small>⏰ Updated on Tue, 11 Jan 2022 13:47:37 GMT</small>
 </td>
 </tr>
 </tfoot>
