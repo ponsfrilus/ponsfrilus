@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/93ed9e238d5b2f03eb2f2a4ebc47aadfaa46cbef" title="2022-01-12T16:29:24.000+01:00" target="_blank">93ed9e23</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[access] clean up c2c access</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f428787d02d88f1bfdac96ce3bbc6270dc2dd029" title="2022-01-11T09:24:41.000+01:00" target="_blank">f428787d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #477 from epfl-si/feature/aws-default-region
 
@@ -159,16 +164,11 @@ for further details.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/dbbff1f3a077b7002800ee9210e5ef10e9de80a6" title="2021-12-09T16:43:28.000+01:00" target="_blank">dbbff1f3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[VER] Bump to v1.5.0</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/64963814435482b9ee9d7089bd633a3edc925a08" title="2021-12-09T16:42:20.000+01:00" target="_blank">64963814</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[FIX] Set author to IDEV-FSD</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 12 Jan 2022 13:47:42 GMT</small>
+<small>⏰ Updated on Thu, 13 Jan 2022 13:47:36 GMT</small>
 </td>
 </tr>
 </tfoot>
