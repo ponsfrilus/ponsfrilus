@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/isa-monitoring/commits/2677501e87a4242c1f06ab6bd81346b70865de2e" title="2022-01-14T11:28:49.000+01:00" target="_blank">2677501e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/isa-monitoring" title="null">/isa-monitoring</a></strong></div>
+          <pre>[doc] add note on Grafana's organizations</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/93ed9e238d5b2f03eb2f2a4ebc47aadfaa46cbef" title="2022-01-12T16:29:24.000+01:00" target="_blank">93ed9e23</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[access] clean up c2c access</pre>
         </td>
@@ -159,16 +164,11 @@ for further details.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/3994ed95f4c1f9887334576c7fdc5412ed01f77d" title="2021-12-14T21:51:42.000+01:00" target="_blank">3994ed95</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[DOC] HowTo FR</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/dbbff1f3a077b7002800ee9210e5ef10e9de80a6" title="2021-12-09T16:43:28.000+01:00" target="_blank">dbbff1f3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[VER] Bump to v1.5.0</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 13 Jan 2022 13:47:36 GMT</small>
+<small>⏰ Updated on Fri, 14 Jan 2022 13:47:20 GMT</small>
 </td>
 </tr>
 </tfoot>
