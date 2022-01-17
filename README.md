@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/e14a4c73a1ea38fbdb7a43df08d9d45fb7f4b72e" title="2022-01-14T16:11:06.000+01:00" target="_blank">e14a4c73</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[isas] fix email names</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/isa-monitoring/commits/2677501e87a4242c1f06ab6bd81346b70865de2e" title="2022-01-14T11:28:49.000+01:00" target="_blank">2677501e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/isa-monitoring" title="null">/isa-monitoring</a></strong></div>
           <pre>[doc] add note on Grafana's organizations</pre>
         </td>
@@ -159,16 +164,11 @@ for further details.</pre>
           <div><strong><a href="https://api.github.com/repos/meteor/react-tutorial/commits/9245a60f84af5e9ad0e4eaff2cfe2c55d27e21bc" title="2021-12-16T21:07:59.000+01:00" target="_blank">9245a60f</a><a href="https://github.com/meteor">@meteor</a><a href="https://github.com/meteor/react-tutorial" title="React Tutorial is the best place to learn how to use React and Meteor together">/react-tutorial</a></strong></div>
           <pre>Unecessary spaces removed</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/3994ed95f4c1f9887334576c7fdc5412ed01f77d" title="2021-12-14T21:51:42.000+01:00" target="_blank">3994ed95</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[DOC] HowTo FR</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 14 Jan 2022 13:47:20 GMT</small>
+<small>⏰ Updated on Mon, 17 Jan 2022 13:48:06 GMT</small>
 </td>
 </tr>
 </tfoot>
