@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/meilisearch/product" title="Public feedback and ideation discussions for MeiliSearch product 🔮" target="_blank">product</a>&nbsp;<a href="https://github.com/meilisearch/product" title="Public feedback and ideation discussions for MeiliSearch product 🔮" target="_blank"><img src="https://img.shields.io/github/stars/meilisearch/product?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Financial-Times/chart-doctor" title="Sample files to accompany the FT's Chart Doctor column" target="_blank">chart-doctor</a>&nbsp;<a href="https://github.com/Financial-Times/chart-doctor" title="Sample files to accompany the FT's Chart Doctor column" target="_blank"><img src="https://img.shields.io/github/stars/Financial-Times/chart-doctor?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank">directus</a>&nbsp;<a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank"><img src="https://img.shields.io/github/stars/directus/directus?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-idevfsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank">presence_bot</a>&nbsp;<a href="https://github.com/epfl-idevfsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank"><img src="https://img.shields.io/github/stars/epfl-idevfsd/presence_bot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank">adventofcode-2021</a>&nbsp;<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank"><img src="https://img.shields.io/github/stars/domq/adventofcode-2021?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank">lazydocker</a>&nbsp;<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank"><img src="https://img.shields.io/github/stars/jesseduffield/lazydocker?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank">awesome-k8s-resources</a>&nbsp;<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank"><img src="https://img.shields.io/github/stars/tomhuang12/awesome-k8s-resources?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank">useful-sed</a>&nbsp;<a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank"><img src="https://img.shields.io/github/stars/adrianscheff/useful-sed?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kenp-io/not-for-iphone-usb-c" title="null" target="_blank">not-for-iphone-usb-c</a>&nbsp;<a href="https://github.com/kenp-io/not-for-iphone-usb-c" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kenp-io/not-for-iphone-usb-c?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gopasspw/gopass" title="The slightly more awesome standard unix password manager for teams" target="_blank">gopass</a>&nbsp;<a href="https://github.com/gopasspw/gopass" title="The slightly more awesome standard unix password manager for teams" target="_blank"><img src="https://img.shields.io/github/stars/gopasspw/gopass?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank">rts-parlometre</a>&nbsp;<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank"><img src="https://img.shields.io/github/stars/jplusplus/rts-parlometre?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/Financial-Times/chart-doctor" title="Sample files to accompany the FT's Chart Doctor column" target="_blank">chart-doctor</a>&nbsp;<a href="https://github.com/Financial-Times/chart-doctor" title="Sample files to accompany the FT's Chart Doctor column" target="_blank"><img src="https://img.shields.io/github/stars/Financial-Times/chart-doctor?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank">directus</a>&nbsp;<a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank"><img src="https://img.shields.io/github/stars/directus/directus?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-idevfsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank">presence_bot</a>&nbsp;<a href="https://github.com/epfl-idevfsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank"><img src="https://img.shields.io/github/stars/epfl-idevfsd/presence_bot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank">adventofcode-2021</a>&nbsp;<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank"><img src="https://img.shields.io/github/stars/domq/adventofcode-2021?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank">lazydocker</a>&nbsp;<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank"><img src="https://img.shields.io/github/stars/jesseduffield/lazydocker?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank">awesome-k8s-resources</a>&nbsp;<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank"><img src="https://img.shields.io/github/stars/tomhuang12/awesome-k8s-resources?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank">useful-sed</a>&nbsp;<a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank"><img src="https://img.shields.io/github/stars/adrianscheff/useful-sed?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kenp-io/not-for-iphone-usb-c" title="null" target="_blank">not-for-iphone-usb-c</a>&nbsp;<a href="https://github.com/kenp-io/not-for-iphone-usb-c" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kenp-io/not-for-iphone-usb-c?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gopasspw/gopass" title="The slightly more awesome standard unix password manager for teams" target="_blank">gopass</a>&nbsp;<a href="https://github.com/gopasspw/gopass" title="The slightly more awesome standard unix password manager for teams" target="_blank"><img src="https://img.shields.io/github/stars/gopasspw/gopass?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mysql/mysql-workbench" title="MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more." target="_blank">mysql-workbench</a>&nbsp;<a href="https://github.com/mysql/mysql-workbench" title="MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more." target="_blank"><img src="https://img.shields.io/github/stars/mysql/mysql-workbench?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/d19f2f711b938f1306bbbd284d1a354cb5a5ebd8" title="2022-01-19T09:21:16.000+01:00" target="_blank">d19f2f71</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les travails pratiques individuels (TPI) de fin d'apprentissage des informaticiens CFC.">/Awesome-TPI</a></strong></div>
+          <pre>[doc] add another daily schedule</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/e14a4c73a1ea38fbdb7a43df08d9d45fb7f4b72e" title="2022-01-14T16:11:06.000+01:00" target="_blank">e14a4c73</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
           <pre>[isas] fix email names</pre>
@@ -159,16 +164,11 @@ for further details.</pre>
           <div><strong><a href="https://api.github.com/repos/meteor/react-tutorial/commits/52e52808ad8e19d8480a1f30b3d5bccc238ebce2" title="2021-12-16T21:08:08.000+01:00" target="_blank">52e52808</a><a href="https://github.com/meteor">@meteor</a><a href="https://github.com/meteor/react-tutorial" title="React Tutorial is the best place to learn how to use React and Meteor together">/react-tutorial</a></strong></div>
           <pre>Fix intermediate code</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/meteor/react-tutorial/commits/9245a60f84af5e9ad0e4eaff2cfe2c55d27e21bc" title="2021-12-16T21:07:59.000+01:00" target="_blank">9245a60f</a><a href="https://github.com/meteor">@meteor</a><a href="https://github.com/meteor/react-tutorial" title="React Tutorial is the best place to learn how to use React and Meteor together">/react-tutorial</a></strong></div>
-          <pre>Unecessary spaces removed</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 18 Jan 2022 13:47:45 GMT</small>
+<small>⏰ Updated on Wed, 19 Jan 2022 13:45:22 GMT</small>
 </td>
 </tr>
 </tfoot>
