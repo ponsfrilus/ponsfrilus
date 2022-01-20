@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/epfl-si/socialharvest" title="Cache social network like and followers counts for EPFL" target="_blank">socialharvest</a>&nbsp;<a href="https://github.com/epfl-si/socialharvest" title="Cache social network like and followers counts for EPFL" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/socialharvest?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank">rts-parlometre</a>&nbsp;<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank"><img src="https://img.shields.io/github/stars/jplusplus/rts-parlometre?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank">rawgraphs-app</a>&nbsp;<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank"><img src="https://img.shields.io/github/stars/rawgraphs/rawgraphs-app?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank">lapce</a>&nbsp;<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/lapce/lapce?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank">pg_graphql</a>&nbsp;<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank"><img src="https://img.shields.io/github/stars/supabase/pg_graphql?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank">py_regular_expressions</a>&nbsp;<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank"><img src="https://img.shields.io/github/stars/learnbyexample/py_regular_expressions?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank">Telegram-Instant-View-Template-for-Wordpress</a>&nbsp;<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank"><img src="https://img.shields.io/github/stars/olkitu/Telegram-Instant-View-Template-for-Wordpress?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/AppFlowy-IO/appflowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank">appflowy</a>&nbsp;<a href="https://github.com/AppFlowy-IO/appflowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank"><img src="https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank">3D-printed-mirror-array</a>&nbsp;<a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank"><img src="https://img.shields.io/github/stars/bencbartlett/3D-printed-mirror-array?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/OWASP/www-project-top-ten" title="OWASP Foundation Web Respository" target="_blank">www-project-top-ten</a>&nbsp;<a href="https://github.com/OWASP/www-project-top-ten" title="OWASP Foundation Web Respository" target="_blank"><img src="https://img.shields.io/github/stars/OWASP/www-project-top-ten?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/meilisearch/product" title="Public feedback and ideation discussions for MeiliSearch product 🔮" target="_blank">product</a>&nbsp;<a href="https://github.com/meilisearch/product" title="Public feedback and ideation discussions for MeiliSearch product 🔮" target="_blank"><img src="https://img.shields.io/github/stars/meilisearch/product?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,112 +97,70 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank">rts-parlometre</a>&nbsp;<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank"><img src="https://img.shields.io/github/stars/jplusplus/rts-parlometre?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank">rawgraphs-app</a>&nbsp;<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank"><img src="https://img.shields.io/github/stars/rawgraphs/rawgraphs-app?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank">lapce</a>&nbsp;<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/lapce/lapce?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank">pg_graphql</a>&nbsp;<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank"><img src="https://img.shields.io/github/stars/supabase/pg_graphql?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank">py_regular_expressions</a>&nbsp;<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank"><img src="https://img.shields.io/github/stars/learnbyexample/py_regular_expressions?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank">Telegram-Instant-View-Template-for-Wordpress</a>&nbsp;<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank"><img src="https://img.shields.io/github/stars/olkitu/Telegram-Instant-View-Template-for-Wordpress?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/AppFlowy-IO/appflowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank">appflowy</a>&nbsp;<a href="https://github.com/AppFlowy-IO/appflowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank"><img src="https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank">3D-printed-mirror-array</a>&nbsp;<a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank"><img src="https://img.shields.io/github/stars/bencbartlett/3D-printed-mirror-array?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/OWASP/www-project-top-ten" title="OWASP Foundation Web Respository" target="_blank">www-project-top-ten</a>&nbsp;<a href="https://github.com/OWASP/www-project-top-ten" title="OWASP Foundation Web Respository" target="_blank"><img src="https://img.shields.io/github/stars/OWASP/www-project-top-ten?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/m5stack/M5EPD" title="null" target="_blank">M5EPD</a>&nbsp;<a href="https://github.com/m5stack/M5EPD" title="null" target="_blank"><img src="https://img.shields.io/github/stars/m5stack/M5EPD?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/d19f2f711b938f1306bbbd284d1a354cb5a5ebd8" title="2022-01-19T09:21:16.000+01:00" target="_blank">d19f2f71</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les travails pratiques individuels (TPI) de fin d'apprentissage des informaticiens CFC.">/Awesome-TPI</a></strong></div>
-          <pre>[doc] add another daily schedule</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/425c3bccfd389f427d98ec367e37c43b1b8d3333" title="2022-01-19T18:15:04.000+01:00" target="_blank">425c3bcc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[feature] optional version + git-tag</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/e14a4c73a1ea38fbdb7a43df08d9d45fb7f4b72e" title="2022-01-14T16:11:06.000+01:00" target="_blank">e14a4c73</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[isas] fix email names</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/3927edee76209b3be1c9467d057559550fd6f9cd" title="2022-01-19T18:11:55.000+01:00" target="_blank">3927edee</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[bump] to version 1.16.0</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/isa-monitoring/commits/2677501e87a4242c1f06ab6bd81346b70865de2e" title="2022-01-14T11:28:49.000+01:00" target="_blank">2677501e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/isa-monitoring" title="null">/isa-monitoring</a></strong></div>
-          <pre>[doc] add note on Grafana's organizations</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/93ed9e238d5b2f03eb2f2a4ebc47aadfaa46cbef" title="2022-01-12T16:29:24.000+01:00" target="_blank">93ed9e23</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[access] clean up c2c access</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f428787d02d88f1bfdac96ce3bbc6270dc2dd029" title="2022-01-11T09:24:41.000+01:00" target="_blank">f428787d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #477 from epfl-si/feature/aws-default-region
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/0418a44d6805eda535730fa287d00d22df81ad9d" title="2022-01-19T18:02:03.000+01:00" target="_blank">0418a44d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] always look at generated API's doc
 
-[feature] define `AWS_DEFAULT_REGION` environment variable</pre>
+e.g. dont wait 15 minutes for nothing because you forget to press "no".</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/3dbd3308203f8f965ac419e73106b17e32520f02" title="2022-01-10T16:00:31.000+01:00" target="_blank">3dbd3308</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>This commit ensures that the AWS's default region is defined in all environments.
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/612119c73abab2e45475d2a18392c4f32852c8cf" title="2022-01-19T18:00:32.000+01:00" target="_blank">612119c7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[feature] parse_mode=markdown for chat-ops
 
-Set to "us-east-1" (which is the default), this environment variable is 
-used by aws-cli and restic. It can be overridden with:
-   - `--region` for `aws` command,
-   - `-o s3.region="us-east-1"` for `restic` command.
-
-Please check the [AWS-cli 
-documentation](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-options.html) 
-and the [Restic 
-documentation](https://restic.readthedocs.io/en/stable/030_preparing_a_new_repo.html#amazon-s3)
-for further details.</pre>
+Which allow some small improvements in the messages, such as named 
+links.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/256043bcd3e692652ad583bf062fdc07594fb6c5" title="2021-12-22T14:12:50.000+01:00" target="_blank">256043bc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[feature] christmas alerting 7 days</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/79b06fc80ee929face43bb5f9492a3e11bde2b6c" title="2022-01-19T17:28:39.000+01:00" target="_blank">79b06fc8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] chat-ops msg</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/25ced6d876f3c0c62ef0961a7ebb20ed8cdc3230" title="2021-12-22T10:47:23.000+01:00" target="_blank">25ced6d8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
-          <pre>[chore] bump to version 1.38.0</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/9d040b56010c2a7aeb6d6e29fca050a80f420096" title="2022-01-19T17:18:13.000+01:00" target="_blank">9d040b56</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[bump] to version 1.14.0</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/f6de5eb27bb20516b0eb267c9f780eba7b260fe0" title="2021-12-22T10:40:11.000+01:00" target="_blank">f6de5eb2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
-          <pre>[fix] alert to search within EPFL for the time being</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/4a2edca7da47a652480341ec8b4a393631367d7d" title="2022-01-19T17:17:58.000+01:00" target="_blank">4a2edca7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[doc] release's doc updated</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/meteor/react-tutorial/commits/52e52808ad8e19d8480a1f30b3d5bccc238ebce2" title="2021-12-16T21:08:08.000+01:00" target="_blank">52e52808</a><a href="https://github.com/meteor">@meteor</a><a href="https://github.com/meteor/react-tutorial" title="React Tutorial is the best place to learn how to use React and Meteor together">/react-tutorial</a></strong></div>
-          <pre>Fix intermediate code</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/89620238f3a959b20738f0a5f8940142bc7630df" title="2022-01-19T17:17:30.000+01:00" target="_blank">89620238</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[feature] chat-ops improved</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/5e1ff7b9d7bb1806c0c298be511cc8a2de9552a4" title="2022-01-19T17:16:22.000+01:00" target="_blank">5e1ff7b9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] unique version number</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/9ede68ce00b0a75268dc713e0c5f5c9888dc9239" title="2022-01-19T16:02:27.000+01:00" target="_blank">9ede68ce</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] echo URL at the end of the deployment</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 19 Jan 2022 13:45:22 GMT</small>
+<small>⏰ Updated on Thu, 20 Jan 2022 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
