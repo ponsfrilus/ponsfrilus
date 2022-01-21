@@ -103,6 +103,31 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-quatre/commits/5cadba9c00dd25a98559f6bcc7c8e868a31b1a0c" title="2022-01-20T18:07:11.000+01:00" target="_blank">5cadba9c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !">/kata-quatre</a></strong></div>
+          <pre>[init] first version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/bdb21d749973a92396721fdc033494b21c6ede09" title="2022-01-20T17:31:15.000+01:00" target="_blank">bdb21d74</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
+          <pre>Merge pull request #40 from epfl-si/fix/39-htmlentities
+
+[fix] specialchars in social-graph metadata</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/7c65098bb25c8ae5cdacd3760851e630391a0266" title="2022-01-20T16:21:24.000+01:00" target="_blank">7c65098b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
+          <pre>[fix] specialchar in social-graph metadata
+
+It appears that decoding the HTML entities with `html_entity_decode()` 
+was a non-goal as it is already managed by WordPress in almost all the 
+case. The escaping of HTML is still needed when getting the post meta. 
+`wp_strip_all_tags` is needed in case we use an HTML excerpt or 
+description.
+
+This fixes #39</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/425c3bccfd389f427d98ec367e37c43b1b8d3333" title="2022-01-19T18:15:04.000+01:00" target="_blank">425c3bcc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[feature] optional version + git-tag</pre>
         </td>
@@ -141,26 +166,11 @@ links.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/4a2edca7da47a652480341ec8b4a393631367d7d" title="2022-01-19T17:17:58.000+01:00" target="_blank">4a2edca7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[doc] release's doc updated</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/89620238f3a959b20738f0a5f8940142bc7630df" title="2022-01-19T17:17:30.000+01:00" target="_blank">89620238</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] chat-ops improved</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/5e1ff7b9d7bb1806c0c298be511cc8a2de9552a4" title="2022-01-19T17:16:22.000+01:00" target="_blank">5e1ff7b9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] unique version number</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/9ede68ce00b0a75268dc713e0c5f5c9888dc9239" title="2022-01-19T16:02:27.000+01:00" target="_blank">9ede68ce</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] echo URL at the end of the deployment</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 20 Jan 2022 13:45:15 GMT</small>
+<small>⏰ Updated on Fri, 21 Jan 2022 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
