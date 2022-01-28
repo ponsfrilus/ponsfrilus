@@ -44,7 +44,7 @@
 <a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank">directus</a>&nbsp;<a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank"><img src="https://img.shields.io/github/stars/directus/directus?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/epfl-idevfsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank">presence_bot</a>&nbsp;<a href="https://github.com/epfl-idevfsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank"><img src="https://img.shields.io/github/stars/epfl-idevfsd/presence_bot?style=social" alt="GitHub"></a>
+<a href="https://github.com/epfl-fsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank">presence_bot</a>&nbsp;<a href="https://github.com/epfl-fsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/presence_bot?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank">adventofcode-2021</a>&nbsp;<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank"><img src="https://img.shields.io/github/stars/domq/adventofcode-2021?style=social" alt="GitHub"></a>
@@ -102,6 +102,11 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/1e2c2f3259405ffae7d75bf91bf957afc67a9382" title="2022-01-28T13:13:54.000+01:00" target="_blank">1e2c2f32</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
+          <pre>[init] welcome fsdteamsible</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-quatre/commits/5cadba9c00dd25a98559f6bcc7c8e868a31b1a0c" title="2022-01-20T18:07:11.000+01:00" target="_blank">5cadba9c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !">/kata-quatre</a></strong></div>
           <pre>[init] first version</pre>
@@ -161,16 +166,11 @@ links.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/9d040b56010c2a7aeb6d6e29fca050a80f420096" title="2022-01-19T17:18:13.000+01:00" target="_blank">9d040b56</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[bump] to version 1.14.0</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/4a2edca7da47a652480341ec8b4a393631367d7d" title="2022-01-19T17:17:58.000+01:00" target="_blank">4a2edca7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[doc] release's doc updated</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 27 Jan 2022 13:45:21 GMT</small>
+<small>⏰ Updated on Fri, 28 Jan 2022 13:45:23 GMT</small>
 </td>
 </tr>
 </tfoot>
