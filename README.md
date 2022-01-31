@@ -103,74 +103,59 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/1e2c2f3259405ffae7d75bf91bf957afc67a9382" title="2022-01-28T13:13:54.000+01:00" target="_blank">1e2c2f32</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
-          <pre>[init] welcome fsdteamsible</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/5bf385e419dc30e7ea343f1f25ae569ecb6f2262" title="2022-01-30T19:15:11.000+01:00" target="_blank">5bf385e4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
+          <pre>[feature] IQ sort</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-quatre/commits/5cadba9c00dd25a98559f6bcc7c8e868a31b1a0c" title="2022-01-20T18:07:11.000+01:00" target="_blank">5cadba9c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !">/kata-quatre</a></strong></div>
-          <pre>[init] first version</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/0eb7c3a3c714dbc0003b39b596295be81168730d" title="2022-01-30T19:04:16.000+01:00" target="_blank">0eb7c3a3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
+          <pre>[feature] auto summary at midnight</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/bdb21d749973a92396721fdc033494b21c6ede09" title="2022-01-20T17:31:15.000+01:00" target="_blank">bdb21d74</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
-          <pre>Merge pull request #40 from epfl-si/fix/39-htmlentities
-
-[fix] specialchars in social-graph metadata</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/61bc63c944c498ec1c0f55bc753ea1bdb0daf524" title="2022-01-30T15:43:51.000+01:00" target="_blank">61bc63c9</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
+          <pre>[feature] stats summary</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/7c65098bb25c8ae5cdacd3760851e630391a0266" title="2022-01-20T16:21:24.000+01:00" target="_blank">7c65098b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
-          <pre>[fix] specialchar in social-graph metadata
-
-It appears that decoding the HTML entities with `html_entity_decode()` 
-was a non-goal as it is already managed by WordPress in almost all the 
-case. The escaping of HTML is still needed when getting the post meta. 
-`wp_strip_all_tags` is needed in case we use an HTML excerpt or 
-description.
-
-This fixes #39</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/45fcd50095dbf71609c264a0db108b7eddb3b91b" title="2022-01-30T11:07:36.000+01:00" target="_blank">45fcd500</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
+          <pre>[feature] tuhis's command improvements</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/425c3bccfd389f427d98ec367e37c43b1b8d3333" title="2022-01-19T18:15:04.000+01:00" target="_blank">425c3bcc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] optional version + git-tag</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/ac11866f928c3f07b0799bb47666b6d7924d1f12" title="2022-01-30T11:07:07.000+01:00" target="_blank">ac11866f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
+          <pre>[refactor] function helpers</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/3927edee76209b3be1c9467d057559550fd6f9cd" title="2022-01-19T18:11:55.000+01:00" target="_blank">3927edee</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[bump] to version 1.16.0</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/0194d3ae25206686c34ad4e798d4da2f9b3ced81" title="2022-01-30T10:44:39.000+01:00" target="_blank">0194d3ae</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
+          <pre>[feature] brain command</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/0418a44d6805eda535730fa287d00d22df81ad9d" title="2022-01-19T18:02:03.000+01:00" target="_blank">0418a44d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] always look at generated API's doc
-
-e.g. dont wait 15 minutes for nothing because you forget to press "no".</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/2d7bcff3d102204b8bb08157b82181762de66730" title="2022-01-30T08:49:15.000+01:00" target="_blank">2d7bcff3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
+          <pre>[feature] affinity limited to once a day</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/612119c73abab2e45475d2a18392c4f32852c8cf" title="2022-01-19T18:00:32.000+01:00" target="_blank">612119c7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] parse_mode=markdown for chat-ops
-
-Which allow some small improvements in the messages, such as named 
-links.</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/5254af58afe08b94efb2aea8737d616bb713c654" title="2022-01-29T23:35:37.000+01:00" target="_blank">5254af58</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
+          <pre>[feature] once per day commands</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/79b06fc80ee929face43bb5f9492a3e11bde2b6c" title="2022-01-19T17:28:39.000+01:00" target="_blank">79b06fc8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] chat-ops msg</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/fcbb740f08d248a03d5dcec1c7e7e9f1bd1cc8c4" title="2022-01-29T16:59:23.000+01:00" target="_blank">fcbb740f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
+          <pre>[feature] more users' commands</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/9d040b56010c2a7aeb6d6e29fca050a80f420096" title="2022-01-19T17:18:13.000+01:00" target="_blank">9d040b56</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[bump] to version 1.14.0</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/e9ba412ed1e0a1db9d25ca3a6101a6c4e5300117" title="2022-01-29T16:13:34.000+01:00" target="_blank">e9ba412e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
+          <pre>[feature] autoregister the slash commands</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 28 Jan 2022 13:45:23 GMT</small>
+<small>⏰ Updated on Mon, 31 Jan 2022 13:45:26 GMT</small>
 </td>
 </tr>
 </tfoot>
