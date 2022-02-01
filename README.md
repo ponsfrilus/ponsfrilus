@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 12 years and 0 months.
+    <br />Apparently, I'm hanging around on GitHub since 12 years and 1 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -103,6 +103,18 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/37d9563f154def0b7118e92920419bd3550ad8bc" title="2022-02-01T11:49:47.000+01:00" target="_blank">37d9563f</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
+          <pre>[fix] use suitcase python interpreter</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/96708f6488785a2d997d74ecb8e46b0f9f361bb0" title="2022-02-01T08:35:36.000+01:00" target="_blank">96708f64</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>Merge pull request #152 from epfl-si/feature/chatops-web-preview
+
+[feature] implements `disable_web_page_preview` and `disable_notifications`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/5bf385e419dc30e7ea343f1f25ae569ecb6f2262" title="2022-01-30T19:15:11.000+01:00" target="_blank">5bf385e4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
           <pre>[feature] IQ sort</pre>
         </td>
@@ -141,21 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/5254af58afe08b94efb2aea8737d616bb713c654" title="2022-01-29T23:35:37.000+01:00" target="_blank">5254af58</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
           <pre>[feature] once per day commands</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/fcbb740f08d248a03d5dcec1c7e7e9f1bd1cc8c4" title="2022-01-29T16:59:23.000+01:00" target="_blank">fcbb740f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
-          <pre>[feature] more users' commands</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/e9ba412ed1e0a1db9d25ca3a6101a6c4e5300117" title="2022-01-29T16:13:34.000+01:00" target="_blank">e9ba412e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
-          <pre>[feature] autoregister the slash commands</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 31 Jan 2022 13:45:26 GMT</small>
+<small>⏰ Updated on Tue, 01 Feb 2022 13:45:26 GMT</small>
 </td>
 </tr>
 </tfoot>
