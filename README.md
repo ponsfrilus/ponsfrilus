@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/b7ba25862cff673706f59bc393ddf5462b52e1b3" title="2022-02-01T19:06:58.000+01:00" target="_blank">b7ba2586</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
+          <pre>[feature] `/youngboy`command</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/6597e514cf2f65e5cec4cdb35ebffe0a09081982" title="2022-02-01T16:46:45.000+01:00" target="_blank">6597e514</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les travails pratiques individuels (TPI) de fin d'apprentissage des informaticiens CFC.">/Awesome-TPI</a></strong></div>
+          <pre>[doc] evaluation points improved</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/37d9563f154def0b7118e92920419bd3550ad8bc" title="2022-02-01T11:49:47.000+01:00" target="_blank">37d9563f</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
           <pre>[fix] use suitcase python interpreter</pre>
         </td>
@@ -143,21 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/0194d3ae25206686c34ad4e798d4da2f9b3ced81" title="2022-01-30T10:44:39.000+01:00" target="_blank">0194d3ae</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
           <pre>[feature] brain command</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/2d7bcff3d102204b8bb08157b82181762de66730" title="2022-01-30T08:49:15.000+01:00" target="_blank">2d7bcff3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
-          <pre>[feature] affinity limited to once a day</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/5254af58afe08b94efb2aea8737d616bb713c654" title="2022-01-29T23:35:37.000+01:00" target="_blank">5254af58</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
-          <pre>[feature] once per day commands</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 01 Feb 2022 13:45:26 GMT</small>
+<small>⏰ Updated on Wed, 02 Feb 2022 13:45:30 GMT</small>
 </td>
 </tr>
 </tfoot>
