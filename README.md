@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/9ccfe6a7596a5bb264dd1fd84dd7873554152650" title="2022-02-03T23:20:38.000+01:00" target="_blank">9ccfe6a7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[bump] to version 1.17.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/b7ba25862cff673706f59bc393ddf5462b52e1b3" title="2022-02-01T19:06:58.000+01:00" target="_blank">b7ba2586</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
           <pre>[feature] `/youngboy`command</pre>
         </td>
@@ -148,16 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/ac11866f928c3f07b0799bb47666b6d7924d1f12" title="2022-01-30T11:07:07.000+01:00" target="_blank">ac11866f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
           <pre>[refactor] function helpers</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/0194d3ae25206686c34ad4e798d4da2f9b3ced81" title="2022-01-30T10:44:39.000+01:00" target="_blank">0194d3ae</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
-          <pre>[feature] brain command</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 03 Feb 2022 13:45:18 GMT</small>
+<small>⏰ Updated on Fri, 04 Feb 2022 13:45:18 GMT</small>
 </td>
 </tr>
 </tfoot>
