@@ -87,7 +87,7 @@
 <a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank">Telegram-Instant-View-Template-for-Wordpress</a>&nbsp;<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank"><img src="https://img.shields.io/github/stars/olkitu/Telegram-Instant-View-Template-for-Wordpress?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/AppFlowy-IO/appflowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank">appflowy</a>&nbsp;<a href="https://github.com/AppFlowy-IO/appflowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank"><img src="https://img.shields.io/github/stars/AppFlowy-IO/appflowy?style=social" alt="GitHub"></a>
+<a href="https://github.com/AppFlowy-IO/AppFlowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank">AppFlowy</a>&nbsp;<a href="https://github.com/AppFlowy-IO/AppFlowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank"><img src="https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank">3D-printed-mirror-array</a>&nbsp;<a href="https://github.com/bencbartlett/3D-printed-mirror-array" title="3D-printable hexagonal mirror array capable of reflecting sunlight into arbitrary patterns" target="_blank"><img src="https://img.shields.io/github/stars/bencbartlett/3D-printed-mirror-array?style=social" alt="GitHub"></a>
@@ -102,6 +102,11 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributeurs-trombinoscope/commits/d2834179d1f1eb812004825b5d294da84265ca97" title="2022-02-07T11:08:40.000+01:00" target="_blank">d2834179</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributeurs-trombinoscope" title="null">/contributeurs-trombinoscope</a></strong></div>
+          <pre>ponsfrilus was here</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/9ccfe6a7596a5bb264dd1fd84dd7873554152650" title="2022-02-03T23:20:38.000+01:00" target="_blank">9ccfe6a7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[bump] to version 1.17.0</pre>
@@ -148,16 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/45fcd50095dbf71609c264a0db108b7eddb3b91b" title="2022-01-30T11:07:36.000+01:00" target="_blank">45fcd500</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
           <pre>[feature] tuhis's command improvements</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/ac11866f928c3f07b0799bb47666b6d7924d1f12" title="2022-01-30T11:07:07.000+01:00" target="_blank">ac11866f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
-          <pre>[refactor] function helpers</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 04 Feb 2022 13:45:18 GMT</small>
+<small>⏰ Updated on Mon, 07 Feb 2022 13:45:18 GMT</small>
 </td>
 </tr>
 </tfoot>
