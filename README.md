@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/d1548b89a857e4163267a82c534d77f3154e2b93" title="2022-02-08T12:44:40.000+01:00" target="_blank">d1548b89</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>Merge pull request #7 from ponsfrilus/fix/userid
+
+[fix] unknown userid</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/688327b56285283e8fb4a3b939ad99f145115a54" title="2022-02-08T12:42:21.000+01:00" target="_blank">688327b5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>[fix] unknown userid
+
+The passport session wasn't aware of the userid the first time one 
+logged in.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributeurs-trombinoscope/commits/d2834179d1f1eb812004825b5d294da84265ca97" title="2022-02-07T11:08:40.000+01:00" target="_blank">d2834179</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributeurs-trombinoscope" title="null">/contributeurs-trombinoscope</a></strong></div>
           <pre>ponsfrilus was here</pre>
         </td>
@@ -143,21 +158,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/0eb7c3a3c714dbc0003b39b596295be81168730d" title="2022-01-30T19:04:16.000+01:00" target="_blank">0eb7c3a3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
           <pre>[feature] auto summary at midnight</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/61bc63c944c498ec1c0f55bc753ea1bdb0daf524" title="2022-01-30T15:43:51.000+01:00" target="_blank">61bc63c9</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
-          <pre>[feature] stats summary</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/45fcd50095dbf71609c264a0db108b7eddb3b91b" title="2022-01-30T11:07:36.000+01:00" target="_blank">45fcd500</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
-          <pre>[feature] tuhis's command improvements</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 07 Feb 2022 13:45:18 GMT</small>
+<small>⏰ Updated on Tue, 08 Feb 2022 13:45:32 GMT</small>
 </td>
 </tr>
 </tfoot>
