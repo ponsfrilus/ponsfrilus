@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/kahing/goofys" title="a high-performance, POSIX-ish Amazon S3 file system written in Go" target="_blank">goofys</a>&nbsp;<a href="https://github.com/kahing/goofys" title="a high-performance, POSIX-ish Amazon S3 file system written in Go" target="_blank"><img src="https://img.shields.io/github/stars/kahing/goofys?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gyroflow/gyroflow" title="Video stabilization using gyroscope data" target="_blank">gyroflow</a>&nbsp;<a href="https://github.com/gyroflow/gyroflow" title="Video stabilization using gyroscope data" target="_blank"><img src="https://img.shields.io/github/stars/gyroflow/gyroflow?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/arthepsy/CVE-2021-4034" title="PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)" target="_blank">CVE-2021-4034</a>&nbsp;<a href="https://github.com/arthepsy/CVE-2021-4034" title="PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)" target="_blank"><img src="https://img.shields.io/github/stars/arthepsy/CVE-2021-4034?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/meilisearch/product" title="Public feedback and ideation discussions for MeiliSearch product 🔮" target="_blank">product</a>&nbsp;<a href="https://github.com/meilisearch/product" title="Public feedback and ideation discussions for MeiliSearch product 🔮" target="_blank"><img src="https://img.shields.io/github/stars/meilisearch/product?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Financial-Times/chart-doctor" title="Sample files to accompany the FT's Chart Doctor column" target="_blank">chart-doctor</a>&nbsp;<a href="https://github.com/Financial-Times/chart-doctor" title="Sample files to accompany the FT's Chart Doctor column" target="_blank"><img src="https://img.shields.io/github/stars/Financial-Times/chart-doctor?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank">directus</a>&nbsp;<a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank"><img src="https://img.shields.io/github/stars/directus/directus?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-fsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank">presence_bot</a>&nbsp;<a href="https://github.com/epfl-fsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/presence_bot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank">adventofcode-2021</a>&nbsp;<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank"><img src="https://img.shields.io/github/stars/domq/adventofcode-2021?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank">lazydocker</a>&nbsp;<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank"><img src="https://img.shields.io/github/stars/jesseduffield/lazydocker?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank">awesome-k8s-resources</a>&nbsp;<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank"><img src="https://img.shields.io/github/stars/tomhuang12/awesome-k8s-resources?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/epfl-dojo/contributeurs-trombinoscope" title="null" target="_blank">contributeurs-trombinoscope</a>&nbsp;<a href="https://github.com/epfl-dojo/contributeurs-trombinoscope" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/contributeurs-trombinoscope?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/AppFlowy-IO/AppFlowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank">AppFlowy</a>&nbsp;<a href="https://github.com/AppFlowy-IO/AppFlowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank"><img src="https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/gyroflow/gyroflow" title="Video stabilization using gyroscope data" target="_blank">gyroflow</a>&nbsp;<a href="https://github.com/gyroflow/gyroflow" title="Video stabilization using gyroscope data" target="_blank"><img src="https://img.shields.io/github/stars/gyroflow/gyroflow?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/arthepsy/CVE-2021-4034" title="PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)" target="_blank">CVE-2021-4034</a>&nbsp;<a href="https://github.com/arthepsy/CVE-2021-4034" title="PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)" target="_blank"><img src="https://img.shields.io/github/stars/arthepsy/CVE-2021-4034?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/meilisearch/product" title="Public feedback and ideation discussions for MeiliSearch product 🔮" target="_blank">product</a>&nbsp;<a href="https://github.com/meilisearch/product" title="Public feedback and ideation discussions for MeiliSearch product 🔮" target="_blank"><img src="https://img.shields.io/github/stars/meilisearch/product?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Financial-Times/chart-doctor" title="Sample files to accompany the FT's Chart Doctor column" target="_blank">chart-doctor</a>&nbsp;<a href="https://github.com/Financial-Times/chart-doctor" title="Sample files to accompany the FT's Chart Doctor column" target="_blank"><img src="https://img.shields.io/github/stars/Financial-Times/chart-doctor?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank">directus</a>&nbsp;<a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank"><img src="https://img.shields.io/github/stars/directus/directus?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-fsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank">presence_bot</a>&nbsp;<a href="https://github.com/epfl-fsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/presence_bot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank">adventofcode-2021</a>&nbsp;<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank"><img src="https://img.shields.io/github/stars/domq/adventofcode-2021?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank">lazydocker</a>&nbsp;<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank"><img src="https://img.shields.io/github/stars/jesseduffield/lazydocker?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank">awesome-k8s-resources</a>&nbsp;<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank"><img src="https://img.shields.io/github/stars/tomhuang12/awesome-k8s-resources?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank">useful-sed</a>&nbsp;<a href="https://github.com/adrianscheff/useful-sed" title="Useful sed scripts & patterns. " target="_blank"><img src="https://img.shields.io/github/stars/adrianscheff/useful-sed?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -162,7 +162,7 @@ logged in.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 10 Feb 2022 13:45:26 GMT</small>
+<small>⏰ Updated on Fri, 11 Feb 2022 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
