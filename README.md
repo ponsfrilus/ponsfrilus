@@ -66,7 +66,7 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/epfl-dojo/contributeurs-trombinoscope" title="null" target="_blank">contributeurs-trombinoscope</a>&nbsp;<a href="https://github.com/epfl-dojo/contributeurs-trombinoscope" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/contributeurs-trombinoscope?style=social" alt="GitHub"></a>
+<a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null" target="_blank">contributors-trombinoscope</a>&nbsp;<a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/contributors-trombinoscope?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/integram-org/gitlab" title="null" target="_blank">gitlab</a>&nbsp;<a href="https://github.com/integram-org/gitlab" title="null" target="_blank"><img src="https://img.shields.io/github/stars/integram-org/gitlab?style=social" alt="GitHub"></a>
@@ -103,66 +103,59 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/d1548b89a857e4163267a82c534d77f3154e2b93" title="2022-02-08T12:44:40.000+01:00" target="_blank">d1548b89</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>Merge pull request #7 from ponsfrilus/fix/userid
-
-[fix] unknown userid</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/aa4792d1fca8f12d29cda9bd19880e533f051913" title="2022-02-14T14:32:30.000+01:00" target="_blank">aa4792d1</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
+          <pre>[fix] repo renamed</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/688327b56285283e8fb4a3b939ad99f145115a54" title="2022-02-08T12:42:21.000+01:00" target="_blank">688327b5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>[fix] unknown userid
-
-The passport session wasn't aware of the userid the first time one 
-logged in.</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/0423d7f7011a7c2fdf14c4d1a27fd746fe4dea4b" title="2022-02-14T14:21:06.000+01:00" target="_blank">0423d7f7</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
+          <pre>[doc] for GitHub actions</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributeurs-trombinoscope/commits/d2834179d1f1eb812004825b5d294da84265ca97" title="2022-02-07T11:08:40.000+01:00" target="_blank">d2834179</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributeurs-trombinoscope" title="null">/contributeurs-trombinoscope</a></strong></div>
-          <pre>ponsfrilus was here</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/e7a03c4be3d3f28ad86f8e9124a9c68fb1018d5a" title="2022-02-14T11:03:11.000Z" target="_blank">e7a03c4b</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
+          <pre>[auto] update contributors list</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/9ccfe6a7596a5bb264dd1fd84dd7873554152650" title="2022-02-03T23:20:38.000+01:00" target="_blank">9ccfe6a7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[bump] to version 1.17.0</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/04cef906b814b9f22dd30f0bab4ef7afaf81ab71" title="2022-02-14T12:02:49.000+01:00" target="_blank">04cef906</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
+          <pre>[hello] GitHub actions</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/b7ba25862cff673706f59bc393ddf5462b52e1b3" title="2022-02-01T19:06:58.000+01:00" target="_blank">b7ba2586</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
-          <pre>[feature] `/youngboy`command</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/dca311fee0cd4654f35ac2d55750c13c5b0f291c" title="2022-02-14T11:18:23.000+01:00" target="_blank">dca311fe</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
+          <pre>Merge branch 'main' into dev/ponsfrilus</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/6597e514cf2f65e5cec4cdb35ebffe0a09081982" title="2022-02-01T16:46:45.000+01:00" target="_blank">6597e514</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les travails pratiques individuels (TPI) de fin d'apprentissage des informaticiens CFC.">/Awesome-TPI</a></strong></div>
-          <pre>[doc] evaluation points improved</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/8d3831d7cef376e6fd5255f05f0751499c569a67" title="2022-02-14T11:15:28.000+01:00" target="_blank">8d3831d7</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
+          <pre>[doc] comments and todos</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/37d9563f154def0b7118e92920419bd3550ad8bc" title="2022-02-01T11:49:47.000+01:00" target="_blank">37d9563f</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
-          <pre>[fix] use suitcase python interpreter</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/1e47ae2cfb770b3b55b0e1ef80e16200502e6eb5" title="2022-02-10T12:07:31.000+01:00" target="_blank">1e47ae2c</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
+          <pre>[doc] rewamped</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/96708f6488785a2d997d74ecb8e46b0f9f361bb0" title="2022-02-01T08:35:36.000+01:00" target="_blank">96708f64</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>Merge pull request #152 from epfl-si/feature/chatops-web-preview
-
-[feature] implements `disable_web_page_preview` and `disable_notifications`</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/4e1b2ee5e56aaf30fa9b21b1d74e97f8ff7a1f21" title="2022-02-10T11:03:46.000+01:00" target="_blank">4e1b2ee5</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
+          <pre>[feature] (mode:figure) figures elements (+figcaption)</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/5bf385e419dc30e7ea343f1f25ae569ecb6f2262" title="2022-01-30T19:15:11.000+01:00" target="_blank">5bf385e4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
-          <pre>[feature] IQ sort</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/326bc89137a574d0727db8af216cd932723b7b10" title="2022-02-10T11:02:56.000+01:00" target="_blank">326bc891</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
+          <pre>[feature] (mode:bubble) rounded image</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/foupoubot/commits/0eb7c3a3c714dbc0003b39b596295be81168730d" title="2022-01-30T19:04:16.000+01:00" target="_blank">0eb7c3a3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/foupoubot" title="A stupid discord bot">/foupoubot</a></strong></div>
-          <pre>[feature] auto summary at midnight</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/f749f586c705ec1dafb010bb3b2f5209ffb7c0b1" title="2022-02-10T10:33:48.000+01:00" target="_blank">f749f586</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
+          <pre>[feature] (mode:trombinoscope) users' avatars</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 11 Feb 2022 13:45:19 GMT</small>
+<small>⏰ Updated on Mon, 14 Feb 2022 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
