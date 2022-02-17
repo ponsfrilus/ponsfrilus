@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/syncthing/syncthing" title="Open Source Continuous File Synchronization" target="_blank">syncthing</a>&nbsp;<a href="https://github.com/syncthing/syncthing" title="Open Source Continuous File Synchronization" target="_blank"><img src="https://img.shields.io/github/stars/syncthing/syncthing?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null" target="_blank">contributors-trombinoscope</a>&nbsp;<a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/contributors-trombinoscope?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/integram-org/gitlab" title="null" target="_blank">gitlab</a>&nbsp;<a href="https://github.com/integram-org/gitlab" title="null" target="_blank"><img src="https://img.shields.io/github/stars/integram-org/gitlab?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/socialharvest" title="Cache social network like and followers counts for EPFL" target="_blank">socialharvest</a>&nbsp;<a href="https://github.com/epfl-si/socialharvest" title="Cache social network like and followers counts for EPFL" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/socialharvest?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank">rts-parlometre</a>&nbsp;<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank"><img src="https://img.shields.io/github/stars/jplusplus/rts-parlometre?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank">rawgraphs-app</a>&nbsp;<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank"><img src="https://img.shields.io/github/stars/rawgraphs/rawgraphs-app?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank">lapce</a>&nbsp;<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/lapce/lapce?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank">pg_graphql</a>&nbsp;<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank"><img src="https://img.shields.io/github/stars/supabase/pg_graphql?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank">py_regular_expressions</a>&nbsp;<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank"><img src="https://img.shields.io/github/stars/learnbyexample/py_regular_expressions?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank">Telegram-Instant-View-Template-for-Wordpress</a>&nbsp;<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank"><img src="https://img.shields.io/github/stars/olkitu/Telegram-Instant-View-Template-for-Wordpress?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/kahing/goofys" title="a high-performance, POSIX-ish Amazon S3 file system written in Go" target="_blank">goofys</a>&nbsp;<a href="https://github.com/kahing/goofys" title="a high-performance, POSIX-ish Amazon S3 file system written in Go" target="_blank"><img src="https://img.shields.io/github/stars/kahing/goofys?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank">awesome-k8s-resources</a>&nbsp;<a href="https://github.com/tomhuang12/awesome-k8s-resources" title="A curated list of awesome Kubernetes tools and resources." target="_blank"><img src="https://img.shields.io/github/stars/tomhuang12/awesome-k8s-resources?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null" target="_blank">contributors-trombinoscope</a>&nbsp;<a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/contributors-trombinoscope?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/integram-org/gitlab" title="null" target="_blank">gitlab</a>&nbsp;<a href="https://github.com/integram-org/gitlab" title="null" target="_blank"><img src="https://img.shields.io/github/stars/integram-org/gitlab?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/socialharvest" title="Cache social network like and followers counts for EPFL" target="_blank">socialharvest</a>&nbsp;<a href="https://github.com/epfl-si/socialharvest" title="Cache social network like and followers counts for EPFL" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/socialharvest?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank">rts-parlometre</a>&nbsp;<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank"><img src="https://img.shields.io/github/stars/jplusplus/rts-parlometre?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank">rawgraphs-app</a>&nbsp;<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank"><img src="https://img.shields.io/github/stars/rawgraphs/rawgraphs-app?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank">lapce</a>&nbsp;<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/lapce/lapce?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank">pg_graphql</a>&nbsp;<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank"><img src="https://img.shields.io/github/stars/supabase/pg_graphql?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank">py_regular_expressions</a>&nbsp;<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank"><img src="https://img.shields.io/github/stars/learnbyexample/py_regular_expressions?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank">Telegram-Instant-View-Template-for-Wordpress</a>&nbsp;<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank"><img src="https://img.shields.io/github/stars/olkitu/Telegram-Instant-View-Template-for-Wordpress?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/AppFlowy-IO/AppFlowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank">AppFlowy</a>&nbsp;<a href="https://github.com/AppFlowy-IO/AppFlowy" title="AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust." target="_blank"><img src="https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 16 Feb 2022 13:45:27 GMT</small>
+<small>⏰ Updated on Thu, 17 Feb 2022 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
