@@ -103,6 +103,33 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/f16c2651f972e70322175c00cc9b6a94e848dc0f" title="2022-02-18T11:06:07.000+01:00" target="_blank">f16c2651</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[doc] instructions improved
+
+and better `.env.sample`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/c94a1ed95c15f153939f2d53eccc2c652578e62b" title="2022-02-17T18:53:24.000+01:00" target="_blank">c94a1ed9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[fix] params from env</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/677da1ead543cfc4f7696fc6882d5a1dd2bb100d" title="2022-02-17T18:32:12.000+01:00" target="_blank">677da1ea</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[bases] bases files</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/04ba144039e987ed0aabc21a00882670bb3f8623" title="2022-02-17T16:44:27.000+01:00" target="_blank">04ba1440</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[init] base PHP app in docker</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/6ae27dbb4def9d43339936b37d95ae16f762d322" title="2022-02-17T14:57:49.000+01:00" target="_blank">6ae27dbb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>Initial commit</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/aa4792d1fca8f12d29cda9bd19880e533f051913" title="2022-02-14T14:32:30.000+01:00" target="_blank">aa4792d1</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
           <pre>[fix] repo renamed</pre>
         </td>
@@ -126,36 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/dca311fee0cd4654f35ac2d55750c13c5b0f291c" title="2022-02-14T11:18:23.000+01:00" target="_blank">dca311fe</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
           <pre>Merge branch 'main' into dev/ponsfrilus</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/8d3831d7cef376e6fd5255f05f0751499c569a67" title="2022-02-14T11:15:28.000+01:00" target="_blank">8d3831d7</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
-          <pre>[doc] comments and todos</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/1e47ae2cfb770b3b55b0e1ef80e16200502e6eb5" title="2022-02-10T12:07:31.000+01:00" target="_blank">1e47ae2c</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
-          <pre>[doc] rewamped</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/4e1b2ee5e56aaf30fa9b21b1d74e97f8ff7a1f21" title="2022-02-10T11:03:46.000+01:00" target="_blank">4e1b2ee5</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
-          <pre>[feature] (mode:figure) figures elements (+figcaption)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/326bc89137a574d0727db8af216cd932723b7b10" title="2022-02-10T11:02:56.000+01:00" target="_blank">326bc891</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
-          <pre>[feature] (mode:bubble) rounded image</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/f749f586c705ec1dafb010bb3b2f5209ffb7c0b1" title="2022-02-10T10:33:48.000+01:00" target="_blank">f749f586</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
-          <pre>[feature] (mode:trombinoscope) users' avatars</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 17 Feb 2022 13:45:16 GMT</small>
+<small>⏰ Updated on Fri, 18 Feb 2022 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
