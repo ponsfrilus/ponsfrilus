@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/prometheus-community/pgbouncer_exporter" title="Prometheus exporter for PgBouncer" target="_blank">pgbouncer_exporter</a>&nbsp;<a href="https://github.com/prometheus-community/pgbouncer_exporter" title="Prometheus exporter for PgBouncer" target="_blank"><img src="https://img.shields.io/github/stars/prometheus-community/pgbouncer_exporter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/syncthing/syncthing" title="Open Source Continuous File Synchronization" target="_blank">syncthing</a>&nbsp;<a href="https://github.com/syncthing/syncthing" title="Open Source Continuous File Synchronization" target="_blank"><img src="https://img.shields.io/github/stars/syncthing/syncthing?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null" target="_blank">contributors-trombinoscope</a>&nbsp;<a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/contributors-trombinoscope?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/integram-org/gitlab" title="null" target="_blank">gitlab</a>&nbsp;<a href="https://github.com/integram-org/gitlab" title="null" target="_blank"><img src="https://img.shields.io/github/stars/integram-org/gitlab?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/socialharvest" title="Cache social network like and followers counts for EPFL" target="_blank">socialharvest</a>&nbsp;<a href="https://github.com/epfl-si/socialharvest" title="Cache social network like and followers counts for EPFL" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/socialharvest?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank">rts-parlometre</a>&nbsp;<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank"><img src="https://img.shields.io/github/stars/jplusplus/rts-parlometre?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank">rawgraphs-app</a>&nbsp;<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank"><img src="https://img.shields.io/github/stars/rawgraphs/rawgraphs-app?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank">lapce</a>&nbsp;<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/lapce/lapce?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank">pg_graphql</a>&nbsp;<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank"><img src="https://img.shields.io/github/stars/supabase/pg_graphql?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank">py_regular_expressions</a>&nbsp;<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank"><img src="https://img.shields.io/github/stars/learnbyexample/py_regular_expressions?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/lwthiker/curl-impersonate" title="curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox" target="_blank">curl-impersonate</a>&nbsp;<a href="https://github.com/lwthiker/curl-impersonate" title="curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox" target="_blank"><img src="https://img.shields.io/github/stars/lwthiker/curl-impersonate?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,28 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/syncthing/syncthing" title="Open Source Continuous File Synchronization" target="_blank">syncthing</a>&nbsp;<a href="https://github.com/syncthing/syncthing" title="Open Source Continuous File Synchronization" target="_blank"><img src="https://img.shields.io/github/stars/syncthing/syncthing?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null" target="_blank">contributors-trombinoscope</a>&nbsp;<a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/contributors-trombinoscope?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/integram-org/gitlab" title="null" target="_blank">gitlab</a>&nbsp;<a href="https://github.com/integram-org/gitlab" title="null" target="_blank"><img src="https://img.shields.io/github/stars/integram-org/gitlab?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/socialharvest" title="Cache social network like and followers counts for EPFL" target="_blank">socialharvest</a>&nbsp;<a href="https://github.com/epfl-si/socialharvest" title="Cache social network like and followers counts for EPFL" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/socialharvest?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank">rts-parlometre</a>&nbsp;<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank"><img src="https://img.shields.io/github/stars/jplusplus/rts-parlometre?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank">rawgraphs-app</a>&nbsp;<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank"><img src="https://img.shields.io/github/stars/rawgraphs/rawgraphs-app?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank">lapce</a>&nbsp;<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/lapce/lapce?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank">pg_graphql</a>&nbsp;<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank"><img src="https://img.shields.io/github/stars/supabase/pg_graphql?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank">py_regular_expressions</a>&nbsp;<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank"><img src="https://img.shields.io/github/stars/learnbyexample/py_regular_expressions?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank">Telegram-Instant-View-Template-for-Wordpress</a>&nbsp;<a href="https://github.com/olkitu/Telegram-Instant-View-Template-for-Wordpress" title="Simple Instant View Template for WordPress Blog Sites" target="_blank"><img src="https://img.shields.io/github/stars/olkitu/Telegram-Instant-View-Template-for-Wordpress?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/DebugAPI/commits/8e41772d8416dd2dd51a07d882ee4fef59156ea1" title="2022-02-21T23:56:39.000+01:00" target="_blank">8e41772d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/DebugAPI" title="Launch an API endpoint that dump information that you need.">/DebugAPI</a></strong></div>
+          <pre>[janitor] always use node LTS
+
+and packages maintenance</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/93b546bfe52f2a84ef2f203a33d158a59a1aef65" title="2022-02-21T18:07:56.000+01:00" target="_blank">93b546bf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[feature] post on CatalyseAPI</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/042851e62264557c3ed5c0f468c056476b0594a5" title="2022-02-21T18:07:30.000+01:00" target="_blank">042851e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[feature] get sig000 on websrv</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/f16c2651f972e70322175c00cc9b6a94e848dc0f" title="2022-02-18T11:06:07.000+01:00" target="_blank">f16c2651</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
           <pre>[doc] instructions improved
@@ -138,26 +155,11 @@ and better `.env.sample`</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/0423d7f7011a7c2fdf14c4d1a27fd746fe4dea4b" title="2022-02-14T14:21:06.000+01:00" target="_blank">0423d7f7</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
           <pre>[doc] for GitHub actions</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/e7a03c4be3d3f28ad86f8e9124a9c68fb1018d5a" title="2022-02-14T11:03:11.000Z" target="_blank">e7a03c4b</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
-          <pre>[auto] update contributors list</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/04cef906b814b9f22dd30f0bab4ef7afaf81ab71" title="2022-02-14T12:02:49.000+01:00" target="_blank">04cef906</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
-          <pre>[hello] GitHub actions</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/dca311fee0cd4654f35ac2d55750c13c5b0f291c" title="2022-02-14T11:18:23.000+01:00" target="_blank">dca311fe</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
-          <pre>Merge branch 'main' into dev/ponsfrilus</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 21 Feb 2022 13:45:18 GMT</small>
+<small>⏰ Updated on Tue, 22 Feb 2022 13:45:20 GMT</small>
 </td>
 </tr>
 </tfoot>
