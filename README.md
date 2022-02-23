@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/linux-system-roles/timesync" title="An ansible role which configures time synchronization" target="_blank">timesync</a>&nbsp;<a href="https://github.com/linux-system-roles/timesync" title="An ansible role which configures time synchronization" target="_blank"><img src="https://img.shields.io/github/stars/linux-system-roles/timesync?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/linux-system-roles/metrics" title="An ansible role which configures metrics collection." target="_blank">metrics</a>&nbsp;<a href="https://github.com/linux-system-roles/metrics" title="An ansible role which configures metrics collection." target="_blank"><img src="https://img.shields.io/github/stars/linux-system-roles/metrics?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lwthiker/curl-impersonate" title="curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox" target="_blank">curl-impersonate</a>&nbsp;<a href="https://github.com/lwthiker/curl-impersonate" title="curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox" target="_blank"><img src="https://img.shields.io/github/stars/lwthiker/curl-impersonate?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kahing/goofys" title="a high-performance, POSIX-ish Amazon S3 file system written in Go" target="_blank">goofys</a>&nbsp;<a href="https://github.com/kahing/goofys" title="a high-performance, POSIX-ish Amazon S3 file system written in Go" target="_blank"><img src="https://img.shields.io/github/stars/kahing/goofys?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gyroflow/gyroflow" title="Video stabilization using gyroscope data" target="_blank">gyroflow</a>&nbsp;<a href="https://github.com/gyroflow/gyroflow" title="Video stabilization using gyroscope data" target="_blank"><img src="https://img.shields.io/github/stars/gyroflow/gyroflow?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/arthepsy/CVE-2021-4034" title="PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)" target="_blank">CVE-2021-4034</a>&nbsp;<a href="https://github.com/arthepsy/CVE-2021-4034" title="PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)" target="_blank"><img src="https://img.shields.io/github/stars/arthepsy/CVE-2021-4034?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/meilisearch/product" title="Public feedback and ideation discussions for MeiliSearch product 🔮" target="_blank">product</a>&nbsp;<a href="https://github.com/meilisearch/product" title="Public feedback and ideation discussions for MeiliSearch product 🔮" target="_blank"><img src="https://img.shields.io/github/stars/meilisearch/product?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Financial-Times/chart-doctor" title="Sample files to accompany the FT's Chart Doctor column" target="_blank">chart-doctor</a>&nbsp;<a href="https://github.com/Financial-Times/chart-doctor" title="Sample files to accompany the FT's Chart Doctor column" target="_blank"><img src="https://img.shields.io/github/stars/Financial-Times/chart-doctor?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank">directus</a>&nbsp;<a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank"><img src="https://img.shields.io/github/stars/directus/directus?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-fsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank">presence_bot</a>&nbsp;<a href="https://github.com/epfl-fsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/presence_bot?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/linux-system-roles/logging" title="An ansible role which configures logging." target="_blank">logging</a>&nbsp;<a href="https://github.com/linux-system-roles/logging" title="An ansible role which configures logging." target="_blank"><img src="https://img.shields.io/github/stars/linux-system-roles/logging?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/prometheus-community/pgbouncer_exporter" title="Prometheus exporter for PgBouncer" target="_blank">pgbouncer_exporter</a>&nbsp;<a href="https://github.com/prometheus-community/pgbouncer_exporter" title="Prometheus exporter for PgBouncer" target="_blank"><img src="https://img.shields.io/github/stars/prometheus-community/pgbouncer_exporter?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,43 +95,6 @@
 <li>
 <a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank">pg_graphql</a>&nbsp;<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank"><img src="https://img.shields.io/github/stars/supabase/pg_graphql?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank">py_regular_expressions</a>&nbsp;<a href="https://github.com/learnbyexample/py_regular_expressions" title="Learn Python Regular Expressions step by step from beginner to advanced levels" target="_blank"><img src="https://img.shields.io/github/stars/learnbyexample/py_regular_expressions?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/lwthiker/curl-impersonate" title="curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox" target="_blank">curl-impersonate</a>&nbsp;<a href="https://github.com/lwthiker/curl-impersonate" title="curl-impersonate: A special compilation of curl that makes it impersonate Chrome & Firefox" target="_blank"><img src="https://img.shields.io/github/stars/lwthiker/curl-impersonate?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kahing/goofys" title="a high-performance, POSIX-ish Amazon S3 file system written in Go" target="_blank">goofys</a>&nbsp;<a href="https://github.com/kahing/goofys" title="a high-performance, POSIX-ish Amazon S3 file system written in Go" target="_blank"><img src="https://img.shields.io/github/stars/kahing/goofys?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gyroflow/gyroflow" title="Video stabilization using gyroscope data" target="_blank">gyroflow</a>&nbsp;<a href="https://github.com/gyroflow/gyroflow" title="Video stabilization using gyroscope data" target="_blank"><img src="https://img.shields.io/github/stars/gyroflow/gyroflow?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/arthepsy/CVE-2021-4034" title="PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)" target="_blank">CVE-2021-4034</a>&nbsp;<a href="https://github.com/arthepsy/CVE-2021-4034" title="PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)" target="_blank"><img src="https://img.shields.io/github/stars/arthepsy/CVE-2021-4034?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/meilisearch/product" title="Public feedback and ideation discussions for MeiliSearch product 🔮" target="_blank">product</a>&nbsp;<a href="https://github.com/meilisearch/product" title="Public feedback and ideation discussions for MeiliSearch product 🔮" target="_blank"><img src="https://img.shields.io/github/stars/meilisearch/product?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Financial-Times/chart-doctor" title="Sample files to accompany the FT's Chart Doctor column" target="_blank">chart-doctor</a>&nbsp;<a href="https://github.com/Financial-Times/chart-doctor" title="Sample files to accompany the FT's Chart Doctor column" target="_blank"><img src="https://img.shields.io/github/stars/Financial-Times/chart-doctor?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank">directus</a>&nbsp;<a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank"><img src="https://img.shields.io/github/stars/directus/directus?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-fsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank">presence_bot</a>&nbsp;<a href="https://github.com/epfl-fsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/presence_bot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank">adventofcode-2021</a>&nbsp;<a href="https://github.com/domq/adventofcode-2021" title="Advent of Code 2021 (https://adventofcode.com/2021)" target="_blank"><img src="https://img.shields.io/github/stars/domq/adventofcode-2021?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank">lazydocker</a>&nbsp;<a href="https://github.com/jesseduffield/lazydocker" title="The lazier way to manage everything docker" target="_blank"><img src="https://img.shields.io/github/stars/jesseduffield/lazydocker?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,29 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/713e87ef9585bdf84d10fe532454502bff31f187" title="2022-02-23T14:24:11.000+01:00" target="_blank">713e87ef</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>[fix] CSS includes
+
+* also remove .card in profile.css
+* and add some colors in splashpage.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/933ec48cfa4faa679ecd6d304e9b7a840c2b2689" title="2022-02-23T14:23:21.000+01:00" target="_blank">933ec48c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>[fix] containers names</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/9a56893d1b9db7014863a2ebf9468b26def85d27" title="2022-02-23T14:19:10.000+01:00" target="_blank">9a56893d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>[fix] s/time/times</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/ce3ab5bc43afeb200f32c62deb5214e137b7e758" title="2022-02-23T14:17:10.000+01:00" target="_blank">ce3ab5bc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>Merge remote-tracking branch 'azecko/main'</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/DebugAPI/commits/8e41772d8416dd2dd51a07d882ee4fef59156ea1" title="2022-02-21T23:56:39.000+01:00" target="_blank">8e41772d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/DebugAPI" title="Launch an API endpoint that dump information that you need.">/DebugAPI</a></strong></div>
           <pre>[janitor] always use node LTS
@@ -135,31 +158,11 @@ and better `.env.sample`</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/677da1ead543cfc4f7696fc6882d5a1dd2bb100d" title="2022-02-17T18:32:12.000+01:00" target="_blank">677da1ea</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
           <pre>[bases] bases files</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/04ba144039e987ed0aabc21a00882670bb3f8623" title="2022-02-17T16:44:27.000+01:00" target="_blank">04ba1440</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
-          <pre>[init] base PHP app in docker</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/6ae27dbb4def9d43339936b37d95ae16f762d322" title="2022-02-17T14:57:49.000+01:00" target="_blank">6ae27dbb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
-          <pre>Initial commit</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/aa4792d1fca8f12d29cda9bd19880e533f051913" title="2022-02-14T14:32:30.000+01:00" target="_blank">aa4792d1</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
-          <pre>[fix] repo renamed</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/contributors-trombinoscope/commits/0423d7f7011a7c2fdf14c4d1a27fd746fe4dea4b" title="2022-02-14T14:21:06.000+01:00" target="_blank">0423d7f7</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null">/contributors-trombinoscope</a></strong></div>
-          <pre>[doc] for GitHub actions</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 22 Feb 2022 13:45:20 GMT</small>
+<small>⏰ Updated on Wed, 23 Feb 2022 13:45:14 GMT</small>
 </td>
 </tr>
 </tfoot>
