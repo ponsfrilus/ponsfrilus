@@ -103,6 +103,41 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/bb96afffa4b018ca02b6606afc390f98b6e884e4" title="2022-02-24T13:17:07.000+01:00" target="_blank">bb96afff</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[feature] same code for all env + employee check
+
+* Add the status='Personnel' check
+* move all the code in index.php and manage
+   * CATALYSE_ENV for the catalyse API and redirection URL
+    * APP_ENV, which define the oAuth parameters according to the 
+environnement, LOCAL wen in docker and REMOTE when on TKGI hosting.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/61f902dd4a30cf6f304f06c3b3d05138a6b36f74" title="2022-02-24T13:13:34.000+01:00" target="_blank">61f902dd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[fix] clean up</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/308a38ff05dd73c3c67f0e35b84e9db13f5e5096" title="2022-02-24T13:12:52.000+01:00" target="_blank">308a38ff</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[fix] Uses PHP 8 as in prod</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/20f4f2b23014cb061e99cd260b026a72d4f4dbdd" title="2022-02-24T13:12:46.000+01:00" target="_blank">20f4f2b2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[feature] no more .env
+
+As our server list the `.env` files and vlucas/phpdotenv lib does weird 
+thing out of DirecoryRoot, `.htaccess` looks like a satisfactory 
+solution.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/21fdb26531175dd313e9131887e33146f2748c9e" title="2022-02-23T15:11:27.000+01:00" target="_blank">21fdb265</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>[refactor] all partial and bootstrap</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/713e87ef9585bdf84d10fe532454502bff31f187" title="2022-02-23T14:24:11.000+01:00" target="_blank">713e87ef</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
           <pre>[fix] CSS includes
 
@@ -126,43 +161,14 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/DebugAPI/commits/8e41772d8416dd2dd51a07d882ee4fef59156ea1" title="2022-02-21T23:56:39.000+01:00" target="_blank">8e41772d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/DebugAPI" title="Launch an API endpoint that dump information that you need.">/DebugAPI</a></strong></div>
-          <pre>[janitor] always use node LTS
-
-and packages maintenance</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/93b546bfe52f2a84ef2f203a33d158a59a1aef65" title="2022-02-21T18:07:56.000+01:00" target="_blank">93b546bf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
-          <pre>[feature] post on CatalyseAPI</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/042851e62264557c3ed5c0f468c056476b0594a5" title="2022-02-21T18:07:30.000+01:00" target="_blank">042851e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
-          <pre>[feature] get sig000 on websrv</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/f16c2651f972e70322175c00cc9b6a94e848dc0f" title="2022-02-18T11:06:07.000+01:00" target="_blank">f16c2651</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
-          <pre>[doc] instructions improved
-
-and better `.env.sample`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/c94a1ed95c15f153939f2d53eccc2c652578e62b" title="2022-02-17T18:53:24.000+01:00" target="_blank">c94a1ed9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
-          <pre>[fix] params from env</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/677da1ead543cfc4f7696fc6882d5a1dd2bb100d" title="2022-02-17T18:32:12.000+01:00" target="_blank">677da1ea</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
-          <pre>[bases] bases files</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/b72a70a26d213fdf9a4ba686363005168d9e4ca2" title="2022-02-23T12:00:23.000+01:00" target="_blank">b72a70a2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
+          <pre>[fix] ensure `make clean` doesn't fail</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 23 Feb 2022 13:45:14 GMT</small>
+<small>⏰ Updated on Thu, 24 Feb 2022 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
