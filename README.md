@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/f5242bc5b6281204a6aa81cc1e6405f8b2bd711e" title="2022-02-28T10:15:05.000+01:00" target="_blank">f5242bc5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[fix] no more check status "Personnel"</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/ce70843aa7a763125c069b6793210ddecd20a32b" title="2022-02-25T16:09:03.000+01:00" target="_blank">ce70843a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[feature] manage deployment</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/021185d37c08ad6b1794c85b3f259c9119fe1ac7" title="2022-02-25T15:09:09.000+01:00" target="_blank">021185d3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[fix] redirection to catalyse.epfl.ch</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/bb96afffa4b018ca02b6606afc390f98b6e884e4" title="2022-02-24T13:17:07.000+01:00" target="_blank">bb96afff</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
           <pre>[feature] same code for all env + employee check
 
@@ -149,26 +164,11 @@ solution.</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/933ec48cfa4faa679ecd6d304e9b7a840c2b2689" title="2022-02-23T14:23:21.000+01:00" target="_blank">933ec48c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
           <pre>[fix] containers names</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/9a56893d1b9db7014863a2ebf9468b26def85d27" title="2022-02-23T14:19:10.000+01:00" target="_blank">9a56893d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>[fix] s/time/times</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/ce3ab5bc43afeb200f32c62deb5214e137b7e758" title="2022-02-23T14:17:10.000+01:00" target="_blank">ce3ab5bc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>Merge remote-tracking branch 'azecko/main'</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/b72a70a26d213fdf9a4ba686363005168d9e4ca2" title="2022-02-23T12:00:23.000+01:00" target="_blank">b72a70a2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>[fix] ensure `make clean` doesn't fail</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 25 Feb 2022 13:45:19 GMT</small>
+<small>⏰ Updated on Mon, 28 Feb 2022 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
