@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 12 years and 1 months.
+    <br />Apparently, I'm hanging around on GitHub since 12 years and 2 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -29,6 +29,40 @@
 <td colspan="2" align="center"><h4>My last starred repos</h4></td>
 </tr>
 <tr>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/hoppscotch/hoppscotch" title="👽 Open source API development ecosystem - https://hoppscotch.io" target="_blank">hoppscotch</a>&nbsp;<a href="https://github.com/hoppscotch/hoppscotch" title="👽 Open source API development ecosystem - https://hoppscotch.io" target="_blank"><img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/linux-system-roles/logging" title="An ansible role which configures logging." target="_blank">logging</a>&nbsp;<a href="https://github.com/linux-system-roles/logging" title="An ansible role which configures logging." target="_blank"><img src="https://img.shields.io/github/stars/linux-system-roles/logging?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/prometheus-community/pgbouncer_exporter" title="Prometheus exporter for PgBouncer" target="_blank">pgbouncer_exporter</a>&nbsp;<a href="https://github.com/prometheus-community/pgbouncer_exporter" title="Prometheus exporter for PgBouncer" target="_blank"><img src="https://img.shields.io/github/stars/prometheus-community/pgbouncer_exporter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/syncthing/syncthing" title="Open Source Continuous File Synchronization" target="_blank">syncthing</a>&nbsp;<a href="https://github.com/syncthing/syncthing" title="Open Source Continuous File Synchronization" target="_blank"><img src="https://img.shields.io/github/stars/syncthing/syncthing?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null" target="_blank">contributors-trombinoscope</a>&nbsp;<a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/contributors-trombinoscope?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/integram-org/gitlab" title="null" target="_blank">gitlab</a>&nbsp;<a href="https://github.com/integram-org/gitlab" title="null" target="_blank"><img src="https://img.shields.io/github/stars/integram-org/gitlab?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/socialharvest" title="Cache social network like and followers counts for EPFL" target="_blank">socialharvest</a>&nbsp;<a href="https://github.com/epfl-si/socialharvest" title="Cache social network like and followers counts for EPFL" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/socialharvest?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank">rts-parlometre</a>&nbsp;<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank"><img src="https://img.shields.io/github/stars/jplusplus/rts-parlometre?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank">rawgraphs-app</a>&nbsp;<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank"><img src="https://img.shields.io/github/stars/rawgraphs/rawgraphs-app?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank">lapce</a>&nbsp;<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/lapce/lapce?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
 <td valign="top">
 <ul>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/epfl-fsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank">presence_bot</a>&nbsp;<a href="https://github.com/epfl-fsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/presence_bot?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/linux-system-roles/logging" title="An ansible role which configures logging." target="_blank">logging</a>&nbsp;<a href="https://github.com/linux-system-roles/logging" title="An ansible role which configures logging." target="_blank"><img src="https://img.shields.io/github/stars/linux-system-roles/logging?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/prometheus-community/pgbouncer_exporter" title="Prometheus exporter for PgBouncer" target="_blank">pgbouncer_exporter</a>&nbsp;<a href="https://github.com/prometheus-community/pgbouncer_exporter" title="Prometheus exporter for PgBouncer" target="_blank"><img src="https://img.shields.io/github/stars/prometheus-community/pgbouncer_exporter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/syncthing/syncthing" title="Open Source Continuous File Synchronization" target="_blank">syncthing</a>&nbsp;<a href="https://github.com/syncthing/syncthing" title="Open Source Continuous File Synchronization" target="_blank"><img src="https://img.shields.io/github/stars/syncthing/syncthing?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null" target="_blank">contributors-trombinoscope</a>&nbsp;<a href="https://github.com/epfl-dojo/contributors-trombinoscope" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-dojo/contributors-trombinoscope?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/integram-org/gitlab" title="null" target="_blank">gitlab</a>&nbsp;<a href="https://github.com/integram-org/gitlab" title="null" target="_blank"><img src="https://img.shields.io/github/stars/integram-org/gitlab?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/socialharvest" title="Cache social network like and followers counts for EPFL" target="_blank">socialharvest</a>&nbsp;<a href="https://github.com/epfl-si/socialharvest" title="Cache social network like and followers counts for EPFL" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/socialharvest?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank">rts-parlometre</a>&nbsp;<a href="https://github.com/jplusplus/rts-parlometre" title="Map of French dialects in Switzerland." target="_blank"><img src="https://img.shields.io/github/stars/jplusplus/rts-parlometre?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank">rawgraphs-app</a>&nbsp;<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank"><img src="https://img.shields.io/github/stars/rawgraphs/rawgraphs-app?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank">lapce</a>&nbsp;<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/lapce/lapce?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank">pg_graphql</a>&nbsp;<a href="https://github.com/supabase/pg_graphql" title="GraphQL support for PostgreSQL " target="_blank"><img src="https://img.shields.io/github/stars/supabase/pg_graphql?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -168,7 +168,7 @@ solution.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 28 Feb 2022 13:45:16 GMT</small>
+<small>⏰ Updated on Tue, 01 Mar 2022 13:45:17 GMT</small>
 </td>
 </tr>
 </tfoot>
