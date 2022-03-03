@@ -103,6 +103,26 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/c9c04196c08015db855466008ae88511517fa162" title="2022-03-03T13:12:21.000+01:00" target="_blank">c9c04196</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[fix] Status Code</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/eba71e9e3f4a95730693245f80ace76fd1b5f0ff" title="2022-03-03T13:11:59.000+01:00" target="_blank">eba71e9e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[feature] better logging</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/ea4163df135944e6051faeae70199874d2604010" title="2022-03-03T11:35:16.000+01:00" target="_blank">ea4163df</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[fix] align websrv URL to envs</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/18f990b4b544c3af4e8098e7f860eff4c880d2ae" title="2022-03-03T11:34:30.000+01:00" target="_blank">18f990b4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[feature] Forge request to Catalyse API</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/f5242bc5b6281204a6aa81cc1e6405f8b2bd711e" title="2022-02-28T10:15:05.000+01:00" target="_blank">f5242bc5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
           <pre>[fix] no more check status "Personnel"</pre>
         </td>
@@ -137,38 +157,11 @@ environnement, LOCAL wen in docker and REMOTE when on TKGI hosting.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/308a38ff05dd73c3c67f0e35b84e9db13f5e5096" title="2022-02-24T13:12:52.000+01:00" target="_blank">308a38ff</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
           <pre>[fix] Uses PHP 8 as in prod</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/20f4f2b23014cb061e99cd260b026a72d4f4dbdd" title="2022-02-24T13:12:46.000+01:00" target="_blank">20f4f2b2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
-          <pre>[feature] no more .env
-
-As our server list the `.env` files and vlucas/phpdotenv lib does weird 
-thing out of DirecoryRoot, `.htaccess` looks like a satisfactory 
-solution.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/21fdb26531175dd313e9131887e33146f2748c9e" title="2022-02-23T15:11:27.000+01:00" target="_blank">21fdb265</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>[refactor] all partial and bootstrap</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/713e87ef9585bdf84d10fe532454502bff31f187" title="2022-02-23T14:24:11.000+01:00" target="_blank">713e87ef</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>[fix] CSS includes
-
-* also remove .card in profile.css
-* and add some colors in splashpage.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/botonews/commits/933ec48cfa4faa679ecd6d304e9b7a840c2b2689" title="2022-02-23T14:23:21.000+01:00" target="_blank">933ec48c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/botonews" title="null">/botonews</a></strong></div>
-          <pre>[fix] containers names</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 02 Mar 2022 13:45:17 GMT</small>
+<small>⏰ Updated on Thu, 03 Mar 2022 13:45:14 GMT</small>
 </td>
 </tr>
 </tfoot>
