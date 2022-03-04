@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/devopsfaith/krakend-playground" title="Get started with KrakenD. A docker compose with KrakenD and a fake api to play with" target="_blank">krakend-playground</a>&nbsp;<a href="https://github.com/devopsfaith/krakend-playground" title="Get started with KrakenD. A docker compose with KrakenD and a fake api to play with" target="_blank"><img src="https://img.shields.io/github/stars/devopsfaith/krakend-playground?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/hoppscotch/hoppscotch" title="👽 Open source API development ecosystem - https://hoppscotch.io" target="_blank">hoppscotch</a>&nbsp;<a href="https://github.com/hoppscotch/hoppscotch" title="👽 Open source API development ecosystem - https://hoppscotch.io" target="_blank"><img src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank">rawgraphs-app</a>&nbsp;<a href="https://github.com/rawgraphs/rawgraphs-app" title="A web interface to create custom vector-based visualizations on top of RAWGraphs core" target="_blank"><img src="https://img.shields.io/github/stars/rawgraphs/rawgraphs-app?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank">lapce</a>&nbsp;<a href="https://github.com/lapce/lapce" title="Lightning-fast and Powerful Code Editor written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/lapce/lapce?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/devopsfaith/krakend-ce" title="KrakenD Community Edition. Make your binary of KrakenD API Gateway" target="_blank">krakend-ce</a>&nbsp;<a href="https://github.com/devopsfaith/krakend-ce" title="KrakenD Community Edition. Make your binary of KrakenD API Gateway" target="_blank"><img src="https://img.shields.io/github/stars/devopsfaith/krakend-ce?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/linux-system-roles/timesync" title="An ansible role which configures time synchronization" target="_blank">timesync</a>&nbsp;<a href="https://github.com/linux-system-roles/timesync" title="An ansible role which configures time synchronization" target="_blank"><img src="https://img.shields.io/github/stars/linux-system-roles/timesync?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank">directus</a>&nbsp;<a href="https://github.com/directus/directus" title="Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users." target="_blank"><img src="https://img.shields.io/github/stars/directus/directus?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-fsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank">presence_bot</a>&nbsp;<a href="https://github.com/epfl-fsd/presence_bot" title="a bot that allows the user to know if a team member is in the office or in the home office" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/presence_bot?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -161,7 +161,7 @@ environnement, LOCAL wen in docker and REMOTE when on TKGI hosting.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 03 Mar 2022 13:45:14 GMT</small>
+<small>⏰ Updated on Fri, 04 Mar 2022 13:45:17 GMT</small>
 </td>
 </tr>
 </tfoot>
