@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank">SATOSA</a>&nbsp;<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank"><img src="https://img.shields.io/github/stars/IdentityPython/SATOSA?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank">Awesome-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/Awesome-TPI?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/baise-en-ville-bash" title="null" target="_blank">baise-en-ville-bash</a>&nbsp;<a href="https://github.com/SaphireVert/baise-en-ville-bash" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/baise-en-ville-bash?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/docker-minecraft" title="null" target="_blank">docker-minecraft</a>&nbsp;<a href="https://github.com/SaphireVert/docker-minecraft" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/docker-minecraft?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/channel-bot" title="null" target="_blank">channel-bot</a>&nbsp;<a href="https://github.com/SaphireVert/channel-bot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/channel-bot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/tutogit" title="Petit tuto pour les nuls" target="_blank">tutogit</a>&nbsp;<a href="https://github.com/SaphireVert/tutogit" title="Petit tuto pour les nuls" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/tutogit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/saphirevert" title="null" target="_blank">saphirevert</a>&nbsp;<a href="https://github.com/SaphireVert/saphirevert" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/saphirevert?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/ShoppingLister" title="EPSIC project for the module 326,151, 120 and 152" target="_blank">ShoppingLister</a>&nbsp;<a href="https://github.com/SaphireVert/ShoppingLister" title="EPSIC project for the module 326,151, 120 and 152" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/ShoppingLister?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/kata-PHP_Pagination" title="Kata-pagination: to learn pagination with PHP" target="_blank">kata-PHP_Pagination</a>&nbsp;<a href="https://github.com/SaphireVert/kata-PHP_Pagination" title="Kata-pagination: to learn pagination with PHP" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/kata-PHP_Pagination?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank">dasel</a>&nbsp;<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank"><img src="https://img.shields.io/github/stars/TomWright/dasel?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,99 +97,69 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank">Awesome-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/Awesome-TPI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/baise-en-ville-bash" title="null" target="_blank">baise-en-ville-bash</a>&nbsp;<a href="https://github.com/SaphireVert/baise-en-ville-bash" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/baise-en-ville-bash?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/docker-minecraft" title="null" target="_blank">docker-minecraft</a>&nbsp;<a href="https://github.com/SaphireVert/docker-minecraft" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/docker-minecraft?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/channel-bot" title="null" target="_blank">channel-bot</a>&nbsp;<a href="https://github.com/SaphireVert/channel-bot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/channel-bot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/tutogit" title="Petit tuto pour les nuls" target="_blank">tutogit</a>&nbsp;<a href="https://github.com/SaphireVert/tutogit" title="Petit tuto pour les nuls" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/tutogit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/saphirevert" title="null" target="_blank">saphirevert</a>&nbsp;<a href="https://github.com/SaphireVert/saphirevert" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/saphirevert?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/ShoppingLister" title="EPSIC project for the module 326,151, 120 and 152" target="_blank">ShoppingLister</a>&nbsp;<a href="https://github.com/SaphireVert/ShoppingLister" title="EPSIC project for the module 326,151, 120 and 152" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/ShoppingLister?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/kata-PHP_Pagination" title="Kata-pagination: to learn pagination with PHP" target="_blank">kata-PHP_Pagination</a>&nbsp;<a href="https://github.com/SaphireVert/kata-PHP_Pagination" title="Kata-pagination: to learn pagination with PHP" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/kata-PHP_Pagination?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/test2dGameEngineCSharp" title="null" target="_blank">test2dGameEngineCSharp</a>&nbsp;<a href="https://github.com/SaphireVert/test2dGameEngineCSharp" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/test2dGameEngineCSharp?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/915da60dc4bae8e139586baeb87d5165b81db74b" title="2022-03-11T11:23:21.000+01:00" target="_blank">915da60d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
+          <pre>[doc] web app needs</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/79a98bc0a437a30cd1e6186253385e4120f3b1ca" title="2022-03-11T10:03:30.000+01:00" target="_blank">79a98bc0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
+          <pre>Merge pull request #1 from Azecko/main
+
+[feat] Filled data.json</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/3cdb20163861c644fb085a28bb0d11e2d523d9c3" title="2022-03-10T18:58:12.000+01:00" target="_blank">3cdb2016</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
+          <pre>[feature] manage services for all environments</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/d77aa23679ad910c092cbce10ac3684c08cf7d0e" title="2022-03-10T18:57:44.000+01:00" target="_blank">d77aa236</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
+          <pre>[feature] manage routes for all environments</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/e0c560a15d660c27731e481c5153900097b4b1cf" title="2022-03-10T18:40:57.000+01:00" target="_blank">e0c560a1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
+          <pre>[feature] add the "test" route</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/e1b53250b5dc4c6e23589ff4efc190b970c2b81a" title="2022-03-10T18:40:41.000+01:00" target="_blank">e1b53250</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
+          <pre>[rename] role with -build suffix</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/09970b2357f066a5dcb8316ebaec977a6b3bcce6" title="2022-03-10T17:37:28.000+01:00" target="_blank">09970b23</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
+          <pre>[feature] erm-proxy checkouter</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/5cd4d3241acda3340bcf467a4922397bd15f5a1e" title="2022-03-10T17:36:46.000+01:00" target="_blank">5cd4d324</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
+          <pre>[fix] move vars to erm-proxy's role</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/27a244733e9d438f72dd69b0565a61ab33d19b67" title="2022-03-10T17:08:35.000+01:00" target="_blank">27a24473</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
+          <pre>[feature] build the `erm-proxy` image on change or on tag
+
+Use the `-t erm.buld` tag to build it now.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/6ab8aa7ae3a43d16ddef9460b32fbd95c084c382" title="2022-03-06T13:42:38.000+01:00" target="_blank">6ab8aa7a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
           <pre>[fix] informaticien·ne·s</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/16ff3f913865bb67a3491e23b7b775b051f60268" title="2022-03-06T13:38:01.000+01:00" target="_blank">16ff3f91</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
-          <pre>[fix] coverpage</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/aaf7d1b84580acdfcc2b6bfe4425ffec53f9958f" title="2022-03-06T13:31:30.000+01:00" target="_blank">aaf7d1b8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
-          <pre>[doc] Validation du CdC</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/78f56f2cdb62682a0f144810d098d9fd60ff777c" title="2022-03-06T13:31:05.000+01:00" target="_blank">78f56f2c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
-          <pre>[add] GitHub preview image</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/dojo-like-script/commits/36fb61ed64d705ea1931eeb9cc6059f1aea6ff7a" title="2022-03-05T12:06:17.000+01:00" target="_blank">36fb61ed</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/dojo-like-script" title="A script to like all epfl-dojo repo">/dojo-like-script</a></strong></div>
-          <pre>[fix] add fufo for support</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/dojo-like-script/commits/b29b411368eeb8467c85c71ec4808059285a0220" title="2022-03-05T12:03:37.000+01:00" target="_blank">b29b4113</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/dojo-like-script" title="A script to like all epfl-dojo repo">/dojo-like-script</a></strong></div>
-          <pre>[feature] curl command</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/4d21aeec53fd9cf8b54145f9db86351201ea6e93" title="2022-03-05T11:49:04.000+01:00" target="_blank">4d21aeec</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>[doc] add media folder + IFFP doc</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/5674726065583740bee458ea72d7d615483bf4da" title="2022-03-05T10:53:57.000+01:00" target="_blank">56747260</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>[add] Domaine de compétences opérationnelles A, B, C, D, E & F</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/640c7d1c749955d1e8fa984f876997ce400e7f81" title="2022-03-05T09:53:16.000+01:00" target="_blank">640c7d1c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>[fix] spacing</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/03244f9be3bb5be1c1a51c3491824328e6235be0" title="2022-03-05T09:16:52.000+01:00" target="_blank">03244f9b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>[doc] intro, à propos, links and struct</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 10 Mar 2022 13:45:14 GMT</small>
+<small>⏰ Updated on Fri, 11 Mar 2022 13:45:26 GMT</small>
 </td>
 </tr>
 </tfoot>
