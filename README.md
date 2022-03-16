@@ -103,6 +103,28 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/72182c98a55bcb76c6ba2c9e6e6b6215cf12db5b" title="2022-03-16T09:21:34.000+01:00" target="_blank">72182c98</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
+          <pre>[feature] catalyse-login nip.io route</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/760c4f613e9a4488c79b81aab6ac110e4b3e9824" title="2022-03-16T09:20:49.000+01:00" target="_blank">760c4f61</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
+          <pre>[feature] Satosa service</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/fce02d7b31c2674507d253f28057d8e24e372176" title="2022-03-16T09:20:24.000+01:00" target="_blank">fce02d7b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
+          <pre>[feature] metadata for the SAMLtest SP</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/06402cd5e5dd5b02693a33d6877a0ab51ede9107" title="2022-03-16T09:18:23.000+01:00" target="_blank">06402cd5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
+          <pre>[feature] static_attributes.yaml
+
+The static attributes are used in the backend as micro services.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/915da60dc4bae8e139586baeb87d5165b81db74b" title="2022-03-11T11:23:21.000+01:00" target="_blank">915da60d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
           <pre>[doc] web app needs</pre>
         </td>
@@ -133,33 +155,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/e1b53250b5dc4c6e23589ff4efc190b970c2b81a" title="2022-03-10T18:40:41.000+01:00" target="_blank">e1b53250</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
           <pre>[rename] role with -build suffix</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/09970b2357f066a5dcb8316ebaec977a6b3bcce6" title="2022-03-10T17:37:28.000+01:00" target="_blank">09970b23</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
-          <pre>[feature] erm-proxy checkouter</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/5cd4d3241acda3340bcf467a4922397bd15f5a1e" title="2022-03-10T17:36:46.000+01:00" target="_blank">5cd4d324</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
-          <pre>[fix] move vars to erm-proxy's role</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/27a244733e9d438f72dd69b0565a61ab33d19b67" title="2022-03-10T17:08:35.000+01:00" target="_blank">27a24473</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
-          <pre>[feature] build the `erm-proxy` image on change or on tag
-
-Use the `-t erm.buld` tag to build it now.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/6ab8aa7ae3a43d16ddef9460b32fbd95c084c382" title="2022-03-06T13:42:38.000+01:00" target="_blank">6ab8aa7a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
-          <pre>[fix] informaticien·ne·s</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 15 Mar 2022 13:45:24 GMT</small>
+<small>⏰ Updated on Wed, 16 Mar 2022 13:45:22 GMT</small>
 </td>
 </tr>
 </tfoot>
