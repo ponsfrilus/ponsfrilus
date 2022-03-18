@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank">oni2</a>&nbsp;<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank"><img src="https://img.shields.io/github/stars/onivim/oni2?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank">dasel</a>&nbsp;<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank"><img src="https://img.shields.io/github/stars/TomWright/dasel?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank">evaluation-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/evaluation-TPI?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/bataille-navale-epsic" title="null" target="_blank">bataille-navale-epsic</a>&nbsp;<a href="https://github.com/SaphireVert/bataille-navale-epsic" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/bataille-navale-epsic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/botonews" title="null" target="_blank">botonews</a>&nbsp;<a href="https://github.com/SaphireVert/botonews" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/botonews?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/epfl-news-bot" title="null" target="_blank">epfl-news-bot</a>&nbsp;<a href="https://github.com/SaphireVert/epfl-news-bot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/epfl-news-bot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/botonews-api" title="null" target="_blank">botonews-api</a>&nbsp;<a href="https://github.com/SaphireVert/botonews-api" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/botonews-api?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/opinihub" title="null" target="_blank">opinihub</a>&nbsp;<a href="https://github.com/SaphireVert/opinihub" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/opinihub?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/MonoGame.Samples" title="A few cross-platform game samples using MonoGame." target="_blank">MonoGame.Samples</a>&nbsp;<a href="https://github.com/SaphireVert/MonoGame.Samples" title="A few cross-platform game samples using MonoGame." target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/MonoGame.Samples?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/kata-ldap" title="  Kata d'exploration d'un annuaire LDAP (ldapsearch)" target="_blank">kata-ldap</a>&nbsp;<a href="https://github.com/SaphireVert/kata-ldap" title="  Kata d'exploration d'un annuaire LDAP (ldapsearch)" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/kata-ldap?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank">SATOSA</a>&nbsp;<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank"><img src="https://img.shields.io/github/stars/IdentityPython/SATOSA?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank">dasel</a>&nbsp;<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank"><img src="https://img.shields.io/github/stars/TomWright/dasel?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank">evaluation-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/evaluation-TPI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/bataille-navale-epsic" title="null" target="_blank">bataille-navale-epsic</a>&nbsp;<a href="https://github.com/SaphireVert/bataille-navale-epsic" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/bataille-navale-epsic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/botonews" title="null" target="_blank">botonews</a>&nbsp;<a href="https://github.com/SaphireVert/botonews" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/botonews?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/epfl-news-bot" title="null" target="_blank">epfl-news-bot</a>&nbsp;<a href="https://github.com/SaphireVert/epfl-news-bot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/epfl-news-bot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/botonews-api" title="null" target="_blank">botonews-api</a>&nbsp;<a href="https://github.com/SaphireVert/botonews-api" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/botonews-api?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/opinihub" title="null" target="_blank">opinihub</a>&nbsp;<a href="https://github.com/SaphireVert/opinihub" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/opinihub?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/MonoGame.Samples" title="A few cross-platform game samples using MonoGame." target="_blank">MonoGame.Samples</a>&nbsp;<a href="https://github.com/SaphireVert/MonoGame.Samples" title="A few cross-platform game samples using MonoGame." target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/MonoGame.Samples?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/kata-ldap" title="  Kata d'exploration d'un annuaire LDAP (ldapsearch)" target="_blank">kata-ldap</a>&nbsp;<a href="https://github.com/SaphireVert/kata-ldap" title="  Kata d'exploration d'un annuaire LDAP (ldapsearch)" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/kata-ldap?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/ts-tic-tac-toe_bot" title="A simple tic-tac-toe Telegram bot" target="_blank">ts-tic-tac-toe_bot</a>&nbsp;<a href="https://github.com/SaphireVert/ts-tic-tac-toe_bot" title="A simple tic-tac-toe Telegram bot" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/ts-tic-tac-toe_bot?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/128bbf969e39879cbe451c3665a4f6fe77e23382" title="2022-03-18T11:52:41.000+01:00" target="_blank">128bbf96</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
+          <pre>[feature](WIP) iValua micro-service</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/72182c98a55bcb76c6ba2c9e6e6b6215cf12db5b" title="2022-03-16T09:21:34.000+01:00" target="_blank">72182c98</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
           <pre>[feature] catalyse-login nip.io route</pre>
@@ -150,16 +155,11 @@ The static attributes are used in the backend as micro services.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/e0c560a15d660c27731e481c5153900097b4b1cf" title="2022-03-10T18:40:57.000+01:00" target="_blank">e0c560a1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
           <pre>[feature] add the "test" route</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/e1b53250b5dc4c6e23589ff4efc190b970c2b81a" title="2022-03-10T18:40:41.000+01:00" target="_blank">e1b53250</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
-          <pre>[rename] role with -build suffix</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 17 Mar 2022 13:45:25 GMT</small>
+<small>⏰ Updated on Fri, 18 Mar 2022 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
