@@ -103,8 +103,28 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/128bbf969e39879cbe451c3665a4f6fe77e23382" title="2022-03-18T11:52:41.000+01:00" target="_blank">128bbf96</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
-          <pre>[feature](WIP) iValua micro-service</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-morse/commits/ac5c518adcd08047c1dc0e2a77e09e1594b6586e" title="2022-03-20T19:34:36.000+01:00" target="_blank">ac5c518a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse">/kata-morse</a></strong></div>
+          <pre>[init] hello kata-morse</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-braille/commits/a76794257c92d0d75d4395dbaa2cb71ded5470ab" title="2022-03-20T19:34:23.000+01:00" target="_blank">a7679425</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille">/kata-braille</a></strong></div>
+          <pre>[init] hello kata-braille</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-diamond/commits/b7166ed3f45c3428478bf23ccecb0deae3fd9b01" title="2022-03-20T18:50:45.000+01:00" target="_blank">b7166ed3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !">/kata-diamond</a></strong></div>
+          <pre>[init] hello kata-diamond</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-birthday/commits/6470492cbdcc0d06c15e8d4e184d1ca964738eb1" title="2022-03-18T18:38:56.000+01:00" target="_blank">6470492c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-birthday" title="Kata : créer un système de rappel des anniversaires">/kata-birthday</a></strong></div>
+          <pre>[init] hello kata-birthday</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/61ca05e1d48debeda807a3a373ff229055a1c0aa" title="2022-03-18T11:52:41.000+01:00" target="_blank">61ca05e1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
+          <pre>[feature] iValua micro-service</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -133,33 +153,11 @@ The static attributes are used in the backend as micro services.</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/915da60dc4bae8e139586baeb87d5165b81db74b" title="2022-03-11T11:23:21.000+01:00" target="_blank">915da60d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
           <pre>[doc] web app needs</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/79a98bc0a437a30cd1e6186253385e4120f3b1ca" title="2022-03-11T10:03:30.000+01:00" target="_blank">79a98bc0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>Merge pull request #1 from Azecko/main
-
-[feat] Filled data.json</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/3cdb20163861c644fb085a28bb0d11e2d523d9c3" title="2022-03-10T18:58:12.000+01:00" target="_blank">3cdb2016</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
-          <pre>[feature] manage services for all environments</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/d77aa23679ad910c092cbce10ac3684c08cf7d0e" title="2022-03-10T18:57:44.000+01:00" target="_blank">d77aa236</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
-          <pre>[feature] manage routes for all environments</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/e0c560a15d660c27731e481c5153900097b4b1cf" title="2022-03-10T18:40:57.000+01:00" target="_blank">e0c560a1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
-          <pre>[feature] add the "test" route</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 18 Mar 2022 13:45:16 GMT</small>
+<small>⏰ Updated on Mon, 21 Mar 2022 13:45:27 GMT</small>
 </td>
 </tr>
 </tfoot>
