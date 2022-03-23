@@ -157,7 +157,7 @@ The static attributes are used in the backend as micro services.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 22 Mar 2022 13:45:21 GMT</small>
+<small>⏰ Updated on Wed, 23 Mar 2022 13:46:20 GMT</small>
 </td>
 </tr>
 </tfoot>
