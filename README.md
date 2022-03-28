@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank">x11docker</a>&nbsp;<a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank"><img src="https://img.shields.io/github/stars/mviereck/x11docker?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank">SATOSA</a>&nbsp;<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank"><img src="https://img.shields.io/github/stars/IdentityPython/SATOSA?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank">Awesome-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/Awesome-TPI?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/baise-en-ville-bash" title="null" target="_blank">baise-en-ville-bash</a>&nbsp;<a href="https://github.com/SaphireVert/baise-en-ville-bash" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/baise-en-ville-bash?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/docker-minecraft" title="null" target="_blank">docker-minecraft</a>&nbsp;<a href="https://github.com/SaphireVert/docker-minecraft" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/docker-minecraft?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/channel-bot" title="null" target="_blank">channel-bot</a>&nbsp;<a href="https://github.com/SaphireVert/channel-bot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/channel-bot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/tutogit" title="Petit tuto pour les nuls" target="_blank">tutogit</a>&nbsp;<a href="https://github.com/SaphireVert/tutogit" title="Petit tuto pour les nuls" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/tutogit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/saphirevert" title="null" target="_blank">saphirevert</a>&nbsp;<a href="https://github.com/SaphireVert/saphirevert" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/saphirevert?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/ShoppingLister" title="EPSIC project for the module 326,151, 120 and 152" target="_blank">ShoppingLister</a>&nbsp;<a href="https://github.com/SaphireVert/ShoppingLister" title="EPSIC project for the module 326,151, 120 and 152" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/ShoppingLister?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank">oni2</a>&nbsp;<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank"><img src="https://img.shields.io/github/stars/onivim/oni2?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/SaphireVert/kata-ldap" title="  Kata d'exploration d'un annuaire LDAP (ldapsearch)" target="_blank">kata-ldap</a>&nbsp;<a href="https://github.com/SaphireVert/kata-ldap" title="  Kata d'exploration d'un annuaire LDAP (ldapsearch)" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/kata-ldap?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank">SATOSA</a>&nbsp;<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank"><img src="https://img.shields.io/github/stars/IdentityPython/SATOSA?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank">Awesome-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/Awesome-TPI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/baise-en-ville-bash" title="null" target="_blank">baise-en-ville-bash</a>&nbsp;<a href="https://github.com/SaphireVert/baise-en-ville-bash" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/baise-en-ville-bash?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/docker-minecraft" title="null" target="_blank">docker-minecraft</a>&nbsp;<a href="https://github.com/SaphireVert/docker-minecraft" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/docker-minecraft?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/channel-bot" title="null" target="_blank">channel-bot</a>&nbsp;<a href="https://github.com/SaphireVert/channel-bot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/channel-bot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/tutogit" title="Petit tuto pour les nuls" target="_blank">tutogit</a>&nbsp;<a href="https://github.com/SaphireVert/tutogit" title="Petit tuto pour les nuls" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/tutogit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/saphirevert" title="null" target="_blank">saphirevert</a>&nbsp;<a href="https://github.com/SaphireVert/saphirevert" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/saphirevert?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/ShoppingLister" title="EPSIC project for the module 326,151, 120 and 152" target="_blank">ShoppingLister</a>&nbsp;<a href="https://github.com/SaphireVert/ShoppingLister" title="EPSIC project for the module 326,151, 120 and 152" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/ShoppingLister?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/kata-PHP_Pagination" title="Kata-pagination: to learn pagination with PHP" target="_blank">kata-PHP_Pagination</a>&nbsp;<a href="https://github.com/SaphireVert/kata-PHP_Pagination" title="Kata-pagination: to learn pagination with PHP" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/kata-PHP_Pagination?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@ The static attributes are used in the backend as micro services.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 25 Mar 2022 13:56:22 GMT</small>
+<small>⏰ Updated on Mon, 28 Mar 2022 13:46:29 GMT</small>
 </td>
 </tr>
 </tfoot>
