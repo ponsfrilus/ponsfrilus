@@ -103,7 +103,12 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/f4ccca6f54f2999f277a915d24fcebefecee6f45" title="2022-03-29T15:45:29.000+02:00" target="_blank">f4ccca6f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/011d85ab367bd143d2d77be643cc53d779f4aec1" title="2022-03-30T15:29:54.000+02:00" target="_blank">011d85ab</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
+          <pre>[feature] just redirect to catalyse-buyer.epfl.ch</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/758aaac06c5c74286122a5bf97eb0d9d5ef4c086" title="2022-03-29T15:50:34.000+02:00" target="_blank">758aaac0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
           <pre>[doc] repo image</pre>
         </td>
         </tr><tr>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/760c4f613e9a4488c79b81aab6ac110e4b3e9824" title="2022-03-16T09:20:49.000+01:00" target="_blank">760c4f61</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
           <pre>[feature] Satosa service</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/fce02d7b31c2674507d253f28057d8e24e372176" title="2022-03-16T09:20:24.000+01:00" target="_blank">fce02d7b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
-          <pre>[feature] metadata for the SAMLtest SP</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 29 Mar 2022 13:47:16 GMT</small>
+<small>⏰ Updated on Wed, 30 Mar 2022 13:47:18 GMT</small>
 </td>
 </tr>
 </tfoot>
