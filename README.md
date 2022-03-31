@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank">opensearch</a>&nbsp;<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank"><img src="https://img.shields.io/github/stars/dewitt/opensearch?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank">oni2</a>&nbsp;<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank"><img src="https://img.shields.io/github/stars/onivim/oni2?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank">dasel</a>&nbsp;<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank"><img src="https://img.shields.io/github/stars/TomWright/dasel?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank">evaluation-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/evaluation-TPI?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/bataille-navale-epsic" title="null" target="_blank">bataille-navale-epsic</a>&nbsp;<a href="https://github.com/SaphireVert/bataille-navale-epsic" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/bataille-navale-epsic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/botonews" title="null" target="_blank">botonews</a>&nbsp;<a href="https://github.com/SaphireVert/botonews" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/botonews?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/epfl-news-bot" title="null" target="_blank">epfl-news-bot</a>&nbsp;<a href="https://github.com/SaphireVert/epfl-news-bot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/epfl-news-bot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/botonews-api" title="null" target="_blank">botonews-api</a>&nbsp;<a href="https://github.com/SaphireVert/botonews-api" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/botonews-api?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/opinihub" title="null" target="_blank">opinihub</a>&nbsp;<a href="https://github.com/SaphireVert/opinihub" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/opinihub?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/MonoGame.Samples" title="A few cross-platform game samples using MonoGame." target="_blank">MonoGame.Samples</a>&nbsp;<a href="https://github.com/SaphireVert/MonoGame.Samples" title="A few cross-platform game samples using MonoGame." target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/MonoGame.Samples?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank">x11docker</a>&nbsp;<a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank"><img src="https://img.shields.io/github/stars/mviereck/x11docker?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/SaphireVert/ShoppingLister" title="EPSIC project for the module 326,151, 120 and 152" target="_blank">ShoppingLister</a>&nbsp;<a href="https://github.com/SaphireVert/ShoppingLister" title="EPSIC project for the module 326,151, 120 and 152" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/ShoppingLister?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank">oni2</a>&nbsp;<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank"><img src="https://img.shields.io/github/stars/onivim/oni2?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank">dasel</a>&nbsp;<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank"><img src="https://img.shields.io/github/stars/TomWright/dasel?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank">evaluation-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/evaluation-TPI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/bataille-navale-epsic" title="null" target="_blank">bataille-navale-epsic</a>&nbsp;<a href="https://github.com/SaphireVert/bataille-navale-epsic" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/bataille-navale-epsic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/botonews" title="null" target="_blank">botonews</a>&nbsp;<a href="https://github.com/SaphireVert/botonews" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/botonews?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/epfl-news-bot" title="null" target="_blank">epfl-news-bot</a>&nbsp;<a href="https://github.com/SaphireVert/epfl-news-bot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/epfl-news-bot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/botonews-api" title="null" target="_blank">botonews-api</a>&nbsp;<a href="https://github.com/SaphireVert/botonews-api" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/botonews-api?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/opinihub" title="null" target="_blank">opinihub</a>&nbsp;<a href="https://github.com/SaphireVert/opinihub" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/opinihub?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/MonoGame.Samples" title="A few cross-platform game samples using MonoGame." target="_blank">MonoGame.Samples</a>&nbsp;<a href="https://github.com/SaphireVert/MonoGame.Samples" title="A few cross-platform game samples using MonoGame." target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/MonoGame.Samples?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/kata-ldap" title="  Kata d'exploration d'un annuaire LDAP (ldapsearch)" target="_blank">kata-ldap</a>&nbsp;<a href="https://github.com/SaphireVert/kata-ldap" title="  Kata d'exploration d'un annuaire LDAP (ldapsearch)" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/kata-ldap?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 30 Mar 2022 13:47:18 GMT</small>
+<small>⏰ Updated on Thu, 31 Mar 2022 13:48:18 GMT</small>
 </td>
 </tr>
 </tfoot>
