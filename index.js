@@ -6,7 +6,7 @@ if (!TOKEN) {
 }
 
 const me = 'ponsfrilus'
-const title = '### Hi there 👋\n'
+const title = '### Hello World 👋\n'
 
 const { Octokit } = require("@octokit/core")
 const octokit = new Octokit({ auth: TOKEN })
@@ -25,8 +25,8 @@ const _generateREADMEheader = async () => {
     username: me
   })
   let header = `\n<p align="center">
-  <!-- use ${info.data.avatar_url} for your default github picture -->
-  <img src="https://raw.githubusercontent.com/ponsfrilus/ponsfrilus/master/img/ponsfrilus.png" title="${info.data.name} aka ‟${info.data.login}„" alt="${info.data.name} aka ‟${info.data.login}„" />
+  <!-- use ${info.data.avatar_url} for your default github picture 
+  <img src="https://raw.githubusercontent.com/ponsfrilus/ponsfrilus/master/img/ponsfrilus.png" title="${info.data.name} aka ‟${info.data.login}„" alt="${info.data.name} aka ‟${info.data.login}„" /> -->
   <h3 align="center">
     ${info.data.name} aka ‟${info.data.login}„
   </h3>
@@ -39,9 +39,9 @@ const _generateREADMEheader = async () => {
   <p align="center">
     <a href="https://www.epfl.ch">#EPFL</a> | 
     <a href="https://github.com/epfl-si/">#EPFL-SI</a> | 
-    <a href="https://github.com/epfl-idevfsd">#EPFL-IDEVFSD</a> | 
+    <a href="https://github.com/epfl-fsd">#EPFL-FSD</a> | 
     <a href="https://github.com/topics/epfl-dojo">#EPFL-Dojo</a> | 
-    <a href="https://github.com/topics/epfl-dojo-kata">#EPFL-Dojo-kata</a> | 
+    <a href="https://github.com/topics/epfl-dojo-kata">#EPFL-Dojo-kata :fire:</a> | 
     <a href="https://en.wikipedia.org/wiki/Indentation_style#Variant:_1TBS_(OTBS)">#1TBS</a>
   </p>
   <p align="center">
