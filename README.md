@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="center">
-  <!-- use https://avatars.githubusercontent.com/u/176002?v=4 for your default github picture -->
-  <img src="https://raw.githubusercontent.com/ponsfrilus/ponsfrilus/master/img/ponsfrilus.png" title="Nicolas Borboën aka ‟ponsfrilus„" alt="Nicolas Borboën aka ‟ponsfrilus„" />
+  <!-- use https://avatars.githubusercontent.com/u/176002?v=4 for your default github picture 
+  <img src="https://raw.githubusercontent.com/ponsfrilus/ponsfrilus/master/img/ponsfrilus.png" title="Nicolas Borboën aka ‟ponsfrilus„" alt="Nicolas Borboën aka ‟ponsfrilus„" /> -->
   <h3 align="center">
     Nicolas Borboën aka ‟ponsfrilus„
   </h3>
