@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hello World 👋
 
 <p align="center">
-  <!-- use https://avatars.githubusercontent.com/u/176002?v=4 for your default github picture -->
-  <img src="https://raw.githubusercontent.com/ponsfrilus/ponsfrilus/master/img/ponsfrilus.png" title="Nicolas Borboën aka ‟ponsfrilus„" alt="Nicolas Borboën aka ‟ponsfrilus„" />
+  <!-- use https://avatars.githubusercontent.com/u/176002?v=4 for your default github picture 
+  <img src="https://raw.githubusercontent.com/ponsfrilus/ponsfrilus/master/img/ponsfrilus.png" title="Nicolas Borboën aka ‟ponsfrilus„" alt="Nicolas Borboën aka ‟ponsfrilus„" /> -->
   <h3 align="center">
     Nicolas Borboën aka ‟ponsfrilus„
   </h3>
@@ -15,9 +15,9 @@
   <p align="center">
     <a href="https://www.epfl.ch">#EPFL</a> | 
     <a href="https://github.com/epfl-si/">#EPFL-SI</a> | 
-    <a href="https://github.com/epfl-idevfsd">#EPFL-IDEVFSD</a> | 
+    <a href="https://github.com/epfl-fsd">#EPFL-FSD</a> | 
     <a href="https://github.com/topics/epfl-dojo">#EPFL-Dojo</a> | 
-    <a href="https://github.com/topics/epfl-dojo-kata">#EPFL-Dojo-kata</a> | 
+    <a href="https://github.com/topics/epfl-dojo-kata">#EPFL-Dojo-kata :fire:</a> | 
     <a href="https://en.wikipedia.org/wiki/Indentation_style#Variant:_1TBS_(OTBS)">#1TBS</a>
   </p>
   <p align="center">
@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/500ee4b201e4cf7904a995e464af3ea0058d2d24" title="2022-04-02T01:01:37.000+02:00" target="_blank">500ee4b2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ponsfrilus" title="My profile's README generator">/ponsfrilus</a></strong></div>
+          <pre>Update index.js</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/708208ea0744e9351acf410d68943c01a2521321" title="2022-04-02T00:53:49.000+02:00" target="_blank">708208ea</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ponsfrilus" title="My profile's README generator">/ponsfrilus</a></strong></div>
+          <pre>[fix] image removed</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/Azecko/panseri_sami_info1d_botonews_164/commits/568696e5464731b597bd483d21621963efd4e36b" title="2022-04-01T11:17:55.000+02:00" target="_blank">568696e5</a><a href="https://github.com/Azecko">@Azecko</a><a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164">/panseri_sami_info1d_botonews_164</a></strong></div>
           <pre>[feature] Docker to the rescue
 
@@ -157,21 +167,11 @@ avoir cette information (GitKraken, gtk, etc.).</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-morse/commits/ac5c518adcd08047c1dc0e2a77e09e1594b6586e" title="2022-03-20T19:34:36.000+01:00" target="_blank">ac5c518a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse">/kata-morse</a></strong></div>
           <pre>[init] hello kata-morse</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-braille/commits/a76794257c92d0d75d4395dbaa2cb71ded5470ab" title="2022-03-20T19:34:23.000+01:00" target="_blank">a7679425</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille">/kata-braille</a></strong></div>
-          <pre>[init] hello kata-braille</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-diamond/commits/b7166ed3f45c3428478bf23ccecb0deae3fd9b01" title="2022-03-20T18:50:45.000+01:00" target="_blank">b7166ed3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !">/kata-diamond</a></strong></div>
-          <pre>[init] hello kata-diamond</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 01 Apr 2022 22:54:07 GMT</small>
+<small>⏰ Updated on Fri, 01 Apr 2022 23:01:56 GMT</small>
 </td>
 </tr>
 </tfoot>
