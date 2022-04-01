@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <p align="center">
-  <!-- use https://avatars.githubusercontent.com/u/176002?v=4 for your default github picture 
-  <img src="https://raw.githubusercontent.com/ponsfrilus/ponsfrilus/master/img/ponsfrilus.png" title="Nicolas Borboën aka ‟ponsfrilus„" alt="Nicolas Borboën aka ‟ponsfrilus„" /> -->
+  <!-- use https://avatars.githubusercontent.com/u/176002?v=4 for your default github picture -->
+  <img src="https://raw.githubusercontent.com/ponsfrilus/ponsfrilus/master/img/ponsfrilus.png" title="Nicolas Borboën aka ‟ponsfrilus„" alt="Nicolas Borboën aka ‟ponsfrilus„" />
   <h3 align="center">
     Nicolas Borboën aka ‟ponsfrilus„
   </h3>
@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Imbwbl/rec" title="rec is a linux command for recording your screen or a window with ffmpeg" target="_blank">rec</a>&nbsp;<a href="https://github.com/Imbwbl/rec" title="rec is a linux command for recording your screen or a window with ffmpeg" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/rec?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank">opensearch</a>&nbsp;<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank"><img src="https://img.shields.io/github/stars/dewitt/opensearch?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/SaphireVert/opinihub" title="null" target="_blank">opinihub</a>&nbsp;<a href="https://github.com/SaphireVert/opinihub" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/opinihub?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/SaphireVert/MonoGame.Samples" title="A few cross-platform game samples using MonoGame." target="_blank">MonoGame.Samples</a>&nbsp;<a href="https://github.com/SaphireVert/MonoGame.Samples" title="A few cross-platform game samples using MonoGame." target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/MonoGame.Samples?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164" target="_blank">panseri_sami_info1d_botonews_164</a>&nbsp;<a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/panseri_sami_info1d_botonews_164?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank">x11docker</a>&nbsp;<a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank"><img src="https://img.shields.io/github/stars/mviereck/x11docker?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/SaphireVert/saphirevert" title="null" target="_blank">saphirevert</a>&nbsp;<a href="https://github.com/SaphireVert/saphirevert" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/saphirevert?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/SaphireVert/ShoppingLister" title="EPSIC project for the module 326,151, 120 and 152" target="_blank">ShoppingLister</a>&nbsp;<a href="https://github.com/SaphireVert/ShoppingLister" title="EPSIC project for the module 326,151, 120 and 152" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/ShoppingLister?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,37 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/Azecko/panseri_sami_info1d_botonews_164/commits/568696e5464731b597bd483d21621963efd4e36b" title="2022-04-01T11:17:55.000+02:00" target="_blank">568696e5</a><a href="https://github.com/Azecko">@Azecko</a><a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164">/panseri_sami_info1d_botonews_164</a></strong></div>
+          <pre>[feature] Docker to the rescue
+
+Add the docker-compose.yml file that provides the MariaDB database using 
+the `.env`'s variable and defining defaults if needed. It also provides 
+2 administration GUI tools: PHPMyAdmin and Adminer.
+
+The `Makefile` makes everything easy, such as `make up` or `make down rm 
+up logs` to re-test the full jam.
+
+The `.env` file has been change as the MySQL user can not be root (root 
+is already defined by default).</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/Azecko/panseri_sami_info1d_botonews_164/commits/6d075c14dc5b9bb184a9c2912688fe7088510bb1" title="2022-04-01T09:15:37.000+02:00" target="_blank">6d075c14</a><a href="https://github.com/Azecko">@Azecko</a><a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164">/panseri_sami_info1d_botonews_164</a></strong></div>
+          <pre>[fix] GitHub says README are capitalized
+
+https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/Azecko/panseri_sami_info1d_botonews_164/commits/ee7324eac41f98669c74dad76fc0193aecb191af" title="2022-04-01T09:13:02.000+02:00" target="_blank">ee7324ea</a><a href="https://github.com/Azecko">@Azecko</a><a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164">/panseri_sami_info1d_botonews_164</a></strong></div>
+          <pre>[wtf] pas de date quand on utilise git
+
+La commande `git log` permet de voir quand un fichier a été modifié. Il 
+est également possible d'utiliser n'importe quel utilitaire git pour 
+avoir cette information (GitKraken, gtk, etc.).</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/searchplugins/commits/07a879c79a1366f31050515d254b55ba16296280" title="2022-03-31T15:53:16.000+02:00" target="_blank">07a879c7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/searchplugins" title="null">/searchplugins</a></strong></div>
           <pre>Some search plugins</pre>
@@ -136,26 +167,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-diamond/commits/b7166ed3f45c3428478bf23ccecb0deae3fd9b01" title="2022-03-20T18:50:45.000+01:00" target="_blank">b7166ed3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !">/kata-diamond</a></strong></div>
           <pre>[init] hello kata-diamond</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-birthday/commits/6470492cbdcc0d06c15e8d4e184d1ca964738eb1" title="2022-03-18T18:38:56.000+01:00" target="_blank">6470492c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-birthday" title="Kata : créer un système de rappel des anniversaires">/kata-birthday</a></strong></div>
-          <pre>[init] hello kata-birthday</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/61ca05e1d48debeda807a3a373ff229055a1c0aa" title="2022-03-18T11:52:41.000+01:00" target="_blank">61ca05e1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
-          <pre>[feature] iValua micro-service</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/72182c98a55bcb76c6ba2c9e6e6b6215cf12db5b" title="2022-03-16T09:21:34.000+01:00" target="_blank">72182c98</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
-          <pre>[feature] catalyse-login nip.io route</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 01 Apr 2022 13:51:11 GMT</small>
+<small>⏰ Updated on Fri, 01 Apr 2022 22:54:07 GMT</small>
 </td>
 </tr>
 </tfoot>
