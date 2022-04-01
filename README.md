@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 12 years and 2 months.
+    <br />Apparently, I'm hanging around on GitHub since 12 years and 3 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/searchplugins/commits/07a879c79a1366f31050515d254b55ba16296280" title="2022-03-31T15:53:16.000+02:00" target="_blank">07a879c7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/searchplugins" title="null">/searchplugins</a></strong></div>
+          <pre>Some search plugins</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/011d85ab367bd143d2d77be643cc53d779f4aec1" title="2022-03-30T15:29:54.000+02:00" target="_blank">011d85ab</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
           <pre>[feature] just redirect to catalyse-buyer.epfl.ch</pre>
         </td>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/72182c98a55bcb76c6ba2c9e6e6b6215cf12db5b" title="2022-03-16T09:21:34.000+01:00" target="_blank">72182c98</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
           <pre>[feature] catalyse-login nip.io route</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-iam.ops/commits/760c4f613e9a4488c79b81aab6ac110e4b3e9824" title="2022-03-16T09:20:49.000+01:00" target="_blank">760c4f61</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-iam.ops" title="Ansible operations for the Catalyse IAM (Identification and Authentication Management) middleware">/catalyse-iam.ops</a></strong></div>
-          <pre>[feature] Satosa service</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 31 Mar 2022 13:48:18 GMT</small>
+<small>⏰ Updated on Fri, 01 Apr 2022 13:51:11 GMT</small>
 </td>
 </tr>
 </tfoot>
