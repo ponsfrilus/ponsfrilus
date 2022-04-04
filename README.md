@@ -171,7 +171,7 @@ avoir cette information (GitKraken, gtk, etc.).</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 01 Apr 2022 23:01:56 GMT</small>
+<small>⏰ Updated on Mon, 04 Apr 2022 13:48:20 GMT</small>
 </td>
 </tr>
 </tfoot>
