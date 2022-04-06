@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-diamond/commits/b8064bcd50d890bc156214a6e289b66e8cbe753e" title="2022-04-05T18:54:47.000+02:00" target="_blank">b8064bcd</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !">/kata-diamond</a></strong></div>
+          <pre>[init] hello kata-diamond</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/500ee4b201e4cf7904a995e464af3ea0058d2d24" title="2022-04-02T01:01:37.000+02:00" target="_blank">500ee4b2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ponsfrilus" title="My profile's README generator">/ponsfrilus</a></strong></div>
           <pre>Update index.js</pre>
         </td>
@@ -162,16 +167,11 @@ avoir cette information (GitKraken, gtk, etc.).</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/035ee31d2d5c409af0657628738658b2bb27502f" title="2022-03-29T15:37:00.000+02:00" target="_blank">035ee31d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
           <pre>[doc] list of *sible updated</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-morse/commits/ac5c518adcd08047c1dc0e2a77e09e1594b6586e" title="2022-03-20T19:34:36.000+01:00" target="_blank">ac5c518a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse">/kata-morse</a></strong></div>
-          <pre>[init] hello kata-morse</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 05 Apr 2022 13:47:10 GMT</small>
+<small>⏰ Updated on Wed, 06 Apr 2022 13:49:16 GMT</small>
 </td>
 </tr>
 </tfoot>
