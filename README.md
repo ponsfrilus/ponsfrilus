@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank">rakkess</a>&nbsp;<a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank"><img src="https://img.shields.io/github/stars/corneliusweig/rakkess?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022" target="_blank">personal-security-checklist</a>&nbsp;<a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022" target="_blank"><img src="https://img.shields.io/github/stars/Lissy93/personal-security-checklist?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Imbwbl/rec" title="rec is a linux command for recording your screen or a window with ffmpeg" target="_blank">rec</a>&nbsp;<a href="https://github.com/Imbwbl/rec" title="rec is a linux command for recording your screen or a window with ffmpeg" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/rec?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank">opensearch</a>&nbsp;<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank"><img src="https://img.shields.io/github/stars/dewitt/opensearch?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank">oni2</a>&nbsp;<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank"><img src="https://img.shields.io/github/stars/onivim/oni2?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank">dasel</a>&nbsp;<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank"><img src="https://img.shields.io/github/stars/TomWright/dasel?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank">evaluation-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/evaluation-TPI?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/bataille-navale-epsic" title="null" target="_blank">bataille-navale-epsic</a>&nbsp;<a href="https://github.com/SaphireVert/bataille-navale-epsic" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/bataille-navale-epsic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/botonews" title="null" target="_blank">botonews</a>&nbsp;<a href="https://github.com/SaphireVert/botonews" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/botonews?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/epfl-news-bot" title="null" target="_blank">epfl-news-bot</a>&nbsp;<a href="https://github.com/SaphireVert/epfl-news-bot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/epfl-news-bot?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank">place</a>&nbsp;<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank"><img src="https://img.shields.io/github/stars/dynastic/place?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/SaphireVert/channel-bot" title="null" target="_blank">channel-bot</a>&nbsp;<a href="https://github.com/SaphireVert/channel-bot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/channel-bot?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021" target="_blank">personal-security-checklist</a>&nbsp;<a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021" target="_blank"><img src="https://img.shields.io/github/stars/Lissy93/personal-security-checklist?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/rec" title="rec is a linux command for recording your screen or a window with ffmpeg" target="_blank">rec</a>&nbsp;<a href="https://github.com/Imbwbl/rec" title="rec is a linux command for recording your screen or a window with ffmpeg" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/rec?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank">opensearch</a>&nbsp;<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank"><img src="https://img.shields.io/github/stars/dewitt/opensearch?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank">oni2</a>&nbsp;<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank"><img src="https://img.shields.io/github/stars/onivim/oni2?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank">dasel</a>&nbsp;<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank"><img src="https://img.shields.io/github/stars/TomWright/dasel?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank">evaluation-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/evaluation-TPI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/bataille-navale-epsic" title="null" target="_blank">bataille-navale-epsic</a>&nbsp;<a href="https://github.com/SaphireVert/bataille-navale-epsic" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/bataille-navale-epsic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/botonews" title="null" target="_blank">botonews</a>&nbsp;<a href="https://github.com/SaphireVert/botonews" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/botonews?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/epfl-news-bot" title="null" target="_blank">epfl-news-bot</a>&nbsp;<a href="https://github.com/SaphireVert/epfl-news-bot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/epfl-news-bot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/botonews-api" title="null" target="_blank">botonews-api</a>&nbsp;<a href="https://github.com/SaphireVert/botonews-api" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/botonews-api?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -171,7 +171,7 @@ avoir cette information (GitKraken, gtk, etc.).</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 08 Apr 2022 13:49:52 GMT</small>
+<small>⏰ Updated on Mon, 11 Apr 2022 13:48:47 GMT</small>
 </td>
 </tr>
 </tfoot>
