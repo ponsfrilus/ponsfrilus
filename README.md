@@ -103,6 +103,20 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/cluster.k8s.testserver/commits/455de768325f6a246cd0f30f4cf470938ad86306" title="2022-04-12T15:14:02.000+02:00" target="_blank">455de768</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/cluster.k8s.testserver" title="A containerized node webserver to use as a test app on k8s">/cluster.k8s.testserver</a></strong></div>
+          <pre>Merge pull request #1 from JaavLex/ref/idevtoisas
+
+[ref] IDEV-FSD changed to ISAS-FSD!</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/14f5f6b09edf27d88eb49572232458eaa9b1c566" title="2022-04-12T15:05:05.000+02:00" target="_blank">14f5f6b0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
+          <pre>Merge pull request #5 from epfl-si/busible
+
+add busible</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-diamond/commits/b8064bcd50d890bc156214a6e289b66e8cbe753e" title="2022-04-05T18:54:47.000+02:00" target="_blank">b8064bcd</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !">/kata-diamond</a></strong></div>
           <pre>[init] hello kata-diamond</pre>
         </td>
@@ -157,21 +171,11 @@ avoir cette information (GitKraken, gtk, etc.).</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/011d85ab367bd143d2d77be643cc53d779f4aec1" title="2022-03-30T15:29:54.000+02:00" target="_blank">011d85ab</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
           <pre>[feature] just redirect to catalyse-buyer.epfl.ch</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/758aaac06c5c74286122a5bf97eb0d9d5ef4c086" title="2022-03-29T15:50:34.000+02:00" target="_blank">758aaac0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
-          <pre>[doc] repo image</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/035ee31d2d5c409af0657628738658b2bb27502f" title="2022-03-29T15:37:00.000+02:00" target="_blank">035ee31d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
-          <pre>[doc] list of *sible updated</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 11 Apr 2022 13:48:47 GMT</small>
+<small>⏰ Updated on Tue, 12 Apr 2022 13:48:49 GMT</small>
 </td>
 </tr>
 </tfoot>
