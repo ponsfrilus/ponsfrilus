@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/cluster.k8s.testserver/commits/dd717ea69a433602e4496ee7c6641530848cd99c" title="2022-04-12T17:26:51.000+02:00" target="_blank">dd717ea6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/cluster.k8s.testserver" title="A containerized node webserver to use as a test app on k8s">/cluster.k8s.testserver</a></strong></div>
+          <pre>[update] node module update</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/cluster.k8s.testserver/commits/455de768325f6a246cd0f30f4cf470938ad86306" title="2022-04-12T15:14:02.000+02:00" target="_blank">455de768</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/cluster.k8s.testserver" title="A containerized node webserver to use as a test app on k8s">/cluster.k8s.testserver</a></strong></div>
           <pre>Merge pull request #1 from JaavLex/ref/idevtoisas
 
@@ -119,16 +124,6 @@ add busible</pre>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-diamond/commits/b8064bcd50d890bc156214a6e289b66e8cbe753e" title="2022-04-05T18:54:47.000+02:00" target="_blank">b8064bcd</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !">/kata-diamond</a></strong></div>
           <pre>[init] hello kata-diamond</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/500ee4b201e4cf7904a995e464af3ea0058d2d24" title="2022-04-02T01:01:37.000+02:00" target="_blank">500ee4b2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ponsfrilus" title="My profile's README generator">/ponsfrilus</a></strong></div>
-          <pre>Update index.js</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/708208ea0744e9351acf410d68943c01a2521321" title="2022-04-02T00:53:49.000+02:00" target="_blank">708208ea</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ponsfrilus" title="My profile's README generator">/ponsfrilus</a></strong></div>
-          <pre>[fix] image removed</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -171,11 +166,16 @@ avoir cette information (GitKraken, gtk, etc.).</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/011d85ab367bd143d2d77be643cc53d779f4aec1" title="2022-03-30T15:29:54.000+02:00" target="_blank">011d85ab</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
           <pre>[feature] just redirect to catalyse-buyer.epfl.ch</pre>
         </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/758aaac06c5c74286122a5bf97eb0d9d5ef4c086" title="2022-03-29T15:50:34.000+02:00" target="_blank">758aaac0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
+          <pre>[doc] repo image</pre>
+        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 12 Apr 2022 13:48:49 GMT</small>
+<small>⏰ Updated on Wed, 13 Apr 2022 13:47:55 GMT</small>
 </td>
 </tr>
 </tfoot>
