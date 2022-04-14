@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-alien/commits/d87a5c665788df7ca8e4c325db972b601b0dca9f" title="2022-04-14T12:22:32.000+02:00" target="_blank">d87a5c66</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre">/kata-alien</a></strong></div>
+          <pre>[init] Welcome Kata-Alien</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-braille/commits/bb85a839f5fafaaccb2affbcafe839c8e7de7b92" title="2022-04-14T11:51:09.000+02:00" target="_blank">bb85a839</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille">/kata-braille</a></strong></div>
+          <pre>[init] hello kata-braille</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-morse/commits/26a1a996162d17aea4ca7a1b395157aa614bf6b0" title="2022-04-14T11:50:47.000+02:00" target="_blank">26a1a996</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse">/kata-morse</a></strong></div>
+          <pre>[init] hello kata-morse</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/cluster.k8s.testserver/commits/dd717ea69a433602e4496ee7c6641530848cd99c" title="2022-04-12T17:26:51.000+02:00" target="_blank">dd717ea6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/cluster.k8s.testserver" title="A containerized node webserver to use as a test app on k8s">/cluster.k8s.testserver</a></strong></div>
           <pre>[update] node module update</pre>
         </td>
@@ -127,6 +142,16 @@ add busible</pre>
         </td>
         </tr><tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/500ee4b201e4cf7904a995e464af3ea0058d2d24" title="2022-04-02T01:01:37.000+02:00" target="_blank">500ee4b2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ponsfrilus" title="My profile's README generator">/ponsfrilus</a></strong></div>
+          <pre>Update index.js</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/708208ea0744e9351acf410d68943c01a2521321" title="2022-04-02T00:53:49.000+02:00" target="_blank">708208ea</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ponsfrilus" title="My profile's README generator">/ponsfrilus</a></strong></div>
+          <pre>[fix] image removed</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/Azecko/panseri_sami_info1d_botonews_164/commits/568696e5464731b597bd483d21621963efd4e36b" title="2022-04-01T11:17:55.000+02:00" target="_blank">568696e5</a><a href="https://github.com/Azecko">@Azecko</a><a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164">/panseri_sami_info1d_botonews_164</a></strong></div>
           <pre>[feature] Docker to the rescue
 
@@ -140,42 +165,11 @@ up logs` to re-test the full jam.
 The `.env` file has been change as the MySQL user can not be root (root 
 is already defined by default).</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/Azecko/panseri_sami_info1d_botonews_164/commits/6d075c14dc5b9bb184a9c2912688fe7088510bb1" title="2022-04-01T09:15:37.000+02:00" target="_blank">6d075c14</a><a href="https://github.com/Azecko">@Azecko</a><a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164">/panseri_sami_info1d_botonews_164</a></strong></div>
-          <pre>[fix] GitHub says README are capitalized
-
-https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/Azecko/panseri_sami_info1d_botonews_164/commits/ee7324eac41f98669c74dad76fc0193aecb191af" title="2022-04-01T09:13:02.000+02:00" target="_blank">ee7324ea</a><a href="https://github.com/Azecko">@Azecko</a><a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164">/panseri_sami_info1d_botonews_164</a></strong></div>
-          <pre>[wtf] pas de date quand on utilise git
-
-La commande `git log` permet de voir quand un fichier a été modifié. Il 
-est également possible d'utiliser n'importe quel utilitaire git pour 
-avoir cette information (GitKraken, gtk, etc.).</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/searchplugins/commits/07a879c79a1366f31050515d254b55ba16296280" title="2022-03-31T15:53:16.000+02:00" target="_blank">07a879c7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/searchplugins" title="null">/searchplugins</a></strong></div>
-          <pre>Some search plugins</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/catalyse-access/commits/011d85ab367bd143d2d77be643cc53d779f4aec1" title="2022-03-30T15:29:54.000+02:00" target="_blank">011d85ab</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/catalyse-access" title="A intercalary page to handle access to "catalyse".">/catalyse-access</a></strong></div>
-          <pre>[feature] just redirect to catalyse-buyer.epfl.ch</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/758aaac06c5c74286122a5bf97eb0d9d5ef4c086" title="2022-03-29T15:50:34.000+02:00" target="_blank">758aaac0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
-          <pre>[doc] repo image</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 13 Apr 2022 13:47:55 GMT</small>
+<small>⏰ Updated on Thu, 14 Apr 2022 13:49:19 GMT</small>
 </td>
 </tr>
 </tfoot>
