@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank">yew</a>&nbsp;<a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank"><img src="https://img.shields.io/github/stars/yewstack/yew?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank">rakkess</a>&nbsp;<a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank"><img src="https://img.shields.io/github/stars/corneliusweig/rakkess?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/SaphireVert/botonews" title="null" target="_blank">botonews</a>&nbsp;<a href="https://github.com/SaphireVert/botonews" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/botonews?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/SaphireVert/epfl-news-bot" title="null" target="_blank">epfl-news-bot</a>&nbsp;<a href="https://github.com/SaphireVert/epfl-news-bot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/epfl-news-bot?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank">exa</a>&nbsp;<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank"><img src="https://img.shields.io/github/stars/ogham/exa?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank">place</a>&nbsp;<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank"><img src="https://img.shields.io/github/stars/dynastic/place?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/SaphireVert/docker-minecraft" title="null" target="_blank">docker-minecraft</a>&nbsp;<a href="https://github.com/SaphireVert/docker-minecraft" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/docker-minecraft?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/channel-bot" title="null" target="_blank">channel-bot</a>&nbsp;<a href="https://github.com/SaphireVert/channel-bot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/channel-bot?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -169,7 +169,7 @@ is already defined by default).</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 14 Apr 2022 13:49:19 GMT</small>
+<small>⏰ Updated on Fri, 15 Apr 2022 13:47:00 GMT</small>
 </td>
 </tr>
 </tfoot>
