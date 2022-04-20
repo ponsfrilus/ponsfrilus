@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank">Piped</a>&nbsp;<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank"><img src="https://img.shields.io/github/stars/TeamPiped/Piped?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank">exa</a>&nbsp;<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank"><img src="https://img.shields.io/github/stars/ogham/exa?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank">place</a>&nbsp;<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank"><img src="https://img.shields.io/github/stars/dynastic/place?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/defnull/pixelflut" title="Multiplayer canvas" target="_blank">pixelflut</a>&nbsp;<a href="https://github.com/defnull/pixelflut" title="Multiplayer canvas" target="_blank"><img src="https://img.shields.io/github/stars/defnull/pixelflut?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164" target="_blank">panseri_sami_info1d_botonews_164</a>&nbsp;<a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/panseri_sami_info1d_botonews_164?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank">x11docker</a>&nbsp;<a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank"><img src="https://img.shields.io/github/stars/mviereck/x11docker?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank">SATOSA</a>&nbsp;<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank"><img src="https://img.shields.io/github/stars/IdentityPython/SATOSA?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank">Awesome-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/Awesome-TPI?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/baise-en-ville-bash" title="null" target="_blank">baise-en-ville-bash</a>&nbsp;<a href="https://github.com/SaphireVert/baise-en-ville-bash" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/baise-en-ville-bash?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank">yew</a>&nbsp;<a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank"><img src="https://img.shields.io/github/stars/yewstack/yew?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/SaphireVert/botonews" title="null" target="_blank">botonews</a>&nbsp;<a href="https://github.com/SaphireVert/botonews" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/botonews?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank">exa</a>&nbsp;<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank"><img src="https://img.shields.io/github/stars/ogham/exa?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank">place</a>&nbsp;<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank"><img src="https://img.shields.io/github/stars/dynastic/place?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/defnull/pixelflut" title="Multiplayer canvas" target="_blank">pixelflut</a>&nbsp;<a href="https://github.com/defnull/pixelflut" title="Multiplayer canvas" target="_blank"><img src="https://img.shields.io/github/stars/defnull/pixelflut?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164" target="_blank">panseri_sami_info1d_botonews_164</a>&nbsp;<a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/panseri_sami_info1d_botonews_164?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank">x11docker</a>&nbsp;<a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank"><img src="https://img.shields.io/github/stars/mviereck/x11docker?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank">SATOSA</a>&nbsp;<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank"><img src="https://img.shields.io/github/stars/IdentityPython/SATOSA?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank">Awesome-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/Awesome-TPI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/baise-en-ville-bash" title="null" target="_blank">baise-en-ville-bash</a>&nbsp;<a href="https://github.com/SaphireVert/baise-en-ville-bash" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/baise-en-ville-bash?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/docker-minecraft" title="null" target="_blank">docker-minecraft</a>&nbsp;<a href="https://github.com/SaphireVert/docker-minecraft" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/docker-minecraft?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -169,7 +169,7 @@ is already defined by default).</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 19 Apr 2022 13:54:42 GMT</small>
+<small>⏰ Updated on Wed, 20 Apr 2022 13:53:44 GMT</small>
 </td>
 </tr>
 </tfoot>
