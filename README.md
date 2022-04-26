@@ -103,6 +103,24 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/c8d1eca279e84c0b9a24a109ef4960b2c192ead9" title="2022-04-26T08:19:57.000+02:00" target="_blank">c8d1eca2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
+          <pre>Update the contributing documentation (#1142)
+
+* Add `lib{mysql,mariadb}client-dev`
+* Link to [pyenv](https://github.com/pyenv/pyenv)
+* Do not forget to install python</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/56bf68c889bca7a0580df406eba6988ebd22defa" title="2022-04-26T08:19:33.000+02:00" target="_blank">56bf68c8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
+          <pre>Fix share HTTPS URL (#1141)
+
+Add a templatetag `ensure_https` that ensure a URL starts with HTTPS.
+
+This fixes #1140.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/a186f92bfb90f6fd42912b6a68c327f7de54e07b" title="2022-04-21T15:06:15.000+02:00" target="_blank">a186f92b</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
           <pre>[feature] fsd.team (without www)</pre>
         </td>
@@ -150,21 +168,11 @@ of CNAME doesn't sound as a good idea anymore.</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-alien/commits/d87a5c665788df7ca8e4c325db972b601b0dca9f" title="2022-04-14T12:22:32.000+02:00" target="_blank">d87a5c66</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre">/kata-alien</a></strong></div>
           <pre>[init] Welcome Kata-Alien</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-braille/commits/bb85a839f5fafaaccb2affbcafe839c8e7de7b92" title="2022-04-14T11:51:09.000+02:00" target="_blank">bb85a839</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille">/kata-braille</a></strong></div>
-          <pre>[init] hello kata-braille</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-morse/commits/26a1a996162d17aea4ca7a1b395157aa614bf6b0" title="2022-04-14T11:50:47.000+02:00" target="_blank">26a1a996</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse">/kata-morse</a></strong></div>
-          <pre>[init] hello kata-morse</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 25 Apr 2022 13:51:24 GMT</small>
+<small>⏰ Updated on Tue, 26 Apr 2022 13:56:17 GMT</small>
 </td>
 </tr>
 </tfoot>
