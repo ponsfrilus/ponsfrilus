@@ -172,7 +172,7 @@ of CNAME doesn't sound as a good idea anymore.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 26 Apr 2022 13:56:17 GMT</small>
+<small>⏰ Updated on Wed, 27 Apr 2022 13:55:25 GMT</small>
 </td>
 </tr>
 </tfoot>
