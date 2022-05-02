@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 12 years and 3 months.
+    <br />Apparently, I'm hanging around on GitHub since 12 years and 4 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -29,6 +29,40 @@
 <td colspan="2" align="center"><h4>My last starred repos</h4></td>
 </tr>
 <tr>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank">autocomplete</a>&nbsp;<a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank"><img src="https://img.shields.io/github/stars/withfig/autocomplete?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank">fsd.team</a>&nbsp;<a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/fsd.team?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank">yew</a>&nbsp;<a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank"><img src="https://img.shields.io/github/stars/yewstack/yew?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank">rakkess</a>&nbsp;<a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank"><img src="https://img.shields.io/github/stars/corneliusweig/rakkess?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022" target="_blank">personal-security-checklist</a>&nbsp;<a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022" target="_blank"><img src="https://img.shields.io/github/stars/Lissy93/personal-security-checklist?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Imbwbl/rec" title="rec is a linux command for recording your screen or a window with ffmpeg" target="_blank">rec</a>&nbsp;<a href="https://github.com/Imbwbl/rec" title="rec is a linux command for recording your screen or a window with ffmpeg" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/rec?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank">opensearch</a>&nbsp;<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank"><img src="https://img.shields.io/github/stars/dewitt/opensearch?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank">oni2</a>&nbsp;<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank"><img src="https://img.shields.io/github/stars/onivim/oni2?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank">dasel</a>&nbsp;<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank"><img src="https://img.shields.io/github/stars/TomWright/dasel?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank">evaluation-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/evaluation-TPI?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
 <td valign="top">
 <ul>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank">Awesome-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/Awesome-TPI?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank">fsd.team</a>&nbsp;<a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/fsd.team?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank">yew</a>&nbsp;<a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank"><img src="https://img.shields.io/github/stars/yewstack/yew?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank">rakkess</a>&nbsp;<a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank"><img src="https://img.shields.io/github/stars/corneliusweig/rakkess?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022" target="_blank">personal-security-checklist</a>&nbsp;<a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022" target="_blank"><img src="https://img.shields.io/github/stars/Lissy93/personal-security-checklist?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/rec" title="rec is a linux command for recording your screen or a window with ffmpeg" target="_blank">rec</a>&nbsp;<a href="https://github.com/Imbwbl/rec" title="rec is a linux command for recording your screen or a window with ffmpeg" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/rec?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank">opensearch</a>&nbsp;<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank"><img src="https://img.shields.io/github/stars/dewitt/opensearch?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank">oni2</a>&nbsp;<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank"><img src="https://img.shields.io/github/stars/onivim/oni2?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank">dasel</a>&nbsp;<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank"><img src="https://img.shields.io/github/stars/TomWright/dasel?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank">evaluation-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/evaluation-TPI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/bataille-navale-epsic" title="null" target="_blank">bataille-navale-epsic</a>&nbsp;<a href="https://github.com/SaphireVert/bataille-navale-epsic" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/bataille-navale-epsic?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -172,7 +172,7 @@ of CNAME doesn't sound as a good idea anymore.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 29 Apr 2022 13:56:39 GMT</small>
+<small>⏰ Updated on Mon, 02 May 2022 13:56:59 GMT</small>
 </td>
 </tr>
 </tfoot>
