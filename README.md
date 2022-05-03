@@ -103,6 +103,18 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/d08eb519ec4b2855d11a4ebe79896425f775a394" title="2022-05-02T18:29:38.000+02:00" target="_blank">d08eb519</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>Merge pull request #47 from epfl-si/feature/go-tst
+
+Welcome go-tst</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/f6ba9c7b6254a5512d548fb446db7412e0f92189" title="2022-04-26T16:03:59.000+02:00" target="_blank">f6ba9c7b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[feature] scrape federated go-tst metrics</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/c8d1eca279e84c0b9a24a109ef4960b2c192ead9" title="2022-04-26T08:19:57.000+02:00" target="_blank">c8d1eca2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
           <pre>Update the contributing documentation (#1142)
 
@@ -121,58 +133,39 @@ This fixes #1140.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/a186f92bfb90f6fd42912b6a68c327f7de54e07b" title="2022-04-21T15:06:15.000+02:00" target="_blank">a186f92b</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
-          <pre>[feature] fsd.team (without www)</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/2b30c8ac435e7091aa92f5eb59c6cf379ae09e08" title="2022-04-25T19:21:05.000+02:00" target="_blank">2b30c8ac</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[fix] limit rules to *.yml</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/8a3689fa283afbe4c5a60556b8fcd816dba5192a" title="2022-04-21T13:06:56.000+02:00" target="_blank">8a3689fa</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
-          <pre>[fix] no use of CNAME
-
-After reading https://datatracker.ietf.org/doc/html/rfc1912#section-2.4 
-and https://datatracker.ietf.org/doc/html/rfc1912#section-2.7, the usage 
-of CNAME doesn't sound as a good idea anymore.</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/5d2f45db6f10276e4ff9b09c08da98c3275d8d1c" title="2022-04-25T19:20:53.000+02:00" target="_blank">5d2f45db</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[bump] to prometheus v2.35 (was v2.20.1)</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/d8cd7c87682ed91c8d492dfc6e51c3fcdbf3a972" title="2022-04-21T12:34:12.000+02:00" target="_blank">d8cd7c87</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
-          <pre>[doc] updated</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/ca8157932c4e2ce35cbef264b6ca47748bb6fc88" title="2022-04-25T18:52:20.000+02:00" target="_blank">ca815793</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[feature] Go-test Træfik's dashboard</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/fa47da51e9e14d350bafe3ab5dd039a1a252e299" title="2022-04-21T12:34:04.000+02:00" target="_blank">fa47da51</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
-          <pre>[feature] Caddy webserver to serve www.fsd.team</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/2e0ef1506ac71be59fe446a1bbdb2dfc1c60fabe" title="2022-04-25T18:52:10.000+02:00" target="_blank">2e0ef150</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[feature] Go-test Postgres's dashboard</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/1e6d18f31d834d6010886639858c5ddcbbea584e" title="2022-04-21T12:33:38.000+02:00" target="_blank">1e6d18f3</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
-          <pre>[feature] fsd.team website files</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/1bce364c1d2a8a1189946a84d2b1de714b1c201d" title="2022-04-25T18:52:02.000+02:00" target="_blank">1bce364c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[feature] Go-test PHP-FPM's dashboard</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/0d869369c306bce632591db6b50e1a91a1e35a10" title="2022-04-21T12:32:38.000+02:00" target="_blank">0d869369</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
-          <pre>[feature] setup the vm
-
-* Add dockre and all other convenients package
-* Add a periodic docker system prune
-* Ensure user `ubuntu` can run docker
-* Allow member of ISAS-FSD to access the VM</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/9597f7787c32da8a478c7bf08e259b9e0da41198" title="2022-04-21T12:06:45.000+02:00" target="_blank">9597f778</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
-          <pre>[feature] add www.fsd.team</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-alien/commits/d87a5c665788df7ca8e4c325db972b601b0dca9f" title="2022-04-14T12:22:32.000+02:00" target="_blank">d87a5c66</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre">/kata-alien</a></strong></div>
-          <pre>[init] Welcome Kata-Alien</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/46e54e67ea3709789c03cd48087881309c2a56f0" title="2022-04-25T18:51:53.000+02:00" target="_blank">46e54e67</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
+          <pre>[feature] Go-test Node Exporter dashboard</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 02 May 2022 13:56:59 GMT</small>
+<small>⏰ Updated on Tue, 03 May 2022 13:57:47 GMT</small>
 </td>
 </tr>
 </tfoot>
