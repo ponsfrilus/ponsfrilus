@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank">Bash-Oneliner</a>&nbsp;<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank"><img src="https://img.shields.io/github/stars/onceupon/Bash-Oneliner?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank">ansible-collection-rhel</a>&nbsp;<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-collection-rhel?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank">Piped</a>&nbsp;<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank"><img src="https://img.shields.io/github/stars/TeamPiped/Piped?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank">exa</a>&nbsp;<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank"><img src="https://img.shields.io/github/stars/ogham/exa?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank">place</a>&nbsp;<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank"><img src="https://img.shields.io/github/stars/dynastic/place?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/defnull/pixelflut" title="Multiplayer canvas" target="_blank">pixelflut</a>&nbsp;<a href="https://github.com/defnull/pixelflut" title="Multiplayer canvas" target="_blank"><img src="https://img.shields.io/github/stars/defnull/pixelflut?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164" target="_blank">panseri_sami_info1d_botonews_164</a>&nbsp;<a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/panseri_sami_info1d_botonews_164?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank">x11docker</a>&nbsp;<a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank"><img src="https://img.shields.io/github/stars/mviereck/x11docker?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank">SATOSA</a>&nbsp;<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank"><img src="https://img.shields.io/github/stars/IdentityPython/SATOSA?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank">autocomplete</a>&nbsp;<a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank"><img src="https://img.shields.io/github/stars/withfig/autocomplete?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,18 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank">ansible-collection-rhel</a>&nbsp;<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-collection-rhel?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank">Piped</a>&nbsp;<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank"><img src="https://img.shields.io/github/stars/TeamPiped/Piped?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank">exa</a>&nbsp;<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank"><img src="https://img.shields.io/github/stars/ogham/exa?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank">place</a>&nbsp;<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank"><img src="https://img.shields.io/github/stars/dynastic/place?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/defnull/pixelflut" title="Multiplayer canvas" target="_blank">pixelflut</a>&nbsp;<a href="https://github.com/defnull/pixelflut" title="Multiplayer canvas" target="_blank"><img src="https://img.shields.io/github/stars/defnull/pixelflut?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164" target="_blank">panseri_sami_info1d_botonews_164</a>&nbsp;<a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/panseri_sami_info1d_botonews_164?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank">x11docker</a>&nbsp;<a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank"><img src="https://img.shields.io/github/stars/mviereck/x11docker?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank">SATOSA</a>&nbsp;<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank"><img src="https://img.shields.io/github/stars/IdentityPython/SATOSA?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank">Awesome-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/Awesome-TPI?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/af5d6d7f1a810749c6a77c99e7d747fe56da756f" title="2022-05-04T15:01:41.000+02:00" target="_blank">af5d6d7f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
+          <pre>Merge pull request #8 from epfl-si/unfeature/no-more-default-ansible-version
+
+[unfeature] no more default Ansible version</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/d08eb519ec4b2855d11a4ebe79896425f775a394" title="2022-05-02T18:29:38.000+02:00" target="_blank">d08eb519</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
           <pre>Merge pull request #47 from epfl-si/feature/go-tst
@@ -156,16 +163,11 @@ This fixes #1140.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/1bce364c1d2a8a1189946a84d2b1de714b1c201d" title="2022-04-25T18:52:02.000+02:00" target="_blank">1bce364c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
           <pre>[feature] Go-test PHP-FPM's dashboard</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/46e54e67ea3709789c03cd48087881309c2a56f0" title="2022-04-25T18:51:53.000+02:00" target="_blank">46e54e67</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[feature] Go-test Node Exporter dashboard</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 03 May 2022 13:57:47 GMT</small>
+<small>⏰ Updated on Wed, 04 May 2022 13:56:38 GMT</small>
 </td>
 </tr>
 </tfoot>
