@@ -32,6 +32,12 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues" target="_blank">trivy</a>&nbsp;<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues" target="_blank"><img src="https://img.shields.io/github/stars/aquasecurity/trivy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank">umami</a>&nbsp;<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank"><img src="https://img.shields.io/github/stars/mikecao/umami?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank">Bash-Oneliner</a>&nbsp;<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank"><img src="https://img.shields.io/github/stars/onceupon/Bash-Oneliner?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -55,16 +61,16 @@
 <li>
 <a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank">x11docker</a>&nbsp;<a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank"><img src="https://img.shields.io/github/stars/mviereck/x11docker?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank">SATOSA</a>&nbsp;<a href="https://github.com/IdentityPython/SATOSA" title="Proxy translating between different authentication protocols (SAML2, OpenID Connect and OAuth2)" target="_blank"><img src="https://img.shields.io/github/stars/IdentityPython/SATOSA?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/derailed/popeye" title="👀 A Kubernetes cluster resource sanitizer" target="_blank">popeye</a>&nbsp;<a href="https://github.com/derailed/popeye" title="👀 A Kubernetes cluster resource sanitizer" target="_blank"><img src="https://img.shields.io/github/stars/derailed/popeye?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/NginxProxyManager/nginx-proxy-manager" title="Docker container for managing Nginx proxy hosts with a simple, powerful interface" target="_blank">nginx-proxy-manager</a>&nbsp;<a href="https://github.com/NginxProxyManager/nginx-proxy-manager" title="Docker container for managing Nginx proxy hosts with a simple, powerful interface" target="_blank"><img src="https://img.shields.io/github/stars/NginxProxyManager/nginx-proxy-manager?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank">autocomplete</a>&nbsp;<a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank"><img src="https://img.shields.io/github/stars/withfig/autocomplete?style=social" alt="GitHub"></a>
 </li>
@@ -88,12 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank">oni2</a>&nbsp;<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank"><img src="https://img.shields.io/github/stars/onivim/oni2?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank">dasel</a>&nbsp;<a href="https://github.com/TomWright/dasel" title="Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package." target="_blank"><img src="https://img.shields.io/github/stars/TomWright/dasel?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank">evaluation-TPI</a>&nbsp;<a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/evaluation-TPI?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -167,7 +167,7 @@ This fixes #1140.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 04 May 2022 13:56:38 GMT</small>
+<small>⏰ Updated on Thu, 05 May 2022 13:54:52 GMT</small>
 </td>
 </tr>
 </tfoot>
