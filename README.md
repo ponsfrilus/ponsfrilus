@@ -103,6 +103,31 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/2a352fdca8a84a07f238d2a57dddbfc1ee550625" title="2022-05-06T12:18:08.000+02:00" target="_blank">2a352fdc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
+          <pre>[fix] better SQL</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/265000bf4e4601ce4e7b69823494b00db10473a1" title="2022-05-06T12:17:53.000+02:00" target="_blank">265000bf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
+          <pre>[add] Intégrité référentielle</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/de5deee33fa312054b51de9a26f3cf74a866f56d" title="2022-05-06T12:17:32.000+02:00" target="_blank">de5deee3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
+          <pre>[fix] tool tips</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/33a0bea98b408ce49b8ee77cf69c477405dea8da" title="2022-05-06T11:41:47.000+02:00" target="_blank">33a0bea9</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
+          <pre>[add] Je l'ai fait !</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/4b7a3fcf00bd17bcce13e2ee67618b639c5fbbb7" title="2022-05-06T11:41:37.000+02:00" target="_blank">4b7a3fcf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
+          <pre>[doc] Meilleur README / HowTO</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/af5d6d7f1a810749c6a77c99e7d747fe56da756f" title="2022-05-04T15:01:41.000+02:00" target="_blank">af5d6d7f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
           <pre>Merge pull request #8 from epfl-si/unfeature/no-more-default-ansible-version
 
@@ -138,36 +163,11 @@ Add a templatetag `ensure_https` that ensure a URL starts with HTTPS.
 
 This fixes #1140.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/2b30c8ac435e7091aa92f5eb59c6cf379ae09e08" title="2022-04-25T19:21:05.000+02:00" target="_blank">2b30c8ac</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[fix] limit rules to *.yml</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/5d2f45db6f10276e4ff9b09c08da98c3275d8d1c" title="2022-04-25T19:20:53.000+02:00" target="_blank">5d2f45db</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[bump] to prometheus v2.35 (was v2.20.1)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/ca8157932c4e2ce35cbef264b6ca47748bb6fc88" title="2022-04-25T18:52:20.000+02:00" target="_blank">ca815793</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[feature] Go-test Træfik's dashboard</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/2e0ef1506ac71be59fe446a1bbdb2dfc1c60fabe" title="2022-04-25T18:52:10.000+02:00" target="_blank">2e0ef150</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[feature] Go-test Postgres's dashboard</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/1bce364c1d2a8a1189946a84d2b1de714b1c201d" title="2022-04-25T18:52:02.000+02:00" target="_blank">1bce364c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[feature] Go-test PHP-FPM's dashboard</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 05 May 2022 13:54:52 GMT</small>
+<small>⏰ Updated on Fri, 06 May 2022 13:52:29 GMT</small>
 </td>
 </tr>
 </tfoot>
