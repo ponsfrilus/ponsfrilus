@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/microsoft/PowerToys" title="Windows system utilities to maximize productivity" target="_blank">PowerToys</a>&nbsp;<a href="https://github.com/microsoft/PowerToys" title="Windows system utilities to maximize productivity" target="_blank"><img src="https://img.shields.io/github/stars/microsoft/PowerToys?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/derailed/popeye" title="👀 A Kubernetes cluster resource sanitizer" target="_blank">popeye</a>&nbsp;<a href="https://github.com/derailed/popeye" title="👀 A Kubernetes cluster resource sanitizer" target="_blank"><img src="https://img.shields.io/github/stars/derailed/popeye?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/NginxProxyManager/nginx-proxy-manager" title="Docker container for managing Nginx proxy hosts with a simple, powerful interface" target="_blank">nginx-proxy-manager</a>&nbsp;<a href="https://github.com/NginxProxyManager/nginx-proxy-manager" title="Docker container for managing Nginx proxy hosts with a simple, powerful interface" target="_blank"><img src="https://img.shields.io/github/stars/NginxProxyManager/nginx-proxy-manager?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank">autocomplete</a>&nbsp;<a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank"><img src="https://img.shields.io/github/stars/withfig/autocomplete?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank">fsd.team</a>&nbsp;<a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/fsd.team?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank">yew</a>&nbsp;<a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank"><img src="https://img.shields.io/github/stars/yewstack/yew?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank">rakkess</a>&nbsp;<a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank"><img src="https://img.shields.io/github/stars/corneliusweig/rakkess?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022" target="_blank">personal-security-checklist</a>&nbsp;<a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022" target="_blank"><img src="https://img.shields.io/github/stars/Lissy93/personal-security-checklist?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Imbwbl/rec" title="rec is a linux command for recording your screen or a window with ffmpeg" target="_blank">rec</a>&nbsp;<a href="https://github.com/Imbwbl/rec" title="rec is a linux command for recording your screen or a window with ffmpeg" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/rec?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank">opensearch</a>&nbsp;<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank"><img src="https://img.shields.io/github/stars/dewitt/opensearch?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues" target="_blank">trivy</a>&nbsp;<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues" target="_blank"><img src="https://img.shields.io/github/stars/aquasecurity/trivy?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,18 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/derailed/popeye" title="👀 A Kubernetes cluster resource sanitizer" target="_blank">popeye</a>&nbsp;<a href="https://github.com/derailed/popeye" title="👀 A Kubernetes cluster resource sanitizer" target="_blank"><img src="https://img.shields.io/github/stars/derailed/popeye?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/NginxProxyManager/nginx-proxy-manager" title="Docker container for managing Nginx proxy hosts with a simple, powerful interface" target="_blank">nginx-proxy-manager</a>&nbsp;<a href="https://github.com/NginxProxyManager/nginx-proxy-manager" title="Docker container for managing Nginx proxy hosts with a simple, powerful interface" target="_blank"><img src="https://img.shields.io/github/stars/NginxProxyManager/nginx-proxy-manager?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank">autocomplete</a>&nbsp;<a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank"><img src="https://img.shields.io/github/stars/withfig/autocomplete?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank">fsd.team</a>&nbsp;<a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/fsd.team?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank">yew</a>&nbsp;<a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank"><img src="https://img.shields.io/github/stars/yewstack/yew?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank">rakkess</a>&nbsp;<a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank"><img src="https://img.shields.io/github/stars/corneliusweig/rakkess?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022" target="_blank">personal-security-checklist</a>&nbsp;<a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022" target="_blank"><img src="https://img.shields.io/github/stars/Lissy93/personal-security-checklist?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/rec" title="rec is a linux command for recording your screen or a window with ffmpeg" target="_blank">rec</a>&nbsp;<a href="https://github.com/Imbwbl/rec" title="rec is a linux command for recording your screen or a window with ffmpeg" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/rec?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank">opensearch</a>&nbsp;<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank"><img src="https://img.shields.io/github/stars/dewitt/opensearch?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank">oni2</a>&nbsp;<a href="https://github.com/onivim/oni2" title="Native, lightweight modal code editor" target="_blank"><img src="https://img.shields.io/github/stars/onivim/oni2?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/cluster.k8s.testserver/commits/5de5e229e3367c612d1b5143a218d7d026ba83e2" title="2022-05-09T13:29:15.000+02:00" target="_blank">5de5e229</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/cluster.k8s.testserver" title="A containerized node webserver to use as a test app on k8s">/cluster.k8s.testserver</a></strong></div>
+          <pre>Merge pull request #2 from epfl-si/feature/varsity
+
+[feature] Cats for every team!</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/2a352fdca8a84a07f238d2a57dddbfc1ee550625" title="2022-05-06T12:18:08.000+02:00" target="_blank">2a352fdc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
           <pre>[fix] better SQL</pre>
@@ -154,20 +161,11 @@ Welcome go-tst</pre>
 * Link to [pyenv](https://github.com/pyenv/pyenv)
 * Do not forget to install python</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/56bf68c889bca7a0580df406eba6988ebd22defa" title="2022-04-26T08:19:33.000+02:00" target="_blank">56bf68c8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
-          <pre>Fix share HTTPS URL (#1141)
-
-Add a templatetag `ensure_https` that ensure a URL starts with HTTPS.
-
-This fixes #1140.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 06 May 2022 13:52:29 GMT</small>
+<small>⏰ Updated on Mon, 09 May 2022 13:57:13 GMT</small>
 </td>
 </tr>
 </tfoot>
