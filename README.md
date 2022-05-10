@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/OpenObservability/OpenMetrics" title="Evolving the Prometheus exposition format into a standard." target="_blank">OpenMetrics</a>&nbsp;<a href="https://github.com/OpenObservability/OpenMetrics" title="Evolving the Prometheus exposition format into a standard." target="_blank"><img src="https://img.shields.io/github/stars/OpenObservability/OpenMetrics?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues" target="_blank">trivy</a>&nbsp;<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues" target="_blank"><img src="https://img.shields.io/github/stars/aquasecurity/trivy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank">umami</a>&nbsp;<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank"><img src="https://img.shields.io/github/stars/mikecao/umami?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank">Bash-Oneliner</a>&nbsp;<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank"><img src="https://img.shields.io/github/stars/onceupon/Bash-Oneliner?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank">ansible-collection-rhel</a>&nbsp;<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-collection-rhel?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank">Piped</a>&nbsp;<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank"><img src="https://img.shields.io/github/stars/TeamPiped/Piped?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank">exa</a>&nbsp;<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank"><img src="https://img.shields.io/github/stars/ogham/exa?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank">place</a>&nbsp;<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank"><img src="https://img.shields.io/github/stars/dynastic/place?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/defnull/pixelflut" title="Multiplayer canvas" target="_blank">pixelflut</a>&nbsp;<a href="https://github.com/defnull/pixelflut" title="Multiplayer canvas" target="_blank"><img src="https://img.shields.io/github/stars/defnull/pixelflut?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164" target="_blank">panseri_sami_info1d_botonews_164</a>&nbsp;<a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/panseri_sami_info1d_botonews_164?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/microsoft/PowerToys" title="Windows system utilities to maximize productivity" target="_blank">PowerToys</a>&nbsp;<a href="https://github.com/microsoft/PowerToys" title="Windows system utilities to maximize productivity" target="_blank"><img src="https://img.shields.io/github/stars/microsoft/PowerToys?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank">opensearch</a>&nbsp;<a href="https://github.com/dewitt/opensearch" title="OpenSearch is a collection of simple formats for the sharing of search results." target="_blank"><img src="https://img.shields.io/github/stars/dewitt/opensearch?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues" target="_blank">trivy</a>&nbsp;<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues" target="_blank"><img src="https://img.shields.io/github/stars/aquasecurity/trivy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank">umami</a>&nbsp;<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank"><img src="https://img.shields.io/github/stars/mikecao/umami?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank">Bash-Oneliner</a>&nbsp;<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank"><img src="https://img.shields.io/github/stars/onceupon/Bash-Oneliner?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank">ansible-collection-rhel</a>&nbsp;<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-collection-rhel?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank">Piped</a>&nbsp;<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank"><img src="https://img.shields.io/github/stars/TeamPiped/Piped?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank">exa</a>&nbsp;<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank"><img src="https://img.shields.io/github/stars/ogham/exa?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank">place</a>&nbsp;<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank"><img src="https://img.shields.io/github/stars/dynastic/place?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/defnull/pixelflut" title="Multiplayer canvas" target="_blank">pixelflut</a>&nbsp;<a href="https://github.com/defnull/pixelflut" title="Multiplayer canvas" target="_blank"><img src="https://img.shields.io/github/stars/defnull/pixelflut?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164" target="_blank">panseri_sami_info1d_botonews_164</a>&nbsp;<a href="https://github.com/Azecko/panseri_sami_info1d_botonews_164" title="Repository pour le module 164" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/panseri_sami_info1d_botonews_164?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank">x11docker</a>&nbsp;<a href="https://github.com/mviereck/x11docker" title="Run GUI applications and desktops in docker and podman containers. Focus on security." target="_blank"><img src="https://img.shields.io/github/stars/mviereck/x11docker?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -165,7 +165,7 @@ Welcome go-tst</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 09 May 2022 13:57:13 GMT</small>
+<small>⏰ Updated on Tue, 10 May 2022 14:04:39 GMT</small>
 </td>
 </tr>
 </tfoot>
