@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/cluster.k8s.testserver/commits/9bee6b31be894bbcb8712d5f77f03cb216894cef" title="2022-05-11T18:29:42.000+02:00" target="_blank">9bee6b31</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/cluster.k8s.testserver" title="A containerized node webserver to use as a test app on k8s">/cluster.k8s.testserver</a></strong></div>
+          <pre>[fix] avoid mixed-content</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/cluster.k8s.testserver/commits/5de5e229e3367c612d1b5143a218d7d026ba83e2" title="2022-05-09T13:29:15.000+02:00" target="_blank">5de5e229</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/cluster.k8s.testserver" title="A containerized node webserver to use as a test app on k8s">/cluster.k8s.testserver</a></strong></div>
           <pre>Merge pull request #2 from epfl-si/feature/varsity
 
@@ -152,20 +157,11 @@ Welcome go-tst</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/f6ba9c7b6254a5512d548fb446db7412e0f92189" title="2022-04-26T16:03:59.000+02:00" target="_blank">f6ba9c7b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
           <pre>[feature] scrape federated go-tst metrics</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/c8d1eca279e84c0b9a24a109ef4960b2c192ead9" title="2022-04-26T08:19:57.000+02:00" target="_blank">c8d1eca2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
-          <pre>Update the contributing documentation (#1142)
-
-* Add `lib{mysql,mariadb}client-dev`
-* Link to [pyenv](https://github.com/pyenv/pyenv)
-* Do not forget to install python</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 11 May 2022 13:56:15 GMT</small>
+<small>⏰ Updated on Thu, 12 May 2022 14:02:25 GMT</small>
 </td>
 </tr>
 </tfoot>
