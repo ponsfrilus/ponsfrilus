@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/05cfedcff845dd1df1e95fa253f56af91a829953" title="2022-05-13T15:44:08.000+02:00" target="_blank">05cfedcf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
+          <pre>[doc] Add more links</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/cluster.k8s.testserver/commits/9bee6b31be894bbcb8712d5f77f03cb216894cef" title="2022-05-11T18:29:42.000+02:00" target="_blank">9bee6b31</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/cluster.k8s.testserver" title="A containerized node webserver to use as a test app on k8s">/cluster.k8s.testserver</a></strong></div>
           <pre>[fix] avoid mixed-content</pre>
         </td>
@@ -152,16 +157,11 @@
 
 Welcome go-tst</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/f6ba9c7b6254a5512d548fb446db7412e0f92189" title="2022-04-26T16:03:59.000+02:00" target="_blank">f6ba9c7b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>[feature] scrape federated go-tst metrics</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 12 May 2022 14:02:25 GMT</small>
+<small>⏰ Updated on Fri, 13 May 2022 14:04:22 GMT</small>
 </td>
 </tr>
 </tfoot>
