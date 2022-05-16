@@ -35,7 +35,7 @@
 <a href="https://github.com/OpenObservability/OpenMetrics" title="Evolving the Prometheus exposition format into a standard." target="_blank">OpenMetrics</a>&nbsp;<a href="https://github.com/OpenObservability/OpenMetrics" title="Evolving the Prometheus exposition format into a standard." target="_blank"><img src="https://img.shields.io/github/stars/OpenObservability/OpenMetrics?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues" target="_blank">trivy</a>&nbsp;<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues" target="_blank"><img src="https://img.shields.io/github/stars/aquasecurity/trivy?style=social" alt="GitHub"></a>
+<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets" target="_blank">trivy</a>&nbsp;<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets" target="_blank"><img src="https://img.shields.io/github/stars/aquasecurity/trivy?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank">umami</a>&nbsp;<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank"><img src="https://img.shields.io/github/stars/mikecao/umami?style=social" alt="GitHub"></a>
@@ -103,6 +103,36 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/c2e4963e6f9965aa9dc574c0903c4fd1afb3bf2c" title="2022-05-13T23:02:18.000+02:00" target="_blank">c2e4963e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[janitor](WIP)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/a84168d2b6f164a60cb03ee9ad6e52809cd38cf6" title="2022-05-13T23:02:05.000+02:00" target="_blank">a84168d2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[fix] any type</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/9df02addf2fad6a138c2a4e1b4282f5a1978ce36" title="2022-05-13T23:01:40.000+02:00" target="_blank">9df02add</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[fix] downgrade node fetch</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/d22abc088a7b54e423f1f3f752ec220c04cb6ca9" title="2022-05-13T18:56:26.000+02:00" target="_blank">d22abc08</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[ops] use node lts</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/12ab001f048c0eff050e3e7f69ed504b6d82f56a" title="2022-05-13T18:53:29.000+02:00" target="_blank">12ab001f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[lint] update eslint + any type when needed</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/b7ec51f7bfe995aef85863609262593b4d111e31" title="2022-05-13T18:52:56.000+02:00" target="_blank">b7ec51f7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
+          <pre>[npm] audit fix + update</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/05cfedcff845dd1df1e95fa253f56af91a829953" title="2022-05-13T15:44:08.000+02:00" target="_blank">05cfedcf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
           <pre>[doc] Add more links</pre>
         </td>
@@ -123,45 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/2a352fdca8a84a07f238d2a57dddbfc1ee550625" title="2022-05-06T12:18:08.000+02:00" target="_blank">2a352fdc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
           <pre>[fix] better SQL</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/265000bf4e4601ce4e7b69823494b00db10473a1" title="2022-05-06T12:17:53.000+02:00" target="_blank">265000bf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[add] Intégrité référentielle</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/de5deee33fa312054b51de9a26f3cf74a866f56d" title="2022-05-06T12:17:32.000+02:00" target="_blank">de5deee3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[fix] tool tips</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/33a0bea98b408ce49b8ee77cf69c477405dea8da" title="2022-05-06T11:41:47.000+02:00" target="_blank">33a0bea9</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[add] Je l'ai fait !</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/4b7a3fcf00bd17bcce13e2ee67618b639c5fbbb7" title="2022-05-06T11:41:37.000+02:00" target="_blank">4b7a3fcf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[doc] Meilleur README / HowTO</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/af5d6d7f1a810749c6a77c99e7d747fe56da756f" title="2022-05-04T15:01:41.000+02:00" target="_blank">af5d6d7f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
-          <pre>Merge pull request #8 from epfl-si/unfeature/no-more-default-ansible-version
-
-[unfeature] no more default Ansible version</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/d08eb519ec4b2855d11a4ebe79896425f775a394" title="2022-05-02T18:29:38.000+02:00" target="_blank">d08eb519</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI IDEV-FSD">/external-noc</a></strong></div>
-          <pre>Merge pull request #47 from epfl-si/feature/go-tst
-
-Welcome go-tst</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 13 May 2022 14:04:22 GMT</small>
+<small>⏰ Updated on Mon, 16 May 2022 14:00:03 GMT</small>
 </td>
 </tr>
 </tfoot>
