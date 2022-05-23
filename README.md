@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/common-libs/commits/275fa4f0cffc72bf9a101c8c5f1686e150c6f231" title="2022-05-20T16:39:37.000+02:00" target="_blank">275fa4f0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/common-libs" title="Base Image containing common libs (accreds, cadi, tequila-perl-client)">/common-libs</a></strong></div>
+          <pre>Update README.md with PAT's scope</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/c2e4963e6f9965aa9dc574c0903c4fd1afb3bf2c" title="2022-05-13T23:02:18.000+02:00" target="_blank">c2e4963e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
           <pre>[janitor](WIP)</pre>
         </td>
@@ -148,16 +153,11 @@
 
 [feature] Cats for every team!</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/2a352fdca8a84a07f238d2a57dddbfc1ee550625" title="2022-05-06T12:18:08.000+02:00" target="_blank">2a352fdc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[fix] better SQL</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 20 May 2022 13:55:45 GMT</small>
+<small>⏰ Updated on Mon, 23 May 2022 13:57:39 GMT</small>
 </td>
 </tr>
 </tfoot>
