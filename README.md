@@ -103,6 +103,47 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/93c960972d45c8785df12927092eb2ab24a4c619" title="2022-05-24T18:28:39.000+02:00" target="_blank">93c96097</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #500 from epfl-si/feature/dual-version-wpforms
+
+[feature] WPForms with survey versions 1.6 & 1.7</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/7a6d7b2f89dd4d49d7100d9ba78e959b048db479" title="2022-05-24T18:20:03.000+02:00" target="_blank">7a6d7b2f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] set WPFroms version on WP version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/30b3895b0b6f321d3d392c65328f3d8e36228b6f" title="2022-05-24T18:12:50.000+02:00" target="_blank">30b3895b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #498 from epfl-si/feature/wpforms-surveys-polls
+
+[feature] WPForms Surveys & Polls</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/5c482616fa2d0c024b59701b966a16bb850d83b5" title="2022-05-24T18:12:42.000+02:00" target="_blank">5c482616</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #499 from epfl-si/feature/do-not-ask-for-fundng-please
+
+[feature] use `--no-fund` where possible</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/7e5990e474259dc16bf0cb3fba929fcce894af98" title="2022-05-24T18:01:03.000+02:00" target="_blank">7e5990e4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] use `--no-fund` where possible</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8a21a2f5baf7fa061645c7bcf9fa133e51231a45" title="2022-05-24T17:55:39.000+02:00" target="_blank">8a21a2f5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[doc] Trombinoscope update</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/feac1b3fbc2435665c972c86e603cd358255a16b" title="2022-05-24T17:39:56.000+02:00" target="_blank">feac1b3f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] WPForms Surveys & Polls</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/common-libs/commits/275fa4f0cffc72bf9a101c8c5f1686e150c6f231" title="2022-05-20T16:39:37.000+02:00" target="_blank">275fa4f0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/common-libs" title="Base Image containing common libs (accreds, cadi, tequila-perl-client)">/common-libs</a></strong></div>
           <pre>Update README.md with PAT's scope</pre>
         </td>
@@ -116,48 +157,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/a84168d2b6f164a60cb03ee9ad6e52809cd38cf6" title="2022-05-13T23:02:05.000+02:00" target="_blank">a84168d2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
           <pre>[fix] any type</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/9df02addf2fad6a138c2a4e1b4282f5a1978ce36" title="2022-05-13T23:01:40.000+02:00" target="_blank">9df02add</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[fix] downgrade node fetch</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/d22abc088a7b54e423f1f3f752ec220c04cb6ca9" title="2022-05-13T18:56:26.000+02:00" target="_blank">d22abc08</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[ops] use node lts</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/12ab001f048c0eff050e3e7f69ed504b6d82f56a" title="2022-05-13T18:53:29.000+02:00" target="_blank">12ab001f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[lint] update eslint + any type when needed</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/b7ec51f7bfe995aef85863609262593b4d111e31" title="2022-05-13T18:52:56.000+02:00" target="_blank">b7ec51f7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[npm] audit fix + update</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/05cfedcff845dd1df1e95fa253f56af91a829953" title="2022-05-13T15:44:08.000+02:00" target="_blank">05cfedcf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[doc] Add more links</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/cluster.k8s.testserver/commits/9bee6b31be894bbcb8712d5f77f03cb216894cef" title="2022-05-11T18:29:42.000+02:00" target="_blank">9bee6b31</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/cluster.k8s.testserver" title="A containerized node webserver to use as a test app on k8s">/cluster.k8s.testserver</a></strong></div>
-          <pre>[fix] avoid mixed-content</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/cluster.k8s.testserver/commits/5de5e229e3367c612d1b5143a218d7d026ba83e2" title="2022-05-09T13:29:15.000+02:00" target="_blank">5de5e229</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/cluster.k8s.testserver" title="A containerized node webserver to use as a test app on k8s">/cluster.k8s.testserver</a></strong></div>
-          <pre>Merge pull request #2 from epfl-si/feature/varsity
-
-[feature] Cats for every team!</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 24 May 2022 13:58:33 GMT</small>
+<small>⏰ Updated on Wed, 25 May 2022 14:00:23 GMT</small>
 </td>
 </tr>
 </tfoot>
