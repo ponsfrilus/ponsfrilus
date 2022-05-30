@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AFASIE/commits/c49b2131952fede4cf22b768a5eb39d156f3d4c8" title="2022-05-30T13:54:12.000+02:00" target="_blank">c49b2131</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AFASIE" title="AFASIE — Amélioration de la formation des apprenti·e·s et stagiaires informaticien·ne·s à l’EPFL">/AFASIE</a></strong></div>
+          <pre>Première version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/93c960972d45c8785df12927092eb2ab24a4c619" title="2022-05-24T18:28:39.000+02:00" target="_blank">93c96097</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #500 from epfl-si/feature/dual-version-wpforms
 
@@ -152,16 +157,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/c2e4963e6f9965aa9dc574c0903c4fd1afb3bf2c" title="2022-05-13T23:02:18.000+02:00" target="_blank">c2e4963e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
           <pre>[janitor](WIP)</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/alert-tg-bot/commits/a84168d2b6f164a60cb03ee9ad6e52809cd38cf6" title="2022-05-13T23:02:05.000+02:00" target="_blank">a84168d2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/alert-tg-bot" title="null">/alert-tg-bot</a></strong></div>
-          <pre>[fix] any type</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 27 May 2022 13:56:41 GMT</small>
+<small>⏰ Updated on Mon, 30 May 2022 13:59:33 GMT</small>
 </td>
 </tr>
 </tfoot>
