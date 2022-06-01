@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 12 years and 4 months.
+    <br />Apparently, I'm hanging around on GitHub since 12 years and 5 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -29,6 +29,40 @@
 <td colspan="2" align="center"><h4>My last starred repos</h4></td>
 </tr>
 <tr>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank">1x.engineer</a>&nbsp;<a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank"><img src="https://img.shields.io/github/stars/cutenode/1x.engineer?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/noah-barberini/TPI_Daily_Word_Game" title="null" target="_blank">TPI_Daily_Word_Game</a>&nbsp;<a href="https://github.com/noah-barberini/TPI_Daily_Word_Game" title="null" target="_blank"><img src="https://img.shields.io/github/stars/noah-barberini/TPI_Daily_Word_Game?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/OpenObservability/OpenMetrics" title="Evolving the Prometheus exposition format into a standard." target="_blank">OpenMetrics</a>&nbsp;<a href="https://github.com/OpenObservability/OpenMetrics" title="Evolving the Prometheus exposition format into a standard." target="_blank"><img src="https://img.shields.io/github/stars/OpenObservability/OpenMetrics?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets" target="_blank">trivy</a>&nbsp;<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets" target="_blank"><img src="https://img.shields.io/github/stars/aquasecurity/trivy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank">umami</a>&nbsp;<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank"><img src="https://img.shields.io/github/stars/mikecao/umami?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank">Bash-Oneliner</a>&nbsp;<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank"><img src="https://img.shields.io/github/stars/onceupon/Bash-Oneliner?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank">ansible-collection-rhel</a>&nbsp;<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-collection-rhel?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank">Piped</a>&nbsp;<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank"><img src="https://img.shields.io/github/stars/TeamPiped/Piped?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank">exa</a>&nbsp;<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank"><img src="https://img.shields.io/github/stars/ogham/exa?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank">place</a>&nbsp;<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank"><img src="https://img.shields.io/github/stars/dynastic/place?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
 <td valign="top">
 <ul>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022" target="_blank">personal-security-checklist</a>&nbsp;<a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022" target="_blank"><img src="https://img.shields.io/github/stars/Lissy93/personal-security-checklist?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/noah-barberini/TPI_Daily_Word_Game" title="null" target="_blank">TPI_Daily_Word_Game</a>&nbsp;<a href="https://github.com/noah-barberini/TPI_Daily_Word_Game" title="null" target="_blank"><img src="https://img.shields.io/github/stars/noah-barberini/TPI_Daily_Word_Game?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/OpenObservability/OpenMetrics" title="Evolving the Prometheus exposition format into a standard." target="_blank">OpenMetrics</a>&nbsp;<a href="https://github.com/OpenObservability/OpenMetrics" title="Evolving the Prometheus exposition format into a standard." target="_blank"><img src="https://img.shields.io/github/stars/OpenObservability/OpenMetrics?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets" target="_blank">trivy</a>&nbsp;<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets" target="_blank"><img src="https://img.shields.io/github/stars/aquasecurity/trivy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank">umami</a>&nbsp;<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank"><img src="https://img.shields.io/github/stars/mikecao/umami?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank">Bash-Oneliner</a>&nbsp;<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank"><img src="https://img.shields.io/github/stars/onceupon/Bash-Oneliner?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank">ansible-collection-rhel</a>&nbsp;<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-collection-rhel?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank">Piped</a>&nbsp;<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank"><img src="https://img.shields.io/github/stars/TeamPiped/Piped?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank">exa</a>&nbsp;<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank"><img src="https://img.shields.io/github/stars/ogham/exa?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank">place</a>&nbsp;<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank"><img src="https://img.shields.io/github/stars/dynastic/place?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/defnull/pixelflut" title="Multiplayer canvas" target="_blank">pixelflut</a>&nbsp;<a href="https://github.com/defnull/pixelflut" title="Multiplayer canvas" target="_blank"><img src="https://img.shields.io/github/stars/defnull/pixelflut?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 31 May 2022 14:00:07 GMT</small>
+<small>⏰ Updated on Wed, 01 Jun 2022 14:06:41 GMT</small>
 </td>
 </tr>
 </tfoot>
