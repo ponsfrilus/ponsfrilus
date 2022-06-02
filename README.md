@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank">birthminder</a>&nbsp;<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/birthminder?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank">1x.engineer</a>&nbsp;<a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank"><img src="https://img.shields.io/github/stars/cutenode/1x.engineer?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank">exa</a>&nbsp;<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank"><img src="https://img.shields.io/github/stars/ogham/exa?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank">place</a>&nbsp;<a href="https://github.com/dynastic/place" title="An open-source recreation of Reddit's /r/place. " target="_blank"><img src="https://img.shields.io/github/stars/dynastic/place?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/git-noter/gitnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank">gitnoter</a>&nbsp;<a href="https://github.com/git-noter/gitnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank"><img src="https://img.shields.io/github/stars/git-noter/gitnoter?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/kilianm97/Supervids" title="TPI project" target="_blank">Supervids</a>&nbsp;<a href="https://github.com/kilianm97/Supervids" title="TPI project" target="_blank"><img src="https://img.shields.io/github/stars/kilianm97/Supervids?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank">rakkess</a>&nbsp;<a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank"><img src="https://img.shields.io/github/stars/corneliusweig/rakkess?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022" target="_blank">personal-security-checklist</a>&nbsp;<a href="https://github.com/Lissy93/personal-security-checklist" title="🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022" target="_blank"><img src="https://img.shields.io/github/stars/Lissy93/personal-security-checklist?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 01 Jun 2022 14:06:41 GMT</small>
+<small>⏰ Updated on Thu, 02 Jun 2022 14:03:45 GMT</small>
 </td>
 </tr>
 </tfoot>
