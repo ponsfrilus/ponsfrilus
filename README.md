@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank">onedrive</a>&nbsp;<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank"><img src="https://img.shields.io/github/stars/abraunegg/onedrive?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank">birthminder</a>&nbsp;<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/birthminder?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank">Piped</a>&nbsp;<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank"><img src="https://img.shields.io/github/stars/TeamPiped/Piped?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank">exa</a>&nbsp;<a href="https://github.com/ogham/exa" title="A modern replacement for ‘ls’." target="_blank"><img src="https://img.shields.io/github/stars/ogham/exa?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank">lima</a>&nbsp;<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank"><img src="https://img.shields.io/github/stars/lima-vm/lima?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/git-noter/gitnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank">gitnoter</a>&nbsp;<a href="https://github.com/git-noter/gitnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank"><img src="https://img.shields.io/github/stars/git-noter/gitnoter?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank">yew</a>&nbsp;<a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank"><img src="https://img.shields.io/github/stars/yewstack/yew?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank">rakkess</a>&nbsp;<a href="https://github.com/corneliusweig/rakkess" title="Review Access - kubectl plugin to show an access matrix for k8s server resources" target="_blank"><img src="https://img.shields.io/github/stars/corneliusweig/rakkess?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,11 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/1e2a4e4a63c4cbb2488c10b29b95955f097a47ad" title="2022-06-06T09:56:58.000+02:00" target="_blank">1e2a4e4a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
+          <pre>[doc] mail lancement</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/dotfiles/commits/f72aac2097c03a3070b32f4f4f0bb27263c79c9d" title="2022-05-31T15:27:14.000+02:00" target="_blank">f72aac20</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dotfiles" title="null">/dotfiles</a></strong></div>
           <pre>[feature] bash conf</pre>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/dotfiles/commits/02ed5433b7e7e786a82fb9e13b255c3a2efb5585" title="2022-05-31T15:06:24.000+02:00" target="_blank">02ed5433</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dotfiles" title="null">/dotfiles</a></strong></div>
           <pre>[feature] quick and dirty initialization script</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dotfiles/commits/9e26e4cb3046ed3cf0c97b4d4c6a290245694c99" title="2022-05-31T15:05:45.000+02:00" target="_blank">9e26e4cb</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dotfiles" title="null">/dotfiles</a></strong></div>
-          <pre>first commit</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 03 Jun 2022 13:49:14 GMT</small>
+<small>⏰ Updated on Mon, 06 Jun 2022 13:56:52 GMT</small>
 </td>
 </tr>
 </tfoot>
