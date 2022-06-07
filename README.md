@@ -103,6 +103,48 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/826b18491534abed9004c4531c3e9b3ce56f2f32" title="2022-06-07T12:04:46.000+02:00" target="_blank">826b1849</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[typo] We don't need no education
+
+s/shools/schools</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/1d5c5c8cfc47e89209de851c35e8a491033f00e5" title="2022-06-06T15:54:01.000+02:00" target="_blank">1d5c5c8c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] use `-n`and `-f`
+
+When redeploying on existing files (aka brown field), you may encounter 
+some 
+error when attempting to recreate these links. The `-f` option will 
+force the
+link and the `-n` option will treat the link as a normal file if it is a 
+symbolic link to a directory.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/6552e26154d385546d02b9c200f6ab030bca37ab" title="2022-06-06T15:50:23.000+02:00" target="_blank">6552e261</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[ocd] no comments</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/5df8336ac508f05df8897567cd991dfab642020b" title="2022-06-06T15:48:16.000+02:00" target="_blank">5df8336a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] advise on nvm commands</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/8a8ead563bc2a2e755f06910b7d48ac9630b7576" title="2022-06-06T15:47:31.000+02:00" target="_blank">8a8ead56</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[feature] `make lnav` in addition to `make logs`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/0279e14d42e16b4b5106ab3c4446bac14e84b815" title="2022-06-06T15:46:57.000+02:00" target="_blank">0279e14d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] do not update things in ansible-deps-cache
+
+This avoids to update things as `rbenv/plugins` or `pyenv/plugins/*` in 
+the suitcase.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/1e2a4e4a63c4cbb2488c10b29b95955f097a47ad" title="2022-06-06T09:56:58.000+02:00" target="_blank">1e2a4e4a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
           <pre>[doc] mail lancement</pre>
         </td>
@@ -121,41 +163,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/dotfiles/commits/dd728fea6d59ee95fcc5b7342d32436e58af6366" title="2022-05-31T15:20:44.000+02:00" target="_blank">dd728fea</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dotfiles" title="null">/dotfiles</a></strong></div>
           <pre>[feature] vim conf</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dotfiles/commits/8ddaa807722fe79673ceb86d7a83d724b3826d52" title="2022-05-31T15:08:17.000+02:00" target="_blank">8ddaa807</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dotfiles" title="null">/dotfiles</a></strong></div>
-          <pre>[feature] tmux conf</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dotfiles/commits/925326992944f99667b8872fb782dd70d7f9d198" title="2022-05-31T15:08:04.000+02:00" target="_blank">92532699</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dotfiles" title="null">/dotfiles</a></strong></div>
-          <pre>[feature] p10k conf</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dotfiles/commits/ee00c0994adfd7d21df17998baca755e08806b7c" title="2022-05-31T15:07:40.000+02:00" target="_blank">ee00c099</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dotfiles" title="null">/dotfiles</a></strong></div>
-          <pre>[feature] git conf</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dotfiles/commits/bed08601e54bc9206277719ef55d8455fbde5606" title="2022-05-31T15:07:22.000+02:00" target="_blank">bed08601</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dotfiles" title="null">/dotfiles</a></strong></div>
-          <pre>[feature] fzf conf</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dotfiles/commits/2f4f14a2c0d4e16cfa41f7f6e6e6349652c95260" title="2022-05-31T15:06:54.000+02:00" target="_blank">2f4f14a2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dotfiles" title="null">/dotfiles</a></strong></div>
-          <pre>[feature] Atom's conf</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dotfiles/commits/02ed5433b7e7e786a82fb9e13b255c3a2efb5585" title="2022-05-31T15:06:24.000+02:00" target="_blank">02ed5433</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dotfiles" title="null">/dotfiles</a></strong></div>
-          <pre>[feature] quick and dirty initialization script</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 06 Jun 2022 13:56:52 GMT</small>
+<small>⏰ Updated on Tue, 07 Jun 2022 13:54:31 GMT</small>
 </td>
 </tr>
 </tfoot>
