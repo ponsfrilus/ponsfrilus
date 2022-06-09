@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank">FEX</a>&nbsp;<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank"><img src="https://img.shields.io/github/stars/FEX-Emu/FEX?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank">lima</a>&nbsp;<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank"><img src="https://img.shields.io/github/stars/lima-vm/lima?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/git-noter/gitnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank">gitnoter</a>&nbsp;<a href="https://github.com/git-noter/gitnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank"><img src="https://img.shields.io/github/stars/git-noter/gitnoter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kilianm97/Supervids" title="TPI project" target="_blank">Supervids</a>&nbsp;<a href="https://github.com/kilianm97/Supervids" title="TPI project" target="_blank"><img src="https://img.shields.io/github/stars/kilianm97/Supervids?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/quay/clair" title="Vulnerability Static Analysis for Containers" target="_blank">clair</a>&nbsp;<a href="https://github.com/quay/clair" title="Vulnerability Static Analysis for Containers" target="_blank"><img src="https://img.shields.io/github/stars/quay/clair?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/microsoft/PowerToys" title="Windows system utilities to maximize productivity" target="_blank">PowerToys</a>&nbsp;<a href="https://github.com/microsoft/PowerToys" title="Windows system utilities to maximize productivity" target="_blank"><img src="https://img.shields.io/github/stars/microsoft/PowerToys?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/derailed/popeye" title="👀 A Kubernetes cluster resource sanitizer" target="_blank">popeye</a>&nbsp;<a href="https://github.com/derailed/popeye" title="👀 A Kubernetes cluster resource sanitizer" target="_blank"><img src="https://img.shields.io/github/stars/derailed/popeye?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/NginxProxyManager/nginx-proxy-manager" title="Docker container for managing Nginx proxy hosts with a simple, powerful interface" target="_blank">nginx-proxy-manager</a>&nbsp;<a href="https://github.com/NginxProxyManager/nginx-proxy-manager" title="Docker container for managing Nginx proxy hosts with a simple, powerful interface" target="_blank"><img src="https://img.shields.io/github/stars/NginxProxyManager/nginx-proxy-manager?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank">autocomplete</a>&nbsp;<a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank"><img src="https://img.shields.io/github/stars/withfig/autocomplete?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank">fsd.team</a>&nbsp;<a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/fsd.team?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank">onedrive</a>&nbsp;<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank"><img src="https://img.shields.io/github/stars/abraunegg/onedrive?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank">lima</a>&nbsp;<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank"><img src="https://img.shields.io/github/stars/lima-vm/lima?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/git-noter/gitnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank">gitnoter</a>&nbsp;<a href="https://github.com/git-noter/gitnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank"><img src="https://img.shields.io/github/stars/git-noter/gitnoter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kilianm97/Supervids" title="TPI project" target="_blank">Supervids</a>&nbsp;<a href="https://github.com/kilianm97/Supervids" title="TPI project" target="_blank"><img src="https://img.shields.io/github/stars/kilianm97/Supervids?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/quay/clair" title="Vulnerability Static Analysis for Containers" target="_blank">clair</a>&nbsp;<a href="https://github.com/quay/clair" title="Vulnerability Static Analysis for Containers" target="_blank"><img src="https://img.shields.io/github/stars/quay/clair?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/microsoft/PowerToys" title="Windows system utilities to maximize productivity" target="_blank">PowerToys</a>&nbsp;<a href="https://github.com/microsoft/PowerToys" title="Windows system utilities to maximize productivity" target="_blank"><img src="https://img.shields.io/github/stars/microsoft/PowerToys?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/derailed/popeye" title="👀 A Kubernetes cluster resource sanitizer" target="_blank">popeye</a>&nbsp;<a href="https://github.com/derailed/popeye" title="👀 A Kubernetes cluster resource sanitizer" target="_blank"><img src="https://img.shields.io/github/stars/derailed/popeye?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/NginxProxyManager/nginx-proxy-manager" title="Docker container for managing Nginx proxy hosts with a simple, powerful interface" target="_blank">nginx-proxy-manager</a>&nbsp;<a href="https://github.com/NginxProxyManager/nginx-proxy-manager" title="Docker container for managing Nginx proxy hosts with a simple, powerful interface" target="_blank"><img src="https://img.shields.io/github/stars/NginxProxyManager/nginx-proxy-manager?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank">autocomplete</a>&nbsp;<a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank"><img src="https://img.shields.io/github/stars/withfig/autocomplete?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank">fsd.team</a>&nbsp;<a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/fsd.team?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank">yew</a>&nbsp;<a href="https://github.com/yewstack/yew" title="Rust / Wasm framework for building client web apps" target="_blank"><img src="https://img.shields.io/github/stars/yewstack/yew?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/cae0ef52d9674cbedce14f26835d6e30e2c7d615" title="2022-06-08T19:31:58.000+02:00" target="_blank">cae0ef52</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[rm] prometheus targets alert</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/826b18491534abed9004c4531c3e9b3ce56f2f32" title="2022-06-07T12:04:46.000+02:00" target="_blank">826b1849</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[typo] We don't need no education
@@ -150,24 +155,19 @@ the suitcase.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/f042cb6b6e725835fbf5d226720074366eac85f2" title="2022-05-31T19:21:37.000+02:00" target="_blank">f042cb6b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Alerts Prometheus target's unreachable</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/dotfiles/commits/f72aac2097c03a3070b32f4f4f0bb27263c79c9d" title="2022-05-31T15:27:14.000+02:00" target="_blank">f72aac20</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dotfiles" title="null">/dotfiles</a></strong></div>
           <pre>[feature] bash conf</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dotfiles/commits/6f73434d1f95f6790c1e4f3d8698983e0b05589b" title="2022-05-31T15:21:08.000+02:00" target="_blank">6f73434d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dotfiles" title="null">/dotfiles</a></strong></div>
-          <pre>[feature] zsh conf</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dotfiles/commits/dd728fea6d59ee95fcc5b7342d32436e58af6366" title="2022-05-31T15:20:44.000+02:00" target="_blank">dd728fea</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dotfiles" title="null">/dotfiles</a></strong></div>
-          <pre>[feature] vim conf</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 08 Jun 2022 13:57:08 GMT</small>
+<small>⏰ Updated on Thu, 09 Jun 2022 13:53:54 GMT</small>
 </td>
 </tr>
 </tfoot>
