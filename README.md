@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank">kratos</a>&nbsp;<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank"><img src="https://img.shields.io/github/stars/ory/kratos?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank">onedrive</a>&nbsp;<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank"><img src="https://img.shields.io/github/stars/abraunegg/onedrive?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank">birthminder</a>&nbsp;<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/birthminder?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank">1x.engineer</a>&nbsp;<a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank"><img src="https://img.shields.io/github/stars/cutenode/1x.engineer?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/noah-barberini/TPI_Daily_Word_Game" title="null" target="_blank">TPI_Daily_Word_Game</a>&nbsp;<a href="https://github.com/noah-barberini/TPI_Daily_Word_Game" title="null" target="_blank"><img src="https://img.shields.io/github/stars/noah-barberini/TPI_Daily_Word_Game?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/OpenObservability/OpenMetrics" title="Evolving the Prometheus exposition format into a standard." target="_blank">OpenMetrics</a>&nbsp;<a href="https://github.com/OpenObservability/OpenMetrics" title="Evolving the Prometheus exposition format into a standard." target="_blank"><img src="https://img.shields.io/github/stars/OpenObservability/OpenMetrics?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets" target="_blank">trivy</a>&nbsp;<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets" target="_blank"><img src="https://img.shields.io/github/stars/aquasecurity/trivy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank">umami</a>&nbsp;<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank"><img src="https://img.shields.io/github/stars/mikecao/umami?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank">Bash-Oneliner</a>&nbsp;<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank"><img src="https://img.shields.io/github/stars/onceupon/Bash-Oneliner?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank">ansible-collection-rhel</a>&nbsp;<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-collection-rhel?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank">FEX</a>&nbsp;<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank"><img src="https://img.shields.io/github/stars/FEX-Emu/FEX?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank">fsd.team</a>&nbsp;<a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/fsd.team?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank">onedrive</a>&nbsp;<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank"><img src="https://img.shields.io/github/stars/abraunegg/onedrive?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank">birthminder</a>&nbsp;<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/birthminder?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank">1x.engineer</a>&nbsp;<a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank"><img src="https://img.shields.io/github/stars/cutenode/1x.engineer?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/noah-barberini/TPI_Daily_Word_Game" title="null" target="_blank">TPI_Daily_Word_Game</a>&nbsp;<a href="https://github.com/noah-barberini/TPI_Daily_Word_Game" title="null" target="_blank"><img src="https://img.shields.io/github/stars/noah-barberini/TPI_Daily_Word_Game?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/OpenObservability/OpenMetrics" title="Evolving the Prometheus exposition format into a standard." target="_blank">OpenMetrics</a>&nbsp;<a href="https://github.com/OpenObservability/OpenMetrics" title="Evolving the Prometheus exposition format into a standard." target="_blank"><img src="https://img.shields.io/github/stars/OpenObservability/OpenMetrics?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets" target="_blank">trivy</a>&nbsp;<a href="https://github.com/aquasecurity/trivy" title="Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets" target="_blank"><img src="https://img.shields.io/github/stars/aquasecurity/trivy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank">umami</a>&nbsp;<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank"><img src="https://img.shields.io/github/stars/mikecao/umami?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank">Bash-Oneliner</a>&nbsp;<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank"><img src="https://img.shields.io/github/stars/onceupon/Bash-Oneliner?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank">ansible-collection-rhel</a>&nbsp;<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-collection-rhel?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank">Piped</a>&nbsp;<a href="https://github.com/TeamPiped/Piped" title="An alternative privacy-friendly YouTube frontend which is efficient by design." target="_blank"><img src="https://img.shields.io/github/stars/TeamPiped/Piped?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -167,7 +167,7 @@ the suitcase.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 09 Jun 2022 13:53:54 GMT</small>
+<small>⏰ Updated on Fri, 10 Jun 2022 13:53:57 GMT</small>
 </td>
 </tr>
 </tfoot>
