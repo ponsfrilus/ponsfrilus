@@ -32,7 +32,13 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank">kratos</a>&nbsp;<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank"><img src="https://img.shields.io/github/stars/ory/kratos?style=social" alt="GitHub"></a>
+<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank">threema-web</a>&nbsp;<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-web?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/offspot/kiwix-hotspot" title="Kiwix Hotspot Image Creator (Desktop) for Windows/macOS/Linux" target="_blank">kiwix-hotspot</a>&nbsp;<a href="https://github.com/offspot/kiwix-hotspot" title="Kiwix Hotspot Image Creator (Desktop) for Windows/macOS/Linux" target="_blank"><img src="https://img.shields.io/github/stars/offspot/kiwix-hotspot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank">kratos</a>&nbsp;<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank"><img src="https://img.shields.io/github/stars/ory/kratos?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank">onedrive</a>&nbsp;<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank"><img src="https://img.shields.io/github/stars/abraunegg/onedrive?style=social" alt="GitHub"></a>
@@ -55,16 +61,16 @@
 <li>
 <a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank">umami</a>&nbsp;<a href="https://github.com/mikecao/umami" title="Umami is a simple, fast, privacy-focused alternative to Google Analytics." target="_blank"><img src="https://img.shields.io/github/stars/mikecao/umami?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank">Bash-Oneliner</a>&nbsp;<a href="https://github.com/onceupon/Bash-Oneliner" title="A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance." target="_blank"><img src="https://img.shields.io/github/stars/onceupon/Bash-Oneliner?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank">ansible-collection-rhel</a>&nbsp;<a href="https://github.com/epfl-si/ansible-collection-rhel" title="Collection of Ansible roles to setup and manage components of RHEL like ntp, sshd, users, ... " target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-collection-rhel?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank">threema-android</a>&nbsp;<a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank">atom</a>&nbsp;<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank"><img src="https://img.shields.io/github/stars/atom-community/atom?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank">FEX</a>&nbsp;<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank"><img src="https://img.shields.io/github/stars/FEX-Emu/FEX?style=social" alt="GitHub"></a>
 </li>
@@ -72,7 +78,7 @@
 <a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank">lima</a>&nbsp;<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank"><img src="https://img.shields.io/github/stars/lima-vm/lima?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/git-noter/gitnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank">gitnoter</a>&nbsp;<a href="https://github.com/git-noter/gitnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank"><img src="https://img.shields.io/github/stars/git-noter/gitnoter?style=social" alt="GitHub"></a>
+<a href="https://github.com/batnoter/batnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank">batnoter</a>&nbsp;<a href="https://github.com/batnoter/batnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank"><img src="https://img.shields.io/github/stars/batnoter/batnoter?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/kilianm97/Supervids" title="TPI project" target="_blank">Supervids</a>&nbsp;<a href="https://github.com/kilianm97/Supervids" title="TPI project" target="_blank"><img src="https://img.shields.io/github/stars/kilianm97/Supervids?style=social" alt="GitHub"></a>
@@ -89,12 +95,6 @@
 <li>
 <a href="https://github.com/NginxProxyManager/nginx-proxy-manager" title="Docker container for managing Nginx proxy hosts with a simple, powerful interface" target="_blank">nginx-proxy-manager</a>&nbsp;<a href="https://github.com/NginxProxyManager/nginx-proxy-manager" title="Docker container for managing Nginx proxy hosts with a simple, powerful interface" target="_blank"><img src="https://img.shields.io/github/stars/NginxProxyManager/nginx-proxy-manager?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank">autocomplete</a>&nbsp;<a href="https://github.com/withfig/autocomplete" title="Fig adds autocomplete to your terminal." target="_blank"><img src="https://img.shields.io/github/stars/withfig/autocomplete?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank">fsd.team</a>&nbsp;<a href="https://github.com/epfl-fsd/fsd.team" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/fsd.team?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -103,71 +103,59 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/cae0ef52d9674cbedce14f26835d6e30e2c7d615" title="2022-06-08T19:31:58.000+02:00" target="_blank">cae0ef52</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[rm] prometheus targets alert</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/elevatorSaga/commits/e030dfad0947e6bbea37537c0f82a53f1ccd2f80" title="2022-06-13T11:25:26.000+02:00" target="_blank">e030dfad</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/elevatorSaga" title="null">/elevatorSaga</a></strong></div>
+          <pre>Intro & links in README.md</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/826b18491534abed9004c4531c3e9b3ce56f2f32" title="2022-06-07T12:04:46.000+02:00" target="_blank">826b1849</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[typo] We don't need no education
-
-s/shools/schools</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/elevatorSaga/commits/cd3454ad6807187fddf5c12ec09830f879e75996" title="2022-06-13T11:03:20.000+02:00" target="_blank">cd3454ad</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/elevatorSaga" title="null">/elevatorSaga</a></strong></div>
+          <pre>Add level01</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/1d5c5c8cfc47e89209de851c35e8a491033f00e5" title="2022-06-06T15:54:01.000+02:00" target="_blank">1d5c5c8c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] use `-n`and `-f`
-
-When redeploying on existing files (aka brown field), you may encounter 
-some 
-error when attempting to recreate these links. The `-f` option will 
-force the
-link and the `-n` option will treat the link as a normal file if it is a 
-symbolic link to a directory.</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/elevatorSaga/commits/416fdbcbab6574966e57f3a2e184535a72b27618" title="2022-06-13T11:01:51.000+02:00" target="_blank">416fdbcb</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/elevatorSaga" title="null">/elevatorSaga</a></strong></div>
+          <pre>Initial commit</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/6552e26154d385546d02b9c200f6ab030bca37ab" title="2022-06-06T15:50:23.000+02:00" target="_blank">6552e261</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[ocd] no comments</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/ca59fcaa468733cbe8bb656203a80b66ffafba47" title="2022-06-10T19:52:21.000+02:00" target="_blank">ca59fcaa</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[VER] v1.6.0</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/5df8336ac508f05df8897567cd991dfab642020b" title="2022-06-06T15:48:16.000+02:00" target="_blank">5df8336a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] advise on nvm commands</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/190a250cf01246af9d6a3c61cd512952b022c9e4" title="2022-06-10T19:50:42.000+02:00" target="_blank">190a250c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[T9N] Translations updated</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/8a8ead563bc2a2e755f06910b7d48ac9630b7576" title="2022-06-06T15:47:31.000+02:00" target="_blank">8a8ead56</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[feature] `make lnav` in addition to `make logs`</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/2fd589f41a09d869d5fd038b2ddb11bf3242ff74" title="2022-06-10T19:47:08.000+02:00" target="_blank">2fd589f4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[FIX] automated change mistake</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/0279e14d42e16b4b5106ab3c4446bac14e84b815" title="2022-06-06T15:46:57.000+02:00" target="_blank">0279e14d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] do not update things in ansible-deps-cache
-
-This avoids to update things as `rbenv/plugins` or `pyenv/plugins/*` in 
-the suitcase.</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/0e26de700daf178de00c7bbf8d26251ebe4d8587" title="2022-06-10T19:45:22.000+02:00" target="_blank">0e26de70</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[FIX] s/IDEV/ISAS</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/1e2a4e4a63c4cbb2488c10b29b95955f097a47ad" title="2022-06-06T09:56:58.000+02:00" target="_blank">1e2a4e4a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
-          <pre>[doc] mail lancement</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/8578cf677aa270c7bc90ce00cc69ebaf5f2b3c18" title="2022-06-10T19:31:58.000+02:00" target="_blank">8578cf67</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[CSS] Hide commercial stuffs</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/f042cb6b6e725835fbf5d226720074366eac85f2" title="2022-05-31T19:21:37.000+02:00" target="_blank">f042cb6b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[fix] Alerts Prometheus target's unreachable</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/75248df602f679cd987827ecfca8be72e61bb4f8" title="2022-06-10T19:31:34.000+02:00" target="_blank">75248df6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[FIX] composer auto-update</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dotfiles/commits/f72aac2097c03a3070b32f4f4f0bb27263c79c9d" title="2022-05-31T15:27:14.000+02:00" target="_blank">f72aac20</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dotfiles" title="null">/dotfiles</a></strong></div>
-          <pre>[feature] bash conf</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/01511faeb2799f28742e0dbb86e6c9b1e8ff71df" title="2022-06-10T19:30:40.000+02:00" target="_blank">01511fae</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[LNT] phpcs</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 10 Jun 2022 13:53:57 GMT</small>
+<small>⏰ Updated on Mon, 13 Jun 2022 13:55:48 GMT</small>
 </td>
 </tr>
 </tfoot>
