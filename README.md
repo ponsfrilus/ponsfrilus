@@ -103,6 +103,32 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/f4d14309cae5f315ed060957b4686aea747551f8" title="2022-06-14T15:18:05.000+02:00" target="_blank">f4d14309</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
+          <pre>Merge branch 'jonathanMelly-suggestion/mcdp-1'
+
+Thanks @jonathanMelly!</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/914b1f8a392772af498097ead7cd2c9cc7450ea2" title="2022-06-14T15:17:42.000+02:00" target="_blank">914b1f8a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
+          <pre>[doc] punctuation + reflow</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-morse/commits/38bf3cf84f95f8fb2fb3d60ff3d0228de9197aaf" title="2022-06-14T15:08:19.000+02:00" target="_blank">38bf3cf8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse">/kata-morse</a></strong></div>
+          <pre>Merge pull request #2 from JaavLex/patch-1
+
+Update README.md - Add JaavLex</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-birthday/commits/20cd3e55e24c858f66a4ffafb45ea0e058d3ecca" title="2022-06-14T15:07:02.000+02:00" target="_blank">20cd3e55</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-birthday" title="Kata : créer un système de rappel des anniversaires">/kata-birthday</a></strong></div>
+          <pre>Merge pull request #1 from Azecko/patch-1
+
+[add] Azecko's NodeJS version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/elevatorSaga/commits/e030dfad0947e6bbea37537c0f82a53f1ccd2f80" title="2022-06-13T11:25:26.000+02:00" target="_blank">e030dfad</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/elevatorSaga" title="null">/elevatorSaga</a></strong></div>
           <pre>Intro & links in README.md</pre>
         </td>
@@ -131,31 +157,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/2fd589f41a09d869d5fd038b2ddb11bf3242ff74" title="2022-06-10T19:47:08.000+02:00" target="_blank">2fd589f4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[FIX] automated change mistake</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/0e26de700daf178de00c7bbf8d26251ebe4d8587" title="2022-06-10T19:45:22.000+02:00" target="_blank">0e26de70</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[FIX] s/IDEV/ISAS</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/8578cf677aa270c7bc90ce00cc69ebaf5f2b3c18" title="2022-06-10T19:31:58.000+02:00" target="_blank">8578cf67</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[CSS] Hide commercial stuffs</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/75248df602f679cd987827ecfca8be72e61bb4f8" title="2022-06-10T19:31:34.000+02:00" target="_blank">75248df6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[FIX] composer auto-update</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/01511faeb2799f28742e0dbb86e6c9b1e8ff71df" title="2022-06-10T19:30:40.000+02:00" target="_blank">01511fae</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[LNT] phpcs</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 13 Jun 2022 13:55:48 GMT</small>
+<small>⏰ Updated on Tue, 14 Jun 2022 13:52:39 GMT</small>
 </td>
 </tr>
 </tfoot>
