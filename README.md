@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/b34119b0912896a7368ded9825ca4ae8e68e1d36" title="2022-06-16T11:39:44.000+02:00" target="_blank">b34119b0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[hotfix] Force wpforms-plugin-payonline v1.5.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/f4d14309cae5f315ed060957b4686aea747551f8" title="2022-06-14T15:18:05.000+02:00" target="_blank">f4d14309</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
           <pre>Merge branch 'jonathanMelly-suggestion/mcdp-1'
 
@@ -152,16 +157,11 @@ Update README.md - Add JaavLex</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/190a250cf01246af9d6a3c61cd512952b022c9e4" title="2022-06-10T19:50:42.000+02:00" target="_blank">190a250c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[T9N] Translations updated</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/2fd589f41a09d869d5fd038b2ddb11bf3242ff74" title="2022-06-10T19:47:08.000+02:00" target="_blank">2fd589f4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[FIX] automated change mistake</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 15 Jun 2022 13:56:18 GMT</small>
+<small>⏰ Updated on Thu, 16 Jun 2022 13:55:10 GMT</small>
 </td>
 </tr>
 </tfoot>
