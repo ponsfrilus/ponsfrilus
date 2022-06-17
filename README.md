@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/wailsapp/wails" title="Create beautiful applications using Go" target="_blank">wails</a>&nbsp;<a href="https://github.com/wailsapp/wails" title="Create beautiful applications using Go" target="_blank"><img src="https://img.shields.io/github/stars/wailsapp/wails?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank">threema-android</a>&nbsp;<a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank">atom</a>&nbsp;<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank"><img src="https://img.shields.io/github/stars/atom-community/atom?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank">FEX</a>&nbsp;<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank"><img src="https://img.shields.io/github/stars/FEX-Emu/FEX?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank">lima</a>&nbsp;<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank"><img src="https://img.shields.io/github/stars/lima-vm/lima?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/batnoter/batnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank">batnoter</a>&nbsp;<a href="https://github.com/batnoter/batnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank"><img src="https://img.shields.io/github/stars/batnoter/batnoter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kilianm97/Supervids" title="TPI project" target="_blank">Supervids</a>&nbsp;<a href="https://github.com/kilianm97/Supervids" title="TPI project" target="_blank"><img src="https://img.shields.io/github/stars/kilianm97/Supervids?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/quay/clair" title="Vulnerability Static Analysis for Containers" target="_blank">clair</a>&nbsp;<a href="https://github.com/quay/clair" title="Vulnerability Static Analysis for Containers" target="_blank"><img src="https://img.shields.io/github/stars/quay/clair?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/microsoft/PowerToys" title="Windows system utilities to maximize productivity" target="_blank">PowerToys</a>&nbsp;<a href="https://github.com/microsoft/PowerToys" title="Windows system utilities to maximize productivity" target="_blank"><img src="https://img.shields.io/github/stars/microsoft/PowerToys?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/derailed/popeye" title="👀 A Kubernetes cluster resource sanitizer" target="_blank">popeye</a>&nbsp;<a href="https://github.com/derailed/popeye" title="👀 A Kubernetes cluster resource sanitizer" target="_blank"><img src="https://img.shields.io/github/stars/derailed/popeye?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank">threema-web</a>&nbsp;<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-web?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,41 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank">threema-android</a>&nbsp;<a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank">atom</a>&nbsp;<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank"><img src="https://img.shields.io/github/stars/atom-community/atom?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank">FEX</a>&nbsp;<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank"><img src="https://img.shields.io/github/stars/FEX-Emu/FEX?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank">lima</a>&nbsp;<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank"><img src="https://img.shields.io/github/stars/lima-vm/lima?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/batnoter/batnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank">batnoter</a>&nbsp;<a href="https://github.com/batnoter/batnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank"><img src="https://img.shields.io/github/stars/batnoter/batnoter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kilianm97/Supervids" title="TPI project" target="_blank">Supervids</a>&nbsp;<a href="https://github.com/kilianm97/Supervids" title="TPI project" target="_blank"><img src="https://img.shields.io/github/stars/kilianm97/Supervids?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/quay/clair" title="Vulnerability Static Analysis for Containers" target="_blank">clair</a>&nbsp;<a href="https://github.com/quay/clair" title="Vulnerability Static Analysis for Containers" target="_blank"><img src="https://img.shields.io/github/stars/quay/clair?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/microsoft/PowerToys" title="Windows system utilities to maximize productivity" target="_blank">PowerToys</a>&nbsp;<a href="https://github.com/microsoft/PowerToys" title="Windows system utilities to maximize productivity" target="_blank"><img src="https://img.shields.io/github/stars/microsoft/PowerToys?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/derailed/popeye" title="👀 A Kubernetes cluster resource sanitizer" target="_blank">popeye</a>&nbsp;<a href="https://github.com/derailed/popeye" title="👀 A Kubernetes cluster resource sanitizer" target="_blank"><img src="https://img.shields.io/github/stars/derailed/popeye?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/NginxProxyManager/nginx-proxy-manager" title="Docker container for managing Nginx proxy hosts with a simple, powerful interface" target="_blank">nginx-proxy-manager</a>&nbsp;<a href="https://github.com/NginxProxyManager/nginx-proxy-manager" title="Docker container for managing Nginx proxy hosts with a simple, powerful interface" target="_blank"><img src="https://img.shields.io/github/stars/NginxProxyManager/nginx-proxy-manager?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/2db559766b0863a77af86aaa346d105dab2b1b46" title="2022-06-16T19:05:57.000+02:00" target="_blank">2db55976</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
+          <pre>[fix] apostrophe</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/7a14c3030b8bcb8fe735a078471d3face02b7f93" title="2022-06-16T19:00:26.000+02:00" target="_blank">7a14c303</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
+          <pre>[fix] hide pandoc command</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/f79233225db18eb944220a200c256f3064380029" title="2022-06-16T18:55:21.000+02:00" target="_blank">f7923322</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
+          <pre>[doc] PDF updated</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/54d58e53dadeb557f88ea37a34df216cb28b862e" title="2022-06-16T18:54:41.000+02:00" target="_blank">54d58e53</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
+          <pre>[doc] validation block</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/5013dff19fab8bcdc5dc4c73c33fbeed2aead2f8" title="2022-06-16T18:54:09.000+02:00" target="_blank">5013dff1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
+          <pre>[doc] notice on duration</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/85319099b008ba34b0dbfcafb055461963b0883a" title="2022-06-16T18:53:32.000+02:00" target="_blank">85319099</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
+          <pre>[doc] inclusive writing, typo, ortho</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/b34119b0912896a7368ded9825ca4ae8e68e1d36" title="2022-06-16T11:39:44.000+02:00" target="_blank">b34119b0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[hotfix] Force wpforms-plugin-payonline v1.5.0</pre>
@@ -125,43 +155,11 @@ Thanks @jonathanMelly!</pre>
 
 Update README.md - Add JaavLex</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-birthday/commits/20cd3e55e24c858f66a4ffafb45ea0e058d3ecca" title="2022-06-14T15:07:02.000+02:00" target="_blank">20cd3e55</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-birthday" title="Kata : créer un système de rappel des anniversaires">/kata-birthday</a></strong></div>
-          <pre>Merge pull request #1 from Azecko/patch-1
-
-[add] Azecko's NodeJS version</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/elevatorSaga/commits/e030dfad0947e6bbea37537c0f82a53f1ccd2f80" title="2022-06-13T11:25:26.000+02:00" target="_blank">e030dfad</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/elevatorSaga" title="null">/elevatorSaga</a></strong></div>
-          <pre>Intro & links in README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/elevatorSaga/commits/cd3454ad6807187fddf5c12ec09830f879e75996" title="2022-06-13T11:03:20.000+02:00" target="_blank">cd3454ad</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/elevatorSaga" title="null">/elevatorSaga</a></strong></div>
-          <pre>Add level01</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/elevatorSaga/commits/416fdbcbab6574966e57f3a2e184535a72b27618" title="2022-06-13T11:01:51.000+02:00" target="_blank">416fdbcb</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/elevatorSaga" title="null">/elevatorSaga</a></strong></div>
-          <pre>Initial commit</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/ca59fcaa468733cbe8bb656203a80b66ffafba47" title="2022-06-10T19:52:21.000+02:00" target="_blank">ca59fcaa</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[VER] v1.6.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/190a250cf01246af9d6a3c61cd512952b022c9e4" title="2022-06-10T19:50:42.000+02:00" target="_blank">190a250c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[T9N] Translations updated</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 16 Jun 2022 13:55:10 GMT</small>
+<small>⏰ Updated on Fri, 17 Jun 2022 13:52:30 GMT</small>
 </td>
 </tr>
 </tfoot>
