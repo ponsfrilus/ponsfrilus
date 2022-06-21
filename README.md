@@ -103,6 +103,26 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Canevas-TPI-LaTeX/commits/3b9129950c63eccac92243ed326c92f3331d6634" title="2022-06-20T19:23:53.000+02:00" target="_blank">3b912995</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Canevas-TPI-LaTeX" title="null">/Canevas-TPI-LaTeX</a></strong></div>
+          <pre>Add header</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Canevas-TPI-LaTeX/commits/01f66101a6eb40cd332cfa393d3927e86512e14e" title="2022-06-20T19:07:55.000+02:00" target="_blank">01f66101</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Canevas-TPI-LaTeX" title="null">/Canevas-TPI-LaTeX</a></strong></div>
+          <pre>Fix report class binding</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Canevas-TPI-LaTeX/commits/f542958508b725894f1888e311e15b849e4ee049" title="2022-06-20T19:07:32.000+02:00" target="_blank">f5429585</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Canevas-TPI-LaTeX" title="null">/Canevas-TPI-LaTeX</a></strong></div>
+          <pre>More code hilighting exemples</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Canevas-TPI-LaTeX/commits/187b4673aab25411fd0034480e691b8a9d51f045" title="2022-06-20T18:07:54.000+02:00" target="_blank">187b4673</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Canevas-TPI-LaTeX" title="null">/Canevas-TPI-LaTeX</a></strong></div>
+          <pre>Add a nice quote</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/Canevas-TPI-LaTeX/commits/d13cfda8bcc8fe9386770d77cc828687d9016c9f" title="2022-06-20T14:56:50.000+02:00" target="_blank">d13cfda8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Canevas-TPI-LaTeX" title="null">/Canevas-TPI-LaTeX</a></strong></div>
           <pre>Initial commit</pre>
         </td>
@@ -131,33 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/5013dff19fab8bcdc5dc4c73c33fbeed2aead2f8" title="2022-06-16T18:54:09.000+02:00" target="_blank">5013dff1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
           <pre>[doc] notice on duration</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/85319099b008ba34b0dbfcafb055461963b0883a" title="2022-06-16T18:53:32.000+02:00" target="_blank">85319099</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
-          <pre>[doc] inclusive writing, typo, ortho</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/b34119b0912896a7368ded9825ca4ae8e68e1d36" title="2022-06-16T11:39:44.000+02:00" target="_blank">b34119b0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[hotfix] Force wpforms-plugin-payonline v1.5.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/f4d14309cae5f315ed060957b4686aea747551f8" title="2022-06-14T15:18:05.000+02:00" target="_blank">f4d14309</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
-          <pre>Merge branch 'jonathanMelly-suggestion/mcdp-1'
-
-Thanks @jonathanMelly!</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/914b1f8a392772af498097ead7cd2c9cc7450ea2" title="2022-06-14T15:17:42.000+02:00" target="_blank">914b1f8a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
-          <pre>[doc] punctuation + reflow</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 20 Jun 2022 13:57:13 GMT</small>
+<small>⏰ Updated on Tue, 21 Jun 2022 14:02:09 GMT</small>
 </td>
 </tr>
 </tfoot>
