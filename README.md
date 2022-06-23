@@ -103,6 +103,22 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/082e26f52558a9533c766a7b2837b026c69eb691" title="2022-06-23T09:22:50.000+02:00" target="_blank">082e26f5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
+          <pre>[doc] warning documentation</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/600d9bc02017f9b65acb16244f0351d5d5cd7b2b" title="2022-06-23T09:08:22.000+02:00" target="_blank">600d9bc0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
+          <pre>[doc] améliorations générales
+
+- déplacement de la partie conseil sur le déourlé en dehors de la 
+description de projet
+- ajout d'un § concernant la brique SGBD
+- ajout des pointeurs vers les figures présentent dans le PDF
+- écriture inclusive (intéressé·e·s)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/Canevas-TPI-LaTeX/commits/3b9129950c63eccac92243ed326c92f3331d6634" title="2022-06-20T19:23:53.000+02:00" target="_blank">3b912995</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Canevas-TPI-LaTeX" title="null">/Canevas-TPI-LaTeX</a></strong></div>
           <pre>Add header</pre>
         </td>
@@ -141,21 +157,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/f79233225db18eb944220a200c256f3064380029" title="2022-06-16T18:55:21.000+02:00" target="_blank">f7923322</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
           <pre>[doc] PDF updated</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/54d58e53dadeb557f88ea37a34df216cb28b862e" title="2022-06-16T18:54:41.000+02:00" target="_blank">54d58e53</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
-          <pre>[doc] validation block</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/5013dff19fab8bcdc5dc4c73c33fbeed2aead2f8" title="2022-06-16T18:54:09.000+02:00" target="_blank">5013dff1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
-          <pre>[doc] notice on duration</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 22 Jun 2022 13:58:02 GMT</small>
+<small>⏰ Updated on Thu, 23 Jun 2022 13:57:02 GMT</small>
 </td>
 </tr>
 </tfoot>
