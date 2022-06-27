@@ -103,6 +103,25 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/0820caaff3330bc9c352c80cff53ee89167426b6" title="2022-06-27T14:45:49.000+02:00" target="_blank">0820caaf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
+          <pre>[version] bump to 1.0.6 (upload data)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/636965e0c14202bafe2896f7dd6521ba8d614733" title="2022-06-27T11:51:47.000+02:00" target="_blank">636965e0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
+          <pre>[version] bump to 1.0.5
+
+- Fix missing input type number
+- Inclusive text in README.md
+- More robust empty values</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/25d2113435195dc5479fdceaefbb178b23f9747f" title="2022-06-24T11:50:07.000+02:00" target="_blank">25d21134</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
+          <pre>[adjusted] manifest.json</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/135535f09f292c4794a959842fad602e19179c4b" title="2022-06-24T11:06:43.000+02:00" target="_blank">135535f0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
           <pre>[doc] "livrables" reorganized</pre>
         </td>
@@ -136,26 +155,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/21d498a7ebaafb364a81ee00a3e8462fa749a72d" title="2022-06-23T23:26:12.000+02:00" target="_blank">21d498a7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
           <pre>[fix] clean up WebVitals</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/6d1296b29cf20a5275ca4b7ee4070122b88e7cac" title="2022-06-23T18:38:15.000+02:00" target="_blank">6d1296b2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
-          <pre>[fix] images URL</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/356209b2151794788b4bf8cbd2ca86c187549106" title="2022-06-23T18:26:09.000+02:00" target="_blank">356209b2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[chk] todo</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/8f36570c199aa2db82a36a301afdf9b1efa2a6ec" title="2022-06-23T18:25:30.000+02:00" target="_blank">8f36570c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[fix] missing spaces</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 24 Jun 2022 13:56:34 GMT</small>
+<small>⏰ Updated on Mon, 27 Jun 2022 14:00:36 GMT</small>
 </td>
 </tr>
 </tfoot>
