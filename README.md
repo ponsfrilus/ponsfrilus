@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank">sails</a>&nbsp;<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/balderdashy/sails?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank">dot</a>&nbsp;<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank"><img src="https://img.shields.io/github/stars/sensity-ai/dot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank">xi-editor</a>&nbsp;<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/xi-editor/xi-editor?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank">vale</a>&nbsp;<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank"><img src="https://img.shields.io/github/stars/errata-ai/vale?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank">threema-web</a>&nbsp;<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-web?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/offspot/kiwix-hotspot" title="Kiwix Hotspot Image Creator (Desktop) for Windows/macOS/Linux" target="_blank">kiwix-hotspot</a>&nbsp;<a href="https://github.com/offspot/kiwix-hotspot" title="Kiwix Hotspot Image Creator (Desktop) for Windows/macOS/Linux" target="_blank"><img src="https://img.shields.io/github/stars/offspot/kiwix-hotspot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank">kratos</a>&nbsp;<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank"><img src="https://img.shields.io/github/stars/ory/kratos?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank">onedrive</a>&nbsp;<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank"><img src="https://img.shields.io/github/stars/abraunegg/onedrive?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank">birthminder</a>&nbsp;<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/birthminder?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank">1x.engineer</a>&nbsp;<a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank"><img src="https://img.shields.io/github/stars/cutenode/1x.engineer?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank">mini-TPI</a>&nbsp;<a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/mini-TPI?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,29 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank">dot</a>&nbsp;<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank"><img src="https://img.shields.io/github/stars/sensity-ai/dot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank">xi-editor</a>&nbsp;<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/xi-editor/xi-editor?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank">vale</a>&nbsp;<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank"><img src="https://img.shields.io/github/stars/errata-ai/vale?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank">threema-web</a>&nbsp;<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-web?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/offspot/kiwix-hotspot" title="Kiwix Hotspot Image Creator (Desktop) for Windows/macOS/Linux" target="_blank">kiwix-hotspot</a>&nbsp;<a href="https://github.com/offspot/kiwix-hotspot" title="Kiwix Hotspot Image Creator (Desktop) for Windows/macOS/Linux" target="_blank"><img src="https://img.shields.io/github/stars/offspot/kiwix-hotspot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank">kratos</a>&nbsp;<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank"><img src="https://img.shields.io/github/stars/ory/kratos?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank">onedrive</a>&nbsp;<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank"><img src="https://img.shields.io/github/stars/abraunegg/onedrive?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank">birthminder</a>&nbsp;<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/birthminder?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank">1x.engineer</a>&nbsp;<a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank"><img src="https://img.shields.io/github/stars/cutenode/1x.engineer?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/noah-barberini/TPI_Daily_Word_Game" title="null" target="_blank">TPI_Daily_Word_Game</a>&nbsp;<a href="https://github.com/noah-barberini/TPI_Daily_Word_Game" title="null" target="_blank"><img src="https://img.shields.io/github/stars/noah-barberini/TPI_Daily_Word_Game?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/e6d537e513a1c408879928a3ae3d1b3d2f98ff8b" title="2022-06-27T19:25:53.000+02:00" target="_blank">e6d537e5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
+          <pre>[data] some other copy-paste typos</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/b10a7d45104155b0865d057aea3ab65521a46098" title="2022-06-27T18:21:53.000+02:00" target="_blank">b10a7d45</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
+          <pre>[version] bump to 1.1.1 (candidate name in file export)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/8e17a6f3fad70c0d47bd0af62558b24b0f41615b" title="2022-06-27T18:06:16.000+02:00" target="_blank">8e17a6f3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
+          <pre>[version] bump to 1.1.0
+
+- File download / upload refactored
+- Clear the "browse" input when succeed</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/0820caaff3330bc9c352c80cff53ee89167426b6" title="2022-06-27T14:45:49.000+02:00" target="_blank">0820caaf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
           <pre>[version] bump to 1.0.6 (upload data)</pre>
@@ -140,26 +158,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/cc64d7f51c54bd3303f2bb788482045d0b782d83" title="2022-06-24T00:16:45.000+02:00" target="_blank">cc64d7f5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
           <pre>[feature] export data in JSON</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/a3d658144ee9eda7848582b7c243de2fbe5a4261" title="2022-06-23T23:26:54.000+02:00" target="_blank">a3d65814</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[feature] add a prefix to localStorage values</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/0c017adaa7de97067e51fd89ab4e6b0698b86345" title="2022-06-23T23:26:37.000+02:00" target="_blank">0c017ada</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[fix] ensure mrks are below 4</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/21d498a7ebaafb364a81ee00a3e8462fa749a72d" title="2022-06-23T23:26:12.000+02:00" target="_blank">21d498a7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[fix] clean up WebVitals</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 27 Jun 2022 14:00:36 GMT</small>
+<small>⏰ Updated on Tue, 28 Jun 2022 14:00:08 GMT</small>
 </td>
 </tr>
 </tfoot>
