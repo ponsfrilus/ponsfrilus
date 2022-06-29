@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/hackclub/some-assembly-required" title="An approachable introduction to assembly." target="_blank">some-assembly-required</a>&nbsp;<a href="https://github.com/hackclub/some-assembly-required" title="An approachable introduction to assembly." target="_blank"><img src="https://img.shields.io/github/stars/hackclub/some-assembly-required?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank">mini-TPI</a>&nbsp;<a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/mini-TPI?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank">ENACrestic</a>&nbsp;<a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank"><img src="https://img.shields.io/github/stars/EPFL-ENAC/ENACrestic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mdn/content" title="The content behind MDN Web Docs" target="_blank">content</a>&nbsp;<a href="https://github.com/mdn/content" title="The content behind MDN Web Docs" target="_blank"><img src="https://img.shields.io/github/stars/mdn/content?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/wailsapp/wails" title="Create beautiful applications using Go" target="_blank">wails</a>&nbsp;<a href="https://github.com/wailsapp/wails" title="Create beautiful applications using Go" target="_blank"><img src="https://img.shields.io/github/stars/wailsapp/wails?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank">threema-android</a>&nbsp;<a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank">atom</a>&nbsp;<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank"><img src="https://img.shields.io/github/stars/atom-community/atom?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank">FEX</a>&nbsp;<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank"><img src="https://img.shields.io/github/stars/FEX-Emu/FEX?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank">lima</a>&nbsp;<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank"><img src="https://img.shields.io/github/stars/lima-vm/lima?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/batnoter/batnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank">batnoter</a>&nbsp;<a href="https://github.com/batnoter/batnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank"><img src="https://img.shields.io/github/stars/batnoter/batnoter?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank">sails</a>&nbsp;<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/balderdashy/sails?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank">1x.engineer</a>&nbsp;<a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank"><img src="https://img.shields.io/github/stars/cutenode/1x.engineer?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank">mini-TPI</a>&nbsp;<a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/mini-TPI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank">ENACrestic</a>&nbsp;<a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank"><img src="https://img.shields.io/github/stars/EPFL-ENAC/ENACrestic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mdn/content" title="The content behind MDN Web Docs" target="_blank">content</a>&nbsp;<a href="https://github.com/mdn/content" title="The content behind MDN Web Docs" target="_blank"><img src="https://img.shields.io/github/stars/mdn/content?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/wailsapp/wails" title="Create beautiful applications using Go" target="_blank">wails</a>&nbsp;<a href="https://github.com/wailsapp/wails" title="Create beautiful applications using Go" target="_blank"><img src="https://img.shields.io/github/stars/wailsapp/wails?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank">threema-android</a>&nbsp;<a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank">atom</a>&nbsp;<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank"><img src="https://img.shields.io/github/stars/atom-community/atom?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank">FEX</a>&nbsp;<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank"><img src="https://img.shields.io/github/stars/FEX-Emu/FEX?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank">lima</a>&nbsp;<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank"><img src="https://img.shields.io/github/stars/lima-vm/lima?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/batnoter/batnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank">batnoter</a>&nbsp;<a href="https://github.com/batnoter/batnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank"><img src="https://img.shields.io/github/stars/batnoter/batnoter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kilianm97/Supervids" title="TPI project" target="_blank">Supervids</a>&nbsp;<a href="https://github.com/kilianm97/Supervids" title="TPI project" target="_blank"><img src="https://img.shields.io/github/stars/kilianm97/Supervids?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -162,7 +162,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 28 Jun 2022 14:00:08 GMT</small>
+<small>⏰ Updated on Wed, 29 Jun 2022 13:57:58 GMT</small>
 </td>
 </tr>
 </tfoot>
