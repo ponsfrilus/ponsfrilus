@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank">magic</a>&nbsp;<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank"><img src="https://img.shields.io/github/stars/nettlep/magic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank">sails</a>&nbsp;<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/balderdashy/sails?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank">dot</a>&nbsp;<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank"><img src="https://img.shields.io/github/stars/sensity-ai/dot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank">xi-editor</a>&nbsp;<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/xi-editor/xi-editor?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank">vale</a>&nbsp;<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank"><img src="https://img.shields.io/github/stars/errata-ai/vale?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank">threema-web</a>&nbsp;<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-web?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/offspot/kiwix-hotspot" title="Kiwix Hotspot Image Creator (Desktop) for Windows/macOS/Linux" target="_blank">kiwix-hotspot</a>&nbsp;<a href="https://github.com/offspot/kiwix-hotspot" title="Kiwix Hotspot Image Creator (Desktop) for Windows/macOS/Linux" target="_blank"><img src="https://img.shields.io/github/stars/offspot/kiwix-hotspot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank">kratos</a>&nbsp;<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank"><img src="https://img.shields.io/github/stars/ory/kratos?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank">onedrive</a>&nbsp;<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank"><img src="https://img.shields.io/github/stars/abraunegg/onedrive?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank">birthminder</a>&nbsp;<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/birthminder?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/hackclub/some-assembly-required" title="An approachable introduction to assembly." target="_blank">some-assembly-required</a>&nbsp;<a href="https://github.com/hackclub/some-assembly-required" title="An approachable introduction to assembly." target="_blank"><img src="https://img.shields.io/github/stars/hackclub/some-assembly-required?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,47 +97,13 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank">sails</a>&nbsp;<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/balderdashy/sails?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank">dot</a>&nbsp;<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank"><img src="https://img.shields.io/github/stars/sensity-ai/dot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank">xi-editor</a>&nbsp;<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/xi-editor/xi-editor?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank">vale</a>&nbsp;<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank"><img src="https://img.shields.io/github/stars/errata-ai/vale?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank">threema-web</a>&nbsp;<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-web?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/offspot/kiwix-hotspot" title="Kiwix Hotspot Image Creator (Desktop) for Windows/macOS/Linux" target="_blank">kiwix-hotspot</a>&nbsp;<a href="https://github.com/offspot/kiwix-hotspot" title="Kiwix Hotspot Image Creator (Desktop) for Windows/macOS/Linux" target="_blank"><img src="https://img.shields.io/github/stars/offspot/kiwix-hotspot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank">kratos</a>&nbsp;<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank"><img src="https://img.shields.io/github/stars/ory/kratos?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank">onedrive</a>&nbsp;<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank"><img src="https://img.shields.io/github/stars/abraunegg/onedrive?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank">birthminder</a>&nbsp;<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/birthminder?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank">1x.engineer</a>&nbsp;<a href="https://github.com/cutenode/1x.engineer" title="The official website of 1x Engineers around the world" target="_blank"><img src="https://img.shields.io/github/stars/cutenode/1x.engineer?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/e6d537e513a1c408879928a3ae3d1b3d2f98ff8b" title="2022-06-27T19:25:53.000+02:00" target="_blank">e6d537e5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/014be5979413ebd09f46aa75e572bdd49938ce08" title="2022-06-29T18:51:43.000+02:00" target="_blank">014be597</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
           <pre>[data] some other copy-paste typos</pre>
         </td>
         </tr><tr>
@@ -162,7 +162,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 29 Jun 2022 13:57:58 GMT</small>
+<small>⏰ Updated on Thu, 30 Jun 2022 13:56:30 GMT</small>
 </td>
 </tr>
 </tfoot>
