@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 12 years and 5 months.
+    <br />Apparently, I'm hanging around on GitHub since 12 years and 6 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -103,7 +103,7 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/014be5979413ebd09f46aa75e572bdd49938ce08" title="2022-06-29T18:51:43.000+02:00" target="_blank">014be597</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/e8fa86ea00b972a95c5c5fdf09388ac14289b0e0" title="2022-07-01T09:42:00.000+02:00" target="_blank">e8fa86ea</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
           <pre>[data] some other copy-paste typos</pre>
         </td>
         </tr><tr>
@@ -162,7 +162,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 30 Jun 2022 13:56:30 GMT</small>
+<small>⏰ Updated on Fri, 01 Jul 2022 13:56:54 GMT</small>
 </td>
 </tr>
 </tfoot>
