@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/darktable-org/darktable" title="darktable is an open source photography workflow application and raw developer" target="_blank">darktable</a>&nbsp;<a href="https://github.com/darktable-org/darktable" title="darktable is an open source photography workflow application and raw developer" target="_blank"><img src="https://img.shields.io/github/stars/darktable-org/darktable?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hackclub/some-assembly-required" title="An approachable introduction to assembly." target="_blank">some-assembly-required</a>&nbsp;<a href="https://github.com/hackclub/some-assembly-required" title="An approachable introduction to assembly." target="_blank"><img src="https://img.shields.io/github/stars/hackclub/some-assembly-required?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank">mini-TPI</a>&nbsp;<a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/mini-TPI?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank">ENACrestic</a>&nbsp;<a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank"><img src="https://img.shields.io/github/stars/EPFL-ENAC/ENACrestic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mdn/content" title="The content behind MDN Web Docs" target="_blank">content</a>&nbsp;<a href="https://github.com/mdn/content" title="The content behind MDN Web Docs" target="_blank"><img src="https://img.shields.io/github/stars/mdn/content?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/wailsapp/wails" title="Create beautiful applications using Go" target="_blank">wails</a>&nbsp;<a href="https://github.com/wailsapp/wails" title="Create beautiful applications using Go" target="_blank"><img src="https://img.shields.io/github/stars/wailsapp/wails?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank">threema-android</a>&nbsp;<a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank">atom</a>&nbsp;<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank"><img src="https://img.shields.io/github/stars/atom-community/atom?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank">FEX</a>&nbsp;<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank"><img src="https://img.shields.io/github/stars/FEX-Emu/FEX?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank">lima</a>&nbsp;<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank"><img src="https://img.shields.io/github/stars/lima-vm/lima?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank">magic</a>&nbsp;<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank"><img src="https://img.shields.io/github/stars/nettlep/magic?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,21 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/hackclub/some-assembly-required" title="An approachable introduction to assembly." target="_blank">some-assembly-required</a>&nbsp;<a href="https://github.com/hackclub/some-assembly-required" title="An approachable introduction to assembly." target="_blank"><img src="https://img.shields.io/github/stars/hackclub/some-assembly-required?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank">mini-TPI</a>&nbsp;<a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/mini-TPI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank">ENACrestic</a>&nbsp;<a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank"><img src="https://img.shields.io/github/stars/EPFL-ENAC/ENACrestic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mdn/content" title="The content behind MDN Web Docs" target="_blank">content</a>&nbsp;<a href="https://github.com/mdn/content" title="The content behind MDN Web Docs" target="_blank"><img src="https://img.shields.io/github/stars/mdn/content?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/wailsapp/wails" title="Create beautiful applications using Go" target="_blank">wails</a>&nbsp;<a href="https://github.com/wailsapp/wails" title="Create beautiful applications using Go" target="_blank"><img src="https://img.shields.io/github/stars/wailsapp/wails?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank">threema-android</a>&nbsp;<a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank">atom</a>&nbsp;<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank"><img src="https://img.shields.io/github/stars/atom-community/atom?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank">FEX</a>&nbsp;<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank"><img src="https://img.shields.io/github/stars/FEX-Emu/FEX?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank">lima</a>&nbsp;<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank"><img src="https://img.shields.io/github/stars/lima-vm/lima?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/batnoter/batnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank">batnoter</a>&nbsp;<a href="https://github.com/batnoter/batnoter" title="An open source, markdown-based, self-hosted note taking webapp." target="_blank"><img src="https://img.shields.io/github/stars/batnoter/batnoter?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/bda643d24cd7b87cc86ab13723d755baeecd4ce6" title="2022-07-04T15:28:46.000+02:00" target="_blank">bda643d2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
+          <pre>[init] some base to wtest</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/e6bc625b645b7fdb77ba7088a272cd8d995cc6ea" title="2022-07-04T14:46:10.000+02:00" target="_blank">e6bc625b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
+          <pre>Initial commit</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/e8fa86ea00b972a95c5c5fdf09388ac14289b0e0" title="2022-07-01T09:42:00.000+02:00" target="_blank">e8fa86ea</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
           <pre>[data] some other copy-paste typos</pre>
@@ -148,21 +158,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/417f865099bf0125d67ba714fa17f1fbecd6f9b2" title="2022-06-24T00:23:10.000+02:00" target="_blank">417f8650</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
           <pre>[version] bump to 1.0.4</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/1eac3bf9b573dfda153668b2c7060c0448782c45" title="2022-06-24T00:17:02.000+02:00" target="_blank">1eac3bf9</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[feature] more robust checks</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/cc64d7f51c54bd3303f2bb788482045d0b782d83" title="2022-06-24T00:16:45.000+02:00" target="_blank">cc64d7f5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[feature] export data in JSON</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 01 Jul 2022 13:56:54 GMT</small>
+<small>⏰ Updated on Mon, 04 Jul 2022 13:56:19 GMT</small>
 </td>
 </tr>
 </tfoot>
