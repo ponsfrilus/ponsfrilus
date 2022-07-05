@@ -103,8 +103,18 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/bda643d24cd7b87cc86ab13723d755baeecd4ce6" title="2022-07-04T15:28:46.000+02:00" target="_blank">bda643d2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
-          <pre>[init] some base to wtest</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/b659c1f68c94f75efc52017393bd11dd583e4d9c" title="2022-07-05T12:02:29.000+02:00" target="_blank">b659c1f6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
+          <pre>[test] bitnami/kube-prometheus</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/c87e74851d02e64656b0c63733b834a5fa651bd2" title="2022-07-04T20:03:39.000+02:00" target="_blank">c87e7485</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
+          <pre>[doc] README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/7fee633738c90d7705de045990b6dcda46537df5" title="2022-07-04T15:28:46.000+02:00" target="_blank">7fee6337</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
+          <pre>[init] some base to test</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -148,21 +158,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/25d2113435195dc5479fdceaefbb178b23f9747f" title="2022-06-24T11:50:07.000+02:00" target="_blank">25d21134</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
           <pre>[adjusted] manifest.json</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/135535f09f292c4794a959842fad602e19179c4b" title="2022-06-24T11:06:43.000+02:00" target="_blank">135535f0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
-          <pre>[doc] "livrables" reorganized</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/417f865099bf0125d67ba714fa17f1fbecd6f9b2" title="2022-06-24T00:23:10.000+02:00" target="_blank">417f8650</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[version] bump to 1.0.4</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 04 Jul 2022 13:56:19 GMT</small>
+<small>⏰ Updated on Tue, 05 Jul 2022 13:59:32 GMT</small>
 </td>
 </tr>
 </tfoot>
