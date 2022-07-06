@@ -103,6 +103,36 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/b8db461fc7bcd8925bb60d990ea642780c4ac314" title="2022-07-05T17:13:07.000+02:00" target="_blank">b8db461f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
+          <pre>[feature] port-forwardig commands</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/63fbeeee7763972cf9ae07c308397d8a1b7e3b4a" title="2022-07-05T17:11:09.000+02:00" target="_blank">63fbeeee</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
+          <pre>[doc] fix file name</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/8195ed3a9323bb02c8cbe69e30006c8d4bf11e09" title="2022-07-05T17:10:30.000+02:00" target="_blank">8195ed3a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
+          <pre>[feature] functional values!</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/9ea01cd3e1353b5fa3f55b98b29187358323c658" title="2022-07-05T17:09:34.000+02:00" target="_blank">9ea01cd3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
+          <pre>[chore] rename</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/2688ec9a1a33748c05a39b955dd20e55ad7ac659" title="2022-07-05T17:09:21.000+02:00" target="_blank">2688ec9a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
+          <pre>[fix] create the namespace `monitoring` if needed</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/8e124ebbd00a3ef72f4980c1ae997d8dd78ef0c5" title="2022-07-05T17:08:47.000+02:00" target="_blank">8e124ebb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
+          <pre>[feature] comfort</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/b659c1f68c94f75efc52017393bd11dd583e4d9c" title="2022-07-05T12:02:29.000+02:00" target="_blank">b659c1f6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
           <pre>[test] bitnami/kube-prometheus</pre>
         </td>
@@ -121,48 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/e6bc625b645b7fdb77ba7088a272cd8d995cc6ea" title="2022-07-04T14:46:10.000+02:00" target="_blank">e6bc625b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
           <pre>Initial commit</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/e8fa86ea00b972a95c5c5fdf09388ac14289b0e0" title="2022-07-01T09:42:00.000+02:00" target="_blank">e8fa86ea</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[data] some other copy-paste typos</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/b10a7d45104155b0865d057aea3ab65521a46098" title="2022-06-27T18:21:53.000+02:00" target="_blank">b10a7d45</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[version] bump to 1.1.1 (candidate name in file export)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/8e17a6f3fad70c0d47bd0af62558b24b0f41615b" title="2022-06-27T18:06:16.000+02:00" target="_blank">8e17a6f3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[version] bump to 1.1.0
-
-- File download / upload refactored
-- Clear the "browse" input when succeed</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/0820caaff3330bc9c352c80cff53ee89167426b6" title="2022-06-27T14:45:49.000+02:00" target="_blank">0820caaf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[version] bump to 1.0.6 (upload data)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/636965e0c14202bafe2896f7dd6521ba8d614733" title="2022-06-27T11:51:47.000+02:00" target="_blank">636965e0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[version] bump to 1.0.5
-
-- Fix missing input type number
-- Inclusive text in README.md
-- More robust empty values</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/25d2113435195dc5479fdceaefbb178b23f9747f" title="2022-06-24T11:50:07.000+02:00" target="_blank">25d21134</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[adjusted] manifest.json</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 05 Jul 2022 13:59:32 GMT</small>
+<small>⏰ Updated on Wed, 06 Jul 2022 14:00:13 GMT</small>
 </td>
 </tr>
 </tfoot>
