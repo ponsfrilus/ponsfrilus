@@ -103,6 +103,29 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/843dcd1cf63e4540992c6f29621f87f7c96a0727" title="2022-07-07T14:13:31.000+02:00" target="_blank">843dcd1c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
+          <pre>[doc] typo</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/f5ac311de1e94aa3a8b638cde9cd98f2867e9bec" title="2022-07-06T17:11:50.000+02:00" target="_blank">f5ac311d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
+          <pre>[WIP] Grafana's Ingress</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/xaasible-ops/commits/0aa02ea4cb2dabe5e5cf6b3d49219e8a486215cb" title="2022-07-06T17:09:04.000+02:00" target="_blank">0aa02ea4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/xaasible-ops" title="The Ansible “ops” to set up and operate a full-stack TKGI Kubernetes cluster for building and testing">/xaasible-ops</a></strong></div>
+          <pre>[fix] `nginx-ingress` is deprecated
+
+`nginx-ingress` is deprecated and `ingress-nginx` should be used (see 
+https://kubernetes.github.io/ingress-nginx/)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/0346d4b91563caf41c522df25ac6b74d10a24071" title="2022-07-06T15:38:43.000+02:00" target="_blank">0346d4b9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
+          <pre>[fix] `helm --namespace monitoring` and some minor changes</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/b8db461fc7bcd8925bb60d990ea642780c4ac314" title="2022-07-05T17:13:07.000+02:00" target="_blank">b8db461f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
           <pre>[feature] port-forwardig commands</pre>
         </td>
@@ -131,31 +154,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/8e124ebbd00a3ef72f4980c1ae997d8dd78ef0c5" title="2022-07-05T17:08:47.000+02:00" target="_blank">8e124ebb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
           <pre>[feature] comfort</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/b659c1f68c94f75efc52017393bd11dd583e4d9c" title="2022-07-05T12:02:29.000+02:00" target="_blank">b659c1f6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
-          <pre>[test] bitnami/kube-prometheus</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/c87e74851d02e64656b0c63733b834a5fa651bd2" title="2022-07-04T20:03:39.000+02:00" target="_blank">c87e7485</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
-          <pre>[doc] README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/7fee633738c90d7705de045990b6dcda46537df5" title="2022-07-04T15:28:46.000+02:00" target="_blank">7fee6337</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
-          <pre>[init] some base to test</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/e6bc625b645b7fdb77ba7088a272cd8d995cc6ea" title="2022-07-04T14:46:10.000+02:00" target="_blank">e6bc625b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
-          <pre>Initial commit</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 06 Jul 2022 14:00:13 GMT</small>
+<small>⏰ Updated on Thu, 07 Jul 2022 13:59:55 GMT</small>
 </td>
 </tr>
 </tfoot>
