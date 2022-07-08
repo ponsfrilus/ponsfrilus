@@ -32,6 +32,49 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank">fresh</a>&nbsp;<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank"><img src="https://img.shields.io/github/stars/denoland/fresh?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank">basscss</a>&nbsp;<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank"><img src="https://img.shields.io/github/stars/basscss/basscss?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank">htmx</a>&nbsp;<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank"><img src="https://img.shields.io/github/stars/bigskysoftware/htmx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank">website</a>&nbsp;<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank"><img src="https://img.shields.io/github/stars/zws-im/website?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank">magic</a>&nbsp;<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank"><img src="https://img.shields.io/github/stars/nettlep/magic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank">sails</a>&nbsp;<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/balderdashy/sails?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank">dot</a>&nbsp;<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank"><img src="https://img.shields.io/github/stars/sensity-ai/dot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank">xi-editor</a>&nbsp;<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/xi-editor/xi-editor?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank">vale</a>&nbsp;<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank"><img src="https://img.shields.io/github/stars/errata-ai/vale?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank">threema-web</a>&nbsp;<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-web?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/MithrilJS/mithril.js" title="A JavaScript Framework for Building Brilliant Applications" target="_blank">mithril.js</a>&nbsp;<a href="https://github.com/MithrilJS/mithril.js" title="A JavaScript Framework for Building Brilliant Applications" target="_blank"><img src="https://img.shields.io/github/stars/MithrilJS/mithril.js?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ubershmekel/cssbed" title="Test bed for simple css resets that make your static page nice without classes." target="_blank">cssbed</a>&nbsp;<a href="https://github.com/ubershmekel/cssbed" title="Test bed for simple css resets that make your static page nice without classes." target="_blank"><img src="https://img.shields.io/github/stars/ubershmekel/cssbed?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zws-im/zws" title="Shorten URLs using invisible spaces" target="_blank">zws</a>&nbsp;<a href="https://github.com/zws-im/zws" title="Shorten URLs using invisible spaces" target="_blank"><img src="https://img.shields.io/github/stars/zws-im/zws?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/darktable-org/darktable" title="darktable is an open source photography workflow application and raw developer" target="_blank">darktable</a>&nbsp;<a href="https://github.com/darktable-org/darktable" title="darktable is an open source photography workflow application and raw developer" target="_blank"><img src="https://img.shields.io/github/stars/darktable-org/darktable?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -52,49 +95,6 @@
 <li>
 <a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank">threema-android</a>&nbsp;<a href="https://github.com/threema-ch/threema-android" title="Threema App for Android." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-android?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank">atom</a>&nbsp;<a href="https://github.com/atom-community/atom" title=":atom: Community build of the hackable text editor" target="_blank"><img src="https://img.shields.io/github/stars/atom-community/atom?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank">FEX</a>&nbsp;<a href="https://github.com/FEX-Emu/FEX" title="A fast usermode x86 and x86-64 emulator for Arm64" target="_blank"><img src="https://img.shields.io/github/stars/FEX-Emu/FEX?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank">lima</a>&nbsp;<a href="https://github.com/lima-vm/lima" title="Linux virtual machines, typically on macOS, for running containerd" target="_blank"><img src="https://img.shields.io/github/stars/lima-vm/lima?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank">magic</a>&nbsp;<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank"><img src="https://img.shields.io/github/stars/nettlep/magic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank">sails</a>&nbsp;<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/balderdashy/sails?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank">dot</a>&nbsp;<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank"><img src="https://img.shields.io/github/stars/sensity-ai/dot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank">xi-editor</a>&nbsp;<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/xi-editor/xi-editor?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank">vale</a>&nbsp;<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank"><img src="https://img.shields.io/github/stars/errata-ai/vale?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank">threema-web</a>&nbsp;<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-web?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/offspot/kiwix-hotspot" title="Kiwix Hotspot Image Creator (Desktop) for Windows/macOS/Linux" target="_blank">kiwix-hotspot</a>&nbsp;<a href="https://github.com/offspot/kiwix-hotspot" title="Kiwix Hotspot Image Creator (Desktop) for Windows/macOS/Linux" target="_blank"><img src="https://img.shields.io/github/stars/offspot/kiwix-hotspot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank">kratos</a>&nbsp;<a href="https://github.com/ory/kratos" title="Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service." target="_blank"><img src="https://img.shields.io/github/stars/ory/kratos?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank">onedrive</a>&nbsp;<a href="https://github.com/abraunegg/onedrive" title="#1 Free OneDrive Client for Linux" target="_blank"><img src="https://img.shields.io/github/stars/abraunegg/onedrive?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank">birthminder</a>&nbsp;<a href="https://github.com/Azecko/birthminder" title="Application that can remind people of birthdays" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/birthminder?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,25 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/2d9b3e87e8504a1f4cc749b92f20e72f77a713c3" title="2022-07-07T18:57:37.000+02:00" target="_blank">2d9b3e87</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[hotfix] ewwwio optimize all</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c4dd6cfd1c179cee990ba0d98c03a9dd5affc958" title="2022-07-07T18:53:55.000+02:00" target="_blank">c4dd6cfd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #506 from epfl-si/feature/authenticated-email
+
+[new feature] authenticated email</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/edea120be86d4fdd43e71309a6fb46e83f05e78b" title="2022-07-07T18:53:37.000+02:00" target="_blank">edea120b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #505 from epfl-si/fix/travis-no-wpforms-surveys-polls
+
+[fix] Exclude `wpforms-surveys-polls` (non-free WordPress plugin)</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/843dcd1cf63e4540992c6f29621f87f7c96a0727" title="2022-07-07T14:13:31.000+02:00" target="_blank">843dcd1c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
           <pre>[doc] typo</pre>
@@ -139,26 +158,11 @@ https://kubernetes.github.io/ingress-nginx/)</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/8195ed3a9323bb02c8cbe69e30006c8d4bf11e09" title="2022-07-05T17:10:30.000+02:00" target="_blank">8195ed3a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
           <pre>[feature] functional values!</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/9ea01cd3e1353b5fa3f55b98b29187358323c658" title="2022-07-05T17:09:34.000+02:00" target="_blank">9ea01cd3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
-          <pre>[chore] rename</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/2688ec9a1a33748c05a39b955dd20e55ad7ac659" title="2022-07-05T17:09:21.000+02:00" target="_blank">2688ec9a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
-          <pre>[fix] create the namespace `monitoring` if needed</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/8e124ebbd00a3ef72f4980c1ae997d8dd78ef0c5" title="2022-07-05T17:08:47.000+02:00" target="_blank">8e124ebb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
-          <pre>[feature] comfort</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 07 Jul 2022 13:59:55 GMT</small>
+<small>⏰ Updated on Fri, 08 Jul 2022 13:55:03 GMT</small>
 </td>
 </tr>
 </tfoot>
