@@ -103,6 +103,33 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/xaasible-ops/commits/7d3a9b41904e7c65c07dbd00d4d4b1a60b69457c" title="2022-07-11T12:55:36.000+02:00" target="_blank">7d3a9b41</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/xaasible-ops" title="The Ansible “ops” to set up and operate a full-stack TKGI Kubernetes cluster for building and testing">/xaasible-ops</a></strong></div>
+          <pre>Merge pull request #2 from epfl-si/feature/nginx-ingress
+
+[fix] limit runAs*</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/xaasible-ops/commits/f4d978d4ac8710d9a7adadd01874b9c53758e2eb" title="2022-07-11T12:55:11.000+02:00" target="_blank">f4d978d4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/xaasible-ops" title="The Ansible “ops” to set up and operate a full-stack TKGI Kubernetes cluster for building and testing">/xaasible-ops</a></strong></div>
+          <pre>[fix] limit runAs*</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/xaasible-ops/commits/16b59130165db6cc2cc54be97014fb631a24bd90" title="2022-07-11T09:52:23.000+02:00" target="_blank">16b59130</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/xaasible-ops" title="The Ansible “ops” to set up and operate a full-stack TKGI Kubernetes cluster for building and testing">/xaasible-ops</a></strong></div>
+          <pre>Merge pull request #1 from epfl-si/feature/kube-prom-stack
+
+[feature] deploy kube-prometheus-stack</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/xaasible-ops/commits/16b589743f0c71033183b2738dd2b2d90e61afcd" title="2022-07-11T09:51:17.000+02:00" target="_blank">16b58974</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/xaasible-ops" title="The Ansible “ops” to set up and operate a full-stack TKGI Kubernetes cluster for building and testing">/xaasible-ops</a></strong></div>
+          <pre>[feature] deploy kube-prometheus-stack
+
+Please check https://github.com/epfl-si/epfl-kube-prometheus-stack for 
+the pure helm value files.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/2d9b3e87e8504a1f4cc749b92f20e72f77a713c3" title="2022-07-07T18:57:37.000+02:00" target="_blank">2d9b3e87</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[hotfix] ewwwio optimize all</pre>
         </td>
@@ -138,31 +165,11 @@
 `nginx-ingress` is deprecated and `ingress-nginx` should be used (see 
 https://kubernetes.github.io/ingress-nginx/)</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/0346d4b91563caf41c522df25ac6b74d10a24071" title="2022-07-06T15:38:43.000+02:00" target="_blank">0346d4b9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
-          <pre>[fix] `helm --namespace monitoring` and some minor changes</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/b8db461fc7bcd8925bb60d990ea642780c4ac314" title="2022-07-05T17:13:07.000+02:00" target="_blank">b8db461f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
-          <pre>[feature] port-forwardig commands</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/63fbeeee7763972cf9ae07c308397d8a1b7e3b4a" title="2022-07-05T17:11:09.000+02:00" target="_blank">63fbeeee</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
-          <pre>[doc] fix file name</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/8195ed3a9323bb02c8cbe69e30006c8d4bf11e09" title="2022-07-05T17:10:30.000+02:00" target="_blank">8195ed3a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
-          <pre>[feature] functional values!</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 08 Jul 2022 13:55:03 GMT</small>
+<small>⏰ Updated on Mon, 11 Jul 2022 14:00:36 GMT</small>
 </td>
 </tr>
 </tfoot>
