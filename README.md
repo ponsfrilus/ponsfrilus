@@ -169,7 +169,7 @@ https://kubernetes.github.io/ingress-nginx/)</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 11 Jul 2022 14:00:36 GMT</small>
+<small>⏰ Updated on Tue, 12 Jul 2022 14:07:28 GMT</small>
 </td>
 </tr>
 </tfoot>
