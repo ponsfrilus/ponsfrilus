@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/40148ae533b83baf6366e0b98944ae22e219e4a4" title="2022-07-12T17:34:33.000+02:00" target="_blank">40148ae5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[LNT] phpcs-wpcode</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/b580d2230d37cdcea0712fc6feee6a8abc5c50c8" title="2022-07-12T17:30:45.000+02:00" target="_blank">b580d223</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[VER] v1.7.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/xaasible-ops/commits/7d3a9b41904e7c65c07dbd00d4d4b1a60b69457c" title="2022-07-11T12:55:36.000+02:00" target="_blank">7d3a9b41</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/xaasible-ops" title="The Ansible “ops” to set up and operate a full-stack TKGI Kubernetes cluster for building and testing">/xaasible-ops</a></strong></div>
           <pre>Merge pull request #2 from epfl-si/feature/nginx-ingress
 
@@ -130,6 +140,11 @@ the pure helm value files.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/3c1159bdb267d7015532b9c9078c750626847f02" title="2022-07-07T19:02:18.000+02:00" target="_blank">3c1159bd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] script that update the contributor's trombinoscope</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/2d9b3e87e8504a1f4cc749b92f20e72f77a713c3" title="2022-07-07T18:57:37.000+02:00" target="_blank">2d9b3e87</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[hotfix] ewwwio optimize all</pre>
         </td>
@@ -147,29 +162,11 @@ the pure helm value files.</pre>
 
 [fix] Exclude `wpforms-surveys-polls` (non-free WordPress plugin)</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-manga/commits/843dcd1cf63e4540992c6f29621f87f7c96a0727" title="2022-07-07T14:13:31.000+02:00" target="_blank">843dcd1c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-manga" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications.">/kata-manga</a></strong></div>
-          <pre>[doc] typo</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-kube-prometheus-stack/commits/f5ac311de1e94aa3a8b638cde9cd98f2867e9bec" title="2022-07-06T17:11:50.000+02:00" target="_blank">f5ac311d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-kube-prometheus-stack" title="null">/epfl-kube-prometheus-stack</a></strong></div>
-          <pre>[WIP] Grafana's Ingress</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/xaasible-ops/commits/0aa02ea4cb2dabe5e5cf6b3d49219e8a486215cb" title="2022-07-06T17:09:04.000+02:00" target="_blank">0aa02ea4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/xaasible-ops" title="The Ansible “ops” to set up and operate a full-stack TKGI Kubernetes cluster for building and testing">/xaasible-ops</a></strong></div>
-          <pre>[fix] `nginx-ingress` is deprecated
-
-`nginx-ingress` is deprecated and `ingress-nginx` should be used (see 
-https://kubernetes.github.io/ingress-nginx/)</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 12 Jul 2022 14:07:28 GMT</small>
+<small>⏰ Updated on Wed, 13 Jul 2022 14:01:19 GMT</small>
 </td>
 </tr>
 </tfoot>
