@@ -103,6 +103,39 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/725aada3334b85e2f0f34236e662b6b9aa9a7e44" title="2022-07-14T11:03:01.000+02:00" target="_blank">725aada3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>Merge pull request #162 from epfl-si/feature/ansible-suitcase
+
+[feature] welcome suitcase</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/1eb25a33e09666a36449cc625c538d131f60b058" title="2022-07-14T10:41:23.000+02:00" target="_blank">1eb25a33</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[feature] welcome suitcase</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/1ce656c184963411b4ce6e18e0f84ffb2c3afd11" title="2022-07-14T10:18:37.000+02:00" target="_blank">1ce656c1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[bump] to version 1.18.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/307669be9255c98a8797d57d9cd622f673a09411" title="2022-07-13T16:41:10.000+02:00" target="_blank">307669be</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>Merge pull request #161 from epfl-si/feature/tg-notification-peek-view
+
+[feature] display icon in message preview</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/7fdaea1892df2a19214f0dd873c45bb39c76ed34" title="2022-07-13T12:03:44.000+02:00" target="_blank">7fdaea18</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[feature] display icon in message preview
+
+This commit add the success/fail icon in front of the message in order 
+to be able to see the status in the telegram notification message (w/ 
+having to open it).</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/40148ae533b83baf6366e0b98944ae22e219e4a4" title="2022-07-12T17:34:33.000+02:00" target="_blank">40148ae5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[LNT] phpcs-wpcode</pre>
         </td>
@@ -130,43 +163,11 @@
 
 [feature] deploy kube-prometheus-stack</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/xaasible-ops/commits/16b589743f0c71033183b2738dd2b2d90e61afcd" title="2022-07-11T09:51:17.000+02:00" target="_blank">16b58974</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/xaasible-ops" title="The Ansible “ops” to set up and operate a full-stack TKGI Kubernetes cluster for building and testing">/xaasible-ops</a></strong></div>
-          <pre>[feature] deploy kube-prometheus-stack
-
-Please check https://github.com/epfl-si/epfl-kube-prometheus-stack for 
-the pure helm value files.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/3c1159bdb267d7015532b9c9078c750626847f02" title="2022-07-07T19:02:18.000+02:00" target="_blank">3c1159bd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] script that update the contributor's trombinoscope</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/2d9b3e87e8504a1f4cc749b92f20e72f77a713c3" title="2022-07-07T18:57:37.000+02:00" target="_blank">2d9b3e87</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[hotfix] ewwwio optimize all</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c4dd6cfd1c179cee990ba0d98c03a9dd5affc958" title="2022-07-07T18:53:55.000+02:00" target="_blank">c4dd6cfd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #506 from epfl-si/feature/authenticated-email
-
-[new feature] authenticated email</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/edea120be86d4fdd43e71309a6fb46e83f05e78b" title="2022-07-07T18:53:37.000+02:00" target="_blank">edea120b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #505 from epfl-si/fix/travis-no-wpforms-surveys-polls
-
-[fix] Exclude `wpforms-surveys-polls` (non-free WordPress plugin)</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 13 Jul 2022 14:01:19 GMT</small>
+<small>⏰ Updated on Thu, 14 Jul 2022 13:59:42 GMT</small>
 </td>
 </tr>
 </tfoot>
