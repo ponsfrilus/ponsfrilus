@@ -146,28 +146,30 @@ having to open it).</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/xaasible-ops/commits/7d3a9b41904e7c65c07dbd00d4d4b1a60b69457c" title="2022-07-11T12:55:36.000+02:00" target="_blank">7d3a9b41</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/xaasible-ops" title="The Ansible “ops” to set up and operate a full-stack TKGI Kubernetes cluster for building and testing">/xaasible-ops</a></strong></div>
-          <pre>Merge pull request #2 from epfl-si/feature/nginx-ingress
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/4100b831ab4b09f4a99943014818bfb3c0eef89a" title="2022-07-12T15:19:02.000+02:00" target="_blank">4100b831</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] source SMTP secret
 
-[fix] limit runAs*</pre>
+This fix allows to test 2867cfc9a27c85abab005051f2cf2fa09a41a98e locally 
+(with wp-dev) and be able to send mail.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/xaasible-ops/commits/f4d978d4ac8710d9a7adadd01874b9c53758e2eb" title="2022-07-11T12:55:11.000+02:00" target="_blank">f4d978d4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/xaasible-ops" title="The Ansible “ops” to set up and operate a full-stack TKGI Kubernetes cluster for building and testing">/xaasible-ops</a></strong></div>
-          <pre>[fix] limit runAs*</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/e6b374ece526a0384a591e6c9f16246a616b2f23" title="2022-07-12T15:16:52.000+02:00" target="_blank">e6b374ec</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] too much debug</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/xaasible-ops/commits/16b59130165db6cc2cc54be97014fb631a24bd90" title="2022-07-11T09:52:23.000+02:00" target="_blank">16b59130</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/xaasible-ops" title="The Ansible “ops” to set up and operate a full-stack TKGI Kubernetes cluster for building and testing">/xaasible-ops</a></strong></div>
-          <pre>Merge pull request #1 from epfl-si/feature/kube-prom-stack
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/2867cfc9a27c85abab005051f2cf2fa09a41a98e" title="2022-07-12T15:16:31.000+02:00" target="_blank">2867cfc9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] SMTP secret for wp-dev
 
-[feature] deploy kube-prometheus-stack</pre>
+See c21188fa6dd2a5c4c3338a654c609860859cfa82 that introduce SMTP secret 
+management that doen't wok with wp-dev.</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 27 Jul 2022 14:01:46 GMT</small>
+<small>⏰ Updated on Thu, 28 Jul 2022 14:01:06 GMT</small>
 </td>
 </tr>
 </tfoot>
