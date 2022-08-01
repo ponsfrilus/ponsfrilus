@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 12 years and 6 months.
+    <br />Apparently, I'm hanging around on GitHub since 12 years and 7 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -29,6 +29,40 @@
 <td colspan="2" align="center"><h4>My last starred repos</h4></td>
 </tr>
 <tr>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank">explain8601</a>&nbsp;<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank"><img src="https://img.shields.io/github/stars/dokutan/explain8601?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank">fresh</a>&nbsp;<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank"><img src="https://img.shields.io/github/stars/denoland/fresh?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank">basscss</a>&nbsp;<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank"><img src="https://img.shields.io/github/stars/basscss/basscss?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank">htmx</a>&nbsp;<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank"><img src="https://img.shields.io/github/stars/bigskysoftware/htmx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank">website</a>&nbsp;<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank"><img src="https://img.shields.io/github/stars/zws-im/website?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank">magic</a>&nbsp;<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank"><img src="https://img.shields.io/github/stars/nettlep/magic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank">sails</a>&nbsp;<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/balderdashy/sails?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank">dot</a>&nbsp;<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank"><img src="https://img.shields.io/github/stars/sensity-ai/dot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank">xi-editor</a>&nbsp;<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/xi-editor/xi-editor?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank">vale</a>&nbsp;<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank"><img src="https://img.shields.io/github/stars/errata-ai/vale?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
 <td valign="top">
 <ul>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/wailsapp/wails" title="Create beautiful applications using Go" target="_blank">wails</a>&nbsp;<a href="https://github.com/wailsapp/wails" title="Create beautiful applications using Go" target="_blank"><img src="https://img.shields.io/github/stars/wailsapp/wails?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank">fresh</a>&nbsp;<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank"><img src="https://img.shields.io/github/stars/denoland/fresh?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank">basscss</a>&nbsp;<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank"><img src="https://img.shields.io/github/stars/basscss/basscss?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank">htmx</a>&nbsp;<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank"><img src="https://img.shields.io/github/stars/bigskysoftware/htmx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank">website</a>&nbsp;<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank"><img src="https://img.shields.io/github/stars/zws-im/website?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank">magic</a>&nbsp;<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank"><img src="https://img.shields.io/github/stars/nettlep/magic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank">sails</a>&nbsp;<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/balderdashy/sails?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank">dot</a>&nbsp;<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank"><img src="https://img.shields.io/github/stars/sensity-ai/dot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank">xi-editor</a>&nbsp;<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/xi-editor/xi-editor?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank">vale</a>&nbsp;<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank"><img src="https://img.shields.io/github/stars/errata-ai/vale?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank">threema-web</a>&nbsp;<a href="https://github.com/threema-ch/threema-web" title="The Threema Web application." target="_blank"><img src="https://img.shields.io/github/stars/threema-ch/threema-web?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -169,7 +169,7 @@ management that doen't wok with wp-dev.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 29 Jul 2022 13:58:20 GMT</small>
+<small>⏰ Updated on Mon, 01 Aug 2022 14:01:58 GMT</small>
 </td>
 </tr>
 </tfoot>
