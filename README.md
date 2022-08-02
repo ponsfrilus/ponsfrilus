@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/charmbracelet/gum" title="A tool for glamorous shell scripts 🎀" target="_blank">gum</a>&nbsp;<a href="https://github.com/charmbracelet/gum" title="A tool for glamorous shell scripts 🎀" target="_blank"><img src="https://img.shields.io/github/stars/charmbracelet/gum?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/aws-samples/aws-secret-sidecar-injector" title="Kubernetes mutating webhook to fetch secrets from AWS Secrets Manager" target="_blank">aws-secret-sidecar-injector</a>&nbsp;<a href="https://github.com/aws-samples/aws-secret-sidecar-injector" title="Kubernetes mutating webhook to fetch secrets from AWS Secrets Manager" target="_blank"><img src="https://img.shields.io/github/stars/aws-samples/aws-secret-sidecar-injector?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/MithrilJS/mithril.js" title="A JavaScript Framework for Building Brilliant Applications" target="_blank">mithril.js</a>&nbsp;<a href="https://github.com/MithrilJS/mithril.js" title="A JavaScript Framework for Building Brilliant Applications" target="_blank"><img src="https://img.shields.io/github/stars/MithrilJS/mithril.js?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ubershmekel/cssbed" title="Test bed for simple css resets that make your static page nice without classes." target="_blank">cssbed</a>&nbsp;<a href="https://github.com/ubershmekel/cssbed" title="Test bed for simple css resets that make your static page nice without classes." target="_blank"><img src="https://img.shields.io/github/stars/ubershmekel/cssbed?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zws-im/zws" title="Shorten URLs using invisible spaces" target="_blank">zws</a>&nbsp;<a href="https://github.com/zws-im/zws" title="Shorten URLs using invisible spaces" target="_blank"><img src="https://img.shields.io/github/stars/zws-im/zws?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/darktable-org/darktable" title="darktable is an open source photography workflow application and raw developer" target="_blank">darktable</a>&nbsp;<a href="https://github.com/darktable-org/darktable" title="darktable is an open source photography workflow application and raw developer" target="_blank"><img src="https://img.shields.io/github/stars/darktable-org/darktable?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hackclub/some-assembly-required" title="An approachable introduction to assembly." target="_blank">some-assembly-required</a>&nbsp;<a href="https://github.com/hackclub/some-assembly-required" title="An approachable introduction to assembly." target="_blank"><img src="https://img.shields.io/github/stars/hackclub/some-assembly-required?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank">mini-TPI</a>&nbsp;<a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/mini-TPI?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank">ENACrestic</a>&nbsp;<a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank"><img src="https://img.shields.io/github/stars/EPFL-ENAC/ENACrestic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mdn/content" title="The content behind MDN Web Docs" target="_blank">content</a>&nbsp;<a href="https://github.com/mdn/content" title="The content behind MDN Web Docs" target="_blank"><img src="https://img.shields.io/github/stars/mdn/content?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank">explain8601</a>&nbsp;<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank"><img src="https://img.shields.io/github/stars/dokutan/explain8601?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank">vale</a>&nbsp;<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank"><img src="https://img.shields.io/github/stars/errata-ai/vale?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/aws-samples/aws-secret-sidecar-injector" title="Kubernetes mutating webhook to fetch secrets from AWS Secrets Manager" target="_blank">aws-secret-sidecar-injector</a>&nbsp;<a href="https://github.com/aws-samples/aws-secret-sidecar-injector" title="Kubernetes mutating webhook to fetch secrets from AWS Secrets Manager" target="_blank"><img src="https://img.shields.io/github/stars/aws-samples/aws-secret-sidecar-injector?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/MithrilJS/mithril.js" title="A JavaScript Framework for Building Brilliant Applications" target="_blank">mithril.js</a>&nbsp;<a href="https://github.com/MithrilJS/mithril.js" title="A JavaScript Framework for Building Brilliant Applications" target="_blank"><img src="https://img.shields.io/github/stars/MithrilJS/mithril.js?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ubershmekel/cssbed" title="Test bed for simple css resets that make your static page nice without classes." target="_blank">cssbed</a>&nbsp;<a href="https://github.com/ubershmekel/cssbed" title="Test bed for simple css resets that make your static page nice without classes." target="_blank"><img src="https://img.shields.io/github/stars/ubershmekel/cssbed?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zws-im/zws" title="Shorten URLs using invisible spaces" target="_blank">zws</a>&nbsp;<a href="https://github.com/zws-im/zws" title="Shorten URLs using invisible spaces" target="_blank"><img src="https://img.shields.io/github/stars/zws-im/zws?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/darktable-org/darktable" title="darktable is an open source photography workflow application and raw developer" target="_blank">darktable</a>&nbsp;<a href="https://github.com/darktable-org/darktable" title="darktable is an open source photography workflow application and raw developer" target="_blank"><img src="https://img.shields.io/github/stars/darktable-org/darktable?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hackclub/some-assembly-required" title="An approachable introduction to assembly." target="_blank">some-assembly-required</a>&nbsp;<a href="https://github.com/hackclub/some-assembly-required" title="An approachable introduction to assembly." target="_blank"><img src="https://img.shields.io/github/stars/hackclub/some-assembly-required?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank">mini-TPI</a>&nbsp;<a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/mini-TPI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank">ENACrestic</a>&nbsp;<a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank"><img src="https://img.shields.io/github/stars/EPFL-ENAC/ENACrestic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mdn/content" title="The content behind MDN Web Docs" target="_blank">content</a>&nbsp;<a href="https://github.com/mdn/content" title="The content behind MDN Web Docs" target="_blank"><img src="https://img.shields.io/github/stars/mdn/content?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/wailsapp/wails" title="Create beautiful applications using Go" target="_blank">wails</a>&nbsp;<a href="https://github.com/wailsapp/wails" title="Create beautiful applications using Go" target="_blank"><img src="https://img.shields.io/github/stars/wailsapp/wails?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -169,7 +169,7 @@ management that doen't wok with wp-dev.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 01 Aug 2022 14:01:58 GMT</small>
+<small>⏰ Updated on Tue, 02 Aug 2022 13:58:18 GMT</small>
 </td>
 </tr>
 </tfoot>
