@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/6fbb6a99b141097f127e3130d321cec958d746fd" title="2022-08-03T16:18:35.000+02:00" target="_blank">6fbb6a99</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
+          <pre>Merge pull request #2 from Azecko/main
+
+HTML generator</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/725aada3334b85e2f0f34236e662b6b9aa9a7e44" title="2022-07-14T11:03:01.000+02:00" target="_blank">725aada3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>Merge pull request #162 from epfl-si/feature/ansible-suitcase
 
@@ -157,19 +164,11 @@ This fix allows to test 2867cfc9a27c85abab005051f2cf2fa09a41a98e locally
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/e6b374ece526a0384a591e6c9f16246a616b2f23" title="2022-07-12T15:16:52.000+02:00" target="_blank">e6b374ec</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[fix] too much debug</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/2867cfc9a27c85abab005051f2cf2fa09a41a98e" title="2022-07-12T15:16:31.000+02:00" target="_blank">2867cfc9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] SMTP secret for wp-dev
-
-See c21188fa6dd2a5c4c3338a654c609860859cfa82 that introduce SMTP secret 
-management that doen't wok with wp-dev.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 03 Aug 2022 13:58:04 GMT</small>
+<small>⏰ Updated on Thu, 04 Aug 2022 13:57:03 GMT</small>
 </td>
 </tr>
 </tfoot>
