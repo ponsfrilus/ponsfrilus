@@ -103,6 +103,31 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/3b47022ab35cea10ff68487f3f656ec21fed2b76" title="2022-08-05T09:57:39.000+02:00" target="_blank">3b47022a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
+          <pre>[fix] CSS border bottom</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/3468331b42175c9bcecfd3877145dee5263eac62" title="2022-08-05T09:57:28.000+02:00" target="_blank">3468331b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
+          <pre>[fix] CSS display flex</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/3237f933b2911eb4926345a86540af8b3d920855" title="2022-08-04T17:41:00.000+02:00" target="_blank">3237f933</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
+          <pre>[feature] missclick complient</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/5a26361908e788c8e57de79bd934109fa3a26431" title="2022-08-04T17:06:40.000+02:00" target="_blank">5a263619</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
+          <pre>[fix] as in PR's comments</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/66d2f92359f93b21a4c5ba26a20796b704008d6f" title="2022-08-04T17:02:59.000+02:00" target="_blank">66d2f923</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
+          <pre>Merge branch 'main' of github.com:Azecko/dossier-formation into Azecko-main</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/6fbb6a99b141097f127e3130d321cec958d746fd" title="2022-08-03T16:18:35.000+02:00" target="_blank">6fbb6a99</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
           <pre>Merge pull request #2 from Azecko/main
 
@@ -132,43 +157,11 @@ HTML generator</pre>
 
 [feature] display icon in message preview</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/7fdaea1892df2a19214f0dd873c45bb39c76ed34" title="2022-07-13T12:03:44.000+02:00" target="_blank">7fdaea18</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] display icon in message preview
-
-This commit add the success/fail icon in front of the message in order 
-to be able to see the status in the telegram notification message (w/ 
-having to open it).</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/40148ae533b83baf6366e0b98944ae22e219e4a4" title="2022-07-12T17:34:33.000+02:00" target="_blank">40148ae5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[LNT] phpcs-wpcode</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/b580d2230d37cdcea0712fc6feee6a8abc5c50c8" title="2022-07-12T17:30:45.000+02:00" target="_blank">b580d223</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[VER] v1.7.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/4100b831ab4b09f4a99943014818bfb3c0eef89a" title="2022-07-12T15:19:02.000+02:00" target="_blank">4100b831</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] source SMTP secret
-
-This fix allows to test 2867cfc9a27c85abab005051f2cf2fa09a41a98e locally 
-(with wp-dev) and be able to send mail.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/e6b374ece526a0384a591e6c9f16246a616b2f23" title="2022-07-12T15:16:52.000+02:00" target="_blank">e6b374ec</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] too much debug</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 04 Aug 2022 13:57:03 GMT</small>
+<small>⏰ Updated on Fri, 05 Aug 2022 14:00:09 GMT</small>
 </td>
 </tr>
 </tfoot>
