@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank">explain8601</a>&nbsp;<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank"><img src="https://img.shields.io/github/stars/dokutan/explain8601?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank">fresh</a>&nbsp;<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank"><img src="https://img.shields.io/github/stars/denoland/fresh?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank">basscss</a>&nbsp;<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank"><img src="https://img.shields.io/github/stars/basscss/basscss?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank">htmx</a>&nbsp;<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank"><img src="https://img.shields.io/github/stars/bigskysoftware/htmx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank">website</a>&nbsp;<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank"><img src="https://img.shields.io/github/stars/zws-im/website?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank">magic</a>&nbsp;<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank"><img src="https://img.shields.io/github/stars/nettlep/magic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank">sails</a>&nbsp;<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/balderdashy/sails?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank">dot</a>&nbsp;<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank"><img src="https://img.shields.io/github/stars/sensity-ai/dot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank">xi-editor</a>&nbsp;<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/xi-editor/xi-editor?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/charmbracelet/gum" title="A tool for glamorous shell scripts 🎀" target="_blank">gum</a>&nbsp;<a href="https://github.com/charmbracelet/gum" title="A tool for glamorous shell scripts 🎀" target="_blank"><img src="https://img.shields.io/github/stars/charmbracelet/gum?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,105 +97,69 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank">explain8601</a>&nbsp;<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank"><img src="https://img.shields.io/github/stars/dokutan/explain8601?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank">fresh</a>&nbsp;<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank"><img src="https://img.shields.io/github/stars/denoland/fresh?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank">basscss</a>&nbsp;<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank"><img src="https://img.shields.io/github/stars/basscss/basscss?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank">htmx</a>&nbsp;<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank"><img src="https://img.shields.io/github/stars/bigskysoftware/htmx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank">website</a>&nbsp;<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank"><img src="https://img.shields.io/github/stars/zws-im/website?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank">magic</a>&nbsp;<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank"><img src="https://img.shields.io/github/stars/nettlep/magic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank">sails</a>&nbsp;<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/balderdashy/sails?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank">dot</a>&nbsp;<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank"><img src="https://img.shields.io/github/stars/sensity-ai/dot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank">xi-editor</a>&nbsp;<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/xi-editor/xi-editor?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank">vale</a>&nbsp;<a href="https://github.com/errata-ai/vale" title=":pencil: A syntax-aware linter for prose built with speed and extensibility in mind." target="_blank"><img src="https://img.shields.io/github/stars/errata-ai/vale?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/3b47022ab35cea10ff68487f3f656ec21fed2b76" title="2022-08-05T09:57:39.000+02:00" target="_blank">3b47022a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>[fix] CSS border bottom</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/3468331b42175c9bcecfd3877145dee5263eac62" title="2022-08-05T09:57:28.000+02:00" target="_blank">3468331b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>[fix] CSS display flex</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/3237f933b2911eb4926345a86540af8b3d920855" title="2022-08-04T17:41:00.000+02:00" target="_blank">3237f933</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>[feature] missclick complient</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/5a26361908e788c8e57de79bd934109fa3a26431" title="2022-08-04T17:06:40.000+02:00" target="_blank">5a263619</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>[fix] as in PR's comments</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/66d2f92359f93b21a4c5ba26a20796b704008d6f" title="2022-08-04T17:02:59.000+02:00" target="_blank">66d2f923</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>Merge branch 'main' of github.com:Azecko/dossier-formation into Azecko-main</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/6fbb6a99b141097f127e3130d321cec958d746fd" title="2022-08-03T16:18:35.000+02:00" target="_blank">6fbb6a99</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>Merge pull request #2 from Azecko/main
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/962ebde1b8d247720723d2c47f3410b47e015d8f" title="2022-08-08T12:13:18.000+02:00" target="_blank">962ebde1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
+          <pre>Merge pull request #2 from SaphireVert/main
 
-HTML generator</pre>
+Add first form element + draft content</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/725aada3334b85e2f0f34236e662b6b9aa9a7e44" title="2022-07-14T11:03:01.000+02:00" target="_blank">725aada3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>Merge pull request #162 from epfl-si/feature/ansible-suitcase
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/db37b3ccbff24602515126f1354f4b49d5dcb521" title="2022-08-08T11:47:21.000+02:00" target="_blank">db37b3cc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
+          <pre>[h4x0r] revert README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/f22c8972d1575982a286a501150aae9f70f7609a" title="2022-08-08T11:42:17.000+02:00" target="_blank">f22c8972</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
+          <pre>Merge pull request #1 from JaavLex/main
 
-[feature] welcome suitcase</pre>
+Project init</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/1eb25a33e09666a36449cc625c538d131f60b058" title="2022-07-14T10:41:23.000+02:00" target="_blank">1eb25a33</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] welcome suitcase</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/d2bb68bace4f641ecb4ff18c1e40c8d3be772402" title="2022-08-08T09:45:40.000+02:00" target="_blank">d2bb68ba</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
+          <pre>Update README.md</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/1ce656c184963411b4ce6e18e0f84ffb2c3afd11" title="2022-07-14T10:18:37.000+02:00" target="_blank">1ce656c1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[bump] to version 1.18.0</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/f1eacea7bc6774dcdf0cd084233b3924566cd308" title="2022-08-08T09:45:05.000+02:00" target="_blank">f1eacea7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
+          <pre>Update README.md</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/307669be9255c98a8797d57d9cd622f673a09411" title="2022-07-13T16:41:10.000+02:00" target="_blank">307669be</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>Merge pull request #161 from epfl-si/feature/tg-notification-peek-view
-
-[feature] display icon in message preview</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/9704e52834064f3b8cdbbec5bd2a107cad0c3655" title="2022-08-08T09:35:48.000+02:00" target="_blank">9704e528</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
+          <pre>Initial commit</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/22c4024cc5926fa06846d0249780bc5ff470e31f" title="2022-08-05T18:28:05.000+02:00" target="_blank">22c4024c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
+          <pre>[feat] bluberries theme</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/e7c663b6cf254be484bf0638c92d20f0355411a1" title="2022-08-05T18:24:01.000+02:00" target="_blank">e7c663b6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
+          <pre>[fix] favicon</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/fa94b5a25ac31e952c29b50167eb6fc069a39a84" title="2022-08-05T18:15:47.000+02:00" target="_blank">fa94b5a2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
+          <pre>[fix] forgot Bloom in vertical</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/89d165b30c71df8417d54ac2cfb1ff311dc7de48" title="2022-08-05T18:15:32.000+02:00" target="_blank">89d165b3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
+          <pre>[typo]</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 05 Aug 2022 14:00:09 GMT</small>
+<small>⏰ Updated on Mon, 08 Aug 2022 14:00:21 GMT</small>
 </td>
 </tr>
 </tfoot>
