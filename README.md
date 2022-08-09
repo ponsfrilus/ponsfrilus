@@ -103,6 +103,18 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/2811537b467f7f218e0b3d8d5d77afcfe29078d2" title="2022-08-09T09:24:13.000+02:00" target="_blank">2811537b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
+          <pre>[doc] README revamped</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/9157f3f714e3c332cb24b63feba75abc1a71ed43" title="2022-08-08T16:30:07.000+02:00" target="_blank">9157f3f7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
+          <pre>Merge pull request #3 from D4rkHeart/main
+
+Add a form with the information of the internship report modify</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/962ebde1b8d247720723d2c47f3410b47e015d8f" title="2022-08-08T12:13:18.000+02:00" target="_blank">962ebde1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
           <pre>Merge pull request #2 from SaphireVert/main
 
@@ -145,21 +157,11 @@ Project init</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/e7c663b6cf254be484bf0638c92d20f0355411a1" title="2022-08-05T18:24:01.000+02:00" target="_blank">e7c663b6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
           <pre>[fix] favicon</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/fa94b5a25ac31e952c29b50167eb6fc069a39a84" title="2022-08-05T18:15:47.000+02:00" target="_blank">fa94b5a2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>[fix] forgot Bloom in vertical</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/89d165b30c71df8417d54ac2cfb1ff311dc7de48" title="2022-08-05T18:15:32.000+02:00" target="_blank">89d165b3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>[typo]</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 08 Aug 2022 14:00:21 GMT</small>
+<small>⏰ Updated on Tue, 09 Aug 2022 14:04:42 GMT</small>
 </td>
 </tr>
 </tfoot>
