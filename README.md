@@ -161,7 +161,7 @@ Add a form with the information of the internship report modify</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 10 Aug 2022 13:54:37 GMT</small>
+<small>⏰ Updated on Thu, 11 Aug 2022 13:57:06 GMT</small>
 </td>
 </tr>
 </tfoot>
