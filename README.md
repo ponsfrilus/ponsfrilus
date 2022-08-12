@@ -103,6 +103,23 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/f6a114c7b6d8a29aaebdf4e03d0cb5638deb894a" title="2022-08-12T14:59:45.000+02:00" target="_blank">f6a114c7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
+          <pre>[feat] add anchor links</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/d886a51025483b75c4160d4572743060dd537a3e" title="2022-08-12T14:10:17.000+02:00" target="_blank">d886a510</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
+          <pre>[css] better screen size breaks</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/3b74954e04259fbd197b47e5a8bf474410277ca3" title="2022-08-12T13:54:10.000+02:00" target="_blank">3b74954e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
+          <pre>[feat] Cascading style sheet in a dedicated file
+
+Bump version to v1.5.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/40ab53fe3a3bcd09ca3b8e89d195722095f3d5c3" title="2022-08-10T14:41:54.000+02:00" target="_blank">40ab53fe</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
           <pre>Merge pull request #6 from ponsfrilus/feat/linter
 
@@ -140,28 +157,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/39a5f6fabb550560c136f5191594d4f1f1d0961d" title="2022-08-10T09:31:07.000+02:00" target="_blank">39a5f6fa</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
           <pre>Merge branch 'main' of github.com:D4rkHeart/rapport-de-stage into D4rkHeart-main</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/b1e417ce74c75213c6c7931c52fb534202ecf44b" title="2022-08-10T09:28:46.000+02:00" target="_blank">b1e417ce</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
-          <pre>[fix] beautifullage</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/2811537b467f7f218e0b3d8d5d77afcfe29078d2" title="2022-08-09T09:24:13.000+02:00" target="_blank">2811537b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
-          <pre>[doc] README revamped</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/9157f3f714e3c332cb24b63feba75abc1a71ed43" title="2022-08-08T16:30:07.000+02:00" target="_blank">9157f3f7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
-          <pre>Merge pull request #3 from D4rkHeart/main
-
-Add a form with the information of the internship report modify</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 11 Aug 2022 13:57:06 GMT</small>
+<small>⏰ Updated on Fri, 12 Aug 2022 13:59:00 GMT</small>
 </td>
 </tr>
 </tfoot>
