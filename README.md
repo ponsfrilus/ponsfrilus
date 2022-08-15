@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank">beef</a>&nbsp;<a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank"><img src="https://img.shields.io/github/stars/beefproject/beef?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank">explain8601</a>&nbsp;<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank"><img src="https://img.shields.io/github/stars/dokutan/explain8601?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank">fresh</a>&nbsp;<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank"><img src="https://img.shields.io/github/stars/denoland/fresh?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank">basscss</a>&nbsp;<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank"><img src="https://img.shields.io/github/stars/basscss/basscss?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank">htmx</a>&nbsp;<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank"><img src="https://img.shields.io/github/stars/bigskysoftware/htmx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank">website</a>&nbsp;<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank"><img src="https://img.shields.io/github/stars/zws-im/website?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank">magic</a>&nbsp;<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank"><img src="https://img.shields.io/github/stars/nettlep/magic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank">sails</a>&nbsp;<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/balderdashy/sails?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank">dot</a>&nbsp;<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank"><img src="https://img.shields.io/github/stars/sensity-ai/dot?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/toeverything/AFFiNE" title="There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. " target="_blank">AFFiNE</a>&nbsp;<a href="https://github.com/toeverything/AFFiNE" title="There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. " target="_blank"><img src="https://img.shields.io/github/stars/toeverything/AFFiNE?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank">ENACrestic</a>&nbsp;<a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank"><img src="https://img.shields.io/github/stars/EPFL-ENAC/ENACrestic?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank">explain8601</a>&nbsp;<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank"><img src="https://img.shields.io/github/stars/dokutan/explain8601?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank">fresh</a>&nbsp;<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank"><img src="https://img.shields.io/github/stars/denoland/fresh?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank">basscss</a>&nbsp;<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank"><img src="https://img.shields.io/github/stars/basscss/basscss?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank">htmx</a>&nbsp;<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank"><img src="https://img.shields.io/github/stars/bigskysoftware/htmx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank">website</a>&nbsp;<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank"><img src="https://img.shields.io/github/stars/zws-im/website?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank">magic</a>&nbsp;<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank"><img src="https://img.shields.io/github/stars/nettlep/magic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank">sails</a>&nbsp;<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/balderdashy/sails?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank">dot</a>&nbsp;<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank"><img src="https://img.shields.io/github/stars/sensity-ai/dot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank">xi-editor</a>&nbsp;<a href="https://github.com/xi-editor/xi-editor" title="A modern editor with a backend written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/xi-editor/xi-editor?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -161,7 +161,7 @@ Bump version to v1.5.0</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 12 Aug 2022 13:59:00 GMT</small>
+<small>⏰ Updated on Mon, 15 Aug 2022 14:00:21 GMT</small>
 </td>
 </tr>
 </tfoot>
