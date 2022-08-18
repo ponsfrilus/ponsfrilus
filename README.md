@@ -103,65 +103,65 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/f031510b2eb17c736e70044314f42c175d6a6ed7" title="2022-08-17T08:50:46.000+02:00" target="_blank">f031510b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[WIP] first commit</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/4fde78f58788e4382ed68bd4a4da8490a44d6f0f" title="2022-08-18T14:23:44.000+02:00" target="_blank">4fde78f5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] babel</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/f6a114c7b6d8a29aaebdf4e03d0cb5638deb894a" title="2022-08-12T14:59:45.000+02:00" target="_blank">f6a114c7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>[feat] add anchor links</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-fleche/commits/7bacf225cf0304a35bba9c557e3b9474974dda13" title="2022-08-18T14:18:31.000+02:00" target="_blank">7bacf225</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur">/kata-fleche</a></strong></div>
+          <pre>[fix] conflicts</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/d886a51025483b75c4160d4572743060dd537a3e" title="2022-08-12T14:10:17.000+02:00" target="_blank">d886a510</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>[css] better screen size breaks</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/dossier-formation/commits/3b74954e04259fbd197b47e5a8bf474410277ca3" title="2022-08-12T13:54:10.000+02:00" target="_blank">3b74954e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC">/dossier-formation</a></strong></div>
-          <pre>[feat] Cascading style sheet in a dedicated file
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-fleche/commits/080eec92ff8434ab8e515de5981ee040b74f8285" title="2022-08-18T14:17:07.000+02:00" target="_blank">080eec92</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur">/kata-fleche</a></strong></div>
+          <pre>Merge pull request #30 from epfl-dojo/dojo-kotlin
 
-Bump version to v1.5.0</pre>
+[kotlin] epfl-dojo</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/40ab53fe3a3bcd09ca3b8e89d195722095f3d5c3" title="2022-08-10T14:41:54.000+02:00" target="_blank">40ab53fe</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
-          <pre>Merge pull request #6 from ponsfrilus/feat/linter
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-fleche/commits/bb2e5b282c5e12d0cdbed7589eba624e9fdfc825" title="2022-08-18T14:12:30.000+02:00" target="_blank">bb2e5b28</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur">/kata-fleche</a></strong></div>
+          <pre>Merge pull request #30 from epfl-dojo/dojo-kotlin
 
-[feat] add ESLint</pre>
+[kotlin] epfl-dojo</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/e40017f7f3b52e7863ed14daa816e33b8865fa24" title="2022-08-10T14:39:28.000+02:00" target="_blank">e40017f7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
-          <pre>[feat] add ESLint</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-fleche/commits/1cb9c1cb3dbcec78d2b8a81ad28c81dec8f6997d" title="2022-08-18T14:11:47.000+02:00" target="_blank">1cb9c1cb</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur">/kata-fleche</a></strong></div>
+          <pre>Merge branch 'master' into dojo-kotlin</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/2395d8d204f73a1204564f3731e8b54e2e4e376e" title="2022-08-10T09:54:26.000+02:00" target="_blank">2395d8d2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
-          <pre>Merge pull request #5 from ponsfrilus/feat/linter
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-fleche/commits/2292e179bfecd958b9733c6e7e9356a325eb13ce" title="2022-08-18T14:08:13.000+02:00" target="_blank">2292e179</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur">/kata-fleche</a></strong></div>
+          <pre>Merge pull request #31 from epfl-dojo/dojo/kotlin
 
-[feat] add ESLint</pre>
+Dojo/kotlin</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/71f037e1648c42d81e22df24e18b5c8d9f3fe907" title="2022-08-10T09:53:50.000+02:00" target="_blank">71f037e1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
-          <pre>[feat] add ESLint</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/dbd5d1b77fe137c9c3fa3775d0d35cb08973146f" title="2022-08-18T12:05:25.000+02:00" target="_blank">dbd5d1b7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] "recherche d'info"</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/b9a000e451bd5e9b5092e1188ffe6820547bd646" title="2022-08-10T09:31:33.000+02:00" target="_blank">b9a000e4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
-          <pre>Merge branch 'D4rkHeart/main'</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/77db45db0e46855dcc3a22b90c94faff26fb03a7" title="2022-08-18T11:51:03.000+02:00" target="_blank">77db45db</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] questions</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/67c7469fec55bb0657e666c6f428e0c3faa97292" title="2022-08-10T09:31:21.000+02:00" target="_blank">67c7469f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="null">/rapport-de-stage</a></strong></div>
-          <pre>Merge branch 'D4rkHeart-main'</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/a43dea28d7deb5292f37fad1b305a9b50c3d781f" title="2022-08-18T11:44:07.000+02:00" target="_blank">a43dea28</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feat] network question</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/1093d495c7ccbc360040edf69edbd9098473f20d" title="2022-08-18T11:43:48.000+02:00" target="_blank">1093d495</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] `<div>`</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 17 Aug 2022 14:05:46 GMT</small>
+<small>⏰ Updated on Thu, 18 Aug 2022 14:00:44 GMT</small>
 </td>
 </tr>
 </tfoot>
