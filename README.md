@@ -103,6 +103,40 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/ad61eaa4bee5919afbdaa386670d17aae9c4a931" title="2022-08-19T11:17:18.000+02:00" target="_blank">ad61eaa4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feat] `authorized_keys` question</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/a2e8b8b803104a87ffcc4a1bc6bc01f0365404dd" title="2022-08-19T11:17:01.000+02:00" target="_blank">a2e8b8b8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] just use `make`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/aa8785f443000c087c306f76d1c71127377b5741" title="2022-08-18T17:26:52.000+02:00" target="_blank">aa8785f4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feat] add URL question</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/8a7dee212d0389d34aa59695b3a312522bd59196" title="2022-08-18T16:48:23.000+02:00" target="_blank">8a7dee21</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] remove weird headers</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/2206fbdde412df70e5deabc9d37069eeefa3b518" title="2022-08-18T16:36:35.000+02:00" target="_blank">2206fbdd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
+          <pre>Merge pull request #10 from epfl-si/fea-add-ofrfsible
+
+[feature] add ofrfsible</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/72c112085c1a627ebc82ffff25486ff682abd917" title="2022-08-18T16:35:48.000+02:00" target="_blank">72c11208</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
+          <pre>Merge pull request #11 from epfl-si/add-archivewebsible
+
+Add archivewebsible</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/4fde78f58788e4382ed68bd4a4da8490a44d6f0f" title="2022-08-18T14:23:44.000+02:00" target="_blank">4fde78f5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[fix] babel</pre>
         </td>
@@ -125,43 +159,11 @@
 
 [kotlin] epfl-dojo</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-fleche/commits/1cb9c1cb3dbcec78d2b8a81ad28c81dec8f6997d" title="2022-08-18T14:11:47.000+02:00" target="_blank">1cb9c1cb</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur">/kata-fleche</a></strong></div>
-          <pre>Merge branch 'master' into dojo-kotlin</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-fleche/commits/2292e179bfecd958b9733c6e7e9356a325eb13ce" title="2022-08-18T14:08:13.000+02:00" target="_blank">2292e179</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur">/kata-fleche</a></strong></div>
-          <pre>Merge pull request #31 from epfl-dojo/dojo/kotlin
-
-Dojo/kotlin</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/dbd5d1b77fe137c9c3fa3775d0d35cb08973146f" title="2022-08-18T12:05:25.000+02:00" target="_blank">dbd5d1b7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] "recherche d'info"</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/77db45db0e46855dcc3a22b90c94faff26fb03a7" title="2022-08-18T11:51:03.000+02:00" target="_blank">77db45db</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] questions</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/a43dea28d7deb5292f37fad1b305a9b50c3d781f" title="2022-08-18T11:44:07.000+02:00" target="_blank">a43dea28</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feat] network question</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/1093d495c7ccbc360040edf69edbd9098473f20d" title="2022-08-18T11:43:48.000+02:00" target="_blank">1093d495</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] `<div>`</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 18 Aug 2022 14:00:44 GMT</small>
+<small>⏰ Updated on Fri, 19 Aug 2022 13:59:06 GMT</small>
 </td>
 </tr>
 </tfoot>
