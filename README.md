@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/searchableguy/hackernews_graphql" title="A full fledged graphql API for hackernews." target="_blank">hackernews_graphql</a>&nbsp;<a href="https://github.com/searchableguy/hackernews_graphql" title="A full fledged graphql API for hackernews." target="_blank"><img src="https://img.shields.io/github/stars/searchableguy/hackernews_graphql?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank">beef</a>&nbsp;<a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank"><img src="https://img.shields.io/github/stars/beefproject/beef?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank">sails</a>&nbsp;<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/balderdashy/sails?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank">dot</a>&nbsp;<a href="https://github.com/sensity-ai/dot" title="The Deepfake Offensive Toolkit" target="_blank"><img src="https://img.shields.io/github/stars/sensity-ai/dot?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/HackerNews/API" title="Documentation and Samples for the Official HN API" target="_blank">API</a>&nbsp;<a href="https://github.com/HackerNews/API" title="Documentation and Samples for the Official HN API" target="_blank"><img src="https://img.shields.io/github/stars/HackerNews/API?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/toeverything/AFFiNE" title="There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. " target="_blank">AFFiNE</a>&nbsp;<a href="https://github.com/toeverything/AFFiNE" title="There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. " target="_blank"><img src="https://img.shields.io/github/stars/toeverything/AFFiNE?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank">mini-TPI</a>&nbsp;<a href="https://github.com/SaphireVert/mini-TPI" title="null" target="_blank"><img src="https://img.shields.io/github/stars/SaphireVert/mini-TPI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank">ENACrestic</a>&nbsp;<a href="https://github.com/EPFL-ENAC/ENACrestic" title="Simplify Ubuntu users to use restic for their desktop backup" target="_blank"><img src="https://img.shields.io/github/stars/EPFL-ENAC/ENACrestic?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -163,7 +163,7 @@ Add archivewebsible</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 19 Aug 2022 13:59:06 GMT</small>
+<small>⏰ Updated on Mon, 22 Aug 2022 13:58:10 GMT</small>
 </td>
 </tr>
 </tfoot>
