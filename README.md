@@ -69,7 +69,7 @@
 <a href="https://github.com/HackerNews/API" title="Documentation and Samples for the Official HN API" target="_blank">API</a>&nbsp;<a href="https://github.com/HackerNews/API" title="Documentation and Samples for the Official HN API" target="_blank"><img src="https://img.shields.io/github/stars/HackerNews/API?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/toeverything/AFFiNE" title="There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. " target="_blank">AFFiNE</a>&nbsp;<a href="https://github.com/toeverything/AFFiNE" title="There can be more than Notion and Miro. Affine is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. " target="_blank"><img src="https://img.shields.io/github/stars/toeverything/AFFiNE?style=social" alt="GitHub"></a>
+<a href="https://github.com/toeverything/AFFiNE" title="There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. " target="_blank">AFFiNE</a>&nbsp;<a href="https://github.com/toeverything/AFFiNE" title="There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. " target="_blank"><img src="https://img.shields.io/github/stars/toeverything/AFFiNE?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/charmbracelet/gum" title="A tool for glamorous shell scripts 🎀" target="_blank">gum</a>&nbsp;<a href="https://github.com/charmbracelet/gum" title="A tool for glamorous shell scripts 🎀" target="_blank"><img src="https://img.shields.io/github/stars/charmbracelet/gum?style=social" alt="GitHub"></a>
@@ -163,7 +163,7 @@ Add archivewebsible</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 22 Aug 2022 13:58:10 GMT</small>
+<small>⏰ Updated on Tue, 23 Aug 2022 13:57:46 GMT</small>
 </td>
 </tr>
 </tfoot>
