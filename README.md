@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/e1f1af66baaa75b819f58babf37076229d47d2d4" title="2022-08-24T10:44:54.000+02:00" target="_blank">e1f1af66</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] minor reorg</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/d67ea303c26106fb66ffc6cb29487b40edffadab" title="2022-08-24T08:11:41.000+02:00" target="_blank">d67ea303</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] itemize</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/ad61eaa4bee5919afbdaa386670d17aae9c4a931" title="2022-08-19T11:17:18.000+02:00" target="_blank">ad61eaa4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[feat] `authorized_keys` question</pre>
         </td>
@@ -145,25 +155,11 @@ Add archivewebsible</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-fleche/commits/7bacf225cf0304a35bba9c557e3b9474974dda13" title="2022-08-18T14:18:31.000+02:00" target="_blank">7bacf225</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur">/kata-fleche</a></strong></div>
           <pre>[fix] conflicts</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-fleche/commits/080eec92ff8434ab8e515de5981ee040b74f8285" title="2022-08-18T14:17:07.000+02:00" target="_blank">080eec92</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur">/kata-fleche</a></strong></div>
-          <pre>Merge pull request #30 from epfl-dojo/dojo-kotlin
-
-[kotlin] epfl-dojo</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-fleche/commits/bb2e5b282c5e12d0cdbed7589eba624e9fdfc825" title="2022-08-18T14:12:30.000+02:00" target="_blank">bb2e5b28</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur">/kata-fleche</a></strong></div>
-          <pre>Merge pull request #30 from epfl-dojo/dojo-kotlin
-
-[kotlin] epfl-dojo</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 23 Aug 2022 13:57:46 GMT</small>
+<small>⏰ Updated on Wed, 24 Aug 2022 13:56:31 GMT</small>
 </td>
 </tr>
 </tfoot>
