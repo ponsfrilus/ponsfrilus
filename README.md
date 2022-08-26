@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/tmux/tmux" title="tmux source code" target="_blank">tmux</a>&nbsp;<a href="https://github.com/tmux/tmux" title="tmux source code" target="_blank"><img src="https://img.shields.io/github/stars/tmux/tmux?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/searchableguy/hackernews_graphql" title="A full fledged graphql API for hackernews." target="_blank">hackernews_graphql</a>&nbsp;<a href="https://github.com/searchableguy/hackernews_graphql" title="A full fledged graphql API for hackernews." target="_blank"><img src="https://img.shields.io/github/stars/searchableguy/hackernews_graphql?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank">beef</a>&nbsp;<a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank"><img src="https://img.shields.io/github/stars/beefproject/beef?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank">explain8601</a>&nbsp;<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank"><img src="https://img.shields.io/github/stars/dokutan/explain8601?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank">fresh</a>&nbsp;<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank"><img src="https://img.shields.io/github/stars/denoland/fresh?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank">basscss</a>&nbsp;<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank"><img src="https://img.shields.io/github/stars/basscss/basscss?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank">htmx</a>&nbsp;<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank"><img src="https://img.shields.io/github/stars/bigskysoftware/htmx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank">website</a>&nbsp;<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank"><img src="https://img.shields.io/github/stars/zws-im/website?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank">magic</a>&nbsp;<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank"><img src="https://img.shields.io/github/stars/nettlep/magic?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/H-M-H/Weylus" title="Use your tablet as graphic tablet/touch screen on your computer." target="_blank">Weylus</a>&nbsp;<a href="https://github.com/H-M-H/Weylus" title="Use your tablet as graphic tablet/touch screen on your computer." target="_blank"><img src="https://img.shields.io/github/stars/H-M-H/Weylus?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/hackclub/some-assembly-required" title="An approachable introduction to assembly." target="_blank">some-assembly-required</a>&nbsp;<a href="https://github.com/hackclub/some-assembly-required" title="An approachable introduction to assembly." target="_blank"><img src="https://img.shields.io/github/stars/hackclub/some-assembly-required?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/searchableguy/hackernews_graphql" title="A full fledged graphql API for hackernews." target="_blank">hackernews_graphql</a>&nbsp;<a href="https://github.com/searchableguy/hackernews_graphql" title="A full fledged graphql API for hackernews." target="_blank"><img src="https://img.shields.io/github/stars/searchableguy/hackernews_graphql?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank">beef</a>&nbsp;<a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank"><img src="https://img.shields.io/github/stars/beefproject/beef?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank">explain8601</a>&nbsp;<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank"><img src="https://img.shields.io/github/stars/dokutan/explain8601?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank">fresh</a>&nbsp;<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank"><img src="https://img.shields.io/github/stars/denoland/fresh?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank">basscss</a>&nbsp;<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank"><img src="https://img.shields.io/github/stars/basscss/basscss?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank">htmx</a>&nbsp;<a href="https://github.com/bigskysoftware/htmx" title="</> htmx - high power tools for HTML" target="_blank"><img src="https://img.shields.io/github/stars/bigskysoftware/htmx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank">website</a>&nbsp;<a href="https://github.com/zws-im/website" title="Website for ZWS" target="_blank"><img src="https://img.shields.io/github/stars/zws-im/website?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank">magic</a>&nbsp;<a href="https://github.com/nettlep/magic" title="Scanner for decks of cards with bar codes printed on card edges" target="_blank"><img src="https://img.shields.io/github/stars/nettlep/magic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank">sails</a>&nbsp;<a href="https://github.com/balderdashy/sails" title="Realtime MVC Framework for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/balderdashy/sails?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -159,7 +159,7 @@ Add archivewebsible</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 25 Aug 2022 13:59:50 GMT</small>
+<small>⏰ Updated on Fri, 26 Aug 2022 13:54:30 GMT</small>
 </td>
 </tr>
 </tfoot>
