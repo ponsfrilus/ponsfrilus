@@ -103,63 +103,61 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/e1f1af66baaa75b819f58babf37076229d47d2d4" title="2022-08-24T10:44:54.000+02:00" target="_blank">e1f1af66</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] minor reorg</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/33cf60dff650b9b684a7799e18b83ee96960312b" title="2022-09-06T01:36:11.000+02:00" target="_blank">33cf60df</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
+          <pre>[doc] Add some explanations</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/d67ea303c26106fb66ffc6cb29487b40edffadab" title="2022-08-24T08:11:41.000+02:00" target="_blank">d67ea303</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] itemize</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/395deed6416a5cba0c644ef9df4aa404c0ef2fde" title="2022-09-06T01:10:59.000+02:00" target="_blank">395deed6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
+          <pre>[feature](WIP) Remove lockscreen when logged with student</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/ad61eaa4bee5919afbdaa386670d17aae9c4a931" title="2022-08-19T11:17:18.000+02:00" target="_blank">ad61eaa4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feat] `authorized_keys` question</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/5b6023b75e3ad96ac4573de98cbe02103c064c93" title="2022-09-06T01:10:38.000+02:00" target="_blank">5b6023b7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
+          <pre>[feature](WIP) Guest Additions</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/a2e8b8b803104a87ffcc4a1bc6bc01f0365404dd" title="2022-08-19T11:17:01.000+02:00" target="_blank">a2e8b8b8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] just use `make`</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/61139db5e8a542106f0088658c450ff23d3f077e" title="2022-09-06T01:10:20.000+02:00" target="_blank">61139db5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
+          <pre>[feature](WIP) Add shortcut on Desktop</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/aa8785f443000c087c306f76d1c71127377b5741" title="2022-08-18T17:26:52.000+02:00" target="_blank">aa8785f4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feat] add URL question</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/8a7dee212d0389d34aa59695b3a312522bd59196" title="2022-08-18T16:48:23.000+02:00" target="_blank">8a7dee21</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] remove weird headers</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/2206fbdde412df70e5deabc9d37069eeefa3b518" title="2022-08-18T16:36:35.000+02:00" target="_blank">2206fbdd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
-          <pre>Merge pull request #10 from epfl-si/fea-add-ofrfsible
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/ee56694ea08e397b4d6761f7c9efbbe582cb0fa4" title="2022-09-06T01:09:42.000+02:00" target="_blank">ee56694e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
+          <pre>[feature](WIP) Add Dash's docset to Zeal
 
-[feature] add ofrfsible</pre>
+- PermaYellow to be fixed</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/72c112085c1a627ebc82ffff25486ff682abd917" title="2022-08-18T16:35:48.000+02:00" target="_blank">72c11208</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
-          <pre>Merge pull request #11 from epfl-si/add-archivewebsible
-
-Add archivewebsible</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/5d40a340c87bcf10b2ae29bc0ba6eefb22bf1f7d" title="2022-09-06T01:09:00.000+02:00" target="_blank">5d40a340</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
+          <pre>[feature] Add package to atom</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/4fde78f58788e4382ed68bd4a4da8490a44d6f0f" title="2022-08-18T14:23:44.000+02:00" target="_blank">4fde78f5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] babel</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/4f40e7e4158f2c54f1ccd6d395d3b7dd3efd391c" title="2022-09-06T01:08:20.000+02:00" target="_blank">4f40e7e4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
+          <pre>[feature] Configure Apache's vhosts to serve Trade17 files</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-fleche/commits/7bacf225cf0304a35bba9c557e3b9474974dda13" title="2022-08-18T14:18:31.000+02:00" target="_blank">7bacf225</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur">/kata-fleche</a></strong></div>
-          <pre>[fix] conflicts</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/5d2570c4c1acccb203e5e6374350e7971208f7c2" title="2022-09-06T01:07:15.000+02:00" target="_blank">5d2570c4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
+          <pre>[feature] Donwload the Trade17 documents</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/b36835101c5c0a8dd7f85906e63ef0c546981df4" title="2022-09-06T01:04:58.000+02:00" target="_blank">b3683510</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
+          <pre>[feature] Remove administrator from the list of the users login</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/059adb5446bf3bec7c704f48ff55a6aa8c4d232b" title="2022-09-06T01:04:36.000+02:00" target="_blank">059adb54</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
+          <pre>[feature] Enable automatic login</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 05 Sep 2022 14:01:42 GMT</small>
+<small>⏰ Updated on Tue, 06 Sep 2022 14:02:31 GMT</small>
 </td>
 </tr>
 </tfoot>
