@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/HRDepartment/archivetoday" title="Unofficial API and CLI for archive.today." target="_blank">archivetoday</a>&nbsp;<a href="https://github.com/HRDepartment/archivetoday" title="Unofficial API and CLI for archive.today." target="_blank"><img src="https://img.shields.io/github/stars/HRDepartment/archivetoday?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/audacity/audacity" title="Audio Editor                                     " target="_blank">audacity</a>&nbsp;<a href="https://github.com/audacity/audacity" title="Audio Editor                                     " target="_blank"><img src="https://img.shields.io/github/stars/audacity/audacity?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/aws-samples/aws-secret-sidecar-injector" title="Kubernetes mutating webhook to fetch secrets from AWS Secrets Manager" target="_blank">aws-secret-sidecar-injector</a>&nbsp;<a href="https://github.com/aws-samples/aws-secret-sidecar-injector" title="Kubernetes mutating webhook to fetch secrets from AWS Secrets Manager" target="_blank"><img src="https://img.shields.io/github/stars/aws-samples/aws-secret-sidecar-injector?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/MithrilJS/mithril.js" title="A JavaScript Framework for Building Brilliant Applications" target="_blank">mithril.js</a>&nbsp;<a href="https://github.com/MithrilJS/mithril.js" title="A JavaScript Framework for Building Brilliant Applications" target="_blank"><img src="https://img.shields.io/github/stars/MithrilJS/mithril.js?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/lunatic-solutions/lunatic" title="Lunatic is an Erlang-inspired runtime for WebAssembly" target="_blank">lunatic</a>&nbsp;<a href="https://github.com/lunatic-solutions/lunatic" title="Lunatic is an Erlang-inspired runtime for WebAssembly" target="_blank"><img src="https://img.shields.io/github/stars/lunatic-solutions/lunatic?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/openshiporg/openship" title="multi-channel fulfillment at scale" target="_blank">openship</a>&nbsp;<a href="https://github.com/openshiporg/openship" title="multi-channel fulfillment at scale" target="_blank"><img src="https://img.shields.io/github/stars/openshiporg/openship?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank">fresh</a>&nbsp;<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank"><img src="https://img.shields.io/github/stars/denoland/fresh?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank">basscss</a>&nbsp;<a href="https://github.com/basscss/basscss" title="Low-level CSS Toolkit – the original Functional/Utility/Atomic CSS library" target="_blank"><img src="https://img.shields.io/github/stars/basscss/basscss?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -103,8 +103,24 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/14e59a332405e0dccf0e9963d401c161cb16ca87" title="2022-09-06T19:10:18.000+02:00" target="_blank">14e59a33</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
+          <pre>Merge pull request #12 from epfl-si/doc/new-suitcases
+
+[doc] New suitcases</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/33cf60dff650b9b684a7799e18b83ee96960312b" title="2022-09-06T01:36:11.000+02:00" target="_blank">33cf60df</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
           <pre>[doc] Add some explanations</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/8ca51e51514dd9810ddbbb50b76c5a0c70ae2bfc" title="2022-09-06T01:29:35.000+02:00" target="_blank">8ca51e51</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
+          <pre>[doc] New suitcases
+
+* Add `xassible`
+* Add `skillsible`
+* Sort `apprsible`</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -143,21 +159,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/5d2570c4c1acccb203e5e6374350e7971208f7c2" title="2022-09-06T01:07:15.000+02:00" target="_blank">5d2570c4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
           <pre>[feature] Donwload the Trade17 documents</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/b36835101c5c0a8dd7f85906e63ef0c546981df4" title="2022-09-06T01:04:58.000+02:00" target="_blank">b3683510</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
-          <pre>[feature] Remove administrator from the list of the users login</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/059adb5446bf3bec7c704f48ff55a6aa8c4d232b" title="2022-09-06T01:04:36.000+02:00" target="_blank">059adb54</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
-          <pre>[feature] Enable automatic login</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 06 Sep 2022 14:02:31 GMT</small>
+<small>⏰ Updated on Wed, 07 Sep 2022 14:13:06 GMT</small>
 </td>
 </tr>
 </tfoot>
