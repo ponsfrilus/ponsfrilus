@@ -103,15 +103,35 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/0a62993b2bf4531a4319df093b06a96c7151c9e3" title="2022-09-07T18:15:35.000+02:00" target="_blank">0a62993b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
+          <pre>[doc] fix list and add INSTALL.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/9728c165bf7104e17c2f3ca593aa6509c6d0fb62" title="2022-09-07T17:43:30.000+02:00" target="_blank">9728c165</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
+          <pre>[fix] attempt for --local</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/a0806f7bf1d7a36289472a661e3c40522dda238d" title="2022-09-07T17:43:18.000+02:00" target="_blank">a0806f7b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
+          <pre>[fix] split the inventories</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/a6d302d2b5ecf545beac4b09ab9f154945735f61" title="2022-09-07T17:42:53.000+02:00" target="_blank">a6d302d2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
+          <pre>[doc] screenshot of VM creation</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/4a7e54f5a7662678b1f8fdd4f8e4fd79cd1d5540" title="2022-09-07T17:42:15.000+02:00" target="_blank">4a7e54f5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
+          <pre>[doc] Add some explanations</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/14e59a332405e0dccf0e9963d401c161cb16ca87" title="2022-09-06T19:10:18.000+02:00" target="_blank">14e59a33</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
           <pre>Merge pull request #12 from epfl-si/doc/new-suitcases
 
 [doc] New suitcases</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/33cf60dff650b9b684a7799e18b83ee96960312b" title="2022-09-06T01:36:11.000+02:00" target="_blank">33cf60df</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
-          <pre>[doc] Add some explanations</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -137,33 +157,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/61139db5e8a542106f0088658c450ff23d3f077e" title="2022-09-06T01:10:20.000+02:00" target="_blank">61139db5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
           <pre>[feature](WIP) Add shortcut on Desktop</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/ee56694ea08e397b4d6761f7c9efbbe582cb0fa4" title="2022-09-06T01:09:42.000+02:00" target="_blank">ee56694e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
-          <pre>[feature](WIP) Add Dash's docset to Zeal
-
-- PermaYellow to be fixed</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/5d40a340c87bcf10b2ae29bc0ba6eefb22bf1f7d" title="2022-09-06T01:09:00.000+02:00" target="_blank">5d40a340</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
-          <pre>[feature] Add package to atom</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/4f40e7e4158f2c54f1ccd6d395d3b7dd3efd391c" title="2022-09-06T01:08:20.000+02:00" target="_blank">4f40e7e4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
-          <pre>[feature] Configure Apache's vhosts to serve Trade17 files</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/5d2570c4c1acccb203e5e6374350e7971208f7c2" title="2022-09-06T01:07:15.000+02:00" target="_blank">5d2570c4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
-          <pre>[feature] Donwload the Trade17 documents</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 07 Sep 2022 14:13:06 GMT</small>
+<small>⏰ Updated on Thu, 08 Sep 2022 13:52:16 GMT</small>
 </td>
 </tr>
 </tfoot>
