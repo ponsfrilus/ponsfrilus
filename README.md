@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/mdn/markdown" title="MDN Web Docs tool to covert HTML to Markdown" target="_blank">markdown</a>&nbsp;<a href="https://github.com/mdn/markdown" title="MDN Web Docs tool to covert HTML to Markdown" target="_blank"><img src="https://img.shields.io/github/stars/mdn/markdown?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lunatic-solutions/lunatic" title="Lunatic is an Erlang-inspired runtime for WebAssembly" target="_blank">lunatic</a>&nbsp;<a href="https://github.com/lunatic-solutions/lunatic" title="Lunatic is an Erlang-inspired runtime for WebAssembly" target="_blank"><img src="https://img.shields.io/github/stars/lunatic-solutions/lunatic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/openshiporg/openship" title="multi-channel fulfillment at scale" target="_blank">openship</a>&nbsp;<a href="https://github.com/openshiporg/openship" title="multi-channel fulfillment at scale" target="_blank"><img src="https://img.shields.io/github/stars/openshiporg/openship?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/highsource/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank">confluence-to-markdown-converter</a>&nbsp;<a href="https://github.com/highsource/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank"><img src="https://img.shields.io/github/stars/highsource/confluence-to-markdown-converter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/antonmedv/fx" title="Terminal JSON viewer" target="_blank">fx</a>&nbsp;<a href="https://github.com/antonmedv/fx" title="Terminal JSON viewer" target="_blank"><img src="https://img.shields.io/github/stars/antonmedv/fx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tmux/tmux" title="tmux source code" target="_blank">tmux</a>&nbsp;<a href="https://github.com/tmux/tmux" title="tmux source code" target="_blank"><img src="https://img.shields.io/github/stars/tmux/tmux?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/searchableguy/hackernews_graphql" title="A full fledged graphql API for hackernews." target="_blank">hackernews_graphql</a>&nbsp;<a href="https://github.com/searchableguy/hackernews_graphql" title="A full fledged graphql API for hackernews." target="_blank"><img src="https://img.shields.io/github/stars/searchableguy/hackernews_graphql?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank">beef</a>&nbsp;<a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank"><img src="https://img.shields.io/github/stars/beefproject/beef?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank">explain8601</a>&nbsp;<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank"><img src="https://img.shields.io/github/stars/dokutan/explain8601?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/HRDepartment/archivetoday" title="Unofficial API and CLI for archive.today." target="_blank">archivetoday</a>&nbsp;<a href="https://github.com/HRDepartment/archivetoday" title="Unofficial API and CLI for archive.today." target="_blank"><img src="https://img.shields.io/github/stars/HRDepartment/archivetoday?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/aws-samples/aws-secret-sidecar-injector" title="Kubernetes mutating webhook to fetch secrets from AWS Secrets Manager" target="_blank">aws-secret-sidecar-injector</a>&nbsp;<a href="https://github.com/aws-samples/aws-secret-sidecar-injector" title="Kubernetes mutating webhook to fetch secrets from AWS Secrets Manager" target="_blank"><img src="https://img.shields.io/github/stars/aws-samples/aws-secret-sidecar-injector?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/lunatic-solutions/lunatic" title="Lunatic is an Erlang-inspired runtime for WebAssembly" target="_blank">lunatic</a>&nbsp;<a href="https://github.com/lunatic-solutions/lunatic" title="Lunatic is an Erlang-inspired runtime for WebAssembly" target="_blank"><img src="https://img.shields.io/github/stars/lunatic-solutions/lunatic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/openshiporg/openship" title="multi-channel fulfillment at scale" target="_blank">openship</a>&nbsp;<a href="https://github.com/openshiporg/openship" title="multi-channel fulfillment at scale" target="_blank"><img src="https://img.shields.io/github/stars/openshiporg/openship?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/highsource/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank">confluence-to-markdown-converter</a>&nbsp;<a href="https://github.com/highsource/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank"><img src="https://img.shields.io/github/stars/highsource/confluence-to-markdown-converter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/antonmedv/fx" title="Terminal JSON viewer" target="_blank">fx</a>&nbsp;<a href="https://github.com/antonmedv/fx" title="Terminal JSON viewer" target="_blank"><img src="https://img.shields.io/github/stars/antonmedv/fx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tmux/tmux" title="tmux source code" target="_blank">tmux</a>&nbsp;<a href="https://github.com/tmux/tmux" title="tmux source code" target="_blank"><img src="https://img.shields.io/github/stars/tmux/tmux?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/searchableguy/hackernews_graphql" title="A full fledged graphql API for hackernews." target="_blank">hackernews_graphql</a>&nbsp;<a href="https://github.com/searchableguy/hackernews_graphql" title="A full fledged graphql API for hackernews." target="_blank"><img src="https://img.shields.io/github/stars/searchableguy/hackernews_graphql?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank">beef</a>&nbsp;<a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank"><img src="https://img.shields.io/github/stars/beefproject/beef?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank">explain8601</a>&nbsp;<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank"><img src="https://img.shields.io/github/stars/dokutan/explain8601?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank">fresh</a>&nbsp;<a href="https://github.com/denoland/fresh" title="The next-gen web framework." target="_blank"><img src="https://img.shields.io/github/stars/denoland/fresh?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -161,7 +161,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 08 Sep 2022 13:52:16 GMT</small>
+<small>⏰ Updated on Fri, 09 Sep 2022 14:06:22 GMT</small>
 </td>
 </tr>
 </tfoot>
