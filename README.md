@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/mozilla/sops" title="Simple and flexible tool for managing secrets" target="_blank">sops</a>&nbsp;<a href="https://github.com/mozilla/sops" title="Simple and flexible tool for managing secrets" target="_blank"><img src="https://img.shields.io/github/stars/mozilla/sops?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/mdn/markdown" title="MDN Web Docs tool to covert HTML to Markdown" target="_blank">markdown</a>&nbsp;<a href="https://github.com/mdn/markdown" title="MDN Web Docs tool to covert HTML to Markdown" target="_blank"><img src="https://img.shields.io/github/stars/mdn/markdown?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank">explain8601</a>&nbsp;<a href="https://github.com/dokutan/explain8601" title="Convert an ISO 8601 expression to a human readable description" target="_blank"><img src="https://img.shields.io/github/stars/dokutan/explain8601?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/oras-project/oras" title="Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM" target="_blank">oras</a>&nbsp;<a href="https://github.com/oras-project/oras" title="Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM" target="_blank"><img src="https://img.shields.io/github/stars/oras-project/oras?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/HRDepartment/archivetoday" title="Unofficial API and CLI for archive.today." target="_blank">archivetoday</a>&nbsp;<a href="https://github.com/HRDepartment/archivetoday" title="Unofficial API and CLI for archive.today." target="_blank"><img src="https://img.shields.io/github/stars/HRDepartment/archivetoday?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/charmbracelet/gum" title="A tool for glamorous shell scripts 🎀" target="_blank">gum</a>&nbsp;<a href="https://github.com/charmbracelet/gum" title="A tool for glamorous shell scripts 🎀" target="_blank"><img src="https://img.shields.io/github/stars/charmbracelet/gum?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/aws-samples/aws-secret-sidecar-injector" title="Kubernetes mutating webhook to fetch secrets from AWS Secrets Manager" target="_blank">aws-secret-sidecar-injector</a>&nbsp;<a href="https://github.com/aws-samples/aws-secret-sidecar-injector" title="Kubernetes mutating webhook to fetch secrets from AWS Secrets Manager" target="_blank"><img src="https://img.shields.io/github/stars/aws-samples/aws-secret-sidecar-injector?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -103,65 +103,59 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/0a62993b2bf4531a4319df093b06a96c7151c9e3" title="2022-09-07T18:15:35.000+02:00" target="_blank">0a62993b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
-          <pre>[doc] fix list and add INSTALL.md</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/31a469fe3aaa27957c0b1a0047d9a1e55a461dd9" title="2022-09-13T12:11:17.000+02:00" target="_blank">31a469fe</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] instructions</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/9728c165bf7104e17c2f3ca593aa6509c6d0fb62" title="2022-09-07T17:43:30.000+02:00" target="_blank">9728c165</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
-          <pre>[fix] attempt for --local</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/36e70a5a34bec88c0be15052ffb3eb9971742faa" title="2022-09-13T12:04:53.000+02:00" target="_blank">36e70a5a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[refactor] struc</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/a0806f7bf1d7a36289472a661e3c40522dda238d" title="2022-09-07T17:43:18.000+02:00" target="_blank">a0806f7b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
-          <pre>[fix] split the inventories</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/e902a6c65db29154c2fb521a4f4301b874076f3d" title="2022-09-13T12:00:18.000+02:00" target="_blank">e902a6c6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feature] auto-check</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/a6d302d2b5ecf545beac4b09ab9f154945735f61" title="2022-09-07T17:42:53.000+02:00" target="_blank">a6d302d2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
-          <pre>[doc] screenshot of VM creation</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/187ecc2e943aca4a479cfb40e6cd4bf7ff3f50fc" title="2022-09-13T11:49:16.000+02:00" target="_blank">187ecc2e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[refactor] `ex1` → `code_samples`</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/4a7e54f5a7662678b1f8fdd4f8e4fd79cd1d5540" title="2022-09-07T17:42:15.000+02:00" target="_blank">4a7e54f5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
-          <pre>[doc] Add some explanations</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/23792722f20f61af7b2362305c045b9828cf4122" title="2022-09-13T10:49:21.000+02:00" target="_blank">23792722</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[welcome] domq</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/14e59a332405e0dccf0e9963d401c161cb16ca87" title="2022-09-06T19:10:18.000+02:00" target="_blank">14e59a33</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
-          <pre>Merge pull request #12 from epfl-si/doc/new-suitcases
-
-[doc] New suitcases</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/5662b401c2319f93a530c10f0666d538df262f53" title="2022-09-13T10:49:10.000+02:00" target="_blank">5662b401</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feature] add draft page</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/8ca51e51514dd9810ddbbb50b76c5a0c70ae2bfc" title="2022-09-06T01:29:35.000+02:00" target="_blank">8ca51e51</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
-          <pre>[doc] New suitcases
-
-* Add `xassible`
-* Add `skillsible`
-* Sort `apprsible`</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/0672d59e412818ad3095cbaa79967bda5d2c9142" title="2022-09-13T10:48:47.000+02:00" target="_blank">0672d59e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] search on a new page</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/395deed6416a5cba0c644ef9df4aa404c0ef2fde" title="2022-09-06T01:10:59.000+02:00" target="_blank">395deed6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
-          <pre>[feature](WIP) Remove lockscreen when logged with student</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/3e18e4791d2687d488901fe87cf0fa5d89babf4e" title="2022-09-12T22:22:32.000+02:00" target="_blank">3e18e479</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[doc] README.md</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/5b6023b75e3ad96ac4573de98cbe02103c064c93" title="2022-09-06T01:10:38.000+02:00" target="_blank">5b6023b7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
-          <pre>[feature](WIP) Guest Additions</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/257d9e288e99a0ad89021fd25af9473e6fc21596" title="2022-09-12T22:08:03.000+02:00" target="_blank">257d9e28</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] ortho / alignment</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/swissskills.ops/commits/61139db5e8a542106f0088658c450ff23d3f077e" title="2022-09-06T01:10:20.000+02:00" target="_blank">61139db5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/swissskills.ops" title="null">/swissskills.ops</a></strong></div>
-          <pre>[feature](WIP) Add shortcut on Desktop</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/b6c36c1df5600d1e488c395e9ddbe24b748e71e3" title="2022-09-12T22:00:26.000+02:00" target="_blank">b6c36c1d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feature] auto-checker</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 12 Sep 2022 14:06:32 GMT</small>
+<small>⏰ Updated on Tue, 13 Sep 2022 14:09:40 GMT</small>
 </td>
 </tr>
 </tfoot>
