@@ -103,6 +103,31 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/6e07963d6a7db2fad301dd013806f28840467c23" title="2022-09-14T18:12:25.000+02:00" target="_blank">6e07963d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[add] programs to validate</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/3ee08293900b520cc15806c8e18df8da32b9899c" title="2022-09-14T18:01:44.000+02:00" target="_blank">3ee08293</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] odd/even percentage</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/fcc3adaa1358b2f3be1214a789367949f9b5de77" title="2022-09-14T17:10:41.000+02:00" target="_blank">fcc3adaa</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feat] one more check</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/6555b6e8f571dad3cefba33997f6b8442bc6266c" title="2022-09-14T17:08:05.000+02:00" target="_blank">6555b6e8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] even</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/54893a51bd5b96d7c7f030334e18078081a3ae0d" title="2022-09-14T16:44:29.000+02:00" target="_blank">54893a51</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] email</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/31a469fe3aaa27957c0b1a0047d9a1e55a461dd9" title="2022-09-13T12:11:17.000+02:00" target="_blank">31a469fe</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[fix] instructions</pre>
         </td>
@@ -126,36 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/23792722f20f61af7b2362305c045b9828cf4122" title="2022-09-13T10:49:21.000+02:00" target="_blank">23792722</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[welcome] domq</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/5662b401c2319f93a530c10f0666d538df262f53" title="2022-09-13T10:49:10.000+02:00" target="_blank">5662b401</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] add draft page</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/0672d59e412818ad3095cbaa79967bda5d2c9142" title="2022-09-13T10:48:47.000+02:00" target="_blank">0672d59e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] search on a new page</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/3e18e4791d2687d488901fe87cf0fa5d89babf4e" title="2022-09-12T22:22:32.000+02:00" target="_blank">3e18e479</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[doc] README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/257d9e288e99a0ad89021fd25af9473e6fc21596" title="2022-09-12T22:08:03.000+02:00" target="_blank">257d9e28</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] ortho / alignment</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/b6c36c1df5600d1e488c395e9ddbe24b748e71e3" title="2022-09-12T22:00:26.000+02:00" target="_blank">b6c36c1d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] auto-checker</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 14 Sep 2022 14:14:00 GMT</small>
+<small>⏰ Updated on Thu, 15 Sep 2022 14:10:43 GMT</small>
 </td>
 </tr>
 </tfoot>
