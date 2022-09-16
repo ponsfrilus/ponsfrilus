@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/dandavison/delta" title="A syntax-highlighting pager for git, diff, and grep output" target="_blank">delta</a>&nbsp;<a href="https://github.com/dandavison/delta" title="A syntax-highlighting pager for git, diff, and grep output" target="_blank"><img src="https://img.shields.io/github/stars/dandavison/delta?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/layerhub-io/react-design-editor" title="Image, Presentation and Video editor. React design editor using fabric.js. Canva clone" target="_blank">react-design-editor</a>&nbsp;<a href="https://github.com/layerhub-io/react-design-editor" title="Image, Presentation and Video editor. React design editor using fabric.js. Canva clone" target="_blank"><img src="https://img.shields.io/github/stars/layerhub-io/react-design-editor?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/oras-project/oras" title="Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM" target="_blank">oras</a>&nbsp;<a href="https://github.com/oras-project/oras" title="Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM" target="_blank"><img src="https://img.shields.io/github/stars/oras-project/oras?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/HRDepartment/archivetoday" title="Unofficial API and CLI for archive.today." target="_blank">archivetoday</a>&nbsp;<a href="https://github.com/HRDepartment/archivetoday" title="Unofficial API and CLI for archive.today." target="_blank"><img src="https://img.shields.io/github/stars/HRDepartment/archivetoday?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/audacity/audacity" title="Audio Editor                                     " target="_blank">audacity</a>&nbsp;<a href="https://github.com/audacity/audacity" title="Audio Editor                                     " target="_blank"><img src="https://img.shields.io/github/stars/audacity/audacity?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/skills17/competitor-vm-ubuntu" title="Ubuntu VM for competitors" target="_blank">competitor-vm-ubuntu</a>&nbsp;<a href="https://github.com/skills17/competitor-vm-ubuntu" title="Ubuntu VM for competitors" target="_blank"><img src="https://img.shields.io/github/stars/skills17/competitor-vm-ubuntu?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/oberlies/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank">confluence-to-markdown-converter</a>&nbsp;<a href="https://github.com/oberlies/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank"><img src="https://img.shields.io/github/stars/oberlies/confluence-to-markdown-converter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/AykutSarac/jsoncrack.com" title="🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!" target="_blank">jsoncrack.com</a>&nbsp;<a href="https://github.com/AykutSarac/jsoncrack.com" title="🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!" target="_blank"><img src="https://img.shields.io/github/stars/AykutSarac/jsoncrack.com?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/H-M-H/Weylus" title="Use your tablet as graphic tablet/touch screen on your computer." target="_blank">Weylus</a>&nbsp;<a href="https://github.com/H-M-H/Weylus" title="Use your tablet as graphic tablet/touch screen on your computer." target="_blank"><img src="https://img.shields.io/github/stars/H-M-H/Weylus?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/HackerNews/API" title="Documentation and Samples for the Official HN API" target="_blank">API</a>&nbsp;<a href="https://github.com/HackerNews/API" title="Documentation and Samples for the Official HN API" target="_blank"><img src="https://img.shields.io/github/stars/HackerNews/API?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank">v2</a>&nbsp;<a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank"><img src="https://img.shields.io/github/stars/miniflux/v2?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/mozilla/sops" title="Simple and flexible tool for managing secrets" target="_blank">sops</a>&nbsp;<a href="https://github.com/mozilla/sops" title="Simple and flexible tool for managing secrets" target="_blank"><img src="https://img.shields.io/github/stars/mozilla/sops?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,43 +95,6 @@
 <li>
 <a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank">beef</a>&nbsp;<a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank"><img src="https://img.shields.io/github/stars/beefproject/beef?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank">dossier-formation</a>&nbsp;<a href="https://github.com/ponsfrilus/dossier-formation" title="Site pour le dossier de formation des apprentis informaticiens CFC" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/dossier-formation?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/oras-project/oras" title="Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM" target="_blank">oras</a>&nbsp;<a href="https://github.com/oras-project/oras" title="Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM" target="_blank"><img src="https://img.shields.io/github/stars/oras-project/oras?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HRDepartment/archivetoday" title="Unofficial API and CLI for archive.today." target="_blank">archivetoday</a>&nbsp;<a href="https://github.com/HRDepartment/archivetoday" title="Unofficial API and CLI for archive.today." target="_blank"><img src="https://img.shields.io/github/stars/HRDepartment/archivetoday?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/audacity/audacity" title="Audio Editor                                     " target="_blank">audacity</a>&nbsp;<a href="https://github.com/audacity/audacity" title="Audio Editor                                     " target="_blank"><img src="https://img.shields.io/github/stars/audacity/audacity?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/skills17/competitor-vm-ubuntu" title="Ubuntu VM for competitors" target="_blank">competitor-vm-ubuntu</a>&nbsp;<a href="https://github.com/skills17/competitor-vm-ubuntu" title="Ubuntu VM for competitors" target="_blank"><img src="https://img.shields.io/github/stars/skills17/competitor-vm-ubuntu?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/oberlies/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank">confluence-to-markdown-converter</a>&nbsp;<a href="https://github.com/oberlies/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank"><img src="https://img.shields.io/github/stars/oberlies/confluence-to-markdown-converter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/AykutSarac/jsoncrack.com" title="🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!" target="_blank">jsoncrack.com</a>&nbsp;<a href="https://github.com/AykutSarac/jsoncrack.com" title="🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!" target="_blank"><img src="https://img.shields.io/github/stars/AykutSarac/jsoncrack.com?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/H-M-H/Weylus" title="Use your tablet as graphic tablet/touch screen on your computer." target="_blank">Weylus</a>&nbsp;<a href="https://github.com/H-M-H/Weylus" title="Use your tablet as graphic tablet/touch screen on your computer." target="_blank"><img src="https://img.shields.io/github/stars/H-M-H/Weylus?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HackerNews/API" title="Documentation and Samples for the Official HN API" target="_blank">API</a>&nbsp;<a href="https://github.com/HackerNews/API" title="Documentation and Samples for the Official HN API" target="_blank"><img src="https://img.shields.io/github/stars/HackerNews/API?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/toeverything/AFFiNE" title="There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. " target="_blank">AFFiNE</a>&nbsp;<a href="https://github.com/toeverything/AFFiNE" title="There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. " target="_blank"><img src="https://img.shields.io/github/stars/toeverything/AFFiNE?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/charmbracelet/gum" title="A tool for glamorous shell scripts 🎀" target="_blank">gum</a>&nbsp;<a href="https://github.com/charmbracelet/gum" title="A tool for glamorous shell scripts 🎀" target="_blank"><img src="https://img.shields.io/github/stars/charmbracelet/gum?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,46 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/c84c9a0b3aa4965fbcff54f7254d3db7a0c4e476" title="2022-09-16T14:06:20.000+02:00" target="_blank">c84c9a0b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] coverpage</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/6c71a9fb863bda71ca4b8c76256621a5dc010d52" title="2022-09-16T13:47:42.000+02:00" target="_blank">6c71a9fb</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] `$` regexp</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/04d69aadb8d282e1677b304b44817e699b17f153" title="2022-09-16T13:47:28.000+02:00" target="_blank">04d69aad</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feature] Network answer</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/74ea614383145a197834a89bb9d03b3223229d53" title="2022-09-16T13:46:42.000+02:00" target="_blank">74ea6143</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] Add "forgotten" DB</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/c7d39e7b6b0420e4ded8e03e4cb48572c6f903b4" title="2022-09-16T13:46:08.000+02:00" target="_blank">c7d39e7b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feature] New programming test</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/145f6eb5efd1d51de5b130d39a2db91366c700e4" title="2022-09-16T13:45:40.000+02:00" target="_blank">145f6eb5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] Allow cover page without lastname/name</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/3281f30aeda42a0993fcb538cfd52de432f9e429" title="2022-09-16T09:59:49.000+02:00" target="_blank">3281f30a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feature] Git's part answers</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/f8e7ab01db0229a22c82cab1308aabe801427339" title="2022-09-16T09:40:44.000+02:00" target="_blank">f8e7ab01</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] acronymes</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/6e07963d6a7db2fad301dd013806f28840467c23" title="2022-09-14T18:12:25.000+02:00" target="_blank">6e07963d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[add] programs to validate</pre>
@@ -111,51 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/3ee08293900b520cc15806c8e18df8da32b9899c" title="2022-09-14T18:01:44.000+02:00" target="_blank">3ee08293</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[fix] odd/even percentage</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/fcc3adaa1358b2f3be1214a789367949f9b5de77" title="2022-09-14T17:10:41.000+02:00" target="_blank">fcc3adaa</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feat] one more check</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/6555b6e8f571dad3cefba33997f6b8442bc6266c" title="2022-09-14T17:08:05.000+02:00" target="_blank">6555b6e8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] even</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/54893a51bd5b96d7c7f030334e18078081a3ae0d" title="2022-09-14T16:44:29.000+02:00" target="_blank">54893a51</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] email</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/31a469fe3aaa27957c0b1a0047d9a1e55a461dd9" title="2022-09-13T12:11:17.000+02:00" target="_blank">31a469fe</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] instructions</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/36e70a5a34bec88c0be15052ffb3eb9971742faa" title="2022-09-13T12:04:53.000+02:00" target="_blank">36e70a5a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[refactor] struc</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/e902a6c65db29154c2fb521a4f4301b874076f3d" title="2022-09-13T12:00:18.000+02:00" target="_blank">e902a6c6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] auto-check</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/187ecc2e943aca4a479cfb40e6cd4bf7ff3f50fc" title="2022-09-13T11:49:16.000+02:00" target="_blank">187ecc2e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[refactor] `ex1` → `code_samples`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/23792722f20f61af7b2362305c045b9828cf4122" title="2022-09-13T10:49:21.000+02:00" target="_blank">23792722</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[welcome] domq</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 15 Sep 2022 14:10:43 GMT</small>
+<small>⏰ Updated on Fri, 16 Sep 2022 14:14:24 GMT</small>
 </td>
 </tr>
 </tfoot>
