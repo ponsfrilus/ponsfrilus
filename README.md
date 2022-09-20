@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank">fontawesome-latex</a>&nbsp;<a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank"><img src="https://img.shields.io/github/stars/xdanaux/fontawesome-latex?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/dandavison/delta" title="A syntax-highlighting pager for git, diff, and grep output" target="_blank">delta</a>&nbsp;<a href="https://github.com/dandavison/delta" title="A syntax-highlighting pager for git, diff, and grep output" target="_blank"><img src="https://img.shields.io/github/stars/dandavison/delta?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/H-M-H/Weylus" title="Use your tablet as graphic tablet/touch screen on your computer." target="_blank">Weylus</a>&nbsp;<a href="https://github.com/H-M-H/Weylus" title="Use your tablet as graphic tablet/touch screen on your computer." target="_blank"><img src="https://img.shields.io/github/stars/H-M-H/Weylus?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/HackerNews/API" title="Documentation and Samples for the Official HN API" target="_blank">API</a>&nbsp;<a href="https://github.com/HackerNews/API" title="Documentation and Samples for the Official HN API" target="_blank"><img src="https://img.shields.io/github/stars/HackerNews/API?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank">jsonhero-web</a>&nbsp;<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank"><img src="https://img.shields.io/github/stars/apihero-run/jsonhero-web?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank">v2</a>&nbsp;<a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank"><img src="https://img.shields.io/github/stars/miniflux/v2?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/searchableguy/hackernews_graphql" title="A full fledged graphql API for hackernews." target="_blank">hackernews_graphql</a>&nbsp;<a href="https://github.com/searchableguy/hackernews_graphql" title="A full fledged graphql API for hackernews." target="_blank"><img src="https://img.shields.io/github/stars/searchableguy/hackernews_graphql?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank">beef</a>&nbsp;<a href="https://github.com/beefproject/beef" title="The Browser Exploitation Framework Project" target="_blank"><img src="https://img.shields.io/github/stars/beefproject/beef?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 19 Sep 2022 14:14:39 GMT</small>
+<small>⏰ Updated on Tue, 20 Sep 2022 14:16:31 GMT</small>
 </td>
 </tr>
 </tfoot>
