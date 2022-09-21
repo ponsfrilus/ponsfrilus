@@ -103,6 +103,36 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/05e5eb19f6e3f60389552670b20c38628b10fbe3" title="2022-09-20T23:54:34.000+02:00" target="_blank">05e5eb19</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feature](WIP) tex read me for teachers</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/4f2ebcffe5ef3eb0f0593e3e0c589b71c5227f14" title="2022-09-20T23:47:49.000+02:00" target="_blank">4f2ebcff</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] wrap code in a function</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/8d0c1c4a93725fc02d7049c877a95a8d3e8db4aa" title="2022-09-20T18:46:28.000+02:00" target="_blank">8d0c1c4a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[tmp] programTST</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/4c7014b8c09dae1ff9c4bf3224f9c9f8a597672b" title="2022-09-20T18:45:36.000+02:00" target="_blank">4c7014b8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feature] dump solution A & B</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/18a771ad0bbb8036a6ce870f38355930b392e369" title="2022-09-20T18:35:11.000+02:00" target="_blank">18a771ad</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] kata part A or B</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/48c2def51ffa887ee4a9fb1cbe62f8b7c7ce2e48" title="2022-09-20T18:33:59.000+02:00" target="_blank">48c2def5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] original output</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/135e20b29447c0e925f3f0b655f2fadd4ab73a5d" title="2022-09-16T19:10:09.000+02:00" target="_blank">135e20b2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[fix] Suggest the use of `/usr/bin/env`</pre>
         </td>
@@ -121,41 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/17f9d10bb11ad2b29b2598816db8ebfe53eab7f6" title="2022-09-16T19:09:17.000+02:00" target="_blank">17f9d10b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[feature] DB's answers</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/a2b7f726002d183fe4a49812441959fa3dd29520" title="2022-09-16T19:08:56.000+02:00" target="_blank">a2b7f726</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] Shell's answers</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/3711d34a164124cd9a41d272eb8be92397020059" title="2022-09-16T18:50:10.000+02:00" target="_blank">3711d34a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] HTML's answers</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/44a607ab5cea6a5a4550f0971e0bdafbe14ce52b" title="2022-09-16T18:49:43.000+02:00" target="_blank">44a607ab</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] Regex's answers</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/acab4faec2772115fbe8f0b3823dbbc0805276f7" title="2022-09-16T18:46:14.000+02:00" target="_blank">acab4fae</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] Web's answers</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/79620653370cf2021117e93c3dd0abe3ba6c2ac8" title="2022-09-16T18:36:54.000+02:00" target="_blank">79620653</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] OS's answers</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/6e27fc6d981534496eb66e3f5b6749a937762c35" title="2022-09-16T18:33:02.000+02:00" target="_blank">6e27fc6d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] HTML's answer</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 20 Sep 2022 14:16:31 GMT</small>
+<small>⏰ Updated on Wed, 21 Sep 2022 14:16:55 GMT</small>
 </td>
 </tr>
 </tfoot>
