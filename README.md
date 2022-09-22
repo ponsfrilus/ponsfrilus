@@ -103,6 +103,41 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/codimd.ops/commits/5e5152eb8281ba04a2781634c3714f3fd9d7786b" title="2022-09-22T14:33:04.000+02:00" target="_blank">5e5152eb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/codimd.ops" title="Ansible wrapper to deploy CodiMD as a service">/codimd.ops</a></strong></div>
+          <pre>[init] Hello mdsible</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/c0688a07f7809a2e1434ccce619ffe6567cf37d1" title="2022-09-22T13:00:49.000+02:00" target="_blank">c0688a07</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feature] credits + suggestions</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/06977a83f5e98224762021e3222ff4343a5bc47e" title="2022-09-22T13:00:36.000+02:00" target="_blank">06977a83</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] part A + B</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/2030beb3bf24212f542677a1aa1534c8b45e5e0f" title="2022-09-22T13:00:20.000+02:00" target="_blank">2030beb3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] antislash comment</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/5401f9dda347a5de84efad7db55c1e5977461b27" title="2022-09-22T12:46:06.000+02:00" target="_blank">5401f9dd</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feature] README revamped</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/ed6b5ee036de6d4d0bab4aa561307dd0389db803" title="2022-09-22T12:30:07.000+02:00" target="_blank">ed6b5ee0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feature] How to garde part III</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/998c2437fa588b2ee44c853514726f1a171e4def" title="2022-09-22T11:18:31.000+02:00" target="_blank">998c2437</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feature] Question on COLLATE</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/05e5eb19f6e3f60389552670b20c38628b10fbe3" title="2022-09-20T23:54:34.000+02:00" target="_blank">05e5eb19</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[feature](WIP) tex read me for teachers</pre>
         </td>
@@ -116,46 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/8d0c1c4a93725fc02d7049c877a95a8d3e8db4aa" title="2022-09-20T18:46:28.000+02:00" target="_blank">8d0c1c4a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[tmp] programTST</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/4c7014b8c09dae1ff9c4bf3224f9c9f8a597672b" title="2022-09-20T18:45:36.000+02:00" target="_blank">4c7014b8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] dump solution A & B</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/18a771ad0bbb8036a6ce870f38355930b392e369" title="2022-09-20T18:35:11.000+02:00" target="_blank">18a771ad</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] kata part A or B</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/48c2def51ffa887ee4a9fb1cbe62f8b7c7ce2e48" title="2022-09-20T18:33:59.000+02:00" target="_blank">48c2def5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] original output</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/135e20b29447c0e925f3f0b655f2fadd4ab73a5d" title="2022-09-16T19:10:09.000+02:00" target="_blank">135e20b2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] Suggest the use of `/usr/bin/env`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/4c5628deb5f3fc7bbdf93ab79d42d4e4a67e7c11" title="2022-09-16T19:09:48.000+02:00" target="_blank">4c5628de</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] A/B</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/340cf191d7244073e32a5a2bb3eea0b5fccc4814" title="2022-09-16T19:09:38.000+02:00" target="_blank">340cf191</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] Moar acronymes</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/17f9d10bb11ad2b29b2598816db8ebfe53eab7f6" title="2022-09-16T19:09:17.000+02:00" target="_blank">17f9d10b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] DB's answers</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 21 Sep 2022 14:16:55 GMT</small>
+<small>⏰ Updated on Thu, 22 Sep 2022 14:08:21 GMT</small>
 </td>
 </tr>
 </tfoot>
