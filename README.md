@@ -103,6 +103,26 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/privatebin.ops/commits/b681949c792245990f6e015300614235442e5884" title="2022-09-23T14:09:58.000+02:00" target="_blank">b681949c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/privatebin.ops" title="null">/privatebin.ops</a></strong></div>
+          <pre>[init] pb.epfl.ch</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/codimd.ops/commits/7fba0836237f8b07df0ed614f81b933bac4319ce" title="2022-09-23T08:46:17.000+02:00" target="_blank">7fba0836</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/codimd.ops" title="Ansible wrapper to deploy CodiMD as a service">/codimd.ops</a></strong></div>
+          <pre>[doc] minimalistic beginning</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/codimd.ops/commits/cb841829a7fff254fdd27d626be3f0f694317152" title="2022-09-23T08:46:01.000+02:00" target="_blank">cb841829</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/codimd.ops" title="Ansible wrapper to deploy CodiMD as a service">/codimd.ops</a></strong></div>
+          <pre>[feature] Local deployment template</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/codimd.ops/commits/23063e72192e00e4f7fa42c85d78c9bed1547edf" title="2022-09-22T14:42:27.000+02:00" target="_blank">23063e72</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/codimd.ops" title="Ansible wrapper to deploy CodiMD as a service">/codimd.ops</a></strong></div>
+          <pre>[feature] Add CodiMD helm repo</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/codimd.ops/commits/5e5152eb8281ba04a2781634c3714f3fd9d7786b" title="2022-09-22T14:33:04.000+02:00" target="_blank">5e5152eb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/codimd.ops" title="Ansible wrapper to deploy CodiMD as a service">/codimd.ops</a></strong></div>
           <pre>[init] Hello mdsible</pre>
         </td>
@@ -131,31 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/ed6b5ee036de6d4d0bab4aa561307dd0389db803" title="2022-09-22T12:30:07.000+02:00" target="_blank">ed6b5ee0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[feature] How to garde part III</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/998c2437fa588b2ee44c853514726f1a171e4def" title="2022-09-22T11:18:31.000+02:00" target="_blank">998c2437</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] Question on COLLATE</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/05e5eb19f6e3f60389552670b20c38628b10fbe3" title="2022-09-20T23:54:34.000+02:00" target="_blank">05e5eb19</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature](WIP) tex read me for teachers</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/4f2ebcffe5ef3eb0f0593e3e0c589b71c5227f14" title="2022-09-20T23:47:49.000+02:00" target="_blank">4f2ebcff</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] wrap code in a function</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/8d0c1c4a93725fc02d7049c877a95a8d3e8db4aa" title="2022-09-20T18:46:28.000+02:00" target="_blank">8d0c1c4a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[tmp] programTST</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 22 Sep 2022 14:08:21 GMT</small>
+<small>⏰ Updated on Fri, 23 Sep 2022 14:18:10 GMT</small>
 </td>
 </tr>
 </tfoot>
