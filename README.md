@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank">k8s-on-openstack</a>&nbsp;<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank"><img src="https://img.shields.io/github/stars/infraly/k8s-on-openstack?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank">nightdrive</a>&nbsp;<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank"><img src="https://img.shields.io/github/stars/jes/nightdrive?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/antonmedv/fx" title="Terminal JSON viewer" target="_blank">fx</a>&nbsp;<a href="https://github.com/antonmedv/fx" title="Terminal JSON viewer" target="_blank"><img src="https://img.shields.io/github/stars/antonmedv/fx?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/tmux/tmux" title="tmux source code" target="_blank">tmux</a>&nbsp;<a href="https://github.com/tmux/tmux" title="tmux source code" target="_blank"><img src="https://img.shields.io/github/stars/tmux/tmux?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank">terraform-provider-kubernetes</a>&nbsp;<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform-provider-kubernetes?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank">fontawesome-latex</a>&nbsp;<a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank"><img src="https://img.shields.io/github/stars/xdanaux/fontawesome-latex?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/AykutSarac/jsoncrack.com" title="🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!" target="_blank">jsoncrack.com</a>&nbsp;<a href="https://github.com/AykutSarac/jsoncrack.com" title="🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!" target="_blank"><img src="https://img.shields.io/github/stars/AykutSarac/jsoncrack.com?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/H-M-H/Weylus" title="Use your tablet as graphic tablet/touch screen on your computer." target="_blank">Weylus</a>&nbsp;<a href="https://github.com/H-M-H/Weylus" title="Use your tablet as graphic tablet/touch screen on your computer." target="_blank"><img src="https://img.shields.io/github/stars/H-M-H/Weylus?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 27 Sep 2022 14:18:54 GMT</small>
+<small>⏰ Updated on Wed, 28 Sep 2022 14:20:54 GMT</small>
 </td>
 </tr>
 </tfoot>
