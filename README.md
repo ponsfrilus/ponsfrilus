@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank">oapi-poc</a>&nbsp;<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/oapi-poc?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank">k8s-on-openstack</a>&nbsp;<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank"><img src="https://img.shields.io/github/stars/infraly/k8s-on-openstack?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank">nightdrive</a>&nbsp;<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank"><img src="https://img.shields.io/github/stars/jes/nightdrive?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank">jsonhero-web</a>&nbsp;<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank"><img src="https://img.shields.io/github/stars/apihero-run/jsonhero-web?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank">v2</a>&nbsp;<a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank"><img src="https://img.shields.io/github/stars/miniflux/v2?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mozilla/sops" title="Simple and flexible tool for managing secrets" target="_blank">sops</a>&nbsp;<a href="https://github.com/mozilla/sops" title="Simple and flexible tool for managing secrets" target="_blank"><img src="https://img.shields.io/github/stars/mozilla/sops?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mdn/markdown" title="MDN Web Docs tool to covert HTML to Markdown" target="_blank">markdown</a>&nbsp;<a href="https://github.com/mdn/markdown" title="MDN Web Docs tool to covert HTML to Markdown" target="_blank"><img src="https://img.shields.io/github/stars/mdn/markdown?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lunatic-solutions/lunatic" title="Lunatic is an Erlang-inspired runtime for WebAssembly" target="_blank">lunatic</a>&nbsp;<a href="https://github.com/lunatic-solutions/lunatic" title="Lunatic is an Erlang-inspired runtime for WebAssembly" target="_blank"><img src="https://img.shields.io/github/stars/lunatic-solutions/lunatic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/openshiporg/openship" title="multi-channel fulfillment at scale" target="_blank">openship</a>&nbsp;<a href="https://github.com/openshiporg/openship" title="multi-channel fulfillment at scale" target="_blank"><img src="https://img.shields.io/github/stars/openshiporg/openship?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/highsource/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank">confluence-to-markdown-converter</a>&nbsp;<a href="https://github.com/highsource/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank"><img src="https://img.shields.io/github/stars/highsource/confluence-to-markdown-converter?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank">ButtFish</a>&nbsp;<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank"><img src="https://img.shields.io/github/stars/RonSijm/ButtFish?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,46 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank">k8s-on-openstack</a>&nbsp;<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank"><img src="https://img.shields.io/github/stars/infraly/k8s-on-openstack?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank">nightdrive</a>&nbsp;<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank"><img src="https://img.shields.io/github/stars/jes/nightdrive?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank">jsonhero-web</a>&nbsp;<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank"><img src="https://img.shields.io/github/stars/apihero-run/jsonhero-web?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank">v2</a>&nbsp;<a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank"><img src="https://img.shields.io/github/stars/miniflux/v2?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mozilla/sops" title="Simple and flexible tool for managing secrets" target="_blank">sops</a>&nbsp;<a href="https://github.com/mozilla/sops" title="Simple and flexible tool for managing secrets" target="_blank"><img src="https://img.shields.io/github/stars/mozilla/sops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mdn/markdown" title="MDN Web Docs tool to covert HTML to Markdown" target="_blank">markdown</a>&nbsp;<a href="https://github.com/mdn/markdown" title="MDN Web Docs tool to covert HTML to Markdown" target="_blank"><img src="https://img.shields.io/github/stars/mdn/markdown?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lunatic-solutions/lunatic" title="Lunatic is an Erlang-inspired runtime for WebAssembly" target="_blank">lunatic</a>&nbsp;<a href="https://github.com/lunatic-solutions/lunatic" title="Lunatic is an Erlang-inspired runtime for WebAssembly" target="_blank"><img src="https://img.shields.io/github/stars/lunatic-solutions/lunatic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/openshiporg/openship" title="multi-channel fulfillment at scale" target="_blank">openship</a>&nbsp;<a href="https://github.com/openshiporg/openship" title="multi-channel fulfillment at scale" target="_blank"><img src="https://img.shields.io/github/stars/openshiporg/openship?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/highsource/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank">confluence-to-markdown-converter</a>&nbsp;<a href="https://github.com/highsource/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank"><img src="https://img.shields.io/github/stars/highsource/confluence-to-markdown-converter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/antonmedv/fx" title="Terminal JSON viewer" target="_blank">fx</a>&nbsp;<a href="https://github.com/antonmedv/fx" title="Terminal JSON viewer" target="_blank"><img src="https://img.shields.io/github/stars/antonmedv/fx?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/a3d7ce858e432bf63c025384f4d382fab7f7b47e" title="2022-09-30T12:29:01.000+02:00" target="_blank">a3d7ce85</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
+          <pre>[fix] Trades' links</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/5cacc69ca08b9ce4257eeb338875004ff6e9792d" title="2022-09-30T12:27:59.000+02:00" target="_blank">5cacc69c</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
+          <pre>[feature] Trade 54</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/0a9705b5df7bbe7424f98ccc2b3914895a6d014c" title="2022-09-30T12:27:50.000+02:00" target="_blank">0a9705b5</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
+          <pre>[feature] Trade 53</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/744b5e6a08ac0b150d01271c489de0e723823828" title="2022-09-30T12:27:34.000+02:00" target="_blank">744b5e6a</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
+          <pre>[feature] Trade 39</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/6ec26741b164b6bafcaca942d1a95943fb9fdc84" title="2022-09-30T12:27:21.000+02:00" target="_blank">6ec26741</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
+          <pre>[feature] Trade 17</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/9fff0cb86a1f726b8048be4fc16494497c73678c" title="2022-09-30T12:27:03.000+02:00" target="_blank">9fff0cb8</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
+          <pre>[feature] Trade 09</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/b9ccc89a2648640c8e5a61f5c0a1d29c41dd97b1" title="2022-09-30T12:26:43.000+02:00" target="_blank">b9ccc89a</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
+          <pre>[doc] README.md</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/privatebin.ops/commits/b681949c792245990f6e015300614235442e5884" title="2022-09-23T14:09:58.000+02:00" target="_blank">b681949c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/privatebin.ops" title="null">/privatebin.ops</a></strong></div>
           <pre>[init] pb.epfl.ch</pre>
@@ -116,46 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/codimd.ops/commits/cb841829a7fff254fdd27d626be3f0f694317152" title="2022-09-23T08:46:01.000+02:00" target="_blank">cb841829</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/codimd.ops" title="Ansible wrapper to deploy CodiMD as a service">/codimd.ops</a></strong></div>
           <pre>[feature] Local deployment template</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/codimd.ops/commits/23063e72192e00e4f7fa42c85d78c9bed1547edf" title="2022-09-22T14:42:27.000+02:00" target="_blank">23063e72</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/codimd.ops" title="Ansible wrapper to deploy CodiMD as a service">/codimd.ops</a></strong></div>
-          <pre>[feature] Add CodiMD helm repo</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/codimd.ops/commits/5e5152eb8281ba04a2781634c3714f3fd9d7786b" title="2022-09-22T14:33:04.000+02:00" target="_blank">5e5152eb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/codimd.ops" title="Ansible wrapper to deploy CodiMD as a service">/codimd.ops</a></strong></div>
-          <pre>[init] Hello mdsible</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/c0688a07f7809a2e1434ccce619ffe6567cf37d1" title="2022-09-22T13:00:49.000+02:00" target="_blank">c0688a07</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] credits + suggestions</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/06977a83f5e98224762021e3222ff4343a5bc47e" title="2022-09-22T13:00:36.000+02:00" target="_blank">06977a83</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] part A + B</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/2030beb3bf24212f542677a1aa1534c8b45e5e0f" title="2022-09-22T13:00:20.000+02:00" target="_blank">2030beb3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] antislash comment</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/5401f9dda347a5de84efad7db55c1e5977461b27" title="2022-09-22T12:46:06.000+02:00" target="_blank">5401f9dd</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] README revamped</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/ed6b5ee036de6d4d0bab4aa561307dd0389db803" title="2022-09-22T12:30:07.000+02:00" target="_blank">ed6b5ee0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] How to garde part III</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 29 Sep 2022 14:15:58 GMT</small>
+<small>⏰ Updated on Fri, 30 Sep 2022 14:21:08 GMT</small>
 </td>
 </tr>
 </tfoot>
