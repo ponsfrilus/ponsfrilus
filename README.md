@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank">bearblog</a>&nbsp;<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank"><img src="https://img.shields.io/github/stars/HermanMartinus/bearblog?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank">oapi-poc</a>&nbsp;<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/oapi-poc?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/openshiporg/openship" title="multi-channel fulfillment at scale" target="_blank">openship</a>&nbsp;<a href="https://github.com/openshiporg/openship" title="multi-channel fulfillment at scale" target="_blank"><img src="https://img.shields.io/github/stars/openshiporg/openship?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/highsource/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank">confluence-to-markdown-converter</a>&nbsp;<a href="https://github.com/highsource/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank"><img src="https://img.shields.io/github/stars/highsource/confluence-to-markdown-converter?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank">postgres-wasm</a>&nbsp;<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank"><img src="https://img.shields.io/github/stars/snaplet/postgres-wasm?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank">ButtFish</a>&nbsp;<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank"><img src="https://img.shields.io/github/stars/RonSijm/ButtFish?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/skills17/competitor-vm-ubuntu" title="Ubuntu VM for competitors" target="_blank">competitor-vm-ubuntu</a>&nbsp;<a href="https://github.com/skills17/competitor-vm-ubuntu" title="Ubuntu VM for competitors" target="_blank"><img src="https://img.shields.io/github/stars/skills17/competitor-vm-ubuntu?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/oberlies/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank">confluence-to-markdown-converter</a>&nbsp;<a href="https://github.com/oberlies/confluence-to-markdown-converter" title="Converts the Confluence storage format to Markdown format." target="_blank"><img src="https://img.shields.io/github/stars/oberlies/confluence-to-markdown-converter?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 03 Oct 2022 14:24:28 GMT</small>
+<small>⏰ Updated on Tue, 04 Oct 2022 14:22:45 GMT</small>
 </td>
 </tr>
 </tfoot>
