@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank">design-system</a>&nbsp;<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank"><img src="https://img.shields.io/github/stars/swisspost/design-system?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank">wp-polylex</a>&nbsp;<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-polylex?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank">bearblog</a>&nbsp;<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank"><img src="https://img.shields.io/github/stars/HermanMartinus/bearblog?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank">oapi-poc</a>&nbsp;<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/oapi-poc?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank">k8s-on-openstack</a>&nbsp;<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank"><img src="https://img.shields.io/github/stars/infraly/k8s-on-openstack?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank">nightdrive</a>&nbsp;<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank"><img src="https://img.shields.io/github/stars/jes/nightdrive?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank">jsonhero-web</a>&nbsp;<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank"><img src="https://img.shields.io/github/stars/apihero-run/jsonhero-web?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank">v2</a>&nbsp;<a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank"><img src="https://img.shields.io/github/stars/miniflux/v2?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mozilla/sops" title="Simple and flexible tool for managing secrets" target="_blank">sops</a>&nbsp;<a href="https://github.com/mozilla/sops" title="Simple and flexible tool for managing secrets" target="_blank"><img src="https://img.shields.io/github/stars/mozilla/sops?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mdn/markdown" title="MDN Web Docs tool to covert HTML to Markdown" target="_blank">markdown</a>&nbsp;<a href="https://github.com/mdn/markdown" title="MDN Web Docs tool to covert HTML to Markdown" target="_blank"><img src="https://img.shields.io/github/stars/mdn/markdown?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank">roeschti</a>&nbsp;<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank"><img src="https://img.shields.io/github/stars/Georg-code/roeschti?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank">lens</a>&nbsp;<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/lensapp/lens?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,43 +95,6 @@
 <li>
 <a href="https://github.com/HRDepartment/archivetoday" title="Unofficial API and CLI for archive.today." target="_blank">archivetoday</a>&nbsp;<a href="https://github.com/HRDepartment/archivetoday" title="Unofficial API and CLI for archive.today." target="_blank"><img src="https://img.shields.io/github/stars/HRDepartment/archivetoday?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/audacity/audacity" title="Audio Editor                                     " target="_blank">audacity</a>&nbsp;<a href="https://github.com/audacity/audacity" title="Audio Editor                                     " target="_blank"><img src="https://img.shields.io/github/stars/audacity/audacity?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank">bearblog</a>&nbsp;<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank"><img src="https://img.shields.io/github/stars/HermanMartinus/bearblog?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank">oapi-poc</a>&nbsp;<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/oapi-poc?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank">k8s-on-openstack</a>&nbsp;<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank"><img src="https://img.shields.io/github/stars/infraly/k8s-on-openstack?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank">nightdrive</a>&nbsp;<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank"><img src="https://img.shields.io/github/stars/jes/nightdrive?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank">jsonhero-web</a>&nbsp;<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank"><img src="https://img.shields.io/github/stars/apihero-run/jsonhero-web?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank">v2</a>&nbsp;<a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank"><img src="https://img.shields.io/github/stars/miniflux/v2?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mozilla/sops" title="Simple and flexible tool for managing secrets" target="_blank">sops</a>&nbsp;<a href="https://github.com/mozilla/sops" title="Simple and flexible tool for managing secrets" target="_blank"><img src="https://img.shields.io/github/stars/mozilla/sops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mdn/markdown" title="MDN Web Docs tool to covert HTML to Markdown" target="_blank">markdown</a>&nbsp;<a href="https://github.com/mdn/markdown" title="MDN Web Docs tool to covert HTML to Markdown" target="_blank"><img src="https://img.shields.io/github/stars/mdn/markdown?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lunatic-solutions/lunatic" title="Lunatic is an Erlang-inspired runtime for WebAssembly" target="_blank">lunatic</a>&nbsp;<a href="https://github.com/lunatic-solutions/lunatic" title="Lunatic is an Erlang-inspired runtime for WebAssembly" target="_blank"><img src="https://img.shields.io/github/stars/lunatic-solutions/lunatic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/openshiporg/openship" title="multi-channel fulfillment at scale" target="_blank">openship</a>&nbsp;<a href="https://github.com/openshiporg/openship" title="multi-channel fulfillment at scale" target="_blank"><img src="https://img.shields.io/github/stars/openshiporg/openship?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,52 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-polylex/commits/5a4b7fca802544a3642f0f09e60f9933c392216a" title="2022-10-11T14:18:41.000+02:00" target="_blank">5a4b7fca</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes">/wp-polylex</a></strong></div>
+          <pre>Lex féminin
+
+Selon https://fr.wiktionary.org/wiki/lex
+> lex \ˈleːks\ féminin
+>   Loi, droit écrit.
+>   Contrat, traité, pacte, convention, clauses, condition.
+>   Ce qui fait loi, ordre établi, règles (d’un art ou d’une science), 
+préceptes, modèle.
+
+Selon https://fr.wikipedia.org/wiki/Loi
+> En droit, la loi (du latin lex, legis, qui signifie loi) est une règle 
+juridique
+
+Note qu'en anglais, "lexing" ou "to lex" fait référence, dans le monde 
+de 
+l'informatique, à effectuer une analyse lexicale 
+(https://en.wiktionary.org/wiki/lex).
+
+Il faut également ajouter que le pluriel utilisé dans wp-polylex est 
+douteux
+(https://en.wiktionary.org/wiki/lexes) et qu'il faudrait plutôt utiliser 
+`Leges`.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-polylex/commits/22aaf7e93e3f56d6e8a28bc0fb9dc6c9e3feff62" title="2022-10-11T13:33:42.000+02:00" target="_blank">22aaf7e9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes">/wp-polylex</a></strong></div>
+          <pre>Typo: add the dash in « sous-rubrique »</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-polylex/commits/32170aff777eaf2536fb917872491cd189e9025b" title="2022-10-11T13:20:57.000+02:00" target="_blank">32170aff</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes">/wp-polylex</a></strong></div>
+          <pre>Traduction de confirmation de suppression</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-polylex/commits/6717adfe7e1700d4bcc44d3284cc0882b62dbc19" title="2022-10-11T13:19:04.000+02:00" target="_blank">6717adfe</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes">/wp-polylex</a></strong></div>
+          <pre>Traduction title/titre</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-polylex/commits/b959b1eafcf3434ffa56b21918c6eda3a6316abe" title="2022-10-10T16:07:42.000+02:00" target="_blank">b959b1ea</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes">/wp-polylex</a></strong></div>
+          <pre>Remove all the "automated" version stuff</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/a3d7ce858e432bf63c025384f4d382fab7f7b47e" title="2022-09-30T12:29:01.000+02:00" target="_blank">a3d7ce85</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
           <pre>[fix] Trades' links</pre>
@@ -126,36 +172,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/6ec26741b164b6bafcaca942d1a95943fb9fdc84" title="2022-09-30T12:27:21.000+02:00" target="_blank">6ec26741</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
           <pre>[feature] Trade 17</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/9fff0cb86a1f726b8048be4fc16494497c73678c" title="2022-09-30T12:27:03.000+02:00" target="_blank">9fff0cb8</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
-          <pre>[feature] Trade 09</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/b9ccc89a2648640c8e5a61f5c0a1d29c41dd97b1" title="2022-09-30T12:26:43.000+02:00" target="_blank">b9ccc89a</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
-          <pre>[doc] README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/privatebin.ops/commits/b681949c792245990f6e015300614235442e5884" title="2022-09-23T14:09:58.000+02:00" target="_blank">b681949c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/privatebin.ops" title="null">/privatebin.ops</a></strong></div>
-          <pre>[init] pb.epfl.ch</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/codimd.ops/commits/7fba0836237f8b07df0ed614f81b933bac4319ce" title="2022-09-23T08:46:17.000+02:00" target="_blank">7fba0836</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/codimd.ops" title="Ansible wrapper to deploy CodiMD as a service">/codimd.ops</a></strong></div>
-          <pre>[doc] minimalistic beginning</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/codimd.ops/commits/cb841829a7fff254fdd27d626be3f0f694317152" title="2022-09-23T08:46:01.000+02:00" target="_blank">cb841829</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/codimd.ops" title="Ansible wrapper to deploy CodiMD as a service">/codimd.ops</a></strong></div>
-          <pre>[feature] Local deployment template</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 10 Oct 2022 14:24:20 GMT</small>
+<small>⏰ Updated on Tue, 11 Oct 2022 14:19:28 GMT</small>
 </td>
 </tr>
 </tfoot>
