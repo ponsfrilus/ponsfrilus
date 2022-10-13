@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/53dad89d2cb5fcc08729a45bbac54dfcc42e7d39" title="2022-10-13T12:43:29.000+02:00" target="_blank">53dad89d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feature] moar SQL/MySQL questions</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-polylex/commits/5a4b7fca802544a3642f0f09e60f9933c392216a" title="2022-10-11T14:18:41.000+02:00" target="_blank">5a4b7fca</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes">/wp-polylex</a></strong></div>
           <pre>Lex féminin
 
@@ -167,16 +172,11 @@ douteux
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/744b5e6a08ac0b150d01271c489de0e723823828" title="2022-09-30T12:27:34.000+02:00" target="_blank">744b5e6a</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
           <pre>[feature] Trade 39</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/6ec26741b164b6bafcaca942d1a95943fb9fdc84" title="2022-09-30T12:27:21.000+02:00" target="_blank">6ec26741</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
-          <pre>[feature] Trade 17</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 12 Oct 2022 14:25:11 GMT</small>
+<small>⏰ Updated on Thu, 13 Oct 2022 14:08:01 GMT</small>
 </td>
 </tr>
 </tfoot>
