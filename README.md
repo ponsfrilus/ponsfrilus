@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/images_gallery_generator/commits/0ce5528deb480178c2d02b38a170bd57f69218d2" title="2022-10-14T03:39:58.000+02:00" target="_blank">0ce5528d</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/images_gallery_generator" title="null">/images_gallery_generator</a></strong></div>
+          <pre>[init] bases</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/53dad89d2cb5fcc08729a45bbac54dfcc42e7d39" title="2022-10-13T12:43:29.000+02:00" target="_blank">53dad89d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[feature] moar SQL/MySQL questions</pre>
         </td>
@@ -167,16 +172,11 @@ douteux
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/0a9705b5df7bbe7424f98ccc2b3914895a6d014c" title="2022-09-30T12:27:50.000+02:00" target="_blank">0a9705b5</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
           <pre>[feature] Trade 53</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/744b5e6a08ac0b150d01271c489de0e723823828" title="2022-09-30T12:27:34.000+02:00" target="_blank">744b5e6a</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
-          <pre>[feature] Trade 39</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 13 Oct 2022 14:08:01 GMT</small>
+<small>⏰ Updated on Fri, 14 Oct 2022 14:22:52 GMT</small>
 </td>
 </tr>
 </tfoot>
