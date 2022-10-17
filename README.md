@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/5092e8c8dd209911154971bcb2192fae7f2a1ded" title="2022-10-14T18:35:25.000+02:00" target="_blank">5092e8c8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] numbering</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/fa2295fc099131b2fc65a3cdb0578fa779a330dc" title="2022-10-14T18:33:43.000+02:00" target="_blank">fa2295fc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feature] guess the logo</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/images_gallery_generator/commits/0ce5528deb480178c2d02b38a170bd57f69218d2" title="2022-10-14T03:39:58.000+02:00" target="_blank">0ce5528d</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/images_gallery_generator" title="null">/images_gallery_generator</a></strong></div>
           <pre>[init] bases</pre>
         </td>
@@ -162,21 +172,11 @@ douteux
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/a3d7ce858e432bf63c025384f4d382fab7f7b47e" title="2022-09-30T12:29:01.000+02:00" target="_blank">a3d7ce85</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
           <pre>[fix] Trades' links</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/5cacc69ca08b9ce4257eeb338875004ff6e9792d" title="2022-09-30T12:27:59.000+02:00" target="_blank">5cacc69c</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
-          <pre>[feature] Trade 54</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/0a9705b5df7bbe7424f98ccc2b3914895a6d014c" title="2022-09-30T12:27:50.000+02:00" target="_blank">0a9705b5</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
-          <pre>[feature] Trade 53</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 14 Oct 2022 14:22:52 GMT</small>
+<small>⏰ Updated on Mon, 17 Oct 2022 14:23:37 GMT</small>
 </td>
 </tr>
 </tfoot>
