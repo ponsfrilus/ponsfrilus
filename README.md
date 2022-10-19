@@ -103,6 +103,31 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/67df04e672700dbb891bf79ce38ab5be228551e2" title="2022-10-19T00:07:28.000+02:00" target="_blank">67df04e6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[init] first version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/6cea968cedaa6f713aec3a56834948aa99c9ed88" title="2022-10-18T17:08:25.000+02:00" target="_blank">6cea968c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[update] prom's back box exporter from v0.14.0 to v0.22.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/417a953ecaafe0fa48e6d98e32b76a43a85189a2" title="2022-10-18T17:04:33.000+02:00" target="_blank">417a953e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[update] prometheus from 2.35 to 2.39.1</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/b157f2b54c88efa327bc11e74ed5c5d5b017b2ea" title="2022-10-18T16:53:25.000+02:00" target="_blank">b157f2b5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[update] Traefik from 2.6 to 2.9.1</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/64503e5330d07306d5f93edfc51e223eea2060e3" title="2022-10-18T16:28:54.000+02:00" target="_blank">64503e53</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[update] gradana from 8.50 to 9.2.1</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/5092e8c8dd209911154971bcb2192fae7f2a1ded" title="2022-10-14T18:35:25.000+02:00" target="_blank">5092e8c8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[fix] numbering</pre>
         </td>
@@ -147,36 +172,11 @@ douteux
 (https://en.wiktionary.org/wiki/lexes) et qu'il faudrait plutôt utiliser 
 `Leges`.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-polylex/commits/22aaf7e93e3f56d6e8a28bc0fb9dc6c9e3feff62" title="2022-10-11T13:33:42.000+02:00" target="_blank">22aaf7e9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes">/wp-polylex</a></strong></div>
-          <pre>Typo: add the dash in « sous-rubrique »</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-polylex/commits/32170aff777eaf2536fb917872491cd189e9025b" title="2022-10-11T13:20:57.000+02:00" target="_blank">32170aff</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes">/wp-polylex</a></strong></div>
-          <pre>Traduction de confirmation de suppression</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-polylex/commits/6717adfe7e1700d4bcc44d3284cc0882b62dbc19" title="2022-10-11T13:19:04.000+02:00" target="_blank">6717adfe</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes">/wp-polylex</a></strong></div>
-          <pre>Traduction title/titre</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-polylex/commits/b959b1eafcf3434ffa56b21918c6eda3a6316abe" title="2022-10-10T16:07:42.000+02:00" target="_blank">b959b1ea</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes">/wp-polylex</a></strong></div>
-          <pre>Remove all the "automated" version stuff</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/SwissSkills/commits/a3d7ce858e432bf63c025384f4d382fab7f7b47e" title="2022-09-30T12:29:01.000+02:00" target="_blank">a3d7ce85</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/SwissSkills" title="null">/SwissSkills</a></strong></div>
-          <pre>[fix] Trades' links</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 18 Oct 2022 14:20:45 GMT</small>
+<small>⏰ Updated on Wed, 19 Oct 2022 14:21:39 GMT</small>
 </td>
 </tr>
 </tfoot>
