@@ -103,6 +103,24 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/5526533896063c835b08d38781a138c729b647e8" title="2022-10-20T15:44:27.000+02:00" target="_blank">55265338</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] use `\il` to define pronoun</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b45b7c5e499e4b6f7ae30029e0867296ee78360b" title="2022-10-20T15:03:27.000+02:00" target="_blank">b45b7c5e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] closing space</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/53ddab1f92bafa488b194dcaf3fad65709ce86f0" title="2022-10-19T19:35:10.000+02:00" target="_blank">53ddab1f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[style] EPFL template
+
+Use of EPFL letter style (https://inside.epfl.ch/corp-id/en/189-2/) and 
+add the `make split` command to create individual PDFs.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/67df04e672700dbb891bf79ce38ab5be228551e2" title="2022-10-19T00:07:28.000+02:00" target="_blank">67df04e6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[init] first version</pre>
         </td>
@@ -136,47 +154,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/fa2295fc099131b2fc65a3cdb0578fa779a330dc" title="2022-10-14T18:33:43.000+02:00" target="_blank">fa2295fc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[feature] guess the logo</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/images_gallery_generator/commits/0ce5528deb480178c2d02b38a170bd57f69218d2" title="2022-10-14T03:39:58.000+02:00" target="_blank">0ce5528d</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/images_gallery_generator" title="null">/images_gallery_generator</a></strong></div>
-          <pre>[init] bases</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/53dad89d2cb5fcc08729a45bbac54dfcc42e7d39" title="2022-10-13T12:43:29.000+02:00" target="_blank">53dad89d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] moar SQL/MySQL questions</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-polylex/commits/5a4b7fca802544a3642f0f09e60f9933c392216a" title="2022-10-11T14:18:41.000+02:00" target="_blank">5a4b7fca</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes">/wp-polylex</a></strong></div>
-          <pre>Lex féminin
-
-Selon https://fr.wiktionary.org/wiki/lex
-> lex \ˈleːks\ féminin
->   Loi, droit écrit.
->   Contrat, traité, pacte, convention, clauses, condition.
->   Ce qui fait loi, ordre établi, règles (d’un art ou d’une science), 
-préceptes, modèle.
-
-Selon https://fr.wikipedia.org/wiki/Loi
-> En droit, la loi (du latin lex, legis, qui signifie loi) est une règle 
-juridique
-
-Note qu'en anglais, "lexing" ou "to lex" fait référence, dans le monde 
-de 
-l'informatique, à effectuer une analyse lexicale 
-(https://en.wiktionary.org/wiki/lex).
-
-Il faut également ajouter que le pluriel utilisé dans wp-polylex est 
-douteux
-(https://en.wiktionary.org/wiki/lexes) et qu'il faudrait plutôt utiliser 
-`Leges`.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 19 Oct 2022 14:21:39 GMT</small>
+<small>⏰ Updated on Thu, 20 Oct 2022 14:23:29 GMT</small>
 </td>
 </tr>
 </tfoot>
