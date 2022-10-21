@@ -103,6 +103,24 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-roman/commits/811e950cdfceae0caf9b47d21ab8c644789ff5fb" title="2022-10-21T00:09:32.000+02:00" target="_blank">811e950c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains">/kata-roman</a></strong></div>
+          <pre>[img] for social preview</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-roman/commits/26edad352721dda0cc7a33e2efd59d2c346cc67a" title="2022-10-20T23:51:58.000+02:00" target="_blank">26edad35</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains">/kata-roman</a></strong></div>
+          <pre>[init] translated from @davidwhitney</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/9be184f177fdfa92edf6dd917c624b9e2418fabf" title="2022-10-20T16:31:04.000+02:00" target="_blank">9be184f1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] 📱 and 📩 icons
+
+Added using the marvosym package 
+(https://mirror.metanet.ch/tex-archive/fonts/marvosym/doc/fonts/marvosym/marvodoc.pdf)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/5526533896063c835b08d38781a138c729b647e8" title="2022-10-20T15:44:27.000+02:00" target="_blank">55265338</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[feature] use `\il` to define pronoun</pre>
         </td>
@@ -139,26 +157,11 @@ add the `make split` command to create individual PDFs.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/b157f2b54c88efa327bc11e74ed5c5d5b017b2ea" title="2022-10-18T16:53:25.000+02:00" target="_blank">b157f2b5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[update] Traefik from 2.6 to 2.9.1</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/64503e5330d07306d5f93edfc51e223eea2060e3" title="2022-10-18T16:28:54.000+02:00" target="_blank">64503e53</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[update] gradana from 8.50 to 9.2.1</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/5092e8c8dd209911154971bcb2192fae7f2a1ded" title="2022-10-14T18:35:25.000+02:00" target="_blank">5092e8c8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] numbering</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/fa2295fc099131b2fc65a3cdb0578fa779a330dc" title="2022-10-14T18:33:43.000+02:00" target="_blank">fa2295fc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] guess the logo</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 20 Oct 2022 14:23:29 GMT</small>
+<small>⏰ Updated on Fri, 21 Oct 2022 14:25:00 GMT</small>
 </td>
 </tr>
 </tfoot>
