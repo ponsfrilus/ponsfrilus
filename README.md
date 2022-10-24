@@ -32,6 +32,12 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank">best-practices</a>&nbsp;<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank"><img src="https://img.shields.io/github/stars/cnumr/best-practices?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank">pocket-casts-android</a>&nbsp;<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank">design-system</a>&nbsp;<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank"><img src="https://img.shields.io/github/stars/swisspost/design-system?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -55,16 +61,16 @@
 <li>
 <a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank">v2</a>&nbsp;<a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank"><img src="https://img.shields.io/github/stars/miniflux/v2?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/mozilla/sops" title="Simple and flexible tool for managing secrets" target="_blank">sops</a>&nbsp;<a href="https://github.com/mozilla/sops" title="Simple and flexible tool for managing secrets" target="_blank"><img src="https://img.shields.io/github/stars/mozilla/sops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mdn/markdown" title="MDN Web Docs tool to covert HTML to Markdown" target="_blank">markdown</a>&nbsp;<a href="https://github.com/mdn/markdown" title="MDN Web Docs tool to covert HTML to Markdown" target="_blank"><img src="https://img.shields.io/github/stars/mdn/markdown?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank">outstatic</a>&nbsp;<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank"><img src="https://img.shields.io/github/stars/avitorio/outstatic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank">linen.dev</a>&nbsp;<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank"><img src="https://img.shields.io/github/stars/Linen-dev/linen.dev?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank">roeschti</a>&nbsp;<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank"><img src="https://img.shields.io/github/stars/Georg-code/roeschti?style=social" alt="GitHub"></a>
 </li>
@@ -89,12 +95,6 @@
 <li>
 <a href="https://github.com/layerhub-io/react-design-editor" title="Image, Presentation and Video editor. React design editor using fabric.js. Canva clone" target="_blank">react-design-editor</a>&nbsp;<a href="https://github.com/layerhub-io/react-design-editor" title="Image, Presentation and Video editor. React design editor using fabric.js. Canva clone" target="_blank"><img src="https://img.shields.io/github/stars/layerhub-io/react-design-editor?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/oras-project/oras" title="Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM" target="_blank">oras</a>&nbsp;<a href="https://github.com/oras-project/oras" title="Work with OCI registries, but for secure supply chain - managing content like artifacts, images, SBOM" target="_blank"><img src="https://img.shields.io/github/stars/oras-project/oras?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HRDepartment/archivetoday" title="Unofficial API and CLI for archive.today." target="_blank">archivetoday</a>&nbsp;<a href="https://github.com/HRDepartment/archivetoday" title="Unofficial API and CLI for archive.today." target="_blank"><img src="https://img.shields.io/github/stars/HRDepartment/archivetoday?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,16 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/c1e416edc66edfbd536c5734638f5002363f99dd" title="2022-10-24T10:03:38.000+02:00" target="_blank">c1e416ed</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] header</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/images_gallery_generator/commits/c56beb25bc5494532d10d4516f8c00210a3f69a5" title="2022-10-21T16:38:40.000+02:00" target="_blank">c56beb25</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/images_gallery_generator" title="null">/images_gallery_generator</a></strong></div>
+          <pre>[fix[ link</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-roman/commits/811e950cdfceae0caf9b47d21ab8c644789ff5fb" title="2022-10-21T00:09:32.000+02:00" target="_blank">811e950c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains">/kata-roman</a></strong></div>
           <pre>[img] for social preview</pre>
@@ -147,21 +157,11 @@ add the `make split` command to create individual PDFs.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/6cea968cedaa6f713aec3a56834948aa99c9ed88" title="2022-10-18T17:08:25.000+02:00" target="_blank">6cea968c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[update] prom's back box exporter from v0.14.0 to v0.22.0</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/417a953ecaafe0fa48e6d98e32b76a43a85189a2" title="2022-10-18T17:04:33.000+02:00" target="_blank">417a953e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[update] prometheus from 2.35 to 2.39.1</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/b157f2b54c88efa327bc11e74ed5c5d5b017b2ea" title="2022-10-18T16:53:25.000+02:00" target="_blank">b157f2b5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[update] Traefik from 2.6 to 2.9.1</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 21 Oct 2022 14:25:00 GMT</small>
+<small>⏰ Updated on Mon, 24 Oct 2022 14:26:59 GMT</small>
 </td>
 </tr>
 </tfoot>
