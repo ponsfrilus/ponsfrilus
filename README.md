@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/3b4a5e56473a8729c9f3dfd6576cdd928f84cd6c" title="2022-10-25T10:34:06.000+02:00" target="_blank">3b4a5e56</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] create contact list from the CSV</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/8c6e097eb252d4e157895c026e10184e587bfee4" title="2022-10-24T18:40:05.000+02:00" target="_blank">8c6e097e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[tune] logo size</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/c5358b7153e58eb5fcd56165ac3dddf2a395edac" title="2022-10-24T10:04:02.000+02:00" target="_blank">c5358b71</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[init] files</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/c1e416edc66edfbd536c5734638f5002363f99dd" title="2022-10-24T10:03:38.000+02:00" target="_blank">c1e416ed</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[fix] header</pre>
         </td>
@@ -139,29 +154,11 @@ Added using the marvosym package
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b45b7c5e499e4b6f7ae30029e0867296ee78360b" title="2022-10-20T15:03:27.000+02:00" target="_blank">b45b7c5e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[fix] closing space</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/53ddab1f92bafa488b194dcaf3fad65709ce86f0" title="2022-10-19T19:35:10.000+02:00" target="_blank">53ddab1f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[style] EPFL template
-
-Use of EPFL letter style (https://inside.epfl.ch/corp-id/en/189-2/) and 
-add the `make split` command to create individual PDFs.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/67df04e672700dbb891bf79ce38ab5be228551e2" title="2022-10-19T00:07:28.000+02:00" target="_blank">67df04e6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[init] first version</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/6cea968cedaa6f713aec3a56834948aa99c9ed88" title="2022-10-18T17:08:25.000+02:00" target="_blank">6cea968c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[update] prom's back box exporter from v0.14.0 to v0.22.0</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 25 Oct 2022 14:24:24 GMT</small>
+<small>⏰ Updated on Wed, 26 Oct 2022 14:10:16 GMT</small>
 </td>
 </tr>
 </tfoot>
