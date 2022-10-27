@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/25497a50b5be801b248127473f03050b278197ff" title="2022-10-27T09:30:13.000+02:00" target="_blank">25497a50</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] final text</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/61df7b3346a0f2c5055aaa8c30af80dfbe8bc253" title="2022-10-27T09:29:56.000+02:00" target="_blank">61df7b33</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[footer] attempt to reduce its size</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/3b4a5e56473a8729c9f3dfd6576cdd928f84cd6c" title="2022-10-25T10:34:06.000+02:00" target="_blank">3b4a5e56</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[feature] create contact list from the CSV</pre>
         </td>
@@ -144,21 +154,11 @@
 Added using the marvosym package 
 (https://mirror.metanet.ch/tex-archive/fonts/marvosym/doc/fonts/marvosym/marvodoc.pdf)</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/5526533896063c835b08d38781a138c729b647e8" title="2022-10-20T15:44:27.000+02:00" target="_blank">55265338</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature] use `\il` to define pronoun</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b45b7c5e499e4b6f7ae30029e0867296ee78360b" title="2022-10-20T15:03:27.000+02:00" target="_blank">b45b7c5e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] closing space</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 26 Oct 2022 14:10:16 GMT</small>
+<small>⏰ Updated on Thu, 27 Oct 2022 14:16:08 GMT</small>
 </td>
 </tr>
 </tfoot>
