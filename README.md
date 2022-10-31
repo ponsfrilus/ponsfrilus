@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank">present</a>&nbsp;<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank"><img src="https://img.shields.io/github/stars/vinayak-mehta/present?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank">outstatic</a>&nbsp;<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank"><img src="https://img.shields.io/github/stars/avitorio/outstatic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank">linen.dev</a>&nbsp;<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank"><img src="https://img.shields.io/github/stars/Linen-dev/linen.dev?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank">roeschti</a>&nbsp;<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank"><img src="https://img.shields.io/github/stars/Georg-code/roeschti?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank">lens</a>&nbsp;<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/lensapp/lens?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank">postgres-wasm</a>&nbsp;<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank"><img src="https://img.shields.io/github/stars/snaplet/postgres-wasm?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank">ButtFish</a>&nbsp;<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank"><img src="https://img.shields.io/github/stars/RonSijm/ButtFish?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank">terraform-provider-kubernetes</a>&nbsp;<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform-provider-kubernetes?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank">fontawesome-latex</a>&nbsp;<a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank"><img src="https://img.shields.io/github/stars/xdanaux/fontawesome-latex?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dandavison/delta" title="A syntax-highlighting pager for git, diff, and grep output" target="_blank">delta</a>&nbsp;<a href="https://github.com/dandavison/delta" title="A syntax-highlighting pager for git, diff, and grep output" target="_blank"><img src="https://img.shields.io/github/stars/dandavison/delta?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank">best-practices</a>&nbsp;<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank"><img src="https://img.shields.io/github/stars/cnumr/best-practices?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank">v2</a>&nbsp;<a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank"><img src="https://img.shields.io/github/stars/miniflux/v2?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank">outstatic</a>&nbsp;<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank"><img src="https://img.shields.io/github/stars/avitorio/outstatic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank">linen.dev</a>&nbsp;<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank"><img src="https://img.shields.io/github/stars/Linen-dev/linen.dev?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank">roeschti</a>&nbsp;<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank"><img src="https://img.shields.io/github/stars/Georg-code/roeschti?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank">lens</a>&nbsp;<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/lensapp/lens?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank">postgres-wasm</a>&nbsp;<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank"><img src="https://img.shields.io/github/stars/snaplet/postgres-wasm?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank">ButtFish</a>&nbsp;<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank"><img src="https://img.shields.io/github/stars/RonSijm/ButtFish?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank">terraform-provider-kubernetes</a>&nbsp;<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform-provider-kubernetes?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank">fontawesome-latex</a>&nbsp;<a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank"><img src="https://img.shields.io/github/stars/xdanaux/fontawesome-latex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dandavison/delta" title="A syntax-highlighting pager for git, diff, and grep output" target="_blank">delta</a>&nbsp;<a href="https://github.com/dandavison/delta" title="A syntax-highlighting pager for git, diff, and grep output" target="_blank"><img src="https://img.shields.io/github/stars/dandavison/delta?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/layerhub-io/react-design-editor" title="Image, Presentation and Video editor. React design editor using fabric.js. Canva clone" target="_blank">react-design-editor</a>&nbsp;<a href="https://github.com/layerhub-io/react-design-editor" title="Image, Presentation and Video editor. React design editor using fabric.js. Canva clone" target="_blank"><img src="https://img.shields.io/github/stars/layerhub-io/react-design-editor?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -158,7 +158,7 @@ Added using the marvosym package
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 28 Oct 2022 14:12:15 GMT</small>
+<small>⏰ Updated on Mon, 31 Oct 2022 14:16:18 GMT</small>
 </td>
 </tr>
 </tfoot>
