@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank">bluenote</a>&nbsp;<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank"><img src="https://img.shields.io/github/stars/xentenza/bluenote?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank">best-practices</a>&nbsp;<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank"><img src="https://img.shields.io/github/stars/cnumr/best-practices?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank">pocket-casts-android</a>&nbsp;<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank">design-system</a>&nbsp;<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank"><img src="https://img.shields.io/github/stars/swisspost/design-system?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank">wp-polylex</a>&nbsp;<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-polylex?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank">bearblog</a>&nbsp;<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank"><img src="https://img.shields.io/github/stars/HermanMartinus/bearblog?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank">oapi-poc</a>&nbsp;<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/oapi-poc?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank">k8s-on-openstack</a>&nbsp;<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank"><img src="https://img.shields.io/github/stars/infraly/k8s-on-openstack?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank">nightdrive</a>&nbsp;<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank"><img src="https://img.shields.io/github/stars/jes/nightdrive?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank">jsonhero-web</a>&nbsp;<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank"><img src="https://img.shields.io/github/stars/apihero-run/jsonhero-web?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank">present</a>&nbsp;<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank"><img src="https://img.shields.io/github/stars/vinayak-mehta/present?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/dandavison/delta" title="A syntax-highlighting pager for git, diff, and grep output" target="_blank">delta</a>&nbsp;<a href="https://github.com/dandavison/delta" title="A syntax-highlighting pager for git, diff, and grep output" target="_blank"><img src="https://img.shields.io/github/stars/dandavison/delta?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank">best-practices</a>&nbsp;<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank"><img src="https://img.shields.io/github/stars/cnumr/best-practices?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank">pocket-casts-android</a>&nbsp;<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank">design-system</a>&nbsp;<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank"><img src="https://img.shields.io/github/stars/swisspost/design-system?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank">wp-polylex</a>&nbsp;<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-polylex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank">bearblog</a>&nbsp;<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank"><img src="https://img.shields.io/github/stars/HermanMartinus/bearblog?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank">oapi-poc</a>&nbsp;<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/oapi-poc?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank">k8s-on-openstack</a>&nbsp;<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank"><img src="https://img.shields.io/github/stars/infraly/k8s-on-openstack?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank">nightdrive</a>&nbsp;<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank"><img src="https://img.shields.io/github/stars/jes/nightdrive?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank">jsonhero-web</a>&nbsp;<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank"><img src="https://img.shields.io/github/stars/apihero-run/jsonhero-web?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank">v2</a>&nbsp;<a href="https://github.com/miniflux/v2" title="Minimalist and opinionated feed reader" target="_blank"><img src="https://img.shields.io/github/stars/miniflux/v2?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -158,7 +158,7 @@ Added using the marvosym package
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 02 Nov 2022 14:12:39 GMT</small>
+<small>⏰ Updated on Thu, 03 Nov 2022 14:03:47 GMT</small>
 </td>
 </tr>
 </tfoot>
