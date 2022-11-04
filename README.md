@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/grafana/faro-web-sdk" title="Monorepo for Grafana JavaScript Agent" target="_blank">faro-web-sdk</a>&nbsp;<a href="https://github.com/grafana/faro-web-sdk" title="Monorepo for Grafana JavaScript Agent" target="_blank"><img src="https://img.shields.io/github/stars/grafana/faro-web-sdk?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank">present</a>&nbsp;<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank"><img src="https://img.shields.io/github/stars/vinayak-mehta/present?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank">outstatic</a>&nbsp;<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank"><img src="https://img.shields.io/github/stars/avitorio/outstatic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank">linen.dev</a>&nbsp;<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank"><img src="https://img.shields.io/github/stars/Linen-dev/linen.dev?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank">roeschti</a>&nbsp;<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank"><img src="https://img.shields.io/github/stars/Georg-code/roeschti?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank">lens</a>&nbsp;<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/lensapp/lens?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank">postgres-wasm</a>&nbsp;<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank"><img src="https://img.shields.io/github/stars/snaplet/postgres-wasm?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank">ButtFish</a>&nbsp;<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank"><img src="https://img.shields.io/github/stars/RonSijm/ButtFish?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank">terraform-provider-kubernetes</a>&nbsp;<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform-provider-kubernetes?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank">fontawesome-latex</a>&nbsp;<a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank"><img src="https://img.shields.io/github/stars/xdanaux/fontawesome-latex?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank">bluenote</a>&nbsp;<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank"><img src="https://img.shields.io/github/stars/xentenza/bluenote?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank">jsonhero-web</a>&nbsp;<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank"><img src="https://img.shields.io/github/stars/apihero-run/jsonhero-web?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank">present</a>&nbsp;<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank"><img src="https://img.shields.io/github/stars/vinayak-mehta/present?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank">outstatic</a>&nbsp;<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank"><img src="https://img.shields.io/github/stars/avitorio/outstatic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank">linen.dev</a>&nbsp;<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank"><img src="https://img.shields.io/github/stars/Linen-dev/linen.dev?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank">roeschti</a>&nbsp;<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank"><img src="https://img.shields.io/github/stars/Georg-code/roeschti?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank">lens</a>&nbsp;<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/lensapp/lens?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank">postgres-wasm</a>&nbsp;<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank"><img src="https://img.shields.io/github/stars/snaplet/postgres-wasm?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank">ButtFish</a>&nbsp;<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank"><img src="https://img.shields.io/github/stars/RonSijm/ButtFish?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank">terraform-provider-kubernetes</a>&nbsp;<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform-provider-kubernetes?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank">fontawesome-latex</a>&nbsp;<a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank"><img src="https://img.shields.io/github/stars/xdanaux/fontawesome-latex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dandavison/delta" title="A syntax-highlighting pager for git, diff, and grep output" target="_blank">delta</a>&nbsp;<a href="https://github.com/dandavison/delta" title="A syntax-highlighting pager for git, diff, and grep output" target="_blank"><img src="https://img.shields.io/github/stars/dandavison/delta?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -158,7 +158,7 @@ Added using the marvosym package
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 03 Nov 2022 14:03:47 GMT</small>
+<small>⏰ Updated on Fri, 04 Nov 2022 13:57:07 GMT</small>
 </td>
 </tr>
 </tfoot>
