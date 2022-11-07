@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands " target="_blank">Linux-Bash-Commands</a>&nbsp;<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands " target="_blank"><img src="https://img.shields.io/github/stars/trinib/Linux-Bash-Commands?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank">bluenote</a>&nbsp;<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank"><img src="https://img.shields.io/github/stars/xentenza/bluenote?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank">best-practices</a>&nbsp;<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank"><img src="https://img.shields.io/github/stars/cnumr/best-practices?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank">pocket-casts-android</a>&nbsp;<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank">design-system</a>&nbsp;<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank"><img src="https://img.shields.io/github/stars/swisspost/design-system?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank">wp-polylex</a>&nbsp;<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-polylex?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank">bearblog</a>&nbsp;<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank"><img src="https://img.shields.io/github/stars/HermanMartinus/bearblog?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank">oapi-poc</a>&nbsp;<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/oapi-poc?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank">k8s-on-openstack</a>&nbsp;<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank"><img src="https://img.shields.io/github/stars/infraly/k8s-on-openstack?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank">nightdrive</a>&nbsp;<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank"><img src="https://img.shields.io/github/stars/jes/nightdrive?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/grafana/faro-web-sdk" title="Monorepo for Grafana JavaScript Agent" target="_blank">faro-web-sdk</a>&nbsp;<a href="https://github.com/grafana/faro-web-sdk" title="Monorepo for Grafana JavaScript Agent" target="_blank"><img src="https://img.shields.io/github/stars/grafana/faro-web-sdk?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank">fontawesome-latex</a>&nbsp;<a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank"><img src="https://img.shields.io/github/stars/xdanaux/fontawesome-latex?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank">bluenote</a>&nbsp;<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank"><img src="https://img.shields.io/github/stars/xentenza/bluenote?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank">best-practices</a>&nbsp;<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank"><img src="https://img.shields.io/github/stars/cnumr/best-practices?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank">pocket-casts-android</a>&nbsp;<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank">design-system</a>&nbsp;<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank"><img src="https://img.shields.io/github/stars/swisspost/design-system?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank">wp-polylex</a>&nbsp;<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-polylex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank">bearblog</a>&nbsp;<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank"><img src="https://img.shields.io/github/stars/HermanMartinus/bearblog?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank">oapi-poc</a>&nbsp;<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/oapi-poc?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank">k8s-on-openstack</a>&nbsp;<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank"><img src="https://img.shields.io/github/stars/infraly/k8s-on-openstack?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank">nightdrive</a>&nbsp;<a href="https://github.com/jes/nightdrive" title="Night-time driving simulation" target="_blank"><img src="https://img.shields.io/github/stars/jes/nightdrive?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank">jsonhero-web</a>&nbsp;<a href="https://github.com/apihero-run/jsonhero-web" title="JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀" target="_blank"><img src="https://img.shields.io/github/stars/apihero-run/jsonhero-web?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -138,27 +138,27 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-roman/commits/811e950cdfceae0caf9b47d21ab8c644789ff5fb" title="2022-10-21T00:09:32.000+02:00" target="_blank">811e950c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains">/kata-roman</a></strong></div>
-          <pre>[img] for social preview</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-roman/commits/26edad352721dda0cc7a33e2efd59d2c346cc67a" title="2022-10-20T23:51:58.000+02:00" target="_blank">26edad35</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains">/kata-roman</a></strong></div>
-          <pre>[init] translated from @davidwhitney</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/9be184f177fdfa92edf6dd917c624b9e2418fabf" title="2022-10-20T16:31:04.000+02:00" target="_blank">9be184f1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[feature] 📱 and 📩 icons
 
 Added using the marvosym package 
 (https://mirror.metanet.ch/tex-archive/fonts/marvosym/doc/fonts/marvosym/marvodoc.pdf)</pre>
         </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/5526533896063c835b08d38781a138c729b647e8" title="2022-10-20T15:44:27.000+02:00" target="_blank">55265338</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] use `\il` to define pronoun</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b45b7c5e499e4b6f7ae30029e0867296ee78360b" title="2022-10-20T15:03:27.000+02:00" target="_blank">b45b7c5e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] closing space</pre>
+        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 04 Nov 2022 13:57:07 GMT</small>
+<small>⏰ Updated on Mon, 07 Nov 2022 14:04:32 GMT</small>
 </td>
 </tr>
 </tfoot>
