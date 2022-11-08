@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank">twitodon</a>&nbsp;<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank"><img src="https://img.shields.io/github/stars/diddledani/twitodon?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank">faro-web-sdk</a>&nbsp;<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank"><img src="https://img.shields.io/github/stars/grafana/faro-web-sdk?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank">present</a>&nbsp;<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank"><img src="https://img.shields.io/github/stars/vinayak-mehta/present?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank">outstatic</a>&nbsp;<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank"><img src="https://img.shields.io/github/stars/avitorio/outstatic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank">linen.dev</a>&nbsp;<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank"><img src="https://img.shields.io/github/stars/Linen-dev/linen.dev?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank">roeschti</a>&nbsp;<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank"><img src="https://img.shields.io/github/stars/Georg-code/roeschti?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank">lens</a>&nbsp;<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/lensapp/lens?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank">postgres-wasm</a>&nbsp;<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank"><img src="https://img.shields.io/github/stars/snaplet/postgres-wasm?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank">ButtFish</a>&nbsp;<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank"><img src="https://img.shields.io/github/stars/RonSijm/ButtFish?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank">terraform-provider-kubernetes</a>&nbsp;<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform-provider-kubernetes?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands " target="_blank">Linux-Bash-Commands</a>&nbsp;<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands " target="_blank"><img src="https://img.shields.io/github/stars/trinib/Linux-Bash-Commands?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/grafana/faro-web-sdk" title="Monorepo for Grafana JavaScript Agent" target="_blank">faro-web-sdk</a>&nbsp;<a href="https://github.com/grafana/faro-web-sdk" title="Monorepo for Grafana JavaScript Agent" target="_blank"><img src="https://img.shields.io/github/stars/grafana/faro-web-sdk?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank">present</a>&nbsp;<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank"><img src="https://img.shields.io/github/stars/vinayak-mehta/present?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank">outstatic</a>&nbsp;<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank"><img src="https://img.shields.io/github/stars/avitorio/outstatic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank">linen.dev</a>&nbsp;<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank"><img src="https://img.shields.io/github/stars/Linen-dev/linen.dev?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank">roeschti</a>&nbsp;<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank"><img src="https://img.shields.io/github/stars/Georg-code/roeschti?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank">lens</a>&nbsp;<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/lensapp/lens?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank">postgres-wasm</a>&nbsp;<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank"><img src="https://img.shields.io/github/stars/snaplet/postgres-wasm?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank">ButtFish</a>&nbsp;<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank"><img src="https://img.shields.io/github/stars/RonSijm/ButtFish?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank">terraform-provider-kubernetes</a>&nbsp;<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform-provider-kubernetes?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank">fontawesome-latex</a>&nbsp;<a href="https://github.com/xdanaux/fontawesome-latex" title="LaTeX mappings for Font Awesome, the icons font" target="_blank"><img src="https://img.shields.io/github/stars/xdanaux/fontawesome-latex?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/docker-database-dev-env/commits/67dc522eddb81c1194f0ef65f730f8babefb235a" title="2022-11-08T12:29:29.000+01:00" target="_blank">67dc522e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/docker-database-dev-env" title="DDDE — Docker Database Development Environment">/docker-database-dev-env</a></strong></div>
+          <pre>[init] base version</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/25497a50b5be801b248127473f03050b278197ff" title="2022-10-27T09:30:13.000+02:00" target="_blank">25497a50</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[feature] final text</pre>
@@ -138,27 +143,19 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/9be184f177fdfa92edf6dd917c624b9e2418fabf" title="2022-10-20T16:31:04.000+02:00" target="_blank">9be184f1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature] 📱 and 📩 icons
-
-Added using the marvosym package 
-(https://mirror.metanet.ch/tex-archive/fonts/marvosym/doc/fonts/marvosym/marvodoc.pdf)</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-roman/commits/811e950cdfceae0caf9b47d21ab8c644789ff5fb" title="2022-10-21T00:09:32.000+02:00" target="_blank">811e950c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains">/kata-roman</a></strong></div>
+          <pre>[img] for social preview</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/5526533896063c835b08d38781a138c729b647e8" title="2022-10-20T15:44:27.000+02:00" target="_blank">55265338</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature] use `\il` to define pronoun</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b45b7c5e499e4b6f7ae30029e0867296ee78360b" title="2022-10-20T15:03:27.000+02:00" target="_blank">b45b7c5e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] closing space</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-roman/commits/26edad352721dda0cc7a33e2efd59d2c346cc67a" title="2022-10-20T23:51:58.000+02:00" target="_blank">26edad35</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains">/kata-roman</a></strong></div>
+          <pre>[init] translated from @davidwhitney</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 07 Nov 2022 14:04:32 GMT</small>
+<small>⏰ Updated on Tue, 08 Nov 2022 14:02:10 GMT</small>
 </td>
 </tr>
 </tfoot>
