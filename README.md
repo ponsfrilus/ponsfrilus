@@ -103,6 +103,35 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/Azecko/kata-birthday/commits/13047c0defa4780f839dee8a3afcd56ca4d0762f" title="2022-11-09T13:27:10.000+01:00" target="_blank">13047c0d</a><a href="https://github.com/Azecko">@Azecko</a><a href="https://github.com/Azecko/kata-birthday" title="Kata-birthday from @epfl-dojo">/kata-birthday</a></strong></div>
+          <pre>[feature] Welcome quotes!</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/Azecko/kata-birthday/commits/6649c50692c3df1c65cb013308816ae3c34f0c82" title="2022-11-09T12:56:21.000+01:00" target="_blank">6649c506</a><a href="https://github.com/Azecko">@Azecko</a><a href="https://github.com/Azecko/kata-birthday" title="Kata-birthday from @epfl-dojo">/kata-birthday</a></strong></div>
+          <pre>[feature] Add the celebrated person email in the message</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/Azecko/kata-birthday/commits/e3e61a0ea21ed407503894b2d825435cb1b4318a" title="2022-11-09T12:49:41.000+01:00" target="_blank">e3e61a0e</a><a href="https://github.com/Azecko">@Azecko</a><a href="https://github.com/Azecko/kata-birthday" title="Kata-birthday from @epfl-dojo">/kata-birthday</a></strong></div>
+          <pre>[feature] genderify</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/Azecko/kata-birthday/commits/119051e8500fa16699f85a0e21baf68a455395db" title="2022-11-09T12:45:05.000+01:00" target="_blank">119051e8</a><a href="https://github.com/Azecko">@Azecko</a><a href="https://github.com/Azecko/kata-birthday" title="Kata-birthday from @epfl-dojo">/kata-birthday</a></strong></div>
+          <pre>[feature] Add gender to birthdays data</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/Azecko/kata-birthday/commits/fcf95ce461da025d261eaa712bb7cf1c1b56c9cc" title="2022-11-09T12:42:24.000+01:00" target="_blank">fcf95ce4</a><a href="https://github.com/Azecko">@Azecko</a><a href="https://github.com/Azecko/kata-birthday" title="Kata-birthday from @epfl-dojo">/kata-birthday</a></strong></div>
+          <pre>[feature] 🎂 in the title
+
+* And also use pur `text` email from now as the HTML doesn't bring 
+anything to the table.
+* The `mailMessage` is now split, this will become useful later.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/docker-database-dev-env/commits/67dc522eddb81c1194f0ef65f730f8babefb235a" title="2022-11-08T12:29:29.000+01:00" target="_blank">67dc522e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/docker-database-dev-env" title="DDDE — Docker Database Development Environment">/docker-database-dev-env</a></strong></div>
           <pre>[init] base version</pre>
         </td>
@@ -126,36 +155,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/8c6e097eb252d4e157895c026e10184e587bfee4" title="2022-10-24T18:40:05.000+02:00" target="_blank">8c6e097e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[tune] logo size</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/c5358b7153e58eb5fcd56165ac3dddf2a395edac" title="2022-10-24T10:04:02.000+02:00" target="_blank">c5358b71</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[init] files</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/c1e416edc66edfbd536c5734638f5002363f99dd" title="2022-10-24T10:03:38.000+02:00" target="_blank">c1e416ed</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] header</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/images_gallery_generator/commits/c56beb25bc5494532d10d4516f8c00210a3f69a5" title="2022-10-21T16:38:40.000+02:00" target="_blank">c56beb25</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/images_gallery_generator" title="null">/images_gallery_generator</a></strong></div>
-          <pre>[fix[ link</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-roman/commits/811e950cdfceae0caf9b47d21ab8c644789ff5fb" title="2022-10-21T00:09:32.000+02:00" target="_blank">811e950c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains">/kata-roman</a></strong></div>
-          <pre>[img] for social preview</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-roman/commits/26edad352721dda0cc7a33e2efd59d2c346cc67a" title="2022-10-20T23:51:58.000+02:00" target="_blank">26edad35</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains">/kata-roman</a></strong></div>
-          <pre>[init] translated from @davidwhitney</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 08 Nov 2022 14:02:10 GMT</small>
+<small>⏰ Updated on Wed, 09 Nov 2022 14:04:03 GMT</small>
 </td>
 </tr>
 </tfoot>
