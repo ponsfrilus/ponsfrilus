@@ -66,7 +66,7 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands " target="_blank">Linux-Bash-Commands</a>&nbsp;<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands " target="_blank"><img src="https://img.shields.io/github/stars/trinib/Linux-Bash-Commands?style=social" alt="GitHub"></a>
+<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank">Linux-Bash-Commands</a>&nbsp;<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank"><img src="https://img.shields.io/github/stars/trinib/Linux-Bash-Commands?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank">bluenote</a>&nbsp;<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank"><img src="https://img.shields.io/github/stars/xentenza/bluenote?style=social" alt="GitHub"></a>
@@ -159,7 +159,7 @@ anything to the table.
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 11 Nov 2022 14:01:31 GMT</small>
+<small>⏰ Updated on Mon, 14 Nov 2022 14:06:18 GMT</small>
 </td>
 </tr>
 </tfoot>
