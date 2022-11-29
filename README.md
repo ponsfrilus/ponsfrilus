@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank">finch</a>&nbsp;<a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank"><img src="https://img.shields.io/github/stars/runfinch/finch?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank">twitodon</a>&nbsp;<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank"><img src="https://img.shields.io/github/stars/diddledani/twitodon?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank">faro-web-sdk</a>&nbsp;<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank"><img src="https://img.shields.io/github/stars/grafana/faro-web-sdk?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank">present</a>&nbsp;<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank"><img src="https://img.shields.io/github/stars/vinayak-mehta/present?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank">outstatic</a>&nbsp;<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank"><img src="https://img.shields.io/github/stars/avitorio/outstatic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank">linen.dev</a>&nbsp;<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank"><img src="https://img.shields.io/github/stars/Linen-dev/linen.dev?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank">roeschti</a>&nbsp;<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank"><img src="https://img.shields.io/github/stars/Georg-code/roeschti?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank">lens</a>&nbsp;<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/lensapp/lens?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank">postgres-wasm</a>&nbsp;<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank"><img src="https://img.shields.io/github/stars/snaplet/postgres-wasm?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank">ButtFish</a>&nbsp;<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank"><img src="https://img.shields.io/github/stars/RonSijm/ButtFish?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank">coding-dojo</a>&nbsp;<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank"><img src="https://img.shields.io/github/stars/javascriptdezero/coding-dojo?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank">k8s-on-openstack</a>&nbsp;<a href="https://github.com/infraly/k8s-on-openstack" title="An opinionated way to deploy a Kubernetes cluster on top of an OpenStack cloud." target="_blank"><img src="https://img.shields.io/github/stars/infraly/k8s-on-openstack?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank">twitodon</a>&nbsp;<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank"><img src="https://img.shields.io/github/stars/diddledani/twitodon?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank">faro-web-sdk</a>&nbsp;<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank"><img src="https://img.shields.io/github/stars/grafana/faro-web-sdk?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank">present</a>&nbsp;<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank"><img src="https://img.shields.io/github/stars/vinayak-mehta/present?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank">outstatic</a>&nbsp;<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank"><img src="https://img.shields.io/github/stars/avitorio/outstatic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank">linen.dev</a>&nbsp;<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank"><img src="https://img.shields.io/github/stars/Linen-dev/linen.dev?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank">roeschti</a>&nbsp;<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank"><img src="https://img.shields.io/github/stars/Georg-code/roeschti?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank">lens</a>&nbsp;<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/lensapp/lens?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank">postgres-wasm</a>&nbsp;<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank"><img src="https://img.shields.io/github/stars/snaplet/postgres-wasm?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank">ButtFish</a>&nbsp;<a href="https://github.com/RonSijm/ButtFish" title="Effortlessly transmitting Morse Code of chess moves to your butthole 💝" target="_blank"><img src="https://img.shields.io/github/stars/RonSijm/ButtFish?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank">terraform-provider-kubernetes</a>&nbsp;<a href="https://github.com/hashicorp/terraform-provider-kubernetes" title="Terraform Kubernetes provider" target="_blank"><img src="https://img.shields.io/github/stars/hashicorp/terraform-provider-kubernetes?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -159,7 +159,7 @@ anything to the table.
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 28 Nov 2022 13:46:46 GMT</small>
+<small>⏰ Updated on Tue, 29 Nov 2022 13:46:46 GMT</small>
 </td>
 </tr>
 </tfoot>
