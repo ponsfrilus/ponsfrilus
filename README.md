@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 12 years and 10 months.
+    <br />Apparently, I'm hanging around on GitHub since 12 years and 11 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -159,7 +159,7 @@ anything to the table.
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 30 Nov 2022 13:47:54 GMT</small>
+<small>⏰ Updated on Thu, 01 Dec 2022 13:50:30 GMT</small>
 </td>
 </tr>
 </tfoot>
