@@ -103,6 +103,38 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/aae85481291809ae3c6f36d01013184bd3b04d43" title="2022-12-01T19:24:13.000+01:00" target="_blank">aae85481</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
+          <pre>[feature] JSON data for "responsable"
+
+This is based on 
+https://www.vd.ch/fileadmin/user_upload/themes/formation/orientation/fichiers_pdf/apprentissage/rapp_stage_resp.pdf</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/85820d62f1e3bf730ee53ccddaa39b5753b93e8c" title="2022-12-01T18:34:35.000+01:00" target="_blank">85820d62</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
+          <pre>[bump] version 0.2.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/9bbeb0350ad37f292571812ef5357fcbd54d978f" title="2022-12-01T18:26:23.000+01:00" target="_blank">9bbeb035</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
+          <pre>[feature] format date
+
+This fixes https://github.com/Azecko/rapport-de-stage/issues/17</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/c14fa1f807c28909f09ce14c20ee2f65868b2007" title="2022-12-01T18:05:18.000+01:00" target="_blank">c14fa1f8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
+          <pre>[feature] set maxlength of field
+
+This aim to fix https://github.com/Azecko/rapport-de-stage/issues/6</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/14a66ace7773efe6bf6e0b7db419090f02ca65a9" title="2022-12-01T15:33:30.000+01:00" target="_blank">14a66ace</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
+          <pre>[feature] favicon & kiwification</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/Azecko/kata-birthday/commits/13047c0defa4780f839dee8a3afcd56ca4d0762f" title="2022-11-09T13:27:10.000+01:00" target="_blank">13047c0d</a><a href="https://github.com/Azecko">@Azecko</a><a href="https://github.com/Azecko/kata-birthday" title="Kata-birthday from @epfl-dojo">/kata-birthday</a></strong></div>
           <pre>[feature] Welcome quotes!</pre>
         </td>
@@ -130,36 +162,11 @@
 anything to the table.
 * The `mailMessage` is now split, this will become useful later.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/docker-database-dev-env/commits/67dc522eddb81c1194f0ef65f730f8babefb235a" title="2022-11-08T12:29:29.000+01:00" target="_blank">67dc522e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/docker-database-dev-env" title="DDDE — Docker Database Development Environment">/docker-database-dev-env</a></strong></div>
-          <pre>[init] base version</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/25497a50b5be801b248127473f03050b278197ff" title="2022-10-27T09:30:13.000+02:00" target="_blank">25497a50</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature] final text</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/61df7b3346a0f2c5055aaa8c30af80dfbe8bc253" title="2022-10-27T09:29:56.000+02:00" target="_blank">61df7b33</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[footer] attempt to reduce its size</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/3b4a5e56473a8729c9f3dfd6576cdd928f84cd6c" title="2022-10-25T10:34:06.000+02:00" target="_blank">3b4a5e56</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature] create contact list from the CSV</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/8c6e097eb252d4e157895c026e10184e587bfee4" title="2022-10-24T18:40:05.000+02:00" target="_blank">8c6e097e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[tune] logo size</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 01 Dec 2022 13:50:30 GMT</small>
+<small>⏰ Updated on Fri, 02 Dec 2022 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
