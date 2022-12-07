@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/teaxyz/cli" title="the unified package manager (brew2)" target="_blank">cli</a>&nbsp;<a href="https://github.com/teaxyz/cli" title="the unified package manager (brew2)" target="_blank"><img src="https://img.shields.io/github/stars/teaxyz/cli?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank">silverbullet</a>&nbsp;<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank"><img src="https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank">coding-dojo</a>&nbsp;<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank"><img src="https://img.shields.io/github/stars/javascriptdezero/coding-dojo?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank">Linux-Bash-Commands</a>&nbsp;<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank"><img src="https://img.shields.io/github/stars/trinib/Linux-Bash-Commands?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank">bluenote</a>&nbsp;<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank"><img src="https://img.shields.io/github/stars/xentenza/bluenote?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank">best-practices</a>&nbsp;<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank"><img src="https://img.shields.io/github/stars/cnumr/best-practices?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank">pocket-casts-android</a>&nbsp;<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank">design-system</a>&nbsp;<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank"><img src="https://img.shields.io/github/stars/swisspost/design-system?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank">wp-polylex</a>&nbsp;<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-polylex?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank">bearblog</a>&nbsp;<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank"><img src="https://img.shields.io/github/stars/HermanMartinus/bearblog?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/jgm/djot" title="A light markup language" target="_blank">djot</a>&nbsp;<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank"><img src="https://img.shields.io/github/stars/jgm/djot?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank">postgres-wasm</a>&nbsp;<a href="https://github.com/snaplet/postgres-wasm" title="A PostgresQL server running in your browser" target="_blank"><img src="https://img.shields.io/github/stars/snaplet/postgres-wasm?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank">silverbullet</a>&nbsp;<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank"><img src="https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank">coding-dojo</a>&nbsp;<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank"><img src="https://img.shields.io/github/stars/javascriptdezero/coding-dojo?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank">Linux-Bash-Commands</a>&nbsp;<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank"><img src="https://img.shields.io/github/stars/trinib/Linux-Bash-Commands?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank">bluenote</a>&nbsp;<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank"><img src="https://img.shields.io/github/stars/xentenza/bluenote?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank">best-practices</a>&nbsp;<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank"><img src="https://img.shields.io/github/stars/cnumr/best-practices?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank">pocket-casts-android</a>&nbsp;<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank">design-system</a>&nbsp;<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank"><img src="https://img.shields.io/github/stars/swisspost/design-system?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank">wp-polylex</a>&nbsp;<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-polylex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank">bearblog</a>&nbsp;<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank"><img src="https://img.shields.io/github/stars/HermanMartinus/bearblog?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank">oapi-poc</a>&nbsp;<a href="https://github.com/camptocamp/oapi-poc" title="OGC API & STAC - Proof of Concept" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/oapi-poc?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -162,7 +162,7 @@ This aim to fix https://github.com/Azecko/rapport-de-stage/issues/6</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 06 Dec 2022 13:45:24 GMT</small>
+<small>⏰ Updated on Wed, 07 Dec 2022 13:45:17 GMT</small>
 </td>
 </tr>
 </tfoot>
