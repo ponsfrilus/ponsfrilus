@@ -162,7 +162,7 @@ This aim to fix https://github.com/Azecko/rapport-de-stage/issues/6</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 07 Dec 2022 13:45:17 GMT</small>
+<small>⏰ Updated on Thu, 08 Dec 2022 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
