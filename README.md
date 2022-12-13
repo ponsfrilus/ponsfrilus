@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank">freeotp-android</a>&nbsp;<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank"><img src="https://img.shields.io/github/stars/freeotp/freeotp-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/teaxyz/cli" title="the unified package manager (brew2)" target="_blank">cli</a>&nbsp;<a href="https://github.com/teaxyz/cli" title="the unified package manager (brew2)" target="_blank"><img src="https://img.shields.io/github/stars/teaxyz/cli?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank">silverbullet</a>&nbsp;<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank"><img src="https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank">coding-dojo</a>&nbsp;<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank"><img src="https://img.shields.io/github/stars/javascriptdezero/coding-dojo?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank">Linux-Bash-Commands</a>&nbsp;<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank"><img src="https://img.shields.io/github/stars/trinib/Linux-Bash-Commands?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank">bluenote</a>&nbsp;<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank"><img src="https://img.shields.io/github/stars/xentenza/bluenote?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank">best-practices</a>&nbsp;<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank"><img src="https://img.shields.io/github/stars/cnumr/best-practices?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank">pocket-casts-android</a>&nbsp;<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank">design-system</a>&nbsp;<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank"><img src="https://img.shields.io/github/stars/swisspost/design-system?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank">wp-polylex</a>&nbsp;<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-polylex?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank">miraclecast</a>&nbsp;<a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank"><img src="https://img.shields.io/github/stars/albfan/miraclecast?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/teaxyz/cli" title="the unified package manager (brew2)" target="_blank">cli</a>&nbsp;<a href="https://github.com/teaxyz/cli" title="the unified package manager (brew2)" target="_blank"><img src="https://img.shields.io/github/stars/teaxyz/cli?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank">silverbullet</a>&nbsp;<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank"><img src="https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank">coding-dojo</a>&nbsp;<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank"><img src="https://img.shields.io/github/stars/javascriptdezero/coding-dojo?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank">Linux-Bash-Commands</a>&nbsp;<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank"><img src="https://img.shields.io/github/stars/trinib/Linux-Bash-Commands?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank">bluenote</a>&nbsp;<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank"><img src="https://img.shields.io/github/stars/xentenza/bluenote?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank">best-practices</a>&nbsp;<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank"><img src="https://img.shields.io/github/stars/cnumr/best-practices?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank">pocket-casts-android</a>&nbsp;<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank">design-system</a>&nbsp;<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank"><img src="https://img.shields.io/github/stars/swisspost/design-system?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank">wp-polylex</a>&nbsp;<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-polylex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank">bearblog</a>&nbsp;<a href="https://github.com/HermanMartinus/bearblog" title="Free, no-nonsense, super fast blogging." target="_blank"><img src="https://img.shields.io/github/stars/HermanMartinus/bearblog?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/e4db766ab407fc11cdfb9fbedc7e1da3493397ab" title="2022-12-12T18:50:44.000+01:00" target="_blank">e4db766a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[feature] add postgres dashboard</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/5e7f279d3f1116379129c4e5b0d1db54409b74fa" title="2022-12-10T01:26:46.000+01:00" target="_blank">5e7f279d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[feature] public dashboard
@@ -149,19 +154,11 @@ dashboard. Let's configure the GitLab Statistic for that.</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/314b1c88cb9108a94022184a7a738fd62e4afbf0" title="2022-12-02T14:47:03.000+01:00" target="_blank">314b1c88</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
           <pre>[svg] source file for stagiaire</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/145569d7ef0b78ee8a37a468700efcea589d906b" title="2022-12-01T19:24:13.000+01:00" target="_blank">145569d7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
-          <pre>[feature] JSON data for "responsable"
-
-This is based on 
-https://www.vd.ch/fileadmin/user_upload/themes/formation/orientation/fichiers_pdf/apprentissage/rapp_stage_resp.pdf</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 12 Dec 2022 13:45:16 GMT</small>
+<small>⏰ Updated on Tue, 13 Dec 2022 13:45:25 GMT</small>
 </td>
 </tr>
 </tfoot>
