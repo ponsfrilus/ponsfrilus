@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank">kopf</a>&nbsp;<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank"><img src="https://img.shields.io/github/stars/nolar/kopf?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank">miraclecast</a>&nbsp;<a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank"><img src="https://img.shields.io/github/stars/albfan/miraclecast?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank">djot</a>&nbsp;<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank"><img src="https://img.shields.io/github/stars/jgm/djot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank">finch</a>&nbsp;<a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank"><img src="https://img.shields.io/github/stars/runfinch/finch?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank">twitodon</a>&nbsp;<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank"><img src="https://img.shields.io/github/stars/diddledani/twitodon?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank">faro-web-sdk</a>&nbsp;<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank"><img src="https://img.shields.io/github/stars/grafana/faro-web-sdk?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank">present</a>&nbsp;<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank"><img src="https://img.shields.io/github/stars/vinayak-mehta/present?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank">outstatic</a>&nbsp;<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank"><img src="https://img.shields.io/github/stars/avitorio/outstatic?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank">linen.dev</a>&nbsp;<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank"><img src="https://img.shields.io/github/stars/Linen-dev/linen.dev?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank">roeschti</a>&nbsp;<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank"><img src="https://img.shields.io/github/stars/Georg-code/roeschti?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank">freeotp-android</a>&nbsp;<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank"><img src="https://img.shields.io/github/stars/freeotp/freeotp-android?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank">wp-polylex</a>&nbsp;<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-polylex?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank">miraclecast</a>&nbsp;<a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank"><img src="https://img.shields.io/github/stars/albfan/miraclecast?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank">djot</a>&nbsp;<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank"><img src="https://img.shields.io/github/stars/jgm/djot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank">finch</a>&nbsp;<a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank"><img src="https://img.shields.io/github/stars/runfinch/finch?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank">twitodon</a>&nbsp;<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank"><img src="https://img.shields.io/github/stars/diddledani/twitodon?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank">faro-web-sdk</a>&nbsp;<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank"><img src="https://img.shields.io/github/stars/grafana/faro-web-sdk?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank">present</a>&nbsp;<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank"><img src="https://img.shields.io/github/stars/vinayak-mehta/present?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank">outstatic</a>&nbsp;<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank"><img src="https://img.shields.io/github/stars/avitorio/outstatic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank">linen.dev</a>&nbsp;<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank"><img src="https://img.shields.io/github/stars/Linen-dev/linen.dev?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank">roeschti</a>&nbsp;<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank"><img src="https://img.shields.io/github/stars/Georg-code/roeschti?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank">lens</a>&nbsp;<a href="https://github.com/lensapp/lens" title="Lens - The way the world runs Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/lensapp/lens?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -158,7 +158,7 @@ dashboard. Let's configure the GitLab Statistic for that.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 13 Dec 2022 13:45:25 GMT</small>
+<small>⏰ Updated on Wed, 14 Dec 2022 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
