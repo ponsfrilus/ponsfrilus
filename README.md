@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank">golink</a>&nbsp;<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank"><img src="https://img.shields.io/github/stars/tailscale/golink?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank">freeotp-android</a>&nbsp;<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank"><img src="https://img.shields.io/github/stars/freeotp/freeotp-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/teaxyz/cli" title="the unified package manager (brew2)" target="_blank">cli</a>&nbsp;<a href="https://github.com/teaxyz/cli" title="the unified package manager (brew2)" target="_blank"><img src="https://img.shields.io/github/stars/teaxyz/cli?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank">silverbullet</a>&nbsp;<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank"><img src="https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank">coding-dojo</a>&nbsp;<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank"><img src="https://img.shields.io/github/stars/javascriptdezero/coding-dojo?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank">Linux-Bash-Commands</a>&nbsp;<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank"><img src="https://img.shields.io/github/stars/trinib/Linux-Bash-Commands?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank">bluenote</a>&nbsp;<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank"><img src="https://img.shields.io/github/stars/xentenza/bluenote?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank">best-practices</a>&nbsp;<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank"><img src="https://img.shields.io/github/stars/cnumr/best-practices?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank">pocket-casts-android</a>&nbsp;<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank">design-system</a>&nbsp;<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank"><img src="https://img.shields.io/github/stars/swisspost/design-system?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank">kopf</a>&nbsp;<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank"><img src="https://img.shields.io/github/stars/nolar/kopf?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank">roeschti</a>&nbsp;<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank"><img src="https://img.shields.io/github/stars/Georg-code/roeschti?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank">freeotp-android</a>&nbsp;<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank"><img src="https://img.shields.io/github/stars/freeotp/freeotp-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/teaxyz/cli" title="the unified package manager (brew2)" target="_blank">cli</a>&nbsp;<a href="https://github.com/teaxyz/cli" title="the unified package manager (brew2)" target="_blank"><img src="https://img.shields.io/github/stars/teaxyz/cli?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank">silverbullet</a>&nbsp;<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank"><img src="https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank">coding-dojo</a>&nbsp;<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank"><img src="https://img.shields.io/github/stars/javascriptdezero/coding-dojo?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank">Linux-Bash-Commands</a>&nbsp;<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank"><img src="https://img.shields.io/github/stars/trinib/Linux-Bash-Commands?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank">bluenote</a>&nbsp;<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank"><img src="https://img.shields.io/github/stars/xentenza/bluenote?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank">best-practices</a>&nbsp;<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank"><img src="https://img.shields.io/github/stars/cnumr/best-practices?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank">pocket-casts-android</a>&nbsp;<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank">design-system</a>&nbsp;<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank"><img src="https://img.shields.io/github/stars/swisspost/design-system?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank">wp-polylex</a>&nbsp;<a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-polylex?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -158,7 +158,7 @@ dashboard. Let's configure the GitLab Statistic for that.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 14 Dec 2022 13:45:15 GMT</small>
+<small>⏰ Updated on Thu, 15 Dec 2022 13:45:22 GMT</small>
 </td>
 </tr>
 </tfoot>
