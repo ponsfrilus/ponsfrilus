@@ -32,6 +32,46 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank">jless</a>&nbsp;<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank"><img src="https://img.shields.io/github/stars/PaulJuliusMartinez/jless?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank">miller</a>&nbsp;<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank"><img src="https://img.shields.io/github/stars/johnkerl/miller?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/spulec/moto" title="A library that allows you to easily mock out tests based on AWS infrastructure." target="_blank">moto</a>&nbsp;<a href="https://github.com/spulec/moto" title="A library that allows you to easily mock out tests based on AWS infrastructure." target="_blank"><img src="https://img.shields.io/github/stars/spulec/moto?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank">kopf</a>&nbsp;<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank"><img src="https://img.shields.io/github/stars/nolar/kopf?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank">miraclecast</a>&nbsp;<a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank"><img src="https://img.shields.io/github/stars/albfan/miraclecast?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank">djot</a>&nbsp;<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank"><img src="https://img.shields.io/github/stars/jgm/djot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank">finch</a>&nbsp;<a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank"><img src="https://img.shields.io/github/stars/runfinch/finch?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank">twitodon</a>&nbsp;<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank"><img src="https://img.shields.io/github/stars/diddledani/twitodon?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank">faro-web-sdk</a>&nbsp;<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank"><img src="https://img.shields.io/github/stars/grafana/faro-web-sdk?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank">present</a>&nbsp;<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank"><img src="https://img.shields.io/github/stars/vinayak-mehta/present?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank">xsv</a>&nbsp;<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/BurntSushi/xsv?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank">steampipe</a>&nbsp;<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank"><img src="https://img.shields.io/github/stars/turbot/steampipe?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank">golink</a>&nbsp;<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank"><img src="https://img.shields.io/github/stars/tailscale/golink?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -54,46 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank">best-practices</a>&nbsp;<a href="https://github.com/cnumr/best-practices" title="115 Web Ecodesign Best Practices" target="_blank"><img src="https://img.shields.io/github/stars/cnumr/best-practices?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank">pocket-casts-android</a>&nbsp;<a href="https://github.com/Automattic/pocket-casts-android" title="Pocket Casts Android 🎧" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank">design-system</a>&nbsp;<a href="https://github.com/swisspost/design-system" title="The Swiss Post Design System pattern library for a consistent and accessible user experience across the web platform." target="_blank"><img src="https://img.shields.io/github/stars/swisspost/design-system?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank">kopf</a>&nbsp;<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank"><img src="https://img.shields.io/github/stars/nolar/kopf?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank">miraclecast</a>&nbsp;<a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank"><img src="https://img.shields.io/github/stars/albfan/miraclecast?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank">djot</a>&nbsp;<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank"><img src="https://img.shields.io/github/stars/jgm/djot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank">finch</a>&nbsp;<a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank"><img src="https://img.shields.io/github/stars/runfinch/finch?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank">twitodon</a>&nbsp;<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank"><img src="https://img.shields.io/github/stars/diddledani/twitodon?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank">faro-web-sdk</a>&nbsp;<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank"><img src="https://img.shields.io/github/stars/grafana/faro-web-sdk?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank">present</a>&nbsp;<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank"><img src="https://img.shields.io/github/stars/vinayak-mehta/present?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank">outstatic</a>&nbsp;<a href="https://github.com/avitorio/outstatic" title="Outstatic - A static CMS for Next.js" target="_blank"><img src="https://img.shields.io/github/stars/avitorio/outstatic?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank">linen.dev</a>&nbsp;<a href="https://github.com/Linen-dev/linen.dev" title="Google-searchable Slack alternative for Communities" target="_blank"><img src="https://img.shields.io/github/stars/Linen-dev/linen.dev?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank">roeschti</a>&nbsp;<a href="https://github.com/Georg-code/roeschti" title="Rust programming, in Swissgerman" target="_blank"><img src="https://img.shields.io/github/stars/Georg-code/roeschti?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -158,7 +158,7 @@ dashboard. Let's configure the GitLab Statistic for that.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 20 Dec 2022 13:45:21 GMT</small>
+<small>⏰ Updated on Wed, 21 Dec 2022 13:45:29 GMT</small>
 </td>
 </tr>
 </tfoot>
