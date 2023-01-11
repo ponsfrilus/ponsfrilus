@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank">ecode</a>&nbsp;<a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank"><img src="https://img.shields.io/github/stars/SpartanJ/ecode?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank">jless</a>&nbsp;<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank"><img src="https://img.shields.io/github/stars/PaulJuliusMartinez/jless?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank">miller</a>&nbsp;<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank"><img src="https://img.shields.io/github/stars/johnkerl/miller?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/getmoto/moto" title="A library that allows you to easily mock out tests based on AWS infrastructure." target="_blank">moto</a>&nbsp;<a href="https://github.com/getmoto/moto" title="A library that allows you to easily mock out tests based on AWS infrastructure." target="_blank"><img src="https://img.shields.io/github/stars/getmoto/moto?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank">kopf</a>&nbsp;<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank"><img src="https://img.shields.io/github/stars/nolar/kopf?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank">miraclecast</a>&nbsp;<a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank"><img src="https://img.shields.io/github/stars/albfan/miraclecast?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank">djot</a>&nbsp;<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank"><img src="https://img.shields.io/github/stars/jgm/djot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank">finch</a>&nbsp;<a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank"><img src="https://img.shields.io/github/stars/runfinch/finch?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank">twitodon</a>&nbsp;<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank"><img src="https://img.shields.io/github/stars/diddledani/twitodon?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank">faro-web-sdk</a>&nbsp;<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank"><img src="https://img.shields.io/github/stars/grafana/faro-web-sdk?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank">sre-interview-prep-guide</a>&nbsp;<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank"><img src="https://img.shields.io/github/stars/mxssl/sre-interview-prep-guide?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank">bluenote</a>&nbsp;<a href="https://github.com/xentenza/bluenote" title="Data visualization of Blue Note Records from 1939 to 2007." target="_blank"><img src="https://img.shields.io/github/stars/xentenza/bluenote?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank">jless</a>&nbsp;<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank"><img src="https://img.shields.io/github/stars/PaulJuliusMartinez/jless?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank">miller</a>&nbsp;<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank"><img src="https://img.shields.io/github/stars/johnkerl/miller?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/getmoto/moto" title="A library that allows you to easily mock out tests based on AWS infrastructure." target="_blank">moto</a>&nbsp;<a href="https://github.com/getmoto/moto" title="A library that allows you to easily mock out tests based on AWS infrastructure." target="_blank"><img src="https://img.shields.io/github/stars/getmoto/moto?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank">kopf</a>&nbsp;<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank"><img src="https://img.shields.io/github/stars/nolar/kopf?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank">miraclecast</a>&nbsp;<a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank"><img src="https://img.shields.io/github/stars/albfan/miraclecast?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank">djot</a>&nbsp;<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank"><img src="https://img.shields.io/github/stars/jgm/djot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank">finch</a>&nbsp;<a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank"><img src="https://img.shields.io/github/stars/runfinch/finch?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank">twitodon</a>&nbsp;<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank"><img src="https://img.shields.io/github/stars/diddledani/twitodon?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank">faro-web-sdk</a>&nbsp;<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank"><img src="https://img.shields.io/github/stars/grafana/faro-web-sdk?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank">present</a>&nbsp;<a href="https://github.com/vinayak-mehta/present" title="A terminal-based presentation tool with colors and effects." target="_blank"><img src="https://img.shields.io/github/stars/vinayak-mehta/present?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -158,7 +158,7 @@ dashboard. Let's configure the GitLab Statistic for that.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 10 Jan 2023 13:45:22 GMT</small>
+<small>⏰ Updated on Wed, 11 Jan 2023 13:46:10 GMT</small>
 </td>
 </tr>
 </tfoot>
