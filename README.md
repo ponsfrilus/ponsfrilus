@@ -32,39 +32,11 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank">what-happens-when</a>&nbsp;<a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank"><img src="https://img.shields.io/github/stars/alex/what-happens-when?style=social" alt="GitHub"></a>
+<a href="https://github.com/borgbackup/borg" title="Deduplicating archiver with compression and authenticated encryption." target="_blank">borg</a>&nbsp;<a href="https://github.com/borgbackup/borg" title="Deduplicating archiver with compression and authenticated encryption." target="_blank"><img src="https://img.shields.io/github/stars/borgbackup/borg?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank">sre-interview-prep-guide</a>&nbsp;<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank"><img src="https://img.shields.io/github/stars/mxssl/sre-interview-prep-guide?style=social" alt="GitHub"></a>
+<a href="https://github.com/red-data-tools/YouPlot" title="A command line tool that draw plots on the terminal." target="_blank">YouPlot</a>&nbsp;<a href="https://github.com/red-data-tools/YouPlot" title="A command line tool that draw plots on the terminal." target="_blank"><img src="https://img.shields.io/github/stars/red-data-tools/YouPlot?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank">xsv</a>&nbsp;<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/BurntSushi/xsv?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank">steampipe</a>&nbsp;<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank"><img src="https://img.shields.io/github/stars/turbot/steampipe?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank">golink</a>&nbsp;<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank"><img src="https://img.shields.io/github/stars/tailscale/golink?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank">freeotp-android</a>&nbsp;<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank"><img src="https://img.shields.io/github/stars/freeotp/freeotp-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/teaxyz/cli" title="the unified package manager (brew2)" target="_blank">cli</a>&nbsp;<a href="https://github.com/teaxyz/cli" title="the unified package manager (brew2)" target="_blank"><img src="https://img.shields.io/github/stars/teaxyz/cli?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank">silverbullet</a>&nbsp;<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank"><img src="https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank">coding-dojo</a>&nbsp;<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank"><img src="https://img.shields.io/github/stars/javascriptdezero/coding-dojo?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank">Linux-Bash-Commands</a>&nbsp;<a href="https://github.com/trinib/Linux-Bash-Commands" title=":godmode: Ultimate list of Linux bash commands, cheatsheet and resources" target="_blank"><img src="https://img.shields.io/github/stars/trinib/Linux-Bash-Commands?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
 <li>
 <a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank">ecode</a>&nbsp;<a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank"><img src="https://img.shields.io/github/stars/SpartanJ/ecode?style=social" alt="GitHub"></a>
 </li>
@@ -89,11 +61,39 @@
 <li>
 <a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank">finch</a>&nbsp;<a href="https://github.com/runfinch/finch" title="The Finch CLI an open source client for container development" target="_blank"><img src="https://img.shields.io/github/stars/runfinch/finch?style=social" alt="GitHub"></a>
 </li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
 <li>
-<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank">twitodon</a>&nbsp;<a href="https://github.com/diddledani/twitodon" title="Twitter to Mastodon account mapping service to aid migration away from Twitter without losing all your followed friends" target="_blank"><img src="https://img.shields.io/github/stars/diddledani/twitodon?style=social" alt="GitHub"></a>
+<a href="https://github.com/alpinejs/alpine" title="A rugged, minimal framework for composing JavaScript behavior in your markup. " target="_blank">alpine</a>&nbsp;<a href="https://github.com/alpinejs/alpine" title="A rugged, minimal framework for composing JavaScript behavior in your markup. " target="_blank"><img src="https://img.shields.io/github/stars/alpinejs/alpine?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank">faro-web-sdk</a>&nbsp;<a href="https://github.com/grafana/faro-web-sdk" title="The Grafana Faro Web SDK, part of the Grafana Faro project, is a highly configurable web SDK for real user monitoring (RUM) that instruments browser frontend applications to capture observability signals. Frontend telemetry can then be correlated with backend and infrastructure data for full-stack observability." target="_blank"><img src="https://img.shields.io/github/stars/grafana/faro-web-sdk?style=social" alt="GitHub"></a>
+<a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank">what-happens-when</a>&nbsp;<a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank"><img src="https://img.shields.io/github/stars/alex/what-happens-when?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank">sre-interview-prep-guide</a>&nbsp;<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank"><img src="https://img.shields.io/github/stars/mxssl/sre-interview-prep-guide?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank">xsv</a>&nbsp;<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/BurntSushi/xsv?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank">steampipe</a>&nbsp;<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank"><img src="https://img.shields.io/github/stars/turbot/steampipe?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank">golink</a>&nbsp;<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank"><img src="https://img.shields.io/github/stars/tailscale/golink?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank">freeotp-android</a>&nbsp;<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank"><img src="https://img.shields.io/github/stars/freeotp/freeotp-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/teaxyz/cli" title="the next generation, cross‐platform package manager" target="_blank">cli</a>&nbsp;<a href="https://github.com/teaxyz/cli" title="the next generation, cross‐platform package manager" target="_blank"><img src="https://img.shields.io/github/stars/teaxyz/cli?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank">silverbullet</a>&nbsp;<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank"><img src="https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank">coding-dojo</a>&nbsp;<a href="https://github.com/javascriptdezero/coding-dojo" title="Exercices en Français pour apprendre le JavaScript (javascriptdezero.com)" target="_blank"><img src="https://img.shields.io/github/stars/javascriptdezero/coding-dojo?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -158,7 +158,7 @@ dashboard. Let's configure the GitLab Statistic for that.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 13 Jan 2023 13:45:17 GMT</small>
+<small>⏰ Updated on Mon, 16 Jan 2023 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
