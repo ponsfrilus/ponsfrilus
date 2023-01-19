@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/bottlerocket-os/bottlerocket" title="An operating system designed for hosting containers" target="_blank">bottlerocket</a>&nbsp;<a href="https://github.com/bottlerocket-os/bottlerocket" title="An operating system designed for hosting containers" target="_blank"><img src="https://img.shields.io/github/stars/bottlerocket-os/bottlerocket?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/alexcrist/autotone" title="A vocal pitch correction web application (like Autotune)" target="_blank">autotone</a>&nbsp;<a href="https://github.com/alexcrist/autotone" title="A vocal pitch correction web application (like Autotune)" target="_blank"><img src="https://img.shields.io/github/stars/alexcrist/autotone?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/alpinejs/alpine" title="A rugged, minimal framework for composing JavaScript behavior in your markup. " target="_blank">alpine</a>&nbsp;<a href="https://github.com/alpinejs/alpine" title="A rugged, minimal framework for composing JavaScript behavior in your markup. " target="_blank"><img src="https://img.shields.io/github/stars/alpinejs/alpine?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank">what-happens-when</a>&nbsp;<a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank"><img src="https://img.shields.io/github/stars/alex/what-happens-when?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank">sre-interview-prep-guide</a>&nbsp;<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank"><img src="https://img.shields.io/github/stars/mxssl/sre-interview-prep-guide?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank">xsv</a>&nbsp;<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/BurntSushi/xsv?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank">steampipe</a>&nbsp;<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank"><img src="https://img.shields.io/github/stars/turbot/steampipe?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank">golink</a>&nbsp;<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank"><img src="https://img.shields.io/github/stars/tailscale/golink?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank">freeotp-android</a>&nbsp;<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank"><img src="https://img.shields.io/github/stars/freeotp/freeotp-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/teaxyz/cli" title="the next generation, cross‐platform package manager" target="_blank">cli</a>&nbsp;<a href="https://github.com/teaxyz/cli" title="the next generation, cross‐platform package manager" target="_blank"><img src="https://img.shields.io/github/stars/teaxyz/cli?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/SpartanJ/eepp" title="eepp is an open source cross-platform game and application development framework heavily focused on the development of rich graphical user interfaces." target="_blank">eepp</a>&nbsp;<a href="https://github.com/SpartanJ/eepp" title="eepp is an open source cross-platform game and application development framework heavily focused on the development of rich graphical user interfaces." target="_blank"><img src="https://img.shields.io/github/stars/SpartanJ/eepp?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/jgm/djot" title="A light markup language" target="_blank">djot</a>&nbsp;<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank"><img src="https://img.shields.io/github/stars/jgm/djot?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/alexcrist/autotone" title="A vocal pitch correction web application (like Autotune)" target="_blank">autotone</a>&nbsp;<a href="https://github.com/alexcrist/autotone" title="A vocal pitch correction web application (like Autotune)" target="_blank"><img src="https://img.shields.io/github/stars/alexcrist/autotone?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/alpinejs/alpine" title="A rugged, minimal framework for composing JavaScript behavior in your markup. " target="_blank">alpine</a>&nbsp;<a href="https://github.com/alpinejs/alpine" title="A rugged, minimal framework for composing JavaScript behavior in your markup. " target="_blank"><img src="https://img.shields.io/github/stars/alpinejs/alpine?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank">what-happens-when</a>&nbsp;<a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank"><img src="https://img.shields.io/github/stars/alex/what-happens-when?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank">sre-interview-prep-guide</a>&nbsp;<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank"><img src="https://img.shields.io/github/stars/mxssl/sre-interview-prep-guide?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank">xsv</a>&nbsp;<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/BurntSushi/xsv?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank">steampipe</a>&nbsp;<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank"><img src="https://img.shields.io/github/stars/turbot/steampipe?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank">golink</a>&nbsp;<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank"><img src="https://img.shields.io/github/stars/tailscale/golink?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank">freeotp-android</a>&nbsp;<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank"><img src="https://img.shields.io/github/stars/freeotp/freeotp-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/teaxyz/cli" title="the next generation, cross‐platform package manager" target="_blank">cli</a>&nbsp;<a href="https://github.com/teaxyz/cli" title="the next generation, cross‐platform package manager" target="_blank"><img src="https://img.shields.io/github/stars/teaxyz/cli?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank">silverbullet</a>&nbsp;<a href="https://github.com/silverbulletmd/silverbullet" title="Markdown as a platform" target="_blank"><img src="https://img.shields.io/github/stars/silverbulletmd/silverbullet?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -160,7 +160,7 @@ dashboard. Let's configure the GitLab Statistic for that.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 18 Jan 2023 13:45:15 GMT</small>
+<small>⏰ Updated on Thu, 19 Jan 2023 13:45:32 GMT</small>
 </td>
 </tr>
 </tfoot>
