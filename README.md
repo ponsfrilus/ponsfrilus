@@ -103,6 +103,33 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/a47d0734681876282007042a316ebfa23126ab7f" title="2023-01-17T11:08:44.000+01:00" target="_blank">a47d0734</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
+          <pre>Merge pull request #7 from ponsfrilus/svg-responsible
+
+SVG generation for intership responsibles</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/34522dacdc7633aa216eea0528890b7d9091dbf0" title="2023-01-17T11:07:34.000+01:00" target="_blank">34522dac</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
+          <pre>[feature] Generate the resposible report</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/a3d95c64bb6fbd62380e5951e4fd8b5fcc6183c8" title="2023-01-13T10:33:52.000+01:00" target="_blank">a3d95c64</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
+          <pre>[fix] conflicts</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/8005abd7769873e7431e7a6aaaa37968ebc8d605" title="2023-01-13T10:29:15.000+01:00" target="_blank">8005abd7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
+          <pre>Merge branch 'main' of github.com:Azecko/rapport-de-stage into svg-responsible</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/bcfb00870c8c763841cd8a8ff2a58d591e47c732" title="2022-12-22T12:55:42.000+01:00" target="_blank">bcfb0087</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
+          <pre>[feature] responsible SVG</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/e4db766ab407fc11cdfb9fbedc7e1da3493397ab" title="2022-12-12T18:50:44.000+01:00" target="_blank">e4db766a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[feature] add postgres dashboard</pre>
         </td>
@@ -129,36 +156,11 @@ dashboard. Let's configure the GitLab Statistic for that.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/da89835d650cc9dd4b7b779d544cee7bfbc2680c" title="2022-12-10T00:10:19.000+01:00" target="_blank">da89835d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[refactor] provisionned dashboards</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/d7e5024337066d4b6483ad77f0119d1fbbea80fe" title="2022-12-09T18:42:10.000+01:00" target="_blank">d7e50243</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[fix] conflictued UID / Title</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/cd8d7a410b777dbbcbc45af48d0799834fecc80a" title="2022-12-09T17:58:13.000+01:00" target="_blank">cd8d7a41</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[feature] go.epfl.ch/prometheus datasource</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/f5777ff2d16b9f3aecbfd12b8cebfa66cfdeb1e8" title="2022-12-09T15:36:18.000+01:00" target="_blank">f5777ff2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[feature] add people.epfl.ch's A10 probe</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/c65b208c19a3243b54eefbfae1fa9ef8cc416c0c" title="2022-12-09T15:36:01.000+01:00" target="_blank">c65b208c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[feature] add "go"'s metrics</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/314b1c88cb9108a94022184a7a738fd62e4afbf0" title="2022-12-02T14:47:03.000+01:00" target="_blank">314b1c88</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
-          <pre>[svg] source file for stagiaire</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 20 Jan 2023 13:45:26 GMT</small>
+<small>⏰ Updated on Mon, 23 Jan 2023 13:45:21 GMT</small>
 </td>
 </tr>
 </tfoot>
