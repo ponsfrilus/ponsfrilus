@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-tg-instantview/commits/883076d09850e0e8df78da2b2f90ef8b2c7a703d" title="2023-01-26T10:25:16.000+01:00" target="_blank">883076d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-tg-instantview" title="EPFL Telegram Instant View (IV)">/epfl-tg-instantview</a></strong></div>
+          <pre>[feature] base work for actu.epfl.ch</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/a47d0734681876282007042a316ebfa23126ab7f" title="2023-01-17T11:08:44.000+01:00" target="_blank">a47d0734</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
           <pre>Merge pull request #7 from ponsfrilus/svg-responsible
 
@@ -151,16 +156,11 @@ dashboard. Let's configure the GitLab Statistic for that.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/f8f5fa3765efac8acbd3ad04bc44f2a23ce8a0d7" title="2022-12-10T00:18:11.000+01:00" target="_blank">f8f5fa37</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[refactor] dashboards tags</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/da89835d650cc9dd4b7b779d544cee7bfbc2680c" title="2022-12-10T00:10:19.000+01:00" target="_blank">da89835d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[refactor] provisionned dashboards</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 25 Jan 2023 13:45:29 GMT</small>
+<small>⏰ Updated on Thu, 26 Jan 2023 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
