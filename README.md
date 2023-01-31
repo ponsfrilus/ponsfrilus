@@ -103,6 +103,23 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-polylex/commits/93064d6e5ec28cf524ba718b9fc12f3fe2c9f66c" title="2023-01-30T17:11:40.000+01:00" target="_blank">93064d6e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes">/wp-polylex</a></strong></div>
+          <pre>[feature] Lex redirect
+
+This add a redirect feature to polylex-admin.epfl.ch: the path
+`/lex` will now redirect to any french PDF document. For example,
+https://polylex-admin.epfl.ch/lex/1.0.0 will redirect to the 
+corresponding
+document.
+
+By default, it's assumed the the non-abrogated document is called, but 
+if
+it doesn't exist then the abrogated document will be served.
+
+Bump to v1.10.0.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-tg-instantview/commits/883076d09850e0e8df78da2b2f90ef8b2c7a703d" title="2023-01-26T10:25:16.000+01:00" target="_blank">883076d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-tg-instantview" title="EPFL Telegram Instant View (IV)">/epfl-tg-instantview</a></strong></div>
           <pre>[feature] base work for actu.epfl.ch</pre>
         </td>
@@ -151,16 +168,11 @@ dashboard. Let's configure the GitLab Statistic for that.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/c4f44a6bc95354ad14d7a602f6fc8def8b4cc124" title="2022-12-10T00:56:24.000+01:00" target="_blank">c4f44a6b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[feature] Go dashboards: NGINX, PHP-FPM & Traefik</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/f8f5fa3765efac8acbd3ad04bc44f2a23ce8a0d7" title="2022-12-10T00:18:11.000+01:00" target="_blank">f8f5fa37</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[refactor] dashboards tags</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 30 Jan 2023 13:45:14 GMT</small>
+<small>⏰ Updated on Tue, 31 Jan 2023 13:45:29 GMT</small>
 </td>
 </tr>
 </tfoot>
