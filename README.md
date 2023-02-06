@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/voc/voctoweb" title="voctoweb – the frontend and backend software behind media.ccc.de" target="_blank">voctoweb</a>&nbsp;<a href="https://github.com/voc/voctoweb" title="voctoweb – the frontend and backend software behind media.ccc.de" target="_blank"><img src="https://img.shields.io/github/stars/voc/voctoweb?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/GridSpace/grid-apps" title="Browser-based Slicer for 3D Printing, CAM, Laser (Kiri:Moto) and mesh editor (Mesh:Tool)" target="_blank">grid-apps</a>&nbsp;<a href="https://github.com/GridSpace/grid-apps" title="Browser-based Slicer for 3D Printing, CAM, Laser (Kiri:Moto) and mesh editor (Mesh:Tool)" target="_blank"><img src="https://img.shields.io/github/stars/GridSpace/grid-apps?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SpartanJ/eepp" title="eepp is an open source cross-platform game and application development framework heavily focused on the development of rich graphical user interfaces." target="_blank">eepp</a>&nbsp;<a href="https://github.com/SpartanJ/eepp" title="eepp is an open source cross-platform game and application development framework heavily focused on the development of rich graphical user interfaces." target="_blank"><img src="https://img.shields.io/github/stars/SpartanJ/eepp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/borgbackup/borg" title="Deduplicating archiver with compression and authenticated encryption." target="_blank">borg</a>&nbsp;<a href="https://github.com/borgbackup/borg" title="Deduplicating archiver with compression and authenticated encryption." target="_blank"><img src="https://img.shields.io/github/stars/borgbackup/borg?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/red-data-tools/YouPlot" title="A command line tool that draw plots on the terminal." target="_blank">YouPlot</a>&nbsp;<a href="https://github.com/red-data-tools/YouPlot" title="A command line tool that draw plots on the terminal." target="_blank"><img src="https://img.shields.io/github/stars/red-data-tools/YouPlot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank">ecode</a>&nbsp;<a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank"><img src="https://img.shields.io/github/stars/SpartanJ/ecode?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank">jless</a>&nbsp;<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank"><img src="https://img.shields.io/github/stars/PaulJuliusMartinez/jless?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank">miller</a>&nbsp;<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank"><img src="https://img.shields.io/github/stars/johnkerl/miller?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/getmoto/moto" title="A library that allows you to easily mock out tests based on AWS infrastructure." target="_blank">moto</a>&nbsp;<a href="https://github.com/getmoto/moto" title="A library that allows you to easily mock out tests based on AWS infrastructure." target="_blank"><img src="https://img.shields.io/github/stars/getmoto/moto?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank">kopf</a>&nbsp;<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank"><img src="https://img.shields.io/github/stars/nolar/kopf?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/LAION-AI/Open-Assistant" title="OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so." target="_blank">Open-Assistant</a>&nbsp;<a href="https://github.com/LAION-AI/Open-Assistant" title="OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so." target="_blank"><img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/bottlerocket-os/bottlerocket" title="An operating system designed for hosting containers" target="_blank">bottlerocket</a>&nbsp;<a href="https://github.com/bottlerocket-os/bottlerocket" title="An operating system designed for hosting containers" target="_blank"><img src="https://img.shields.io/github/stars/bottlerocket-os/bottlerocket?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank">freeotp-android</a>&nbsp;<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank"><img src="https://img.shields.io/github/stars/freeotp/freeotp-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/teaxyz/cli" title="the next-generation, cross‐platform package manager" target="_blank">cli</a>&nbsp;<a href="https://github.com/teaxyz/cli" title="the next-generation, cross‐platform package manager" target="_blank"><img src="https://img.shields.io/github/stars/teaxyz/cli?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/SpartanJ/eepp" title="eepp is an open source cross-platform game and application development framework heavily focused on the development of rich graphical user interfaces." target="_blank">eepp</a>&nbsp;<a href="https://github.com/SpartanJ/eepp" title="eepp is an open source cross-platform game and application development framework heavily focused on the development of rich graphical user interfaces." target="_blank"><img src="https://img.shields.io/github/stars/SpartanJ/eepp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/borgbackup/borg" title="Deduplicating archiver with compression and authenticated encryption." target="_blank">borg</a>&nbsp;<a href="https://github.com/borgbackup/borg" title="Deduplicating archiver with compression and authenticated encryption." target="_blank"><img src="https://img.shields.io/github/stars/borgbackup/borg?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/red-data-tools/YouPlot" title="A command line tool that draw plots on the terminal." target="_blank">YouPlot</a>&nbsp;<a href="https://github.com/red-data-tools/YouPlot" title="A command line tool that draw plots on the terminal." target="_blank"><img src="https://img.shields.io/github/stars/red-data-tools/YouPlot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank">ecode</a>&nbsp;<a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank"><img src="https://img.shields.io/github/stars/SpartanJ/ecode?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank">jless</a>&nbsp;<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank"><img src="https://img.shields.io/github/stars/PaulJuliusMartinez/jless?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank">miller</a>&nbsp;<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank"><img src="https://img.shields.io/github/stars/johnkerl/miller?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/getmoto/moto" title="A library that allows you to easily mock out tests based on AWS infrastructure." target="_blank">moto</a>&nbsp;<a href="https://github.com/getmoto/moto" title="A library that allows you to easily mock out tests based on AWS infrastructure." target="_blank"><img src="https://img.shields.io/github/stars/getmoto/moto?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank">kopf</a>&nbsp;<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank"><img src="https://img.shields.io/github/stars/nolar/kopf?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank">miraclecast</a>&nbsp;<a href="https://github.com/albfan/miraclecast" title="Connect external monitors to your system via Wifi-Display specification also known as Miracast" target="_blank"><img src="https://img.shields.io/github/stars/albfan/miraclecast?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank">djot</a>&nbsp;<a href="https://github.com/jgm/djot" title="A light markup language" target="_blank"><img src="https://img.shields.io/github/stars/jgm/djot?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -172,7 +172,7 @@ dashboard. Let's configure the GitLab Statistic for that.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 03 Feb 2023 13:45:25 GMT</small>
+<small>⏰ Updated on Mon, 06 Feb 2023 13:46:01 GMT</small>
 </td>
 </tr>
 </tfoot>
