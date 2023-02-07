@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/epfl-si/common-web" title="Common image for all ERP-MD web applications using Apache" target="_blank">common-web</a>&nbsp;<a href="https://github.com/epfl-si/common-web" title="Common image for all ERP-MD web applications using Apache" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/common-web?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/LAION-AI/Open-Assistant" title="OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so." target="_blank">Open-Assistant</a>&nbsp;<a href="https://github.com/LAION-AI/Open-Assistant" title="OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so." target="_blank"><img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bottlerocket-os/bottlerocket" title="An operating system designed for hosting containers" target="_blank">bottlerocket</a>&nbsp;<a href="https://github.com/bottlerocket-os/bottlerocket" title="An operating system designed for hosting containers" target="_blank"><img src="https://img.shields.io/github/stars/bottlerocket-os/bottlerocket?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/alexcrist/autotone" title="A vocal pitch correction web application (like Autotune)" target="_blank">autotone</a>&nbsp;<a href="https://github.com/alexcrist/autotone" title="A vocal pitch correction web application (like Autotune)" target="_blank"><img src="https://img.shields.io/github/stars/alexcrist/autotone?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/alpinejs/alpine" title="A rugged, minimal framework for composing JavaScript behavior in your markup. " target="_blank">alpine</a>&nbsp;<a href="https://github.com/alpinejs/alpine" title="A rugged, minimal framework for composing JavaScript behavior in your markup. " target="_blank"><img src="https://img.shields.io/github/stars/alpinejs/alpine?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank">what-happens-when</a>&nbsp;<a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank"><img src="https://img.shields.io/github/stars/alex/what-happens-when?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank">sre-interview-prep-guide</a>&nbsp;<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank"><img src="https://img.shields.io/github/stars/mxssl/sre-interview-prep-guide?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank">xsv</a>&nbsp;<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/BurntSushi/xsv?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank">steampipe</a>&nbsp;<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank"><img src="https://img.shields.io/github/stars/turbot/steampipe?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank">golink</a>&nbsp;<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank"><img src="https://img.shields.io/github/stars/tailscale/golink?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/voc/voctoweb" title="voctoweb – the frontend and backend software behind media.ccc.de" target="_blank">voctoweb</a>&nbsp;<a href="https://github.com/voc/voctoweb" title="voctoweb – the frontend and backend software behind media.ccc.de" target="_blank"><img src="https://img.shields.io/github/stars/voc/voctoweb?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank">kopf</a>&nbsp;<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank"><img src="https://img.shields.io/github/stars/nolar/kopf?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/LAION-AI/Open-Assistant" title="OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so." target="_blank">Open-Assistant</a>&nbsp;<a href="https://github.com/LAION-AI/Open-Assistant" title="OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so." target="_blank"><img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bottlerocket-os/bottlerocket" title="An operating system designed for hosting containers" target="_blank">bottlerocket</a>&nbsp;<a href="https://github.com/bottlerocket-os/bottlerocket" title="An operating system designed for hosting containers" target="_blank"><img src="https://img.shields.io/github/stars/bottlerocket-os/bottlerocket?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/alexcrist/autotone" title="A vocal pitch correction web application (like Autotune)" target="_blank">autotone</a>&nbsp;<a href="https://github.com/alexcrist/autotone" title="A vocal pitch correction web application (like Autotune)" target="_blank"><img src="https://img.shields.io/github/stars/alexcrist/autotone?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/alpinejs/alpine" title="A rugged, minimal framework for composing JavaScript behavior in your markup. " target="_blank">alpine</a>&nbsp;<a href="https://github.com/alpinejs/alpine" title="A rugged, minimal framework for composing JavaScript behavior in your markup. " target="_blank"><img src="https://img.shields.io/github/stars/alpinejs/alpine?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank">what-happens-when</a>&nbsp;<a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank"><img src="https://img.shields.io/github/stars/alex/what-happens-when?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank">sre-interview-prep-guide</a>&nbsp;<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank"><img src="https://img.shields.io/github/stars/mxssl/sre-interview-prep-guide?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank">xsv</a>&nbsp;<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/BurntSushi/xsv?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank">steampipe</a>&nbsp;<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank"><img src="https://img.shields.io/github/stars/turbot/steampipe?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank">golink</a>&nbsp;<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank"><img src="https://img.shields.io/github/stars/tailscale/golink?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank">freeotp-android</a>&nbsp;<a href="https://github.com/freeotp/freeotp-android" title="null" target="_blank"><img src="https://img.shields.io/github/stars/freeotp/freeotp-android?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -172,7 +172,7 @@ dashboard. Let's configure the GitLab Statistic for that.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 06 Feb 2023 13:46:01 GMT</small>
+<small>⏰ Updated on Tue, 07 Feb 2023 13:45:31 GMT</small>
 </td>
 </tr>
 </tfoot>
