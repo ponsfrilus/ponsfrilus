@@ -103,76 +103,61 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-polylex/commits/93064d6e5ec28cf524ba718b9fc12f3fe2c9f66c" title="2023-01-30T17:11:40.000+01:00" target="_blank">93064d6e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-polylex" title="Manage and serve the list of EPFL lexes">/wp-polylex</a></strong></div>
-          <pre>[feature] Lex redirect
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/b9ec398fe1e99ebfaa246b6b72fa0e1816ceaf34" title="2023-02-09T21:52:31.000+01:00" target="_blank">b9ec398f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <pre>[doc] about ghcr.io login</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/dddfd12719c3b50b7a2476d4f5fa15d9bdf7d81c" title="2023-02-09T21:42:06.000+01:00" target="_blank">dddfd127</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <pre>[chore] clean up
 
-This add a redirect feature to polylex-admin.epfl.ch: the path
-`/lex` will now redirect to any french PDF document. For example,
-https://polylex-admin.epfl.ch/lex/1.0.0 will redirect to the 
-corresponding
-document.
-
-By default, it's assumed the the non-abrogated document is called, but 
-if
-it doesn't exist then the abrogated document will be served.
-
-Bump to v1.10.0.</pre>
+and bump to version 1.1.3</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-tg-instantview/commits/883076d09850e0e8df78da2b2f90ef8b2c7a703d" title="2023-01-26T10:25:16.000+01:00" target="_blank">883076d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-tg-instantview" title="EPFL Telegram Instant View (IV)">/epfl-tg-instantview</a></strong></div>
-          <pre>[feature] base work for actu.epfl.ch</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/7361b83afcbd48b920564e55d4f6a39edecc3c31" title="2023-02-09T21:39:07.000+01:00" target="_blank">7361b83a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
+          <pre>[fix] ensure `MAIL_SF` is set</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/a47d0734681876282007042a316ebfa23126ab7f" title="2023-01-17T11:08:44.000+01:00" target="_blank">a47d0734</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
-          <pre>Merge pull request #7 from ponsfrilus/svg-responsible
-
-SVG generation for intership responsibles</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/e86cedbab15f38e2dc8bb409114c0522653b9833" title="2023-02-09T21:38:50.000+01:00" target="_blank">e86cedba</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
+          <pre>[fix] use `preprod` image tag</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/34522dacdc7633aa216eea0528890b7d9091dbf0" title="2023-01-17T11:07:34.000+01:00" target="_blank">34522dac</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
-          <pre>[feature] Generate the resposible report</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/63f5c8567e1f7baf5f4cddce9917f5cb50578e7c" title="2023-02-09T21:20:33.000+01:00" target="_blank">63f5c856</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <pre>[fix] `ScriptAlias` Apache var</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/a3d95c64bb6fbd62380e5951e4fd8b5fcc6183c8" title="2023-01-13T10:33:52.000+01:00" target="_blank">a3d95c64</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
-          <pre>[fix] conflicts</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/dc9bc9336dad5da4f4f087ad6d0f64efb03ebfb1" title="2023-02-09T21:16:37.000+01:00" target="_blank">dc9bc933</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
+          <pre>[fix] use generic `app` dir from `common-web`</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/8005abd7769873e7431e7a6aaaa37968ebc8d605" title="2023-01-13T10:29:15.000+01:00" target="_blank">8005abd7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
-          <pre>Merge branch 'main' of github.com:Azecko/rapport-de-stage into svg-responsible</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/e9d79eb801dfd3fcb8a47312c5ed3e65a65a3fad" title="2023-02-09T20:52:17.000+01:00" target="_blank">e9d79eb8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <pre>[feature] intruduce version</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/bcfb00870c8c763841cd8a8ff2a58d591e47c732" title="2022-12-22T12:55:42.000+01:00" target="_blank">bcfb0087</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
-          <pre>[feature] responsible SVG</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/d97782fa9c5ffbb611886f66cf1a4ff6f0007d40" title="2023-02-09T20:51:47.000+01:00" target="_blank">d97782fa</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
+          <pre>[fix] building in test namespace only</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/e4db766ab407fc11cdfb9fbedc7e1da3493397ab" title="2022-12-12T18:50:44.000+01:00" target="_blank">e4db766a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[feature] add postgres dashboard</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/1bd019584015ba5a353d16687ef286e08c09d1a9" title="2023-02-09T18:14:18.000+01:00" target="_blank">1bd01958</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
+          <pre>[update] Ansible version to 6.3.0</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/5e7f279d3f1116379129c4e5b0d1db54409b74fa" title="2022-12-10T01:26:46.000+01:00" target="_blank">5e7f279d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[feature] public dashboard
-
-Since Grafana 9.1 an opt-in feature is available to configure public 
-dashboard. Let's configure the GitLab Statistic for that.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/c4f44a6bc95354ad14d7a602f6fc8def8b4cc124" title="2022-12-10T00:56:24.000+01:00" target="_blank">c4f44a6b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[feature] Go dashboards: NGINX, PHP-FPM & Traefik</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/a9ac83b0cfa173160c83cae0f15c18c95fe68c6f" title="2023-02-09T17:41:01.000+01:00" target="_blank">a9ac83b0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
+          <pre>[fix] businesscard Git repo</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 09 Feb 2023 13:46:28 GMT</small>
+<small>⏰ Updated on Fri, 10 Feb 2023 13:45:20 GMT</small>
 </td>
 </tr>
 </tfoot>
