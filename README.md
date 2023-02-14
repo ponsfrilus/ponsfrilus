@@ -103,6 +103,18 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/1e7e5379356c38bf4e9aa7bc4b32c43064ab154a" title="2023-02-14T09:02:04.000+01:00" target="_blank">1e7e5379</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
+          <pre>Merge pull request #15 from Azecko/main
+
+Many things</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/aeb7c61c7cf1867d6bebc4aa9089f865e509a357" title="2023-02-14T08:46:35.000+01:00" target="_blank">aeb7c61c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
+          <pre>[media] social preview image</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/b9ec398fe1e99ebfaa246b6b72fa0e1816ceaf34" title="2023-02-09T21:52:31.000+01:00" target="_blank">b9ec398f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
           <pre>[doc] about ghcr.io login</pre>
         </td>
@@ -143,21 +155,11 @@ and bump to version 1.1.3</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/d97782fa9c5ffbb611886f66cf1a4ff6f0007d40" title="2023-02-09T20:51:47.000+01:00" target="_blank">d97782fa</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
           <pre>[fix] building in test namespace only</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/1bd019584015ba5a353d16687ef286e08c09d1a9" title="2023-02-09T18:14:18.000+01:00" target="_blank">1bd01958</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
-          <pre>[update] Ansible version to 6.3.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/a9ac83b0cfa173160c83cae0f15c18c95fe68c6f" title="2023-02-09T17:41:01.000+01:00" target="_blank">a9ac83b0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
-          <pre>[fix] businesscard Git repo</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 13 Feb 2023 13:45:19 GMT</small>
+<small>⏰ Updated on Tue, 14 Feb 2023 13:45:22 GMT</small>
 </td>
 </tr>
 </tfoot>
