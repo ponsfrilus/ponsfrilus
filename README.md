@@ -103,14 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/1e7e5379356c38bf4e9aa7bc4b32c43064ab154a" title="2023-02-14T09:02:04.000+01:00" target="_blank">1e7e5379</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/aeb413b758244fb1e74614da21e14aede1624de1" title="2023-02-14T18:05:56.000+01:00" target="_blank">aeb413b7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
+          <pre>Merge pull request #16 from Azecko/main
+
+Automatic gh-pages deploy</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/1e7e5379356c38bf4e9aa7bc4b32c43064ab154a" title="2023-02-14T09:02:04.000+01:00" target="_blank">1e7e5379</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
           <pre>Merge pull request #15 from Azecko/main
 
 Many things</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/aeb7c61c7cf1867d6bebc4aa9089f865e509a357" title="2023-02-14T08:46:35.000+01:00" target="_blank">aeb7c61c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Génération de rapport de stage">/rapport-de-stage</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/aeb7c61c7cf1867d6bebc4aa9089f865e509a357" title="2023-02-14T08:46:35.000+01:00" target="_blank">aeb7c61c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
           <pre>[media] social preview image</pre>
         </td>
         </tr><tr>
@@ -150,16 +157,11 @@ and bump to version 1.1.3</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/e9d79eb801dfd3fcb8a47312c5ed3e65a65a3fad" title="2023-02-09T20:52:17.000+01:00" target="_blank">e9d79eb8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
           <pre>[feature] intruduce version</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/d97782fa9c5ffbb611886f66cf1a4ff6f0007d40" title="2023-02-09T20:51:47.000+01:00" target="_blank">d97782fa</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
-          <pre>[fix] building in test namespace only</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 14 Feb 2023 13:45:22 GMT</small>
+<small>⏰ Updated on Wed, 15 Feb 2023 13:45:31 GMT</small>
 </td>
 </tr>
 </tfoot>
