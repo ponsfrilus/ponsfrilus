@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/590ba4ecffd2ffc750ed33d8cd2bc113d9248f1e" title="2023-02-16T13:08:36.000+01:00" target="_blank">590ba4ec</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
+          <pre>Merge pull request #17 from Azecko/main
+
+Version in footer, phones fixed</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/aeb413b758244fb1e74614da21e14aede1624de1" title="2023-02-14T18:05:56.000+01:00" target="_blank">aeb413b7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
           <pre>Merge pull request #16 from Azecko/main
 
@@ -152,16 +159,11 @@ and bump to version 1.1.3</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/dc9bc9336dad5da4f4f087ad6d0f64efb03ebfb1" title="2023-02-09T21:16:37.000+01:00" target="_blank">dc9bc933</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
           <pre>[fix] use generic `app` dir from `common-web`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/e9d79eb801dfd3fcb8a47312c5ed3e65a65a3fad" title="2023-02-09T20:52:17.000+01:00" target="_blank">e9d79eb8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
-          <pre>[feature] intruduce version</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 15 Feb 2023 13:45:31 GMT</small>
+<small>⏰ Updated on Thu, 16 Feb 2023 13:46:17 GMT</small>
 </td>
 </tr>
 </tfoot>
