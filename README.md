@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank">localfirstweb.dev</a>&nbsp;<a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank"><img src="https://img.shields.io/github/stars/localfirstweb/localfirstweb.dev?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/epfl-si/common-web" title="Common image for all ERP-MD web applications using Apache" target="_blank">common-web</a>&nbsp;<a href="https://github.com/epfl-si/common-web" title="Common image for all ERP-MD web applications using Apache" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/common-web?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank">steampipe</a>&nbsp;<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank"><img src="https://img.shields.io/github/stars/turbot/steampipe?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank">golink</a>&nbsp;<a href="https://github.com/tailscale/golink" title="A private shortlink service for tailnets" target="_blank"><img src="https://img.shields.io/github/stars/tailscale/golink?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/owasp-change/owasp-change.github.io" title="An Open Letter to the OWASP Board" target="_blank">owasp-change.github.io</a>&nbsp;<a href="https://github.com/owasp-change/owasp-change.github.io" title="An Open Letter to the OWASP Board" target="_blank"><img src="https://img.shields.io/github/stars/owasp-change/owasp-change.github.io?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/voc/voctoweb" title="voctoweb – the frontend and backend software behind media.ccc.de" target="_blank">voctoweb</a>&nbsp;<a href="https://github.com/voc/voctoweb" title="voctoweb – the frontend and backend software behind media.ccc.de" target="_blank"><img src="https://img.shields.io/github/stars/voc/voctoweb?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/getmoto/moto" title="A library that allows you to easily mock out tests based on AWS infrastructure." target="_blank">moto</a>&nbsp;<a href="https://github.com/getmoto/moto" title="A library that allows you to easily mock out tests based on AWS infrastructure." target="_blank"><img src="https://img.shields.io/github/stars/getmoto/moto?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank">kopf</a>&nbsp;<a href="https://github.com/nolar/kopf" title="A Python framework to write Kubernetes operators in just a few lines of code" target="_blank"><img src="https://img.shields.io/github/stars/nolar/kopf?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,21 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AFASIE/commits/70b4474f7acab05bd49aa944a8887b5efc1a94c5" title="2023-02-20T13:42:23.000+01:00" target="_blank">70b4474f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AFASIE" title="AFASIE — Amélioration de la formation des apprenti·e·s et stagiaires informaticien·ne·s à l’EPFL">/AFASIE</a></strong></div>
+          <pre>[doc] README updated</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AFASIE/commits/8f80d33a91bc570262f2ec7b38938c4c71aba2ee" title="2023-02-20T10:52:51.000+01:00" target="_blank">8f80d33a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AFASIE" title="AFASIE — Amélioration de la formation des apprenti·e·s et stagiaires informaticien·ne·s à l’EPFL">/AFASIE</a></strong></div>
+          <pre>[chore] moving stuff around</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop/commits/a76bbc516cbdd926d4ca2737a01b89d995af7e24" title="2023-02-17T15:32:54.000+01:00" target="_blank">a76bbc51</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees">/ticketshop</a></strong></div>
+          <pre>[hotfix] error 21</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/590ba4ecffd2ffc750ed33d8cd2bc113d9248f1e" title="2023-02-16T13:08:36.000+01:00" target="_blank">590ba4ec</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
           <pre>Merge pull request #17 from Azecko/main
@@ -144,26 +159,11 @@ and bump to version 1.1.3</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/7361b83afcbd48b920564e55d4f6a39edecc3c31" title="2023-02-09T21:39:07.000+01:00" target="_blank">7361b83a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
           <pre>[fix] ensure `MAIL_SF` is set</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/e86cedbab15f38e2dc8bb409114c0522653b9833" title="2023-02-09T21:38:50.000+01:00" target="_blank">e86cedba</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
-          <pre>[fix] use `preprod` image tag</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/63f5c8567e1f7baf5f4cddce9917f5cb50578e7c" title="2023-02-09T21:20:33.000+01:00" target="_blank">63f5c856</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
-          <pre>[fix] `ScriptAlias` Apache var</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/dc9bc9336dad5da4f4f087ad6d0f64efb03ebfb1" title="2023-02-09T21:16:37.000+01:00" target="_blank">dc9bc933</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
-          <pre>[fix] use generic `app` dir from `common-web`</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 17 Feb 2023 13:45:18 GMT</small>
+<small>⏰ Updated on Mon, 20 Feb 2023 13:45:26 GMT</small>
 </td>
 </tr>
 </tfoot>
