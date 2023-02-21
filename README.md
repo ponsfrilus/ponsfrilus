@@ -103,7 +103,22 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AFASIE/commits/70b4474f7acab05bd49aa944a8887b5efc1a94c5" title="2023-02-20T13:42:23.000+01:00" target="_blank">70b4474f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AFASIE" title="AFASIE — Amélioration de la formation des apprenti·e·s et stagiaires informaticien·ne·s à l’EPFL">/AFASIE</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/94db1e852ba27faccd989f3de40addcbe8fa342b" title="2023-02-21T10:25:46.000+01:00" target="_blank">94db1e85</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] pimp up text (confirmation)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/16933c64bf44c43253612b7b182fa22aa75f0c47" title="2023-02-21T10:22:13.000+01:00" target="_blank">16933c64</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature](WIP) confirmation de stage</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/c64fef03d3cdf816aa410e7eb913df2c3b21d8e4" title="2023-02-21T10:21:02.000+01:00" target="_blank">c64fef03</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] some minor fixes</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AFASIE/commits/a7ab4f8d673a4db8beb79b1ebaea9c9b993b7790" title="2023-02-21T08:33:22.000+01:00" target="_blank">a7ab4f8d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AFASIE" title="AFASIE — Amélioration de la formation des apprenti·e·s et stagiaires informaticien·ne·s à l’EPFL">/AFASIE</a></strong></div>
           <pre>[doc] README updated</pre>
         </td>
         </tr><tr>
@@ -142,28 +157,11 @@ Many things</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/aeb7c61c7cf1867d6bebc4aa9089f865e509a357" title="2023-02-14T08:46:35.000+01:00" target="_blank">aeb7c61c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
           <pre>[media] social preview image</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/b9ec398fe1e99ebfaa246b6b72fa0e1816ceaf34" title="2023-02-09T21:52:31.000+01:00" target="_blank">b9ec398f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
-          <pre>[doc] about ghcr.io login</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/dddfd12719c3b50b7a2476d4f5fa15d9bdf7d81c" title="2023-02-09T21:42:06.000+01:00" target="_blank">dddfd127</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
-          <pre>[chore] clean up
-
-and bump to version 1.1.3</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/7361b83afcbd48b920564e55d4f6a39edecc3c31" title="2023-02-09T21:39:07.000+01:00" target="_blank">7361b83a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
-          <pre>[fix] ensure `MAIL_SF` is set</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 20 Feb 2023 13:45:26 GMT</small>
+<small>⏰ Updated on Tue, 21 Feb 2023 13:45:17 GMT</small>
 </td>
 </tr>
 </tfoot>
