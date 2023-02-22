@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/98a830b2271e4f22144ad1e4c0fa7663579d45b8" title="2023-02-22T14:11:48.000+01:00" target="_blank">98a830b2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="null">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>Update README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/e84951133f6fbc0af2f9d033d1c2052d3224a9f7" title="2023-02-22T13:48:42.000+01:00" target="_blank">e8495113</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="null">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>Première version du stage WordPress</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/a2ac914ce26f8959e7c272a3e71edd94d254c1f6" title="2023-02-22T13:24:12.000+01:00" target="_blank">a2ac914c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="null">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>Initial commit</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/94db1e852ba27faccd989f3de40addcbe8fa342b" title="2023-02-21T10:25:46.000+01:00" target="_blank">94db1e85</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[fix] pimp up text (confirmation)</pre>
         </td>
@@ -138,30 +153,11 @@
 
 Version in footer, phones fixed</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/aeb413b758244fb1e74614da21e14aede1624de1" title="2023-02-14T18:05:56.000+01:00" target="_blank">aeb413b7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
-          <pre>Merge pull request #16 from Azecko/main
-
-Automatic gh-pages deploy</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/1e7e5379356c38bf4e9aa7bc4b32c43064ab154a" title="2023-02-14T09:02:04.000+01:00" target="_blank">1e7e5379</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
-          <pre>Merge pull request #15 from Azecko/main
-
-Many things</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/aeb7c61c7cf1867d6bebc4aa9089f865e509a357" title="2023-02-14T08:46:35.000+01:00" target="_blank">aeb7c61c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
-          <pre>[media] social preview image</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 21 Feb 2023 13:45:17 GMT</small>
+<small>⏰ Updated on Wed, 22 Feb 2023 13:45:18 GMT</small>
 </td>
 </tr>
 </tfoot>
