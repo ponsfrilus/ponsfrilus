@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/motion-canvas/motion-canvas" title="Visualize Complex Ideas Programmatically" target="_blank">motion-canvas</a>&nbsp;<a href="https://github.com/motion-canvas/motion-canvas" title="Visualize Complex Ideas Programmatically" target="_blank"><img src="https://img.shields.io/github/stars/motion-canvas/motion-canvas?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/owasp-change/owasp-change.github.io" title="An Open Letter to the OWASP Board" target="_blank">owasp-change.github.io</a>&nbsp;<a href="https://github.com/owasp-change/owasp-change.github.io" title="An Open Letter to the OWASP Board" target="_blank"><img src="https://img.shields.io/github/stars/owasp-change/owasp-change.github.io?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/voc/voctoweb" title="voctoweb – the frontend and backend software behind media.ccc.de" target="_blank">voctoweb</a>&nbsp;<a href="https://github.com/voc/voctoweb" title="voctoweb – the frontend and backend software behind media.ccc.de" target="_blank"><img src="https://img.shields.io/github/stars/voc/voctoweb?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/GridSpace/grid-apps" title="Browser-based Slicer for 3D Printing, CAM, Laser (Kiri:Moto) and mesh editor (Mesh:Tool)" target="_blank">grid-apps</a>&nbsp;<a href="https://github.com/GridSpace/grid-apps" title="Browser-based Slicer for 3D Printing, CAM, Laser (Kiri:Moto) and mesh editor (Mesh:Tool)" target="_blank"><img src="https://img.shields.io/github/stars/GridSpace/grid-apps?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SpartanJ/eepp" title="eepp is an open source cross-platform game and application development framework heavily focused on the development of rich graphical user interfaces." target="_blank">eepp</a>&nbsp;<a href="https://github.com/SpartanJ/eepp" title="eepp is an open source cross-platform game and application development framework heavily focused on the development of rich graphical user interfaces." target="_blank"><img src="https://img.shields.io/github/stars/SpartanJ/eepp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/borgbackup/borg" title="Deduplicating archiver with compression and authenticated encryption." target="_blank">borg</a>&nbsp;<a href="https://github.com/borgbackup/borg" title="Deduplicating archiver with compression and authenticated encryption." target="_blank"><img src="https://img.shields.io/github/stars/borgbackup/borg?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/red-data-tools/YouPlot" title="A command line tool that draw plots on the terminal." target="_blank">YouPlot</a>&nbsp;<a href="https://github.com/red-data-tools/YouPlot" title="A command line tool that draw plots on the terminal." target="_blank"><img src="https://img.shields.io/github/stars/red-data-tools/YouPlot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank">ecode</a>&nbsp;<a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank"><img src="https://img.shields.io/github/stars/SpartanJ/ecode?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank">jless</a>&nbsp;<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank"><img src="https://img.shields.io/github/stars/PaulJuliusMartinez/jless?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank">miller</a>&nbsp;<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank"><img src="https://img.shields.io/github/stars/johnkerl/miller?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank">localfirstweb.dev</a>&nbsp;<a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank"><img src="https://img.shields.io/github/stars/localfirstweb/localfirstweb.dev?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,26 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/owasp-change/owasp-change.github.io" title="An Open Letter to the OWASP Board" target="_blank">owasp-change.github.io</a>&nbsp;<a href="https://github.com/owasp-change/owasp-change.github.io" title="An Open Letter to the OWASP Board" target="_blank"><img src="https://img.shields.io/github/stars/owasp-change/owasp-change.github.io?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/voc/voctoweb" title="voctoweb – the frontend and backend software behind media.ccc.de" target="_blank">voctoweb</a>&nbsp;<a href="https://github.com/voc/voctoweb" title="voctoweb – the frontend and backend software behind media.ccc.de" target="_blank"><img src="https://img.shields.io/github/stars/voc/voctoweb?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/GridSpace/grid-apps" title="Browser-based Slicer for 3D Printing, CAM, Laser (Kiri:Moto) and mesh editor (Mesh:Tool)" target="_blank">grid-apps</a>&nbsp;<a href="https://github.com/GridSpace/grid-apps" title="Browser-based Slicer for 3D Printing, CAM, Laser (Kiri:Moto) and mesh editor (Mesh:Tool)" target="_blank"><img src="https://img.shields.io/github/stars/GridSpace/grid-apps?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SpartanJ/eepp" title="eepp is an open source cross-platform game and application development framework heavily focused on the development of rich graphical user interfaces." target="_blank">eepp</a>&nbsp;<a href="https://github.com/SpartanJ/eepp" title="eepp is an open source cross-platform game and application development framework heavily focused on the development of rich graphical user interfaces." target="_blank"><img src="https://img.shields.io/github/stars/SpartanJ/eepp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/borgbackup/borg" title="Deduplicating archiver with compression and authenticated encryption." target="_blank">borg</a>&nbsp;<a href="https://github.com/borgbackup/borg" title="Deduplicating archiver with compression and authenticated encryption." target="_blank"><img src="https://img.shields.io/github/stars/borgbackup/borg?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/red-data-tools/YouPlot" title="A command line tool that draw plots on the terminal." target="_blank">YouPlot</a>&nbsp;<a href="https://github.com/red-data-tools/YouPlot" title="A command line tool that draw plots on the terminal." target="_blank"><img src="https://img.shields.io/github/stars/red-data-tools/YouPlot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank">ecode</a>&nbsp;<a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank"><img src="https://img.shields.io/github/stars/SpartanJ/ecode?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank">jless</a>&nbsp;<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank"><img src="https://img.shields.io/github/stars/PaulJuliusMartinez/jless?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank">miller</a>&nbsp;<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank"><img src="https://img.shields.io/github/stars/johnkerl/miller?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/getmoto/moto" title="A library that allows you to easily mock out tests based on AWS infrastructure." target="_blank">moto</a>&nbsp;<a href="https://github.com/getmoto/moto" title="A library that allows you to easily mock out tests based on AWS infrastructure." target="_blank"><img src="https://img.shields.io/github/stars/getmoto/moto?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/23ce558b27359b54e7cdfe05178d566317dd6613" title="2023-02-23T10:03:15.000+01:00" target="_blank">23ce558b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="null">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>Update README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/c9a0cae766211a5d81a387869c1e57357d46063b" title="2023-02-22T17:30:09.000+01:00" target="_blank">c9a0cae7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="null">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>Update README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline.ops/commits/348817ef26cd1d942fc79df558a1e0d4adce16f6" title="2023-02-22T14:47:03.000+01:00" target="_blank">348817ef</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline.ops" title="Ansible-based DevOps automation for Payonline">/payonline.ops</a></strong></div>
+          <pre>[fix] payonline_build_openshift_namespace</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/98a830b2271e4f22144ad1e4c0fa7663579d45b8" title="2023-02-22T14:11:48.000+01:00" target="_blank">98a830b2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="null">/fiche-de-stage-WordPress</a></strong></div>
           <pre>Update README.md</pre>
@@ -136,28 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/AFASIE/commits/a7ab4f8d673a4db8beb79b1ebaea9c9b993b7790" title="2023-02-21T08:33:22.000+01:00" target="_blank">a7ab4f8d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AFASIE" title="AFASIE — Amélioration de la formation des apprenti·e·s et stagiaires informaticien·ne·s à l’EPFL">/AFASIE</a></strong></div>
           <pre>[doc] README updated</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AFASIE/commits/8f80d33a91bc570262f2ec7b38938c4c71aba2ee" title="2023-02-20T10:52:51.000+01:00" target="_blank">8f80d33a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AFASIE" title="AFASIE — Amélioration de la formation des apprenti·e·s et stagiaires informaticien·ne·s à l’EPFL">/AFASIE</a></strong></div>
-          <pre>[chore] moving stuff around</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop/commits/a76bbc516cbdd926d4ca2737a01b89d995af7e24" title="2023-02-17T15:32:54.000+01:00" target="_blank">a76bbc51</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees">/ticketshop</a></strong></div>
-          <pre>[hotfix] error 21</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/590ba4ecffd2ffc750ed33d8cd2bc113d9248f1e" title="2023-02-16T13:08:36.000+01:00" target="_blank">590ba4ec</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
-          <pre>Merge pull request #17 from Azecko/main
-
-Version in footer, phones fixed</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 22 Feb 2023 13:45:18 GMT</small>
+<small>⏰ Updated on Thu, 23 Feb 2023 13:47:25 GMT</small>
 </td>
 </tr>
 </tfoot>
