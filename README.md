@@ -32,6 +32,12 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/kovacsv/Online3DViewer" title="A solution to visualize and explore 3D models in your browser." target="_blank">Online3DViewer</a>&nbsp;<a href="https://github.com/kovacsv/Online3DViewer" title="A solution to visualize and explore 3D models in your browser." target="_blank"><img src="https://img.shields.io/github/stars/kovacsv/Online3DViewer?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/missing-semester/missing-semester" title="The Missing Semester of Your CS Education 📚" target="_blank">missing-semester</a>&nbsp;<a href="https://github.com/missing-semester/missing-semester" title="The Missing Semester of Your CS Education 📚" target="_blank"><img src="https://img.shields.io/github/stars/missing-semester/missing-semester?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/motion-canvas/motion-canvas" title="Visualize Complex Ideas Programmatically" target="_blank">motion-canvas</a>&nbsp;<a href="https://github.com/motion-canvas/motion-canvas" title="Visualize Complex Ideas Programmatically" target="_blank"><img src="https://img.shields.io/github/stars/motion-canvas/motion-canvas?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -55,16 +61,16 @@
 <li>
 <a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank">ecode</a>&nbsp;<a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank"><img src="https://img.shields.io/github/stars/SpartanJ/ecode?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank">jless</a>&nbsp;<a href="https://github.com/PaulJuliusMartinez/jless" title="jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data." target="_blank"><img src="https://img.shields.io/github/stars/PaulJuliusMartinez/jless?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank">miller</a>&nbsp;<a href="https://github.com/johnkerl/miller" title="Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON" target="_blank"><img src="https://img.shields.io/github/stars/johnkerl/miller?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank">Compose-Examples</a>&nbsp;<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank"><img src="https://img.shields.io/github/stars/Haxxnet/Compose-Examples?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sonatype/nexus-public" title="Sonatype Nexus Repository Manager; Open-source codebase mirror" target="_blank">nexus-public</a>&nbsp;<a href="https://github.com/sonatype/nexus-public" title="Sonatype Nexus Repository Manager; Open-source codebase mirror" target="_blank"><img src="https://img.shields.io/github/stars/sonatype/nexus-public?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank">localfirstweb.dev</a>&nbsp;<a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank"><img src="https://img.shields.io/github/stars/localfirstweb/localfirstweb.dev?style=social" alt="GitHub"></a>
 </li>
@@ -88,12 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank">sre-interview-prep-guide</a>&nbsp;<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank"><img src="https://img.shields.io/github/stars/mxssl/sre-interview-prep-guide?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank">xsv</a>&nbsp;<a href="https://github.com/BurntSushi/xsv" title="A fast CSV command line toolkit written in Rust." target="_blank"><img src="https://img.shields.io/github/stars/BurntSushi/xsv?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank">steampipe</a>&nbsp;<a href="https://github.com/turbot/steampipe" title="Use SQL to instantly query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB required. " target="_blank"><img src="https://img.shields.io/github/stars/turbot/steampipe?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 24 Feb 2023 13:45:18 GMT</small>
+<small>⏰ Updated on Mon, 27 Feb 2023 13:45:20 GMT</small>
 </td>
 </tr>
 </tfoot>
