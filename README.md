@@ -103,6 +103,26 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/954746675e1be1b428f80179c89365092aaa34ae" title="2023-02-27T15:14:28.000+01:00" target="_blank">95474667</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[doc] Get the latest release and dev tips</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/a4b1c90bce073839df7bec8af2febe8b8a732414" title="2023-02-27T15:08:21.000+01:00" target="_blank">a4b1c90b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[fix] We don't want the vendor directory in the distributed zip</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/ff054510c68f57ec5cf2c23898e809b019a78c4d" title="2023-02-27T14:51:32.000+01:00" target="_blank">ff054510</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
+          <pre>[feature] Add plugin version
+
+* i18n
+* Correction espaces manaquant en FR
+* IDEV/ISAS
+* Bump to 0.1.7</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/23ce558b27359b54e7cdfe05178d566317dd6613" title="2023-02-23T10:03:15.000+01:00" target="_blank">23ce558b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="null">/fiche-de-stage-WordPress</a></strong></div>
           <pre>Update README.md</pre>
         </td>
@@ -136,26 +156,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/94db1e852ba27faccd989f3de40addcbe8fa342b" title="2023-02-21T10:25:46.000+01:00" target="_blank">94db1e85</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[fix] pimp up text (confirmation)</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/16933c64bf44c43253612b7b182fa22aa75f0c47" title="2023-02-21T10:22:13.000+01:00" target="_blank">16933c64</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature](WIP) confirmation de stage</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/c64fef03d3cdf816aa410e7eb913df2c3b21d8e4" title="2023-02-21T10:21:02.000+01:00" target="_blank">c64fef03</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] some minor fixes</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/AFASIE/commits/a7ab4f8d673a4db8beb79b1ebaea9c9b993b7790" title="2023-02-21T08:33:22.000+01:00" target="_blank">a7ab4f8d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/AFASIE" title="AFASIE — Amélioration de la formation des apprenti·e·s et stagiaires informaticien·ne·s à l’EPFL">/AFASIE</a></strong></div>
-          <pre>[doc] README updated</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 27 Feb 2023 13:45:20 GMT</small>
+<small>⏰ Updated on Tue, 28 Feb 2023 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
