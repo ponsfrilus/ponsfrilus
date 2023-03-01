@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 13 years and 1 months.
+    <br />Apparently, I'm hanging around on GitHub since 13 years and 2 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -31,6 +31,9 @@
 <tr>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/solvespace/solvespace" title="Parametric 2d/3d CAD" target="_blank">solvespace</a>&nbsp;<a href="https://github.com/solvespace/solvespace" title="Parametric 2d/3d CAD" target="_blank"><img src="https://img.shields.io/github/stars/solvespace/solvespace?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/kovacsv/Online3DViewer" title="A solution to visualize and explore 3D models in your browser." target="_blank">Online3DViewer</a>&nbsp;<a href="https://github.com/kovacsv/Online3DViewer" title="A solution to visualize and explore 3D models in your browser." target="_blank"><img src="https://img.shields.io/github/stars/kovacsv/Online3DViewer?style=social" alt="GitHub"></a>
 </li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/red-data-tools/YouPlot" title="A command line tool that draw plots on the terminal." target="_blank">YouPlot</a>&nbsp;<a href="https://github.com/red-data-tools/YouPlot" title="A command line tool that draw plots on the terminal." target="_blank"><img src="https://img.shields.io/github/stars/red-data-tools/YouPlot?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank">ecode</a>&nbsp;<a href="https://github.com/SpartanJ/ecode" title="Lightweight multi-platform code editor designed for modern hardware with a focus on responsiveness and performance." target="_blank"><img src="https://img.shields.io/github/stars/SpartanJ/ecode?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank">LaserWeb4</a>&nbsp;<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank"><img src="https://img.shields.io/github/stars/LaserWeb/LaserWeb4?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank">Compose-Examples</a>&nbsp;<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank"><img src="https://img.shields.io/github/stars/Haxxnet/Compose-Examples?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank">what-happens-when</a>&nbsp;<a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank"><img src="https://img.shields.io/github/stars/alex/what-happens-when?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank">sre-interview-prep-guide</a>&nbsp;<a href="https://github.com/mxssl/sre-interview-prep-guide" title="Site Reliability Engineer Interview Preparation Guide" target="_blank"><img src="https://img.shields.io/github/stars/mxssl/sre-interview-prep-guide?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -160,7 +160,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 28 Feb 2023 13:45:13 GMT</small>
+<small>⏰ Updated on Wed, 01 Mar 2023 13:45:34 GMT</small>
 </td>
 </tr>
 </tfoot>
