@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/speedchallenge/commits/b6c93eae4a6ff32e895dc11cf47cfbc478f7a48d" title="2023-03-03T14:18:20.000+01:00" target="_blank">b6c93eae</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/speedchallenge" title="Swiss Competition 2020 - Speed Challenge Trade 17 - Web Technologies">/speedchallenge</a></strong></div>
+          <pre>[doc] download info</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/speedchallenge/commits/bbcebb058d2fb2a6af2c894809801afb8b882acd" title="2023-03-03T14:01:24.000+01:00" target="_blank">bbcebb05</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/speedchallenge" title="Swiss Competition 2020 - Speed Challenge Trade 17 - Web Technologies">/speedchallenge</a></strong></div>
+          <pre>[init] speedchallenge</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/954746675e1be1b428f80179c89365092aaa34ae" title="2023-02-27T15:14:28.000+01:00" target="_blank">95474667</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
           <pre>[doc] Get the latest release and dev tips</pre>
         </td>
@@ -146,21 +156,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/e84951133f6fbc0af2f9d033d1c2052d3224a9f7" title="2023-02-22T13:48:42.000+01:00" target="_blank">e8495113</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="null">/fiche-de-stage-WordPress</a></strong></div>
           <pre>Première version du stage WordPress</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/a2ac914ce26f8959e7c272a3e71edd94d254c1f6" title="2023-02-22T13:24:12.000+01:00" target="_blank">a2ac914c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="null">/fiche-de-stage-WordPress</a></strong></div>
-          <pre>Initial commit</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/94db1e852ba27faccd989f3de40addcbe8fa342b" title="2023-02-21T10:25:46.000+01:00" target="_blank">94db1e85</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] pimp up text (confirmation)</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 02 Mar 2023 13:47:09 GMT</small>
+<small>⏰ Updated on Fri, 03 Mar 2023 13:45:14 GMT</small>
 </td>
 </tr>
 </tfoot>
