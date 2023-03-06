@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank">cosmic-text</a>&nbsp;<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank"><img src="https://img.shields.io/github/stars/pop-os/cosmic-text?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tenderlove/initial-v" title="It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim" target="_blank">initial-v</a>&nbsp;<a href="https://github.com/tenderlove/initial-v" title="It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim" target="_blank"><img src="https://img.shields.io/github/stars/tenderlove/initial-v?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank">LaserWeb4</a>&nbsp;<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank"><img src="https://img.shields.io/github/stars/LaserWeb/LaserWeb4?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank">Compose-Examples</a>&nbsp;<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank"><img src="https://img.shields.io/github/stars/Haxxnet/Compose-Examples?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sonatype/nexus-public" title="Sonatype Nexus Repository Manager; Open-source codebase mirror" target="_blank">nexus-public</a>&nbsp;<a href="https://github.com/sonatype/nexus-public" title="Sonatype Nexus Repository Manager; Open-source codebase mirror" target="_blank"><img src="https://img.shields.io/github/stars/sonatype/nexus-public?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank">localfirstweb.dev</a>&nbsp;<a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank"><img src="https://img.shields.io/github/stars/localfirstweb/localfirstweb.dev?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/common-web" title="Common image for all ERP-MD web applications using Apache" target="_blank">common-web</a>&nbsp;<a href="https://github.com/epfl-si/common-web" title="Common image for all ERP-MD web applications using Apache" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/common-web?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/LAION-AI/Open-Assistant" title="OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so." target="_blank">Open-Assistant</a>&nbsp;<a href="https://github.com/LAION-AI/Open-Assistant" title="OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so." target="_blank"><img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bottlerocket-os/bottlerocket" title="An operating system designed for hosting containers" target="_blank">bottlerocket</a>&nbsp;<a href="https://github.com/bottlerocket-os/bottlerocket" title="An operating system designed for hosting containers" target="_blank"><img src="https://img.shields.io/github/stars/bottlerocket-os/bottlerocket?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/alexcrist/autotone" title="A vocal pitch correction web application (like Autotune)" target="_blank">autotone</a>&nbsp;<a href="https://github.com/alexcrist/autotone" title="A vocal pitch correction web application (like Autotune)" target="_blank"><img src="https://img.shields.io/github/stars/alexcrist/autotone?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/Asabeneh/30-Days-Of-Python" title="30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. " target="_blank">30-Days-Of-Python</a>&nbsp;<a href="https://github.com/Asabeneh/30-Days-Of-Python" title="30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. " target="_blank"><img src="https://img.shields.io/github/stars/Asabeneh/30-Days-Of-Python?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/solvespace/solvespace" title="Parametric 2d/3d CAD" target="_blank">solvespace</a>&nbsp;<a href="https://github.com/solvespace/solvespace" title="Parametric 2d/3d CAD" target="_blank"><img src="https://img.shields.io/github/stars/solvespace/solvespace?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/borgbackup/borg" title="Deduplicating archiver with compression and authenticated encryption." target="_blank">borg</a>&nbsp;<a href="https://github.com/borgbackup/borg" title="Deduplicating archiver with compression and authenticated encryption." target="_blank"><img src="https://img.shields.io/github/stars/borgbackup/borg?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/red-data-tools/YouPlot" title="A command line tool that draw plots on the terminal." target="_blank">YouPlot</a>&nbsp;<a href="https://github.com/red-data-tools/YouPlot" title="A command line tool that draw plots on the terminal." target="_blank"><img src="https://img.shields.io/github/stars/red-data-tools/YouPlot?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank">LaserWeb4</a>&nbsp;<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank"><img src="https://img.shields.io/github/stars/LaserWeb/LaserWeb4?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank">Compose-Examples</a>&nbsp;<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank"><img src="https://img.shields.io/github/stars/Haxxnet/Compose-Examples?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sonatype/nexus-public" title="Sonatype Nexus Repository Manager; Open-source codebase mirror" target="_blank">nexus-public</a>&nbsp;<a href="https://github.com/sonatype/nexus-public" title="Sonatype Nexus Repository Manager; Open-source codebase mirror" target="_blank"><img src="https://img.shields.io/github/stars/sonatype/nexus-public?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank">localfirstweb.dev</a>&nbsp;<a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank"><img src="https://img.shields.io/github/stars/localfirstweb/localfirstweb.dev?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/common-web" title="Common image for all ERP-MD web applications using Apache" target="_blank">common-web</a>&nbsp;<a href="https://github.com/epfl-si/common-web" title="Common image for all ERP-MD web applications using Apache" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/common-web?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/LAION-AI/Open-Assistant" title="OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so." target="_blank">Open-Assistant</a>&nbsp;<a href="https://github.com/LAION-AI/Open-Assistant" title="OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so." target="_blank"><img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bottlerocket-os/bottlerocket" title="An operating system designed for hosting containers" target="_blank">bottlerocket</a>&nbsp;<a href="https://github.com/bottlerocket-os/bottlerocket" title="An operating system designed for hosting containers" target="_blank"><img src="https://img.shields.io/github/stars/bottlerocket-os/bottlerocket?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/alexcrist/autotone" title="A vocal pitch correction web application (like Autotune)" target="_blank">autotone</a>&nbsp;<a href="https://github.com/alexcrist/autotone" title="A vocal pitch correction web application (like Autotune)" target="_blank"><img src="https://img.shields.io/github/stars/alexcrist/autotone?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/alpinejs/alpine" title="A rugged, minimal framework for composing JavaScript behavior in your markup. " target="_blank">alpine</a>&nbsp;<a href="https://github.com/alpinejs/alpine" title="A rugged, minimal framework for composing JavaScript behavior in your markup. " target="_blank"><img src="https://img.shields.io/github/stars/alpinejs/alpine?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank">what-happens-when</a>&nbsp;<a href="https://github.com/alex/what-happens-when" title="An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"" target="_blank"><img src="https://img.shields.io/github/stars/alex/what-happens-when?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -160,7 +160,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 03 Mar 2023 13:45:14 GMT</small>
+<small>⏰ Updated on Mon, 06 Mar 2023 13:45:29 GMT</small>
 </td>
 </tr>
 </tfoot>
