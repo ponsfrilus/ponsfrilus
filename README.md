@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank">mountpoint-s3</a>&nbsp;<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank"><img src="https://img.shields.io/github/stars/awslabs/mountpoint-s3?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank">ansible</a>&nbsp;<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank"><img src="https://img.shields.io/github/stars/prometheus-community/ansible?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank">cosmic-text</a>&nbsp;<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank"><img src="https://img.shields.io/github/stars/pop-os/cosmic-text?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tenderlove/initial-v" title="It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim" target="_blank">initial-v</a>&nbsp;<a href="https://github.com/tenderlove/initial-v" title="It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim" target="_blank"><img src="https://img.shields.io/github/stars/tenderlove/initial-v?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank">LaserWeb4</a>&nbsp;<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank"><img src="https://img.shields.io/github/stars/LaserWeb/LaserWeb4?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank">Compose-Examples</a>&nbsp;<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank"><img src="https://img.shields.io/github/stars/Haxxnet/Compose-Examples?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sonatype/nexus-public" title="Sonatype Nexus Repository Manager; Open-source codebase mirror" target="_blank">nexus-public</a>&nbsp;<a href="https://github.com/sonatype/nexus-public" title="Sonatype Nexus Repository Manager; Open-source codebase mirror" target="_blank"><img src="https://img.shields.io/github/stars/sonatype/nexus-public?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank">localfirstweb.dev</a>&nbsp;<a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank"><img src="https://img.shields.io/github/stars/localfirstweb/localfirstweb.dev?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/common-web" title="Common image for all ERP-MD web applications using Apache" target="_blank">common-web</a>&nbsp;<a href="https://github.com/epfl-si/common-web" title="Common image for all ERP-MD web applications using Apache" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/common-web?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/LAION-AI/Open-Assistant" title="OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so." target="_blank">Open-Assistant</a>&nbsp;<a href="https://github.com/LAION-AI/Open-Assistant" title="OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so." target="_blank"><img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/szhu/lunar-lander-autopilot" title="A fork of ehmorris/lunar-lander with an autopilot!" target="_blank">lunar-lander-autopilot</a>&nbsp;<a href="https://github.com/szhu/lunar-lander-autopilot" title="A fork of ehmorris/lunar-lander with an autopilot!" target="_blank"><img src="https://img.shields.io/github/stars/szhu/lunar-lander-autopilot?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,26 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank">ansible</a>&nbsp;<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank"><img src="https://img.shields.io/github/stars/prometheus-community/ansible?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank">cosmic-text</a>&nbsp;<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank"><img src="https://img.shields.io/github/stars/pop-os/cosmic-text?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tenderlove/initial-v" title="It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim" target="_blank">initial-v</a>&nbsp;<a href="https://github.com/tenderlove/initial-v" title="It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim" target="_blank"><img src="https://img.shields.io/github/stars/tenderlove/initial-v?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank">LaserWeb4</a>&nbsp;<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank"><img src="https://img.shields.io/github/stars/LaserWeb/LaserWeb4?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank">Compose-Examples</a>&nbsp;<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank"><img src="https://img.shields.io/github/stars/Haxxnet/Compose-Examples?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sonatype/nexus-public" title="Sonatype Nexus Repository Manager; Open-source codebase mirror" target="_blank">nexus-public</a>&nbsp;<a href="https://github.com/sonatype/nexus-public" title="Sonatype Nexus Repository Manager; Open-source codebase mirror" target="_blank"><img src="https://img.shields.io/github/stars/sonatype/nexus-public?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank">localfirstweb.dev</a>&nbsp;<a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank"><img src="https://img.shields.io/github/stars/localfirstweb/localfirstweb.dev?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/common-web" title="Common image for all ERP-MD web applications using Apache" target="_blank">common-web</a>&nbsp;<a href="https://github.com/epfl-si/common-web" title="Common image for all ERP-MD web applications using Apache" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/common-web?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/LAION-AI/Open-Assistant" title="OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so." target="_blank">Open-Assistant</a>&nbsp;<a href="https://github.com/LAION-AI/Open-Assistant" title="OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so." target="_blank"><img src="https://img.shields.io/github/stars/LAION-AI/Open-Assistant?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bottlerocket-os/bottlerocket" title="An operating system designed for hosting containers" target="_blank">bottlerocket</a>&nbsp;<a href="https://github.com/bottlerocket-os/bottlerocket" title="An operating system designed for hosting containers" target="_blank"><img src="https://img.shields.io/github/stars/bottlerocket-os/bottlerocket?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/b7e332e88566cfc584738f541b7981309a4bd9cd" title="2023-03-15T10:13:00.000+01:00" target="_blank">b7e332e8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[fix] Hide all but EPFL Payonline payment method
+
+and bump to 1.7.2</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/55a254d6164ea5c79b28b7783ccc218413521e2b" title="2023-03-15T09:11:13.000+01:00" target="_blank">55a254d6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[fix] Set the `FS_METHOD` to `direct`
+
+This set the FS_METHOD to `direct` for all the plugins. This is 
+equivalent to setting the `FS_METHOD` constant in `wp-confing.php`.</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/speedchallenge/commits/b6c93eae4a6ff32e895dc11cf47cfbc478f7a48d" title="2023-03-03T14:18:20.000+01:00" target="_blank">b6c93eae</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/speedchallenge" title="Swiss Competition 2020 - Speed Challenge Trade 17 - Web Technologies">/speedchallenge</a></strong></div>
           <pre>[doc] download info</pre>
@@ -146,21 +161,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/payonline.ops/commits/348817ef26cd1d942fc79df558a1e0d4adce16f6" title="2023-02-22T14:47:03.000+01:00" target="_blank">348817ef</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline.ops" title="Ansible-based DevOps automation for Payonline">/payonline.ops</a></strong></div>
           <pre>[fix] payonline_build_openshift_namespace</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/98a830b2271e4f22144ad1e4c0fa7663579d45b8" title="2023-02-22T14:11:48.000+01:00" target="_blank">98a830b2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="null">/fiche-de-stage-WordPress</a></strong></div>
-          <pre>Update README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/e84951133f6fbc0af2f9d033d1c2052d3224a9f7" title="2023-02-22T13:48:42.000+01:00" target="_blank">e8495113</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="null">/fiche-de-stage-WordPress</a></strong></div>
-          <pre>Première version du stage WordPress</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 14 Mar 2023 13:50:20 GMT</small>
+<small>⏰ Updated on Wed, 15 Mar 2023 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
