@@ -103,69 +103,68 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/b7e332e88566cfc584738f541b7981309a4bd9cd" title="2023-03-15T10:13:00.000+01:00" target="_blank">b7e332e8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[fix] Hide all but EPFL Payonline payment method
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/0130933171706f471a2b874ed69116242d6ef622" title="2023-03-16T14:11:50.000+01:00" target="_blank">01309331</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[fix] Makefile's Zip target</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/bfdf31c1da010e924c21e146a9c7664153a5ebd4" title="2023-03-16T10:47:00.000+01:00" target="_blank">bfdf31c1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #524 from epfl-si/feature/update-surveys-and-polls
 
-and bump to 1.7.2</pre>
+[feature] Welcome surveys and polls v1.10.0</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/55a254d6164ea5c79b28b7783ccc218413521e2b" title="2023-03-15T09:11:13.000+01:00" target="_blank">55a254d6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[fix] Set the `FS_METHOD` to `direct`
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/67a797171a3bd7280eb42a02245c3c3d83229ea3" title="2023-03-16T10:45:20.000+01:00" target="_blank">67a79717</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] Welcome surveys and polls v1.10.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f6ddc161b51936621dffe9484d146e03f53cf42c" title="2023-03-16T08:42:43.000+01:00" target="_blank">f6ddc161</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #523 from epfl-si/feature/wpforms-1.8
 
-This set the FS_METHOD to `direct` for all the plugins. This is 
-equivalent to setting the `FS_METHOD` constant in `wp-confing.php`.</pre>
+[feature] Latest WPForms</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/speedchallenge/commits/b6c93eae4a6ff32e895dc11cf47cfbc478f7a48d" title="2023-03-03T14:18:20.000+01:00" target="_blank">b6c93eae</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/speedchallenge" title="Swiss Competition 2020 - Speed Challenge Trade 17 - Web Technologies">/speedchallenge</a></strong></div>
-          <pre>[doc] download info</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/speedchallenge/commits/bbcebb058d2fb2a6af2c894809801afb8b882acd" title="2023-03-03T14:01:24.000+01:00" target="_blank">bbcebb05</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/speedchallenge" title="Swiss Competition 2020 - Speed Challenge Trade 17 - Web Technologies">/speedchallenge</a></strong></div>
-          <pre>[init] speedchallenge</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/954746675e1be1b428f80179c89365092aaa34ae" title="2023-02-27T15:14:28.000+01:00" target="_blank">95474667</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[doc] Get the latest release and dev tips</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/a4b1c90bce073839df7bec8af2febe8b8a732414" title="2023-02-27T15:08:21.000+01:00" target="_blank">a4b1c90b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[fix] We don't want the vendor directory in the distributed zip</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-coming-soon/commits/ff054510c68f57ec5cf2c23898e809b019a78c4d" title="2023-02-27T14:51:32.000+01:00" target="_blank">ff054510</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-coming-soon" title="Basic WordPress plugin that allows to display a coming soon / maintenance page. Rest API status + wp cli maintenance-mode.">/wp-plugin-epfl-coming-soon</a></strong></div>
-          <pre>[feature] Add plugin version
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/4178ead973834720757477980e6cebffa8151c12" title="2023-03-15T21:06:34.000+01:00" target="_blank">4178ead9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] Latest WPForms
 
-* i18n
-* Correction espaces manaquant en FR
-* IDEV/ISAS
-* Bump to 0.1.7</pre>
+This commit get ride of all the maneuvering in order handle 2 versions
+of WPForms. Let's use the latest version available right now (i.e. 
+1.8.0.2)
+and the latest version of wpforms-epfl-payonline.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/23ce558b27359b54e7cdfe05178d566317dd6613" title="2023-02-23T10:03:15.000+01:00" target="_blank">23ce558b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="null">/fiche-de-stage-WordPress</a></strong></div>
-          <pre>Update README.md</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/50aa76bb14eb227103bf9cee76ba1a38625ae716" title="2023-03-15T20:44:45.000+01:00" target="_blank">50aa76bb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[VER] v1.8.1</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/c9a0cae766211a5d81a387869c1e57357d46063b" title="2023-02-22T17:30:09.000+01:00" target="_blank">c9a0cae7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="null">/fiche-de-stage-WordPress</a></strong></div>
-          <pre>Update README.md</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/81bd80a54e912ea368d9be34c814c1803736447c" title="2023-03-15T20:43:43.000+01:00" target="_blank">81bd80a5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[fix] EPFL conference template</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline.ops/commits/348817ef26cd1d942fc79df558a1e0d4adce16f6" title="2023-02-22T14:47:03.000+01:00" target="_blank">348817ef</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline.ops" title="Ansible-based DevOps automation for Payonline">/payonline.ops</a></strong></div>
-          <pre>[fix] payonline_build_openshift_namespace</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/4b152420a3176e512cd98db7a27eef3a662520dd" title="2023-03-15T20:08:34.000+01:00" target="_blank">4b152420</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[VER] v1.8.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/d1e0d447ae7dc016a224069e80bba5b628802be3" title="2023-03-15T20:06:19.000+01:00" target="_blank">d1e0d447</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[feature] editorconfig</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/1c3e555da6ae37d70da83f9bb53ce9f6c3efaf51" title="2023-03-15T20:06:05.000+01:00" target="_blank">1c3e555d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[feature] new EPFL template</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 15 Mar 2023 13:45:19 GMT</small>
+<small>⏰ Updated on Thu, 16 Mar 2023 13:45:47 GMT</small>
 </td>
 </tr>
 </tfoot>
