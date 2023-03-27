@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank">ansible-pres</a>&nbsp;<a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-pres?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank">pulsar</a>&nbsp;<a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank"><img src="https://img.shields.io/github/stars/pulsar-edit/pulsar?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/motion-canvas/motion-canvas" title="Visualize Complex Ideas Programmatically" target="_blank">motion-canvas</a>&nbsp;<a href="https://github.com/motion-canvas/motion-canvas" title="Visualize Complex Ideas Programmatically" target="_blank"><img src="https://img.shields.io/github/stars/motion-canvas/motion-canvas?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/owasp-change/owasp-change.github.io" title="An Open Letter to the OWASP Board" target="_blank">owasp-change.github.io</a>&nbsp;<a href="https://github.com/owasp-change/owasp-change.github.io" title="An Open Letter to the OWASP Board" target="_blank"><img src="https://img.shields.io/github/stars/owasp-change/owasp-change.github.io?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater</a>&nbsp;<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/0x192/universal-android-debloater?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank">zero123</a>&nbsp;<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank"><img src="https://img.shields.io/github/stars/cvlab-columbia/zero123?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank">localfirstweb.dev</a>&nbsp;<a href="https://github.com/localfirstweb/localfirstweb.dev" title="A list of various resources for local-first web development" target="_blank"><img src="https://img.shields.io/github/stars/localfirstweb/localfirstweb.dev?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/epfl-si/common-web" title="Common image for all ERP-MD web applications using Apache" target="_blank">common-web</a>&nbsp;<a href="https://github.com/epfl-si/common-web" title="Common image for all ERP-MD web applications using Apache" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/common-web?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,18 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/learn-fsd/commits/9c6f96fd5264919a0cfd1288c95755185fcb2d7d" title="2023-03-24T17:18:18.000+01:00" target="_blank">9c6f96fd</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/learn-fsd" title="null">/learn-fsd</a></strong></div>
+          <pre>[wip] initial version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/2933b755673c658aaedfd190af90f7e617dc8d15" title="2023-03-24T17:00:32.000+01:00" target="_blank">2933b755</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
+          <pre>Merge pull request #18 from Azecko/main
+
+Phones fix, Sticky titles and buttons, Fix responsible form, version</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/0130933171706f471a2b874ed69116242d6ef622" title="2023-03-16T14:11:50.000+01:00" target="_blank">01309331</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[fix] Makefile's Zip target</pre>
@@ -150,21 +162,11 @@ and the latest version of wpforms-epfl-payonline.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/4b152420a3176e512cd98db7a27eef3a662520dd" title="2023-03-15T20:08:34.000+01:00" target="_blank">4b152420</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>[VER] v1.8.0</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/d1e0d447ae7dc016a224069e80bba5b628802be3" title="2023-03-15T20:06:19.000+01:00" target="_blank">d1e0d447</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[feature] editorconfig</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/1c3e555da6ae37d70da83f9bb53ce9f6c3efaf51" title="2023-03-15T20:06:05.000+01:00" target="_blank">1c3e555d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[feature] new EPFL template</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 24 Mar 2023 13:45:18 GMT</small>
+<small>⏰ Updated on Mon, 27 Mar 2023 14:15:49 GMT</small>
 </td>
 </tr>
 </tfoot>
