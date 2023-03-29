@@ -166,7 +166,7 @@ and the latest version of wpforms-epfl-payonline.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 28 Mar 2023 13:46:00 GMT</small>
+<small>⏰ Updated on Wed, 29 Mar 2023 13:45:26 GMT</small>
 </td>
 </tr>
 </tfoot>
