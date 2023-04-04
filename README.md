@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/652b50656a5b0e44aa396ab747bea8dc86ee27e5" title="2023-04-03T16:10:59.000+02:00" target="_blank">652b5065</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>Merge pull request #526 from epfl-si/fix/suitcase-oc-login
+
+[fix] oc login</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/9f34f3fe1cf689479281f7e02fc78e395c22ce29" title="2023-04-03T14:48:02.000+02:00" target="_blank">9f34f3fe</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] oc login
+
+Now with the `--username` set to `$USER`. This allows the user to enter
+its password instead of login to OpenShift to fetch its token.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/1aa7c18a8e3f4eada001a777582e0f9e6416ec63" title="2023-04-03T10:28:24.000+02:00" target="_blank">1aa7c18a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[doc] Better step by steps procedure</pre>
         </td>
@@ -145,23 +160,11 @@ No longer showing the headers row</pre>
 
 Phones fix, Sticky titles and buttons, Fix responsible form, version</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/0130933171706f471a2b874ed69116242d6ef622" title="2023-03-16T14:11:50.000+01:00" target="_blank">01309331</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[fix] Makefile's Zip target</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/bfdf31c1da010e924c21e146a9c7664153a5ebd4" title="2023-03-16T10:47:00.000+01:00" target="_blank">bfdf31c1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #524 from epfl-si/feature/update-surveys-and-polls
-
-[feature] Welcome surveys and polls v1.10.0</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 03 Apr 2023 13:45:25 GMT</small>
+<small>⏰ Updated on Tue, 04 Apr 2023 13:45:42 GMT</small>
 </td>
 </tr>
 </tfoot>
