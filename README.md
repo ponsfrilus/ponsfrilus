@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank">Obsidian-Canvas-Presentation</a>&nbsp;<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank"><img src="https://img.shields.io/github/stars/Quorafind/Obsidian-Canvas-Presentation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: explore, analyze, document and design your SQL database schema." target="_blank">azimutt</a>&nbsp;<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: explore, analyze, document and design your SQL database schema." target="_blank"><img src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater</a>&nbsp;<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/0x192/universal-android-debloater?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank">zero123</a>&nbsp;<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank"><img src="https://img.shields.io/github/stars/cvlab-columbia/zero123?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank">mountpoint-s3</a>&nbsp;<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank"><img src="https://img.shields.io/github/stars/awslabs/mountpoint-s3?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank">ansible</a>&nbsp;<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank"><img src="https://img.shields.io/github/stars/prometheus-community/ansible?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank">cosmic-text</a>&nbsp;<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank"><img src="https://img.shields.io/github/stars/pop-os/cosmic-text?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tenderlove/initial-v" title="It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim" target="_blank">initial-v</a>&nbsp;<a href="https://github.com/tenderlove/initial-v" title="It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim" target="_blank"><img src="https://img.shields.io/github/stars/tenderlove/initial-v?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank">LaserWeb4</a>&nbsp;<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank"><img src="https://img.shields.io/github/stars/LaserWeb/LaserWeb4?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank">Compose-Examples</a>&nbsp;<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank"><img src="https://img.shields.io/github/stars/Haxxnet/Compose-Examples?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank">awesome-static-generators</a>&nbsp;<a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank"><img src="https://img.shields.io/github/stars/myles/awesome-static-generators?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/missing-semester/missing-semester" title="The Missing Semester of Your CS Education 📚" target="_blank">missing-semester</a>&nbsp;<a href="https://github.com/missing-semester/missing-semester" title="The Missing Semester of Your CS Education 📚" target="_blank"><img src="https://img.shields.io/github/stars/missing-semester/missing-semester?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: explore, analyze, document and design your SQL database schema." target="_blank">azimutt</a>&nbsp;<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: explore, analyze, document and design your SQL database schema." target="_blank"><img src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater</a>&nbsp;<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/0x192/universal-android-debloater?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank">zero123</a>&nbsp;<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank"><img src="https://img.shields.io/github/stars/cvlab-columbia/zero123?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank">mountpoint-s3</a>&nbsp;<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank"><img src="https://img.shields.io/github/stars/awslabs/mountpoint-s3?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank">ansible</a>&nbsp;<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank"><img src="https://img.shields.io/github/stars/prometheus-community/ansible?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank">cosmic-text</a>&nbsp;<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank"><img src="https://img.shields.io/github/stars/pop-os/cosmic-text?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tenderlove/initial-v" title="It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim" target="_blank">initial-v</a>&nbsp;<a href="https://github.com/tenderlove/initial-v" title="It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim" target="_blank"><img src="https://img.shields.io/github/stars/tenderlove/initial-v?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank">LaserWeb4</a>&nbsp;<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank"><img src="https://img.shields.io/github/stars/LaserWeb/LaserWeb4?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank">Compose-Examples</a>&nbsp;<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank"><img src="https://img.shields.io/github/stars/Haxxnet/Compose-Examples?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sonatype/nexus-public" title="Sonatype Nexus Repository Manager; Open-source codebase mirror" target="_blank">nexus-public</a>&nbsp;<a href="https://github.com/sonatype/nexus-public" title="Sonatype Nexus Repository Manager; Open-source codebase mirror" target="_blank"><img src="https://img.shields.io/github/stars/sonatype/nexus-public?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -164,7 +164,7 @@ Phones fix, Sticky titles and buttons, Fix responsible form, version</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 04 Apr 2023 13:45:42 GMT</small>
+<small>⏰ Updated on Wed, 05 Apr 2023 13:45:27 GMT</small>
 </td>
 </tr>
 </tfoot>
