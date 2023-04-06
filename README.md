@@ -84,7 +84,7 @@
 <a href="https://github.com/Quinny/GuitarEffects" title="A low latency guitar effects processor suitable for running on a raspberry pi" target="_blank">GuitarEffects</a>&nbsp;<a href="https://github.com/Quinny/GuitarEffects" title="A low latency guitar effects processor suitable for running on a raspberry pi" target="_blank"><img src="https://img.shields.io/github/stars/Quinny/GuitarEffects?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/Asabeneh/30-Days-Of-Python" title="30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. " target="_blank">30-Days-Of-Python</a>&nbsp;<a href="https://github.com/Asabeneh/30-Days-Of-Python" title="30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. " target="_blank"><img src="https://img.shields.io/github/stars/Asabeneh/30-Days-Of-Python?style=social" alt="GitHub"></a>
+<a href="https://github.com/Asabeneh/30-Days-Of-Python" title="30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw" target="_blank">30-Days-Of-Python</a>&nbsp;<a href="https://github.com/Asabeneh/30-Days-Of-Python" title="30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw" target="_blank"><img src="https://img.shields.io/github/stars/Asabeneh/30-Days-Of-Python?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/solvespace/solvespace" title="Parametric 2d/3d CAD" target="_blank">solvespace</a>&nbsp;<a href="https://github.com/solvespace/solvespace" title="Parametric 2d/3d CAD" target="_blank"><img src="https://img.shields.io/github/stars/solvespace/solvespace?style=social" alt="GitHub"></a>
@@ -164,7 +164,7 @@ Phones fix, Sticky titles and buttons, Fix responsible form, version</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 05 Apr 2023 13:45:27 GMT</small>
+<small>⏰ Updated on Thu, 06 Apr 2023 13:45:24 GMT</small>
 </td>
 </tr>
 </tfoot>
