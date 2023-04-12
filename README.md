@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/epfl-si/EPFLReactStarterKit" title="null" target="_blank">EPFLReactStarterKit</a>&nbsp;<a href="https://github.com/epfl-si/EPFLReactStarterKit" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/EPFLReactStarterKit?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank">Obsidian-Canvas-Presentation</a>&nbsp;<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank"><img src="https://img.shields.io/github/stars/Quorafind/Obsidian-Canvas-Presentation?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank">LaserWeb4</a>&nbsp;<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank"><img src="https://img.shields.io/github/stars/LaserWeb/LaserWeb4?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank">Compose-Examples</a>&nbsp;<a href="https://github.com/Haxxnet/Compose-Examples" title="Various Docker Compose examples of selfhosted FOSS and proprietary projects." target="_blank"><img src="https://img.shields.io/github/stars/Haxxnet/Compose-Examples?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank">ipu6-drivers</a>&nbsp;<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank"><img src="https://img.shields.io/github/stars/intel/ipu6-drivers?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank">awesome-static-generators</a>&nbsp;<a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank"><img src="https://img.shields.io/github/stars/myles/awesome-static-generators?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/kovacsv/Online3DViewer" title="A solution to visualize and explore 3D models in your browser." target="_blank">Online3DViewer</a>&nbsp;<a href="https://github.com/kovacsv/Online3DViewer" title="A solution to visualize and explore 3D models in your browser." target="_blank"><img src="https://img.shields.io/github/stars/kovacsv/Online3DViewer?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/missing-semester/missing-semester" title="The Missing Semester of Your CS Education 📚" target="_blank">missing-semester</a>&nbsp;<a href="https://github.com/missing-semester/missing-semester" title="The Missing Semester of Your CS Education 📚" target="_blank"><img src="https://img.shields.io/github/stars/missing-semester/missing-semester?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -164,7 +164,7 @@ Phones fix, Sticky titles and buttons, Fix responsible form, version</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 11 Apr 2023 13:45:21 GMT</small>
+<small>⏰ Updated on Wed, 12 Apr 2023 13:45:39 GMT</small>
 </td>
 </tr>
 </tfoot>
