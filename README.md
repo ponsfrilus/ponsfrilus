@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/keycloak.theme-login-epfl/commits/0e890862fbe4d84e4f99697f869181fc6b9e6d1a" title="2023-04-27T11:55:03.000+02:00" target="_blank">0e890862</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/keycloak.theme-login-epfl" title="Keycloak login theme with EPFL colors">/keycloak.theme-login-epfl</a></strong></div>
+          <pre>feat: (WIP) initial version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/652b50656a5b0e44aa396ab747bea8dc86ee27e5" title="2023-04-03T16:10:59.000+02:00" target="_blank">652b5065</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>Merge pull request #526 from epfl-si/fix/suitcase-oc-login
 
@@ -153,18 +158,11 @@ No longer showing the headers row</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/learn-fsd/commits/9c6f96fd5264919a0cfd1288c95755185fcb2d7d" title="2023-03-24T17:18:18.000+01:00" target="_blank">9c6f96fd</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/learn-fsd" title="null">/learn-fsd</a></strong></div>
           <pre>[wip] initial version</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/2933b755673c658aaedfd190af90f7e617dc8d15" title="2023-03-24T17:00:32.000+01:00" target="_blank">2933b755</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
-          <pre>Merge pull request #18 from Azecko/main
-
-Phones fix, Sticky titles and buttons, Fix responsible form, version</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 26 Apr 2023 13:45:19 GMT</small>
+<small>⏰ Updated on Thu, 27 Apr 2023 13:45:24 GMT</small>
 </td>
 </tr>
 </tfoot>
