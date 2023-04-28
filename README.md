@@ -72,7 +72,7 @@
 <a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank">Obsidian-Canvas-Presentation</a>&nbsp;<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank"><img src="https://img.shields.io/github/stars/Quorafind/Obsidian-Canvas-Presentation?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: explore, analyze, document and design your SQL database schema." target="_blank">azimutt</a>&nbsp;<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: explore, analyze, document and design your SQL database schema." target="_blank"><img src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" alt="GitHub"></a>
+<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: explore, analyze, document and design your database schema" target="_blank">azimutt</a>&nbsp;<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: explore, analyze, document and design your database schema" target="_blank"><img src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater</a>&nbsp;<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/0x192/universal-android-debloater?style=social" alt="GitHub"></a>
@@ -102,6 +102,18 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/lhd.graphql/commits/0570de77d49793851406c2b3c09ebbe3e1ecba39" title="2023-04-27T18:29:54.000+02:00" target="_blank">0570de77</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/lhd.graphql" title="LHD back-end as a GraphQL server">/lhd.graphql</a></strong></div>
+          <pre>[fix] upgrade prisma and @prisma/client to ^3.13
+
+Ubuntu 22.04 is using OpenSSL 3.0
+(https://www.openssl.org/blog/blog/2021/09/07/OpenSSL3.Final/) and the
+command `prisma generate` resulted in a `Error: Unknown binaryTarget
+debian-openssl-3.0.x and no custom binaries were provided`.
+
+See https://github.com/prisma/prisma/issues/11356</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/keycloak.theme-login-epfl/commits/0e890862fbe4d84e4f99697f869181fc6b9e6d1a" title="2023-04-27T11:55:03.000+02:00" target="_blank">0e890862</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/keycloak.theme-login-epfl" title="Keycloak login theme with EPFL colors">/keycloak.theme-login-epfl</a></strong></div>
           <pre>feat: (WIP) initial version</pre>
@@ -153,16 +165,11 @@ No longer showing the headers row</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/3bca4d0c4ab172b24ded6866d5658e8050bee4d3" title="2023-04-03T10:25:42.000+02:00" target="_blank">3bca4d0c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[update] April</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/learn-fsd/commits/9c6f96fd5264919a0cfd1288c95755185fcb2d7d" title="2023-03-24T17:18:18.000+01:00" target="_blank">9c6f96fd</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/learn-fsd" title="null">/learn-fsd</a></strong></div>
-          <pre>[wip] initial version</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 27 Apr 2023 13:45:24 GMT</small>
+<small>⏰ Updated on Fri, 28 Apr 2023 13:45:32 GMT</small>
 </td>
 </tr>
 </tfoot>
