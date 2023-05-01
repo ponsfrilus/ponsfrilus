@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 13 years and 3 months.
+    <br />Apparently, I'm hanging around on GitHub since 13 years and 4 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -33,40 +33,6 @@
 <ul>
 <li>
 <a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank">AnimatedDrawings</a>&nbsp;<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank"><img src="https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank">ipu6-drivers</a>&nbsp;<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank"><img src="https://img.shields.io/github/stars/intel/ipu6-drivers?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank">awesome-static-generators</a>&nbsp;<a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank"><img src="https://img.shields.io/github/stars/myles/awesome-static-generators?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank">ansible-pres</a>&nbsp;<a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-pres?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank">pulsar</a>&nbsp;<a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank"><img src="https://img.shields.io/github/stars/pulsar-edit/pulsar?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/scop/bash-completion" title="Programmable completion functions for bash" target="_blank">bash-completion</a>&nbsp;<a href="https://github.com/scop/bash-completion" title="Programmable completion functions for bash" target="_blank"><img src="https://img.shields.io/github/stars/scop/bash-completion?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/szhu/lunar-lander-autopilot" title="A fork of ehmorris/lunar-lander with an autopilot!" target="_blank">lunar-lander-autopilot</a>&nbsp;<a href="https://github.com/szhu/lunar-lander-autopilot" title="A fork of ehmorris/lunar-lander with an autopilot!" target="_blank"><img src="https://img.shields.io/github/stars/szhu/lunar-lander-autopilot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Quinny/GuitarEffects" title="A low latency guitar effects processor suitable for running on a raspberry pi" target="_blank">GuitarEffects</a>&nbsp;<a href="https://github.com/Quinny/GuitarEffects" title="A low latency guitar effects processor suitable for running on a raspberry pi" target="_blank"><img src="https://img.shields.io/github/stars/Quinny/GuitarEffects?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Asabeneh/30-Days-Of-Python" title="30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw" target="_blank">30-Days-Of-Python</a>&nbsp;<a href="https://github.com/Asabeneh/30-Days-Of-Python" title="30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw" target="_blank"><img src="https://img.shields.io/github/stars/Asabeneh/30-Days-Of-Python?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/solvespace/solvespace" title="Parametric 2d/3d CAD" target="_blank">solvespace</a>&nbsp;<a href="https://github.com/solvespace/solvespace" title="Parametric 2d/3d CAD" target="_blank"><img src="https://img.shields.io/github/stars/solvespace/solvespace?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/epfl-si/EPFLReactStarterKit" title="null" target="_blank">EPFLReactStarterKit</a>&nbsp;<a href="https://github.com/epfl-si/EPFLReactStarterKit" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/EPFLReactStarterKit?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank">Obsidian-Canvas-Presentation</a>&nbsp;<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank"><img src="https://img.shields.io/github/stars/Quorafind/Obsidian-Canvas-Presentation?style=social" alt="GitHub"></a>
@@ -94,6 +60,40 @@
 </li>
 <li>
 <a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank">LaserWeb4</a>&nbsp;<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank"><img src="https://img.shields.io/github/stars/LaserWeb/LaserWeb4?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank">ipu6-drivers</a>&nbsp;<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank"><img src="https://img.shields.io/github/stars/intel/ipu6-drivers?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank">awesome-static-generators</a>&nbsp;<a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank"><img src="https://img.shields.io/github/stars/myles/awesome-static-generators?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank">ansible-pres</a>&nbsp;<a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-pres?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank">pulsar</a>&nbsp;<a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank"><img src="https://img.shields.io/github/stars/pulsar-edit/pulsar?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/scop/bash-completion" title="Programmable completion functions for bash" target="_blank">bash-completion</a>&nbsp;<a href="https://github.com/scop/bash-completion" title="Programmable completion functions for bash" target="_blank"><img src="https://img.shields.io/github/stars/scop/bash-completion?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/szhu/lunar-lander-autopilot" title="A fork of ehmorris/lunar-lander with an autopilot!" target="_blank">lunar-lander-autopilot</a>&nbsp;<a href="https://github.com/szhu/lunar-lander-autopilot" title="A fork of ehmorris/lunar-lander with an autopilot!" target="_blank"><img src="https://img.shields.io/github/stars/szhu/lunar-lander-autopilot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Quinny/GuitarEffects" title="A low latency guitar effects processor suitable for running on a raspberry pi" target="_blank">GuitarEffects</a>&nbsp;<a href="https://github.com/Quinny/GuitarEffects" title="A low latency guitar effects processor suitable for running on a raspberry pi" target="_blank"><img src="https://img.shields.io/github/stars/Quinny/GuitarEffects?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Asabeneh/30-Days-Of-Python" title="30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw" target="_blank">30-Days-Of-Python</a>&nbsp;<a href="https://github.com/Asabeneh/30-Days-Of-Python" title="30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw" target="_blank"><img src="https://img.shields.io/github/stars/Asabeneh/30-Days-Of-Python?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/solvespace/solvespace" title="Parametric 2d/3d CAD" target="_blank">solvespace</a>&nbsp;<a href="https://github.com/solvespace/solvespace" title="Parametric 2d/3d CAD" target="_blank"><img src="https://img.shields.io/github/stars/solvespace/solvespace?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kovacsv/Online3DViewer" title="A solution to visualize and explore 3D models in your browser." target="_blank">Online3DViewer</a>&nbsp;<a href="https://github.com/kovacsv/Online3DViewer" title="A solution to visualize and explore 3D models in your browser." target="_blank"><img src="https://img.shields.io/github/stars/kovacsv/Online3DViewer?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -169,7 +169,7 @@ No longer showing the headers row</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 28 Apr 2023 13:45:32 GMT</small>
+<small>⏰ Updated on Mon, 01 May 2023 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
