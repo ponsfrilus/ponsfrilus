@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/1cfc9e03403b3bb02d8f91fa5737ee2f4923c0cc" title="2023-05-08T09:38:24.000+02:00" target="_blank">1cfc9e03</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
+          <pre>[fix] link ordonnance</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/1501d8560a5aaa60029941d3727772a21a6069e3" title="2023-05-04T19:55:31.000+02:00" target="_blank">1501d856</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>Merge pull request #77 from epfl-si/harmonize/secrets
 
@@ -171,16 +176,11 @@ See https://github.com/prisma/prisma/issues/11356</pre>
 Now with the `--username` set to `$USER`. This allows the user to enter
 its password instead of login to OpenShift to fetch its token.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/1aa7c18a8e3f4eada001a777582e0f9e6416ec63" title="2023-04-03T10:28:24.000+02:00" target="_blank">1aa7c18a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[doc] Better step by steps procedure</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 05 May 2023 13:45:26 GMT</small>
+<small>⏰ Updated on Mon, 08 May 2023 13:45:27 GMT</small>
 </td>
 </tr>
 </tfoot>
