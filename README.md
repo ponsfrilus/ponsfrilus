@@ -180,7 +180,7 @@ its password instead of login to OpenShift to fetch its token.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 09 May 2023 13:46:56 GMT</small>
+<small>⏰ Updated on Wed, 10 May 2023 13:46:58 GMT</small>
 </td>
 </tr>
 </tfoot>
