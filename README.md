@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank">TPI-livraisons-locales</a>&nbsp;<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank"><img src="https://img.shields.io/github/stars/anthohn/TPI-livraisons-locales?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank">AnimatedDrawings</a>&nbsp;<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank"><img src="https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank">Obsidian-Canvas-Presentation</a>&nbsp;<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank"><img src="https://img.shields.io/github/stars/Quorafind/Obsidian-Canvas-Presentation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank">azimutt</a>&nbsp;<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank"><img src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater</a>&nbsp;<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/0x192/universal-android-debloater?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank">zero123</a>&nbsp;<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank"><img src="https://img.shields.io/github/stars/cvlab-columbia/zero123?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank">mountpoint-s3</a>&nbsp;<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank"><img src="https://img.shields.io/github/stars/awslabs/mountpoint-s3?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank">ansible</a>&nbsp;<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank"><img src="https://img.shields.io/github/stars/prometheus-community/ansible?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank">cosmic-text</a>&nbsp;<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank"><img src="https://img.shields.io/github/stars/pop-os/cosmic-text?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tenderlove/initial-v" title="It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim" target="_blank">initial-v</a>&nbsp;<a href="https://github.com/tenderlove/initial-v" title="It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim" target="_blank"><img src="https://img.shields.io/github/stars/tenderlove/initial-v?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/epfl-si/angular.starterkit" title="Starter kit with Angular and Meteor" target="_blank">angular.starterkit</a>&nbsp;<a href="https://github.com/epfl-si/angular.starterkit" title="Starter kit with Angular and Meteor" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/angular.starterkit?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/solvespace/solvespace" title="Parametric 2d/3d CAD" target="_blank">solvespace</a>&nbsp;<a href="https://github.com/solvespace/solvespace" title="Parametric 2d/3d CAD" target="_blank"><img src="https://img.shields.io/github/stars/solvespace/solvespace?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank">AnimatedDrawings</a>&nbsp;<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank"><img src="https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank">Obsidian-Canvas-Presentation</a>&nbsp;<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank"><img src="https://img.shields.io/github/stars/Quorafind/Obsidian-Canvas-Presentation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank">azimutt</a>&nbsp;<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank"><img src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater</a>&nbsp;<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/0x192/universal-android-debloater?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank">zero123</a>&nbsp;<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank"><img src="https://img.shields.io/github/stars/cvlab-columbia/zero123?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank">mountpoint-s3</a>&nbsp;<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank"><img src="https://img.shields.io/github/stars/awslabs/mountpoint-s3?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank">ansible</a>&nbsp;<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank"><img src="https://img.shields.io/github/stars/prometheus-community/ansible?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank">cosmic-text</a>&nbsp;<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank"><img src="https://img.shields.io/github/stars/pop-os/cosmic-text?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tenderlove/initial-v" title="It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim" target="_blank">initial-v</a>&nbsp;<a href="https://github.com/tenderlove/initial-v" title="It's a BMW shifter converted to a Bluetooth Keyboard that you use with Vim" target="_blank"><img src="https://img.shields.io/github/stars/tenderlove/initial-v?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank">LaserWeb4</a>&nbsp;<a href="https://github.com/LaserWeb/LaserWeb4" title="Collaborative effort on the next version of LaserWeb / CNCWeb" target="_blank"><img src="https://img.shields.io/github/stars/LaserWeb/LaserWeb4?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -180,7 +180,7 @@ its password instead of login to OpenShift to fetch its token.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 10 May 2023 13:46:58 GMT</small>
+<small>⏰ Updated on Fri, 12 May 2023 13:45:18 GMT</small>
 </td>
 </tr>
 </tfoot>
