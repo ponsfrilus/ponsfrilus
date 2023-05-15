@@ -103,6 +103,41 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/75d915376ccffb59348f96e71561a9b01985ff0f" title="2023-05-15T10:44:08.000+02:00" target="_blank">75d91537</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] make clean</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/a693049944afe60a17bc3ac328ee9fed08910e47" title="2023-05-15T10:40:00.000+02:00" target="_blank">a6930499</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] epspdf package</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b4f10c662bf6af146b70eddfad475f9bb2f1f0ed" title="2023-05-15T10:34:48.000+02:00" target="_blank">b4f10c66</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[gfx] let's save the converted image once</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/0061bf6a9ef3b30151755e226f46d7184209dab7" title="2023-05-15T10:34:08.000+02:00" target="_blank">0061bf6a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] manage the output directory</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/acca9836f2f3e36e13522438bd3964ff5f76deb8" title="2023-05-15T10:10:30.000+02:00" target="_blank">acca9836</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[doc] add `apt` command for prerequisites</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/1f867e766fdb2e82d8f66b978dd68d4710ff0587" title="2023-05-15T10:09:27.000+02:00" target="_blank">1f867e76</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] date and invisibles</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/9aa84b2c6f598d0e6dbf4c1085391c109d184ce3" title="2023-05-15T10:04:58.000+02:00" target="_blank">9aa84b2c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] attestation/confirmation</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/1cfc9e03403b3bb02d8f91fa5737ee2f4923c0cc" title="2023-05-08T09:38:24.000+02:00" target="_blank">1cfc9e03</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
           <pre>[fix] link ordonnance</pre>
         </td>
@@ -118,69 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/421bd2922f48f515b42de85c172a45f3e21c14c0" title="2023-05-04T17:30:42.000+02:00" target="_blank">421bd292</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[harmonize] use the same secret everywhere</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/794790a8f1fa200f0af8f6396266d7b1b01c715d" title="2023-05-04T16:53:36.000+02:00" target="_blank">794790a8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>Merge pull request #76 from epfl-si/fix/docker-compose-v2
-
-[fix] use of the Docker CLI (Compose V2)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/39e1e1a387da9deb5afbd1b681881234f0a872e4" title="2023-05-04T16:53:00.000+02:00" target="_blank">39e1e1a3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #525 from epfl-si/feature/bash-completion
-
-[feature] bash-completion</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/e32263a4c7870eb4ea8c6f6436710b667d7d7164" title="2023-05-01T14:15:39.000+02:00" target="_blank">e32263a4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] use of the Docker CLI
-
-As stated in the compose documentation
-(https://docs.docker.com/compose/reference/), from the end of June
-2023 Compose V1 won’t be supported anymore and will be removed from all
-Docker Desktop versions. You can run Compose V2 by replacing the hyphen
-(-) with a space, using `docker compose`, instead of `docker-compose`
-and this is exactly what's it's intended in this commit.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/lhd.graphql/commits/0570de77d49793851406c2b3c09ebbe3e1ecba39" title="2023-04-27T18:29:54.000+02:00" target="_blank">0570de77</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/lhd.graphql" title="LHD back-end as a GraphQL server">/lhd.graphql</a></strong></div>
-          <pre>[fix] upgrade prisma and @prisma/client to ^3.13
-
-Ubuntu 22.04 is using OpenSSL 3.0
-(https://www.openssl.org/blog/blog/2021/09/07/OpenSSL3.Final/) and the
-command `prisma generate` resulted in a `Error: Unknown binaryTarget
-debian-openssl-3.0.x and no custom binaries were provided`.
-
-See https://github.com/prisma/prisma/issues/11356</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/keycloak.theme-login-epfl/commits/0e890862fbe4d84e4f99697f869181fc6b9e6d1a" title="2023-04-27T11:55:03.000+02:00" target="_blank">0e890862</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/keycloak.theme-login-epfl" title="Keycloak login theme with EPFL colors">/keycloak.theme-login-epfl</a></strong></div>
-          <pre>feat: (WIP) initial version</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/652b50656a5b0e44aa396ab747bea8dc86ee27e5" title="2023-04-03T16:10:59.000+02:00" target="_blank">652b5065</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>Merge pull request #526 from epfl-si/fix/suitcase-oc-login
-
-[fix] oc login</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/9f34f3fe1cf689479281f7e02fc78e395c22ce29" title="2023-04-03T14:48:02.000+02:00" target="_blank">9f34f3fe</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] oc login
-
-Now with the `--username` set to `$USER`. This allows the user to enter
-its password instead of login to OpenShift to fetch its token.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 12 May 2023 13:45:18 GMT</small>
+<small>⏰ Updated on Mon, 15 May 2023 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
