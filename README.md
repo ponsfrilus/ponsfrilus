@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/7a5a7b7d85a6783aec4315ca7e762148b980b084" title="2023-05-23T10:46:54.000+02:00" target="_blank">7a5a7b7d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <pre>[fix](INC0556545): add new repro staff + old member cleanup</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/75d915376ccffb59348f96e71561a9b01985ff0f" title="2023-05-15T10:44:08.000+02:00" target="_blank">75d91537</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[fix] make clean</pre>
         </td>
@@ -148,16 +153,11 @@
 
 [harmonize] use the same secret everywhere</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/421bd2922f48f515b42de85c172a45f3e21c14c0" title="2023-05-04T17:30:42.000+02:00" target="_blank">421bd292</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[harmonize] use the same secret everywhere</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 22 May 2023 13:45:20 GMT</small>
+<small>⏰ Updated on Tue, 23 May 2023 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
