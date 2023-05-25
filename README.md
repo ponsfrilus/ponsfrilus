@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank">community.mysql</a>&nbsp;<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank"><img src="https://img.shields.io/github/stars/ansible-collections/community.mysql?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one" target="_blank">bun</a>&nbsp;<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one" target="_blank"><img src="https://img.shields.io/github/stars/oven-sh/bun?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank">TPI-livraisons-locales</a>&nbsp;<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank"><img src="https://img.shields.io/github/stars/anthohn/TPI-livraisons-locales?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank">AnimatedDrawings</a>&nbsp;<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank"><img src="https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank">Obsidian-Canvas-Presentation</a>&nbsp;<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank"><img src="https://img.shields.io/github/stars/Quorafind/Obsidian-Canvas-Presentation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank">azimutt</a>&nbsp;<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank"><img src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater</a>&nbsp;<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/0x192/universal-android-debloater?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank">zero123</a>&nbsp;<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank"><img src="https://img.shields.io/github/stars/cvlab-columbia/zero123?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank">mountpoint-s3</a>&nbsp;<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank"><img src="https://img.shields.io/github/stars/awslabs/mountpoint-s3?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank">ansible</a>&nbsp;<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank"><img src="https://img.shields.io/github/stars/prometheus-community/ansible?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank">chronotrains</a>&nbsp;<a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank"><img src="https://img.shields.io/github/stars/benjamintd/chronotrains?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,101 +97,71 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one" target="_blank">bun</a>&nbsp;<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one" target="_blank"><img src="https://img.shields.io/github/stars/oven-sh/bun?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank">TPI-livraisons-locales</a>&nbsp;<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank"><img src="https://img.shields.io/github/stars/anthohn/TPI-livraisons-locales?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank">AnimatedDrawings</a>&nbsp;<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank"><img src="https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank">Obsidian-Canvas-Presentation</a>&nbsp;<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank"><img src="https://img.shields.io/github/stars/Quorafind/Obsidian-Canvas-Presentation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank">azimutt</a>&nbsp;<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank"><img src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater</a>&nbsp;<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/0x192/universal-android-debloater?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank">zero123</a>&nbsp;<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank"><img src="https://img.shields.io/github/stars/cvlab-columbia/zero123?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank">mountpoint-s3</a>&nbsp;<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank"><img src="https://img.shields.io/github/stars/awslabs/mountpoint-s3?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank">ansible</a>&nbsp;<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank"><img src="https://img.shields.io/github/stars/prometheus-community/ansible?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank">cosmic-text</a>&nbsp;<a href="https://github.com/pop-os/cosmic-text" title="Pure Rust multi-line text handling" target="_blank"><img src="https://img.shields.io/github/stars/pop-os/cosmic-text?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/08eafc909130c7683c1ea5cd47954e7980a5a9f9" title="2023-05-25T10:28:10.000+02:00" target="_blank">08eafc90</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="null">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
+          <pre>[verison] bump to 0.5</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/61a61b17113acba198177f5969ec7a8c76f966a0" title="2023-05-25T10:28:01.000+02:00" target="_blank">61a61b17</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="null">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
+          <pre>[fix] Catalyse URL</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/6926e34cc44eae543176c50cfc3ef0a22364488d" title="2023-05-25T10:27:44.000+02:00" target="_blank">6926e34c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="null">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
+          <pre>[fix] Soudns URLs</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/ac33ae9e1bf8275c28d4f1dd94467da3a16a66fd" title="2023-05-25T10:27:28.000+02:00" target="_blank">ac33ae9e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="null">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
+          <pre>[old] v0.4
+
+This should probably be a tag...</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/e13760d0ac2f42f01b0b2fd27c3d6041b6be1157" title="2023-05-25T09:24:42.000+02:00" target="_blank">e13760d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>Merge pull request #78 from epfl-si/feature/local-restore-from-restic
+
+[feature] restore locally a site from S3 backup</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/a3757ccc5dfcc0eae677a9499a8cf2b1399c07a1" title="2023-05-25T09:24:35.000+02:00" target="_blank">a3757ccc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>Update devscripts/local-restore-from-restic.sh
+
+Co-authored-by: jdelasoie <julien.delasoie@epfl.ch></pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/99e1e492c2b5b9e0fa79f518c049b200d9df769c" title="2023-05-24T16:04:26.000+02:00" target="_blank">99e1e492</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] spaces</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/59faa0266c4db1d1f06259926249e0546cd74698" title="2023-05-24T15:56:49.000+02:00" target="_blank">59faa026</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] margins</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/1e78f70edc310aab8713a18ef48398b8db074890" title="2023-05-24T15:48:41.000+02:00" target="_blank">1e78f70e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] confirmation</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/7a5a7b7d85a6783aec4315ca7e762148b980b084" title="2023-05-23T10:46:54.000+02:00" target="_blank">7a5a7b7d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
           <pre>[fix](INC0556545): add new repro staff + old member cleanup</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/75d915376ccffb59348f96e71561a9b01985ff0f" title="2023-05-15T10:44:08.000+02:00" target="_blank">75d91537</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] make clean</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/a693049944afe60a17bc3ac328ee9fed08910e47" title="2023-05-15T10:40:00.000+02:00" target="_blank">a6930499</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] epspdf package</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b4f10c662bf6af146b70eddfad475f9bb2f1f0ed" title="2023-05-15T10:34:48.000+02:00" target="_blank">b4f10c66</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[gfx] let's save the converted image once</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/0061bf6a9ef3b30151755e226f46d7184209dab7" title="2023-05-15T10:34:08.000+02:00" target="_blank">0061bf6a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature] manage the output directory</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/acca9836f2f3e36e13522438bd3964ff5f76deb8" title="2023-05-15T10:10:30.000+02:00" target="_blank">acca9836</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[doc] add `apt` command for prerequisites</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/1f867e766fdb2e82d8f66b978dd68d4710ff0587" title="2023-05-15T10:09:27.000+02:00" target="_blank">1f867e76</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] date and invisibles</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/9aa84b2c6f598d0e6dbf4c1085391c109d184ce3" title="2023-05-15T10:04:58.000+02:00" target="_blank">9aa84b2c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] attestation/confirmation</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/1cfc9e03403b3bb02d8f91fa5737ee2f4923c0cc" title="2023-05-08T09:38:24.000+02:00" target="_blank">1cfc9e03</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
-          <pre>[fix] link ordonnance</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/1501d8560a5aaa60029941d3727772a21a6069e3" title="2023-05-04T19:55:31.000+02:00" target="_blank">1501d856</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>Merge pull request #77 from epfl-si/harmonize/secrets
-
-[harmonize] use the same secret everywhere</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 24 May 2023 13:45:26 GMT</small>
+<small>⏰ Updated on Thu, 25 May 2023 13:45:25 GMT</small>
 </td>
 </tr>
 </tfoot>
