@@ -35,7 +35,7 @@
 <a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank">community.mysql</a>&nbsp;<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank"><img src="https://img.shields.io/github/stars/ansible-collections/community.mysql?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one" target="_blank">bun</a>&nbsp;<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one" target="_blank"><img src="https://img.shields.io/github/stars/oven-sh/bun?style=social" alt="GitHub"></a>
+<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank">bun</a>&nbsp;<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank"><img src="https://img.shields.io/github/stars/oven-sh/bun?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank">TPI-livraisons-locales</a>&nbsp;<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank"><img src="https://img.shields.io/github/stars/anthohn/TPI-livraisons-locales?style=social" alt="GitHub"></a>
@@ -103,7 +103,26 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/638a9fe15f461342b593fe7d39238b5e9e0e25cb" title="2023-05-26T14:33:51.000+02:00" target="_blank">638a9fe1</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/96bb95e892ecf0ce5282991136e0cebaf666a657" title="2023-05-26T18:57:02.000+02:00" target="_blank">96bb95e8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[update] Welcome Grafana 9.5.2</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/c6be22fb8562e52c797a9297865cde2f546af71a" title="2023-05-26T18:25:03.000+02:00" target="_blank">c6be22fb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Alertmanager URL</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/b6b44e4c3cff9cc898ef151f4a5f290bbf388d17" title="2023-05-26T17:47:15.000+02:00" target="_blank">b6b44e4c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[feature] idev-fsd.ml to fsd.team
+
+* First steps to change the hostname
+* Rename `dnspostfix` variable in `dns_suffix`
+* Testing is now down on `*.noc-test.fsd.team`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/c815dbda967691f8c5d9341e86532682efdddeff" title="2023-05-26T17:43:00.000+02:00" target="_blank">c815dbda</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
           <pre>[feature] *.noc.fsd.team</pre>
         </td>
         </tr><tr>
@@ -145,26 +164,11 @@ spaces) and remove some dead code.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/1f2e72f2ccf56c947ecab39061ca722a21654361" title="2023-05-25T18:42:54.000+02:00" target="_blank">1f2e72f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
           <pre>[update] jquery + minify</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/08eafc909130c7683c1ea5cd47954e7980a5a9f9" title="2023-05-25T10:28:10.000+02:00" target="_blank">08eafc90</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
-          <pre>[verison] bump to 0.5</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/61a61b17113acba198177f5969ec7a8c76f966a0" title="2023-05-25T10:28:01.000+02:00" target="_blank">61a61b17</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
-          <pre>[fix] Catalyse URL</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/6926e34cc44eae543176c50cfc3ef0a22364488d" title="2023-05-25T10:27:44.000+02:00" target="_blank">6926e34c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
-          <pre>[fix] Soudns URLs</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 26 May 2023 13:45:22 GMT</small>
+<small>⏰ Updated on Mon, 29 May 2023 13:45:27 GMT</small>
 </td>
 </tr>
 </tfoot>
