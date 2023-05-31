@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Me-Theo/regex_tool_tutorial" title="Projet de TPI" target="_blank">regex_tool_tutorial</a>&nbsp;<a href="https://github.com/Me-Theo/regex_tool_tutorial" title="Projet de TPI" target="_blank"><img src="https://img.shields.io/github/stars/Me-Theo/regex_tool_tutorial?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank">chronotrains</a>&nbsp;<a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank"><img src="https://img.shields.io/github/stars/benjamintd/chronotrains?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Samfernande/tpi-application-partage-sons" title="null" target="_blank">tpi-application-partage-sons</a>&nbsp;<a href="https://github.com/Samfernande/tpi-application-partage-sons" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Samfernande/tpi-application-partage-sons?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/angular.starterkit" title="Starter kit with Angular and Meteor" target="_blank">angular.starterkit</a>&nbsp;<a href="https://github.com/epfl-si/angular.starterkit" title="Starter kit with Angular and Meteor" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/angular.starterkit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank">ipu6-drivers</a>&nbsp;<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank"><img src="https://img.shields.io/github/stars/intel/ipu6-drivers?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank">awesome-static-generators</a>&nbsp;<a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank"><img src="https://img.shields.io/github/stars/myles/awesome-static-generators?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank">ansible-pres</a>&nbsp;<a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-pres?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank">pulsar</a>&nbsp;<a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank"><img src="https://img.shields.io/github/stars/pulsar-edit/pulsar?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/scop/bash-completion" title="Programmable completion functions for bash" target="_blank">bash-completion</a>&nbsp;<a href="https://github.com/scop/bash-completion" title="Programmable completion functions for bash" target="_blank"><img src="https://img.shields.io/github/stars/scop/bash-completion?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/szhu/lunar-lander-autopilot" title="A fork of ehmorris/lunar-lander with an autopilot!" target="_blank">lunar-lander-autopilot</a>&nbsp;<a href="https://github.com/szhu/lunar-lander-autopilot" title="A fork of ehmorris/lunar-lander with an autopilot!" target="_blank"><img src="https://img.shields.io/github/stars/szhu/lunar-lander-autopilot?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank">community.mysql</a>&nbsp;<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank"><img src="https://img.shields.io/github/stars/ansible-collections/community.mysql?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank">ansible</a>&nbsp;<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank"><img src="https://img.shields.io/github/stars/prometheus-community/ansible?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank">chronotrains</a>&nbsp;<a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank"><img src="https://img.shields.io/github/stars/benjamintd/chronotrains?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Samfernande/tpi-application-partage-sons" title="null" target="_blank">tpi-application-partage-sons</a>&nbsp;<a href="https://github.com/Samfernande/tpi-application-partage-sons" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Samfernande/tpi-application-partage-sons?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/angular.starterkit" title="Starter kit with Angular and Meteor" target="_blank">angular.starterkit</a>&nbsp;<a href="https://github.com/epfl-si/angular.starterkit" title="Starter kit with Angular and Meteor" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/angular.starterkit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank">ipu6-drivers</a>&nbsp;<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank"><img src="https://img.shields.io/github/stars/intel/ipu6-drivers?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank">awesome-static-generators</a>&nbsp;<a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank"><img src="https://img.shields.io/github/stars/myles/awesome-static-generators?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank">ansible-pres</a>&nbsp;<a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-pres?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank">pulsar</a>&nbsp;<a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank"><img src="https://img.shields.io/github/stars/pulsar-edit/pulsar?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/scop/bash-completion" title="Programmable completion functions for bash" target="_blank">bash-completion</a>&nbsp;<a href="https://github.com/scop/bash-completion" title="Programmable completion functions for bash" target="_blank"><img src="https://img.shields.io/github/stars/scop/bash-completion?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/szhu/lunar-lander-autopilot" title="A fork of ehmorris/lunar-lander with an autopilot!" target="_blank">lunar-lander-autopilot</a>&nbsp;<a href="https://github.com/szhu/lunar-lander-autopilot" title="A fork of ehmorris/lunar-lander with an autopilot!" target="_blank"><img src="https://img.shields.io/github/stars/szhu/lunar-lander-autopilot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Quinny/GuitarEffects" title="A low latency guitar effects processor suitable for running on a raspberry pi" target="_blank">GuitarEffects</a>&nbsp;<a href="https://github.com/Quinny/GuitarEffects" title="A low latency guitar effects processor suitable for running on a raspberry pi" target="_blank"><img src="https://img.shields.io/github/stars/Quinny/GuitarEffects?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -168,7 +168,7 @@ spaces) and remove some dead code.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 30 May 2023 13:45:19 GMT</small>
+<small>⏰ Updated on Wed, 31 May 2023 13:45:17 GMT</small>
 </td>
 </tr>
 </tfoot>
