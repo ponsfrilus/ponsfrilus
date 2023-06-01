@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 13 years and 4 months.
+    <br />Apparently, I'm hanging around on GitHub since 13 years and 5 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -127,48 +127,43 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/37d59abdbef919a1fa4546a07af780c1ec1a47dc" title="2023-05-25T19:27:51.000+02:00" target="_blank">37d59abd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
-          <pre>[doc] revamp</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/2ff8273ddc97a0df4b219cd151d2111cea3bf2f5" title="2023-05-25T19:05:04.000+02:00" target="_blank">2ff8273d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
-          <pre>[chore] s/Code/assets (v0.7)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/009ddae71a55579e0d590f8b598ce01ecd29ad06" title="2023-05-25T19:03:34.000+02:00" target="_blank">009ddae7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
-          <pre>[chore] cleanup old file
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/e13760d0ac2f42f01b0b2fd27c3d6041b6be1157" title="2023-05-25T09:24:42.000+02:00" target="_blank">e13760d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>Merge pull request #78 from epfl-si/feature/local-restore-from-restic
 
-They are in git anyway !</pre>
+[feature] restore locally a site from S3 backup</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/32a49ae9836a11a5a287141a1b3d5370f28022a7" title="2023-05-25T18:55:33.000+02:00" target="_blank">32a49ae9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
-          <pre>[feature] Trigger sound based on XHR returns (v0.6)
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/a3757ccc5dfcc0eae677a9499a8cf2b1399c07a1" title="2023-05-25T09:24:35.000+02:00" target="_blank">a3757ccc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>Update devscripts/local-restore-from-restic.sh
 
-The sounds are now triggered based on the URL used by AJAX to POST 
-content, and the `responseText` is used to play the sound when it's 
-needed.
-
-This commit also beautify some of the code (surch a single quote and 
-spaces) and remove some dead code.</pre>
+Co-authored-by: jdelasoie <julien.delasoie@epfl.ch></pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/6a923b4123160f0a95ebdb4de59e1e508a3d3002" title="2023-05-25T18:43:07.000+02:00" target="_blank">6a923b41</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
-          <pre>[fix] namespace</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/99e1e492c2b5b9e0fa79f518c049b200d9df769c" title="2023-05-24T16:04:26.000+02:00" target="_blank">99e1e492</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] spaces</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/1f2e72f2ccf56c947ecab39061ca722a21654361" title="2023-05-25T18:42:54.000+02:00" target="_blank">1f2e72f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
-          <pre>[update] jquery + minify</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/59faa0266c4db1d1f06259926249e0546cd74698" title="2023-05-24T15:56:49.000+02:00" target="_blank">59faa026</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] margins</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/1e78f70edc310aab8713a18ef48398b8db074890" title="2023-05-24T15:48:41.000+02:00" target="_blank">1e78f70e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] confirmation</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/7a5a7b7d85a6783aec4315ca7e762148b980b084" title="2023-05-23T10:46:54.000+02:00" target="_blank">7a5a7b7d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <pre>[fix](INC0556545): add new repro staff + old member cleanup</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 31 May 2023 13:45:17 GMT</small>
+<small>⏰ Updated on Thu, 01 Jun 2023 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
