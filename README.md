@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/fishfolk/jumpy" title="Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶" target="_blank">jumpy</a>&nbsp;<a href="https://github.com/fishfolk/jumpy" title="Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶" target="_blank"><img src="https://img.shields.io/github/stars/fishfolk/jumpy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank">community.mysql</a>&nbsp;<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank"><img src="https://img.shields.io/github/stars/ansible-collections/community.mysql?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank">bun</a>&nbsp;<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank"><img src="https://img.shields.io/github/stars/oven-sh/bun?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank">TPI-livraisons-locales</a>&nbsp;<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank"><img src="https://img.shields.io/github/stars/anthohn/TPI-livraisons-locales?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank">AnimatedDrawings</a>&nbsp;<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank"><img src="https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank">Obsidian-Canvas-Presentation</a>&nbsp;<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank"><img src="https://img.shields.io/github/stars/Quorafind/Obsidian-Canvas-Presentation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank">azimutt</a>&nbsp;<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank"><img src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater</a>&nbsp;<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/0x192/universal-android-debloater?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank">zero123</a>&nbsp;<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank"><img src="https://img.shields.io/github/stars/cvlab-columbia/zero123?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank">mountpoint-s3</a>&nbsp;<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank"><img src="https://img.shields.io/github/stars/awslabs/mountpoint-s3?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/Me-Theo/regex_tool_tutorial" title="Projet de TPI" target="_blank">regex_tool_tutorial</a>&nbsp;<a href="https://github.com/Me-Theo/regex_tool_tutorial" title="Projet de TPI" target="_blank"><img src="https://img.shields.io/github/stars/Me-Theo/regex_tool_tutorial?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,62 +97,37 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank">community.mysql</a>&nbsp;<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank"><img src="https://img.shields.io/github/stars/ansible-collections/community.mysql?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank">bun</a>&nbsp;<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank"><img src="https://img.shields.io/github/stars/oven-sh/bun?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank">TPI-livraisons-locales</a>&nbsp;<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank"><img src="https://img.shields.io/github/stars/anthohn/TPI-livraisons-locales?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank">AnimatedDrawings</a>&nbsp;<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank"><img src="https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank">Obsidian-Canvas-Presentation</a>&nbsp;<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank"><img src="https://img.shields.io/github/stars/Quorafind/Obsidian-Canvas-Presentation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank">azimutt</a>&nbsp;<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank"><img src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater</a>&nbsp;<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/0x192/universal-android-debloater?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank">zero123</a>&nbsp;<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank"><img src="https://img.shields.io/github/stars/cvlab-columbia/zero123?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank">mountpoint-s3</a>&nbsp;<a href="https://github.com/awslabs/mountpoint-s3" title="A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system." target="_blank"><img src="https://img.shields.io/github/stars/awslabs/mountpoint-s3?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank">ansible</a>&nbsp;<a href="https://github.com/prometheus-community/ansible" title="Ansible Collection for Prometheus" target="_blank"><img src="https://img.shields.io/github/stars/prometheus-community/ansible?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/96bb95e892ecf0ce5282991136e0cebaf666a657" title="2023-05-26T18:57:02.000+02:00" target="_blank">96bb95e8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[update] Welcome Grafana 9.5.2</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/015afe2f81630c2a3e87ee438bdd93bee9a8db20" title="2023-06-05T15:03:53.000+02:00" target="_blank">015afe2f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
+          <pre>[dummy] some dummy tasks</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/c6be22fb8562e52c797a9297865cde2f546af71a" title="2023-05-26T18:25:03.000+02:00" target="_blank">c6be22fb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[fix] Alertmanager URL</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/536ca3c3dcf56963be2cd5ea0e8fd2aaf8a83474" title="2023-06-05T15:03:39.000+02:00" target="_blank">536ca3c3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
+          <pre>[feature](WIP] inventories</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/b6b44e4c3cff9cc898ef151f4a5f290bbf388d17" title="2023-05-26T17:47:15.000+02:00" target="_blank">b6b44e4c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[feature] idev-fsd.ml to fsd.team
+          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/3eaf21b433cef884e5ef81dc306230cde8aaa778" title="2023-06-05T15:01:21.000+02:00" target="_blank">3eaf21b4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
+          <pre>[fix] Use specific remote phython
 
-* First steps to change the hostname
-* Rename `dnspostfix` variable in `dns_suffix`
-* Testing is now down on `*.noc-test.fsd.team`</pre>
+Ansible needs python 2.7+ or python 3.5+ but we were running python 
+2.6.6. Following this documentation 
+https://developers.redhat.com/blog/2018/08/13/install-python3-rhel#why_use_red_hat_software_collections 
+we managed to `subscription-manager repos  --enable 
+rhel-6-server-optional-rpms --enable rhel-server-rhscl-6-rpms` and `yum 
+install rh-python36`. `/opt/rh/rh-python3.6/usr/bin/python3` is now used 
+as `ansible_python_interpreter` in the inventory.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/e2f4ff7f684617c0c2c49155126b24273d158134" title="2023-06-05T12:47:27.000+02:00" target="_blank">e2f4ff7f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
+          <pre>[feature] welcome `grantsible`</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -159,16 +168,11 @@ spaces) and remove some dead code.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/6a923b4123160f0a95ebdb4de59e1e508a3d3002" title="2023-05-25T18:43:07.000+02:00" target="_blank">6a923b41</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
           <pre>[fix] namespace</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/1f2e72f2ccf56c947ecab39061ca722a21654361" title="2023-05-25T18:42:54.000+02:00" target="_blank">1f2e72f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
-          <pre>[update] jquery + minify</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 02 Jun 2023 13:45:13 GMT</small>
+<small>⏰ Updated on Mon, 05 Jun 2023 13:45:27 GMT</small>
 </td>
 </tr>
 </tfoot>
