@@ -103,6 +103,38 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/821bd972989ec5d4d7ec14535c0b707e2a292d46" title="2023-06-06T13:16:25.000+02:00" target="_blank">821bd972</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
+          <pre>Merge pull request #1 from epfl-si/upgrade/latest-suitcase-no-ANSIBLE-env-vars
+
+[upgrade] to latest `ansible.suitcase`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/b8167ab124045cb361bd92929225480e8b71955e" title="2023-06-05T17:27:46.000+02:00" target="_blank">b8167ab1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
+          <pre>[feature](WIP) add administrators to the VM</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/a6dc109ac8fe0d7dd71939884b14f41003b2a2ab" title="2023-06-05T17:27:26.000+02:00" target="_blank">a6dc109a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
+          <pre>[feature] git clone / pull the app</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/5dd2525a8dbd373225e15ff8a6b7437a2be8b262" title="2023-06-05T17:26:30.000+02:00" target="_blank">5dd2525a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
+          <pre>[refactor] inventories revamped</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/737f1dd3964a51027df4983a9b592e1ea1c05bbe" title="2023-06-05T17:26:01.000+02:00" target="_blank">737f1dd3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
+          <pre>[feature] tmp VM (RedHat 9)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/53c43c8a4f4ab720acd2d4205971c02c5b55e497" title="2023-06-05T17:25:27.000+02:00" target="_blank">53c43c8a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
+          <pre>[feature] install the `epfl_si.rhel` collection</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/015afe2f81630c2a3e87ee438bdd93bee9a8db20" title="2023-06-05T15:03:53.000+02:00" target="_blank">015afe2f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
           <pre>[dummy] some dummy tasks</pre>
         </td>
@@ -129,50 +161,11 @@ as `ansible_python_interpreter` in the inventory.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/e2f4ff7f684617c0c2c49155126b24273d158134" title="2023-06-05T12:47:27.000+02:00" target="_blank">e2f4ff7f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
           <pre>[feature] welcome `grantsible`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/c815dbda967691f8c5d9341e86532682efdddeff" title="2023-05-26T17:43:00.000+02:00" target="_blank">c815dbda</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
-          <pre>[feature] *.noc.fsd.team</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/37d59abdbef919a1fa4546a07af780c1ec1a47dc" title="2023-05-25T19:27:51.000+02:00" target="_blank">37d59abd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
-          <pre>[doc] revamp</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/2ff8273ddc97a0df4b219cd151d2111cea3bf2f5" title="2023-05-25T19:05:04.000+02:00" target="_blank">2ff8273d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
-          <pre>[chore] s/Code/assets (v0.7)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/009ddae71a55579e0d590f8b598ce01ecd29ad06" title="2023-05-25T19:03:34.000+02:00" target="_blank">009ddae7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
-          <pre>[chore] cleanup old file
-
-They are in git anyway !</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/32a49ae9836a11a5a287141a1b3d5370f28022a7" title="2023-05-25T18:55:33.000+02:00" target="_blank">32a49ae9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
-          <pre>[feature] Trigger sound based on XHR returns (v0.6)
-
-The sounds are now triggered based on the URL used by AJAX to POST 
-content, and the `responseText` is used to play the sound when it's 
-needed.
-
-This commit also beautify some of the code (surch a single quote and 
-spaces) and remove some dead code.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/TamperMonkey_Jaggaer_Kiosk/commits/6a923b4123160f0a95ebdb4de59e1e508a3d3002" title="2023-05-25T18:43:07.000+02:00" target="_blank">6a923b41</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/TamperMonkey_Jaggaer_Kiosk" title="A userscript for Jaggaer Kiosk at EPFL">/TamperMonkey_Jaggaer_Kiosk</a></strong></div>
-          <pre>[fix] namespace</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 05 Jun 2023 13:45:27 GMT</small>
+<small>⏰ Updated on Tue, 06 Jun 2023 13:45:22 GMT</small>
 </td>
 </tr>
 </tfoot>
