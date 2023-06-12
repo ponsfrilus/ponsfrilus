@@ -165,7 +165,7 @@ as `ansible_python_interpreter` in the inventory.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 09 Jun 2023 13:45:38 GMT</small>
+<small>⏰ Updated on Mon, 12 Jun 2023 13:45:29 GMT</small>
 </td>
 </tr>
 </tfoot>
