@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/821bd972989ec5d4d7ec14535c0b707e2a292d46" title="2023-06-06T13:16:25.000+02:00" target="_blank">821bd972</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
+          <pre>Merge pull request #1 from epfl-si/upgrade/latest-suitcase-no-ANSIBLE-env-vars
+
+[upgrade] to latest `ansible.suitcase`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/b8167ab124045cb361bd92929225480e8b71955e" title="2023-06-05T17:27:46.000+02:00" target="_blank">b8167ab1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
           <pre>[feature](WIP) add administrators to the VM</pre>
         </td>
@@ -154,16 +161,11 @@ as `ansible_python_interpreter` in the inventory.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/e2f4ff7f684617c0c2c49155126b24273d158134" title="2023-06-05T12:47:27.000+02:00" target="_blank">e2f4ff7f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
           <pre>[feature] welcome `grantsible`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/c815dbda967691f8c5d9341e86532682efdddeff" title="2023-05-26T17:43:00.000+02:00" target="_blank">c815dbda</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
-          <pre>[feature] *.noc.fsd.team</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 15 Jun 2023 13:45:17 GMT</small>
+<small>⏰ Updated on Fri, 16 Jun 2023 13:45:25 GMT</small>
 </td>
 </tr>
 </tfoot>
