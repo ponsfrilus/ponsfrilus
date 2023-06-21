@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/loft-sh/devpod" title="Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker." target="_blank">devpod</a>&nbsp;<a href="https://github.com/loft-sh/devpod" title="Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker." target="_blank"><img src="https://img.shields.io/github/stars/loft-sh/devpod?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jjcm/nonio" title="null" target="_blank">nonio</a>&nbsp;<a href="https://github.com/jjcm/nonio" title="null" target="_blank"><img src="https://img.shields.io/github/stars/jjcm/nonio?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Me-Theo/regex_tool_tutorial" title="Projet de TPI" target="_blank">regex_tool_tutorial</a>&nbsp;<a href="https://github.com/Me-Theo/regex_tool_tutorial" title="Projet de TPI" target="_blank"><img src="https://img.shields.io/github/stars/Me-Theo/regex_tool_tutorial?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank">chronotrains</a>&nbsp;<a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank"><img src="https://img.shields.io/github/stars/benjamintd/chronotrains?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Samfernande/tpi-application-partage-sons" title="null" target="_blank">tpi-application-partage-sons</a>&nbsp;<a href="https://github.com/Samfernande/tpi-application-partage-sons" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Samfernande/tpi-application-partage-sons?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/angular.starterkit" title="Starter kit with Angular and Meteor" target="_blank">angular.starterkit</a>&nbsp;<a href="https://github.com/epfl-si/angular.starterkit" title="Starter kit with Angular and Meteor" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/angular.starterkit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank">ipu6-drivers</a>&nbsp;<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank"><img src="https://img.shields.io/github/stars/intel/ipu6-drivers?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank">awesome-static-generators</a>&nbsp;<a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank"><img src="https://img.shields.io/github/stars/myles/awesome-static-generators?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank">ansible-pres</a>&nbsp;<a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-pres?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank">pulsar</a>&nbsp;<a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank"><img src="https://img.shields.io/github/stars/pulsar-edit/pulsar?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank">behave-graph</a>&nbsp;<a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank"><img src="https://img.shields.io/github/stars/bhouston/behave-graph?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank">zero123</a>&nbsp;<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank"><img src="https://img.shields.io/github/stars/cvlab-columbia/zero123?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/jjcm/nonio" title="null" target="_blank">nonio</a>&nbsp;<a href="https://github.com/jjcm/nonio" title="null" target="_blank"><img src="https://img.shields.io/github/stars/jjcm/nonio?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Me-Theo/regex_tool_tutorial" title="Projet de TPI" target="_blank">regex_tool_tutorial</a>&nbsp;<a href="https://github.com/Me-Theo/regex_tool_tutorial" title="Projet de TPI" target="_blank"><img src="https://img.shields.io/github/stars/Me-Theo/regex_tool_tutorial?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank">chronotrains</a>&nbsp;<a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank"><img src="https://img.shields.io/github/stars/benjamintd/chronotrains?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Samfernande/tpi-application-partage-sons" title="null" target="_blank">tpi-application-partage-sons</a>&nbsp;<a href="https://github.com/Samfernande/tpi-application-partage-sons" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Samfernande/tpi-application-partage-sons?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/angular.starterkit" title="Starter kit with Angular and Meteor" target="_blank">angular.starterkit</a>&nbsp;<a href="https://github.com/epfl-si/angular.starterkit" title="Starter kit with Angular and Meteor" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/angular.starterkit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank">ipu6-drivers</a>&nbsp;<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank"><img src="https://img.shields.io/github/stars/intel/ipu6-drivers?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank">awesome-static-generators</a>&nbsp;<a href="https://github.com/myles/awesome-static-generators" title="A curated list of static web site generators." target="_blank"><img src="https://img.shields.io/github/stars/myles/awesome-static-generators?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank">ansible-pres</a>&nbsp;<a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-pres?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank">pulsar</a>&nbsp;<a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank"><img src="https://img.shields.io/github/stars/pulsar-edit/pulsar?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/scop/bash-completion" title="Programmable completion functions for bash" target="_blank">bash-completion</a>&nbsp;<a href="https://github.com/scop/bash-completion" title="Programmable completion functions for bash" target="_blank"><img src="https://img.shields.io/github/stars/scop/bash-completion?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -165,7 +165,7 @@ as `ansible_python_interpreter` in the inventory.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 20 Jun 2023 13:45:31 GMT</small>
+<small>⏰ Updated on Wed, 21 Jun 2023 13:45:27 GMT</small>
 </td>
 </tr>
 </tfoot>
