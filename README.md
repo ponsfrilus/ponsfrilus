@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage." target="_blank">rapport-de-stage</a>&nbsp;<a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/rapport-de-stage?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank">behave-graph</a>&nbsp;<a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank"><img src="https://img.shields.io/github/stars/bhouston/behave-graph?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/fishfolk/jumpy" title="Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶" target="_blank">jumpy</a>&nbsp;<a href="https://github.com/fishfolk/jumpy" title="Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶" target="_blank"><img src="https://img.shields.io/github/stars/fishfolk/jumpy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank">community.mysql</a>&nbsp;<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank"><img src="https://img.shields.io/github/stars/ansible-collections/community.mysql?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank">bun</a>&nbsp;<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank"><img src="https://img.shields.io/github/stars/oven-sh/bun?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank">TPI-livraisons-locales</a>&nbsp;<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank"><img src="https://img.shields.io/github/stars/anthohn/TPI-livraisons-locales?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank">AnimatedDrawings</a>&nbsp;<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank"><img src="https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank">Obsidian-Canvas-Presentation</a>&nbsp;<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank"><img src="https://img.shields.io/github/stars/Quorafind/Obsidian-Canvas-Presentation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank">azimutt</a>&nbsp;<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank"><img src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater</a>&nbsp;<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/0x192/universal-android-debloater?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/loft-sh/devpod" title="Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker." target="_blank">devpod</a>&nbsp;<a href="https://github.com/loft-sh/devpod" title="Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker." target="_blank"><img src="https://img.shields.io/github/stars/loft-sh/devpod?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,31 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank">behave-graph</a>&nbsp;<a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank"><img src="https://img.shields.io/github/stars/bhouston/behave-graph?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/fishfolk/jumpy" title="Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶" target="_blank">jumpy</a>&nbsp;<a href="https://github.com/fishfolk/jumpy" title="Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶" target="_blank"><img src="https://img.shields.io/github/stars/fishfolk/jumpy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank">community.mysql</a>&nbsp;<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank"><img src="https://img.shields.io/github/stars/ansible-collections/community.mysql?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank">bun</a>&nbsp;<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank"><img src="https://img.shields.io/github/stars/oven-sh/bun?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank">TPI-livraisons-locales</a>&nbsp;<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank"><img src="https://img.shields.io/github/stars/anthohn/TPI-livraisons-locales?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank">AnimatedDrawings</a>&nbsp;<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank"><img src="https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank">Obsidian-Canvas-Presentation</a>&nbsp;<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank"><img src="https://img.shields.io/github/stars/Quorafind/Obsidian-Canvas-Presentation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank">azimutt</a>&nbsp;<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank"><img src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater</a>&nbsp;<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/0x192/universal-android-debloater?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank">zero123</a>&nbsp;<a href="https://github.com/cvlab-columbia/zero123" title="Zero-1-to-3: Zero-shot One Image to 3D Object: https://zero123.cs.columbia.edu/" target="_blank"><img src="https://img.shields.io/github/stars/cvlab-columbia/zero123?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/0c6c4855808c4c5e333a88248185266da00576e1" title="2023-06-26T13:10:57.000+02:00" target="_blank">0c6c4855</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[refactor] local-restore-from-restic + named container
+
+Is now more generic: it can be run from anywhere and use the `WP_ENV` 
+variables.
+Restic secrets are exported otherwise the restic command is not running 
+unless you already have them in cache (`~/.cache/restic`).</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/0b5512383434d333db0eb8686b496e1990495994" title="2023-06-23T16:33:00.000+02:00" target="_blank">0b551238</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] s/entrepriseName/enterpriseName</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/86e639d72648216c098568926cc13c965c34dc62" title="2023-06-23T16:31:11.000+02:00" target="_blank">86e639d7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] verygood all the way</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/821bd972989ec5d4d7ec14535c0b707e2a292d46" title="2023-06-06T13:16:25.000+02:00" target="_blank">821bd972</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
           <pre>Merge pull request #1 from epfl-si/upgrade/latest-suitcase-no-ANSIBLE-env-vars
@@ -138,34 +158,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/015afe2f81630c2a3e87ee438bdd93bee9a8db20" title="2023-06-05T15:03:53.000+02:00" target="_blank">015afe2f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
           <pre>[dummy] some dummy tasks</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/536ca3c3dcf56963be2cd5ea0e8fd2aaf8a83474" title="2023-06-05T15:03:39.000+02:00" target="_blank">536ca3c3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
-          <pre>[feature](WIP] inventories</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/3eaf21b433cef884e5ef81dc306230cde8aaa778" title="2023-06-05T15:01:21.000+02:00" target="_blank">3eaf21b4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
-          <pre>[fix] Use specific remote phython
-
-Ansible needs python 2.7+ or python 3.5+ but we were running python 
-2.6.6. Following this documentation 
-https://developers.redhat.com/blog/2018/08/13/install-python3-rhel#why_use_red_hat_software_collections 
-we managed to `subscription-manager repos  --enable 
-rhel-6-server-optional-rpms --enable rhel-server-rhscl-6-rpms` and `yum 
-install rh-python36`. `/opt/rh/rh-python3.6/usr/bin/python3` is now used 
-as `ansible_python_interpreter` in the inventory.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/e2f4ff7f684617c0c2c49155126b24273d158134" title="2023-06-05T12:47:27.000+02:00" target="_blank">e2f4ff7f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
-          <pre>[feature] welcome `grantsible`</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 23 Jun 2023 13:45:35 GMT</small>
+<small>⏰ Updated on Mon, 26 Jun 2023 13:45:23 GMT</small>
 </td>
 </tr>
 </tfoot>
