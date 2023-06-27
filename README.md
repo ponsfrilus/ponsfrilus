@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/geerlingguy/ansible-for-devops" title="Ansible for DevOps examples." target="_blank">ansible-for-devops</a>&nbsp;<a href="https://github.com/geerlingguy/ansible-for-devops" title="Ansible for DevOps examples." target="_blank"><img src="https://img.shields.io/github/stars/geerlingguy/ansible-for-devops?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage." target="_blank">rapport-de-stage</a>&nbsp;<a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/rapport-de-stage?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank">azimutt</a>&nbsp;<a href="https://github.com/azimuttapp/azimutt" title="Next-Gen ERD: Design, Explore, Document and Analyze your database" target="_blank"><img src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater</a>&nbsp;<a href="https://github.com/0x192/universal-android-debloater" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/0x192/universal-android-debloater?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/LunarVim/LunarVim" title="🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven." target="_blank">LunarVim</a>&nbsp;<a href="https://github.com/LunarVim/LunarVim" title="🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven." target="_blank"><img src="https://img.shields.io/github/stars/LunarVim/LunarVim?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/loft-sh/devpod" title="Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker." target="_blank">devpod</a>&nbsp;<a href="https://github.com/loft-sh/devpod" title="Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker." target="_blank"><img src="https://img.shields.io/github/stars/loft-sh/devpod?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank">ansible-pres</a>&nbsp;<a href="https://github.com/epfl-si/ansible-pres" title="Présentation Ansible (IAM-MD)" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ansible-pres?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank">pulsar</a>&nbsp;<a href="https://github.com/pulsar-edit/pulsar" title="A Community-led Hyper-Hackable Text Editor" target="_blank"><img src="https://img.shields.io/github/stars/pulsar-edit/pulsar?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -162,7 +162,7 @@ unless you already have them in cache (`~/.cache/restic`).</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 26 Jun 2023 13:45:23 GMT</small>
+<small>⏰ Updated on Tue, 27 Jun 2023 13:45:22 GMT</small>
 </td>
 </tr>
 </tfoot>
