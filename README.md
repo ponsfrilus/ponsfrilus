@@ -69,7 +69,7 @@
 <a href="https://github.com/LunarVim/LunarVim" title="🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven." target="_blank">LunarVim</a>&nbsp;<a href="https://github.com/LunarVim/LunarVim" title="🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven." target="_blank"><img src="https://img.shields.io/github/stars/LunarVim/LunarVim?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/loft-sh/devpod" title="Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker." target="_blank">devpod</a>&nbsp;<a href="https://github.com/loft-sh/devpod" title="Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker." target="_blank"><img src="https://img.shields.io/github/stars/loft-sh/devpod?style=social" alt="GitHub"></a>
+<a href="https://github.com/loft-sh/devpod" title="Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker." target="_blank">devpod</a>&nbsp;<a href="https://github.com/loft-sh/devpod" title="Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker." target="_blank"><img src="https://img.shields.io/github/stars/loft-sh/devpod?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/jjcm/nonio" title="null" target="_blank">nonio</a>&nbsp;<a href="https://github.com/jjcm/nonio" title="null" target="_blank"><img src="https://img.shields.io/github/stars/jjcm/nonio?style=social" alt="GitHub"></a>
@@ -102,6 +102,23 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/2be8965b325ec1cc3fb44d5104127b0353df5f65" title="2023-06-27T19:34:11.000+02:00" target="_blank">2be8965b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[refactor] better `make help`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/197d78e8d3e65891b0e3fff583f46b582c58af67" title="2023-06-27T18:56:29.000+02:00" target="_blank">197d78e8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] `SMTP_SECRET` again
+
+@4100b831ab4b09f4a99943014818bfb3c0eef89a was't comments proof</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/776e7054f588fb3153ff5233f06b9ab83c1fe23a" title="2023-06-27T18:20:31.000+02:00" target="_blank">776e7054</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] resilience against URL's trailing slash</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/0c6c4855808c4c5e333a88248185266da00576e1" title="2023-06-26T13:10:57.000+02:00" target="_blank">0c6c4855</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[refactor] local-restore-from-restic + named container
@@ -143,26 +160,11 @@ unless you already have them in cache (`~/.cache/restic`).</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/5dd2525a8dbd373225e15ff8a6b7437a2be8b262" title="2023-06-05T17:26:30.000+02:00" target="_blank">5dd2525a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
           <pre>[refactor] inventories revamped</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/737f1dd3964a51027df4983a9b592e1ea1c05bbe" title="2023-06-05T17:26:01.000+02:00" target="_blank">737f1dd3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
-          <pre>[feature] tmp VM (RedHat 9)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/53c43c8a4f4ab720acd2d4205971c02c5b55e497" title="2023-06-05T17:25:27.000+02:00" target="_blank">53c43c8a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
-          <pre>[feature] install the `epfl_si.rhel` collection</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/grantsdb.ops/commits/015afe2f81630c2a3e87ee438bdd93bee9a8db20" title="2023-06-05T15:03:53.000+02:00" target="_blank">015afe2f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/grantsdb.ops" title="OPS code for GrantsDB">/grantsdb.ops</a></strong></div>
-          <pre>[dummy] some dummy tasks</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 27 Jun 2023 13:45:22 GMT</small>
+<small>⏰ Updated on Wed, 28 Jun 2023 13:45:14 GMT</small>
 </td>
 </tr>
 </tfoot>
