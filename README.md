@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 13 years and 5 months.
+    <br />Apparently, I'm hanging around on GitHub since 13 years and 6 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -38,7 +38,7 @@
 <a href="https://github.com/LunarVim/LunarVim" title="🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven." target="_blank">LunarVim</a>&nbsp;<a href="https://github.com/LunarVim/LunarVim" title="🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven." target="_blank"><img src="https://img.shields.io/github/stars/LunarVim/LunarVim?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/loft-sh/devpod" title="Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker." target="_blank">devpod</a>&nbsp;<a href="https://github.com/loft-sh/devpod" title="Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker." target="_blank"><img src="https://img.shields.io/github/stars/loft-sh/devpod?style=social" alt="GitHub"></a>
+<a href="https://github.com/loft-sh/devpod" title="Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker." target="_blank">devpod</a>&nbsp;<a href="https://github.com/loft-sh/devpod" title="Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker." target="_blank"><img src="https://img.shields.io/github/stars/loft-sh/devpod?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/jjcm/nonio" title="null" target="_blank">nonio</a>&nbsp;<a href="https://github.com/jjcm/nonio" title="null" target="_blank"><img src="https://img.shields.io/github/stars/jjcm/nonio?style=social" alt="GitHub"></a>
@@ -103,6 +103,41 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/bc85674bd1973e1793f0aa9dd4b2b1217b886c55" title="2023-07-02T12:09:29.000+02:00" target="_blank">bc85674b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] homogenize files name</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/53cb3c9ad9f4fb354620128cfefa0e9405861229" title="2023-07-02T12:09:13.000+02:00" target="_blank">53cb3c9a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] replace spaces by dash in names</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/4c7e507e77ab8bee54fd6eef1161f489ae6f8f62" title="2023-07-02T11:38:57.000+02:00" target="_blank">4c7e507e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[doc] updated</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/21a62de3cd2448a149d4ef6d90d2a160ef3bd7a4" title="2023-07-02T11:38:47.000+02:00" target="_blank">21a62de3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] use a variable for stage texte date</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/4e0103f8b78dd4e3d639acfbe8a770f36a78e2ce" title="2023-07-02T11:28:11.000+02:00" target="_blank">4e0103f8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] `make help`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/ad1deb4b0b7cf864aa472654fd646491c9650358" title="2023-07-02T11:27:56.000+02:00" target="_blank">ad1deb4b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] `thunderbird -compose` attestation mail</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b7443a766f50aedec054dfe58cda02f1fd041c58" title="2023-07-02T11:10:24.000+02:00" target="_blank">b7443a76</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] readibility</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/4aa51e9f1ba69b1717a0cb9b007e0fa667a62cf3" title="2023-06-30T15:23:04.000+02:00" target="_blank">4aa51e9f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[feature] `thunderbird -compose` rocks!</pre>
         </td>
@@ -116,48 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/4f200a4640d9f0cf41ab5bcc78bb27c8c61189e9" title="2023-06-30T14:42:22.000+02:00" target="_blank">4f200a46</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[fix] Too much "activités"</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/7d8deae23590df13bc95deb3199d05521d77d69a" title="2023-06-30T14:31:41.000+02:00" target="_blank">7d8deae2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] No more spaces in filename</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/189f4cdd9df2c6983e1585d03280682f8a24545e" title="2023-06-30T14:31:10.000+02:00" target="_blank">189f4cdd</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] City with spaces were buggy</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/57be7bcee9401bedc8903a393be57f1ef3d08cc4" title="2023-06-30T14:20:40.000+02:00" target="_blank">57be7bce</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[update] July</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/2bad8e6a4c0beb8bdc8030f52aecf7fd35f01159" title="2023-06-30T11:49:06.000+02:00" target="_blank">2bad8e6a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[other] comment to help in case of long email</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/2be8965b325ec1cc3fb44d5104127b0353df5f65" title="2023-06-27T19:34:11.000+02:00" target="_blank">2be8965b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[refactor] better `make help`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/197d78e8d3e65891b0e3fff583f46b582c58af67" title="2023-06-27T18:56:29.000+02:00" target="_blank">197d78e8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] `SMTP_SECRET` again
-
-@4100b831ab4b09f4a99943014818bfb3c0eef89a was't comments proof</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/776e7054f588fb3153ff5233f06b9ab83c1fe23a" title="2023-06-27T18:20:31.000+02:00" target="_blank">776e7054</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] resilience against URL's trailing slash</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 30 Jun 2023 13:45:13 GMT</small>
+<small>⏰ Updated on Mon, 03 Jul 2023 13:45:21 GMT</small>
 </td>
 </tr>
 </tfoot>
