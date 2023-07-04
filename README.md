@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/efb1cce273ff72bf72fb3e4ed2994e50a05d5817" title="2023-07-04T09:14:56.000+02:00" target="_blank">efb1cce2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>Merge pull request #81 from epfl-si/doc/reformulated-readme
+
+[doc] README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/bc85674bd1973e1793f0aa9dd4b2b1217b886c55" title="2023-07-02T12:09:29.000+02:00" target="_blank">bc85674b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[fix] homogenize files name</pre>
         </td>
@@ -146,16 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b1461bd0854c8b822d72e0e44c8c07235ec041d9" title="2023-06-30T14:42:54.000+02:00" target="_blank">b1461bd0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[fix] Date generation</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/4f200a4640d9f0cf41ab5bcc78bb27c8c61189e9" title="2023-06-30T14:42:22.000+02:00" target="_blank">4f200a46</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] Too much "activités"</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 03 Jul 2023 13:45:21 GMT</small>
+<small>⏰ Updated on Tue, 04 Jul 2023 13:45:18 GMT</small>
 </td>
 </tr>
 </tfoot>
