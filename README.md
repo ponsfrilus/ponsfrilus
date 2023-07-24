@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/osintambition/Social-Media-OSINT-Tools-Collection" title="A collection of most useful osint tools for SOCINT." target="_blank">Social-Media-OSINT-Tools-Collection</a>&nbsp;<a href="https://github.com/osintambition/Social-Media-OSINT-Tools-Collection" title="A collection of most useful osint tools for SOCINT." target="_blank"><img src="https://img.shields.io/github/stars/osintambition/Social-Media-OSINT-Tools-Collection?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/Lxtharia/minegrub-theme" title="A Grub Theme in the style of Minecraft!" target="_blank">minegrub-theme</a>&nbsp;<a href="https://github.com/Lxtharia/minegrub-theme" title="A Grub Theme in the style of Minecraft!" target="_blank"><img src="https://img.shields.io/github/stars/Lxtharia/minegrub-theme?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/epfl-si/angular.starterkit" title="Starter kit with Angular and Meteor" target="_blank">angular.starterkit</a>&nbsp;<a href="https://github.com/epfl-si/angular.starterkit" title="Starter kit with Angular and Meteor" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/angular.starterkit?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank">ipu6-drivers</a>&nbsp;<a href="https://github.com/intel/ipu6-drivers" title="null" target="_blank"><img src="https://img.shields.io/github/stars/intel/ipu6-drivers?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank">plane</a>&nbsp;<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank"><img src="https://img.shields.io/github/stars/makeplane/plane?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank">pines</a>&nbsp;<a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank"><img src="https://img.shields.io/github/stars/thedevdojo/pines?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank">AnimatedDrawings</a>&nbsp;<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank"><img src="https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank">Obsidian-Canvas-Presentation</a>&nbsp;<a href="https://github.com/Quorafind/Obsidian-Canvas-Presentation" title="A plugin to help you display cards based on sequence. " target="_blank"><img src="https://img.shields.io/github/stars/Quorafind/Obsidian-Canvas-Presentation?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 21 Jul 2023 13:45:15 GMT</small>
+<small>⏰ Updated on Mon, 24 Jul 2023 13:45:18 GMT</small>
 </td>
 </tr>
 </tfoot>
