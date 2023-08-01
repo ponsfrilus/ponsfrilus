@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 13 years and 6 months.
+    <br />Apparently, I'm hanging around on GitHub since 13 years and 7 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -90,7 +90,7 @@
 <a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank">bun</a>&nbsp;<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank"><img src="https://img.shields.io/github/stars/oven-sh/bun?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank">TPI-livraisons-locales</a>&nbsp;<a href="https://github.com/anthohn/TPI-livraisons-locales" title="null" target="_blank"><img src="https://img.shields.io/github/stars/anthohn/TPI-livraisons-locales?style=social" alt="GitHub"></a>
+<a href="https://github.com/anthohn/tpi-livraisons-locales" title="Web application that allow to order farmers' products with a complete delivery system." target="_blank">tpi-livraisons-locales</a>&nbsp;<a href="https://github.com/anthohn/tpi-livraisons-locales" title="Web application that allow to order farmers' products with a complete delivery system." target="_blank"><img src="https://img.shields.io/github/stars/anthohn/tpi-livraisons-locales?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank">AnimatedDrawings</a>&nbsp;<a href="https://github.com/facebookresearch/AnimatedDrawings" title="Code to accompany "A Method for Animating Children's Drawings of the Human Figure"" target="_blank"><img src="https://img.shields.io/github/stars/facebookresearch/AnimatedDrawings?style=social" alt="GitHub"></a>
@@ -157,7 +157,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 31 Jul 2023 13:45:15 GMT</small>
+<small>⏰ Updated on Tue, 01 Aug 2023 13:45:33 GMT</small>
 </td>
 </tr>
 </tfoot>
