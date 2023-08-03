@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/5670b39756e1111abfd07ecd5d48e99ab2da69b6" title="2023-08-03T13:09:32.000+02:00" target="_blank">5670b397</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <pre>[fix] sub-addressing (+) not working with sender</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/efe2058e3a038f457b8bd82069d5aa065474c33b" title="2023-08-03T13:09:10.000+02:00" target="_blank">efe2058e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <pre>[fix] SMTP 465 → 587</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/efb1cce273ff72bf72fb3e4ed2994e50a05d5817" title="2023-07-04T09:14:56.000+02:00" target="_blank">efb1cce2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>Merge pull request #81 from epfl-si/doc/reformulated-readme
 
@@ -143,21 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b7443a766f50aedec054dfe58cda02f1fd041c58" title="2023-07-02T11:10:24.000+02:00" target="_blank">b7443a76</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[fix] readibility</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/4aa51e9f1ba69b1717a0cb9b007e0fa667a62cf3" title="2023-06-30T15:23:04.000+02:00" target="_blank">4aa51e9f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature] `thunderbird -compose` rocks!</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b1461bd0854c8b822d72e0e44c8c07235ec041d9" title="2023-06-30T14:42:54.000+02:00" target="_blank">b1461bd0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] Date generation</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 02 Aug 2023 13:45:19 GMT</small>
+<small>⏰ Updated on Thu, 03 Aug 2023 13:45:23 GMT</small>
 </td>
 </tr>
 </tfoot>
