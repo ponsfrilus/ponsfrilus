@@ -103,12 +103,22 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/5670b39756e1111abfd07ecd5d48e99ab2da69b6" title="2023-08-03T13:09:32.000+02:00" target="_blank">5670b397</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/5d9b670329f1f609f4bef0d0d221ff3c786935c0" title="2023-08-03T18:07:17.000+02:00" target="_blank">5d9b6703</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <pre>[fix] s/docker-compose/docker compose/</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/5a4fa2a880b08f74fd0a4022cd66b940c0f3726f" title="2023-08-03T18:05:17.000+02:00" target="_blank">5a4fa2a8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
+          <pre>[feat] add a test job (`-t testjob`)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/be62ed1a58fb1f6bd155200847346c5be24549c2" title="2023-08-03T13:09:32.000+02:00" target="_blank">be62ed1a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
           <pre>[fix] sub-addressing (+) not working with sender</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/efe2058e3a038f457b8bd82069d5aa065474c33b" title="2023-08-03T13:09:10.000+02:00" target="_blank">efe2058e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/64689f5ccd27be0182a5310d34256176a77c5d72" title="2023-08-03T13:09:10.000+02:00" target="_blank">64689f5c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
           <pre>[fix] SMTP 465 → 587</pre>
         </td>
         </tr><tr>
@@ -143,21 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/4e0103f8b78dd4e3d639acfbe8a770f36a78e2ce" title="2023-07-02T11:28:11.000+02:00" target="_blank">4e0103f8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[fix] `make help`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/ad1deb4b0b7cf864aa472654fd646491c9650358" title="2023-07-02T11:27:56.000+02:00" target="_blank">ad1deb4b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature] `thunderbird -compose` attestation mail</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b7443a766f50aedec054dfe58cda02f1fd041c58" title="2023-07-02T11:10:24.000+02:00" target="_blank">b7443a76</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] readibility</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 03 Aug 2023 13:45:23 GMT</small>
+<small>⏰ Updated on Fri, 04 Aug 2023 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
