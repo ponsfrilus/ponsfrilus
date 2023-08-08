@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/chebykinn/sedmario" title="NES Super Mario Bros level 1 written in pure sed!" target="_blank">sedmario</a>&nbsp;<a href="https://github.com/chebykinn/sedmario" title="NES Super Mario Bros level 1 written in pure sed!" target="_blank"><img src="https://img.shields.io/github/stars/chebykinn/sedmario?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/osintambition/Social-Media-OSINT-Tools-Collection" title="A collection of most useful osint tools for SOCINT." target="_blank">Social-Media-OSINT-Tools-Collection</a>&nbsp;<a href="https://github.com/osintambition/Social-Media-OSINT-Tools-Collection" title="A collection of most useful osint tools for SOCINT." target="_blank"><img src="https://img.shields.io/github/stars/osintambition/Social-Media-OSINT-Tools-Collection?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Lxtharia/minegrub-theme" title="A Grub Theme in the style of Minecraft!" target="_blank">minegrub-theme</a>&nbsp;<a href="https://github.com/Lxtharia/minegrub-theme" title="A Grub Theme in the style of Minecraft!" target="_blank"><img src="https://img.shields.io/github/stars/Lxtharia/minegrub-theme?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/torakiki/pdfsam" title="PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages" target="_blank">pdfsam</a>&nbsp;<a href="https://github.com/torakiki/pdfsam" title="PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages" target="_blank"><img src="https://img.shields.io/github/stars/torakiki/pdfsam?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/LunarVim/LunarVim" title="🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven." target="_blank">LunarVim</a>&nbsp;<a href="https://github.com/LunarVim/LunarVim" title="🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven." target="_blank"><img src="https://img.shields.io/github/stars/LunarVim/LunarVim?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/loft-sh/devpod" title="Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker." target="_blank">devpod</a>&nbsp;<a href="https://github.com/loft-sh/devpod" title="Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker." target="_blank"><img src="https://img.shields.io/github/stars/loft-sh/devpod?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jjcm/nonio" title="null" target="_blank">nonio</a>&nbsp;<a href="https://github.com/jjcm/nonio" title="null" target="_blank"><img src="https://img.shields.io/github/stars/jjcm/nonio?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Me-Theo/regex_tool_tutorial" title="Projet de TPI" target="_blank">regex_tool_tutorial</a>&nbsp;<a href="https://github.com/Me-Theo/regex_tool_tutorial" title="Projet de TPI" target="_blank"><img src="https://img.shields.io/github/stars/Me-Theo/regex_tool_tutorial?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank">chronotrains</a>&nbsp;<a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank"><img src="https://img.shields.io/github/stars/benjamintd/chronotrains?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Samfernande/tpi-application-partage-sons" title="null" target="_blank">tpi-application-partage-sons</a>&nbsp;<a href="https://github.com/Samfernande/tpi-application-partage-sons" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Samfernande/tpi-application-partage-sons?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank">clmystery</a>&nbsp;<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank"><img src="https://img.shields.io/github/stars/veltman/clmystery?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/anthohn/tpi-livraisons-locales" title="Web application that allow to order farmers' products with a complete delivery system." target="_blank">tpi-livraisons-locales</a>&nbsp;<a href="https://github.com/anthohn/tpi-livraisons-locales" title="Web application that allow to order farmers' products with a complete delivery system." target="_blank"><img src="https://img.shields.io/github/stars/anthohn/tpi-livraisons-locales?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/osintambition/Social-Media-OSINT-Tools-Collection" title="A collection of most useful osint tools for SOCINT." target="_blank">Social-Media-OSINT-Tools-Collection</a>&nbsp;<a href="https://github.com/osintambition/Social-Media-OSINT-Tools-Collection" title="A collection of most useful osint tools for SOCINT." target="_blank"><img src="https://img.shields.io/github/stars/osintambition/Social-Media-OSINT-Tools-Collection?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Lxtharia/minegrub-theme" title="A Grub Theme in the style of Minecraft!" target="_blank">minegrub-theme</a>&nbsp;<a href="https://github.com/Lxtharia/minegrub-theme" title="A Grub Theme in the style of Minecraft!" target="_blank"><img src="https://img.shields.io/github/stars/Lxtharia/minegrub-theme?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/torakiki/pdfsam" title="PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages" target="_blank">pdfsam</a>&nbsp;<a href="https://github.com/torakiki/pdfsam" title="PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages" target="_blank"><img src="https://img.shields.io/github/stars/torakiki/pdfsam?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/LunarVim/LunarVim" title="🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven." target="_blank">LunarVim</a>&nbsp;<a href="https://github.com/LunarVim/LunarVim" title="🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven." target="_blank"><img src="https://img.shields.io/github/stars/LunarVim/LunarVim?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/loft-sh/devpod" title="Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker." target="_blank">devpod</a>&nbsp;<a href="https://github.com/loft-sh/devpod" title="Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker." target="_blank"><img src="https://img.shields.io/github/stars/loft-sh/devpod?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jjcm/nonio" title="null" target="_blank">nonio</a>&nbsp;<a href="https://github.com/jjcm/nonio" title="null" target="_blank"><img src="https://img.shields.io/github/stars/jjcm/nonio?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Me-Theo/regex_tool_tutorial" title="Projet de TPI" target="_blank">regex_tool_tutorial</a>&nbsp;<a href="https://github.com/Me-Theo/regex_tool_tutorial" title="Projet de TPI" target="_blank"><img src="https://img.shields.io/github/stars/Me-Theo/regex_tool_tutorial?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank">chronotrains</a>&nbsp;<a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank"><img src="https://img.shields.io/github/stars/benjamintd/chronotrains?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Samfernande/tpi-application-partage-sons" title="null" target="_blank">tpi-application-partage-sons</a>&nbsp;<a href="https://github.com/Samfernande/tpi-application-partage-sons" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Samfernande/tpi-application-partage-sons?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/angular.starterkit" title="Starter kit with Angular and Meteor" target="_blank">angular.starterkit</a>&nbsp;<a href="https://github.com/epfl-si/angular.starterkit" title="Starter kit with Angular and Meteor" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/angular.starterkit?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 07 Aug 2023 13:45:18 GMT</small>
+<small>⏰ Updated on Tue, 08 Aug 2023 13:45:24 GMT</small>
 </td>
 </tr>
 </tfoot>
