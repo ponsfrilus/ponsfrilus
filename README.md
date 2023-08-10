@@ -103,13 +103,17 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/5d9b670329f1f609f4bef0d0d221ff3c786935c0" title="2023-08-03T18:07:17.000+02:00" target="_blank">5d9b6703</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
-          <pre>[fix] s/docker-compose/docker compose/</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/4eed980304ca502cb629ff3d7a535e89a2bf5f31" title="2023-08-10T15:43:04.000+02:00" target="_blank">4eed9803</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
+          <pre>[fix] SQL
+
+* Use more current collation / charset
+* Remove trap in countries_people.sql
+* Rename countries_people.sql to z_countries.people.sql</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/5a4fa2a880b08f74fd0a4022cd66b940c0f3726f" title="2023-08-03T18:05:17.000+02:00" target="_blank">5a4fa2a8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
-          <pre>[feat] add a test job (`-t testjob`)</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/5d9b670329f1f609f4bef0d0d221ff3c786935c0" title="2023-08-03T18:07:17.000+02:00" target="_blank">5d9b6703</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <pre>[fix] s/docker-compose/docker compose/</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -157,7 +161,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 09 Aug 2023 13:45:21 GMT</small>
+<small>⏰ Updated on Thu, 10 Aug 2023 13:45:39 GMT</small>
 </td>
 </tr>
 </tfoot>
