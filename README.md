@@ -103,65 +103,61 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/4eed980304ca502cb629ff3d7a535e89a2bf5f31" title="2023-08-10T15:43:04.000+02:00" target="_blank">4eed9803</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[fix] SQL
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/9e4c7712424d27934b72defff0b28de0305eef97" title="2023-08-11T15:22:59.000+02:00" target="_blank">9e4c7712</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] typo</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/60a0f336ae48fc1b86591fa7d987f86b13d50df8" title="2023-08-11T14:49:14.000+02:00" target="_blank">60a0f336</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <pre>[feature] dev mails + BCC</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/3e9e93648048ba3d8c5697aed27628c921f7afa2" title="2023-08-11T14:43:05.000+02:00" target="_blank">3e9e9364</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <pre>[update] common-web Docker image</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/b22ddc5f960b9a95a1e99bf1bb391c57667dab48" title="2023-08-11T14:27:10.000+02:00" target="_blank">b22ddc5f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[feature] conversion</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/82f403f05bb16246a21df3e231af8cfed0895350" title="2023-08-11T14:26:57.000+02:00" target="_blank">82f403f0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] ortho</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/974739b8bb4a16dd4451019ac3430633a3cce661" title="2023-08-11T10:42:32.000+02:00" target="_blank">974739b8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>Revert "[fix] $ sign"
 
-* Use more current collation / charset
-* Remove trap in countries_people.sql
-* Rename countries_people.sql to z_countries.people.sql</pre>
+This reverts commit 23a63eb15ff5bc9fa5b8d1ca3b2098e83d48a6e9.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/5d9b670329f1f609f4bef0d0d221ff3c786935c0" title="2023-08-03T18:07:17.000+02:00" target="_blank">5d9b6703</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
-          <pre>[fix] s/docker-compose/docker compose/</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/749cfe70c50635d8a964adc6a363ff13f9e6bb26" title="2023-08-11T10:38:42.000+02:00" target="_blank">749cfe70</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[doc] Connaissances générales</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/be62ed1a58fb1f6bd155200847346c5be24549c2" title="2023-08-03T13:09:32.000+02:00" target="_blank">be62ed1a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
-          <pre>[fix] sub-addressing (+) not working with sender</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/11bdd9ef525c73d3011dbf25c3d7ae1096a1bd7e" title="2023-08-11T10:29:18.000+02:00" target="_blank">11bdd9ef</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[update] 2022 → 2023</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/64689f5ccd27be0182a5310d34256176a77c5d72" title="2023-08-03T13:09:10.000+02:00" target="_blank">64689f5c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
-          <pre>[fix] SMTP 465 → 587</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/fdebb98469b900198b0399df8947ddbac4e4955d" title="2023-08-11T10:28:51.000+02:00" target="_blank">fdebb984</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] id</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/efb1cce273ff72bf72fb3e4ed2994e50a05d5817" title="2023-07-04T09:14:56.000+02:00" target="_blank">efb1cce2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>Merge pull request #81 from epfl-si/doc/reformulated-readme
-
-[doc] README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/bc85674bd1973e1793f0aa9dd4b2b1217b886c55" title="2023-07-02T12:09:29.000+02:00" target="_blank">bc85674b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] homogenize files name</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/53cb3c9ad9f4fb354620128cfefa0e9405861229" title="2023-07-02T12:09:13.000+02:00" target="_blank">53cb3c9a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] replace spaces by dash in names</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/4c7e507e77ab8bee54fd6eef1161f489ae6f8f62" title="2023-07-02T11:38:57.000+02:00" target="_blank">4c7e507e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[doc] updated</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/21a62de3cd2448a149d4ef6d90d2a160ef3bd7a4" title="2023-07-02T11:38:47.000+02:00" target="_blank">21a62de3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature] use a variable for stage texte date</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/4e0103f8b78dd4e3d639acfbe8a770f36a78e2ce" title="2023-07-02T11:28:11.000+02:00" target="_blank">4e0103f8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] `make help`</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/02e6b2cd987abd09f60f812f57d80b025ddcf5c5" title="2023-08-11T10:28:40.000+02:00" target="_blank">02e6b2cd</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] docker compose</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 10 Aug 2023 13:45:39 GMT</small>
+<small>⏰ Updated on Fri, 11 Aug 2023 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
