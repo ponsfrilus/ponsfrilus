@@ -103,6 +103,37 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/3a920873e72c86667108615d5ad647537f05f8c8" title="2023-08-13T11:25:25.000+02:00" target="_blank">3a920873</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
+          <pre>[doc] update questions</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/64dc028d9824f271c6aab8bb82b978edeefc73e5" title="2023-08-13T11:11:02.000+02:00" target="_blank">64dc028d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
+          <pre>[doc] updated</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/52e54ae77d788c9713e63a289cf27a434f5857b5" title="2023-08-13T10:51:13.000+02:00" target="_blank">52e54ae7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
+          <pre>[fix] SQL
+
+* Use more current collation / charset
+* Remove trap in countries_people.sql
+* Rename countries_people.sql to z_countries.people.sql</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/5e07bdced63b8912ee4cc67586467244464e2298" title="2023-08-11T18:24:19.000+02:00" target="_blank">5e07bdce</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <pre>Revert "[update] common-web Docker image"
+
+This reverts commit 3e9e93648048ba3d8c5697aed27628c921f7afa2.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/dff4d62b630d523637c2217c0d271085e9a65d64" title="2023-08-11T18:20:33.000+02:00" target="_blank">dff4d62b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
+          <pre>[fix] MAIL_SF recipents</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/9e4c7712424d27934b72defff0b28de0305eef97" title="2023-08-11T15:22:59.000+02:00" target="_blank">9e4c7712</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[fix] typo</pre>
         </td>
@@ -126,38 +157,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/82f403f05bb16246a21df3e231af8cfed0895350" title="2023-08-11T14:26:57.000+02:00" target="_blank">82f403f0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[fix] ortho</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/974739b8bb4a16dd4451019ac3430633a3cce661" title="2023-08-11T10:42:32.000+02:00" target="_blank">974739b8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>Revert "[fix] $ sign"
-
-This reverts commit 23a63eb15ff5bc9fa5b8d1ca3b2098e83d48a6e9.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/749cfe70c50635d8a964adc6a363ff13f9e6bb26" title="2023-08-11T10:38:42.000+02:00" target="_blank">749cfe70</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[doc] Connaissances générales</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/11bdd9ef525c73d3011dbf25c3d7ae1096a1bd7e" title="2023-08-11T10:29:18.000+02:00" target="_blank">11bdd9ef</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[update] 2022 → 2023</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/fdebb98469b900198b0399df8947ddbac4e4955d" title="2023-08-11T10:28:51.000+02:00" target="_blank">fdebb984</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] id</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/02e6b2cd987abd09f60f812f57d80b025ddcf5c5" title="2023-08-11T10:28:40.000+02:00" target="_blank">02e6b2cd</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] docker compose</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 11 Aug 2023 13:45:10 GMT</small>
+<small>⏰ Updated on Mon, 14 Aug 2023 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
