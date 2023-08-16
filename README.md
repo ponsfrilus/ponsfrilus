@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank">42-holygraph</a>&nbsp;<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank"><img src="https://img.shields.io/github/stars/akaylee/42-holygraph?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank">clmystery</a>&nbsp;<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank"><img src="https://img.shields.io/github/stars/veltman/clmystery?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank">plane</a>&nbsp;<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank"><img src="https://img.shields.io/github/stars/makeplane/plane?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank">pines</a>&nbsp;<a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank"><img src="https://img.shields.io/github/stars/thedevdojo/pines?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/geerlingguy/ansible-for-devops" title="Ansible for DevOps examples." target="_blank">ansible-for-devops</a>&nbsp;<a href="https://github.com/geerlingguy/ansible-for-devops" title="Ansible for DevOps examples." target="_blank"><img src="https://img.shields.io/github/stars/geerlingguy/ansible-for-devops?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage." target="_blank">rapport-de-stage</a>&nbsp;<a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/rapport-de-stage?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank">behave-graph</a>&nbsp;<a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank"><img src="https://img.shields.io/github/stars/bhouston/behave-graph?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/fishfolk/jumpy" title="Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶" target="_blank">jumpy</a>&nbsp;<a href="https://github.com/fishfolk/jumpy" title="Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶" target="_blank"><img src="https://img.shields.io/github/stars/fishfolk/jumpy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank">community.mysql</a>&nbsp;<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank"><img src="https://img.shields.io/github/stars/ansible-collections/community.mysql?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank">bun</a>&nbsp;<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank"><img src="https://img.shields.io/github/stars/oven-sh/bun?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/chebykinn/sedmario" title="NES Super Mario Bros level 1 written in pure sed!" target="_blank">sedmario</a>&nbsp;<a href="https://github.com/chebykinn/sedmario" title="NES Super Mario Bros level 1 written in pure sed!" target="_blank"><img src="https://img.shields.io/github/stars/chebykinn/sedmario?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Samfernande/tpi-application-partage-sons" title="null" target="_blank">tpi-application-partage-sons</a>&nbsp;<a href="https://github.com/Samfernande/tpi-application-partage-sons" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Samfernande/tpi-application-partage-sons?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank">clmystery</a>&nbsp;<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank"><img src="https://img.shields.io/github/stars/veltman/clmystery?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank">plane</a>&nbsp;<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank"><img src="https://img.shields.io/github/stars/makeplane/plane?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank">pines</a>&nbsp;<a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank"><img src="https://img.shields.io/github/stars/thedevdojo/pines?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/geerlingguy/ansible-for-devops" title="Ansible for DevOps examples." target="_blank">ansible-for-devops</a>&nbsp;<a href="https://github.com/geerlingguy/ansible-for-devops" title="Ansible for DevOps examples." target="_blank"><img src="https://img.shields.io/github/stars/geerlingguy/ansible-for-devops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage." target="_blank">rapport-de-stage</a>&nbsp;<a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/rapport-de-stage?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank">behave-graph</a>&nbsp;<a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank"><img src="https://img.shields.io/github/stars/bhouston/behave-graph?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/fishfolk/jumpy" title="Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶" target="_blank">jumpy</a>&nbsp;<a href="https://github.com/fishfolk/jumpy" title="Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶" target="_blank"><img src="https://img.shields.io/github/stars/fishfolk/jumpy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank">community.mysql</a>&nbsp;<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank"><img src="https://img.shields.io/github/stars/ansible-collections/community.mysql?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank">bun</a>&nbsp;<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank"><img src="https://img.shields.io/github/stars/oven-sh/bun?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/anthohn/tpi-livraisons-locales" title="Web application that allow to order farmers' products with a complete delivery system." target="_blank">tpi-livraisons-locales</a>&nbsp;<a href="https://github.com/anthohn/tpi-livraisons-locales" title="Web application that allow to order farmers' products with a complete delivery system." target="_blank"><img src="https://img.shields.io/github/stars/anthohn/tpi-livraisons-locales?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -161,7 +161,7 @@ This reverts commit 3e9e93648048ba3d8c5697aed27628c921f7afa2.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 15 Aug 2023 13:45:14 GMT</small>
+<small>⏰ Updated on Wed, 16 Aug 2023 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
