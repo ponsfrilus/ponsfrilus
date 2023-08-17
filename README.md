@@ -129,11 +129,6 @@ This reverts commit 3e9e93648048ba3d8c5697aed27628c921f7afa2.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/dff4d62b630d523637c2217c0d271085e9a65d64" title="2023-08-11T18:20:33.000+02:00" target="_blank">dff4d62b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
-          <pre>[fix] MAIL_SF recipents</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/9e4c7712424d27934b72defff0b28de0305eef97" title="2023-08-11T15:22:59.000+02:00" target="_blank">9e4c7712</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[fix] typo</pre>
         </td>
@@ -157,11 +152,18 @@ This reverts commit 3e9e93648048ba3d8c5697aed27628c921f7afa2.</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/82f403f05bb16246a21df3e231af8cfed0895350" title="2023-08-11T14:26:57.000+02:00" target="_blank">82f403f0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
           <pre>[fix] ortho</pre>
         </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/974739b8bb4a16dd4451019ac3430633a3cce661" title="2023-08-11T10:42:32.000+02:00" target="_blank">974739b8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>Revert "[fix] $ sign"
+
+This reverts commit 23a63eb15ff5bc9fa5b8d1ca3b2098e83d48a6e9.</pre>
+        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 16 Aug 2023 13:45:13 GMT</small>
+<small>⏰ Updated on Thu, 17 Aug 2023 13:45:20 GMT</small>
 </td>
 </tr>
 </tfoot>
