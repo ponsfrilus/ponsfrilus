@@ -108,6 +108,11 @@
         </td>
         </tr><tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/5ea97bbf1d6d1822b9c31e8ed2593ee8c6fbd4ec" title="2023-08-16T18:56:27.000+02:00" target="_blank">5ea97bbf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] ensure npm@6.14.18</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/3a920873e72c86667108615d5ad647537f05f8c8" title="2023-08-13T11:25:25.000+02:00" target="_blank">3a920873</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
           <pre>[doc] update questions</pre>
         </td>
@@ -152,16 +157,11 @@ This reverts commit 3e9e93648048ba3d8c5697aed27628c921f7afa2.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/3e9e93648048ba3d8c5697aed27628c921f7afa2" title="2023-08-11T14:43:05.000+02:00" target="_blank">3e9e9364</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
           <pre>[update] common-web Docker image</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/b22ddc5f960b9a95a1e99bf1bb391c57667dab48" title="2023-08-11T14:27:10.000+02:00" target="_blank">b22ddc5f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] conversion</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 18 Aug 2023 13:45:11 GMT</small>
+<small>⏰ Updated on Mon, 21 Aug 2023 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
