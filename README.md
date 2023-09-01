@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 13 years and 7 months.
+    <br />Apparently, I'm hanging around on GitHub since 13 years and 8 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -118,21 +118,6 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/2776c3681ef59cb27681124e4f2ca0be3c0ad3bd" title="2023-08-25T19:05:21.000+02:00" target="_blank">2776c368</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
-          <pre>Merge pull request #306 from epfl-si/feature/menu-api
-
-feat(menu): use the menu-api</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/d45a19586f7ef70d31c6c4bc6e642f00edd05553" title="2023-08-25T18:59:19.000+02:00" target="_blank">d45a1958</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
-          <pre>feat(menu): use the menu-api
-
-This combine the old way and the new "menu-api" way to construct the 
-breadcumb.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/albanm/node-libxslt/commits/d84fa658e95e52b5b948f33c7f6d6648ba15509f" title="2023-08-18T05:57:57.000+02:00" target="_blank">d84fa658</a><a href="https://github.com/albanm">@albanm</a><a href="https://github.com/albanm/node-libxslt" title="Node.js bindings for libxslt compatible with libxmljs">/node-libxslt</a></strong></div>
           <pre>Typo fixed (#92)</pre>
         </td>
@@ -160,11 +145,23 @@ breadcumb.</pre>
 * Remove trap in countries_people.sql
 * Rename countries_people.sql to z_countries.people.sql</pre>
         </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard/commits/5e07bdced63b8912ee4cc67586467244464e2298" title="2023-08-11T18:24:19.000+02:00" target="_blank">5e07bdce</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard" title="Source code of businesscard.epfl.ch, which is deployed with businesscard.ops.">/businesscard</a></strong></div>
+          <pre>Revert "[update] common-web Docker image"
+
+This reverts commit 3e9e93648048ba3d8c5697aed27628c921f7afa2.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/9e4c7712424d27934b72defff0b28de0305eef97" title="2023-08-11T15:22:59.000+02:00" target="_blank">9e4c7712</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
+          <pre>[fix] typo</pre>
+        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 31 Aug 2023 13:45:12 GMT</small>
+<small>⏰ Updated on Fri, 01 Sep 2023 13:45:14 GMT</small>
 </td>
 </tr>
 </tfoot>
