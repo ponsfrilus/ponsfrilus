@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL" target="_blank">fiche-de-stage-WordPress</a>&nbsp;<a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/fiche-de-stage-WordPress?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/opentffoundation/manifesto" title="The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license." target="_blank">manifesto</a>&nbsp;<a href="https://github.com/opentffoundation/manifesto" title="The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license." target="_blank"><img src="https://img.shields.io/github/stars/opentffoundation/manifesto?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/Me-Theo/regex_tool_tutorial" title="Projet de TPI" target="_blank">regex_tool_tutorial</a>&nbsp;<a href="https://github.com/Me-Theo/regex_tool_tutorial" title="Projet de TPI" target="_blank"><img src="https://img.shields.io/github/stars/Me-Theo/regex_tool_tutorial?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank">chronotrains</a>&nbsp;<a href="https://github.com/benjamintd/chronotrains" title="Shortest times between train stations in Europe" target="_blank"><img src="https://img.shields.io/github/stars/benjamintd/chronotrains?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank">telegram</a>&nbsp;<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank"><img src="https://img.shields.io/github/stars/mautrix/telegram?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank">42-holygraph</a>&nbsp;<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank"><img src="https://img.shields.io/github/stars/akaylee/42-holygraph?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank">community.mysql</a>&nbsp;<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank"><img src="https://img.shields.io/github/stars/ansible-collections/community.mysql?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank">bun</a>&nbsp;<a href="https://github.com/oven-sh/bun" title="Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one" target="_blank"><img src="https://img.shields.io/github/stars/oven-sh/bun?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,16 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/191b9bb8706cf62fb0dd5a4ab6ec17bc21a740ed" title="2023-09-05T12:04:34.000+02:00" target="_blank">191b9bb8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>Update README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/ae12485be16c1c34f288dc0612b6926def897d84" title="2023-09-05T08:07:00.000+02:00" target="_blank">ae12485b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>Add EPFL website screenshots</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/901af67d31e82239a97913b5ac2918b1af76b9c8" title="2023-08-30T11:23:28.000+02:00" target="_blank">901af67d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
           <pre>[test] workflow_dispatch</pre>
@@ -146,25 +156,11 @@ breadcumb.</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/3a920873e72c86667108615d5ad647537f05f8c8" title="2023-08-13T11:25:25.000+02:00" target="_blank">3a920873</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
           <pre>[doc] update questions</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/64dc028d9824f271c6aab8bb82b978edeefc73e5" title="2023-08-13T11:11:02.000+02:00" target="_blank">64dc028d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[doc] updated</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/52e54ae77d788c9713e63a289cf27a434f5857b5" title="2023-08-13T10:51:13.000+02:00" target="_blank">52e54ae7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[fix] SQL
-
-* Use more current collation / charset
-* Remove trap in countries_people.sql
-* Rename countries_people.sql to z_countries.people.sql</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 04 Sep 2023 13:45:12 GMT</small>
+<small>⏰ Updated on Tue, 05 Sep 2023 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
