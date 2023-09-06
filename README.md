@@ -103,12 +103,17 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/191b9bb8706cf62fb0dd5a4ab6ec17bc21a740ed" title="2023-09-05T12:04:34.000+02:00" target="_blank">191b9bb8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/0ee06e86589a19476bccab2d2b21e6eb40a3220a" title="2023-09-05T18:19:51.000+02:00" target="_blank">0ee06e86</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>[feature] Social Preview</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/f9a77c0417b3ec712f1c6c3d863d5887d5dacf05" title="2023-09-05T18:06:09.000+02:00" target="_blank">f9a77c04</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
           <pre>Update README.md</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/ae12485be16c1c34f288dc0612b6926def897d84" title="2023-09-05T08:07:00.000+02:00" target="_blank">ae12485b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/f4ce7e96e58b248a6e5c3a1478bd60071b1ffe4a" title="2023-09-05T08:07:00.000+02:00" target="_blank">f4ce7e96</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
           <pre>Add EPFL website screenshots</pre>
         </td>
         </tr><tr>
@@ -151,16 +156,11 @@ breadcumb.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/5ea97bbf1d6d1822b9c31e8ed2593ee8c6fbd4ec" title="2023-08-16T18:56:27.000+02:00" target="_blank">5ea97bbf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[fix] ensure npm@6.14.18</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/3a920873e72c86667108615d5ad647537f05f8c8" title="2023-08-13T11:25:25.000+02:00" target="_blank">3a920873</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[doc] update questions</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 05 Sep 2023 13:45:12 GMT</small>
+<small>⏰ Updated on Wed, 06 Sep 2023 13:45:17 GMT</small>
 </td>
 </tr>
 </tfoot>
