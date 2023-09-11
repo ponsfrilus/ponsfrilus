@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/karlb/smu" title="Simple MarkUp - markdown/commonmark like syntax" target="_blank">smu</a>&nbsp;<a href="https://github.com/karlb/smu" title="Simple MarkUp - markdown/commonmark like syntax" target="_blank"><img src="https://img.shields.io/github/stars/karlb/smu?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank">telegram</a>&nbsp;<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank"><img src="https://img.shields.io/github/stars/mautrix/telegram?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank">42-holygraph</a>&nbsp;<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank"><img src="https://img.shields.io/github/stars/akaylee/42-holygraph?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank">clmystery</a>&nbsp;<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank"><img src="https://img.shields.io/github/stars/veltman/clmystery?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank">plane</a>&nbsp;<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank"><img src="https://img.shields.io/github/stars/makeplane/plane?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank">pines</a>&nbsp;<a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank"><img src="https://img.shields.io/github/stars/thedevdojo/pines?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/geerlingguy/ansible-for-devops" title="Ansible for DevOps examples." target="_blank">ansible-for-devops</a>&nbsp;<a href="https://github.com/geerlingguy/ansible-for-devops" title="Ansible for DevOps examples." target="_blank"><img src="https://img.shields.io/github/stars/geerlingguy/ansible-for-devops?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage." target="_blank">rapport-de-stage</a>&nbsp;<a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/rapport-de-stage?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank">behave-graph</a>&nbsp;<a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank"><img src="https://img.shields.io/github/stars/bhouston/behave-graph?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/fishfolk/jumpy" title="Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶" target="_blank">jumpy</a>&nbsp;<a href="https://github.com/fishfolk/jumpy" title="Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶" target="_blank"><img src="https://img.shields.io/github/stars/fishfolk/jumpy?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL" target="_blank">fiche-de-stage-WordPress</a>&nbsp;<a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/fiche-de-stage-WordPress?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,40 +97,6 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank">telegram</a>&nbsp;<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank"><img src="https://img.shields.io/github/stars/mautrix/telegram?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank">42-holygraph</a>&nbsp;<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank"><img src="https://img.shields.io/github/stars/akaylee/42-holygraph?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank">clmystery</a>&nbsp;<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank"><img src="https://img.shields.io/github/stars/veltman/clmystery?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank">plane</a>&nbsp;<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank"><img src="https://img.shields.io/github/stars/makeplane/plane?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank">pines</a>&nbsp;<a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank"><img src="https://img.shields.io/github/stars/thedevdojo/pines?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/geerlingguy/ansible-for-devops" title="Ansible for DevOps examples." target="_blank">ansible-for-devops</a>&nbsp;<a href="https://github.com/geerlingguy/ansible-for-devops" title="Ansible for DevOps examples." target="_blank"><img src="https://img.shields.io/github/stars/geerlingguy/ansible-for-devops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage." target="_blank">rapport-de-stage</a>&nbsp;<a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage." target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/rapport-de-stage?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank">behave-graph</a>&nbsp;<a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank"><img src="https://img.shields.io/github/stars/bhouston/behave-graph?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/fishfolk/jumpy" title="Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶" target="_blank">jumpy</a>&nbsp;<a href="https://github.com/fishfolk/jumpy" title="Tactical 2D shooter in fishy pixels style. Made with Rust-lang 🦀 and Bevy 🪶" target="_blank"><img src="https://img.shields.io/github/stars/fishfolk/jumpy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank">community.mysql</a>&nbsp;<a href="https://github.com/ansible-collections/community.mysql" title="MySQL Ansible Collection" target="_blank"><img src="https://img.shields.io/github/stars/ansible-collections/community.mysql?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
@@ -118,6 +118,11 @@
         </td>
         </tr><tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/901af67d31e82239a97913b5ac2918b1af76b9c8" title="2023-08-30T11:23:28.000+02:00" target="_blank">901af67d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
+          <pre>[test] workflow_dispatch</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/a4c95a01a06e4d236525683a631c6dc69554e822" title="2023-08-29T21:45:06.000+02:00" target="_blank">a4c95a01</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[feature] Septembre + split activités</pre>
         </td>
@@ -128,23 +133,13 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/2776c3681ef59cb27681124e4f2ca0be3c0ad3bd" title="2023-08-25T19:05:21.000+02:00" target="_blank">2776c368</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
-          <pre>Merge pull request #306 from epfl-si/feature/menu-api
-
-feat(menu): use the menu-api</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/d45a19586f7ef70d31c6c4bc6e642f00edd05553" title="2023-08-25T18:59:19.000+02:00" target="_blank">d45a1958</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
-          <pre>feat(menu): use the menu-api
-
-This combine the old way and the new "menu-api" way to construct the 
-breadcumb.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/albanm/node-libxslt/commits/d84fa658e95e52b5b948f33c7f6d6648ba15509f" title="2023-08-18T05:57:57.000+02:00" target="_blank">d84fa658</a><a href="https://github.com/albanm">@albanm</a><a href="https://github.com/albanm/node-libxslt" title="Node.js bindings for libxslt compatible with libxmljs">/node-libxslt</a></strong></div>
           <pre>Typo fixed (#92)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/5ea97bbf1d6d1822b9c31e8ed2593ee8c6fbd4ec" title="2023-08-16T18:56:27.000+02:00" target="_blank">5ea97bbf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] ensure npm@6.14.18</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -160,7 +155,7 @@ breadcumb.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 08 Sep 2023 13:45:09 GMT</small>
+<small>⏰ Updated on Mon, 11 Sep 2023 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
