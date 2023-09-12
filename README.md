@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/2cfeac487c225b5f8904f7842105c7bc18411b0f" title="2023-09-12T14:54:30.000+02:00" target="_blank">2cfeac48</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
+          <pre>[feature] Add nginx configuration</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/cf029e7d110d5f914301558890b9fa42e1292701" title="2023-09-07T13:01:57.000+02:00" target="_blank">cf029e7d</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
+          <pre>Initial commit</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/0ee06e86589a19476bccab2d2b21e6eb40a3220a" title="2023-09-05T18:19:51.000+02:00" target="_blank">0ee06e86</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
           <pre>[feature] Social Preview</pre>
         </td>
@@ -133,29 +143,24 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/albanm/node-libxslt/commits/d84fa658e95e52b5b948f33c7f6d6648ba15509f" title="2023-08-18T05:57:57.000+02:00" target="_blank">d84fa658</a><a href="https://github.com/albanm">@albanm</a><a href="https://github.com/albanm/node-libxslt" title="Node.js bindings for libxslt compatible with libxmljs">/node-libxslt</a></strong></div>
-          <pre>Typo fixed (#92)</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/2776c3681ef59cb27681124e4f2ca0be3c0ad3bd" title="2023-08-25T19:05:21.000+02:00" target="_blank">2776c368</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
+          <pre>Merge pull request #306 from epfl-si/feature/menu-api
+
+feat(menu): use the menu-api</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/5ea97bbf1d6d1822b9c31e8ed2593ee8c6fbd4ec" title="2023-08-16T18:56:27.000+02:00" target="_blank">5ea97bbf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] ensure npm@6.14.18</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/3a920873e72c86667108615d5ad647537f05f8c8" title="2023-08-13T11:25:25.000+02:00" target="_blank">3a920873</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[doc] update questions</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/64dc028d9824f271c6aab8bb82b978edeefc73e5" title="2023-08-13T11:11:02.000+02:00" target="_blank">64dc028d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[doc] updated</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/d45a19586f7ef70d31c6c4bc6e642f00edd05553" title="2023-08-25T18:59:19.000+02:00" target="_blank">d45a1958</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
+          <pre>feat(menu): use the menu-api
+
+This combine the old way and the new "menu-api" way to construct the 
+breadcumb.</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 11 Sep 2023 13:45:10 GMT</small>
+<small>⏰ Updated on Tue, 12 Sep 2023 13:45:17 GMT</small>
 </td>
 </tr>
 </tfoot>
