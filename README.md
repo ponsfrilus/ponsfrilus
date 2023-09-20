@@ -38,7 +38,7 @@
 <a href="https://github.com/karlb/smu" title="Simple MarkUp - markdown/commonmark like syntax" target="_blank">smu</a>&nbsp;<a href="https://github.com/karlb/smu" title="Simple MarkUp - markdown/commonmark like syntax" target="_blank"><img src="https://img.shields.io/github/stars/karlb/smu?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/opentffoundation/manifesto" title="The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license." target="_blank">manifesto</a>&nbsp;<a href="https://github.com/opentffoundation/manifesto" title="The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license." target="_blank"><img src="https://img.shields.io/github/stars/opentffoundation/manifesto?style=social" alt="GitHub"></a>
+<a href="https://github.com/opentofu/manifesto" title="The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license." target="_blank">manifesto</a>&nbsp;<a href="https://github.com/opentofu/manifesto" title="The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license." target="_blank"><img src="https://img.shields.io/github/stars/opentofu/manifesto?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/chebykinn/sedmario" title="NES Super Mario Bros level 1 written in pure sed!" target="_blank">sedmario</a>&nbsp;<a href="https://github.com/chebykinn/sedmario" title="NES Super Mario Bros level 1 written in pure sed!" target="_blank"><img src="https://img.shields.io/github/stars/chebykinn/sedmario?style=social" alt="GitHub"></a>
@@ -159,7 +159,7 @@ now be processed through Wordline's SaferPay.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 19 Sep 2023 13:45:15 GMT</small>
+<small>⏰ Updated on Wed, 20 Sep 2023 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
