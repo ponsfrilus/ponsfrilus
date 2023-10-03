@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/761e4c825969b830c7abfcb4550158238723cc97" title="2023-10-02T12:25:43.000+02:00" target="_blank">761e4c82</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>[doc] Rewriting/rephrasing</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/c212fd3414fe1c20ed680fcf1400740913f7062f" title="2023-09-14T18:54:31.000+02:00" target="_blank">c212fd34</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[reword] spelling mistakes and rewording</pre>
         </td>
@@ -147,19 +152,14 @@ now be processed through Wordline's SaferPay.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/901af67d31e82239a97913b5ac2918b1af76b9c8" title="2023-08-30T11:23:28.000+02:00" target="_blank">901af67d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
-          <pre>[test] workflow_dispatch</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/a4c95a01a06e4d236525683a631c6dc69554e822" title="2023-08-29T21:45:06.000+02:00" target="_blank">a4c95a01</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature] Septembre + split activités</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/1a49b07d2d0502e54703acf119427c804c4d4907" title="2023-09-05T18:19:51.000+02:00" target="_blank">1a49b07d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>[feature] Social Preview</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 02 Oct 2023 13:45:14 GMT</small>
+<small>⏰ Updated on Tue, 03 Oct 2023 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
