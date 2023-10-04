@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/usebruno/bruno" title="Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)" target="_blank">bruno</a>&nbsp;<a href="https://github.com/usebruno/bruno" title="Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)" target="_blank"><img src="https://img.shields.io/github/stars/usebruno/bruno?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL" target="_blank">fiche-de-stage-WordPress</a>&nbsp;<a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/fiche-de-stage-WordPress?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/karlb/smu" title="Simple MarkUp - markdown/commonmark like syntax" target="_blank">smu</a>&nbsp;<a href="https://github.com/karlb/smu" title="Simple MarkUp - markdown/commonmark like syntax" target="_blank"><img src="https://img.shields.io/github/stars/karlb/smu?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/opentofu/manifesto" title="The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license." target="_blank">manifesto</a>&nbsp;<a href="https://github.com/opentofu/manifesto" title="The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license." target="_blank"><img src="https://img.shields.io/github/stars/opentofu/manifesto?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/chebykinn/sedmario" title="NES Super Mario Bros level 1 written in pure sed!" target="_blank">sedmario</a>&nbsp;<a href="https://github.com/chebykinn/sedmario" title="NES Super Mario Bros level 1 written in pure sed!" target="_blank"><img src="https://img.shields.io/github/stars/chebykinn/sedmario?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/osintambition/Social-Media-OSINT-Tools-Collection" title="A collection of most useful osint tools for SOCINT." target="_blank">Social-Media-OSINT-Tools-Collection</a>&nbsp;<a href="https://github.com/osintambition/Social-Media-OSINT-Tools-Collection" title="A collection of most useful osint tools for SOCINT." target="_blank"><img src="https://img.shields.io/github/stars/osintambition/Social-Media-OSINT-Tools-Collection?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Lxtharia/minegrub-theme" title="A Grub Theme in the style of Minecraft!" target="_blank">minegrub-theme</a>&nbsp;<a href="https://github.com/Lxtharia/minegrub-theme" title="A Grub Theme in the style of Minecraft!" target="_blank"><img src="https://img.shields.io/github/stars/Lxtharia/minegrub-theme?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/torakiki/pdfsam" title="PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages" target="_blank">pdfsam</a>&nbsp;<a href="https://github.com/torakiki/pdfsam" title="PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages" target="_blank"><img src="https://img.shields.io/github/stars/torakiki/pdfsam?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/LunarVim/LunarVim" title="🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven." target="_blank">LunarVim</a>&nbsp;<a href="https://github.com/LunarVim/LunarVim" title="🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven." target="_blank"><img src="https://img.shields.io/github/stars/LunarVim/LunarVim?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/loft-sh/devpod" title="Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker." target="_blank">devpod</a>&nbsp;<a href="https://github.com/loft-sh/devpod" title="Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker." target="_blank"><img src="https://img.shields.io/github/stars/loft-sh/devpod?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/adil192/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank">saber</a>&nbsp;<a href="https://github.com/adil192/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank"><img src="https://img.shields.io/github/stars/adil192/saber?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank">behave-graph</a>&nbsp;<a href="https://github.com/bhouston/behave-graph" title="Open, extensible, small and simple behaviour-graph execution engine.  Discord here: https://discord.gg/mrags8WyuH" target="_blank"><img src="https://img.shields.io/github/stars/bhouston/behave-graph?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL" target="_blank">fiche-de-stage-WordPress</a>&nbsp;<a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/fiche-de-stage-WordPress?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/karlb/smu" title="Simple MarkUp - markdown/commonmark like syntax" target="_blank">smu</a>&nbsp;<a href="https://github.com/karlb/smu" title="Simple MarkUp - markdown/commonmark like syntax" target="_blank"><img src="https://img.shields.io/github/stars/karlb/smu?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/opentofu/manifesto" title="The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license." target="_blank">manifesto</a>&nbsp;<a href="https://github.com/opentofu/manifesto" title="The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license." target="_blank"><img src="https://img.shields.io/github/stars/opentofu/manifesto?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/chebykinn/sedmario" title="NES Super Mario Bros level 1 written in pure sed!" target="_blank">sedmario</a>&nbsp;<a href="https://github.com/chebykinn/sedmario" title="NES Super Mario Bros level 1 written in pure sed!" target="_blank"><img src="https://img.shields.io/github/stars/chebykinn/sedmario?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/osintambition/Social-Media-OSINT-Tools-Collection" title="A collection of most useful osint tools for SOCINT." target="_blank">Social-Media-OSINT-Tools-Collection</a>&nbsp;<a href="https://github.com/osintambition/Social-Media-OSINT-Tools-Collection" title="A collection of most useful osint tools for SOCINT." target="_blank"><img src="https://img.shields.io/github/stars/osintambition/Social-Media-OSINT-Tools-Collection?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Lxtharia/minegrub-theme" title="A Grub Theme in the style of Minecraft!" target="_blank">minegrub-theme</a>&nbsp;<a href="https://github.com/Lxtharia/minegrub-theme" title="A Grub Theme in the style of Minecraft!" target="_blank"><img src="https://img.shields.io/github/stars/Lxtharia/minegrub-theme?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/torakiki/pdfsam" title="PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages" target="_blank">pdfsam</a>&nbsp;<a href="https://github.com/torakiki/pdfsam" title="PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages" target="_blank"><img src="https://img.shields.io/github/stars/torakiki/pdfsam?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/LunarVim/LunarVim" title="🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven." target="_blank">LunarVim</a>&nbsp;<a href="https://github.com/LunarVim/LunarVim" title="🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven." target="_blank"><img src="https://img.shields.io/github/stars/LunarVim/LunarVim?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/loft-sh/devpod" title="Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker." target="_blank">devpod</a>&nbsp;<a href="https://github.com/loft-sh/devpod" title="Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker." target="_blank"><img src="https://img.shields.io/github/stars/loft-sh/devpod?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jjcm/nonio" title="null" target="_blank">nonio</a>&nbsp;<a href="https://github.com/jjcm/nonio" title="null" target="_blank"><img src="https://img.shields.io/github/stars/jjcm/nonio?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -159,7 +159,7 @@ now be processed through Wordline's SaferPay.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 03 Oct 2023 13:45:15 GMT</small>
+<small>⏰ Updated on Wed, 04 Oct 2023 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
