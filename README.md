@@ -108,16 +108,6 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/761e4c825969b830c7abfcb4550158238723cc97" title="2023-10-02T12:25:43.000+02:00" target="_blank">761e4c82</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
-          <pre>[doc] Rewriting/rephrasing</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/c212fd3414fe1c20ed680fcf1400740913f7062f" title="2023-09-14T18:54:31.000+02:00" target="_blank">c212fd34</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[reword] spelling mistakes and rewording</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/payonline/commits/b860a5d0c82d23d20ab3416e13a92cc1a2bed514" title="2023-09-13T17:11:06.000+02:00" target="_blank">b860a5d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline" title="payonline.epfl.ch, the payment multiplexing system in use at EPFL">/payonline</a></strong></div>
           <pre>[unfeature] Discontinued message
 
@@ -127,39 +117,54 @@ now be processed through Wordline's SaferPay.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/a992c010351fbcd881e4dd72a0f07671e8e03548" title="2023-09-12T15:50:40.000+02:00" target="_blank">a992c010</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
-          <pre>[doc] README.md</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/1a49b07d2d0502e54703acf119427c804c4d4907" title="2023-09-05T18:19:51.000+02:00" target="_blank">1a49b07d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>[feature] Social Preview</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/ab46fe295cb6922573978f06afb96a167a533d33" title="2023-09-12T15:48:26.000+02:00" target="_blank">ab46fe29</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
-          <pre>[feature] Let's run Matrix</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/b4256f53c2dfb13abff56892399b2f386bfc4246" title="2023-09-05T18:06:09.000+02:00" target="_blank">b4256f53</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>[doc] Rewamped</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/eb602f1bab9fd37a6e240c892e8ac6e7e93d63a6" title="2023-09-12T15:48:01.000+02:00" target="_blank">eb602f1b</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
-          <pre>[feature] mautrix-telegram configuration</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/9c5a57caa0fae8a1dcc9f0f216f1c787c69c9223" title="2023-09-05T08:07:00.000+02:00" target="_blank">9c5a57ca</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>[doc] Add (old) EPFL website screenshots</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/dcd0377de470178856d719d0f3c0be6db8fcf86c" title="2023-09-12T15:26:50.000+02:00" target="_blank">dcd0377d</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
-          <pre>[refactor] `matrix_stack_install_path` variable</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/901af67d31e82239a97913b5ac2918b1af76b9c8" title="2023-08-30T11:23:28.000+02:00" target="_blank">901af67d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
+          <pre>[test] workflow_dispatch</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/2cfeac487c225b5f8904f7842105c7bc18411b0f" title="2023-09-12T14:54:30.000+02:00" target="_blank">2cfeac48</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
-          <pre>[feature] Add nginx configuration</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/2776c3681ef59cb27681124e4f2ca0be3c0ad3bd" title="2023-08-25T19:05:21.000+02:00" target="_blank">2776c368</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
+          <pre>Merge pull request #306 from epfl-si/feature/menu-api
+
+feat(menu): use the menu-api</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/cf029e7d110d5f914301558890b9fa42e1292701" title="2023-09-07T13:01:57.000+02:00" target="_blank">cf029e7d</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
-          <pre>Initial commit</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/d45a19586f7ef70d31c6c4bc6e642f00edd05553" title="2023-08-25T18:59:19.000+02:00" target="_blank">d45a1958</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
+          <pre>feat(menu): use the menu-api
+
+This combine the old way and the new "menu-api" way to construct the 
+breadcumb.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/albanm/node-libxslt/commits/d84fa658e95e52b5b948f33c7f6d6648ba15509f" title="2023-08-18T05:57:57.000+02:00" target="_blank">d84fa658</a><a href="https://github.com/albanm">@albanm</a><a href="https://github.com/albanm/node-libxslt" title="Node.js bindings for libxslt compatible with libxmljs">/node-libxslt</a></strong></div>
+          <pre>Typo fixed (#92)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/5ea97bbf1d6d1822b9c31e8ed2593ee8c6fbd4ec" title="2023-08-16T18:56:27.000+02:00" target="_blank">5ea97bbf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] ensure npm@6.14.18</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 06 Oct 2023 13:45:21 GMT</small>
+<small>⏰ Updated on Mon, 09 Oct 2023 13:45:14 GMT</small>
 </td>
 </tr>
 </tfoot>
