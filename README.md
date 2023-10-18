@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/0bc9c22188cd3884fffbf625428fdedf68fa3bc8" title="2023-10-12T15:08:58.000+02:00" target="_blank">0bc9c221</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[hello] startpage.epfl.ch</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/dwesh163/Pancake-Bot/commits/55e2c501c6dc0ca0ac8fe71efb4a812610d7e234" title="2023-10-04T18:08:05.000+02:00" target="_blank">55e2c501</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/Pancake-Bot" title="This is a Telegram bot for team ISAS-FSD">/Pancake-Bot</a></strong></div>
           <pre>[Fix] Repo URL in the `/start` command</pre>
         </td>
@@ -115,6 +120,15 @@
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/c212fd3414fe1c20ed680fcf1400740913f7062f" title="2023-09-14T18:54:31.000+02:00" target="_blank">c212fd34</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[reword] spelling mistakes and rewording</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline/commits/b860a5d0c82d23d20ab3416e13a92cc1a2bed514" title="2023-09-13T17:11:06.000+02:00" target="_blank">b860a5d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline" title="payonline.epfl.ch, the payment multiplexing system in use at EPFL">/payonline</a></strong></div>
+          <pre>[unfeature] Discontinued message
+
+Starting in 2024, it will no longer be possible to use PayOnline.
+Our contract with PostFinance is coming to an end, and payments will
+now be processed through Wordline's SaferPay.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -141,21 +155,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/2cfeac487c225b5f8904f7842105c7bc18411b0f" title="2023-09-12T14:54:30.000+02:00" target="_blank">2cfeac48</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
           <pre>[feature] Add nginx configuration</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/cf029e7d110d5f914301558890b9fa42e1292701" title="2023-09-07T13:01:57.000+02:00" target="_blank">cf029e7d</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
-          <pre>Initial commit</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/1a49b07d2d0502e54703acf119427c804c4d4907" title="2023-09-05T18:19:51.000+02:00" target="_blank">1a49b07d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
-          <pre>[feature] Social Preview</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 17 Oct 2023 13:45:10 GMT</small>
+<small>⏰ Updated on Wed, 18 Oct 2023 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
