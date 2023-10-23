@@ -159,7 +159,7 @@ now be processed through Wordline's SaferPay.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 20 Oct 2023 13:45:15 GMT</small>
+<small>⏰ Updated on Mon, 23 Oct 2023 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
