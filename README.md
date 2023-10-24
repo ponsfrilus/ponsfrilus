@@ -32,39 +32,8 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank">learnhouse</a>&nbsp;<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank"><img src="https://img.shields.io/github/stars/learnhouse/learnhouse?style=social" alt="GitHub"></a>
+<a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch" target="_blank">startpage</a>&nbsp;<a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/startpage?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank">kosmonaut</a>&nbsp;<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank"><img src="https://img.shields.io/github/stars/twilco/kosmonaut?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank">contour</a>&nbsp;<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank"><img src="https://img.shields.io/github/stars/contour-terminal/contour?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/adil192/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank">saber</a>&nbsp;<a href="https://github.com/adil192/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank"><img src="https://img.shields.io/github/stars/adil192/saber?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank">openmoji</a>&nbsp;<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank"><img src="https://img.shields.io/github/stars/hfg-gmuend/openmoji?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank">telegram</a>&nbsp;<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank"><img src="https://img.shields.io/github/stars/mautrix/telegram?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank">42-holygraph</a>&nbsp;<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank"><img src="https://img.shields.io/github/stars/akaylee/42-holygraph?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank">clmystery</a>&nbsp;<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank"><img src="https://img.shields.io/github/stars/veltman/clmystery?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank">plane</a>&nbsp;<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank"><img src="https://img.shields.io/github/stars/makeplane/plane?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank">pines</a>&nbsp;<a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank"><img src="https://img.shields.io/github/stars/thedevdojo/pines?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
 <li>
 <a href="https://github.com/gethomepage/homepage" title="A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations." target="_blank">homepage</a>&nbsp;<a href="https://github.com/gethomepage/homepage" title="A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations." target="_blank"><img src="https://img.shields.io/github/stars/gethomepage/homepage?style=social" alt="GitHub"></a>
 </li>
@@ -92,8 +61,39 @@
 <li>
 <a href="https://github.com/Lxtharia/minegrub-theme" title="A Grub Theme in the style of Minecraft!" target="_blank">minegrub-theme</a>&nbsp;<a href="https://github.com/Lxtharia/minegrub-theme" title="A Grub Theme in the style of Minecraft!" target="_blank"><img src="https://img.shields.io/github/stars/Lxtharia/minegrub-theme?style=social" alt="GitHub"></a>
 </li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
 <li>
-<a href="https://github.com/torakiki/pdfsam" title="PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages" target="_blank">pdfsam</a>&nbsp;<a href="https://github.com/torakiki/pdfsam" title="PDFsam, a desktop application to split, merge, mix, rotate PDF files and extract pages" target="_blank"><img src="https://img.shields.io/github/stars/torakiki/pdfsam?style=social" alt="GitHub"></a>
+<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank">learnhouse</a>&nbsp;<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank"><img src="https://img.shields.io/github/stars/learnhouse/learnhouse?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank">kosmonaut</a>&nbsp;<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank"><img src="https://img.shields.io/github/stars/twilco/kosmonaut?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank">contour</a>&nbsp;<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank"><img src="https://img.shields.io/github/stars/contour-terminal/contour?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank">saber</a>&nbsp;<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank"><img src="https://img.shields.io/github/stars/saber-notes/saber?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank">openmoji</a>&nbsp;<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank"><img src="https://img.shields.io/github/stars/hfg-gmuend/openmoji?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank">telegram</a>&nbsp;<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank"><img src="https://img.shields.io/github/stars/mautrix/telegram?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank">42-holygraph</a>&nbsp;<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank"><img src="https://img.shields.io/github/stars/akaylee/42-holygraph?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank">clmystery</a>&nbsp;<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank"><img src="https://img.shields.io/github/stars/veltman/clmystery?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank">plane</a>&nbsp;<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank"><img src="https://img.shields.io/github/stars/makeplane/plane?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank">pines</a>&nbsp;<a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank"><img src="https://img.shields.io/github/stars/thedevdojo/pines?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -102,6 +102,16 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/7f1a113077119a7d6c2bf562a365f4f62cd69206" title="2023-10-23T20:05:08.000+02:00" target="_blank">7f1a1130</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[reword] confirmation mail</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/7e7245bf1b58ec86c266a50e8ac96962ea663750" title="2023-10-23T20:04:11.000+02:00" target="_blank">7e7245bf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] dates</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/0bc9c22188cd3884fffbf625428fdedf68fa3bc8" title="2023-10-12T15:08:58.000+02:00" target="_blank">0bc9c221</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
           <pre>[hello] startpage.epfl.ch</pre>
@@ -145,21 +155,11 @@ now be processed through Wordline's SaferPay.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/eb602f1bab9fd37a6e240c892e8ac6e7e93d63a6" title="2023-09-12T15:48:01.000+02:00" target="_blank">eb602f1b</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
           <pre>[feature] mautrix-telegram configuration</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/dcd0377de470178856d719d0f3c0be6db8fcf86c" title="2023-09-12T15:26:50.000+02:00" target="_blank">dcd0377d</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
-          <pre>[refactor] `matrix_stack_install_path` variable</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/2cfeac487c225b5f8904f7842105c7bc18411b0f" title="2023-09-12T14:54:30.000+02:00" target="_blank">2cfeac48</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
-          <pre>[feature] Add nginx configuration</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 23 Oct 2023 13:45:11 GMT</small>
+<small>⏰ Updated on Tue, 24 Oct 2023 13:52:43 GMT</small>
 </td>
 </tr>
 </tfoot>
