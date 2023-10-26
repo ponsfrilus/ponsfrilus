@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank">opentofu</a>&nbsp;<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank"><img src="https://img.shields.io/github/stars/opentofu/opentofu?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank">cours-linux-shell</a>&nbsp;<a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank"><img src="https://img.shields.io/github/stars/ahpnils/cours-linux-shell?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank">learnhouse</a>&nbsp;<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank"><img src="https://img.shields.io/github/stars/learnhouse/learnhouse?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank">kosmonaut</a>&nbsp;<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank"><img src="https://img.shields.io/github/stars/twilco/kosmonaut?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank">contour</a>&nbsp;<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank"><img src="https://img.shields.io/github/stars/contour-terminal/contour?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank">saber</a>&nbsp;<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank"><img src="https://img.shields.io/github/stars/saber-notes/saber?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank">openmoji</a>&nbsp;<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank"><img src="https://img.shields.io/github/stars/hfg-gmuend/openmoji?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank">telegram</a>&nbsp;<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank"><img src="https://img.shields.io/github/stars/mautrix/telegram?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank">42-holygraph</a>&nbsp;<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank"><img src="https://img.shields.io/github/stars/akaylee/42-holygraph?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank">clmystery</a>&nbsp;<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank"><img src="https://img.shields.io/github/stars/veltman/clmystery?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/gosub-browser/gosub-engine" title="A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions" target="_blank">gosub-engine</a>&nbsp;<a href="https://github.com/gosub-browser/gosub-engine" title="A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions" target="_blank"><img src="https://img.shields.io/github/stars/gosub-browser/gosub-engine?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch" target="_blank">startpage</a>&nbsp;<a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/startpage?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/osintambition/Social-Media-OSINT-Tools-Collection" title="A collection of most useful osint tools for SOCINT." target="_blank">Social-Media-OSINT-Tools-Collection</a>&nbsp;<a href="https://github.com/osintambition/Social-Media-OSINT-Tools-Collection" title="A collection of most useful osint tools for SOCINT." target="_blank"><img src="https://img.shields.io/github/stars/osintambition/Social-Media-OSINT-Tools-Collection?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Lxtharia/minegrub-theme" title="A Grub Theme in the style of Minecraft!" target="_blank">minegrub-theme</a>&nbsp;<a href="https://github.com/Lxtharia/minegrub-theme" title="A Grub Theme in the style of Minecraft!" target="_blank"><img src="https://img.shields.io/github/stars/Lxtharia/minegrub-theme?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank">learnhouse</a>&nbsp;<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank"><img src="https://img.shields.io/github/stars/learnhouse/learnhouse?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank">kosmonaut</a>&nbsp;<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank"><img src="https://img.shields.io/github/stars/twilco/kosmonaut?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank">contour</a>&nbsp;<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank"><img src="https://img.shields.io/github/stars/contour-terminal/contour?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank">saber</a>&nbsp;<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank"><img src="https://img.shields.io/github/stars/saber-notes/saber?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank">openmoji</a>&nbsp;<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank"><img src="https://img.shields.io/github/stars/hfg-gmuend/openmoji?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank">telegram</a>&nbsp;<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank"><img src="https://img.shields.io/github/stars/mautrix/telegram?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank">42-holygraph</a>&nbsp;<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank"><img src="https://img.shields.io/github/stars/akaylee/42-holygraph?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank">clmystery</a>&nbsp;<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank"><img src="https://img.shields.io/github/stars/veltman/clmystery?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank">plane</a>&nbsp;<a href="https://github.com/makeplane/plane" title="🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible." target="_blank"><img src="https://img.shields.io/github/stars/makeplane/plane?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank">pines</a>&nbsp;<a href="https://github.com/thedevdojo/pines" title="The Pines UI library" target="_blank"><img src="https://img.shields.io/github/stars/thedevdojo/pines?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -159,7 +159,7 @@ now be processed through Wordline's SaferPay.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 25 Oct 2023 13:48:53 GMT</small>
+<small>⏰ Updated on Thu, 26 Oct 2023 13:45:14 GMT</small>
 </td>
 </tr>
 </tfoot>
