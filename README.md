@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/epfl-si/satosa-tequila" title="Tequila OpenID-Connect (OIDC) bridge as-a-service, built on top of SATOSA" target="_blank">satosa-tequila</a>&nbsp;<a href="https://github.com/epfl-si/satosa-tequila" title="Tequila OpenID-Connect (OIDC) bridge as-a-service, built on top of SATOSA" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/satosa-tequila?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank">opentofu</a>&nbsp;<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank"><img src="https://img.shields.io/github/stars/opentofu/opentofu?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank">cours-linux-shell</a>&nbsp;<a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank"><img src="https://img.shields.io/github/stars/ahpnils/cours-linux-shell?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank">learnhouse</a>&nbsp;<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank"><img src="https://img.shields.io/github/stars/learnhouse/learnhouse?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank">kosmonaut</a>&nbsp;<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank"><img src="https://img.shields.io/github/stars/twilco/kosmonaut?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank">contour</a>&nbsp;<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank"><img src="https://img.shields.io/github/stars/contour-terminal/contour?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank">saber</a>&nbsp;<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank"><img src="https://img.shields.io/github/stars/saber-notes/saber?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank">openmoji</a>&nbsp;<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank"><img src="https://img.shields.io/github/stars/hfg-gmuend/openmoji?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank">telegram</a>&nbsp;<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank"><img src="https://img.shields.io/github/stars/mautrix/telegram?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank">42-holygraph</a>&nbsp;<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank"><img src="https://img.shields.io/github/stars/akaylee/42-holygraph?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/emilybache/GildedRose-Refactoring-Kata" title="Starting code for the GildedRose Refactoring Kata in many programming languages." target="_blank">GildedRose-Refactoring-Kata</a>&nbsp;<a href="https://github.com/emilybache/GildedRose-Refactoring-Kata" title="Starting code for the GildedRose Refactoring Kata in many programming languages." target="_blank"><img src="https://img.shields.io/github/stars/emilybache/GildedRose-Refactoring-Kata?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,105 +97,69 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank">opentofu</a>&nbsp;<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank"><img src="https://img.shields.io/github/stars/opentofu/opentofu?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank">cours-linux-shell</a>&nbsp;<a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank"><img src="https://img.shields.io/github/stars/ahpnils/cours-linux-shell?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank">learnhouse</a>&nbsp;<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank"><img src="https://img.shields.io/github/stars/learnhouse/learnhouse?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank">kosmonaut</a>&nbsp;<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank"><img src="https://img.shields.io/github/stars/twilco/kosmonaut?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank">contour</a>&nbsp;<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank"><img src="https://img.shields.io/github/stars/contour-terminal/contour?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank">saber</a>&nbsp;<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank"><img src="https://img.shields.io/github/stars/saber-notes/saber?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank">openmoji</a>&nbsp;<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank"><img src="https://img.shields.io/github/stars/hfg-gmuend/openmoji?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank">telegram</a>&nbsp;<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank"><img src="https://img.shields.io/github/stars/mautrix/telegram?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank">42-holygraph</a>&nbsp;<a href="https://github.com/akaylee/42-holygraph" title="This ultimate repository contains a graph with attached links to all subjects that were available in the Intra system (Ecole 42) by the time of May 25, 2021. " target="_blank"><img src="https://img.shields.io/github/stars/akaylee/42-holygraph?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank">clmystery</a>&nbsp;<a href="https://github.com/veltman/clmystery" title="A command-line murder mystery" target="_blank"><img src="https://img.shields.io/github/stars/veltman/clmystery?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/rapport-de-stage/commits/901af67d31e82239a97913b5ac2918b1af76b9c8" title="2023-08-30T11:23:28.000+02:00" target="_blank">901af67d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/rapport-de-stage" title="Outil permettant de remplir des rapports de stage en ligne pour les stagiaires (découverte ou d'orientation) et pour les responsables de stage.">/rapport-de-stage</a></strong></div>
-          <pre>[test] workflow_dispatch</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/7f1a113077119a7d6c2bf562a365f4f62cd69206" title="2023-10-23T20:05:08.000+02:00" target="_blank">7f1a1130</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[reword] confirmation mail</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/3a920873e72c86667108615d5ad647537f05f8c8" title="2023-08-13T11:25:25.000+02:00" target="_blank">3a920873</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[doc] update questions</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/7e7245bf1b58ec86c266a50e8ac96962ea663750" title="2023-10-23T20:04:11.000+02:00" target="_blank">7e7245bf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] dates</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/64dc028d9824f271c6aab8bb82b978edeefc73e5" title="2023-08-13T11:11:02.000+02:00" target="_blank">64dc028d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[doc] updated</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/761e4c825969b830c7abfcb4550158238723cc97" title="2023-10-02T12:25:43.000+02:00" target="_blank">761e4c82</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>[doc] Rewriting/rephrasing</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/52e54ae77d788c9713e63a289cf27a434f5857b5" title="2023-08-13T10:51:13.000+02:00" target="_blank">52e54ae7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[fix] SQL
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/c212fd3414fe1c20ed680fcf1400740913f7062f" title="2023-09-14T18:54:31.000+02:00" target="_blank">c212fd34</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[reword] spelling mistakes and rewording</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline/commits/b860a5d0c82d23d20ab3416e13a92cc1a2bed514" title="2023-09-13T17:11:06.000+02:00" target="_blank">b860a5d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline" title="payonline.epfl.ch, the payment multiplexing system in use at EPFL">/payonline</a></strong></div>
+          <pre>[unfeature] Discontinued message
 
-* Use more current collation / charset
-* Remove trap in countries_people.sql
-* Rename countries_people.sql to z_countries.people.sql</pre>
+Starting in 2024, it will no longer be possible to use PayOnline.
+Our contract with PostFinance is coming to an end, and payments will
+now be processed through Wordline's SaferPay.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/efb1cce273ff72bf72fb3e4ed2994e50a05d5817" title="2023-07-04T09:14:56.000+02:00" target="_blank">efb1cce2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>Merge pull request #81 from epfl-si/doc/reformulated-readme
-
-[doc] README.md</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/a992c010351fbcd881e4dd72a0f07671e8e03548" title="2023-09-12T15:50:40.000+02:00" target="_blank">a992c010</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
+          <pre>[doc] README.md</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/bc85674bd1973e1793f0aa9dd4b2b1217b886c55" title="2023-07-02T12:09:29.000+02:00" target="_blank">bc85674b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] homogenize files name</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/ab46fe295cb6922573978f06afb96a167a533d33" title="2023-09-12T15:48:26.000+02:00" target="_blank">ab46fe29</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
+          <pre>[feature] Let's run Matrix</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/53cb3c9ad9f4fb354620128cfefa0e9405861229" title="2023-07-02T12:09:13.000+02:00" target="_blank">53cb3c9a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] replace spaces by dash in names</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/eb602f1bab9fd37a6e240c892e8ac6e7e93d63a6" title="2023-09-12T15:48:01.000+02:00" target="_blank">eb602f1b</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
+          <pre>[feature] mautrix-telegram configuration</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/4c7e507e77ab8bee54fd6eef1161f489ae6f8f62" title="2023-07-02T11:38:57.000+02:00" target="_blank">4c7e507e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[doc] updated</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/dcd0377de470178856d719d0f3c0be6db8fcf86c" title="2023-09-12T15:26:50.000+02:00" target="_blank">dcd0377d</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
+          <pre>[refactor] `matrix_stack_install_path` variable</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/21a62de3cd2448a149d4ef6d90d2a160ef3bd7a4" title="2023-07-02T11:38:47.000+02:00" target="_blank">21a62de3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature] use a variable for stage texte date</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/4e0103f8b78dd4e3d639acfbe8a770f36a78e2ce" title="2023-07-02T11:28:11.000+02:00" target="_blank">4e0103f8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] `make help`</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/2cfeac487c225b5f8904f7842105c7bc18411b0f" title="2023-09-12T14:54:30.000+02:00" target="_blank">2cfeac48</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
+          <pre>[feature] Add nginx configuration</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 27 Oct 2023 13:45:11 GMT</small>
+<small>⏰ Updated on Mon, 30 Oct 2023 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
