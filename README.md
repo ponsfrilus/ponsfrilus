@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 13 years and 9 months.
+    <br />Apparently, I'm hanging around on GitHub since 13 years and 10 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -103,64 +103,63 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/Pancake-Bot/commits/aa532a4c29b9efa8bb98bcaf062e82367498e067" title="2023-10-27T12:43:46.000+02:00" target="_blank">aa532a4c</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/Pancake-Bot" title="This is a Telegram bot for team ISAS-FSD">/Pancake-Bot</a></strong></div>
+          <pre>[feature] cheers in many languages</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/Pancake-Bot/commits/067457897e4435587160999ab8fff3bc6b3d3f60" title="2023-10-27T12:34:13.000+02:00" target="_blank">06745789</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/Pancake-Bot" title="This is a Telegram bot for team ISAS-FSD">/Pancake-Bot</a></strong></div>
+          <pre>[feature] now you can drink a whisky!</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/7f1a113077119a7d6c2bf562a365f4f62cd69206" title="2023-10-23T20:05:08.000+02:00" target="_blank">7f1a1130</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[reword] confirmation mail</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/7e7245bf1b58ec86c266a50e8ac96962ea663750" title="2023-10-23T20:04:11.000+02:00" target="_blank">7e7245bf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] dates</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/0bc9c22188cd3884fffbf625428fdedf68fa3bc8" title="2023-10-12T15:08:58.000+02:00" target="_blank">0bc9c221</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[hello] startpage.epfl.ch</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/Pancake-Bot/commits/55e2c501c6dc0ca0ac8fe71efb4a812610d7e234" title="2023-10-04T18:08:05.000+02:00" target="_blank">55e2c501</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/Pancake-Bot" title="This is a Telegram bot for team ISAS-FSD">/Pancake-Bot</a></strong></div>
+          <pre>[Fix] Repo URL in the `/start` command</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/761e4c825969b830c7abfcb4550158238723cc97" title="2023-10-02T12:25:43.000+02:00" target="_blank">761e4c82</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>[doc] Rewriting/rephrasing</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/c212fd3414fe1c20ed680fcf1400740913f7062f" title="2023-09-14T18:54:31.000+02:00" target="_blank">c212fd34</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[reword] spelling mistakes and rewording</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline/commits/b860a5d0c82d23d20ab3416e13a92cc1a2bed514" title="2023-09-13T17:11:06.000+02:00" target="_blank">b860a5d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline" title="payonline.epfl.ch, the payment multiplexing system in use at EPFL">/payonline</a></strong></div>
+          <pre>[unfeature] Discontinued message
+
+Starting in 2024, it will no longer be possible to use PayOnline.
+Our contract with PostFinance is coming to an end, and payments will
+now be processed through Wordline's SaferPay.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/a992c010351fbcd881e4dd72a0f07671e8e03548" title="2023-09-12T15:50:40.000+02:00" target="_blank">a992c010</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
           <pre>[doc] README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/ab46fe295cb6922573978f06afb96a167a533d33" title="2023-09-12T15:48:26.000+02:00" target="_blank">ab46fe29</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
-          <pre>[feature] Let's run Matrix</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/eb602f1bab9fd37a6e240c892e8ac6e7e93d63a6" title="2023-09-12T15:48:01.000+02:00" target="_blank">eb602f1b</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
-          <pre>[feature] mautrix-telegram configuration</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/dcd0377de470178856d719d0f3c0be6db8fcf86c" title="2023-09-12T15:26:50.000+02:00" target="_blank">dcd0377d</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
-          <pre>[refactor] `matrix_stack_install_path` variable</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/2cfeac487c225b5f8904f7842105c7bc18411b0f" title="2023-09-12T14:54:30.000+02:00" target="_blank">2cfeac48</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
-          <pre>[feature] Add nginx configuration</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/cf029e7d110d5f914301558890b9fa42e1292701" title="2023-09-07T13:01:57.000+02:00" target="_blank">cf029e7d</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
-          <pre>Initial commit</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/2776c3681ef59cb27681124e4f2ca0be3c0ad3bd" title="2023-08-25T19:05:21.000+02:00" target="_blank">2776c368</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
-          <pre>Merge pull request #306 from epfl-si/feature/menu-api
-
-feat(menu): use the menu-api</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/d45a19586f7ef70d31c6c4bc6e642f00edd05553" title="2023-08-25T18:59:19.000+02:00" target="_blank">d45a1958</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
-          <pre>feat(menu): use the menu-api
-
-This combine the old way and the new "menu-api" way to construct the 
-breadcumb.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/albanm/node-libxslt/commits/d84fa658e95e52b5b948f33c7f6d6648ba15509f" title="2023-08-18T05:57:57.000+02:00" target="_blank">d84fa658</a><a href="https://github.com/albanm">@albanm</a><a href="https://github.com/albanm/node-libxslt" title="Node.js bindings for libxslt compatible with libxmljs">/node-libxslt</a></strong></div>
-          <pre>Typo fixed (#92)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/3a920873e72c86667108615d5ad647537f05f8c8" title="2023-08-13T11:25:25.000+02:00" target="_blank">3a920873</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[doc] update questions</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 31 Oct 2023 13:45:13 GMT</small>
+<small>⏰ Updated on Wed, 01 Nov 2023 13:45:14 GMT</small>
 </td>
 </tr>
 </tfoot>
