@@ -103,39 +103,6 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/a44c7d8c0afffdb290ee81eb804cf410a19105dd" title="2023-11-01T23:11:34.000+01:00" target="_blank">a44c7d8c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] catalog page
-
-A basic list of EPFL services and links.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/c106e3285f0ae757886924af42fa8f215a1651a0" title="2023-11-01T22:56:35.000+01:00" target="_blank">c106e328</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[fix] nodemon for ejs file
-
-This commit add the `nodemonConfig` in the `package.json` in order that 
-nodemon watch ejs file too.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/421d94f201c8f9c242a135bda9de110e04b01bf3" title="2023-11-01T22:42:25.000+01:00" target="_blank">421d94f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] data from EPFL Arrival
-
-See issues from https://github.com/ponsfrilus/EPFLArrival/ for more 
-services to add here.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/511a37330a18dd68a6a4fc6ec8f1cc8d17833a54" title="2023-11-01T22:41:28.000+01:00" target="_blank">511a3733</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] CHANGELOG, CONTRIBUTING and DEVELOPMENT</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/570b00ded0180c360a8e824340e5e6be60774aff" title="2023-11-01T14:58:29.000+01:00" target="_blank">570b00de</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[hello] startpage.epfl.ch</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/dwesh163/Pancake-Bot/commits/aa532a4c29b9efa8bb98bcaf062e82367498e067" title="2023-10-27T12:43:46.000+02:00" target="_blank">aa532a4c</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/Pancake-Bot" title="This is a Telegram bot for team ISAS-FSD">/Pancake-Bot</a></strong></div>
           <pre>[feature] cheers in many languages</pre>
         </td>
@@ -159,11 +126,40 @@ services to add here.</pre>
           <div><strong><a href="https://api.github.com/repos/dwesh163/Pancake-Bot/commits/55e2c501c6dc0ca0ac8fe71efb4a812610d7e234" title="2023-10-04T18:08:05.000+02:00" target="_blank">55e2c501</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/Pancake-Bot" title="This is a Telegram bot for team ISAS-FSD">/Pancake-Bot</a></strong></div>
           <pre>[Fix] Repo URL in the `/start` command</pre>
         </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/761e4c825969b830c7abfcb4550158238723cc97" title="2023-10-02T12:25:43.000+02:00" target="_blank">761e4c82</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>[doc] Rewriting/rephrasing</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/c212fd3414fe1c20ed680fcf1400740913f7062f" title="2023-09-14T18:54:31.000+02:00" target="_blank">c212fd34</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[reword] spelling mistakes and rewording</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline/commits/b860a5d0c82d23d20ab3416e13a92cc1a2bed514" title="2023-09-13T17:11:06.000+02:00" target="_blank">b860a5d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline" title="payonline.epfl.ch, the payment multiplexing system in use at EPFL">/payonline</a></strong></div>
+          <pre>[unfeature] Discontinued message
+
+Starting in 2024, it will no longer be possible to use PayOnline.
+Our contract with PostFinance is coming to an end, and payments will
+now be processed through Wordline's SaferPay.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/a992c010351fbcd881e4dd72a0f07671e8e03548" title="2023-09-12T15:50:40.000+02:00" target="_blank">a992c010</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
+          <pre>[doc] README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/ab46fe295cb6922573978f06afb96a167a533d33" title="2023-09-12T15:48:26.000+02:00" target="_blank">ab46fe29</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
+          <pre>[feature] Let's run Matrix</pre>
+        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 03 Nov 2023 13:45:11 GMT</small>
+<small>⏰ Updated on Mon, 06 Nov 2023 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
