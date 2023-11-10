@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/38fc47b3902918949cded9b49dbd2575f5430df3" title="2023-11-10T14:42:22.000+01:00" target="_blank">38fc47b3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[feature] ensure minimal node version (>20) (#21)
+
+#fixes #18</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/8e8bacbb0f6c935c3c11dcf96c9d1cdd4fac80f0" title="2023-11-08T10:12:55.000+01:00" target="_blank">8e8bacbb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
           <pre>[feature] smart search
 
@@ -165,16 +172,11 @@ services to add here.</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/7f1a113077119a7d6c2bf562a365f4f62cd69206" title="2023-10-23T20:05:08.000+02:00" target="_blank">7f1a1130</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[reword] confirmation mail</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/7e7245bf1b58ec86c266a50e8ac96962ea663750" title="2023-10-23T20:04:11.000+02:00" target="_blank">7e7245bf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] dates</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 09 Nov 2023 13:45:10 GMT</small>
+<small>⏰ Updated on Fri, 10 Nov 2023 13:45:22 GMT</small>
 </td>
 </tr>
 </tfoot>
