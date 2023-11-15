@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/fastify/fastify" title="Fast and low overhead web framework, for Node.js" target="_blank">fastify</a>&nbsp;<a href="https://github.com/fastify/fastify" title="Fast and low overhead web framework, for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/fastify/fastify?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/pharring/EditorGuidelines" title="A Visual Studio extension that adds vertical column guides to the text editor" target="_blank">EditorGuidelines</a>&nbsp;<a href="https://github.com/pharring/EditorGuidelines" title="A Visual Studio extension that adds vertical column guides to the text editor" target="_blank"><img src="https://img.shields.io/github/stars/pharring/EditorGuidelines?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/satosa-tequila" title="Tequila OpenID-Connect (OIDC) bridge as-a-service, built on top of SATOSA" target="_blank">satosa-tequila</a>&nbsp;<a href="https://github.com/epfl-si/satosa-tequila" title="Tequila OpenID-Connect (OIDC) bridge as-a-service, built on top of SATOSA" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/satosa-tequila?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank">opentofu</a>&nbsp;<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank"><img src="https://img.shields.io/github/stars/opentofu/opentofu?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank">cours-linux-shell</a>&nbsp;<a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank"><img src="https://img.shields.io/github/stars/ahpnils/cours-linux-shell?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank">learnhouse</a>&nbsp;<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank"><img src="https://img.shields.io/github/stars/learnhouse/learnhouse?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank">kosmonaut</a>&nbsp;<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank"><img src="https://img.shields.io/github/stars/twilco/kosmonaut?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank">contour</a>&nbsp;<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank"><img src="https://img.shields.io/github/stars/contour-terminal/contour?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank">saber</a>&nbsp;<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank"><img src="https://img.shields.io/github/stars/saber-notes/saber?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank">openmoji</a>&nbsp;<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank"><img src="https://img.shields.io/github/stars/hfg-gmuend/openmoji?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/picocss/pico" title="Minimal CSS Framework for semantic HTML" target="_blank">pico</a>&nbsp;<a href="https://github.com/picocss/pico" title="Minimal CSS Framework for semantic HTML" target="_blank"><img src="https://img.shields.io/github/stars/picocss/pico?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/pharring/EditorGuidelines" title="A Visual Studio extension that adds vertical column guides to the text editor" target="_blank">EditorGuidelines</a>&nbsp;<a href="https://github.com/pharring/EditorGuidelines" title="A Visual Studio extension that adds vertical column guides to the text editor" target="_blank"><img src="https://img.shields.io/github/stars/pharring/EditorGuidelines?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/satosa-tequila" title="Tequila OpenID-Connect (OIDC) bridge as-a-service, built on top of SATOSA" target="_blank">satosa-tequila</a>&nbsp;<a href="https://github.com/epfl-si/satosa-tequila" title="Tequila OpenID-Connect (OIDC) bridge as-a-service, built on top of SATOSA" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/satosa-tequila?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank">opentofu</a>&nbsp;<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank"><img src="https://img.shields.io/github/stars/opentofu/opentofu?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank">cours-linux-shell</a>&nbsp;<a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank"><img src="https://img.shields.io/github/stars/ahpnils/cours-linux-shell?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank">learnhouse</a>&nbsp;<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank"><img src="https://img.shields.io/github/stars/learnhouse/learnhouse?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank">kosmonaut</a>&nbsp;<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank"><img src="https://img.shields.io/github/stars/twilco/kosmonaut?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank">contour</a>&nbsp;<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank"><img src="https://img.shields.io/github/stars/contour-terminal/contour?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank">saber</a>&nbsp;<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank"><img src="https://img.shields.io/github/stars/saber-notes/saber?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank">openmoji</a>&nbsp;<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank"><img src="https://img.shields.io/github/stars/hfg-gmuend/openmoji?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank">telegram</a>&nbsp;<a href="https://github.com/mautrix/telegram" title="A Matrix-Telegram hybrid puppeting/relaybot bridge" target="_blank"><img src="https://img.shields.io/github/stars/mautrix/telegram?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/2a5503a213f92fabcfa242f63d45825d7feffb53" title="2023-11-14T13:20:20.000+01:00" target="_blank">2a5503a2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
+          <pre>[feature] new datawrapper IDs (INC0594426)</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/b535c25c6eb8b028213d1e1525fb73331ac1b8c4" title="2023-11-10T16:06:47.000+01:00" target="_blank">b535c25c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
           <pre>[feature] add favicon(s) (#23)
@@ -169,16 +174,11 @@ services to add here.</pre>
           <div><strong><a href="https://api.github.com/repos/dwesh163/Pancake-Bot/commits/aa532a4c29b9efa8bb98bcaf062e82367498e067" title="2023-10-27T12:43:46.000+02:00" target="_blank">aa532a4c</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/Pancake-Bot" title="This is a Telegram bot for team ISAS-FSD">/Pancake-Bot</a></strong></div>
           <pre>[feature] cheers in many languages</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/Pancake-Bot/commits/067457897e4435587160999ab8fff3bc6b3d3f60" title="2023-10-27T12:34:13.000+02:00" target="_blank">06745789</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/Pancake-Bot" title="This is a Telegram bot for team ISAS-FSD">/Pancake-Bot</a></strong></div>
-          <pre>[feature] now you can drink a whisky!</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 14 Nov 2023 13:45:11 GMT</small>
+<small>⏰ Updated on Wed, 15 Nov 2023 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
