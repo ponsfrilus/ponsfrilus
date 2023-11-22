@@ -103,65 +103,91 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/matrix/commits/cf029e7d110d5f914301558890b9fa42e1292701" title="2023-09-07T13:01:57.000+02:00" target="_blank">cf029e7d</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/matrix" title="null">/matrix</a></strong></div>
-          <pre>Initial commit</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/searchplugins/commits/e4da649c01a3595818142562dcaef8e8f9dbe762" title="2023-11-20T18:14:18.000+01:00" target="_blank">e4da649c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/searchplugins" title="A collection of search plugins for EPFL using OpenSearch.">/searchplugins</a></strong></div>
+          <pre>[feature] GitHub pages</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/7f6caec901253a3748a1a4d8b3cc8a73d951ef8f" title="2023-08-16T20:25:55.000+02:00" target="_blank">7f6caec9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
-          <pre>[doc] *.mo file generated with msgfmt</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/3a920873e72c86667108615d5ad647537f05f8c8" title="2023-08-13T11:25:25.000+02:00" target="_blank">3a920873</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[doc] update questions</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/64dc028d9824f271c6aab8bb82b978edeefc73e5" title="2023-08-13T11:11:02.000+02:00" target="_blank">64dc028d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[doc] updated</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/52e54ae77d788c9713e63a289cf27a434f5857b5" title="2023-08-13T10:51:13.000+02:00" target="_blank">52e54ae7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[fix] SQL
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/searchplugins/commits/3a95e873a6dc40b72521480568a65cc73a8d4043" title="2023-11-20T17:33:44.000+01:00" target="_blank">3a95e873</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/searchplugins" title="A collection of search plugins for EPFL using OpenSearch.">/searchplugins</a></strong></div>
+          <pre>[feature] generate XML and preview page
 
-* Use more current collation / charset
-* Remove trap in countries_people.sql
-* Rename countries_people.sql to z_countries.people.sql</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/9e4c7712424d27934b72defff0b28de0305eef97" title="2023-08-11T15:22:59.000+02:00" target="_blank">9e4c7712</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] typo</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/b22ddc5f960b9a95a1e99bf1bb391c57667dab48" title="2023-08-11T14:27:10.000+02:00" target="_blank">b22ddc5f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[feature] conversion</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/82f403f05bb16246a21df3e231af8cfed0895350" title="2023-08-11T14:26:57.000+02:00" target="_blank">82f403f0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[fix] ortho</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/974739b8bb4a16dd4451019ac3430633a3cce661" title="2023-08-11T10:42:32.000+02:00" target="_blank">974739b8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>Revert "[fix] $ sign"
+Read the `list.json` file to generate the XML files that can be used
+in the `<link rel="search" type="application/opensearchdescription+xml"
+...` metadata.
 
-This reverts commit 23a63eb15ff5bc9fa5b8d1ca3b2098e83d48a6e9.</pre>
+Also generate a `index.html` file that list all the OpenSearch present,
+and reference them in the header (`link rel="search"`).
+
+Use inline data image for now.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/cfc_exam_first_year/commits/749cfe70c50635d8a964adc6a363ff13f9e6bb26" title="2023-08-11T10:38:42.000+02:00" target="_blank">749cfe70</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/cfc_exam_first_year" title="null">/cfc_exam_first_year</a></strong></div>
-          <pre>[doc] Connaissances générales</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/e5f7080dc4865aff2a4893a9fd2687e603df8030" title="2023-11-10T16:06:47.000+01:00" target="_blank">e5f7080d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[feature] add favicon(s) (#23)
+
+Fixes #20</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/38fc47b3902918949cded9b49dbd2575f5430df3" title="2023-11-10T14:42:22.000+01:00" target="_blank">38fc47b3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[feature] ensure minimal node version (>20) (#21)
+
+#fixes #18</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/8e8bacbb0f6c935c3c11dcf96c9d1cdd4fac80f0" title="2023-11-08T10:12:55.000+01:00" target="_blank">8e8bacbb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[feature] smart search
+
+This commit bring a new search bar that allow users to enter keyword to
+choose type of search. For now it is hard coded and includes:
+* `?` for Google
+* `g` for Go EPFL
+* `m` for EPFL Map
+* `p` for EPFL People
+* `sn` for ServiceNow
+* `u` for EPFL Units
+
+The <kbd>Esc</kbd> key clear the search input.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/a44c7d8c0afffdb290ee81eb804cf410a19105dd" title="2023-11-01T23:11:34.000+01:00" target="_blank">a44c7d8c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[feature] catalog page
+
+A basic list of EPFL services and links.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/c106e3285f0ae757886924af42fa8f215a1651a0" title="2023-11-01T22:56:35.000+01:00" target="_blank">c106e328</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[fix] nodemon for ejs file
+
+This commit add the `nodemonConfig` in the `package.json` in order that 
+nodemon watch ejs file too.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/421d94f201c8f9c242a135bda9de110e04b01bf3" title="2023-11-01T22:42:25.000+01:00" target="_blank">421d94f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[feature] data from EPFL Arrival
+
+See issues from https://github.com/ponsfrilus/EPFLArrival/ for more 
+services to add here.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/511a37330a18dd68a6a4fc6ec8f1cc8d17833a54" title="2023-11-01T22:41:28.000+01:00" target="_blank">511a3733</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[feature] CHANGELOG, CONTRIBUTING and DEVELOPMENT</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/570b00ded0180c360a8e824340e5e6be60774aff" title="2023-11-01T14:58:29.000+01:00" target="_blank">570b00de</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[hello] startpage.epfl.ch</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 21 Nov 2023 13:45:14 GMT</small>
+<small>⏰ Updated on Wed, 22 Nov 2023 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
