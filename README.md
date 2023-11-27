@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/searchplugins/commits/24c3f79afc533a54d211740e10a66537b8683dfd" title="2023-11-25T12:28:30.000+01:00" target="_blank">24c3f79a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/searchplugins" title="A collection of search plugins for EPFL using OpenSearch.">/searchplugins</a></strong></div>
+          <pre>[doc] How to add and use them</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/7c74f41f6a8a806295d256574b1261192585d982" title="2023-11-22T16:13:15.000+01:00" target="_blank">7c74f41f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
           <pre>[feature] `--clear` tag
 
@@ -179,19 +184,11 @@ A basic list of EPFL services and links.</pre>
 This commit add the `nodemonConfig` in the `package.json` in order that 
 nodemon watch ejs file too.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/421d94f201c8f9c242a135bda9de110e04b01bf3" title="2023-11-01T22:42:25.000+01:00" target="_blank">421d94f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] data from EPFL Arrival
-
-See issues from https://github.com/ponsfrilus/EPFLArrival/ for more 
-services to add here.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 24 Nov 2023 13:45:12 GMT</small>
+<small>⏰ Updated on Mon, 27 Nov 2023 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
