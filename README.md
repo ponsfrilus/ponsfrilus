@@ -188,7 +188,7 @@ nodemon watch ejs file too.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 27 Nov 2023 13:45:12 GMT</small>
+<small>⏰ Updated on Tue, 28 Nov 2023 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
