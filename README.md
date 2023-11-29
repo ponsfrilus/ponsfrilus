@@ -103,8 +103,18 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c28ed2d73a66469efc483da3feb58e0a2704814f" title="2023-11-28T18:49:12.000+01:00" target="_blank">c28ed2d7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[secrets] Terminal ID and user information for saferpay</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/searchplugins/commits/24c3f79afc533a54d211740e10a66537b8683dfd" title="2023-11-25T12:28:30.000+01:00" target="_blank">24c3f79a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/searchplugins" title="A collection of search plugins for EPFL using OpenSearch.">/searchplugins</a></strong></div>
           <pre>[doc] How to add and use them</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c01db92ea57b6538883b01bac6c34e48ca4b3d9c" title="2023-11-24T10:44:09.000+01:00" target="_blank">c01db92e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] update to latest WPForms plugin (v1.8.5.2)</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -169,26 +179,11 @@ choose type of search. For now it is hard coded and includes:
 
 The <kbd>Esc</kbd> key clear the search input.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/a44c7d8c0afffdb290ee81eb804cf410a19105dd" title="2023-11-01T23:11:34.000+01:00" target="_blank">a44c7d8c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] catalog page
-
-A basic list of EPFL services and links.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/c106e3285f0ae757886924af42fa8f215a1651a0" title="2023-11-01T22:56:35.000+01:00" target="_blank">c106e328</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[fix] nodemon for ejs file
-
-This commit add the `nodemonConfig` in the `package.json` in order that 
-nodemon watch ejs file too.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 28 Nov 2023 13:45:11 GMT</small>
+<small>⏰ Updated on Wed, 29 Nov 2023 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
