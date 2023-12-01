@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 13 years and 10 months.
+    <br />Apparently, I'm hanging around on GitHub since 13 years and 11 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -29,6 +29,40 @@
 <td colspan="2" align="center"><h4>My last starred repos</h4></td>
 </tr>
 <tr>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/Yuchen413/text2image_safety" title="null" target="_blank">text2image_safety</a>&nbsp;<a href="https://github.com/Yuchen413/text2image_safety" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Yuchen413/text2image_safety?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/fastify/fastify" title="Fast and low overhead web framework, for Node.js" target="_blank">fastify</a>&nbsp;<a href="https://github.com/fastify/fastify" title="Fast and low overhead web framework, for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/fastify/fastify?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/pharring/EditorGuidelines" title="A Visual Studio extension that adds vertical column guides to the text editor" target="_blank">EditorGuidelines</a>&nbsp;<a href="https://github.com/pharring/EditorGuidelines" title="A Visual Studio extension that adds vertical column guides to the text editor" target="_blank"><img src="https://img.shields.io/github/stars/pharring/EditorGuidelines?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/satosa-tequila" title="Tequila OpenID-Connect (OIDC) bridge as-a-service, built on top of SATOSA" target="_blank">satosa-tequila</a>&nbsp;<a href="https://github.com/epfl-si/satosa-tequila" title="Tequila OpenID-Connect (OIDC) bridge as-a-service, built on top of SATOSA" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/satosa-tequila?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank">opentofu</a>&nbsp;<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank"><img src="https://img.shields.io/github/stars/opentofu/opentofu?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank">cours-linux-shell</a>&nbsp;<a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank"><img src="https://img.shields.io/github/stars/ahpnils/cours-linux-shell?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank">learnhouse</a>&nbsp;<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank"><img src="https://img.shields.io/github/stars/learnhouse/learnhouse?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank">kosmonaut</a>&nbsp;<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank"><img src="https://img.shields.io/github/stars/twilco/kosmonaut?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank">contour</a>&nbsp;<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank"><img src="https://img.shields.io/github/stars/contour-terminal/contour?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank">saber</a>&nbsp;<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank"><img src="https://img.shields.io/github/stars/saber-notes/saber?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
 <td valign="top">
 <ul>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/fastify/fastify" title="Fast and low overhead web framework, for Node.js" target="_blank">fastify</a>&nbsp;<a href="https://github.com/fastify/fastify" title="Fast and low overhead web framework, for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/fastify/fastify?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pharring/EditorGuidelines" title="A Visual Studio extension that adds vertical column guides to the text editor" target="_blank">EditorGuidelines</a>&nbsp;<a href="https://github.com/pharring/EditorGuidelines" title="A Visual Studio extension that adds vertical column guides to the text editor" target="_blank"><img src="https://img.shields.io/github/stars/pharring/EditorGuidelines?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/satosa-tequila" title="Tequila OpenID-Connect (OIDC) bridge as-a-service, built on top of SATOSA" target="_blank">satosa-tequila</a>&nbsp;<a href="https://github.com/epfl-si/satosa-tequila" title="Tequila OpenID-Connect (OIDC) bridge as-a-service, built on top of SATOSA" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/satosa-tequila?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank">opentofu</a>&nbsp;<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank"><img src="https://img.shields.io/github/stars/opentofu/opentofu?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank">cours-linux-shell</a>&nbsp;<a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank"><img src="https://img.shields.io/github/stars/ahpnils/cours-linux-shell?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank">learnhouse</a>&nbsp;<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank"><img src="https://img.shields.io/github/stars/learnhouse/learnhouse?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank">kosmonaut</a>&nbsp;<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank"><img src="https://img.shields.io/github/stars/twilco/kosmonaut?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank">contour</a>&nbsp;<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank"><img src="https://img.shields.io/github/stars/contour-terminal/contour?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank">saber</a>&nbsp;<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank"><img src="https://img.shields.io/github/stars/saber-notes/saber?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank">openmoji</a>&nbsp;<a href="https://github.com/hfg-gmuend/openmoji" title="Open source emojis for designers, developers and everyone else!" target="_blank"><img src="https://img.shields.io/github/stars/hfg-gmuend/openmoji?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/29431e183ff3f9153f086be73ed8e1d232eb5a54" title="2023-11-30T15:16:49.000+01:00" target="_blank">29431e18</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
+          <pre>[hotfix] domains path</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c28ed2d73a66469efc483da3feb58e0a2704814f" title="2023-11-28T18:49:12.000+01:00" target="_blank">c28ed2d7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[secrets] Terminal ID and user information for saferpay</pre>
@@ -115,6 +120,15 @@
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c01db92ea57b6538883b01bac6c34e48ca4b3d9c" title="2023-11-24T10:44:09.000+01:00" target="_blank">c01db92e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[feature] update to latest WPForms plugin (v1.8.5.2)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/7c74f41f6a8a806295d256574b1261192585d982" title="2023-11-22T16:13:15.000+01:00" target="_blank">7c74f41f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
+          <pre>[feature] `--clear` tag
+
+Use `./getFormsData.sh --clear` to remove any existing files that would 
+be generated by the script.
+Also add some output logs.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -137,38 +151,28 @@ Use inline data image for now.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/Pancake-Bot/commits/aa532a4c29b9efa8bb98bcaf062e82367498e067" title="2023-10-27T12:43:46.000+02:00" target="_blank">aa532a4c</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/Pancake-Bot" title="This is a Telegram bot for team ISAS-FSD">/Pancake-Bot</a></strong></div>
-          <pre>[feature] cheers in many languages</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/2a5503a213f92fabcfa242f63d45825d7feffb53" title="2023-11-14T13:20:20.000+01:00" target="_blank">2a5503a2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
+          <pre>[feature] new datawrapper IDs (INC0594426)</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/Pancake-Bot/commits/067457897e4435587160999ab8fff3bc6b3d3f60" title="2023-10-27T12:34:13.000+02:00" target="_blank">06745789</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/Pancake-Bot" title="This is a Telegram bot for team ISAS-FSD">/Pancake-Bot</a></strong></div>
-          <pre>[feature] now you can drink a whisky!</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/Pancake-Bot/commits/55e2c501c6dc0ca0ac8fe71efb4a812610d7e234" title="2023-10-04T18:08:05.000+02:00" target="_blank">55e2c501</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/Pancake-Bot" title="This is a Telegram bot for team ISAS-FSD">/Pancake-Bot</a></strong></div>
-          <pre>[Fix] Repo URL in the `/start` command</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/761e4c825969b830c7abfcb4550158238723cc97" title="2023-10-02T12:25:43.000+02:00" target="_blank">761e4c82</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
-          <pre>[doc] Rewriting/rephrasing</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline/commits/b860a5d0c82d23d20ab3416e13a92cc1a2bed514" title="2023-09-13T17:11:06.000+02:00" target="_blank">b860a5d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline" title="payonline.epfl.ch, the payment multiplexing system in use at EPFL">/payonline</a></strong></div>
-          <pre>[unfeature] Discontinued message
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/e5f7080dc4865aff2a4893a9fd2687e603df8030" title="2023-11-10T16:06:47.000+01:00" target="_blank">e5f7080d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[feature] add favicon(s) (#23)
 
-Starting in 2024, it will no longer be possible to use PayOnline.
-Our contract with PostFinance is coming to an end, and payments will
-now be processed through Wordline's SaferPay.</pre>
+Fixes #20</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/38fc47b3902918949cded9b49dbd2575f5430df3" title="2023-11-10T14:42:22.000+01:00" target="_blank">38fc47b3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[feature] ensure minimal node version (>20) (#21)
+
+#fixes #18</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 30 Nov 2023 13:45:12 GMT</small>
+<small>⏰ Updated on Fri, 01 Dec 2023 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
