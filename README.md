@@ -32,6 +32,46 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/excalidraw/excalidraw" title="Virtual whiteboard for sketching hand-drawn like diagrams" target="_blank">excalidraw</a>&nbsp;<a href="https://github.com/excalidraw/excalidraw" title="Virtual whiteboard for sketching hand-drawn like diagrams" target="_blank"><img src="https://img.shields.io/github/stars/excalidraw/excalidraw?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/AmrDeveloper/GQL" title=" Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions" target="_blank">GQL</a>&nbsp;<a href="https://github.com/AmrDeveloper/GQL" title=" Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions" target="_blank"><img src="https://img.shields.io/github/stars/AmrDeveloper/GQL?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/GraphiteEditor/Graphite" title="2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow." target="_blank">Graphite</a>&nbsp;<a href="https://github.com/GraphiteEditor/Graphite" title="2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow." target="_blank"><img src="https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/We5ter/Awesome-DevSecOps-Platforms" title="A curated list of awesome security platforms,including CTF/Security Response Center/Bug Tracker and so on." target="_blank">Awesome-DevSecOps-Platforms</a>&nbsp;<a href="https://github.com/We5ter/Awesome-DevSecOps-Platforms" title="A curated list of awesome security platforms,including CTF/Security Response Center/Bug Tracker and so on." target="_blank"><img src="https://img.shields.io/github/stars/We5ter/Awesome-DevSecOps-Platforms?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/picocss/pico" title="Minimal CSS Framework for semantic HTML" target="_blank">pico</a>&nbsp;<a href="https://github.com/picocss/pico" title="Minimal CSS Framework for semantic HTML" target="_blank"><img src="https://img.shields.io/github/stars/picocss/pico?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/google/blockly-games" title="Games for tomorrow's programmers." target="_blank">blockly-games</a>&nbsp;<a href="https://github.com/google/blockly-games" title="Games for tomorrow's programmers." target="_blank"><img src="https://img.shields.io/github/stars/google/blockly-games?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/emilybache/GildedRose-Refactoring-Kata" title="Starting code for the GildedRose Refactoring Kata in many programming languages." target="_blank">GildedRose-Refactoring-Kata</a>&nbsp;<a href="https://github.com/emilybache/GildedRose-Refactoring-Kata" title="Starting code for the GildedRose Refactoring Kata in many programming languages." target="_blank"><img src="https://img.shields.io/github/stars/emilybache/GildedRose-Refactoring-Kata?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gosub-browser/gosub-engine" title="A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions" target="_blank">gosub-engine</a>&nbsp;<a href="https://github.com/gosub-browser/gosub-engine" title="A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions" target="_blank"><img src="https://img.shields.io/github/stars/gosub-browser/gosub-engine?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch" target="_blank">startpage</a>&nbsp;<a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/startpage?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gethomepage/homepage" title="A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations." target="_blank">homepage</a>&nbsp;<a href="https://github.com/gethomepage/homepage" title="A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations." target="_blank"><img src="https://img.shields.io/github/stars/gethomepage/homepage?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank">LibreChat</a>&nbsp;<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank"><img src="https://img.shields.io/github/stars/danny-avila/LibreChat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/InputGameReact" title="null" target="_blank">InputGameReact</a>&nbsp;<a href="https://github.com/dwesh163/InputGameReact" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/InputGameReact?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/Yuchen413/text2image_safety" title="null" target="_blank">text2image_safety</a>&nbsp;<a href="https://github.com/Yuchen413/text2image_safety" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Yuchen413/text2image_safety?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -55,46 +95,6 @@
 <li>
 <a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank">kosmonaut</a>&nbsp;<a href="https://github.com/twilco/kosmonaut" title="A web browser engine for the space age :rocket:" target="_blank"><img src="https://img.shields.io/github/stars/twilco/kosmonaut?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank">contour</a>&nbsp;<a href="https://github.com/contour-terminal/contour" title="Modern C++ Terminal Emulator" target="_blank"><img src="https://img.shields.io/github/stars/contour-terminal/contour?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank">saber</a>&nbsp;<a href="https://github.com/saber-notes/saber" title="A (work-in-progress) cross-platform libre handwritten notes app" target="_blank"><img src="https://img.shields.io/github/stars/saber-notes/saber?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/We5ter/Awesome-DevSecOps-Platforms" title="A curated list of awesome security platforms,including CTF/Security Response Center/Bug Tracker and so on." target="_blank">Awesome-DevSecOps-Platforms</a>&nbsp;<a href="https://github.com/We5ter/Awesome-DevSecOps-Platforms" title="A curated list of awesome security platforms,including CTF/Security Response Center/Bug Tracker and so on." target="_blank"><img src="https://img.shields.io/github/stars/We5ter/Awesome-DevSecOps-Platforms?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/picocss/pico" title="Minimal CSS Framework for semantic HTML" target="_blank">pico</a>&nbsp;<a href="https://github.com/picocss/pico" title="Minimal CSS Framework for semantic HTML" target="_blank"><img src="https://img.shields.io/github/stars/picocss/pico?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/google/blockly-games" title="Games for tomorrow's programmers." target="_blank">blockly-games</a>&nbsp;<a href="https://github.com/google/blockly-games" title="Games for tomorrow's programmers." target="_blank"><img src="https://img.shields.io/github/stars/google/blockly-games?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/emilybache/GildedRose-Refactoring-Kata" title="Starting code for the GildedRose Refactoring Kata in many programming languages." target="_blank">GildedRose-Refactoring-Kata</a>&nbsp;<a href="https://github.com/emilybache/GildedRose-Refactoring-Kata" title="Starting code for the GildedRose Refactoring Kata in many programming languages." target="_blank"><img src="https://img.shields.io/github/stars/emilybache/GildedRose-Refactoring-Kata?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gosub-browser/gosub-engine" title="A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions" target="_blank">gosub-engine</a>&nbsp;<a href="https://github.com/gosub-browser/gosub-engine" title="A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions" target="_blank"><img src="https://img.shields.io/github/stars/gosub-browser/gosub-engine?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch" target="_blank">startpage</a>&nbsp;<a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/startpage?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gethomepage/homepage" title="A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations." target="_blank">homepage</a>&nbsp;<a href="https://github.com/gethomepage/homepage" title="A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations." target="_blank"><img src="https://img.shields.io/github/stars/gethomepage/homepage?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/httpie/desktop" title="🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs." target="_blank">desktop</a>&nbsp;<a href="https://github.com/httpie/desktop" title="🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs." target="_blank"><img src="https://img.shields.io/github/stars/httpie/desktop?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/usebruno/bruno" title="Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)" target="_blank">bruno</a>&nbsp;<a href="https://github.com/usebruno/bruno" title="Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)" target="_blank"><img src="https://img.shields.io/github/stars/usebruno/bruno?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL" target="_blank">fiche-de-stage-WordPress</a>&nbsp;<a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/fiche-de-stage-WordPress?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -103,6 +103,33 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGameReact/commits/ece4a7d958d737bf14a3641788502c8c3377187a" title="2023-12-02T10:41:45.000+01:00" target="_blank">ece4a7d9</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGameReact" title="null">/InputGameReact</a></strong></div>
+          <pre>[feature] allow spaces in input
+
+This closes https://github.com/dwesh163/InputGameReact/issues/11</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGameReact/commits/0f79da960e790ae2c7baa64694d3842dc0254c36" title="2023-12-02T10:37:41.000+01:00" target="_blank">0f79da96</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGameReact" title="null">/InputGameReact</a></strong></div>
+          <pre>[refactor] use the public folder for all CSS and images</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGameReact/commits/969b1e97379d4d5b7506e46c4d3d05c3dfbea633" title="2023-12-02T10:21:04.000+01:00" target="_blank">969b1e97</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGameReact" title="null">/InputGameReact</a></strong></div>
+          <pre>[doc] README.md updated</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGameReact/commits/5c146bc0e57fcf0c7f38724c053c01583d886cc7" title="2023-12-02T10:20:39.000+01:00" target="_blank">5c146bc0</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGameReact" title="null">/InputGameReact</a></strong></div>
+          <pre>[chore] unused Dockerfile removed</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGameReact/commits/4bbbbe10448339ded3b450650223b3772428330d" title="2023-12-02T10:17:57.000+01:00" target="_blank">4bbbbe10</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGameReact" title="null">/InputGameReact</a></strong></div>
+          <pre>[feature] deploy GH pages</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/29431e183ff3f9153f086be73ed8e1d232eb5a54" title="2023-11-30T15:16:49.000+01:00" target="_blank">29431e18</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
           <pre>[hotfix] domains path</pre>
         </td>
@@ -110,11 +137,6 @@
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c28ed2d73a66469efc483da3feb58e0a2704814f" title="2023-11-28T18:49:12.000+01:00" target="_blank">c28ed2d7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[secrets] Terminal ID and user information for saferpay</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/searchplugins/commits/24c3f79afc533a54d211740e10a66537b8683dfd" title="2023-11-25T12:28:30.000+01:00" target="_blank">24c3f79a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/searchplugins" title="A collection of search plugins for EPFL using OpenSearch.">/searchplugins</a></strong></div>
-          <pre>[doc] How to add and use them</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -132,47 +154,14 @@ Also add some output logs.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/searchplugins/commits/e4da649c01a3595818142562dcaef8e8f9dbe762" title="2023-11-20T18:14:18.000+01:00" target="_blank">e4da649c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/searchplugins" title="A collection of search plugins for EPFL using OpenSearch.">/searchplugins</a></strong></div>
-          <pre>[feature] GitHub pages</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/searchplugins/commits/3a95e873a6dc40b72521480568a65cc73a8d4043" title="2023-11-20T17:33:44.000+01:00" target="_blank">3a95e873</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/searchplugins" title="A collection of search plugins for EPFL using OpenSearch.">/searchplugins</a></strong></div>
-          <pre>[feature] generate XML and preview page
-
-Read the `list.json` file to generate the XML files that can be used
-in the `<link rel="search" type="application/opensearchdescription+xml"
-...` metadata.
-
-Also generate a `index.html` file that list all the OpenSearch present,
-and reference them in the header (`link rel="search"`).
-
-Use inline data image for now.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/2a5503a213f92fabcfa242f63d45825d7feffb53" title="2023-11-14T13:20:20.000+01:00" target="_blank">2a5503a2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
           <pre>[feature] new datawrapper IDs (INC0594426)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/e5f7080dc4865aff2a4893a9fd2687e603df8030" title="2023-11-10T16:06:47.000+01:00" target="_blank">e5f7080d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] add favicon(s) (#23)
-
-Fixes #20</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/38fc47b3902918949cded9b49dbd2575f5430df3" title="2023-11-10T14:42:22.000+01:00" target="_blank">38fc47b3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] ensure minimal node version (>20) (#21)
-
-#fixes #18</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 01 Dec 2023 13:45:11 GMT</small>
+<small>⏰ Updated on Mon, 04 Dec 2023 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
