@@ -161,7 +161,7 @@ When sharing a URL for a choice with 2 spaces (e.g. "Gymnase de Nyon"), only the
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 05 Dec 2023 13:45:11 GMT</small>
+<small>⏰ Updated on Wed, 06 Dec 2023 13:45:09 GMT</small>
 </td>
 </tr>
 </tfoot>
