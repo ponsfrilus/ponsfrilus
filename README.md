@@ -103,10 +103,8 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop/commits/c95a6ccc9498ef67fe3b1c7b7b871a1c842f286d" title="2023-12-05T11:03:08.000+01:00" target="_blank">c95a6ccc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees">/ticketshop</a></strong></div>
-          <pre>[feature] tickshop deactivated
-
-Bump to v1.6.0</pre>
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGameReact/commits/c3d6dfdb0d9b3dcea088c2dfb5b69428f50387d3" title="2023-12-05T19:25:06.000+01:00" target="_blank">c3d6dfdb</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGameReact" title="null">/InputGameReact</a></strong></div>
+          <pre>[data] HTML element list with URL and description</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -154,14 +152,14 @@ When sharing a URL for a choice with 2 spaces (e.g. "Gymnase de Nyon"), only the
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c28ed2d73a66469efc483da3feb58e0a2704814f" title="2023-11-28T18:49:12.000+01:00" target="_blank">c28ed2d7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ef7261e30c6268fa169f0f1c219afd5fd6b7791d" title="2023-11-28T18:49:12.000+01:00" target="_blank">ef7261e3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[secrets] Terminal ID and user information for saferpay</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 06 Dec 2023 13:45:09 GMT</small>
+<small>⏰ Updated on Thu, 07 Dec 2023 13:45:14 GMT</small>
 </td>
 </tr>
 </tfoot>
