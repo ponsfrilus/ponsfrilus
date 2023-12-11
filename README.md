@@ -103,6 +103,41 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/f86d53ec288a639846d234ed73bf4dd4175b01e3" title="2023-12-11T09:24:53.000+01:00" target="_blank">f86d53ec</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[doc] improvements</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b8d3cbfd202ca10ac6a54c4c0eb6b8f70f57e9c8" title="2023-12-11T09:05:26.000+01:00" target="_blank">b8d3cbfd</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[doc] new attestation example</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/a0fd7bb6fb227d17ddc09e89cfa1e651191688b6" title="2023-12-11T09:04:56.000+01:00" target="_blank">a0fd7bb6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] exemples</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b19a953fda73d809492077d791a6f4c3b7a73d9e" title="2023-12-11T08:56:15.000+01:00" target="_blank">b19a953f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] more mails</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/802612ca4856718441eccfce7952403eaa9c9892" title="2023-12-11T08:53:08.000+01:00" target="_blank">802612ca</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] more activities</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/84268bfca9c5e8c61ca8d51638b156eb05851026" title="2023-12-11T08:52:49.000+01:00" target="_blank">84268bfc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[date] decembre</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/8071864cd91fa27eb1b52ec9a50acdd4ddfe6352" title="2023-12-11T08:50:39.000+01:00" target="_blank">8071864c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] formation apprenti·e·s</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/dwesh163/InputGameReact/commits/c3d6dfdb0d9b3dcea088c2dfb5b69428f50387d3" title="2023-12-05T19:25:06.000+01:00" target="_blank">c3d6dfdb</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGameReact" title="null">/InputGameReact</a></strong></div>
           <pre>[data] HTML element list with URL and description</pre>
         </td>
@@ -120,48 +155,11 @@ Bump to v1.6.0</pre>
 
 This closes https://github.com/dwesh163/InputGameReact/issues/11</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGameReact/commits/0f79da960e790ae2c7baa64694d3842dc0254c36" title="2023-12-02T10:37:41.000+01:00" target="_blank">0f79da96</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGameReact" title="null">/InputGameReact</a></strong></div>
-          <pre>[refactor] use the public folder for all CSS and images</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGameReact/commits/969b1e97379d4d5b7506e46c4d3d05c3dfbea633" title="2023-12-02T10:21:04.000+01:00" target="_blank">969b1e97</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGameReact" title="null">/InputGameReact</a></strong></div>
-          <pre>[doc] README.md updated</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGameReact/commits/5c146bc0e57fcf0c7f38724c053c01583d886cc7" title="2023-12-02T10:20:39.000+01:00" target="_blank">5c146bc0</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGameReact" title="null">/InputGameReact</a></strong></div>
-          <pre>[chore] unused Dockerfile removed</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGameReact/commits/4bbbbe10448339ded3b450650223b3772428330d" title="2023-12-02T10:17:57.000+01:00" target="_blank">4bbbbe10</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGameReact" title="null">/InputGameReact</a></strong></div>
-          <pre>[feature] deploy GH pages</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/NextPause/commits/b5a2e01ca9d6fc68f7d6a3a837238fa035afbd8f" title="2023-12-01T18:02:42.000+01:00" target="_blank">b5a2e01c</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/NextPause" title="null">/NextPause</a></strong></div>
-          <pre>[Bescherelle] s/copier/copié</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/NextPause/commits/7f7ed1ee82be1e93c6189e954407db695f5465c0" title="2023-12-01T17:59:44.000+01:00" target="_blank">7f7ed1ee</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/NextPause" title="null">/NextPause</a></strong></div>
-          <pre>[fix] encode URI for sharing
-
-When sharing a URL for a choice with 2 spaces (e.g. "Gymnase de Nyon"), only the first space was replaced (use `.replace()` instead of `.replaceAll()`). Either ways the better way to do it is to use the [encodeURI](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURI) function, as in this commit.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/29431e183ff3f9153f086be73ed8e1d232eb5a54" title="2023-11-30T15:16:49.000+01:00" target="_blank">29431e18</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
-          <pre>[hotfix] domains path</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 08 Dec 2023 13:45:10 GMT</small>
+<small>⏰ Updated on Mon, 11 Dec 2023 13:45:09 GMT</small>
 </td>
 </tr>
 </tfoot>
