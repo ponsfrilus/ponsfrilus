@@ -66,10 +66,10 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank">LibreChat</a>&nbsp;<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, PaLM 2, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank"><img src="https://img.shields.io/github/stars/danny-avila/LibreChat?style=social" alt="GitHub"></a>
+<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank">LibreChat</a>&nbsp;<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank"><img src="https://img.shields.io/github/stars/danny-avila/LibreChat?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/dwesh163/InputGameReact" title="null" target="_blank">InputGameReact</a>&nbsp;<a href="https://github.com/dwesh163/InputGameReact" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/InputGameReact?style=social" alt="GitHub"></a>
+<a href="https://github.com/dwesh163/InputGame" title="null" target="_blank">InputGame</a>&nbsp;<a href="https://github.com/dwesh163/InputGame" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/InputGame?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/Yuchen413/text2image_safety" title="null" target="_blank">text2image_safety</a>&nbsp;<a href="https://github.com/Yuchen413/text2image_safety" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Yuchen413/text2image_safety?style=social" alt="GitHub"></a>
@@ -138,7 +138,7 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGameReact/commits/c3d6dfdb0d9b3dcea088c2dfb5b69428f50387d3" title="2023-12-05T19:25:06.000+01:00" target="_blank">c3d6dfdb</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGameReact" title="null">/InputGameReact</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/c3d6dfdb0d9b3dcea088c2dfb5b69428f50387d3" title="2023-12-05T19:25:06.000+01:00" target="_blank">c3d6dfdb</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
           <pre>[data] HTML element list with URL and description</pre>
         </td>
         </tr><tr>
@@ -150,7 +150,7 @@ Bump to v1.6.0</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGameReact/commits/ece4a7d958d737bf14a3641788502c8c3377187a" title="2023-12-02T10:41:45.000+01:00" target="_blank">ece4a7d9</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGameReact" title="null">/InputGameReact</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/ece4a7d958d737bf14a3641788502c8c3377187a" title="2023-12-02T10:41:45.000+01:00" target="_blank">ece4a7d9</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
           <pre>[feature] allow spaces in input
 
 This closes https://github.com/dwesh163/InputGameReact/issues/11</pre>
@@ -159,7 +159,7 @@ This closes https://github.com/dwesh163/InputGameReact/issues/11</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 11 Dec 2023 13:45:09 GMT</small>
+<small>⏰ Updated on Tue, 12 Dec 2023 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
