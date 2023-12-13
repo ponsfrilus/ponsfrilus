@@ -138,11 +138,6 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/c3d6dfdb0d9b3dcea088c2dfb5b69428f50387d3" title="2023-12-05T19:25:06.000+01:00" target="_blank">c3d6dfdb</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
-          <pre>[data] HTML element list with URL and description</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop/commits/c95a6ccc9498ef67fe3b1c7b7b871a1c842f286d" title="2023-12-05T11:03:08.000+01:00" target="_blank">c95a6ccc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees">/ticketshop</a></strong></div>
           <pre>[feature] tickshop deactivated
 
@@ -150,16 +145,19 @@ Bump to v1.6.0</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/ece4a7d958d737bf14a3641788502c8c3377187a" title="2023-12-02T10:41:45.000+01:00" target="_blank">ece4a7d9</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
-          <pre>[feature] allow spaces in input
-
-This closes https://github.com/dwesh163/InputGameReact/issues/11</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/29431e183ff3f9153f086be73ed8e1d232eb5a54" title="2023-11-30T15:16:49.000+01:00" target="_blank">29431e18</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
+          <pre>[hotfix] domains path</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/searchplugins/commits/24c3f79afc533a54d211740e10a66537b8683dfd" title="2023-11-25T12:28:30.000+01:00" target="_blank">24c3f79a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/searchplugins" title="A collection of search plugins for EPFL using OpenSearch.">/searchplugins</a></strong></div>
+          <pre>[doc] How to add and use them</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 12 Dec 2023 13:45:15 GMT</small>
+<small>⏰ Updated on Wed, 13 Dec 2023 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
