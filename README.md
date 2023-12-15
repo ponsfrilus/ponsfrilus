@@ -66,7 +66,7 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank">LibreChat</a>&nbsp;<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank"><img src="https://img.shields.io/github/stars/danny-avila/LibreChat?style=social" alt="GitHub"></a>
+<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank">LibreChat</a>&nbsp;<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank"><img src="https://img.shields.io/github/stars/danny-avila/LibreChat?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/dwesh163/InputGame" title="null" target="_blank">InputGame</a>&nbsp;<a href="https://github.com/dwesh163/InputGame" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/InputGame?style=social" alt="GitHub"></a>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 14 Dec 2023 13:45:10 GMT</small>
+<small>⏰ Updated on Fri, 15 Dec 2023 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
