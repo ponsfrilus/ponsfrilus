@@ -103,20 +103,25 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/51feac6c7e0b32410d22634ae7d8d781904ff0f3" title="2023-12-18T16:44:01.000+01:00" target="_blank">51feac6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
+          <pre>[doc] more explicite usage + getWPFormsInfo</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/0695a18d9f24254ebbadaca34ff45ff7e8158cdc" title="2023-12-18T12:39:00.000+01:00" target="_blank">0695a18d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
+          <pre>[log] number of sites</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/9d4c21a2a947d5b65a44b7b19fcf89286d4aebe1" title="2023-12-18T12:38:23.000+01:00" target="_blank">9d4c21a2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
+          <pre>[refactor] with ShellCheck.net</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-APOD/commits/11f909e60b127802266abf3a7e9e5f57f0aa1c03" title="2023-12-18T10:19:43.000+01:00" target="_blank">11f909e6</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-APOD" title="Kata : création d'un navigateur d'APOD (Astronomy Picture of the Day)">/kata-APOD</a></strong></div>
           <pre>Merge pull request #3 from epfl-dojo/dwesh163-patch-1
 
 Update README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/7684012e60ed342d8fcc637be5ed431703af2e26" title="2023-12-12T19:23:48.000+01:00" target="_blank">7684012e</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
-          <pre>[feature] dynamic version number</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/b7b2d382019312701dc49c6a8427d75df4a5028b" title="2023-12-12T19:23:34.000+01:00" target="_blank">b7b2d382</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
-          <pre>[feature] new game: syscalls</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -148,16 +153,11 @@ Update README.md</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/84268bfca9c5e8c61ca8d51638b156eb05851026" title="2023-12-11T08:52:49.000+01:00" target="_blank">84268bfc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[date] decembre</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/8071864cd91fa27eb1b52ec9a50acdd4ddfe6352" title="2023-12-11T08:50:39.000+01:00" target="_blank">8071864c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] formation apprenti·e·s</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 18 Dec 2023 13:45:10 GMT</small>
+<small>⏰ Updated on Tue, 19 Dec 2023 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
