@@ -125,6 +125,16 @@ Update README.md</pre>
         </td>
         </tr><tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/7684012e60ed342d8fcc637be5ed431703af2e26" title="2023-12-12T19:23:48.000+01:00" target="_blank">7684012e</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
+          <pre>[feature] dynamic version number</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/b7b2d382019312701dc49c6a8427d75df4a5028b" title="2023-12-12T19:23:34.000+01:00" target="_blank">b7b2d382</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
+          <pre>[feature] new game: syscalls</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/f86d53ec288a639846d234ed73bf4dd4175b01e3" title="2023-12-11T09:24:53.000+01:00" target="_blank">f86d53ec</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[doc] improvements</pre>
         </td>
@@ -143,21 +153,11 @@ Update README.md</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b19a953fda73d809492077d791a6f4c3b7a73d9e" title="2023-12-11T08:56:15.000+01:00" target="_blank">b19a953f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[feature] more mails</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/802612ca4856718441eccfce7952403eaa9c9892" title="2023-12-11T08:53:08.000+01:00" target="_blank">802612ca</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature] more activities</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/84268bfca9c5e8c61ca8d51638b156eb05851026" title="2023-12-11T08:52:49.000+01:00" target="_blank">84268bfc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[date] decembre</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 19 Dec 2023 13:45:11 GMT</small>
+<small>⏰ Updated on Wed, 20 Dec 2023 13:45:24 GMT</small>
 </td>
 </tr>
 </tfoot>
