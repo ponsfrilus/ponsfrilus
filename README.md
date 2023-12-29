@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/51feac6c7e0b32410d22634ae7d8d781904ff0f3" title="2023-12-18T16:44:01.000+01:00" target="_blank">51feac6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
+          <pre>[doc] more explicite usage + getWPFormsInfo</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/0695a18d9f24254ebbadaca34ff45ff7e8158cdc" title="2023-12-18T12:39:00.000+01:00" target="_blank">0695a18d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
+          <pre>[log] number of sites</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/9d4c21a2a947d5b65a44b7b19fcf89286d4aebe1" title="2023-12-18T12:38:23.000+01:00" target="_blank">9d4c21a2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
+          <pre>[refactor] with ShellCheck.net</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-APOD/commits/11f909e60b127802266abf3a7e9e5f57f0aa1c03" title="2023-12-18T10:19:43.000+01:00" target="_blank">11f909e6</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-APOD" title="Kata : création d'un navigateur d'APOD (Astronomy Picture of the Day)">/kata-APOD</a></strong></div>
           <pre>Merge pull request #3 from epfl-dojo/dwesh163-patch-1
 
@@ -110,56 +125,39 @@ Update README.md</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/c3d6dfdb0d9b3dcea088c2dfb5b69428f50387d3" title="2023-12-05T19:25:06.000+01:00" target="_blank">c3d6dfdb</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
-          <pre>[data] HTML element list with URL and description</pre>
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/7684012e60ed342d8fcc637be5ed431703af2e26" title="2023-12-12T19:23:48.000+01:00" target="_blank">7684012e</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
+          <pre>[feature] dynamic version number</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/ece4a7d958d737bf14a3641788502c8c3377187a" title="2023-12-02T10:41:45.000+01:00" target="_blank">ece4a7d9</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
-          <pre>[feature] allow spaces in input
-
-This closes https://github.com/dwesh163/InputGameReact/issues/11</pre>
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/b7b2d382019312701dc49c6a8427d75df4a5028b" title="2023-12-12T19:23:34.000+01:00" target="_blank">b7b2d382</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
+          <pre>[feature] new game: syscalls</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/0f79da960e790ae2c7baa64694d3842dc0254c36" title="2023-12-02T10:37:41.000+01:00" target="_blank">0f79da96</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
-          <pre>[refactor] use the public folder for all CSS and images</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/f86d53ec288a639846d234ed73bf4dd4175b01e3" title="2023-12-11T09:24:53.000+01:00" target="_blank">f86d53ec</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[doc] improvements</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/969b1e97379d4d5b7506e46c4d3d05c3dfbea633" title="2023-12-02T10:21:04.000+01:00" target="_blank">969b1e97</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
-          <pre>[doc] README.md updated</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b8d3cbfd202ca10ac6a54c4c0eb6b8f70f57e9c8" title="2023-12-11T09:05:26.000+01:00" target="_blank">b8d3cbfd</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[doc] new attestation example</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/5c146bc0e57fcf0c7f38724c053c01583d886cc7" title="2023-12-02T10:20:39.000+01:00" target="_blank">5c146bc0</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
-          <pre>[chore] unused Dockerfile removed</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/a0fd7bb6fb227d17ddc09e89cfa1e651191688b6" title="2023-12-11T09:04:56.000+01:00" target="_blank">a0fd7bb6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] exemples</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/4bbbbe10448339ded3b450650223b3772428330d" title="2023-12-02T10:17:57.000+01:00" target="_blank">4bbbbe10</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
-          <pre>[feature] deploy GH pages</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ef7261e30c6268fa169f0f1c219afd5fd6b7791d" title="2023-11-28T18:49:12.000+01:00" target="_blank">ef7261e3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[secrets] Terminal ID and user information for saferpay</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/searchplugins/commits/24c3f79afc533a54d211740e10a66537b8683dfd" title="2023-11-25T12:28:30.000+01:00" target="_blank">24c3f79a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/searchplugins" title="A collection of search plugins for EPFL using OpenSearch.">/searchplugins</a></strong></div>
-          <pre>[doc] How to add and use them</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c01db92ea57b6538883b01bac6c34e48ca4b3d9c" title="2023-11-24T10:44:09.000+01:00" target="_blank">c01db92e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] update to latest WPForms plugin (v1.8.5.2)</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b19a953fda73d809492077d791a6f4c3b7a73d9e" title="2023-12-11T08:56:15.000+01:00" target="_blank">b19a953f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] more mails</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 28 Dec 2023 13:45:11 GMT</small>
+<small>⏰ Updated on Fri, 29 Dec 2023 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
