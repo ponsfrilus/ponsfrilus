@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 13 years and 11 months.
+    <br />Apparently, I'm hanging around on GitHub since 14 years and 0 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -31,6 +31,43 @@
 <tr>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/qmk/qmk_firmware" title="Open-source keyboard firmware for Atmel AVR and Arm USB families" target="_blank">qmk_firmware</a>&nbsp;<a href="https://github.com/qmk/qmk_firmware" title="Open-source keyboard firmware for Atmel AVR and Arm USB families" target="_blank"><img src="https://img.shields.io/github/stars/qmk/qmk_firmware?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/davidmerfield/Blot" title="Turns a folder into a blog" target="_blank">Blot</a>&nbsp;<a href="https://github.com/davidmerfield/Blot" title="Turns a folder into a blog" target="_blank"><img src="https://img.shields.io/github/stars/davidmerfield/Blot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/excalidraw/excalidraw" title="Virtual whiteboard for sketching hand-drawn like diagrams" target="_blank">excalidraw</a>&nbsp;<a href="https://github.com/excalidraw/excalidraw" title="Virtual whiteboard for sketching hand-drawn like diagrams" target="_blank"><img src="https://img.shields.io/github/stars/excalidraw/excalidraw?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/AmrDeveloper/GQL" title=" Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions" target="_blank">GQL</a>&nbsp;<a href="https://github.com/AmrDeveloper/GQL" title=" Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions" target="_blank"><img src="https://img.shields.io/github/stars/AmrDeveloper/GQL?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/GraphiteEditor/Graphite" title="2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow." target="_blank">Graphite</a>&nbsp;<a href="https://github.com/GraphiteEditor/Graphite" title="2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow." target="_blank"><img src="https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/We5ter/Awesome-DevSecOps-Platforms" title="A curated list of awesome security platforms,including CTF/Security Response Center/Bug Tracker and so on." target="_blank">Awesome-DevSecOps-Platforms</a>&nbsp;<a href="https://github.com/We5ter/Awesome-DevSecOps-Platforms" title="A curated list of awesome security platforms,including CTF/Security Response Center/Bug Tracker and so on." target="_blank"><img src="https://img.shields.io/github/stars/We5ter/Awesome-DevSecOps-Platforms?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/picocss/pico" title="Minimal CSS Framework for semantic HTML" target="_blank">pico</a>&nbsp;<a href="https://github.com/picocss/pico" title="Minimal CSS Framework for semantic HTML" target="_blank"><img src="https://img.shields.io/github/stars/picocss/pico?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/google/blockly-games" title="Games for tomorrow's programmers." target="_blank">blockly-games</a>&nbsp;<a href="https://github.com/google/blockly-games" title="Games for tomorrow's programmers." target="_blank"><img src="https://img.shields.io/github/stars/google/blockly-games?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/emilybache/GildedRose-Refactoring-Kata" title="Starting code for the GildedRose Refactoring Kata in many programming languages." target="_blank">GildedRose-Refactoring-Kata</a>&nbsp;<a href="https://github.com/emilybache/GildedRose-Refactoring-Kata" title="Starting code for the GildedRose Refactoring Kata in many programming languages." target="_blank"><img src="https://img.shields.io/github/stars/emilybache/GildedRose-Refactoring-Kata?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gosub-browser/gosub-engine" title="A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions" target="_blank">gosub-engine</a>&nbsp;<a href="https://github.com/gosub-browser/gosub-engine" title="A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions" target="_blank"><img src="https://img.shields.io/github/stars/gosub-browser/gosub-engine?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/Dwin17/bento" title="Bento Mechanical Keyboard Macropad" target="_blank">bento</a>&nbsp;<a href="https://github.com/Dwin17/bento" title="Bento Mechanical Keyboard Macropad" target="_blank"><img src="https://img.shields.io/github/stars/Dwin17/bento?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/sontek/snowmachine" title="A python script that allows your terminal to snow." target="_blank">snowmachine</a>&nbsp;<a href="https://github.com/sontek/snowmachine" title="A python script that allows your terminal to snow." target="_blank"><img src="https://img.shields.io/github/stars/sontek/snowmachine?style=social" alt="GitHub"></a>
 </li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank">cours-linux-shell</a>&nbsp;<a href="https://github.com/ahpnils/cours-linux-shell" title="Cours d'initiation à la ligne de commande sous Linux" target="_blank"><img src="https://img.shields.io/github/stars/ahpnils/cours-linux-shell?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank">learnhouse</a>&nbsp;<a href="https://github.com/learnhouse/learnhouse" title="The Next-Gen Open Source learning platform ✨" target="_blank"><img src="https://img.shields.io/github/stars/learnhouse/learnhouse?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/excalidraw/excalidraw" title="Virtual whiteboard for sketching hand-drawn like diagrams" target="_blank">excalidraw</a>&nbsp;<a href="https://github.com/excalidraw/excalidraw" title="Virtual whiteboard for sketching hand-drawn like diagrams" target="_blank"><img src="https://img.shields.io/github/stars/excalidraw/excalidraw?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/AmrDeveloper/GQL" title=" Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions" target="_blank">GQL</a>&nbsp;<a href="https://github.com/AmrDeveloper/GQL" title=" Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions" target="_blank"><img src="https://img.shields.io/github/stars/AmrDeveloper/GQL?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/GraphiteEditor/Graphite" title="2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow." target="_blank">Graphite</a>&nbsp;<a href="https://github.com/GraphiteEditor/Graphite" title="2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow." target="_blank"><img src="https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/We5ter/Awesome-DevSecOps-Platforms" title="A curated list of awesome security platforms,including CTF/Security Response Center/Bug Tracker and so on." target="_blank">Awesome-DevSecOps-Platforms</a>&nbsp;<a href="https://github.com/We5ter/Awesome-DevSecOps-Platforms" title="A curated list of awesome security platforms,including CTF/Security Response Center/Bug Tracker and so on." target="_blank"><img src="https://img.shields.io/github/stars/We5ter/Awesome-DevSecOps-Platforms?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/picocss/pico" title="Minimal CSS Framework for semantic HTML" target="_blank">pico</a>&nbsp;<a href="https://github.com/picocss/pico" title="Minimal CSS Framework for semantic HTML" target="_blank"><img src="https://img.shields.io/github/stars/picocss/pico?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/google/blockly-games" title="Games for tomorrow's programmers." target="_blank">blockly-games</a>&nbsp;<a href="https://github.com/google/blockly-games" title="Games for tomorrow's programmers." target="_blank"><img src="https://img.shields.io/github/stars/google/blockly-games?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/emilybache/GildedRose-Refactoring-Kata" title="Starting code for the GildedRose Refactoring Kata in many programming languages." target="_blank">GildedRose-Refactoring-Kata</a>&nbsp;<a href="https://github.com/emilybache/GildedRose-Refactoring-Kata" title="Starting code for the GildedRose Refactoring Kata in many programming languages." target="_blank"><img src="https://img.shields.io/github/stars/emilybache/GildedRose-Refactoring-Kata?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gosub-browser/gosub-engine" title="A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions" target="_blank">gosub-engine</a>&nbsp;<a href="https://github.com/gosub-browser/gosub-engine" title="A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions" target="_blank"><img src="https://img.shields.io/github/stars/gosub-browser/gosub-engine?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch" target="_blank">startpage</a>&nbsp;<a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/startpage?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gethomepage/homepage" title="A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations." target="_blank">homepage</a>&nbsp;<a href="https://github.com/gethomepage/homepage" title="A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations." target="_blank"><img src="https://img.shields.io/github/stars/gethomepage/homepage?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@ Update README.md</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 29 Dec 2023 13:45:13 GMT</small>
+<small>⏰ Updated on Mon, 01 Jan 2024 13:45:08 GMT</small>
 </td>
 </tr>
 </tfoot>
