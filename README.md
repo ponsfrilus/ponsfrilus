@@ -32,6 +32,12 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/extrawurst/gitui" title="Blazing 💥 fast terminal-ui for git written in rust 🦀" target="_blank">gitui</a>&nbsp;<a href="https://github.com/extrawurst/gitui" title="Blazing 💥 fast terminal-ui for git written in rust 🦀" target="_blank"><img src="https://img.shields.io/github/stars/extrawurst/gitui?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/llenotre/maestro" title="Unix-like kernel written in Rust" target="_blank">maestro</a>&nbsp;<a href="https://github.com/llenotre/maestro" title="Unix-like kernel written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/llenotre/maestro?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/goauthentik/authentik" title="The authentication glue you need." target="_blank">authentik</a>&nbsp;<a href="https://github.com/goauthentik/authentik" title="The authentication glue you need." target="_blank"><img src="https://img.shields.io/github/stars/goauthentik/authentik?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -55,16 +61,16 @@
 <li>
 <a href="https://github.com/pharring/EditorGuidelines" title="A Visual Studio extension that adds vertical column guides to the text editor" target="_blank">EditorGuidelines</a>&nbsp;<a href="https://github.com/pharring/EditorGuidelines" title="A Visual Studio extension that adds vertical column guides to the text editor" target="_blank"><img src="https://img.shields.io/github/stars/pharring/EditorGuidelines?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/epfl-si/satosa-tequila" title="Tequila OpenID-Connect (OIDC) bridge as-a-service, built on top of SATOSA" target="_blank">satosa-tequila</a>&nbsp;<a href="https://github.com/epfl-si/satosa-tequila" title="Tequila OpenID-Connect (OIDC) bridge as-a-service, built on top of SATOSA" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/satosa-tequila?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank">opentofu</a>&nbsp;<a href="https://github.com/opentofu/opentofu" title="OpenTofu lets you declaratively manage your cloud infrastructure." target="_blank"><img src="https://img.shields.io/github/stars/opentofu/opentofu?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/YS-L/csvlens" title="Command line csv viewer" target="_blank">csvlens</a>&nbsp;<a href="https://github.com/YS-L/csvlens" title="Command line csv viewer" target="_blank"><img src="https://img.shields.io/github/stars/YS-L/csvlens?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tconbeer/harlequin" title="The SQL IDE for Your Terminal." target="_blank">harlequin</a>&nbsp;<a href="https://github.com/tconbeer/harlequin" title="The SQL IDE for Your Terminal." target="_blank"><img src="https://img.shields.io/github/stars/tconbeer/harlequin?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/qmk/qmk_firmware" title="Open-source keyboard firmware for Atmel AVR and Arm USB families" target="_blank">qmk_firmware</a>&nbsp;<a href="https://github.com/qmk/qmk_firmware" title="Open-source keyboard firmware for Atmel AVR and Arm USB families" target="_blank"><img src="https://img.shields.io/github/stars/qmk/qmk_firmware?style=social" alt="GitHub"></a>
 </li>
@@ -89,12 +95,6 @@
 <li>
 <a href="https://github.com/google/blockly-games" title="Games for tomorrow's programmers." target="_blank">blockly-games</a>&nbsp;<a href="https://github.com/google/blockly-games" title="Games for tomorrow's programmers." target="_blank"><img src="https://img.shields.io/github/stars/google/blockly-games?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/emilybache/GildedRose-Refactoring-Kata" title="Starting code for the GildedRose Refactoring Kata in many programming languages." target="_blank">GildedRose-Refactoring-Kata</a>&nbsp;<a href="https://github.com/emilybache/GildedRose-Refactoring-Kata" title="Starting code for the GildedRose Refactoring Kata in many programming languages." target="_blank"><img src="https://img.shields.io/github/stars/emilybache/GildedRose-Refactoring-Kata?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gosub-browser/gosub-engine" title="A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions" target="_blank">gosub-engine</a>&nbsp;<a href="https://github.com/gosub-browser/gosub-engine" title="A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at https://github.com/gosub-browser/gosub-engine/discussions" target="_blank"><img src="https://img.shields.io/github/stars/gosub-browser/gosub-engine?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,29 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/f0de0e98be7adf87922c2456e74ea6f601b7f8fc" title="2024-01-05T13:30:42.000+01:00" target="_blank">f0de0e98</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[feature] new search (#29)
+
+* [feature] add "EPFL map" icon
+
+* [feature] add "EPFL people" icon
+
+* [feature] add "EPFL units" icon
+
+* [feature] add "actu" search
+
+* [feature] add EPNET search</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/3e988a8867fa21c5efeef66852b15168fa671927" title="2024-01-04T17:10:42.000+01:00" target="_blank">3e988a88</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[fix] invisible chars in `searchEngine` variable (#25)
+
+The `searchEngine` used to select the action for each search wasn't
+using a proper trim function, resulting in invalid match due to spaces.</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/51feac6c7e0b32410d22634ae7d8d781904ff0f3" title="2023-12-18T16:44:01.000+01:00" target="_blank">51feac6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
           <pre>[doc] more explicite usage + getWPFormsInfo</pre>
@@ -143,21 +166,11 @@ Update README.md</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b8d3cbfd202ca10ac6a54c4c0eb6b8f70f57e9c8" title="2023-12-11T09:05:26.000+01:00" target="_blank">b8d3cbfd</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[doc] new attestation example</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/a0fd7bb6fb227d17ddc09e89cfa1e651191688b6" title="2023-12-11T09:04:56.000+01:00" target="_blank">a0fd7bb6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature] exemples</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/b19a953fda73d809492077d791a6f4c3b7a73d9e" title="2023-12-11T08:56:15.000+01:00" target="_blank">b19a953f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature] more mails</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 05 Jan 2024 13:45:08 GMT</small>
+<small>⏰ Updated on Mon, 08 Jan 2024 13:45:09 GMT</small>
 </td>
 </tr>
 </tfoot>
