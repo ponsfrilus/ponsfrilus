@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/atuinsh/atuin" title="✨ Magical shell history" target="_blank">atuin</a>&nbsp;<a href="https://github.com/atuinsh/atuin" title="✨ Magical shell history" target="_blank"><img src="https://img.shields.io/github/stars/atuinsh/atuin?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/extrawurst/gitui" title="Blazing 💥 fast terminal-ui for git written in rust 🦀" target="_blank">gitui</a>&nbsp;<a href="https://github.com/extrawurst/gitui" title="Blazing 💥 fast terminal-ui for git written in rust 🦀" target="_blank"><img src="https://img.shields.io/github/stars/extrawurst/gitui?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/llenotre/maestro" title="Unix-like kernel written in Rust" target="_blank">maestro</a>&nbsp;<a href="https://github.com/llenotre/maestro" title="Unix-like kernel written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/llenotre/maestro?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/goauthentik/authentik" title="The authentication glue you need." target="_blank">authentik</a>&nbsp;<a href="https://github.com/goauthentik/authentik" title="The authentication glue you need." target="_blank"><img src="https://img.shields.io/github/stars/goauthentik/authentik?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Dwin17/bento" title="Bento Mechanical Keyboard Macropad" target="_blank">bento</a>&nbsp;<a href="https://github.com/Dwin17/bento" title="Bento Mechanical Keyboard Macropad" target="_blank"><img src="https://img.shields.io/github/stars/Dwin17/bento?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sontek/snowmachine" title="A python script that allows your terminal to snow." target="_blank">snowmachine</a>&nbsp;<a href="https://github.com/sontek/snowmachine" title="A python script that allows your terminal to snow." target="_blank"><img src="https://img.shields.io/github/stars/sontek/snowmachine?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank">LibreChat</a>&nbsp;<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank"><img src="https://img.shields.io/github/stars/danny-avila/LibreChat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/InputGame" title="null" target="_blank">InputGame</a>&nbsp;<a href="https://github.com/dwesh163/InputGame" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/InputGame?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Yuchen413/text2image_safety" title="null" target="_blank">text2image_safety</a>&nbsp;<a href="https://github.com/Yuchen413/text2image_safety" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Yuchen413/text2image_safety?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/fastify/fastify" title="Fast and low overhead web framework, for Node.js" target="_blank">fastify</a>&nbsp;<a href="https://github.com/fastify/fastify" title="Fast and low overhead web framework, for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/fastify/fastify?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/webcompat/webcompat.com" title="Source code for webcompat.com" target="_blank">webcompat.com</a>&nbsp;<a href="https://github.com/webcompat/webcompat.com" title="Source code for webcompat.com" target="_blank"><img src="https://img.shields.io/github/stars/webcompat/webcompat.com?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/picocss/pico" title="Minimal CSS Framework for semantic HTML" target="_blank">pico</a>&nbsp;<a href="https://github.com/picocss/pico" title="Minimal CSS Framework for semantic HTML" target="_blank"><img src="https://img.shields.io/github/stars/picocss/pico?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/extrawurst/gitui" title="Blazing 💥 fast terminal-ui for git written in rust 🦀" target="_blank">gitui</a>&nbsp;<a href="https://github.com/extrawurst/gitui" title="Blazing 💥 fast terminal-ui for git written in rust 🦀" target="_blank"><img src="https://img.shields.io/github/stars/extrawurst/gitui?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/llenotre/maestro" title="Unix-like kernel written in Rust" target="_blank">maestro</a>&nbsp;<a href="https://github.com/llenotre/maestro" title="Unix-like kernel written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/llenotre/maestro?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/goauthentik/authentik" title="The authentication glue you need." target="_blank">authentik</a>&nbsp;<a href="https://github.com/goauthentik/authentik" title="The authentication glue you need." target="_blank"><img src="https://img.shields.io/github/stars/goauthentik/authentik?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Dwin17/bento" title="Bento Mechanical Keyboard Macropad" target="_blank">bento</a>&nbsp;<a href="https://github.com/Dwin17/bento" title="Bento Mechanical Keyboard Macropad" target="_blank"><img src="https://img.shields.io/github/stars/Dwin17/bento?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sontek/snowmachine" title="A python script that allows your terminal to snow." target="_blank">snowmachine</a>&nbsp;<a href="https://github.com/sontek/snowmachine" title="A python script that allows your terminal to snow." target="_blank"><img src="https://img.shields.io/github/stars/sontek/snowmachine?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank">LibreChat</a>&nbsp;<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank"><img src="https://img.shields.io/github/stars/danny-avila/LibreChat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/InputGame" title="null" target="_blank">InputGame</a>&nbsp;<a href="https://github.com/dwesh163/InputGame" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/InputGame?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Yuchen413/text2image_safety" title="null" target="_blank">text2image_safety</a>&nbsp;<a href="https://github.com/Yuchen413/text2image_safety" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Yuchen413/text2image_safety?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/fastify/fastify" title="Fast and low overhead web framework, for Node.js" target="_blank">fastify</a>&nbsp;<a href="https://github.com/fastify/fastify" title="Fast and low overhead web framework, for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/fastify/fastify?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/pharring/EditorGuidelines" title="A Visual Studio extension that adds vertical column guides to the text editor" target="_blank">EditorGuidelines</a>&nbsp;<a href="https://github.com/pharring/EditorGuidelines" title="A Visual Studio extension that adds vertical column guides to the text editor" target="_blank"><img src="https://img.shields.io/github/stars/pharring/EditorGuidelines?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -186,7 +186,7 @@ Update README.md</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 10 Jan 2024 13:45:09 GMT</small>
+<small>⏰ Updated on Thu, 11 Jan 2024 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
