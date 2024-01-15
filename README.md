@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/arp242/goatcounter" title="Easy web analytics. No tracking of personal data." target="_blank">goatcounter</a>&nbsp;<a href="https://github.com/arp242/goatcounter" title="Easy web analytics. No tracking of personal data." target="_blank"><img src="https://img.shields.io/github/stars/arp242/goatcounter?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/atuinsh/atuin" title="✨ Magical shell history" target="_blank">atuin</a>&nbsp;<a href="https://github.com/atuinsh/atuin" title="✨ Magical shell history" target="_blank"><img src="https://img.shields.io/github/stars/atuinsh/atuin?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/Yuchen413/text2image_safety" title="null" target="_blank">text2image_safety</a>&nbsp;<a href="https://github.com/Yuchen413/text2image_safety" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Yuchen413/text2image_safety?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/fastify/fastify" title="Fast and low overhead web framework, for Node.js" target="_blank">fastify</a>&nbsp;<a href="https://github.com/fastify/fastify" title="Fast and low overhead web framework, for Node.js" target="_blank"><img src="https://img.shields.io/github/stars/fastify/fastify?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/maaslalani/slides" title="Terminal based presentation tool" target="_blank">slides</a>&nbsp;<a href="https://github.com/maaslalani/slides" title="Terminal based presentation tool" target="_blank"><img src="https://img.shields.io/github/stars/maaslalani/slides?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/webcompat/webcompat.com" title="Source code for webcompat.com" target="_blank">webcompat.com</a>&nbsp;<a href="https://github.com/webcompat/webcompat.com" title="Source code for webcompat.com" target="_blank"><img src="https://img.shields.io/github/stars/webcompat/webcompat.com?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/We5ter/Awesome-DevSecOps-Platforms" title="A curated list of awesome security platforms,including CTF/Security Response Center/Bug Tracker and so on." target="_blank">Awesome-DevSecOps-Platforms</a>&nbsp;<a href="https://github.com/We5ter/Awesome-DevSecOps-Platforms" title="A curated list of awesome security platforms,including CTF/Security Response Center/Bug Tracker and so on." target="_blank"><img src="https://img.shields.io/github/stars/We5ter/Awesome-DevSecOps-Platforms?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/picocss/pico" title="Minimal CSS Framework for semantic HTML" target="_blank">pico</a>&nbsp;<a href="https://github.com/picocss/pico" title="Minimal CSS Framework for semantic HTML" target="_blank"><img src="https://img.shields.io/github/stars/picocss/pico?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -186,7 +186,7 @@ Update README.md</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 12 Jan 2024 13:45:08 GMT</small>
+<small>⏰ Updated on Mon, 15 Jan 2024 13:45:14 GMT</small>
 </td>
 </tr>
 </tfoot>
