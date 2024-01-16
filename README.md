@@ -118,50 +118,6 @@ https://www.epfl.ch/campus/services/website/fr/publier-sur-le-web-epfl/wordpress
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/71a6e0393fb5eadf8e7ff1a5cfb9c9ec98d84a79" title="2024-01-09T12:02:03.000+01:00" target="_blank">71a6e039</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] a minimalist footer (#26)
-
-This add a footer with link to
-- about page
-- the version (linked to GitHub release)
-- GitHub issue
-- help
-- source
-
-Update the catalog page with new footer.
-
-Closes #10</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/c3b19cfd419d8251be04d168531727e771819ea2" title="2024-01-09T09:39:12.000+01:00" target="_blank">c3b19cfd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] first changelog (#27)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/f0de0e98be7adf87922c2456e74ea6f601b7f8fc" title="2024-01-05T13:30:42.000+01:00" target="_blank">f0de0e98</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] new search (#29)
-
-* [feature] add "EPFL map" icon
-
-* [feature] add "EPFL people" icon
-
-* [feature] add "EPFL units" icon
-
-* [feature] add "actu" search
-
-* [feature] add EPNET search</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/3e988a8867fa21c5efeef66852b15168fa671927" title="2024-01-04T17:10:42.000+01:00" target="_blank">3e988a88</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[fix] invisible chars in `searchEngine` variable (#25)
-
-The `searchEngine` used to select the action for each search wasn't
-using a proper trim function, resulting in invalid match due to spaces.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/51feac6c7e0b32410d22634ae7d8d781904ff0f3" title="2023-12-18T16:44:01.000+01:00" target="_blank">51feac6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
           <pre>[doc] more explicite usage + getWPFormsInfo</pre>
         </td>
@@ -182,11 +138,33 @@ using a proper trim function, resulting in invalid match due to spaces.</pre>
 
 Update README.md</pre>
         </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/NextPause/commits/b5a2e01ca9d6fc68f7d6a3a837238fa035afbd8f" title="2023-12-01T18:02:42.000+01:00" target="_blank">b5a2e01c</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/NextPause" title="null">/NextPause</a></strong></div>
+          <pre>[Bescherelle] s/copier/copié</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/NextPause/commits/7f7ed1ee82be1e93c6189e954407db695f5465c0" title="2023-12-01T17:59:44.000+01:00" target="_blank">7f7ed1ee</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/NextPause" title="null">/NextPause</a></strong></div>
+          <pre>[fix] encode URI for sharing
+
+When sharing a URL for a choice with 2 spaces (e.g. "Gymnase de Nyon"), only the first space was replaced (use `.replace()` instead of `.replaceAll()`). Either ways the better way to do it is to use the [encodeURI](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/encodeURI) function, as in this commit.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/69b6ba05ad0e840a37bd836e0415d0119035cb3b" title="2023-11-30T16:35:20.000+01:00" target="_blank">69b6ba05</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
+          <pre>[feature] script for version and symlink info</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/29431e183ff3f9153f086be73ed8e1d232eb5a54" title="2023-11-30T15:16:49.000+01:00" target="_blank">29431e18</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
+          <pre>[hotfix] domains path</pre>
+        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 15 Jan 2024 13:45:14 GMT</small>
+<small>⏰ Updated on Tue, 16 Jan 2024 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
