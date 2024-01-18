@@ -103,6 +103,15 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/d8052c69ea7d41be6aed2b5bf5d65f01b3ca07b9" title="2024-01-18T14:02:45.000+01:00" target="_blank">d8052c69</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[feature] about and help pages (#28)
+
+* About page
+* Help page
+* Split scripts and footer</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/payonline/commits/fc588541ab30054010e6b69c7ae48f796bcbca19" title="2024-01-10T12:32:16.000+01:00" target="_blank">fc588541</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline" title="payonline.epfl.ch, the payment multiplexing system in use at EPFL">/payonline</a></strong></div>
           <pre>[info] new 2024 information</pre>
         </td>
@@ -162,31 +171,26 @@ using a proper trim function, resulting in invalid match due to spaces.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/51feac6c7e0b32410d22634ae7d8d781904ff0f3" title="2023-12-18T16:44:01.000+01:00" target="_blank">51feac6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
-          <pre>[doc] more explicite usage + getWPFormsInfo</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/0695a18d9f24254ebbadaca34ff45ff7e8158cdc" title="2023-12-18T12:39:00.000+01:00" target="_blank">0695a18d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
-          <pre>[log] number of sites</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/getWPFormsData/commits/9d4c21a2a947d5b65a44b7b19fcf89286d4aebe1" title="2023-12-18T12:38:23.000+01:00" target="_blank">9d4c21a2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/getWPFormsData" title="Script that fetch WPForms data">/getWPFormsData</a></strong></div>
-          <pre>[refactor] with ShellCheck.net</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-APOD/commits/11f909e60b127802266abf3a7e9e5f57f0aa1c03" title="2023-12-18T10:19:43.000+01:00" target="_blank">11f909e6</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-APOD" title="Kata : création d'un navigateur d'APOD (Astronomy Picture of the Day)">/kata-APOD</a></strong></div>
           <pre>Merge pull request #3 from epfl-dojo/dwesh163-patch-1
 
 Update README.md</pre>
         </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/7684012e60ed342d8fcc637be5ed431703af2e26" title="2023-12-12T19:23:48.000+01:00" target="_blank">7684012e</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
+          <pre>[feature] dynamic version number</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/b7b2d382019312701dc49c6a8427d75df4a5028b" title="2023-12-12T19:23:34.000+01:00" target="_blank">b7b2d382</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
+          <pre>[feature] new game: syscalls</pre>
+        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 17 Jan 2024 13:45:22 GMT</small>
+<small>⏰ Updated on Thu, 18 Jan 2024 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
