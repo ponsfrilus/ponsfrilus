@@ -103,12 +103,29 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/prez-git-extras/commits/7a5f53731a7d43eb0d2964f0bd1ace86c3cecf92" title="2024-01-19T12:35:56.000+01:00" target="_blank">7a5f5373</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/prez-git-extras" title="null">/prez-git-extras</a></strong></div>
+          <pre>Add the README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/prez-git-extras/commits/d522d8a6d0d8f25197da0bcbe3c705240c69802b" title="2024-01-19T12:29:00.000+01:00" target="_blank">d522d8a6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/prez-git-extras" title="null">/prez-git-extras</a></strong></div>
+          <pre>First completed version of the prez
+
+Also comes with a Makefile</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/d8052c69ea7d41be6aed2b5bf5d65f01b3ca07b9" title="2024-01-18T14:02:45.000+01:00" target="_blank">d8052c69</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
           <pre>[feature] about and help pages (#28)
 
 * About page
 * Help page
 * Split scripts and footer</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/prez-git-extras/commits/d3270824d8e4e3bad50e2820e89b7d7453adb749" title="2024-01-15T15:49:37.000+01:00" target="_blank">d3270824</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/prez-git-extras" title="null">/prez-git-extras</a></strong></div>
+          <pre>Initial commit</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -169,28 +186,11 @@ Closes #10</pre>
 The `searchEngine` used to select the action for each search wasn't
 using a proper trim function, resulting in invalid match due to spaces.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-APOD/commits/11f909e60b127802266abf3a7e9e5f57f0aa1c03" title="2023-12-18T10:19:43.000+01:00" target="_blank">11f909e6</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-APOD" title="Kata : création d'un navigateur d'APOD (Astronomy Picture of the Day)">/kata-APOD</a></strong></div>
-          <pre>Merge pull request #3 from epfl-dojo/dwesh163-patch-1
-
-Update README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/7684012e60ed342d8fcc637be5ed431703af2e26" title="2023-12-12T19:23:48.000+01:00" target="_blank">7684012e</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
-          <pre>[feature] dynamic version number</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/b7b2d382019312701dc49c6a8427d75df4a5028b" title="2023-12-12T19:23:34.000+01:00" target="_blank">b7b2d382</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
-          <pre>[feature] new game: syscalls</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 18 Jan 2024 13:45:12 GMT</small>
+<small>⏰ Updated on Fri, 19 Jan 2024 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
