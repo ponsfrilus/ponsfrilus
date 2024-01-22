@@ -32,68 +32,68 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/Betterbird/thunderbird-patches" title="Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness." target="_blank">thunderbird-patches</a>&nbsp;<a href="https://github.com/Betterbird/thunderbird-patches" title="Betterbird is a fork of Mozilla Thunderbird. Here are the patches that provide all the goodness." target="_blank"><img src="https://img.shields.io/github/stars/Betterbird/thunderbird-patches?style=social" alt="GitHub"></a>
+<a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank">spotube</a>&nbsp;<a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank"><img src="https://img.shields.io/github/stars/KRTirtho/spotube?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/maaslalani/slides" title="Terminal based presentation tool" target="_blank">slides</a>&nbsp;<a href="https://github.com/maaslalani/slides" title="Terminal based presentation tool" target="_blank"><img src="https://img.shields.io/github/stars/maaslalani/slides?style=social" alt="GitHub"></a>
+<a href="https://github.com/softwarecrafters/kata-log" title="Resources to facilitate coding katas" target="_blank">kata-log</a>&nbsp;<a href="https://github.com/softwarecrafters/kata-log" title="Resources to facilitate coding katas" target="_blank"><img src="https://img.shields.io/github/stars/softwarecrafters/kata-log?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/webcompat/webcompat.com" title="Source code for webcompat.com" target="_blank">webcompat.com</a>&nbsp;<a href="https://github.com/webcompat/webcompat.com" title="Source code for webcompat.com" target="_blank"><img src="https://img.shields.io/github/stars/webcompat/webcompat.com?style=social" alt="GitHub"></a>
+<a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains" target="_blank">kata-roman</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-roman?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/YS-L/csvlens" title="Command line csv viewer" target="_blank">csvlens</a>&nbsp;<a href="https://github.com/YS-L/csvlens" title="Command line csv viewer" target="_blank"><img src="https://img.shields.io/github/stars/YS-L/csvlens?style=social" alt="GitHub"></a>
+<a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille" target="_blank">kata-braille</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-braille?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/tconbeer/harlequin" title="The SQL IDE for Your Terminal." target="_blank">harlequin</a>&nbsp;<a href="https://github.com/tconbeer/harlequin" title="The SQL IDE for Your Terminal." target="_blank"><img src="https://img.shields.io/github/stars/tconbeer/harlequin?style=social" alt="GitHub"></a>
+<a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !" target="_blank">kata-quatre</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-quatre?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/qmk/qmk_firmware" title="Open-source keyboard firmware for Atmel AVR and Arm USB families" target="_blank">qmk_firmware</a>&nbsp;<a href="https://github.com/qmk/qmk_firmware" title="Open-source keyboard firmware for Atmel AVR and Arm USB families" target="_blank"><img src="https://img.shields.io/github/stars/qmk/qmk_firmware?style=social" alt="GitHub"></a>
+<a href="https://github.com/Imbwbl/cute-translater" title="Shit base 8 encoder" target="_blank">cute-translater</a>&nbsp;<a href="https://github.com/Imbwbl/cute-translater" title="Shit base 8 encoder" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/cute-translater?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/davidmerfield/Blot" title="Turns a folder into a blog" target="_blank">Blot</a>&nbsp;<a href="https://github.com/davidmerfield/Blot" title="Turns a folder into a blog" target="_blank"><img src="https://img.shields.io/github/stars/davidmerfield/Blot?style=social" alt="GitHub"></a>
+<a href="https://github.com/Imbwbl/Webillatmosphere" title="null" target="_blank">Webillatmosphere</a>&nbsp;<a href="https://github.com/Imbwbl/Webillatmosphere" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/Webillatmosphere?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/excalidraw/excalidraw" title="Virtual whiteboard for sketching hand-drawn like diagrams" target="_blank">excalidraw</a>&nbsp;<a href="https://github.com/excalidraw/excalidraw" title="Virtual whiteboard for sketching hand-drawn like diagrams" target="_blank"><img src="https://img.shields.io/github/stars/excalidraw/excalidraw?style=social" alt="GitHub"></a>
+<a href="https://github.com/Imbwbl/Vanillatmosphere" title="True vanilla pack for atmosphereNX cfw" target="_blank">Vanillatmosphere</a>&nbsp;<a href="https://github.com/Imbwbl/Vanillatmosphere" title="True vanilla pack for atmosphereNX cfw" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/Vanillatmosphere?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/AmrDeveloper/GQL" title=" Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions" target="_blank">GQL</a>&nbsp;<a href="https://github.com/AmrDeveloper/GQL" title=" Git Query language is a SQL like language to perform queries on .git files with supports of most of SQL features such as grouping, ordering and aggregations functions" target="_blank"><img src="https://img.shields.io/github/stars/AmrDeveloper/GQL?style=social" alt="GitHub"></a>
+<a href="https://github.com/Imbwbl/fluidity" title="Fluidity - An accordion based startpage" target="_blank">fluidity</a>&nbsp;<a href="https://github.com/Imbwbl/fluidity" title="Fluidity - An accordion based startpage" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/fluidity?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/GraphiteEditor/Graphite" title="2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow." target="_blank">Graphite</a>&nbsp;<a href="https://github.com/GraphiteEditor/Graphite" title="2D raster & vector editor that melds traditional layers & tools with a modern node-based, fully non-destructive procedural workflow." target="_blank"><img src="https://img.shields.io/github/stars/GraphiteEditor/Graphite?style=social" alt="GitHub"></a>
+<a href="https://github.com/Imbwbl/first-lego-league-H1-website" title="null" target="_blank">first-lego-league-H1-website</a>&nbsp;<a href="https://github.com/Imbwbl/first-lego-league-H1-website" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/first-lego-league-H1-website?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/arp242/goatcounter" title="Easy web analytics. No tracking of personal data." target="_blank">goatcounter</a>&nbsp;<a href="https://github.com/arp242/goatcounter" title="Easy web analytics. No tracking of personal data." target="_blank"><img src="https://img.shields.io/github/stars/arp242/goatcounter?style=social" alt="GitHub"></a>
+<a href="https://github.com/morethanwords/tweb" title="Telegram Web K, GPL v3" target="_blank">tweb</a>&nbsp;<a href="https://github.com/morethanwords/tweb" title="Telegram Web K, GPL v3" target="_blank"><img src="https://img.shields.io/github/stars/morethanwords/tweb?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/atuinsh/atuin" title="✨ Magical shell history" target="_blank">atuin</a>&nbsp;<a href="https://github.com/atuinsh/atuin" title="✨ Magical shell history" target="_blank"><img src="https://img.shields.io/github/stars/atuinsh/atuin?style=social" alt="GitHub"></a>
+<a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre" target="_blank">kata-alien</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-alien?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/extrawurst/gitui" title="Blazing 💥 fast terminal-ui for git written in rust 🦀" target="_blank">gitui</a>&nbsp;<a href="https://github.com/extrawurst/gitui" title="Blazing 💥 fast terminal-ui for git written in rust 🦀" target="_blank"><img src="https://img.shields.io/github/stars/extrawurst/gitui?style=social" alt="GitHub"></a>
+<a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse" target="_blank">kata-morse</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-morse?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/llenotre/maestro" title="Unix-like kernel written in Rust" target="_blank">maestro</a>&nbsp;<a href="https://github.com/llenotre/maestro" title="Unix-like kernel written in Rust" target="_blank"><img src="https://img.shields.io/github/stars/llenotre/maestro?style=social" alt="GitHub"></a>
+<a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !" target="_blank">kata-diamond</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-diamond?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/goauthentik/authentik" title="The authentication glue you need." target="_blank">authentik</a>&nbsp;<a href="https://github.com/goauthentik/authentik" title="The authentication glue you need." target="_blank"><img src="https://img.shields.io/github/stars/goauthentik/authentik?style=social" alt="GitHub"></a>
+<a href="https://github.com/ponsfrilus/kata-birthday" title="Kata : créer un système de rappel des anniversaires" target="_blank">kata-birthday</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-birthday" title="Kata : créer un système de rappel des anniversaires" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-birthday?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/Dwin17/bento" title="Bento Mechanical Keyboard Macropad" target="_blank">bento</a>&nbsp;<a href="https://github.com/Dwin17/bento" title="Bento Mechanical Keyboard Macropad" target="_blank"><img src="https://img.shields.io/github/stars/Dwin17/bento?style=social" alt="GitHub"></a>
+<a href="https://github.com/Imbwbl/leek-wars" title="Leek Wars, the multiplayer web browser AI programming game in which you train leeks" target="_blank">leek-wars</a>&nbsp;<a href="https://github.com/Imbwbl/leek-wars" title="Leek Wars, the multiplayer web browser AI programming game in which you train leeks" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/leek-wars?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/sontek/snowmachine" title="A python script that allows your terminal to snow." target="_blank">snowmachine</a>&nbsp;<a href="https://github.com/sontek/snowmachine" title="A python script that allows your terminal to snow." target="_blank"><img src="https://img.shields.io/github/stars/sontek/snowmachine?style=social" alt="GitHub"></a>
+<a href="https://github.com/Imbwbl/Pluwugins" title="null" target="_blank">Pluwugins</a>&nbsp;<a href="https://github.com/Imbwbl/Pluwugins" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/Pluwugins?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank">LibreChat</a>&nbsp;<a href="https://github.com/danny-avila/LibreChat" title="Enhanced ChatGPT Clone: Features OpenAI, GPT-4 Vision, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development" target="_blank"><img src="https://img.shields.io/github/stars/danny-avila/LibreChat?style=social" alt="GitHub"></a>
+<a href="https://github.com/Imbwbl/random-wallpaper-for-GNOME" title="null" target="_blank">random-wallpaper-for-GNOME</a>&nbsp;<a href="https://github.com/Imbwbl/random-wallpaper-for-GNOME" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/random-wallpaper-for-GNOME?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/dwesh163/InputGame" title="null" target="_blank">InputGame</a>&nbsp;<a href="https://github.com/dwesh163/InputGame" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/InputGame?style=social" alt="GitHub"></a>
+<a href="https://github.com/Imbwbl/discordStreamingButton" title="null" target="_blank">discordStreamingButton</a>&nbsp;<a href="https://github.com/Imbwbl/discordStreamingButton" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/discordStreamingButton?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/Yuchen413/text2image_safety" title="null" target="_blank">text2image_safety</a>&nbsp;<a href="https://github.com/Yuchen413/text2image_safety" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Yuchen413/text2image_safety?style=social" alt="GitHub"></a>
+<a href="https://github.com/Imbwbl/mdr" title="Rick Astley invades your terminal." target="_blank">mdr</a>&nbsp;<a href="https://github.com/Imbwbl/mdr" title="Rick Astley invades your terminal." target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/mdr?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -103,94 +103,59 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/prez-git-extras/commits/7a5f53731a7d43eb0d2964f0bd1ace86c3cecf92" title="2024-01-19T12:35:56.000+01:00" target="_blank">7a5f5373</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/prez-git-extras" title="null">/prez-git-extras</a></strong></div>
-          <pre>Add the README.md</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/dojo-like-script/commits/ad25e438162309666befa3ae0b439a1898a05fcd" title="2024-01-20T21:58:14.000+01:00" target="_blank">ad25e438</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/dojo-like-script" title="A script to like all epfl-dojo repo">/dojo-like-script</a></strong></div>
+          <pre>[fix] stargazed repo on own line</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/prez-git-extras/commits/d522d8a6d0d8f25197da0bcbe3c705240c69802b" title="2024-01-19T12:29:00.000+01:00" target="_blank">d522d8a6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/prez-git-extras" title="null">/prez-git-extras</a></strong></div>
-          <pre>First completed version of the prez
-
-Also comes with a Makefile</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-quatre/commits/14759f0365eac67107067d74e3a44c1f8b1c8f4b" title="2024-01-20T21:41:35.000+01:00" target="_blank">14759f03</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !">/kata-quatre</a></strong></div>
+          <pre>[doc] README updated</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/d8052c69ea7d41be6aed2b5bf5d65f01b3ca07b9" title="2024-01-18T14:02:45.000+01:00" target="_blank">d8052c69</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] about and help pages (#28)
-
-* About page
-* Help page
-* Split scripts and footer</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-roman/commits/74a14155f2f5a71dabc5479836358af9c8531a36" title="2024-01-20T21:41:35.000+01:00" target="_blank">74a14155</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains">/kata-roman</a></strong></div>
+          <pre>[doc] README updated</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/prez-git-extras/commits/d3270824d8e4e3bad50e2820e89b7d7453adb749" title="2024-01-15T15:49:37.000+01:00" target="_blank">d3270824</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/prez-git-extras" title="null">/prez-git-extras</a></strong></div>
-          <pre>Initial commit</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/457929b341cac604d9a4df2fe92b8319011c85f0" title="2024-01-20T21:41:35.000+01:00" target="_blank">457929b3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
+          <pre>[doc] README updated</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline/commits/fc588541ab30054010e6b69c7ae48f796bcbca19" title="2024-01-10T12:32:16.000+01:00" target="_blank">fc588541</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline" title="payonline.epfl.ch, the payment multiplexing system in use at EPFL">/payonline</a></strong></div>
-          <pre>[info] new 2024 information</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-morse/commits/3c2da1cc7a7281f659c0605b01ca2c2a217fd272" title="2024-01-20T21:41:34.000+01:00" target="_blank">3c2da1cc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse">/kata-morse</a></strong></div>
+          <pre>[doc] README updated</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/payonline/commits/85e29f2e81ca9a6ca083102fa2a71813f138e37a" title="2024-01-09T19:22:59.000+01:00" target="_blank">85e29f2e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/payonline" title="payonline.epfl.ch, the payment multiplexing system in use at EPFL">/payonline</a></strong></div>
-          <pre>[fix] wiki-help
-
-- fr: 
-https://www.epfl.ch/campus/services/website/fr/publier-sur-le-web-epfl/wordpress/liste-des-blocs/formulaires/
-- en: 
-https://www.epfl.ch/campus/services/website/fr/publier-sur-le-web-epfl/wordpress/liste-des-blocs/formulaires/</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-luhn/commits/4e1e82637102db77d6fac2e62acb9d11579d75ca" title="2024-01-20T21:41:34.000+01:00" target="_blank">4e1e8263</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-luhn" title="Kata : implémenter la formule de Luhn pour vérifier des numéros de cartes bancaires">/kata-luhn</a></strong></div>
+          <pre>[doc] README updated</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/71a6e0393fb5eadf8e7ff1a5cfb9c9ec98d84a79" title="2024-01-09T12:02:03.000+01:00" target="_blank">71a6e039</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] a minimalist footer (#26)
-
-This add a footer with link to
-- about page
-- the version (linked to GitHub release)
-- GitHub issue
-- help
-- source
-
-Update the catalog page with new footer.
-
-Closes #10</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-ldap/commits/eb111ddb2a737ef52812f1f168f290be23bff73e" title="2024-01-20T21:41:34.000+01:00" target="_blank">eb111ddb</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-ldap" title="Kata : annuaire LDAP (ldapsearch)">/kata-ldap</a></strong></div>
+          <pre>[doc] README updated</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/c3b19cfd419d8251be04d168531727e771819ea2" title="2024-01-09T09:39:12.000+01:00" target="_blank">c3b19cfd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] first changelog (#27)</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-diamond/commits/866c1819871fe9760e146979b70b7c5e7b557d1c" title="2024-01-20T21:41:33.000+01:00" target="_blank">866c1819</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !">/kata-diamond</a></strong></div>
+          <pre>[doc] README updated</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/f0de0e98be7adf87922c2456e74ea6f601b7f8fc" title="2024-01-05T13:30:42.000+01:00" target="_blank">f0de0e98</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] new search (#29)
-
-* [feature] add "EPFL map" icon
-
-* [feature] add "EPFL people" icon
-
-* [feature] add "EPFL units" icon
-
-* [feature] add "actu" search
-
-* [feature] add EPNET search</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-frame/commits/bb6f275664f819ffd2de8c682b5068a7ebd686b8" title="2024-01-20T21:41:33.000+01:00" target="_blank">bb6f2756</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D">/kata-frame</a></strong></div>
+          <pre>[doc] README updated</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/3e988a8867fa21c5efeef66852b15168fa671927" title="2024-01-04T17:10:42.000+01:00" target="_blank">3e988a88</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[fix] invisible chars in `searchEngine` variable (#25)
-
-The `searchEngine` used to select the action for each search wasn't
-using a proper trim function, resulting in invalid match due to spaces.</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-braille/commits/07618ac516a9496b5477317b351a3ddf2b74967d" title="2024-01-20T21:41:32.000+01:00" target="_blank">07618ac5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille">/kata-braille</a></strong></div>
+          <pre>[doc] README updated</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 19 Jan 2024 13:45:12 GMT</small>
+<small>⏰ Updated on Mon, 22 Jan 2024 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
