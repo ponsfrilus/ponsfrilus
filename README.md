@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/wp_test/commits/f0dd8837bc91a2299af3dbad630489d8a9ed5f0c" title="2024-01-23T10:28:18.000+01:00" target="_blank">f0dd8837</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/wp_test" title="A quick environement for testing WordPress in docker">/wp_test</a></strong></div>
+          <pre>[update] MariaDB + WP 6.4</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/dojo-like-script/commits/ad25e438162309666befa3ae0b439a1898a05fcd" title="2024-01-20T21:58:14.000+01:00" target="_blank">ad25e438</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/dojo-like-script" title="A script to like all epfl-dojo repo">/dojo-like-script</a></strong></div>
           <pre>[fix] stargazed repo on own line</pre>
         </td>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-frame/commits/bb6f275664f819ffd2de8c682b5068a7ebd686b8" title="2024-01-20T21:41:33.000+01:00" target="_blank">bb6f2756</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D">/kata-frame</a></strong></div>
           <pre>[doc] README updated</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-braille/commits/07618ac516a9496b5477317b351a3ddf2b74967d" title="2024-01-20T21:41:32.000+01:00" target="_blank">07618ac5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille">/kata-braille</a></strong></div>
-          <pre>[doc] README updated</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 22 Jan 2024 13:45:10 GMT</small>
+<small>⏰ Updated on Tue, 23 Jan 2024 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
