@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/etalab/licence-ouverte" title="La licence recommandée pour la publication de données publiques, par Etalab." target="_blank">licence-ouverte</a>&nbsp;<a href="https://github.com/etalab/licence-ouverte" title="La licence recommandée pour la publication de données publiques, par Etalab." target="_blank"><img src="https://img.shields.io/github/stars/etalab/licence-ouverte?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/morethanwords/tweb" title="Telegram Web K, GPL v3" target="_blank">tweb</a>&nbsp;<a href="https://github.com/morethanwords/tweb" title="Telegram Web K, GPL v3" target="_blank"><img src="https://img.shields.io/github/stars/morethanwords/tweb?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre" target="_blank">kata-alien</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-alien?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse" target="_blank">kata-morse</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-morse?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !" target="_blank">kata-diamond</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-diamond?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-birthday" title="Kata : créer un système de rappel des anniversaires" target="_blank">kata-birthday</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-birthday" title="Kata : créer un système de rappel des anniversaires" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-birthday?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Imbwbl/leek-wars" title="Leek Wars, the multiplayer web browser AI programming game in which you train leeks" target="_blank">leek-wars</a>&nbsp;<a href="https://github.com/Imbwbl/leek-wars" title="Leek Wars, the multiplayer web browser AI programming game in which you train leeks" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/leek-wars?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Imbwbl/Pluwugins" title="null" target="_blank">Pluwugins</a>&nbsp;<a href="https://github.com/Imbwbl/Pluwugins" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/Pluwugins?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Imbwbl/random-wallpaper-for-GNOME" title="null" target="_blank">random-wallpaper-for-GNOME</a>&nbsp;<a href="https://github.com/Imbwbl/random-wallpaper-for-GNOME" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/random-wallpaper-for-GNOME?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Imbwbl/discordStreamingButton" title="null" target="_blank">discordStreamingButton</a>&nbsp;<a href="https://github.com/Imbwbl/discordStreamingButton" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/discordStreamingButton?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank">spotube</a>&nbsp;<a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank"><img src="https://img.shields.io/github/stars/KRTirtho/spotube?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Imbwbl/first-lego-league-H1-website" title="null" target="_blank">first-lego-league-H1-website</a>&nbsp;<a href="https://github.com/Imbwbl/first-lego-league-H1-website" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/first-lego-league-H1-website?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/morethanwords/tweb" title="Telegram Web K, GPL v3" target="_blank">tweb</a>&nbsp;<a href="https://github.com/morethanwords/tweb" title="Telegram Web K, GPL v3" target="_blank"><img src="https://img.shields.io/github/stars/morethanwords/tweb?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre" target="_blank">kata-alien</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-alien?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse" target="_blank">kata-morse</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-morse?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !" target="_blank">kata-diamond</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-diamond?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-birthday" title="Kata : créer un système de rappel des anniversaires" target="_blank">kata-birthday</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-birthday" title="Kata : créer un système de rappel des anniversaires" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-birthday?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/leek-wars" title="Leek Wars, the multiplayer web browser AI programming game in which you train leeks" target="_blank">leek-wars</a>&nbsp;<a href="https://github.com/Imbwbl/leek-wars" title="Leek Wars, the multiplayer web browser AI programming game in which you train leeks" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/leek-wars?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/Pluwugins" title="null" target="_blank">Pluwugins</a>&nbsp;<a href="https://github.com/Imbwbl/Pluwugins" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/Pluwugins?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/random-wallpaper-for-GNOME" title="null" target="_blank">random-wallpaper-for-GNOME</a>&nbsp;<a href="https://github.com/Imbwbl/random-wallpaper-for-GNOME" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/random-wallpaper-for-GNOME?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/discordStreamingButton" title="null" target="_blank">discordStreamingButton</a>&nbsp;<a href="https://github.com/Imbwbl/discordStreamingButton" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/discordStreamingButton?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/mdr" title="Rick Astley invades your terminal." target="_blank">mdr</a>&nbsp;<a href="https://github.com/Imbwbl/mdr" title="Rick Astley invades your terminal." target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/mdr?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 24 Jan 2024 13:45:09 GMT</small>
+<small>⏰ Updated on Thu, 25 Jan 2024 13:45:08 GMT</small>
 </td>
 </tr>
 </tfoot>
