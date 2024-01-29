@@ -103,6 +103,14 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/e74fe0df905e6dc9f000b690fc5bdf98607c4e0b" title="2024-01-27T17:18:20.000+01:00" target="_blank">e74fe0df</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[feature] docker (#33)
+
+- Use node 20 "slim"
+- install pnpm and pm2 using npm</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/wp_test/commits/f0dd8837bc91a2299af3dbad630489d8a9ed5f0c" title="2024-01-23T10:28:18.000+01:00" target="_blank">f0dd8837</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/wp_test" title="A quick environement for testing WordPress in docker">/wp_test</a></strong></div>
           <pre>[update] MariaDB + WP 6.4</pre>
         </td>
@@ -146,16 +154,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-diamond/commits/866c1819871fe9760e146979b70b7c5e7b557d1c" title="2024-01-20T21:41:33.000+01:00" target="_blank">866c1819</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !">/kata-diamond</a></strong></div>
           <pre>[doc] README updated</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-frame/commits/bb6f275664f819ffd2de8c682b5068a7ebd686b8" title="2024-01-20T21:41:33.000+01:00" target="_blank">bb6f2756</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D">/kata-frame</a></strong></div>
-          <pre>[doc] README updated</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 26 Jan 2024 13:45:08 GMT</small>
+<small>⏰ Updated on Mon, 29 Jan 2024 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
