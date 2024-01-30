@@ -32,6 +32,12 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank">boardzilla-core</a>&nbsp;<a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank"><img src="https://img.shields.io/github/stars/boardzilla/boardzilla-core?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mikro-orm/mikro-orm" title="TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases." target="_blank">mikro-orm</a>&nbsp;<a href="https://github.com/mikro-orm/mikro-orm" title="TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases." target="_blank"><img src="https://img.shields.io/github/stars/mikro-orm/mikro-orm?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/etalab/licence-ouverte" title="La licence recommandée pour la publication de données publiques, par Etalab." target="_blank">licence-ouverte</a>&nbsp;<a href="https://github.com/etalab/licence-ouverte" title="La licence recommandée pour la publication de données publiques, par Etalab." target="_blank"><img src="https://img.shields.io/github/stars/etalab/licence-ouverte?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -55,16 +61,16 @@
 <li>
 <a href="https://github.com/Imbwbl/Pluwugins" title="null" target="_blank">Pluwugins</a>&nbsp;<a href="https://github.com/Imbwbl/Pluwugins" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/Pluwugins?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/Imbwbl/random-wallpaper-for-GNOME" title="null" target="_blank">random-wallpaper-for-GNOME</a>&nbsp;<a href="https://github.com/Imbwbl/random-wallpaper-for-GNOME" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/random-wallpaper-for-GNOME?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/discordStreamingButton" title="null" target="_blank">discordStreamingButton</a>&nbsp;<a href="https://github.com/Imbwbl/discordStreamingButton" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/discordStreamingButton?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank">pong-wars</a>&nbsp;<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vnglst/pong-wars?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank">gobandroid</a>&nbsp;<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank"><img src="https://img.shields.io/github/stars/ligi/gobandroid?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank">spotube</a>&nbsp;<a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank"><img src="https://img.shields.io/github/stars/KRTirtho/spotube?style=social" alt="GitHub"></a>
 </li>
@@ -88,12 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Imbwbl/Vanillatmosphere" title="True vanilla pack for atmosphereNX cfw" target="_blank">Vanillatmosphere</a>&nbsp;<a href="https://github.com/Imbwbl/Vanillatmosphere" title="True vanilla pack for atmosphereNX cfw" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/Vanillatmosphere?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/fluidity" title="Fluidity - An accordion based startpage" target="_blank">fluidity</a>&nbsp;<a href="https://github.com/Imbwbl/fluidity" title="Fluidity - An accordion based startpage" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/fluidity?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/first-lego-league-H1-website" title="null" target="_blank">first-lego-league-H1-website</a>&nbsp;<a href="https://github.com/Imbwbl/first-lego-league-H1-website" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/first-lego-league-H1-website?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -158,7 +158,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 29 Jan 2024 13:45:15 GMT</small>
+<small>⏰ Updated on Tue, 30 Jan 2024 13:45:07 GMT</small>
 </td>
 </tr>
 </tfoot>
