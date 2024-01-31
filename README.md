@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank">dracula-theme</a>&nbsp;<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank"><img src="https://img.shields.io/github/stars/dracula/dracula-theme?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank">boardzilla-core</a>&nbsp;<a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank"><img src="https://img.shields.io/github/stars/boardzilla/boardzilla-core?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/Imbwbl/leek-wars" title="Leek Wars, the multiplayer web browser AI programming game in which you train leeks" target="_blank">leek-wars</a>&nbsp;<a href="https://github.com/Imbwbl/leek-wars" title="Leek Wars, the multiplayer web browser AI programming game in which you train leeks" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/leek-wars?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/Imbwbl/Pluwugins" title="null" target="_blank">Pluwugins</a>&nbsp;<a href="https://github.com/Imbwbl/Pluwugins" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/Pluwugins?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank">cilium</a>&nbsp;<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank"><img src="https://img.shields.io/github/stars/cilium/cilium?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/vnglst/pong-wars" title="null" target="_blank">pong-wars</a>&nbsp;<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vnglst/pong-wars?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Imbwbl/Webillatmosphere" title="null" target="_blank">Webillatmosphere</a>&nbsp;<a href="https://github.com/Imbwbl/Webillatmosphere" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/Webillatmosphere?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/Vanillatmosphere" title="True vanilla pack for atmosphereNX cfw" target="_blank">Vanillatmosphere</a>&nbsp;<a href="https://github.com/Imbwbl/Vanillatmosphere" title="True vanilla pack for atmosphereNX cfw" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/Vanillatmosphere?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -158,7 +158,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 30 Jan 2024 13:45:07 GMT</small>
+<small>⏰ Updated on Wed, 31 Jan 2024 13:45:08 GMT</small>
 </td>
 </tr>
 </tfoot>
