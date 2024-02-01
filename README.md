@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 14 years and 0 months.
+    <br />Apparently, I'm hanging around on GitHub since 14 years and 1 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -29,6 +29,40 @@
 <td colspan="2" align="center"><h4>My last starred repos</h4></td>
 </tr>
 <tr>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank">k9mail.app</a>&nbsp;<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank"><img src="https://img.shields.io/github/stars/k9mail/k9mail.app?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank">cilium</a>&nbsp;<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank"><img src="https://img.shields.io/github/stars/cilium/cilium?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank">pong-wars</a>&nbsp;<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vnglst/pong-wars?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank">gobandroid</a>&nbsp;<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank"><img src="https://img.shields.io/github/stars/ligi/gobandroid?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank">spotube</a>&nbsp;<a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank"><img src="https://img.shields.io/github/stars/KRTirtho/spotube?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/softwarecrafters/kata-log" title="Resources to facilitate coding katas" target="_blank">kata-log</a>&nbsp;<a href="https://github.com/softwarecrafters/kata-log" title="Resources to facilitate coding katas" target="_blank"><img src="https://img.shields.io/github/stars/softwarecrafters/kata-log?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains" target="_blank">kata-roman</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-roman?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille" target="_blank">kata-braille</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-braille?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !" target="_blank">kata-quatre</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-quatre?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Imbwbl/cute-translater" title="Shit base 8 encoder" target="_blank">cute-translater</a>&nbsp;<a href="https://github.com/Imbwbl/cute-translater" title="Shit base 8 encoder" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/cute-translater?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
 <td valign="top">
 <ul>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Imbwbl/leek-wars" title="Leek Wars, the multiplayer web browser AI programming game in which you train leeks" target="_blank">leek-wars</a>&nbsp;<a href="https://github.com/Imbwbl/leek-wars" title="Leek Wars, the multiplayer web browser AI programming game in which you train leeks" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/leek-wars?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank">cilium</a>&nbsp;<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank"><img src="https://img.shields.io/github/stars/cilium/cilium?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank">pong-wars</a>&nbsp;<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vnglst/pong-wars?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank">gobandroid</a>&nbsp;<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank"><img src="https://img.shields.io/github/stars/ligi/gobandroid?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank">spotube</a>&nbsp;<a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank"><img src="https://img.shields.io/github/stars/KRTirtho/spotube?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/softwarecrafters/kata-log" title="Resources to facilitate coding katas" target="_blank">kata-log</a>&nbsp;<a href="https://github.com/softwarecrafters/kata-log" title="Resources to facilitate coding katas" target="_blank"><img src="https://img.shields.io/github/stars/softwarecrafters/kata-log?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains" target="_blank">kata-roman</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-roman?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille" target="_blank">kata-braille</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-braille?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !" target="_blank">kata-quatre</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-quatre?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/cute-translater" title="Shit base 8 encoder" target="_blank">cute-translater</a>&nbsp;<a href="https://github.com/Imbwbl/cute-translater" title="Shit base 8 encoder" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/cute-translater?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/Webillatmosphere" title="null" target="_blank">Webillatmosphere</a>&nbsp;<a href="https://github.com/Imbwbl/Webillatmosphere" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/Webillatmosphere?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -158,7 +158,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 31 Jan 2024 13:45:08 GMT</small>
+<small>⏰ Updated on Thu, 01 Feb 2024 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
