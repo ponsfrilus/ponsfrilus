@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank">oss-github-benchmark</a>&nbsp;<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank"><img src="https://img.shields.io/github/stars/digital-sustainability/oss-github-benchmark?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank">uptime-kuma</a>&nbsp;<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank"><img src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !" target="_blank">kata-diamond</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-diamond?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-birthday" title="Kata : créer un système de rappel des anniversaires" target="_blank">kata-birthday</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-birthday" title="Kata : créer un système de rappel des anniversaires" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-birthday?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank">specs</a>&nbsp;<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank"><img src="https://img.shields.io/github/stars/frictionlessdata/specs?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank">k9mail.app</a>&nbsp;<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank"><img src="https://img.shields.io/github/stars/k9mail/k9mail.app?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !" target="_blank">kata-quatre</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-quatre?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/cute-translater" title="Shit base 8 encoder" target="_blank">cute-translater</a>&nbsp;<a href="https://github.com/Imbwbl/cute-translater" title="Shit base 8 encoder" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/cute-translater?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -175,7 +175,7 @@ See https://github.com/ansible/ansible/issues/68571</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 02 Feb 2024 13:45:10 GMT</small>
+<small>⏰ Updated on Mon, 05 Feb 2024 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
