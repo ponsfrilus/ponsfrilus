@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank">mdp</a>&nbsp;<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank"><img src="https://img.shields.io/github/stars/visit1985/mdp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank">oss-github-benchmark</a>&nbsp;<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank"><img src="https://img.shields.io/github/stars/digital-sustainability/oss-github-benchmark?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank">uptime-kuma</a>&nbsp;<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank"><img src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank">dracula-theme</a>&nbsp;<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank"><img src="https://img.shields.io/github/stars/dracula/dracula-theme?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank">boardzilla-core</a>&nbsp;<a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank"><img src="https://img.shields.io/github/stars/boardzilla/boardzilla-core?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mikro-orm/mikro-orm" title="TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases." target="_blank">mikro-orm</a>&nbsp;<a href="https://github.com/mikro-orm/mikro-orm" title="TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases." target="_blank"><img src="https://img.shields.io/github/stars/mikro-orm/mikro-orm?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/etalab/licence-ouverte" title="La licence recommandée pour la publication de données publiques, par Etalab." target="_blank">licence-ouverte</a>&nbsp;<a href="https://github.com/etalab/licence-ouverte" title="La licence recommandée pour la publication de données publiques, par Etalab." target="_blank"><img src="https://img.shields.io/github/stars/etalab/licence-ouverte?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/morethanwords/tweb" title="Telegram Web K, GPL v3" target="_blank">tweb</a>&nbsp;<a href="https://github.com/morethanwords/tweb" title="Telegram Web K, GPL v3" target="_blank"><img src="https://img.shields.io/github/stars/morethanwords/tweb?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre" target="_blank">kata-alien</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-alien?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse" target="_blank">kata-morse</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-morse?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank">HackerNewsRemovals</a>&nbsp;<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank"><img src="https://img.shields.io/github/stars/vitoplantamura/HackerNewsRemovals?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille" target="_blank">kata-braille</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-braille?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank">oss-github-benchmark</a>&nbsp;<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank"><img src="https://img.shields.io/github/stars/digital-sustainability/oss-github-benchmark?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank">uptime-kuma</a>&nbsp;<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank"><img src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank">dracula-theme</a>&nbsp;<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank"><img src="https://img.shields.io/github/stars/dracula/dracula-theme?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank">boardzilla-core</a>&nbsp;<a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank"><img src="https://img.shields.io/github/stars/boardzilla/boardzilla-core?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mikro-orm/mikro-orm" title="TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases." target="_blank">mikro-orm</a>&nbsp;<a href="https://github.com/mikro-orm/mikro-orm" title="TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases." target="_blank"><img src="https://img.shields.io/github/stars/mikro-orm/mikro-orm?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/etalab/licence-ouverte" title="La licence recommandée pour la publication de données publiques, par Etalab." target="_blank">licence-ouverte</a>&nbsp;<a href="https://github.com/etalab/licence-ouverte" title="La licence recommandée pour la publication de données publiques, par Etalab." target="_blank"><img src="https://img.shields.io/github/stars/etalab/licence-ouverte?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/morethanwords/tweb" title="Telegram Web K, GPL v3" target="_blank">tweb</a>&nbsp;<a href="https://github.com/morethanwords/tweb" title="Telegram Web K, GPL v3" target="_blank"><img src="https://img.shields.io/github/stars/morethanwords/tweb?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre" target="_blank">kata-alien</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-alien?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse" target="_blank">kata-morse</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-morse?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !" target="_blank">kata-diamond</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-diamond?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -175,7 +175,7 @@ See https://github.com/ansible/ansible/issues/68571</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 07 Feb 2024 13:45:25 GMT</small>
+<small>⏰ Updated on Thu, 08 Feb 2024 13:45:20 GMT</small>
 </td>
 </tr>
 </tfoot>
