@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank">balancing-cube</a>&nbsp;<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank"><img src="https://img.shields.io/github/stars/willem-pennings/balancing-cube?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank">HackerNewsRemovals</a>&nbsp;<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank"><img src="https://img.shields.io/github/stars/vitoplantamura/HackerNewsRemovals?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank">specs</a>&nbsp;<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank"><img src="https://img.shields.io/github/stars/frictionlessdata/specs?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank">k9mail.app</a>&nbsp;<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank"><img src="https://img.shields.io/github/stars/k9mail/k9mail.app?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank">cilium</a>&nbsp;<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank"><img src="https://img.shields.io/github/stars/cilium/cilium?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank">pong-wars</a>&nbsp;<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vnglst/pong-wars?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank">gobandroid</a>&nbsp;<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank"><img src="https://img.shields.io/github/stars/ligi/gobandroid?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank">spotube</a>&nbsp;<a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank"><img src="https://img.shields.io/github/stars/KRTirtho/spotube?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/softwarecrafters/kata-log" title="Resources to facilitate coding katas" target="_blank">kata-log</a>&nbsp;<a href="https://github.com/softwarecrafters/kata-log" title="Resources to facilitate coding katas" target="_blank"><img src="https://img.shields.io/github/stars/softwarecrafters/kata-log?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains" target="_blank">kata-roman</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-roman?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank">mdp</a>&nbsp;<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank"><img src="https://img.shields.io/github/stars/visit1985/mdp?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse" target="_blank">kata-morse</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-morse?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank">HackerNewsRemovals</a>&nbsp;<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank"><img src="https://img.shields.io/github/stars/vitoplantamura/HackerNewsRemovals?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank">specs</a>&nbsp;<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank"><img src="https://img.shields.io/github/stars/frictionlessdata/specs?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank">k9mail.app</a>&nbsp;<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank"><img src="https://img.shields.io/github/stars/k9mail/k9mail.app?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank">cilium</a>&nbsp;<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank"><img src="https://img.shields.io/github/stars/cilium/cilium?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank">pong-wars</a>&nbsp;<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vnglst/pong-wars?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank">gobandroid</a>&nbsp;<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank"><img src="https://img.shields.io/github/stars/ligi/gobandroid?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank">spotube</a>&nbsp;<a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank"><img src="https://img.shields.io/github/stars/KRTirtho/spotube?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/softwarecrafters/kata-log" title="Resources to facilitate coding katas" target="_blank">kata-log</a>&nbsp;<a href="https://github.com/softwarecrafters/kata-log" title="Resources to facilitate coding katas" target="_blank"><img src="https://img.shields.io/github/stars/softwarecrafters/kata-log?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains" target="_blank">kata-roman</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-roman?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille" target="_blank">kata-braille</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-braille?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -175,7 +175,7 @@ See https://github.com/ansible/ansible/issues/68571</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 09 Feb 2024 13:45:13 GMT</small>
+<small>⏰ Updated on Mon, 12 Feb 2024 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
