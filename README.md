@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank">HandBrake</a>&nbsp;<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank"><img src="https://img.shields.io/github/stars/HandBrake/HandBrake?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank">act</a>&nbsp;<a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank"><img src="https://img.shields.io/github/stars/nektos/act?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/morethanwords/tweb" title="Telegram Web K, GPL v3" target="_blank">tweb</a>&nbsp;<a href="https://github.com/morethanwords/tweb" title="Telegram Web K, GPL v3" target="_blank"><img src="https://img.shields.io/github/stars/morethanwords/tweb?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre" target="_blank">kata-alien</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-alien?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more" target="_blank">framework</a>&nbsp;<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more" target="_blank"><img src="https://img.shields.io/github/stars/observablehq/framework?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank">balancing-cube</a>&nbsp;<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank"><img src="https://img.shields.io/github/stars/willem-pennings/balancing-cube?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/softwarecrafters/kata-log" title="Resources to facilitate coding katas" target="_blank">kata-log</a>&nbsp;<a href="https://github.com/softwarecrafters/kata-log" title="Resources to facilitate coding katas" target="_blank"><img src="https://img.shields.io/github/stars/softwarecrafters/kata-log?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains" target="_blank">kata-roman</a>&nbsp;<a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains" target="_blank"><img src="https://img.shields.io/github/stars/ponsfrilus/kata-roman?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -182,7 +182,7 @@ See https://github.com/ansible/ansible/issues/68571</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 15 Feb 2024 13:45:14 GMT</small>
+<small>⏰ Updated on Fri, 16 Feb 2024 13:45:18 GMT</small>
 </td>
 </tr>
 </tfoot>
