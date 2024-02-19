@@ -66,7 +66,7 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more" target="_blank">framework</a>&nbsp;<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more" target="_blank"><img src="https://img.shields.io/github/stars/observablehq/framework?style=social" alt="GitHub"></a>
+<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank">framework</a>&nbsp;<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank"><img src="https://img.shields.io/github/stars/observablehq/framework?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank">balancing-cube</a>&nbsp;<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank"><img src="https://img.shields.io/github/stars/willem-pennings/balancing-cube?style=social" alt="GitHub"></a>
@@ -182,7 +182,7 @@ See https://github.com/ansible/ansible/issues/68571</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 16 Feb 2024 13:45:18 GMT</small>
+<small>⏰ Updated on Mon, 19 Feb 2024 13:45:14 GMT</small>
 </td>
 </tr>
 </tfoot>
