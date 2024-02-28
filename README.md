@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank">supertux</a>&nbsp;<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank"><img src="https://img.shields.io/github/stars/SuperTux/supertux?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank">HandBrake</a>&nbsp;<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank"><img src="https://img.shields.io/github/stars/HandBrake/HandBrake?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank">act</a>&nbsp;<a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank"><img src="https://img.shields.io/github/stars/nektos/act?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank">mdp</a>&nbsp;<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank"><img src="https://img.shields.io/github/stars/visit1985/mdp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank">oss-github-benchmark</a>&nbsp;<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank"><img src="https://img.shields.io/github/stars/digital-sustainability/oss-github-benchmark?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank">uptime-kuma</a>&nbsp;<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank"><img src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank">dracula-theme</a>&nbsp;<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank"><img src="https://img.shields.io/github/stars/dracula/dracula-theme?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank">boardzilla-core</a>&nbsp;<a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank"><img src="https://img.shields.io/github/stars/boardzilla/boardzilla-core?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mikro-orm/mikro-orm" title="TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases." target="_blank">mikro-orm</a>&nbsp;<a href="https://github.com/mikro-orm/mikro-orm" title="TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases." target="_blank"><img src="https://img.shields.io/github/stars/mikro-orm/mikro-orm?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/etalab/licence-ouverte" title="La licence recommandée pour la publication de données publiques, par Etalab." target="_blank">licence-ouverte</a>&nbsp;<a href="https://github.com/etalab/licence-ouverte" title="La licence recommandée pour la publication de données publiques, par Etalab." target="_blank"><img src="https://img.shields.io/github/stars/etalab/licence-ouverte?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank">KumaCompanion</a>&nbsp;<a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank"><img src="https://img.shields.io/github/stars/Zerka30/KumaCompanion?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,28 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank">HandBrake</a>&nbsp;<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank"><img src="https://img.shields.io/github/stars/HandBrake/HandBrake?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank">act</a>&nbsp;<a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank"><img src="https://img.shields.io/github/stars/nektos/act?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank">mdp</a>&nbsp;<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank"><img src="https://img.shields.io/github/stars/visit1985/mdp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank">oss-github-benchmark</a>&nbsp;<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank"><img src="https://img.shields.io/github/stars/digital-sustainability/oss-github-benchmark?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank">uptime-kuma</a>&nbsp;<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank"><img src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank">dracula-theme</a>&nbsp;<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank"><img src="https://img.shields.io/github/stars/dracula/dracula-theme?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank">boardzilla-core</a>&nbsp;<a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank"><img src="https://img.shields.io/github/stars/boardzilla/boardzilla-core?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mikro-orm/mikro-orm" title="TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases." target="_blank">mikro-orm</a>&nbsp;<a href="https://github.com/mikro-orm/mikro-orm" title="TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases." target="_blank"><img src="https://img.shields.io/github/stars/mikro-orm/mikro-orm?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/etalab/licence-ouverte" title="La licence recommandée pour la publication de données publiques, par Etalab." target="_blank">licence-ouverte</a>&nbsp;<a href="https://github.com/etalab/licence-ouverte" title="La licence recommandée pour la publication de données publiques, par Etalab." target="_blank"><img src="https://img.shields.io/github/stars/etalab/licence-ouverte?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/morethanwords/tweb" title="Telegram Web K, GPL v3" target="_blank">tweb</a>&nbsp;<a href="https://github.com/morethanwords/tweb" title="Telegram Web K, GPL v3" target="_blank"><img src="https://img.shields.io/github/stars/morethanwords/tweb?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/monitoringrafana/commits/bf066be9bd6b5292045cea08e056823881693412" title="2024-02-28T09:25:56.000+01:00" target="_blank">bf066be9</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/monitoringrafana" title="A docker-compose example to monitor a local computer with Grafana, Prometheus and node-exporter.">/monitoringrafana</a></strong></div>
+          <pre>Adapt the alertmanager's doc</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/monitoringrafana/commits/36570d90d717841b032ea800903a3cffa6958690" title="2024-02-28T09:17:07.000+01:00" target="_blank">36570d90</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/monitoringrafana" title="A docker-compose example to monitor a local computer with Grafana, Prometheus and node-exporter.">/monitoringrafana</a></strong></div>
+          <pre>Add a Makefile
+
+Type `make` to get some help with it.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/monitoringrafana/commits/35e7faa2bc9e3df49c2058eff350bf1bbb2d200f" title="2024-02-28T09:16:47.000+01:00" target="_blank">35e7faa2</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/monitoringrafana" title="A docker-compose example to monitor a local computer with Grafana, Prometheus and node-exporter.">/monitoringrafana</a></strong></div>
+          <pre>Add the alertmanager with a basic alert</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/bf69e754aef2a7f38deb347aa4769d5a12cd9bef" title="2024-02-14T18:37:17.000+01:00" target="_blank">bf69e754</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[update] WPForms settings
@@ -163,26 +180,11 @@ See https://github.com/ansible/ansible/issues/68571</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-quatre/commits/14759f0365eac67107067d74e3a44c1f8b1c8f4b" title="2024-01-20T21:41:35.000+01:00" target="_blank">14759f03</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !">/kata-quatre</a></strong></div>
           <pre>[doc] README updated</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-roman/commits/74a14155f2f5a71dabc5479836358af9c8531a36" title="2024-01-20T21:41:35.000+01:00" target="_blank">74a14155</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-roman" title="Kata : chiffres romains">/kata-roman</a></strong></div>
-          <pre>[doc] README updated</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/457929b341cac604d9a4df2fe92b8319011c85f0" title="2024-01-20T21:41:35.000+01:00" target="_blank">457929b3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[doc] README updated</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-morse/commits/3c2da1cc7a7281f659c0605b01ca2c2a217fd272" title="2024-01-20T21:41:34.000+01:00" target="_blank">3c2da1cc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse">/kata-morse</a></strong></div>
-          <pre>[doc] README updated</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 27 Feb 2024 13:45:15 GMT</small>
+<small>⏰ Updated on Wed, 28 Feb 2024 13:45:18 GMT</small>
 </td>
 </tr>
 </tfoot>
