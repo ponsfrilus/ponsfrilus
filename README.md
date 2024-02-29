@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-last-page-changes/commits/c8f444bcdd240b9af62f5da2217d106c24007d41" title="2024-02-29T11:54:41.000+01:00" target="_blank">c8f444bc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-last-page-changes" title="Système d’information permettant de connaître la date et la personne ayant effectué la dernière modification sur une page WordPress.">/wp-plugin-last-page-changes</a></strong></div>
+          <pre>[caution] code moved to wp-mu-plugins
+
+This plugin now lives under the [wp-mu-plugins repository](https://github.com/epfl-si/wp-mu-plugins/), [here](https://github.com/epfl-si/wp-mu-plugins/blob/master/EPFL_last_page_changes.php).</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/monitoringrafana/commits/bf066be9bd6b5292045cea08e056823881693412" title="2024-02-28T09:25:56.000+01:00" target="_blank">bf066be9</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/monitoringrafana" title="A docker-compose example to monitor a local computer with Grafana, Prometheus and node-exporter.">/monitoringrafana</a></strong></div>
           <pre>Adapt the alertmanager's doc</pre>
         </td>
@@ -175,16 +182,11 @@ See https://github.com/ansible/ansible/issues/68571</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/dojo-like-script/commits/ad25e438162309666befa3ae0b439a1898a05fcd" title="2024-01-20T21:58:14.000+01:00" target="_blank">ad25e438</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/dojo-like-script" title="A script to like all epfl-dojo repo">/dojo-like-script</a></strong></div>
           <pre>[fix] stargazed repo on own line</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-quatre/commits/14759f0365eac67107067d74e3a44c1f8b1c8f4b" title="2024-01-20T21:41:35.000+01:00" target="_blank">14759f03</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !">/kata-quatre</a></strong></div>
-          <pre>[doc] README updated</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 28 Feb 2024 13:45:18 GMT</small>
+<small>⏰ Updated on Thu, 29 Feb 2024 13:45:20 GMT</small>
 </td>
 </tr>
 </tfoot>
