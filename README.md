@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/HeyPuter/puter" title="The Internet OS!" target="_blank">puter</a>&nbsp;<a href="https://github.com/HeyPuter/puter" title="The Internet OS!" target="_blank"><img src="https://img.shields.io/github/stars/HeyPuter/puter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank">KumaCompanion</a>&nbsp;<a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank"><img src="https://img.shields.io/github/stars/Zerka30/KumaCompanion?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank">framework</a>&nbsp;<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank"><img src="https://img.shields.io/github/stars/observablehq/framework?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank">balancing-cube</a>&nbsp;<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank"><img src="https://img.shields.io/github/stars/willem-pennings/balancing-cube?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank">HackerNewsRemovals</a>&nbsp;<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank"><img src="https://img.shields.io/github/stars/vitoplantamura/HackerNewsRemovals?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank">specs</a>&nbsp;<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank"><img src="https://img.shields.io/github/stars/frictionlessdata/specs?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank">k9mail.app</a>&nbsp;<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank"><img src="https://img.shields.io/github/stars/k9mail/k9mail.app?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank">cilium</a>&nbsp;<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank"><img src="https://img.shields.io/github/stars/cilium/cilium?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank">pong-wars</a>&nbsp;<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vnglst/pong-wars?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank">gobandroid</a>&nbsp;<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank"><img src="https://img.shields.io/github/stars/ligi/gobandroid?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank">supertux</a>&nbsp;<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank"><img src="https://img.shields.io/github/stars/SuperTux/supertux?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,25 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank">KumaCompanion</a>&nbsp;<a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank"><img src="https://img.shields.io/github/stars/Zerka30/KumaCompanion?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank">framework</a>&nbsp;<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank"><img src="https://img.shields.io/github/stars/observablehq/framework?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank">balancing-cube</a>&nbsp;<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank"><img src="https://img.shields.io/github/stars/willem-pennings/balancing-cube?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank">HackerNewsRemovals</a>&nbsp;<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank"><img src="https://img.shields.io/github/stars/vitoplantamura/HackerNewsRemovals?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank">specs</a>&nbsp;<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank"><img src="https://img.shields.io/github/stars/frictionlessdata/specs?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank">k9mail.app</a>&nbsp;<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank"><img src="https://img.shields.io/github/stars/k9mail/k9mail.app?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank">cilium</a>&nbsp;<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank"><img src="https://img.shields.io/github/stars/cilium/cilium?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank">pong-wars</a>&nbsp;<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vnglst/pong-wars?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank">gobandroid</a>&nbsp;<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank"><img src="https://img.shields.io/github/stars/ligi/gobandroid?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank">spotube</a>&nbsp;<a href="https://github.com/KRTirtho/spotube" title="🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!" target="_blank"><img src="https://img.shields.io/github/stars/KRTirtho/spotube?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp_theme_ai_epfl.ch/commits/766be866c6b270c808d8ef906e4291c57d6b429b" title="2024-03-04T15:30:34.000+01:00" target="_blank">766be866</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp_theme_ai_epfl.ch" title="null">/wp_theme_ai_epfl.ch</a></strong></div>
+          <pre>[doc] README.md updated
+
+There was some error in the target's name.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp_theme_ai_epfl.ch/commits/a060f5555b3164e4a713bd2d70db21a2beeb3fe2" title="2024-03-04T14:36:29.000+01:00" target="_blank">a060f555</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp_theme_ai_epfl.ch" title="null">/wp_theme_ai_epfl.ch</a></strong></div>
+          <pre>[doc] README.md
+
+Add some projet's overview and 2 Makefile's commands.</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-last-page-changes/commits/c8f444bcdd240b9af62f5da2217d106c24007d41" title="2024-02-29T11:54:41.000+01:00" target="_blank">c8f444bc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-last-page-changes" title="Système d’information permettant de connaître la date et la personne ayant effectué la dernière modification sur une page WordPress.">/wp-plugin-last-page-changes</a></strong></div>
           <pre>[caution] code moved to wp-mu-plugins
@@ -172,21 +186,11 @@ It's kind of funny the first time, but let's disable it on the long run.
 
 See https://github.com/ansible/ansible/issues/68571</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/wp_test/commits/f0dd8837bc91a2299af3dbad630489d8a9ed5f0c" title="2024-01-23T10:28:18.000+01:00" target="_blank">f0dd8837</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/wp_test" title="A quick environement for testing WordPress in docker">/wp_test</a></strong></div>
-          <pre>[update] MariaDB + WP 6.4</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/dojo-like-script/commits/ad25e438162309666befa3ae0b439a1898a05fcd" title="2024-01-20T21:58:14.000+01:00" target="_blank">ad25e438</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/dojo-like-script" title="A script to like all epfl-dojo repo">/dojo-like-script</a></strong></div>
-          <pre>[fix] stargazed repo on own line</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 04 Mar 2024 13:45:08 GMT</small>
+<small>⏰ Updated on Tue, 05 Mar 2024 13:45:07 GMT</small>
 </td>
 </tr>
 </tfoot>
