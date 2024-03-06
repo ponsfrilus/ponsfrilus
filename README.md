@@ -103,6 +103,15 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp_theme_ai_epfl.ch/commits/eab6b2aed25cae60cda85c08d24fdfa07fe1e691" title="2024-03-05T14:50:23.000+01:00" target="_blank">eab6b2ae</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp_theme_ai_epfl.ch" title="null">/wp_theme_ai_epfl.ch</a></strong></div>
+          <pre>[feature] Makefile improvements
+
+- Use variables for sub-fodler and theme branch
+- `make all`
+- `make help`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp_theme_ai_epfl.ch/commits/766be866c6b270c808d8ef906e4291c57d6b429b" title="2024-03-04T15:30:34.000+01:00" target="_blank">766be866</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp_theme_ai_epfl.ch" title="null">/wp_theme_ai_epfl.ch</a></strong></div>
           <pre>[doc] README.md updated
 
@@ -164,33 +173,11 @@ use `installed` instead of `symlinked` for any plugins and themes.</pre>
 - Use node 20 "slim"
 - install pnpm and pm2 using npm</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/0cdd00a5e0b8fc40c9e9f2403e2a19c8d798e9eb" title="2024-01-25T09:27:50.000+01:00" target="_blank">0cdd00a5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] say no to "cowsay"
-
-Whenever cowsay is intalled, Ansible use it:
-```sh
-_________________________________________________________
-< TASK [../roles/wordpress-instance : Delete sample page] >
- ---------------------------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-
-```
-
-It's kind of funny the first time, but let's disable it on the long run.
-
-See https://github.com/ansible/ansible/issues/68571</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 05 Mar 2024 13:45:07 GMT</small>
+<small>⏰ Updated on Wed, 06 Mar 2024 13:45:27 GMT</small>
 </td>
 </tr>
 </tfoot>
