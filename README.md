@@ -167,17 +167,36 @@ use `installed` instead of `symlinked` for any plugins and themes.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/e74fe0df905e6dc9f000b690fc5bdf98607c4e0b" title="2024-01-27T17:18:20.000+01:00" target="_blank">e74fe0df</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] docker (#33)
+          <div><strong><a href="https://api.github.com/repos/digital-sustainability/oss-github-benchmark/commits/88bff4c38bcdba923d910bce82bac760dd7344b4" title="2024-02-03T18:28:11.000+01:00" target="_blank">88bff4c3</a><a href="https://github.com/digital-sustainability">@digital-sustainability</a><a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub">/oss-github-benchmark</a></strong></div>
+          <pre>Add some of EPFL repositories
 
-- Use node 20 "slim"
-- install pnpm and pm2 using npm</pre>
+- chili-epfl
+- cvlab-epfl
+- dedis
+- DESL-EPFL
+- dslab-epfl
+- epfl-dojo
+- EPFL-ENAC
+- epfl-exts
+- epfl-ic
+- epfl-lasa
+- epfl-mades
+- epfl-ml4ed
+- epfl-scitas
+- epfl-SDP
+- epfl-si
+- epfllibrary
+- GameLab-UNIL-EPFL
+- lampepfl
+- lbnc-epfl
+- lsmo-epfl
+- PolyLAN</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 06 Mar 2024 13:45:27 GMT</small>
+<small>⏰ Updated on Thu, 07 Mar 2024 13:45:18 GMT</small>
 </td>
 </tr>
 </tfoot>
