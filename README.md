@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank">thunderbird-android</a>&nbsp;<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank"><img src="https://img.shields.io/github/stars/thunderbird/thunderbird-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank">supertux</a>&nbsp;<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank"><img src="https://img.shields.io/github/stars/SuperTux/supertux?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank">HandBrake</a>&nbsp;<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank"><img src="https://img.shields.io/github/stars/HandBrake/HandBrake?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank">act</a>&nbsp;<a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank"><img src="https://img.shields.io/github/stars/nektos/act?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank">mdp</a>&nbsp;<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank"><img src="https://img.shields.io/github/stars/visit1985/mdp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank">oss-github-benchmark</a>&nbsp;<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank"><img src="https://img.shields.io/github/stars/digital-sustainability/oss-github-benchmark?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank">uptime-kuma</a>&nbsp;<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank"><img src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank">dracula-theme</a>&nbsp;<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank"><img src="https://img.shields.io/github/stars/dracula/dracula-theme?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank">boardzilla-core</a>&nbsp;<a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank"><img src="https://img.shields.io/github/stars/boardzilla/boardzilla-core?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mikro-orm/mikro-orm" title="TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases." target="_blank">mikro-orm</a>&nbsp;<a href="https://github.com/mikro-orm/mikro-orm" title="TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases." target="_blank"><img src="https://img.shields.io/github/stars/mikro-orm/mikro-orm?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/HeyPuter/puter" title="The Internet OS!" target="_blank">puter</a>&nbsp;<a href="https://github.com/HeyPuter/puter" title="The Internet OS!" target="_blank"><img src="https://img.shields.io/github/stars/HeyPuter/puter?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,21 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank">supertux</a>&nbsp;<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank"><img src="https://img.shields.io/github/stars/SuperTux/supertux?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank">HandBrake</a>&nbsp;<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank"><img src="https://img.shields.io/github/stars/HandBrake/HandBrake?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank">act</a>&nbsp;<a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank"><img src="https://img.shields.io/github/stars/nektos/act?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank">mdp</a>&nbsp;<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank"><img src="https://img.shields.io/github/stars/visit1985/mdp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank">oss-github-benchmark</a>&nbsp;<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank"><img src="https://img.shields.io/github/stars/digital-sustainability/oss-github-benchmark?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank">uptime-kuma</a>&nbsp;<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank"><img src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank">dracula-theme</a>&nbsp;<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank"><img src="https://img.shields.io/github/stars/dracula/dracula-theme?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank">boardzilla-core</a>&nbsp;<a href="https://github.com/boardzilla/boardzilla-core" title="Boardzilla core library" target="_blank"><img src="https://img.shields.io/github/stars/boardzilla/boardzilla-core?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mikro-orm/mikro-orm" title="TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases." target="_blank">mikro-orm</a>&nbsp;<a href="https://github.com/mikro-orm/mikro-orm" title="TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases." target="_blank"><img src="https://img.shields.io/github/stars/mikro-orm/mikro-orm?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/etalab/licence-ouverte" title="La licence recommandée pour la publication de données publiques, par Etalab." target="_blank">licence-ouverte</a>&nbsp;<a href="https://github.com/etalab/licence-ouverte" title="La licence recommandée pour la publication de données publiques, par Etalab." target="_blank"><img src="https://img.shields.io/github/stars/etalab/licence-ouverte?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/090f7565a09b8b768402dfed09c0ed0fca544289" title="2024-03-08T08:21:23.000+01:00" target="_blank">090f7565</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
+          <pre>[doc] add TPI + schedule example</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/ddf2607e5c7fff2ce7a50865376e15c0c33ec8b1" title="2024-03-08T08:20:45.000+01:00" target="_blank">ddf2607e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
+          <pre>[chore] update docsify</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp_theme_ai_epfl.ch/commits/eab6b2aed25cae60cda85c08d24fdfa07fe1e691" title="2024-03-05T14:50:23.000+01:00" target="_blank">eab6b2ae</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp_theme_ai_epfl.ch" title="null">/wp_theme_ai_epfl.ch</a></strong></div>
           <pre>[feature] Makefile improvements
@@ -156,47 +166,11 @@ Type `make` to get some help with it.</pre>
 Some new settings are now needed to avoid a "perma-yellow",
 such as `modern-markup` or `email-carbon-copy`.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/91cc4083a1cbf436c4b773191f9b7a98155ea27f" title="2024-02-14T18:03:40.000+01:00" target="_blank">91cc4083</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] desymlink WPForms
-
-Due to @domq's yesterday 
-[PR](https://github.com/epfl-si/wp-ops/pull/546), it's now possible to 
-use `installed` instead of `symlinked` for any plugins and themes.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/digital-sustainability/oss-github-benchmark/commits/88bff4c38bcdba923d910bce82bac760dd7344b4" title="2024-02-03T18:28:11.000+01:00" target="_blank">88bff4c3</a><a href="https://github.com/digital-sustainability">@digital-sustainability</a><a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub">/oss-github-benchmark</a></strong></div>
-          <pre>Add some of EPFL repositories
-
-- chili-epfl
-- cvlab-epfl
-- dedis
-- DESL-EPFL
-- dslab-epfl
-- epfl-dojo
-- EPFL-ENAC
-- epfl-exts
-- epfl-ic
-- epfl-lasa
-- epfl-mades
-- epfl-ml4ed
-- epfl-scitas
-- epfl-SDP
-- epfl-si
-- epfllibrary
-- GameLab-UNIL-EPFL
-- lampepfl
-- lbnc-epfl
-- lsmo-epfl
-- PolyLAN</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 07 Mar 2024 13:45:18 GMT</small>
+<small>⏰ Updated on Fri, 08 Mar 2024 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
