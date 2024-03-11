@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/aaronraimist/DontFuckWithPaste" title="Google Chrome and Firefox extension that prevents the blocking of pasting into input fields" target="_blank">DontFuckWithPaste</a>&nbsp;<a href="https://github.com/aaronraimist/DontFuckWithPaste" title="Google Chrome and Firefox extension that prevents the blocking of pasting into input fields" target="_blank"><img src="https://img.shields.io/github/stars/aaronraimist/DontFuckWithPaste?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/HeyPuter/puter" title="🌐 The Internet OS!" target="_blank">puter</a>&nbsp;<a href="https://github.com/HeyPuter/puter" title="🌐 The Internet OS!" target="_blank"><img src="https://img.shields.io/github/stars/HeyPuter/puter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank">KumaCompanion</a>&nbsp;<a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank"><img src="https://img.shields.io/github/stars/Zerka30/KumaCompanion?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank">framework</a>&nbsp;<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank"><img src="https://img.shields.io/github/stars/observablehq/framework?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank">balancing-cube</a>&nbsp;<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank"><img src="https://img.shields.io/github/stars/willem-pennings/balancing-cube?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank">HackerNewsRemovals</a>&nbsp;<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank"><img src="https://img.shields.io/github/stars/vitoplantamura/HackerNewsRemovals?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank">specs</a>&nbsp;<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank"><img src="https://img.shields.io/github/stars/frictionlessdata/specs?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank">k9mail.app</a>&nbsp;<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank"><img src="https://img.shields.io/github/stars/k9mail/k9mail.app?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank">cilium</a>&nbsp;<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank"><img src="https://img.shields.io/github/stars/cilium/cilium?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank">pong-wars</a>&nbsp;<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vnglst/pong-wars?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank">thunderbird-android</a>&nbsp;<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank"><img src="https://img.shields.io/github/stars/thunderbird/thunderbird-android?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,18 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/HeyPuter/puter" title="The Internet OS!" target="_blank">puter</a>&nbsp;<a href="https://github.com/HeyPuter/puter" title="The Internet OS!" target="_blank"><img src="https://img.shields.io/github/stars/HeyPuter/puter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank">KumaCompanion</a>&nbsp;<a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank"><img src="https://img.shields.io/github/stars/Zerka30/KumaCompanion?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank">framework</a>&nbsp;<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank"><img src="https://img.shields.io/github/stars/observablehq/framework?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank">balancing-cube</a>&nbsp;<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank"><img src="https://img.shields.io/github/stars/willem-pennings/balancing-cube?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank">HackerNewsRemovals</a>&nbsp;<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank"><img src="https://img.shields.io/github/stars/vitoplantamura/HackerNewsRemovals?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank">specs</a>&nbsp;<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank"><img src="https://img.shields.io/github/stars/frictionlessdata/specs?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank">k9mail.app</a>&nbsp;<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank"><img src="https://img.shields.io/github/stars/k9mail/k9mail.app?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank">cilium</a>&nbsp;<a href="https://github.com/cilium/cilium" title="eBPF-based Networking, Security, and Observability" target="_blank"><img src="https://img.shields.io/github/stars/cilium/cilium?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank">pong-wars</a>&nbsp;<a href="https://github.com/vnglst/pong-wars" title="null" target="_blank"><img src="https://img.shields.io/github/stars/vnglst/pong-wars?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank">gobandroid</a>&nbsp;<a href="https://github.com/ligi/gobandroid" title="A Goban for Android" target="_blank"><img src="https://img.shields.io/github/stars/ligi/gobandroid?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/adbcead22be142fcbbae3a19757977356afe07e1" title="2024-03-08T17:39:08.000+01:00" target="_blank">adbcead2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
+          <pre>[doc] update Ansible version to 9.3.0
+
+This will avoid potential problems with python 2.12 (see https://github.com/ansible/ansible/issues/81946).</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/090f7565a09b8b768402dfed09c0ed0fca544289" title="2024-03-08T08:21:23.000+01:00" target="_blank">090f7565</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
           <pre>[doc] add TPI + schedule example</pre>
@@ -158,19 +165,11 @@ Type `make` to get some help with it.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/monitoringrafana/commits/35e7faa2bc9e3df49c2058eff350bf1bbb2d200f" title="2024-02-28T09:16:47.000+01:00" target="_blank">35e7faa2</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/monitoringrafana" title="A docker-compose example to monitor a local computer with Grafana, Prometheus and node-exporter.">/monitoringrafana</a></strong></div>
           <pre>Add the alertmanager with a basic alert</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/bf69e754aef2a7f38deb347aa4769d5a12cd9bef" title="2024-02-14T18:37:17.000+01:00" target="_blank">bf69e754</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[update] WPForms settings
-
-Some new settings are now needed to avoid a "perma-yellow",
-such as `modern-markup` or `email-carbon-copy`.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 08 Mar 2024 13:45:11 GMT</small>
+<small>⏰ Updated on Mon, 11 Mar 2024 13:45:07 GMT</small>
 </td>
 </tr>
 </tfoot>
