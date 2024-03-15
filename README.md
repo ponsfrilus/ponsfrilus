@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank">indico</a>&nbsp;<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank"><img src="https://img.shields.io/github/stars/indico/indico?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/altsem/gitu" title="A TUI Git client inspired by Magit" target="_blank">gitu</a>&nbsp;<a href="https://github.com/altsem/gitu" title="A TUI Git client inspired by Magit" target="_blank"><img src="https://img.shields.io/github/stars/altsem/gitu?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank">jsoncanvas</a>&nbsp;<a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank"><img src="https://img.shields.io/github/stars/obsidianmd/jsoncanvas?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank">thunderbird-android</a>&nbsp;<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank"><img src="https://img.shields.io/github/stars/thunderbird/thunderbird-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank">supertux</a>&nbsp;<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank"><img src="https://img.shields.io/github/stars/SuperTux/supertux?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank">HandBrake</a>&nbsp;<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank"><img src="https://img.shields.io/github/stars/HandBrake/HandBrake?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank">act</a>&nbsp;<a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank"><img src="https://img.shields.io/github/stars/nektos/act?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank">mdp</a>&nbsp;<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank"><img src="https://img.shields.io/github/stars/visit1985/mdp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank">oss-github-benchmark</a>&nbsp;<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank"><img src="https://img.shields.io/github/stars/digital-sustainability/oss-github-benchmark?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank">uptime-kuma</a>&nbsp;<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank"><img src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/NeogitOrg/neogit" title="An interactive and powerful Git interface for Neovim, inspired by Magit" target="_blank">neogit</a>&nbsp;<a href="https://github.com/NeogitOrg/neogit" title="An interactive and powerful Git interface for Neovim, inspired by Magit" target="_blank"><img src="https://img.shields.io/github/stars/NeogitOrg/neogit?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank">k9mail.app</a>&nbsp;<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank"><img src="https://img.shields.io/github/stars/k9mail/k9mail.app?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/altsem/gitu" title="A TUI Git client inspired by Magit" target="_blank">gitu</a>&nbsp;<a href="https://github.com/altsem/gitu" title="A TUI Git client inspired by Magit" target="_blank"><img src="https://img.shields.io/github/stars/altsem/gitu?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank">jsoncanvas</a>&nbsp;<a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank"><img src="https://img.shields.io/github/stars/obsidianmd/jsoncanvas?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank">thunderbird-android</a>&nbsp;<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank"><img src="https://img.shields.io/github/stars/thunderbird/thunderbird-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank">supertux</a>&nbsp;<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank"><img src="https://img.shields.io/github/stars/SuperTux/supertux?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank">HandBrake</a>&nbsp;<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank"><img src="https://img.shields.io/github/stars/HandBrake/HandBrake?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank">act</a>&nbsp;<a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank"><img src="https://img.shields.io/github/stars/nektos/act?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank">mdp</a>&nbsp;<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank"><img src="https://img.shields.io/github/stars/visit1985/mdp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank">oss-github-benchmark</a>&nbsp;<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank"><img src="https://img.shields.io/github/stars/digital-sustainability/oss-github-benchmark?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank">uptime-kuma</a>&nbsp;<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank"><img src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank">dracula-theme</a>&nbsp;<a href="https://github.com/dracula/dracula-theme" title="🧛🏻‍♂️ One theme. All platforms." target="_blank"><img src="https://img.shields.io/github/stars/dracula/dracula-theme?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -169,7 +169,7 @@ Type `make` to get some help with it.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 14 Mar 2024 13:45:10 GMT</small>
+<small>⏰ Updated on Fri, 15 Mar 2024 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
