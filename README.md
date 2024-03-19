@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank">planka</a>&nbsp;<a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank"><img src="https://img.shields.io/github/stars/plankanban/planka?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/RajSolai/TextSnatcher" title="How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop." target="_blank">TextSnatcher</a>&nbsp;<a href="https://github.com/RajSolai/TextSnatcher" title="How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop." target="_blank"><img src="https://img.shields.io/github/stars/RajSolai/TextSnatcher?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/NeogitOrg/neogit" title="An interactive and powerful Git interface for Neovim, inspired by Magit" target="_blank">neogit</a>&nbsp;<a href="https://github.com/NeogitOrg/neogit" title="An interactive and powerful Git interface for Neovim, inspired by Magit" target="_blank"><img src="https://img.shields.io/github/stars/NeogitOrg/neogit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/teableio/teable" title="✨ A Super fast, Real-time, Professional, Developer friendly, No code database" target="_blank">teable</a>&nbsp;<a href="https://github.com/teableio/teable" title="✨ A Super fast, Real-time, Professional, Developer friendly, No code database" target="_blank"><img src="https://img.shields.io/github/stars/teableio/teable?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/aaronraimist/DontFuckWithPaste" title="Google Chrome and Firefox extension that prevents the blocking of pasting into input fields" target="_blank">DontFuckWithPaste</a>&nbsp;<a href="https://github.com/aaronraimist/DontFuckWithPaste" title="Google Chrome and Firefox extension that prevents the blocking of pasting into input fields" target="_blank"><img src="https://img.shields.io/github/stars/aaronraimist/DontFuckWithPaste?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/HeyPuter/puter" title="🌐 The Internet OS!" target="_blank">puter</a>&nbsp;<a href="https://github.com/HeyPuter/puter" title="🌐 The Internet OS!" target="_blank"><img src="https://img.shields.io/github/stars/HeyPuter/puter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank">KumaCompanion</a>&nbsp;<a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank"><img src="https://img.shields.io/github/stars/Zerka30/KumaCompanion?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank">framework</a>&nbsp;<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank"><img src="https://img.shields.io/github/stars/observablehq/framework?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank">balancing-cube</a>&nbsp;<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank"><img src="https://img.shields.io/github/stars/willem-pennings/balancing-cube?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank">HackerNewsRemovals</a>&nbsp;<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank"><img src="https://img.shields.io/github/stars/vitoplantamura/HackerNewsRemovals?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater-next-generation</a>&nbsp;<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/Universal-Debloater-Alliance/universal-android-debloater-next-generation?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank">indico</a>&nbsp;<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank"><img src="https://img.shields.io/github/stars/indico/indico?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank">oss-github-benchmark</a>&nbsp;<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank"><img src="https://img.shields.io/github/stars/digital-sustainability/oss-github-benchmark?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank">uptime-kuma</a>&nbsp;<a href="https://github.com/louislam/uptime-kuma" title="A fancy self-hosted monitoring tool" target="_blank"><img src="https://img.shields.io/github/stars/louislam/uptime-kuma?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/NeogitOrg/neogit" title="An interactive and powerful Git interface for Neovim, inspired by Magit" target="_blank">neogit</a>&nbsp;<a href="https://github.com/NeogitOrg/neogit" title="An interactive and powerful Git interface for Neovim, inspired by Magit" target="_blank"><img src="https://img.shields.io/github/stars/NeogitOrg/neogit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/teableio/teable" title="✨ A Super fast, Real-time, Professional, Developer friendly, No code database" target="_blank">teable</a>&nbsp;<a href="https://github.com/teableio/teable" title="✨ A Super fast, Real-time, Professional, Developer friendly, No code database" target="_blank"><img src="https://img.shields.io/github/stars/teableio/teable?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/aaronraimist/DontFuckWithPaste" title="Google Chrome and Firefox extension that prevents the blocking of pasting into input fields" target="_blank">DontFuckWithPaste</a>&nbsp;<a href="https://github.com/aaronraimist/DontFuckWithPaste" title="Google Chrome and Firefox extension that prevents the blocking of pasting into input fields" target="_blank"><img src="https://img.shields.io/github/stars/aaronraimist/DontFuckWithPaste?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HeyPuter/puter" title="🌐 The Internet OS!" target="_blank">puter</a>&nbsp;<a href="https://github.com/HeyPuter/puter" title="🌐 The Internet OS!" target="_blank"><img src="https://img.shields.io/github/stars/HeyPuter/puter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank">KumaCompanion</a>&nbsp;<a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank"><img src="https://img.shields.io/github/stars/Zerka30/KumaCompanion?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank">framework</a>&nbsp;<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank"><img src="https://img.shields.io/github/stars/observablehq/framework?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank">balancing-cube</a>&nbsp;<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank"><img src="https://img.shields.io/github/stars/willem-pennings/balancing-cube?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank">HackerNewsRemovals</a>&nbsp;<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank"><img src="https://img.shields.io/github/stars/vitoplantamura/HackerNewsRemovals?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank">specs</a>&nbsp;<a href="https://github.com/frictionlessdata/specs" title="Technical specifications and guidelines for implementing Frictionless Data." target="_blank"><img src="https://img.shields.io/github/stars/frictionlessdata/specs?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank">k9mail.app</a>&nbsp;<a href="https://github.com/k9mail/k9mail.app" title="Website for K-9 Mail" target="_blank"><img src="https://img.shields.io/github/stars/k9mail/k9mail.app?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -169,7 +169,7 @@ Type `make` to get some help with it.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 18 Mar 2024 13:45:20 GMT</small>
+<small>⏰ Updated on Tue, 19 Mar 2024 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
