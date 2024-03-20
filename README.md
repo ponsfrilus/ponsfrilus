@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank">bedrock</a>&nbsp;<a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank"><img src="https://img.shields.io/github/stars/roots/bedrock?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank">planka</a>&nbsp;<a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank"><img src="https://img.shields.io/github/stars/plankanban/planka?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank">balancing-cube</a>&nbsp;<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank"><img src="https://img.shields.io/github/stars/willem-pennings/balancing-cube?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank">HackerNewsRemovals</a>&nbsp;<a href="https://github.com/vitoplantamura/HackerNewsRemovals" title="List of stories removed from the Hacker News Front Page, updated in real time." target="_blank"><img src="https://img.shields.io/github/stars/vitoplantamura/HackerNewsRemovals?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank">perses</a>&nbsp;<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank"><img src="https://img.shields.io/github/stars/perses/perses?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater-next-generation</a>&nbsp;<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/Universal-Debloater-Alliance/universal-android-debloater-next-generation?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank">mdp</a>&nbsp;<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank"><img src="https://img.shields.io/github/stars/visit1985/mdp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank">oss-github-benchmark</a>&nbsp;<a href="https://github.com/digital-sustainability/oss-github-benchmark" title="Benchmark of OSS projects on GitHub" target="_blank"><img src="https://img.shields.io/github/stars/digital-sustainability/oss-github-benchmark?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -169,7 +169,7 @@ Type `make` to get some help with it.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 19 Mar 2024 13:45:12 GMT</small>
+<small>⏰ Updated on Wed, 20 Mar 2024 13:45:08 GMT</small>
 </td>
 </tr>
 </tfoot>
