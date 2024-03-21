@@ -32,6 +32,46 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank">conjur</a>&nbsp;<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank"><img src="https://img.shields.io/github/stars/cyberark/conjur?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank">spiffe</a>&nbsp;<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spiffe?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank">lagoon</a>&nbsp;<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank"><img src="https://img.shields.io/github/stars/uselagoon/lagoon?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank">perses</a>&nbsp;<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank"><img src="https://img.shields.io/github/stars/perses/perses?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater-next-generation</a>&nbsp;<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/Universal-Debloater-Alliance/universal-android-debloater-next-generation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank">indico</a>&nbsp;<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank"><img src="https://img.shields.io/github/stars/indico/indico?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/altsem/gitu" title="A TUI Git client inspired by Magit" target="_blank">gitu</a>&nbsp;<a href="https://github.com/altsem/gitu" title="A TUI Git client inspired by Magit" target="_blank"><img src="https://img.shields.io/github/stars/altsem/gitu?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank">jsoncanvas</a>&nbsp;<a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank"><img src="https://img.shields.io/github/stars/obsidianmd/jsoncanvas?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank">thunderbird-android</a>&nbsp;<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank"><img src="https://img.shields.io/github/stars/thunderbird/thunderbird-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank">supertux</a>&nbsp;<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank"><img src="https://img.shields.io/github/stars/SuperTux/supertux?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank">spire</a>&nbsp;<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spire?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank">teller</a>&nbsp;<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank"><img src="https://img.shields.io/github/stars/tellerops/teller?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank">bedrock</a>&nbsp;<a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank"><img src="https://img.shields.io/github/stars/roots/bedrock?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -54,46 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank">KumaCompanion</a>&nbsp;<a href="https://github.com/Zerka30/KumaCompanion" title="KumaCompanion is a CLI to manage uptime-kuma " target="_blank"><img src="https://img.shields.io/github/stars/Zerka30/KumaCompanion?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank">framework</a>&nbsp;<a href="https://github.com/observablehq/framework" title="A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis." target="_blank"><img src="https://img.shields.io/github/stars/observablehq/framework?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank">balancing-cube</a>&nbsp;<a href="https://github.com/willem-pennings/balancing-cube" title="A cube that balances itself in a corner or edge using reaction wheels" target="_blank"><img src="https://img.shields.io/github/stars/willem-pennings/balancing-cube?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank">perses</a>&nbsp;<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank"><img src="https://img.shields.io/github/stars/perses/perses?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater-next-generation</a>&nbsp;<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/Universal-Debloater-Alliance/universal-android-debloater-next-generation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank">indico</a>&nbsp;<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank"><img src="https://img.shields.io/github/stars/indico/indico?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/altsem/gitu" title="A TUI Git client inspired by Magit" target="_blank">gitu</a>&nbsp;<a href="https://github.com/altsem/gitu" title="A TUI Git client inspired by Magit" target="_blank"><img src="https://img.shields.io/github/stars/altsem/gitu?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank">jsoncanvas</a>&nbsp;<a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank"><img src="https://img.shields.io/github/stars/obsidianmd/jsoncanvas?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank">thunderbird-android</a>&nbsp;<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank"><img src="https://img.shields.io/github/stars/thunderbird/thunderbird-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank">supertux</a>&nbsp;<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank"><img src="https://img.shields.io/github/stars/SuperTux/supertux?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank">HandBrake</a>&nbsp;<a href="https://github.com/HandBrake/HandBrake" title="HandBrake's main development repository " target="_blank"><img src="https://img.shields.io/github/stars/HandBrake/HandBrake?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank">act</a>&nbsp;<a href="https://github.com/nektos/act" title="Run your GitHub Actions locally 🚀" target="_blank"><img src="https://img.shields.io/github/stars/nektos/act?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank">mdp</a>&nbsp;<a href="https://github.com/visit1985/mdp" title="A command-line based markdown presentation tool." target="_blank"><img src="https://img.shields.io/github/stars/visit1985/mdp?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -169,7 +169,7 @@ Type `make` to get some help with it.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 20 Mar 2024 13:45:08 GMT</small>
+<small>⏰ Updated on Thu, 21 Mar 2024 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
