@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank">kairos</a>&nbsp;<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank"><img src="https://img.shields.io/github/stars/kairos-io/kairos?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank">conjur</a>&nbsp;<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank"><img src="https://img.shields.io/github/stars/cyberark/conjur?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank">spiffe</a>&nbsp;<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spiffe?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank">lagoon</a>&nbsp;<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank"><img src="https://img.shields.io/github/stars/uselagoon/lagoon?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank">perses</a>&nbsp;<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank"><img src="https://img.shields.io/github/stars/perses/perses?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater-next-generation</a>&nbsp;<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/Universal-Debloater-Alliance/universal-android-debloater-next-generation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank">indico</a>&nbsp;<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank"><img src="https://img.shields.io/github/stars/indico/indico?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/altsem/gitu" title="A TUI Git client inspired by Magit" target="_blank">gitu</a>&nbsp;<a href="https://github.com/altsem/gitu" title="A TUI Git client inspired by Magit" target="_blank"><img src="https://img.shields.io/github/stars/altsem/gitu?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank">jsoncanvas</a>&nbsp;<a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank"><img src="https://img.shields.io/github/stars/obsidianmd/jsoncanvas?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank">thunderbird-android</a>&nbsp;<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank"><img src="https://img.shields.io/github/stars/thunderbird/thunderbird-android?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank">argo-cd</a>&nbsp;<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/argoproj/argo-cd?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,25 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank">conjur</a>&nbsp;<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank"><img src="https://img.shields.io/github/stars/cyberark/conjur?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank">spiffe</a>&nbsp;<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spiffe?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank">lagoon</a>&nbsp;<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank"><img src="https://img.shields.io/github/stars/uselagoon/lagoon?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank">perses</a>&nbsp;<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank"><img src="https://img.shields.io/github/stars/perses/perses?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater-next-generation</a>&nbsp;<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/Universal-Debloater-Alliance/universal-android-debloater-next-generation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank">indico</a>&nbsp;<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank"><img src="https://img.shields.io/github/stars/indico/indico?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/altsem/gitu" title="A TUI Git client inspired by Magit" target="_blank">gitu</a>&nbsp;<a href="https://github.com/altsem/gitu" title="A TUI Git client inspired by Magit" target="_blank"><img src="https://img.shields.io/github/stars/altsem/gitu?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank">jsoncanvas</a>&nbsp;<a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank"><img src="https://img.shields.io/github/stars/obsidianmd/jsoncanvas?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank">thunderbird-android</a>&nbsp;<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank"><img src="https://img.shields.io/github/stars/thunderbird/thunderbird-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank">supertux</a>&nbsp;<a href="https://github.com/SuperTux/supertux" title="SuperTux source code" target="_blank"><img src="https://img.shields.io/github/stars/SuperTux/supertux?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f6ce50d070badda1476fef296d91736d8f3d459f" title="2024-03-28T11:38:49.000+01:00" target="_blank">f6ce50d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[chore] access review
+
+- Christian and Jérôme are gone
+- J-F is not using it
+- Grégory leaves soon</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kind-cluster/commits/861b87b7ddf0d09132bff2258356aed6e97e737d" title="2024-03-28T09:10:47.000+01:00" target="_blank">861b87b7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kind-cluster" title="null">/kind-cluster</a></strong></div>
+          <pre>Initial commit</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/adbcead22be142fcbbae3a19757977356afe07e1" title="2024-03-08T17:39:08.000+01:00" target="_blank">adbcead2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
           <pre>[doc] update Ansible version to 9.3.0
@@ -153,23 +167,11 @@ This plugin now lives under the [wp-mu-plugins repository](https://github.com/ep
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/monitoringrafana/commits/bf066be9bd6b5292045cea08e056823881693412" title="2024-02-28T09:25:56.000+01:00" target="_blank">bf066be9</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/monitoringrafana" title="A docker-compose example to monitor a local computer with Grafana, Prometheus and node-exporter.">/monitoringrafana</a></strong></div>
           <pre>Adapt the alertmanager's doc</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/monitoringrafana/commits/36570d90d717841b032ea800903a3cffa6958690" title="2024-02-28T09:17:07.000+01:00" target="_blank">36570d90</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/monitoringrafana" title="A docker-compose example to monitor a local computer with Grafana, Prometheus and node-exporter.">/monitoringrafana</a></strong></div>
-          <pre>Add a Makefile
-
-Type `make` to get some help with it.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/monitoringrafana/commits/35e7faa2bc9e3df49c2058eff350bf1bbb2d200f" title="2024-02-28T09:16:47.000+01:00" target="_blank">35e7faa2</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/monitoringrafana" title="A docker-compose example to monitor a local computer with Grafana, Prometheus and node-exporter.">/monitoringrafana</a></strong></div>
-          <pre>Add the alertmanager with a basic alert</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 27 Mar 2024 13:45:08 GMT</small>
+<small>⏰ Updated on Thu, 28 Mar 2024 13:45:21 GMT</small>
 </td>
 </tr>
 </tfoot>
