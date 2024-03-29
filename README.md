@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank">metabase</a>&nbsp;<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank"><img src="https://img.shields.io/github/stars/metabase/metabase?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank">argo-cd</a>&nbsp;<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/argoproj/argo-cd?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank">spire</a>&nbsp;<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spire?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank">teller</a>&nbsp;<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank"><img src="https://img.shields.io/github/stars/tellerops/teller?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank">bedrock</a>&nbsp;<a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank"><img src="https://img.shields.io/github/stars/roots/bedrock?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank">planka</a>&nbsp;<a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank"><img src="https://img.shields.io/github/stars/plankanban/planka?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/RajSolai/TextSnatcher" title="How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop." target="_blank">TextSnatcher</a>&nbsp;<a href="https://github.com/RajSolai/TextSnatcher" title="How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop." target="_blank"><img src="https://img.shields.io/github/stars/RajSolai/TextSnatcher?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/NeogitOrg/neogit" title="An interactive and powerful Git interface for Neovim, inspired by Magit" target="_blank">neogit</a>&nbsp;<a href="https://github.com/NeogitOrg/neogit" title="An interactive and powerful Git interface for Neovim, inspired by Magit" target="_blank"><img src="https://img.shields.io/github/stars/NeogitOrg/neogit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/teableio/teable" title="✨ A Super fast, Real-time, Professional, Developer friendly, No code database" target="_blank">teable</a>&nbsp;<a href="https://github.com/teableio/teable" title="✨ A Super fast, Real-time, Professional, Developer friendly, No code database" target="_blank"><img src="https://img.shields.io/github/stars/teableio/teable?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/aaronraimist/DontFuckWithPaste" title="Google Chrome and Firefox extension that prevents the blocking of pasting into input fields" target="_blank">DontFuckWithPaste</a>&nbsp;<a href="https://github.com/aaronraimist/DontFuckWithPaste" title="Google Chrome and Firefox extension that prevents the blocking of pasting into input fields" target="_blank"><img src="https://img.shields.io/github/stars/aaronraimist/DontFuckWithPaste?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank">kairos</a>&nbsp;<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank"><img src="https://img.shields.io/github/stars/kairos-io/kairos?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank">thunderbird-android</a>&nbsp;<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank"><img src="https://img.shields.io/github/stars/thunderbird/thunderbird-android?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank">argo-cd</a>&nbsp;<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/argoproj/argo-cd?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank">spire</a>&nbsp;<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spire?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank">teller</a>&nbsp;<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank"><img src="https://img.shields.io/github/stars/tellerops/teller?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank">bedrock</a>&nbsp;<a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank"><img src="https://img.shields.io/github/stars/roots/bedrock?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank">planka</a>&nbsp;<a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank"><img src="https://img.shields.io/github/stars/plankanban/planka?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/RajSolai/TextSnatcher" title="How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop." target="_blank">TextSnatcher</a>&nbsp;<a href="https://github.com/RajSolai/TextSnatcher" title="How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop." target="_blank"><img src="https://img.shields.io/github/stars/RajSolai/TextSnatcher?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/NeogitOrg/neogit" title="An interactive and powerful Git interface for Neovim, inspired by Magit" target="_blank">neogit</a>&nbsp;<a href="https://github.com/NeogitOrg/neogit" title="An interactive and powerful Git interface for Neovim, inspired by Magit" target="_blank"><img src="https://img.shields.io/github/stars/NeogitOrg/neogit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/teableio/teable" title="✨ A Super fast, Real-time, Professional, Developer friendly, No code database" target="_blank">teable</a>&nbsp;<a href="https://github.com/teableio/teable" title="✨ A Super fast, Real-time, Professional, Developer friendly, No code database" target="_blank"><img src="https://img.shields.io/github/stars/teableio/teable?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/aaronraimist/DontFuckWithPaste" title="Google Chrome and Firefox extension that prevents the blocking of pasting into input fields" target="_blank">DontFuckWithPaste</a>&nbsp;<a href="https://github.com/aaronraimist/DontFuckWithPaste" title="Google Chrome and Firefox extension that prevents the blocking of pasting into input fields" target="_blank"><img src="https://img.shields.io/github/stars/aaronraimist/DontFuckWithPaste?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HeyPuter/puter" title="🌐 The Internet OS!" target="_blank">puter</a>&nbsp;<a href="https://github.com/HeyPuter/puter" title="🌐 The Internet OS!" target="_blank"><img src="https://img.shields.io/github/stars/HeyPuter/puter?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -171,7 +171,7 @@ This plugin now lives under the [wp-mu-plugins repository](https://github.com/ep
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 28 Mar 2024 13:45:21 GMT</small>
+<small>⏰ Updated on Fri, 29 Mar 2024 13:45:22 GMT</small>
 </td>
 </tr>
 </tfoot>
