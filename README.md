@@ -171,7 +171,7 @@ This plugin now lives under the [wp-mu-plugins repository](https://github.com/ep
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 02 Apr 2024 13:45:14 GMT</small>
+<small>⏰ Updated on Wed, 03 Apr 2024 13:45:25 GMT</small>
 </td>
 </tr>
 </tfoot>
