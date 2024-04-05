@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank">linux-exploit-suggester-2</a>&nbsp;<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank"><img src="https://img.shields.io/github/stars/jondonas/linux-exploit-suggester-2?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank">metabase</a>&nbsp;<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank"><img src="https://img.shields.io/github/stars/metabase/metabase?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/teableio/teable" title="✨ A Super fast, Real-time, Professional, Developer friendly, No code database" target="_blank">teable</a>&nbsp;<a href="https://github.com/teableio/teable" title="✨ A Super fast, Real-time, Professional, Developer friendly, No code database" target="_blank"><img src="https://img.shields.io/github/stars/teableio/teable?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/aaronraimist/DontFuckWithPaste" title="Google Chrome and Firefox extension that prevents the blocking of pasting into input fields" target="_blank">DontFuckWithPaste</a>&nbsp;<a href="https://github.com/aaronraimist/DontFuckWithPaste" title="Google Chrome and Firefox extension that prevents the blocking of pasting into input fields" target="_blank"><img src="https://img.shields.io/github/stars/aaronraimist/DontFuckWithPaste?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank">LinEnum</a>&nbsp;<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank"><img src="https://img.shields.io/github/stars/rebootuser/LinEnum?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank">kairos</a>&nbsp;<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank"><img src="https://img.shields.io/github/stars/kairos-io/kairos?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank">jsoncanvas</a>&nbsp;<a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank"><img src="https://img.shields.io/github/stars/obsidianmd/jsoncanvas?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank">thunderbird-android</a>&nbsp;<a href="https://github.com/thunderbird/thunderbird-android" title="K-9 Mail – Open Source Email App for Android" target="_blank"><img src="https://img.shields.io/github/stars/thunderbird/thunderbird-android?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -171,7 +171,7 @@ This plugin now lives under the [wp-mu-plugins repository](https://github.com/ep
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 03 Apr 2024 13:45:25 GMT</small>
+<small>⏰ Updated on Fri, 05 Apr 2024 13:45:08 GMT</small>
 </td>
 </tr>
 </tfoot>
