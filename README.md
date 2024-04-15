@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank">hackyeaster-2021</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2021?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank">hackyeaster-2023</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2023?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank">LinEnum</a>&nbsp;<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank"><img src="https://img.shields.io/github/stars/rebootuser/LinEnum?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank">kairos</a>&nbsp;<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank"><img src="https://img.shields.io/github/stars/kairos-io/kairos?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank">conjur</a>&nbsp;<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank"><img src="https://img.shields.io/github/stars/cyberark/conjur?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank">spiffe</a>&nbsp;<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spiffe?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank">lagoon</a>&nbsp;<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank"><img src="https://img.shields.io/github/stars/uselagoon/lagoon?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank">perses</a>&nbsp;<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank"><img src="https://img.shields.io/github/stars/perses/perses?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater-next-generation</a>&nbsp;<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/Universal-Debloater-Alliance/universal-android-debloater-next-generation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank">indico</a>&nbsp;<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank"><img src="https://img.shields.io/github/stars/indico/indico?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank">hackyeaster-2022</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2022?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank">linux-exploit-suggester-2</a>&nbsp;<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank"><img src="https://img.shields.io/github/stars/jondonas/linux-exploit-suggester-2?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,43 +95,6 @@
 <li>
 <a href="https://github.com/NeogitOrg/neogit" title="An interactive and powerful Git interface for Neovim, inspired by Magit" target="_blank">neogit</a>&nbsp;<a href="https://github.com/NeogitOrg/neogit" title="An interactive and powerful Git interface for Neovim, inspired by Magit" target="_blank"><img src="https://img.shields.io/github/stars/NeogitOrg/neogit?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/teableio/teable" title="✨ A Super fast, Real-time, Professional, Developer friendly, No code database" target="_blank">teable</a>&nbsp;<a href="https://github.com/teableio/teable" title="✨ A Super fast, Real-time, Professional, Developer friendly, No code database" target="_blank"><img src="https://img.shields.io/github/stars/teableio/teable?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank">LinEnum</a>&nbsp;<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank"><img src="https://img.shields.io/github/stars/rebootuser/LinEnum?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank">kairos</a>&nbsp;<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank"><img src="https://img.shields.io/github/stars/kairos-io/kairos?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank">conjur</a>&nbsp;<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank"><img src="https://img.shields.io/github/stars/cyberark/conjur?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank">spiffe</a>&nbsp;<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spiffe?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank">lagoon</a>&nbsp;<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank"><img src="https://img.shields.io/github/stars/uselagoon/lagoon?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank">perses</a>&nbsp;<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank"><img src="https://img.shields.io/github/stars/perses/perses?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater-next-generation</a>&nbsp;<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/Universal-Debloater-Alliance/universal-android-debloater-next-generation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank">indico</a>&nbsp;<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank"><img src="https://img.shields.io/github/stars/indico/indico?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/altsem/gitu" title="A TUI Git client inspired by Magit" target="_blank">gitu</a>&nbsp;<a href="https://github.com/altsem/gitu" title="A TUI Git client inspired by Magit" target="_blank"><img src="https://img.shields.io/github/stars/altsem/gitu?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank">jsoncanvas</a>&nbsp;<a href="https://github.com/obsidianmd/jsoncanvas" title="An open file format for infinite canvas data." target="_blank"><img src="https://img.shields.io/github/stars/obsidianmd/jsoncanvas?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,21 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/satosaaas/commits/9769529013d48ac0d8ff8cb8463f7bba67cae7e4" title="2024-04-15T14:05:28.000+02:00" target="_blank">97695290</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch">/satosaaas</a></strong></div>
+          <pre>[hello] satosaaasible</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/5ffdcf2573d1ffff4db7dcc8a475583c9a75a530" title="2024-04-15T11:00:25.000+02:00" target="_blank">5ffdcf25</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="null">/atari.ops</a></strong></div>
+          <pre>[refactor] we don't need a subfolder</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/47ec46ffac0498a745279c24b0291a464398623c" title="2024-04-15T10:58:53.000+02:00" target="_blank">47ec46ff</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="null">/atari.ops</a></strong></div>
+          <pre>[chore] s/buisnesscard/atari</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f6ce50d070badda1476fef296d91736d8f3d459f" title="2024-03-28T11:38:49.000+01:00" target="_blank">f6ce50d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[chore] access review
@@ -148,30 +163,11 @@ This will avoid potential problems with python 2.12 (see https://github.com/ansi
 
 There was some error in the target's name.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp_theme_ai_epfl.ch/commits/a060f5555b3164e4a713bd2d70db21a2beeb3fe2" title="2024-03-04T14:36:29.000+01:00" target="_blank">a060f555</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp_theme_ai_epfl.ch" title="null">/wp_theme_ai_epfl.ch</a></strong></div>
-          <pre>[doc] README.md
-
-Add some projet's overview and 2 Makefile's commands.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-last-page-changes/commits/c8f444bcdd240b9af62f5da2217d106c24007d41" title="2024-02-29T11:54:41.000+01:00" target="_blank">c8f444bc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-last-page-changes" title="Système d’information permettant de connaître la date et la personne ayant effectué la dernière modification sur une page WordPress.">/wp-plugin-last-page-changes</a></strong></div>
-          <pre>[caution] code moved to wp-mu-plugins
-
-This plugin now lives under the [wp-mu-plugins repository](https://github.com/epfl-si/wp-mu-plugins/), [here](https://github.com/epfl-si/wp-mu-plugins/blob/master/EPFL_last_page_changes.php).</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/monitoringrafana/commits/bf066be9bd6b5292045cea08e056823881693412" title="2024-02-28T09:25:56.000+01:00" target="_blank">bf066be9</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/monitoringrafana" title="A docker-compose example to monitor a local computer with Grafana, Prometheus and node-exporter.">/monitoringrafana</a></strong></div>
-          <pre>Adapt the alertmanager's doc</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 12 Apr 2024 13:45:12 GMT</small>
+<small>⏰ Updated on Mon, 15 Apr 2024 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
