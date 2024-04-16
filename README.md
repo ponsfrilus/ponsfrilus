@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/satosaaas/commits/a786ccb888d31a4631dd8af2e2d6958d53435a11" title="2024-04-16T15:43:04.000+02:00" target="_blank">a786ccb8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch">/satosaaas</a></strong></div>
+          <pre>[feature] use variable and the `community.docker.docker_container` module to deploy satosa</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/satosaaas/commits/9769529013d48ac0d8ff8cb8463f7bba67cae7e4" title="2024-04-15T14:05:28.000+02:00" target="_blank">97695290</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch">/satosaaas</a></strong></div>
           <pre>[hello] satosaaasible</pre>
         </td>
@@ -156,18 +161,11 @@ This will avoid potential problems with python 2.12 (see https://github.com/ansi
 - `make all`
 - `make help`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp_theme_ai_epfl.ch/commits/766be866c6b270c808d8ef906e4291c57d6b429b" title="2024-03-04T15:30:34.000+01:00" target="_blank">766be866</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp_theme_ai_epfl.ch" title="null">/wp_theme_ai_epfl.ch</a></strong></div>
-          <pre>[doc] README.md updated
-
-There was some error in the target's name.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 15 Apr 2024 13:45:10 GMT</small>
+<small>⏰ Updated on Tue, 16 Apr 2024 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
