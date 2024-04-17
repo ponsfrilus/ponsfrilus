@@ -103,6 +103,22 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/satosaaas/commits/04df8e7aa2c39c8d8514442875e98232fc7c9e8c" title="2024-04-17T12:11:10.000+02:00" target="_blank">04df8e7a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch">/satosaaas</a></strong></div>
+          <pre>[fix] add DigiCertCA.crt
+
+and ensure that Mac's can access Keybase.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/satosaaas/commits/648598bfa6bdacf31ec4c27725fd3fbcd2a509b8" title="2024-04-16T18:21:32.000+02:00" target="_blank">648598bf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch">/satosaaas</a></strong></div>
+          <pre>[fix] Depends on SSL certs in a keybase dir
+
+We were using the project's Makefile with the `ansible.builtin.make` 
+module, it now depends on access to the keybase repository and the copy 
+Ansible module.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/satosaaas/commits/a786ccb888d31a4631dd8af2e2d6958d53435a11" title="2024-04-16T15:43:04.000+02:00" target="_blank">a786ccb8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch">/satosaaas</a></strong></div>
           <pre>[feature] use variable and the `community.docker.docker_container` module to deploy satosa</pre>
         </td>
@@ -147,25 +163,11 @@ This will avoid potential problems with python 2.12 (see https://github.com/ansi
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/090f7565a09b8b768402dfed09c0ed0fca544289" title="2024-03-08T08:21:23.000+01:00" target="_blank">090f7565</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
           <pre>[doc] add TPI + schedule example</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/ddf2607e5c7fff2ce7a50865376e15c0c33ec8b1" title="2024-03-08T08:20:45.000+01:00" target="_blank">ddf2607e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
-          <pre>[chore] update docsify</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp_theme_ai_epfl.ch/commits/eab6b2aed25cae60cda85c08d24fdfa07fe1e691" title="2024-03-05T14:50:23.000+01:00" target="_blank">eab6b2ae</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp_theme_ai_epfl.ch" title="null">/wp_theme_ai_epfl.ch</a></strong></div>
-          <pre>[feature] Makefile improvements
-
-- Use variables for sub-fodler and theme branch
-- `make all`
-- `make help`</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 16 Apr 2024 13:45:10 GMT</small>
+<small>⏰ Updated on Wed, 17 Apr 2024 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
