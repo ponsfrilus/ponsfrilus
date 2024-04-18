@@ -103,6 +103,49 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/166b1e63d496de253325c8d152765c7fe920efa0" title="2024-04-18T14:33:09.000+02:00" target="_blank">166b1e63</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="null">/ATARI</a></strong></div>
+          <pre>[fix] Dynamic environement</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/5526464439cc6e77623494422a38fcb74e9d8e90" title="2024-04-18T14:15:19.000+02:00" target="_blank">55264644</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="null">/atari.ops</a></strong></div>
+          <pre>[feature] New "chore" task
+
+This task help with VM's chores, such as:
+- `docker system prune`
+- `tuncate -s 0 /var/lib/docker/containers/**/*-json.log'
+- `apt update && apt upgrade -y`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/f40ccde5992febc5e04dae141fe44ac82964df21" title="2024-04-18T14:13:38.000+02:00" target="_blank">f40ccde5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="null">/atari.ops</a></strong></div>
+          <pre>[fix] Traefik configuration
+
+It seems that some changes were included in 0fd3554, resulting
+by a configuration mismatch: 
+```
+error while parsing rule Host(itsidevfsd0024.xaas.epfl.ch) 
+&& (PathPrefix(/api) PathPrefix(`/dashboard`)): 
+  1:50: expected operand, found '/'"
+```</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/b3db25c0cdd58254c005c8d1c40adc3ab39d300c" title="2024-04-18T11:04:48.000+02:00" target="_blank">b3db25c0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="null">/ATARI</a></strong></div>
+          <pre>[feature] Use a single `docker-compose` file for both staging and prod</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/3330605ad974264d11ea52dcb140535166168f7c" title="2024-04-18T11:04:26.000+02:00" target="_blank">3330605a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="null">/atari.ops</a></strong></div>
+          <pre>[feature] Pass the env in atarisible and simplify tasks
+
+This commit add an argument in the `atarisible` script (`-e
+inventory_mode`) than can later be used as an Ansible variable in the
+receipts. This also alow to unduplicate the "Copy secrets from keybase"
+task.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/satosaaas/commits/04df8e7aa2c39c8d8514442875e98232fc7c9e8c" title="2024-04-17T12:11:10.000+02:00" target="_blank">04df8e7a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch">/satosaaas</a></strong></div>
           <pre>[fix] add DigiCertCA.crt
 
@@ -132,42 +175,11 @@ Ansible module.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/5ffdcf2573d1ffff4db7dcc8a475583c9a75a530" title="2024-04-15T11:00:25.000+02:00" target="_blank">5ffdcf25</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="null">/atari.ops</a></strong></div>
           <pre>[refactor] we don't need a subfolder</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/47ec46ffac0498a745279c24b0291a464398623c" title="2024-04-15T10:58:53.000+02:00" target="_blank">47ec46ff</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="null">/atari.ops</a></strong></div>
-          <pre>[chore] s/buisnesscard/atari</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f6ce50d070badda1476fef296d91736d8f3d459f" title="2024-03-28T11:38:49.000+01:00" target="_blank">f6ce50d0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[chore] access review
-
-- Christian and Jérôme are gone
-- J-F is not using it
-- Grégory leaves soon</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kind-cluster/commits/861b87b7ddf0d09132bff2258356aed6e97e737d" title="2024-03-28T09:10:47.000+01:00" target="_blank">861b87b7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kind-cluster" title="null">/kind-cluster</a></strong></div>
-          <pre>Initial commit</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/adbcead22be142fcbbae3a19757977356afe07e1" title="2024-03-08T17:39:08.000+01:00" target="_blank">adbcead2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
-          <pre>[doc] update Ansible version to 9.3.0
-
-This will avoid potential problems with python 2.12 (see https://github.com/ansible/ansible/issues/81946).</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/090f7565a09b8b768402dfed09c0ed0fca544289" title="2024-03-08T08:21:23.000+01:00" target="_blank">090f7565</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
-          <pre>[doc] add TPI + schedule example</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 17 Apr 2024 13:45:13 GMT</small>
+<small>⏰ Updated on Thu, 18 Apr 2024 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
