@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/28f3b9266f85444d238a08de89fe5e74147221d4" title="2024-04-18T17:02:17.000+02:00" target="_blank">28f3b926</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="null">/ATARI</a></strong></div>
+          <pre>[fix] TypeError: Cannot read property '0' of undefined</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/satosaaas/commits/93f3156b96823a4c56fc95e4744bc43eefc37390" title="2024-04-18T16:33:10.000+02:00" target="_blank">93f3156b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch">/satosaaas</a></strong></div>
+          <pre>[fix] Use the "real" CNAME</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/166b1e63d496de253325c8d152765c7fe920efa0" title="2024-04-18T14:33:09.000+02:00" target="_blank">166b1e63</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="null">/ATARI</a></strong></div>
           <pre>[fix] Dynamic environement</pre>
         </td>
@@ -165,21 +175,11 @@ Ansible module.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/satosaaas/commits/a786ccb888d31a4631dd8af2e2d6958d53435a11" title="2024-04-16T15:43:04.000+02:00" target="_blank">a786ccb8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch">/satosaaas</a></strong></div>
           <pre>[feature] use variable and the `community.docker.docker_container` module to deploy satosa</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/satosaaas/commits/9769529013d48ac0d8ff8cb8463f7bba67cae7e4" title="2024-04-15T14:05:28.000+02:00" target="_blank">97695290</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch">/satosaaas</a></strong></div>
-          <pre>[hello] satosaaasible</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/5ffdcf2573d1ffff4db7dcc8a475583c9a75a530" title="2024-04-15T11:00:25.000+02:00" target="_blank">5ffdcf25</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="null">/atari.ops</a></strong></div>
-          <pre>[refactor] we don't need a subfolder</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 18 Apr 2024 13:45:11 GMT</small>
+<small>⏰ Updated on Fri, 19 Apr 2024 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
