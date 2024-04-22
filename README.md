@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank">minesweeper</a>&nbsp;<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/minesweeper?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank">hackyeaster-2022</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2022?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank">linux-exploit-suggester-2</a>&nbsp;<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank"><img src="https://img.shields.io/github/stars/jondonas/linux-exploit-suggester-2?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank">metabase</a>&nbsp;<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank"><img src="https://img.shields.io/github/stars/metabase/metabase?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank">argo-cd</a>&nbsp;<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/argoproj/argo-cd?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank">spire</a>&nbsp;<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spire?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank">teller</a>&nbsp;<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank"><img src="https://img.shields.io/github/stars/tellerops/teller?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank">bedrock</a>&nbsp;<a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank"><img src="https://img.shields.io/github/stars/roots/bedrock?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank">planka</a>&nbsp;<a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank"><img src="https://img.shields.io/github/stars/plankanban/planka?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/RajSolai/TextSnatcher" title="How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop." target="_blank">TextSnatcher</a>&nbsp;<a href="https://github.com/RajSolai/TextSnatcher" title="How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop." target="_blank"><img src="https://img.shields.io/github/stars/RajSolai/TextSnatcher?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank">hackyeaster-2021</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2021?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,47 +97,53 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank">hackyeaster-2022</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2022?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank">linux-exploit-suggester-2</a>&nbsp;<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank"><img src="https://img.shields.io/github/stars/jondonas/linux-exploit-suggester-2?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank">metabase</a>&nbsp;<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank"><img src="https://img.shields.io/github/stars/metabase/metabase?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank">argo-cd</a>&nbsp;<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/argoproj/argo-cd?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank">spire</a>&nbsp;<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spire?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank">teller</a>&nbsp;<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank"><img src="https://img.shields.io/github/stars/tellerops/teller?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank">bedrock</a>&nbsp;<a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank"><img src="https://img.shields.io/github/stars/roots/bedrock?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank">planka</a>&nbsp;<a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank"><img src="https://img.shields.io/github/stars/plankanban/planka?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/RajSolai/TextSnatcher" title="How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop." target="_blank">TextSnatcher</a>&nbsp;<a href="https://github.com/RajSolai/TextSnatcher" title="How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop." target="_blank"><img src="https://img.shields.io/github/stars/RajSolai/TextSnatcher?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/NeogitOrg/neogit" title="An interactive and powerful Git interface for Neovim, inspired by Magit" target="_blank">neogit</a>&nbsp;<a href="https://github.com/NeogitOrg/neogit" title="An interactive and powerful Git interface for Neovim, inspired by Magit" target="_blank"><img src="https://img.shields.io/github/stars/NeogitOrg/neogit?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/28f3b9266f85444d238a08de89fe5e74147221d4" title="2024-04-18T17:02:17.000+02:00" target="_blank">28f3b926</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="null">/ATARI</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/66a8055070201197d0010c4663454f12b2b83ba2" title="2024-04-19T19:05:47.000+02:00" target="_blank">66a80550</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
+          <pre>[doc] README.md updated</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/c4a20ef015af1bae5d66dbd2804c1422076100fa" title="2024-04-19T18:43:52.000+02:00" target="_blank">c4a20ef0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="Ansible jam to deploy atari.epfl.ch">/atari.ops</a></strong></div>
+          <pre>[doc] Posh up the README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/676b8bf5e93ee72a29dce09f625ee0e152275a9b" title="2024-04-19T18:43:24.000+02:00" target="_blank">676b8bf5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="Ansible jam to deploy atari.epfl.ch">/atari.ops</a></strong></div>
+          <pre>[feature] SSH's keys</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/da296769152d3bf28f0978bd7f41b1cebe336ffa" title="2024-04-19T18:29:06.000+02:00" target="_blank">da296769</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
+          <pre>[add] `satosaaasible` and `atarisible`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/9a353934ac3e864b199b5b8f315937918bc3b478" title="2024-04-19T17:59:21.000+02:00" target="_blank">9a353934</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="Ansible jam to deploy atari.epfl.ch">/atari.ops</a></strong></div>
+          <pre>[feature] motd + bash colors</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/ca064a9414d263691413d1e00a11c1545c22be11" title="2024-04-19T17:54:18.000+02:00" target="_blank">ca064a94</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
+          <pre>[fix] Meteor settings configuration</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/ae6cbf258c9e03b69295639db5583403a566ff14" title="2024-04-19T16:29:51.000+02:00" target="_blank">ae6cbf25</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="Ansible jam to deploy atari.epfl.ch">/atari.ops</a></strong></div>
+          <pre>[refactor] split tasks</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/d35139f448b48874c75fbc0bdde5047e577b4d19" title="2024-04-19T16:28:19.000+02:00" target="_blank">d35139f4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
+          <pre>[debug] add some info in the client's console</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/28f3b9266f85444d238a08de89fe5e74147221d4" title="2024-04-18T17:02:17.000+02:00" target="_blank">28f3b926</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
           <pre>[fix] TypeError: Cannot read property '0' of undefined</pre>
         </td>
         </tr><tr>
@@ -111,75 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/satosaaas/commits/93f3156b96823a4c56fc95e4744bc43eefc37390" title="2024-04-18T16:33:10.000+02:00" target="_blank">93f3156b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch">/satosaaas</a></strong></div>
           <pre>[fix] Use the "real" CNAME</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/166b1e63d496de253325c8d152765c7fe920efa0" title="2024-04-18T14:33:09.000+02:00" target="_blank">166b1e63</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="null">/ATARI</a></strong></div>
-          <pre>[fix] Dynamic environement</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/5526464439cc6e77623494422a38fcb74e9d8e90" title="2024-04-18T14:15:19.000+02:00" target="_blank">55264644</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="null">/atari.ops</a></strong></div>
-          <pre>[feature] New "chore" task
-
-This task help with VM's chores, such as:
-- `docker system prune`
-- `tuncate -s 0 /var/lib/docker/containers/**/*-json.log'
-- `apt update && apt upgrade -y`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/f40ccde5992febc5e04dae141fe44ac82964df21" title="2024-04-18T14:13:38.000+02:00" target="_blank">f40ccde5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="null">/atari.ops</a></strong></div>
-          <pre>[fix] Traefik configuration
-
-It seems that some changes were included in 0fd3554, resulting
-by a configuration mismatch: 
-```
-error while parsing rule Host(itsidevfsd0024.xaas.epfl.ch) 
-&& (PathPrefix(/api) PathPrefix(`/dashboard`)): 
-  1:50: expected operand, found '/'"
-```</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/b3db25c0cdd58254c005c8d1c40adc3ab39d300c" title="2024-04-18T11:04:48.000+02:00" target="_blank">b3db25c0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="null">/ATARI</a></strong></div>
-          <pre>[feature] Use a single `docker-compose` file for both staging and prod</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/3330605ad974264d11ea52dcb140535166168f7c" title="2024-04-18T11:04:26.000+02:00" target="_blank">3330605a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="null">/atari.ops</a></strong></div>
-          <pre>[feature] Pass the env in atarisible and simplify tasks
-
-This commit add an argument in the `atarisible` script (`-e
-inventory_mode`) than can later be used as an Ansible variable in the
-receipts. This also alow to unduplicate the "Copy secrets from keybase"
-task.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/satosaaas/commits/04df8e7aa2c39c8d8514442875e98232fc7c9e8c" title="2024-04-17T12:11:10.000+02:00" target="_blank">04df8e7a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch">/satosaaas</a></strong></div>
-          <pre>[fix] add DigiCertCA.crt
-
-and ensure that Mac's can access Keybase.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/satosaaas/commits/648598bfa6bdacf31ec4c27725fd3fbcd2a509b8" title="2024-04-16T18:21:32.000+02:00" target="_blank">648598bf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch">/satosaaas</a></strong></div>
-          <pre>[fix] Depends on SSL certs in a keybase dir
-
-We were using the project's Makefile with the `ansible.builtin.make` 
-module, it now depends on access to the keybase repository and the copy 
-Ansible module.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/satosaaas/commits/a786ccb888d31a4631dd8af2e2d6958d53435a11" title="2024-04-16T15:43:04.000+02:00" target="_blank">a786ccb8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch">/satosaaas</a></strong></div>
-          <pre>[feature] use variable and the `community.docker.docker_container` module to deploy satosa</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 19 Apr 2024 13:45:11 GMT</small>
+<small>⏰ Updated on Mon, 22 Apr 2024 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
