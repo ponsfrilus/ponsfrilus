@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-lbcflba/commits/a2f6697bcd6efbc5663b973f8fbc2da56facee20" title="2024-05-08T12:09:53.000+02:00" target="_blank">a2f6697b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-lbcflba" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications. ">/kata-lbcflba</a></strong></div>
+          <pre>[feature] initial version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/66a8055070201197d0010c4663454f12b2b83ba2" title="2024-04-19T19:05:47.000+02:00" target="_blank">66a80550</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
           <pre>[doc] README.md updated</pre>
         </td>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/28f3b9266f85444d238a08de89fe5e74147221d4" title="2024-04-18T17:02:17.000+02:00" target="_blank">28f3b926</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
           <pre>[fix] TypeError: Cannot read property '0' of undefined</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/satosaaas/commits/93f3156b96823a4c56fc95e4744bc43eefc37390" title="2024-04-18T16:33:10.000+02:00" target="_blank">93f3156b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch">/satosaaas</a></strong></div>
-          <pre>[fix] Use the "real" CNAME</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 07 May 2024 13:45:09 GMT</small>
+<small>⏰ Updated on Wed, 08 May 2024 13:45:08 GMT</small>
 </td>
 </tr>
 </tfoot>
