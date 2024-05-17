@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-elements-react/commits/ad81b073a7c2e7a12971ef4edc29a0912c4aa9fa" title="2024-05-16T21:38:57.000+02:00" target="_blank">ad81b073</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements">/epfl-elements-react</a></strong></div>
+          <pre>[feature] automated build and next release</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-lbcflba/commits/a2f6697bcd6efbc5663b973f8fbc2da56facee20" title="2024-05-08T12:09:53.000+02:00" target="_blank">a2f6697b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-lbcflba" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications. ">/kata-lbcflba</a></strong></div>
           <pre>[feature] initial version</pre>
         </td>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/d35139f448b48874c75fbc0bdde5047e577b4d19" title="2024-04-19T16:28:19.000+02:00" target="_blank">d35139f4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
           <pre>[debug] add some info in the client's console</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/28f3b9266f85444d238a08de89fe5e74147221d4" title="2024-04-18T17:02:17.000+02:00" target="_blank">28f3b926</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
-          <pre>[fix] TypeError: Cannot read property '0' of undefined</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 16 May 2024 13:45:14 GMT</small>
+<small>⏰ Updated on Fri, 17 May 2024 13:45:07 GMT</small>
 </td>
 </tr>
 </tfoot>
