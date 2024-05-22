@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/4f7965258739c436b3ad35725afd47529a4d99c5" title="2024-05-22T09:06:04.000+02:00" target="_blank">4f796525</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
+          <pre>[doc] Rewriting/rephrasing</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-elements-react/commits/ad81b073a7c2e7a12971ef4edc29a0912c4aa9fa" title="2024-05-16T21:38:57.000+02:00" target="_blank">ad81b073</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements">/epfl-elements-react</a></strong></div>
           <pre>[feature] automated build and next release</pre>
         </td>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/ae6cbf258c9e03b69295639db5583403a566ff14" title="2024-04-19T16:29:51.000+02:00" target="_blank">ae6cbf25</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="Ansible jam to deploy atari.epfl.ch">/atari.ops</a></strong></div>
           <pre>[refactor] split tasks</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/d35139f448b48874c75fbc0bdde5047e577b4d19" title="2024-04-19T16:28:19.000+02:00" target="_blank">d35139f4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
-          <pre>[debug] add some info in the client's console</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 21 May 2024 13:45:09 GMT</small>
+<small>⏰ Updated on Wed, 22 May 2024 13:45:09 GMT</small>
 </td>
 </tr>
 </tfoot>
