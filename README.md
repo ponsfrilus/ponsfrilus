@@ -103,59 +103,59 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/fiche-de-stage-WordPress/commits/4f7965258739c436b3ad35725afd47529a4d99c5" title="2024-05-22T09:06:04.000+02:00" target="_blank">4f796525</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/fiche-de-stage-WordPress" title="Fiche de stage WordPress/Docker proposé par l'équipe ISAS-FSD de l'EPFL">/fiche-de-stage-WordPress</a></strong></div>
-          <pre>[doc] Rewriting/rephrasing</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/e7e79da753ea29650cf93452b66562bc3518d6d6" title="2024-05-23T14:56:23.000+02:00" target="_blank">e7e79da7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
+          <pre>[test] shared vars</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-elements-react/commits/ad81b073a7c2e7a12971ef4edc29a0912c4aa9fa" title="2024-05-16T21:38:57.000+02:00" target="_blank">ad81b073</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements">/epfl-elements-react</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/faf69db3c6e1abb85b05ba1ea9a72309f81c86a9" title="2024-05-23T14:51:58.000+02:00" target="_blank">faf69db3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
+          <pre>[debug] version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/bad7fa13af358d6084b04cdaea454997fa6752a4" title="2024-05-23T14:50:31.000+02:00" target="_blank">bad7fa13</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
+          <pre>[fix] JamesIves/github-pages-deploy-action@v4</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/629ef5553395e2c12934bbe6b39ffff8b1eaeb50" title="2024-05-23T14:49:21.000+02:00" target="_blank">629ef555</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
+          <pre>[test] Version number in ENV</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/b40d49c4ecd3ef8b205f8aef31906c64844447c2" title="2024-05-23T14:42:21.000+02:00" target="_blank">b40d49c4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
+          <pre>[update] https://github.com/JamesIves/github-pages-deploy-action</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/d7386d68b9cdb980cb7f5b20dcd0dd246fe63a25" title="2024-05-23T14:17:08.000+02:00" target="_blank">d7386d68</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
+          <pre>[test] package</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/42ae341d9df5ea628afe362adf4baa5f1cc09745" title="2024-05-23T14:01:12.000+02:00" target="_blank">42ae341d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
+          <pre>[test] artifact</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/1796395ea7ebf2684cde34ec2d29984f259a8d13" title="2024-05-23T13:51:56.000+02:00" target="_blank">1796395e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
+          <pre>[fix] GH action branch</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/eddbbdafe85470abc4c4ac7fe75e51c766c10a1a" title="2024-05-23T13:29:55.000+02:00" target="_blank">eddbbdaf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
+          <pre>initial commit</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-elements-react/commits/0762e04bf494d6526627c6eb4630e4c72adf17b8" title="2024-05-23T08:31:51.000+02:00" target="_blank">0762e04b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements">/epfl-elements-react</a></strong></div>
           <pre>[feature] automated build and next release</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-lbcflba/commits/a2f6697bcd6efbc5663b973f8fbc2da56facee20" title="2024-05-08T12:09:53.000+02:00" target="_blank">a2f6697b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-lbcflba" title="Kata / TPI blanc destiné aux apprentis informaticiens CFC en voie développement d'applications. ">/kata-lbcflba</a></strong></div>
-          <pre>[feature] initial version</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/66a8055070201197d0010c4663454f12b2b83ba2" title="2024-04-19T19:05:47.000+02:00" target="_blank">66a80550</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
-          <pre>[doc] README.md updated</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/c4a20ef015af1bae5d66dbd2804c1422076100fa" title="2024-04-19T18:43:52.000+02:00" target="_blank">c4a20ef0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="Ansible jam to deploy atari.epfl.ch">/atari.ops</a></strong></div>
-          <pre>[doc] Posh up the README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/676b8bf5e93ee72a29dce09f625ee0e152275a9b" title="2024-04-19T18:43:24.000+02:00" target="_blank">676b8bf5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="Ansible jam to deploy atari.epfl.ch">/atari.ops</a></strong></div>
-          <pre>[feature] SSH's keys</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ansible.suitcase/commits/da296769152d3bf28f0978bd7f41b1cebe336ffa" title="2024-04-19T18:29:06.000+02:00" target="_blank">da296769</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ansible.suitcase" title="The Ansible suitcase: install Ansible, Keybase and EYAML into your project's temp dir">/ansible.suitcase</a></strong></div>
-          <pre>[add] `satosaaasible` and `atarisible`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/9a353934ac3e864b199b5b8f315937918bc3b478" title="2024-04-19T17:59:21.000+02:00" target="_blank">9a353934</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="Ansible jam to deploy atari.epfl.ch">/atari.ops</a></strong></div>
-          <pre>[feature] motd + bash colors</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/ca064a9414d263691413d1e00a11c1545c22be11" title="2024-04-19T17:54:18.000+02:00" target="_blank">ca064a94</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
-          <pre>[fix] Meteor settings configuration</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/ae6cbf258c9e03b69295639db5583403a566ff14" title="2024-04-19T16:29:51.000+02:00" target="_blank">ae6cbf25</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="Ansible jam to deploy atari.epfl.ch">/atari.ops</a></strong></div>
-          <pre>[refactor] split tasks</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 22 May 2024 13:45:09 GMT</small>
+<small>⏰ Updated on Thu, 23 May 2024 13:45:07 GMT</small>
 </td>
 </tr>
 </tfoot>
