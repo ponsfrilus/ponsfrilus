@@ -103,7 +103,12 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/e7e79da753ea29650cf93452b66562bc3518d6d6" title="2024-05-23T14:56:23.000+02:00" target="_blank">e7e79da7</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-elements-react/commits/2f78c98e7bd5245815cdcb1926aa321ceb8c4bef" title="2024-05-27T14:33:22.000+02:00" target="_blank">2f78c98e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements">/epfl-elements-react</a></strong></div>
+          <pre>[feature] automated build and next release</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/ae2b005c7313cea844816a9b26e958ddc83c4fa6" title="2024-05-27T14:27:16.000+02:00" target="_blank">ae2b005c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
           <pre>[test] shared vars</pre>
         </td>
         </tr><tr>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/eddbbdafe85470abc4c4ac7fe75e51c766c10a1a" title="2024-05-23T13:29:55.000+02:00" target="_blank">eddbbdaf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
           <pre>initial commit</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-elements-react/commits/0762e04bf494d6526627c6eb4630e4c72adf17b8" title="2024-05-23T08:31:51.000+02:00" target="_blank">0762e04b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements">/epfl-elements-react</a></strong></div>
-          <pre>[feature] automated build and next release</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 24 May 2024 13:45:08 GMT</small>
+<small>⏰ Updated on Mon, 27 May 2024 13:45:22 GMT</small>
 </td>
 </tr>
 </tfoot>
