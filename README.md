@@ -103,7 +103,12 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-elements-react/commits/2f78c98e7bd5245815cdcb1926aa321ceb8c4bef" title="2024-05-27T14:33:22.000+02:00" target="_blank">2f78c98e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements">/epfl-elements-react</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/fcf474ebe530697d1aa51f90c265216497db0d00" title="2024-05-28T15:33:12.000+02:00" target="_blank">fcf474eb</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
+          <pre>[fix] remplace actions/create-release@v1</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-elements-react/commits/546303b211b89dcb417f3f5331ad01e51fa5176e" title="2024-05-28T15:31:00.000+02:00" target="_blank">546303b2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements">/epfl-elements-react</a></strong></div>
           <pre>[feature] automated build and next release</pre>
         </td>
         </tr><tr>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/1796395ea7ebf2684cde34ec2d29984f259a8d13" title="2024-05-23T13:51:56.000+02:00" target="_blank">1796395e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
           <pre>[fix] GH action branch</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/eddbbdafe85470abc4c4ac7fe75e51c766c10a1a" title="2024-05-23T13:29:55.000+02:00" target="_blank">eddbbdaf</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
-          <pre>initial commit</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 27 May 2024 13:45:22 GMT</small>
+<small>⏰ Updated on Tue, 28 May 2024 13:45:22 GMT</small>
 </td>
 </tr>
 </tfoot>
