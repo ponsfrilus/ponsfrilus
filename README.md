@@ -103,13 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/fcf474ebe530697d1aa51f90c265216497db0d00" title="2024-05-28T15:33:12.000+02:00" target="_blank">fcf474eb</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
-          <pre>[fix] remplace actions/create-release@v1</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-elements-react/commits/455c7422d95c3b75de9eadc85a67a6f2de20dfcd" title="2024-05-29T13:59:58.000+02:00" target="_blank">455c7422</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements">/epfl-elements-react</a></strong></div>
+          <pre>[feature] automated build and next release</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-elements-react/commits/546303b211b89dcb417f3f5331ad01e51fa5176e" title="2024-05-28T15:31:00.000+02:00" target="_blank">546303b2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements">/epfl-elements-react</a></strong></div>
-          <pre>[feature] automated build and next release</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/5c012999e5fe565e360af0e425ab32d1bd7c033f" title="2024-05-28T15:48:21.000+02:00" target="_blank">5c012999</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
+          <pre>[fix] remplace actions/create-release@v1</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 28 May 2024 13:45:22 GMT</small>
+<small>⏰ Updated on Wed, 29 May 2024 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
