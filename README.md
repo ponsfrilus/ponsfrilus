@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank">slipshow</a>&nbsp;<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank"><img src="https://img.shields.io/github/stars/panglesd/slipshow?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank">hackyeaster-2021</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2021?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank">hackyeaster-2023</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2023?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank">LinEnum</a>&nbsp;<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank"><img src="https://img.shields.io/github/stars/rebootuser/LinEnum?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank">kairos</a>&nbsp;<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank"><img src="https://img.shields.io/github/stars/kairos-io/kairos?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank">conjur</a>&nbsp;<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank"><img src="https://img.shields.io/github/stars/cyberark/conjur?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank">spiffe</a>&nbsp;<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spiffe?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank">lagoon</a>&nbsp;<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank"><img src="https://img.shields.io/github/stars/uselagoon/lagoon?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank">perses</a>&nbsp;<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank"><img src="https://img.shields.io/github/stars/perses/perses?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater-next-generation</a>&nbsp;<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/Universal-Debloater-Alliance/universal-android-debloater-next-generation?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank">minesweeper</a>&nbsp;<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/minesweeper?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,47 +97,13 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank">hackyeaster-2021</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2021?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank">hackyeaster-2023</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2023?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank">LinEnum</a>&nbsp;<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank"><img src="https://img.shields.io/github/stars/rebootuser/LinEnum?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank">kairos</a>&nbsp;<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank"><img src="https://img.shields.io/github/stars/kairos-io/kairos?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank">conjur</a>&nbsp;<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank"><img src="https://img.shields.io/github/stars/cyberark/conjur?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank">spiffe</a>&nbsp;<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spiffe?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank">lagoon</a>&nbsp;<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank"><img src="https://img.shields.io/github/stars/uselagoon/lagoon?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank">perses</a>&nbsp;<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank"><img src="https://img.shields.io/github/stars/perses/perses?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater-next-generation</a>&nbsp;<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/Universal-Debloater-Alliance/universal-android-debloater-next-generation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank">indico</a>&nbsp;<a href="https://github.com/indico/indico" title="Indico - A feature-rich event management system, made @ CERN, the place where the Web was born." target="_blank"><img src="https://img.shields.io/github/stars/indico/indico?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-elements-react/commits/455c7422d95c3b75de9eadc85a67a6f2de20dfcd" title="2024-05-29T13:59:58.000+02:00" target="_blank">455c7422</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements">/epfl-elements-react</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-elements-react/commits/60b9bb37fceaffb41a2160216bff4ee209b560f2" title="2024-05-30T10:27:21.000+02:00" target="_blank">60b9bb37</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements">/epfl-elements-react</a></strong></div>
           <pre>[feature] automated build and next release</pre>
         </td>
         </tr><tr>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 29 May 2024 13:45:19 GMT</small>
+<small>⏰ Updated on Thu, 30 May 2024 13:45:08 GMT</small>
 </td>
 </tr>
 </tfoot>
