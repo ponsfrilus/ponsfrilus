@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank">fusion</a>&nbsp;<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank"><img src="https://img.shields.io/github/stars/0x2E/fusion?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank">slipshow</a>&nbsp;<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank"><img src="https://img.shields.io/github/stars/panglesd/slipshow?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank">perses</a>&nbsp;<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank"><img src="https://img.shields.io/github/stars/perses/perses?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank">universal-android-debloater-next-generation</a>&nbsp;<a href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" title="Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device." target="_blank"><img src="https://img.shields.io/github/stars/Universal-Debloater-Alliance/universal-android-debloater-next-generation?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements" target="_blank">epfl-elements-react</a>&nbsp;<a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/epfl-elements-react?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank">minesweeper</a>&nbsp;<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/minesweeper?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank">planka</a>&nbsp;<a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank"><img src="https://img.shields.io/github/stars/plankanban/planka?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/RajSolai/TextSnatcher" title="How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop." target="_blank">TextSnatcher</a>&nbsp;<a href="https://github.com/RajSolai/TextSnatcher" title="How to Copy Text from Images ? Answer is TextSnatcher !. Perform OCR operations in seconds on Linux Desktop." target="_blank"><img src="https://img.shields.io/github/stars/RajSolai/TextSnatcher?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 30 May 2024 13:45:08 GMT</small>
+<small>⏰ Updated on Fri, 31 May 2024 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
