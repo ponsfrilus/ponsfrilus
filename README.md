@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/VikParuchuri/marker" title="Convert PDF to markdown quickly with high accuracy" target="_blank">marker</a>&nbsp;<a href="https://github.com/VikParuchuri/marker" title="Convert PDF to markdown quickly with high accuracy" target="_blank"><img src="https://img.shields.io/github/stars/VikParuchuri/marker?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements" target="_blank">epfl-elements-react</a>&nbsp;<a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/epfl-elements-react?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank">minesweeper</a>&nbsp;<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/minesweeper?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank">hackyeaster-2022</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2022?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank">linux-exploit-suggester-2</a>&nbsp;<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank"><img src="https://img.shields.io/github/stars/jondonas/linux-exploit-suggester-2?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank">metabase</a>&nbsp;<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank"><img src="https://img.shields.io/github/stars/metabase/metabase?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank">argo-cd</a>&nbsp;<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/argoproj/argo-cd?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank">spire</a>&nbsp;<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spire?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank">teller</a>&nbsp;<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank"><img src="https://img.shields.io/github/stars/tellerops/teller?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank">bedrock</a>&nbsp;<a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank"><img src="https://img.shields.io/github/stars/roots/bedrock?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank">fusion</a>&nbsp;<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank"><img src="https://img.shields.io/github/stars/0x2E/fusion?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank">perses</a>&nbsp;<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank"><img src="https://img.shields.io/github/stars/perses/perses?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements" target="_blank">epfl-elements-react</a>&nbsp;<a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/epfl-elements-react?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank">minesweeper</a>&nbsp;<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/minesweeper?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank">hackyeaster-2022</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2022?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank">linux-exploit-suggester-2</a>&nbsp;<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank"><img src="https://img.shields.io/github/stars/jondonas/linux-exploit-suggester-2?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank">metabase</a>&nbsp;<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank"><img src="https://img.shields.io/github/stars/metabase/metabase?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank">argo-cd</a>&nbsp;<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/argoproj/argo-cd?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank">spire</a>&nbsp;<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spire?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank">teller</a>&nbsp;<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank"><img src="https://img.shields.io/github/stars/tellerops/teller?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank">bedrock</a>&nbsp;<a href="https://github.com/roots/bedrock" title="WordPress boilerplate with Composer, easier configuration, and an improved folder structure" target="_blank"><img src="https://img.shields.io/github/stars/roots/bedrock?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank">planka</a>&nbsp;<a href="https://github.com/plankanban/planka" title="The realtime kanban board for workgroups built with React and Redux." target="_blank"><img src="https://img.shields.io/github/stars/plankanban/planka?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 04 Jun 2024 13:45:23 GMT</small>
+<small>⏰ Updated on Wed, 05 Jun 2024 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
