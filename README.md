@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank">k0s</a>&nbsp;<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/k0sproject/k0s?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank">fusion</a>&nbsp;<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank"><img src="https://img.shields.io/github/stars/0x2E/fusion?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank">slipshow</a>&nbsp;<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank"><img src="https://img.shields.io/github/stars/panglesd/slipshow?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank">hackyeaster-2021</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2021?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank">hackyeaster-2023</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2023?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank">LinEnum</a>&nbsp;<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank"><img src="https://img.shields.io/github/stars/rebootuser/LinEnum?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank">kairos</a>&nbsp;<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank"><img src="https://img.shields.io/github/stars/kairos-io/kairos?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank">conjur</a>&nbsp;<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank"><img src="https://img.shields.io/github/stars/cyberark/conjur?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank">spiffe</a>&nbsp;<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spiffe?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank">lagoon</a>&nbsp;<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank"><img src="https://img.shields.io/github/stars/uselagoon/lagoon?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/VikParuchuri/marker" title="Convert PDF to markdown quickly with high accuracy" target="_blank">marker</a>&nbsp;<a href="https://github.com/VikParuchuri/marker" title="Convert PDF to markdown quickly with high accuracy" target="_blank"><img src="https://img.shields.io/github/stars/VikParuchuri/marker?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank">fusion</a>&nbsp;<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank"><img src="https://img.shields.io/github/stars/0x2E/fusion?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank">slipshow</a>&nbsp;<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank"><img src="https://img.shields.io/github/stars/panglesd/slipshow?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank">hackyeaster-2021</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2021?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank">hackyeaster-2023</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2023?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank">LinEnum</a>&nbsp;<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank"><img src="https://img.shields.io/github/stars/rebootuser/LinEnum?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank">kairos</a>&nbsp;<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank"><img src="https://img.shields.io/github/stars/kairos-io/kairos?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank">conjur</a>&nbsp;<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank"><img src="https://img.shields.io/github/stars/cyberark/conjur?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank">spiffe</a>&nbsp;<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spiffe?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank">lagoon</a>&nbsp;<a href="https://github.com/uselagoon/lagoon" title="Lagoon, the developer-focused application delivery platform" target="_blank"><img src="https://img.shields.io/github/stars/uselagoon/lagoon?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank">perses</a>&nbsp;<a href="https://github.com/perses/perses" title="The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come!" target="_blank"><img src="https://img.shields.io/github/stars/perses/perses?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/ebf9e14932870fdb0ec903027feb5ef130fbcb62" title="2024-06-06T12:16:40.000+02:00" target="_blank">ebf9e149</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[feaature] `-t vm.os.upgrade` → upgrade all packages</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-elements-react/commits/60b9bb37fceaffb41a2160216bff4ee209b560f2" title="2024-05-30T10:27:21.000+02:00" target="_blank">60b9bb37</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements">/epfl-elements-react</a></strong></div>
           <pre>[feature] automated build and next release</pre>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/42ae341d9df5ea628afe362adf4baa5f1cc09745" title="2024-05-23T14:01:12.000+02:00" target="_blank">42ae341d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
           <pre>[test] artifact</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/1796395ea7ebf2684cde34ec2d29984f259a8d13" title="2024-05-23T13:51:56.000+02:00" target="_blank">1796395e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
-          <pre>[fix] GH action branch</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 05 Jun 2024 13:45:10 GMT</small>
+<small>⏰ Updated on Thu, 06 Jun 2024 13:45:18 GMT</small>
 </td>
 </tr>
 </tfoot>
