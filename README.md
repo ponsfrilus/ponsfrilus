@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/dd8739fdba8d4e66ea114d8f9139b3115925ec45" title="2024-06-11T16:05:40.000+02:00" target="_blank">dd8739fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[inventory] add the "test" VMs</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/ebf9e14932870fdb0ec903027feb5ef130fbcb62" title="2024-06-06T12:16:40.000+02:00" target="_blank">ebf9e149</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[feaature] `-t vm.os.upgrade` → upgrade all packages</pre>
         </td>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/d7386d68b9cdb980cb7f5b20dcd0dd246fe63a25" title="2024-05-23T14:17:08.000+02:00" target="_blank">d7386d68</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
           <pre>[test] package</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/42ae341d9df5ea628afe362adf4baa5f1cc09745" title="2024-05-23T14:01:12.000+02:00" target="_blank">42ae341d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
-          <pre>[test] artifact</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 11 Jun 2024 13:45:11 GMT</small>
+<small>⏰ Updated on Wed, 12 Jun 2024 13:45:20 GMT</small>
 </td>
 </tr>
 </tfoot>
