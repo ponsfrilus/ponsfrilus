@@ -103,7 +103,17 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/dd8739fdba8d4e66ea114d8f9139b3115925ec45" title="2024-06-11T16:05:40.000+02:00" target="_blank">dd8739fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/07dff716ec4dd65d3c9c1d423ca6619c544a5f3b" title="2024-06-13T15:36:20.000+02:00" target="_blank">07dff716</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[feature] MongoDB installed though the packages</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/0c2994f622118ed756548202b00fe2ec2bbda4a8" title="2024-06-13T12:40:31.000+02:00" target="_blank">0c2994f6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
+          <pre>[doc] reformulation mail chef de projet</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/8892f32acd9ccc6d608b1ce6ee63d10f90badf27" title="2024-06-11T16:05:40.000+02:00" target="_blank">8892f32a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[inventory] add the "test" VMs</pre>
         </td>
         </tr><tr>
@@ -141,21 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/629ef5553395e2c12934bbe6b39ffff8b1eaeb50" title="2024-05-23T14:49:21.000+02:00" target="_blank">629ef555</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
           <pre>[test] Version number in ENV</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/b40d49c4ecd3ef8b205f8aef31906c64844447c2" title="2024-05-23T14:42:21.000+02:00" target="_blank">b40d49c4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
-          <pre>[update] https://github.com/JamesIves/github-pages-deploy-action</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/d7386d68b9cdb980cb7f5b20dcd0dd246fe63a25" title="2024-05-23T14:17:08.000+02:00" target="_blank">d7386d68</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
-          <pre>[test] package</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 12 Jun 2024 13:45:20 GMT</small>
+<small>⏰ Updated on Thu, 13 Jun 2024 13:45:09 GMT</small>
 </td>
 </tr>
 </tfoot>
