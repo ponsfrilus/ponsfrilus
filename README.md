@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/bfd4cc40f9e22b91c304ae7ed642f860e46b5736" title="2024-06-14T11:22:28.000+02:00" target="_blank">bfd4cc40</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[feature] Install convenient packages</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/07dff716ec4dd65d3c9c1d423ca6619c544a5f3b" title="2024-06-13T15:36:20.000+02:00" target="_blank">07dff716</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[feature] MongoDB installed though the packages</pre>
         </td>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/bad7fa13af358d6084b04cdaea454997fa6752a4" title="2024-05-23T14:50:31.000+02:00" target="_blank">bad7fa13</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
           <pre>[fix] JamesIves/github-pages-deploy-action@v4</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/629ef5553395e2c12934bbe6b39ffff8b1eaeb50" title="2024-05-23T14:49:21.000+02:00" target="_blank">629ef555</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
-          <pre>[test] Version number in ENV</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 13 Jun 2024 13:45:09 GMT</small>
+<small>⏰ Updated on Fri, 14 Jun 2024 13:45:08 GMT</small>
 </td>
 </tr>
 </tfoot>
