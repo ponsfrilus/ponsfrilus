@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/r-engineeringresumes/resume-templates" title="r/EngineeringResumes Resume Templates" target="_blank">resume-templates</a>&nbsp;<a href="https://github.com/r-engineeringresumes/resume-templates" title="r/EngineeringResumes Resume Templates" target="_blank"><img src="https://img.shields.io/github/stars/r-engineeringresumes/resume-templates?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service" target="_blank">mongodb.ops</a>&nbsp;<a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/mongodb.ops?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/VikParuchuri/marker" title="Convert PDF to markdown quickly with high accuracy" target="_blank">marker</a>&nbsp;<a href="https://github.com/VikParuchuri/marker" title="Convert PDF to markdown quickly with high accuracy" target="_blank"><img src="https://img.shields.io/github/stars/VikParuchuri/marker?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements" target="_blank">epfl-elements-react</a>&nbsp;<a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/epfl-elements-react?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank">minesweeper</a>&nbsp;<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/minesweeper?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank">hackyeaster-2022</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2022?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank">linux-exploit-suggester-2</a>&nbsp;<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank"><img src="https://img.shields.io/github/stars/jondonas/linux-exploit-suggester-2?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank">metabase</a>&nbsp;<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank"><img src="https://img.shields.io/github/stars/metabase/metabase?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank">argo-cd</a>&nbsp;<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/argoproj/argo-cd?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank">spire</a>&nbsp;<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spire?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank">Ice</a>&nbsp;<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank"><img src="https://img.shields.io/github/stars/jordanbaird/Ice?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,21 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service" target="_blank">mongodb.ops</a>&nbsp;<a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/mongodb.ops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/VikParuchuri/marker" title="Convert PDF to markdown quickly with high accuracy" target="_blank">marker</a>&nbsp;<a href="https://github.com/VikParuchuri/marker" title="Convert PDF to markdown quickly with high accuracy" target="_blank"><img src="https://img.shields.io/github/stars/VikParuchuri/marker?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements" target="_blank">epfl-elements-react</a>&nbsp;<a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/epfl-elements-react?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank">minesweeper</a>&nbsp;<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/minesweeper?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank">hackyeaster-2022</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2022?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank">linux-exploit-suggester-2</a>&nbsp;<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank"><img src="https://img.shields.io/github/stars/jondonas/linux-exploit-suggester-2?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank">metabase</a>&nbsp;<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank"><img src="https://img.shields.io/github/stars/metabase/metabase?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank">argo-cd</a>&nbsp;<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/argoproj/argo-cd?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank">spire</a>&nbsp;<a href="https://github.com/spiffe/spire" title="The SPIFFE Runtime Environment" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spire?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank">teller</a>&nbsp;<a href="https://github.com/tellerops/teller" title="Cloud native secrets management for developers - never leave your command line for secrets." target="_blank"><img src="https://img.shields.io/github/stars/tellerops/teller?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/f414b1a60e2558b9f521e4de00fec6dc52d5784a" title="2024-06-16T17:45:05.000+02:00" target="_blank">f414b1a6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
+          <pre>[version] bump to 1.1.2</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/543be1959d23c58c11b34d51150c0f3971944eb5" title="2024-06-16T16:46:36.000+02:00" target="_blank">543be195</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
+          <pre>[data] `<mark>` some stuff</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/bfd4cc40f9e22b91c304ae7ed642f860e46b5736" title="2024-06-14T11:22:28.000+02:00" target="_blank">bfd4cc40</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[feature] Install convenient packages</pre>
@@ -141,21 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/ae2b005c7313cea844816a9b26e958ddc83c4fa6" title="2024-05-27T14:27:16.000+02:00" target="_blank">ae2b005c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
           <pre>[test] shared vars</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/faf69db3c6e1abb85b05ba1ea9a72309f81c86a9" title="2024-05-23T14:51:58.000+02:00" target="_blank">faf69db3</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
-          <pre>[debug] version</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/bad7fa13af358d6084b04cdaea454997fa6752a4" title="2024-05-23T14:50:31.000+02:00" target="_blank">bad7fa13</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
-          <pre>[fix] JamesIves/github-pages-deploy-action@v4</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 14 Jun 2024 13:45:08 GMT</small>
+<small>⏰ Updated on Mon, 17 Jun 2024 13:45:08 GMT</small>
 </td>
 </tr>
 </tfoot>
