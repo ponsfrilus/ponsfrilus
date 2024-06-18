@@ -103,59 +103,90 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/73b1eebf16c4413607bf89651ec8cf9322bfdfb6" title="2024-06-18T15:26:31.000+02:00" target="_blank">73b1eebf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[refactor] Split MongoDB tasks files</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/2c5379a0f43d44bc0932d7a1b706d167fc7068f1" title="2024-06-18T13:59:40.000+02:00" target="_blank">2c5379a0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[refactor] Duplicate roles/mongo-vm/tasks/mongo.yml history in roles/mongo-vm/tasks/mongo-manage.yml history.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/652d5d002657e42461ef8b986d649bf643014194" title="2024-06-18T13:59:31.000+02:00" target="_blank">652d5d00</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[refactor] Duplicate roles/mongo-vm/tasks/mongo.yml history in roles/mongo-vm/tasks/mongo-setup.yml history.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/bd3b8e0a71919a2612e86c768ee8eb7a717cbbda" title="2024-06-18T13:52:06.000+02:00" target="_blank">bd3b8e0a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[refactor] Use the `replace` module instead of `lineinfile` for storage
+
+This is more resilient this way as we can dynamically change the data 
+path within the configuration as code.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/a6fdf0aa208551623691125e0b974f3869f545dc" title="2024-06-18T09:59:53.000+02:00" target="_blank">a6fdf0aa</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[feature] Change the `dbPath` and the `directoryPerDB` configuration
+
+See 
+https://www.mongodb.com/docs/manual/reference/configuration-options/#mongodb-setting-storage.dbPath 
+and 
+https://www.mongodb.com/docs/manual/reference/configuration-options/#mongodb-setting-storage.directoryPerDB</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/349819128b8f085fbb46b42f5ed547e34f452887" title="2024-06-18T09:24:27.000+02:00" target="_blank">34981912</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[feature] @lvenries's export-import bash script</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/b3dcfeb696108b80e8b5b09569ec155e47fd94b6" title="2024-06-18T07:52:21.000+02:00" target="_blank">b3dcfeb6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[feature] Operators' tools
+
+`mongosible -t tools.connect` will ask operator for a base in the 
+inventory and then display the connection string (disclosing secrets!).</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/be9575f3a081c73bf8ca1753cc70612457f4fa2d" title="2024-06-17T20:32:57.000+02:00" target="_blank">be9575f3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[feature] Mongo DB databases inventory
+
+This commit simplify the databases inventory and make it generic.
+
+Entries like:  
+```yaml
+database:
+  user: someuser
+  password: somepassword
+```
+will be parsed to create user and db as inventoried.
+
+Also, the filenames in the Keybase directory are now
+`mongodb_db_inventory-test.yml` and `mongodb_db_inventory-prod.yml`, 
+where the environment suffix is taken from the `inventory_environment`
+variable.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/68db95204f5bb32dc895f4126447dc7e311494da" title="2024-06-17T19:45:31.000+02:00" target="_blank">68db9520</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[refactor] Avoid perma-yellow on root user creation
+
+- Use of block to group tasks
+- Avoid perma-yellow on root user creation
+- Use a variable for MongoDB port
+- [ocd] sort email alphabetically</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/f414b1a60e2558b9f521e4de00fec6dc52d5784a" title="2024-06-16T17:45:05.000+02:00" target="_blank">f414b1a6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
           <pre>[version] bump to 1.1.2</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/543be1959d23c58c11b34d51150c0f3971944eb5" title="2024-06-16T16:46:36.000+02:00" target="_blank">543be195</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[data] `<mark>` some stuff</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/bfd4cc40f9e22b91c304ae7ed642f860e46b5736" title="2024-06-14T11:22:28.000+02:00" target="_blank">bfd4cc40</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[feature] Install convenient packages</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/07dff716ec4dd65d3c9c1d423ca6619c544a5f3b" title="2024-06-13T15:36:20.000+02:00" target="_blank">07dff716</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[feature] MongoDB installed though the packages</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/0c2994f622118ed756548202b00fe2ec2bbda4a8" title="2024-06-13T12:40:31.000+02:00" target="_blank">0c2994f6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
-          <pre>[doc] reformulation mail chef de projet</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/8892f32acd9ccc6d608b1ce6ee63d10f90badf27" title="2024-06-11T16:05:40.000+02:00" target="_blank">8892f32a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[inventory] add the "test" VMs</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/ebf9e14932870fdb0ec903027feb5ef130fbcb62" title="2024-06-06T12:16:40.000+02:00" target="_blank">ebf9e149</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[feaature] `-t vm.os.upgrade` → upgrade all packages</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-elements-react/commits/60b9bb37fceaffb41a2160216bff4ee209b560f2" title="2024-05-30T10:27:21.000+02:00" target="_blank">60b9bb37</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements">/epfl-elements-react</a></strong></div>
-          <pre>[feature] automated build and next release</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/5c012999e5fe565e360af0e425ab32d1bd7c033f" title="2024-05-28T15:48:21.000+02:00" target="_blank">5c012999</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
-          <pre>[fix] remplace actions/create-release@v1</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/epfl-elements-react-ghaction/commits/ae2b005c7313cea844816a9b26e958ddc83c4fa6" title="2024-05-27T14:27:16.000+02:00" target="_blank">ae2b005c</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/epfl-elements-react-ghaction" title="null">/epfl-elements-react-ghaction</a></strong></div>
-          <pre>[test] shared vars</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 17 Jun 2024 13:45:08 GMT</small>
+<small>⏰ Updated on Tue, 18 Jun 2024 13:45:20 GMT</small>
 </td>
 </tr>
 </tfoot>
