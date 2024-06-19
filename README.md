@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/206bb5583ddef6a241418d817e8d1ebc80964cae" title="2024-06-18T19:57:03.000+02:00" target="_blank">206bb558</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[fix] Storgage's `dbPath` & `directoryPerDB` config and `mongodb_storage_path` permission</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/73b1eebf16c4413607bf89651ec8cf9322bfdfb6" title="2024-06-18T15:26:31.000+02:00" target="_blank">73b1eebf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[refactor] Split MongoDB tasks files</pre>
         </td>
@@ -177,16 +182,11 @@ variable.</pre>
 - Use a variable for MongoDB port
 - [ocd] sort email alphabetically</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/evaluation-TPI/commits/f414b1a60e2558b9f521e4de00fec6dc52d5784a" title="2024-06-16T17:45:05.000+02:00" target="_blank">f414b1a6</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/evaluation-TPI" title="Grille d'évaluation interactive pour la procédure de qualification : 88600/1/2/3 Informaticienne CFC/Informaticien CFC (Ordonnance 2014)">/evaluation-TPI</a></strong></div>
-          <pre>[version] bump to 1.1.2</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 18 Jun 2024 13:45:20 GMT</small>
+<small>⏰ Updated on Wed, 19 Jun 2024 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
