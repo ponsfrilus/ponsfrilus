@@ -103,6 +103,29 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/9ec3db868bd0a29bb2d1ef478f971c2243cd93cc" title="2024-06-20T12:48:38.000+02:00" target="_blank">9ec3db86</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[fix] Won't be able to `chown mongod` if it doesn't exist... yet
+
+So I moved things around in order to be sure that MongoDB is already
+installed but this create some dependencies between 2 Ansible tasks.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/284287064525d2618a7fbd75602bdd19ce4b918d" title="2024-06-20T12:13:22.000+02:00" target="_blank">28428706</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[feature] Set permissions on mounted directories</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/66f91494cb9f03e28cd88dca5f33be18bf5ea4c5" title="2024-06-20T12:06:28.000+02:00" target="_blank">66f91494</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[fix] Replace hyphens and undescore in mounted directories</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/01a3ad5a235230fbcfd5f9dc371befdff7c0766d" title="2024-06-20T11:18:03.000+02:00" target="_blank">01a3ad5a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[feature] Create a logical volume per databases</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/206bb5583ddef6a241418d817e8d1ebc80964cae" title="2024-06-18T19:57:03.000+02:00" target="_blank">206bb558</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[fix] Storgage's `dbPath` & `directoryPerDB` config and `mongodb_storage_path` permission</pre>
         </td>
@@ -139,54 +162,11 @@ https://www.mongodb.com/docs/manual/reference/configuration-options/#mongodb-set
 and 
 https://www.mongodb.com/docs/manual/reference/configuration-options/#mongodb-setting-storage.directoryPerDB</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/349819128b8f085fbb46b42f5ed547e34f452887" title="2024-06-18T09:24:27.000+02:00" target="_blank">34981912</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[feature] @lvenries's export-import bash script</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/b3dcfeb696108b80e8b5b09569ec155e47fd94b6" title="2024-06-18T07:52:21.000+02:00" target="_blank">b3dcfeb6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[feature] Operators' tools
-
-`mongosible -t tools.connect` will ask operator for a base in the 
-inventory and then display the connection string (disclosing secrets!).</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/be9575f3a081c73bf8ca1753cc70612457f4fa2d" title="2024-06-17T20:32:57.000+02:00" target="_blank">be9575f3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[feature] Mongo DB databases inventory
-
-This commit simplify the databases inventory and make it generic.
-
-Entries like:  
-```yaml
-database:
-  user: someuser
-  password: somepassword
-```
-will be parsed to create user and db as inventoried.
-
-Also, the filenames in the Keybase directory are now
-`mongodb_db_inventory-test.yml` and `mongodb_db_inventory-prod.yml`, 
-where the environment suffix is taken from the `inventory_environment`
-variable.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/68db95204f5bb32dc895f4126447dc7e311494da" title="2024-06-17T19:45:31.000+02:00" target="_blank">68db9520</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[refactor] Avoid perma-yellow on root user creation
-
-- Use of block to group tasks
-- Avoid perma-yellow on root user creation
-- Use a variable for MongoDB port
-- [ocd] sort email alphabetically</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 19 Jun 2024 13:45:19 GMT</small>
+<small>⏰ Updated on Thu, 20 Jun 2024 13:45:08 GMT</small>
 </td>
 </tr>
 </tfoot>
