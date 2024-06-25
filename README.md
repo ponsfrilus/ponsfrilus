@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank">hackyeaster-2024</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2024?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank">Ice</a>&nbsp;<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank"><img src="https://img.shields.io/github/stars/jordanbaird/Ice?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank">k0s</a>&nbsp;<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/k0sproject/k0s?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank">fusion</a>&nbsp;<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank"><img src="https://img.shields.io/github/stars/0x2E/fusion?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank">slipshow</a>&nbsp;<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank"><img src="https://img.shields.io/github/stars/panglesd/slipshow?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank">hackyeaster-2021</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2021?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank">hackyeaster-2023</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2023?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank">LinEnum</a>&nbsp;<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank"><img src="https://img.shields.io/github/stars/rebootuser/LinEnum?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank">kairos</a>&nbsp;<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank"><img src="https://img.shields.io/github/stars/kairos-io/kairos?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank">conjur</a>&nbsp;<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank"><img src="https://img.shields.io/github/stars/cyberark/conjur?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/r-engineeringresumes/resume-templates" title="r/EngineeringResumes Resume Templates" target="_blank">resume-templates</a>&nbsp;<a href="https://github.com/r-engineeringresumes/resume-templates" title="r/EngineeringResumes Resume Templates" target="_blank"><img src="https://img.shields.io/github/stars/r-engineeringresumes/resume-templates?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,29 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank">Ice</a>&nbsp;<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank"><img src="https://img.shields.io/github/stars/jordanbaird/Ice?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank">k0s</a>&nbsp;<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/k0sproject/k0s?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank">fusion</a>&nbsp;<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank"><img src="https://img.shields.io/github/stars/0x2E/fusion?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank">slipshow</a>&nbsp;<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank"><img src="https://img.shields.io/github/stars/panglesd/slipshow?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank">hackyeaster-2021</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2021?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank">hackyeaster-2023</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2023?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank">LinEnum</a>&nbsp;<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank"><img src="https://img.shields.io/github/stars/rebootuser/LinEnum?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank">kairos</a>&nbsp;<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank"><img src="https://img.shields.io/github/stars/kairos-io/kairos?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank">conjur</a>&nbsp;<a href="https://github.com/cyberark/conjur" title="CyberArk Conjur automatically secures secrets used by privileged users and machine identities" target="_blank"><img src="https://img.shields.io/github/stars/cyberark/conjur?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank">spiffe</a>&nbsp;<a href="https://github.com/spiffe/spiffe" title="The SPIFFE Project" target="_blank"><img src="https://img.shields.io/github/stars/spiffe/spiffe?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/3483af21a5658313c1dd8810c2cef244a6d0a23b" title="2024-06-25T15:25:30.000+02:00" target="_blank">3483af21</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[fix] We only set VIP using tags</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/923b2f52035da93489aebdfef8471ff9a402c844" title="2024-06-25T15:24:44.000+02:00" target="_blank">923b2f52</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[feature] `tools.restic`
+
+This display the restic command with secret to list content of the 
+backup.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/117091e86c7074cac2c76cd1acc52d2b7833d8e7" title="2024-06-25T14:32:29.000+02:00" target="_blank">117091e8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[fix] s/buket/bucket</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/9ec3db868bd0a29bb2d1ef478f971c2243cd93cc" title="2024-06-20T12:48:38.000+02:00" target="_blank">9ec3db86</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[fix] Won't be able to `chown mongod` if it doesn't exist... yet
@@ -139,34 +157,11 @@ installed but this create some dependencies between 2 Ansible tasks.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/2c5379a0f43d44bc0932d7a1b706d167fc7068f1" title="2024-06-18T13:59:40.000+02:00" target="_blank">2c5379a0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[refactor] Duplicate roles/mongo-vm/tasks/mongo.yml history in roles/mongo-vm/tasks/mongo-manage.yml history.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/652d5d002657e42461ef8b986d649bf643014194" title="2024-06-18T13:59:31.000+02:00" target="_blank">652d5d00</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[refactor] Duplicate roles/mongo-vm/tasks/mongo.yml history in roles/mongo-vm/tasks/mongo-setup.yml history.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/bd3b8e0a71919a2612e86c768ee8eb7a717cbbda" title="2024-06-18T13:52:06.000+02:00" target="_blank">bd3b8e0a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[refactor] Use the `replace` module instead of `lineinfile` for storage
-
-This is more resilient this way as we can dynamically change the data 
-path within the configuration as code.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/a6fdf0aa208551623691125e0b974f3869f545dc" title="2024-06-18T09:59:53.000+02:00" target="_blank">a6fdf0aa</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[feature] Change the `dbPath` and the `directoryPerDB` configuration
-
-See 
-https://www.mongodb.com/docs/manual/reference/configuration-options/#mongodb-setting-storage.dbPath 
-and 
-https://www.mongodb.com/docs/manual/reference/configuration-options/#mongodb-setting-storage.directoryPerDB</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 24 Jun 2024 13:45:09 GMT</small>
+<small>⏰ Updated on Tue, 25 Jun 2024 13:45:18 GMT</small>
 </td>
 </tr>
 </tfoot>
