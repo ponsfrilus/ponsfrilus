@@ -103,6 +103,32 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/e2a92f375e8985793cdcf38fc9fa78ed45b2e00e" title="2024-06-25T18:26:39.000+02:00" target="_blank">e2a92f37</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[feature] Install a cronjob for backup
+
+This run a `mongodump` every 6 hours and create a gunzipped tarball. 
+Also, the crontab is meant to follow the VIP if it changes.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/01fca84e0e33cc5f2189acb8eb19516c24881bdc" title="2024-06-25T17:01:17.000+02:00" target="_blank">01fca84e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[feature] `-t mongo.unlock`
+
+When the database is locked more that one time, it's necessary to unlock 
+as many time as it has been locked.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/a9df9a91e88a3f904c8465fb1c67156ed6db28d8" title="2024-06-25T16:58:24.000+02:00" target="_blank">a9df9a91</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[fix] Unlock database juste after the backup</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/966aeb9c4a02e1c72770e2d3a7bc7c705c076d5d" title="2024-06-25T16:22:31.000+02:00" target="_blank">966aeb9c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[feature] `-t tools.vip` tell on which hosts the VIP is active</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/3483af21a5658313c1dd8810c2cef244a6d0a23b" title="2024-06-25T15:25:30.000+02:00" target="_blank">3483af21</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[fix] We only set VIP using tags</pre>
         </td>
@@ -137,31 +163,11 @@ installed but this create some dependencies between 2 Ansible tasks.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/66f91494cb9f03e28cd88dca5f33be18bf5ea4c5" title="2024-06-20T12:06:28.000+02:00" target="_blank">66f91494</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[fix] Replace hyphens and undescore in mounted directories</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/01a3ad5a235230fbcfd5f9dc371befdff7c0766d" title="2024-06-20T11:18:03.000+02:00" target="_blank">01a3ad5a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[feature] Create a logical volume per databases</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/206bb5583ddef6a241418d817e8d1ebc80964cae" title="2024-06-18T19:57:03.000+02:00" target="_blank">206bb558</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[fix] Storgage's `dbPath` & `directoryPerDB` config and `mongodb_storage_path` permission</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/73b1eebf16c4413607bf89651ec8cf9322bfdfb6" title="2024-06-18T15:26:31.000+02:00" target="_blank">73b1eebf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[refactor] Split MongoDB tasks files</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/2c5379a0f43d44bc0932d7a1b706d167fc7068f1" title="2024-06-18T13:59:40.000+02:00" target="_blank">2c5379a0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[refactor] Duplicate roles/mongo-vm/tasks/mongo.yml history in roles/mongo-vm/tasks/mongo-manage.yml history.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 25 Jun 2024 13:45:18 GMT</small>
+<small>⏰ Updated on Wed, 26 Jun 2024 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
