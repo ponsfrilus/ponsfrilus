@@ -103,6 +103,23 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/97069f408c6bd1eb145f1cd384615d32048a3e05" title="2024-06-27T10:37:43.000+02:00" target="_blank">97069f40</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[feature] Use the domain name associated to the VIP</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/71f3fe5d04f42034ec67f36a3fa7010a469619aa" title="2024-06-26T22:55:50.000+02:00" target="_blank">71f3fe5d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[doc] README.md
+
+A first version that attempt to explain everything.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/2739ea0cb2e64cddc72cf276a319cfb9032175c5" title="2024-06-26T22:42:09.000+02:00" target="_blank">2739ea0c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
+          <pre>[chore] Minor adjustements</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/e2a92f375e8985793cdcf38fc9fa78ed45b2e00e" title="2024-06-25T18:26:39.000+02:00" target="_blank">e2a92f37</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[feature] Install a cronjob for backup
 
@@ -145,29 +162,11 @@ backup.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/117091e86c7074cac2c76cd1acc52d2b7833d8e7" title="2024-06-25T14:32:29.000+02:00" target="_blank">117091e8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[fix] s/buket/bucket</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/9ec3db868bd0a29bb2d1ef478f971c2243cd93cc" title="2024-06-20T12:48:38.000+02:00" target="_blank">9ec3db86</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[fix] Won't be able to `chown mongod` if it doesn't exist... yet
-
-So I moved things around in order to be sure that MongoDB is already
-installed but this create some dependencies between 2 Ansible tasks.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/284287064525d2618a7fbd75602bdd19ce4b918d" title="2024-06-20T12:13:22.000+02:00" target="_blank">28428706</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[feature] Set permissions on mounted directories</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/66f91494cb9f03e28cd88dca5f33be18bf5ea4c5" title="2024-06-20T12:06:28.000+02:00" target="_blank">66f91494</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[fix] Replace hyphens and undescore in mounted directories</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 26 Jun 2024 13:45:10 GMT</small>
+<small>⏰ Updated on Thu, 27 Jun 2024 13:45:09 GMT</small>
 </td>
 </tr>
 </tfoot>
