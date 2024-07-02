@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank">zed</a>&nbsp;<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank"><img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank">ImHex</a>&nbsp;<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank"><img src="https://img.shields.io/github/stars/WerWolv/ImHex?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank">LinEnum</a>&nbsp;<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank"><img src="https://img.shields.io/github/stars/rebootuser/LinEnum?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank">kairos</a>&nbsp;<a href="https://github.com/kairos-io/kairos" title=":penguin: The immutable Linux meta-distribution for edge Kubernetes." target="_blank"><img src="https://img.shields.io/github/stars/kairos-io/kairos?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank">ladybird</a>&nbsp;<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank"><img src="https://img.shields.io/github/stars/LadybirdBrowser/ladybird?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch" target="_blank">ATARI</a>&nbsp;<a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ATARI?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank">metabase</a>&nbsp;<a href="https://github.com/metabase/metabase" title="The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:" target="_blank"><img src="https://img.shields.io/github/stars/metabase/metabase?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank">argo-cd</a>&nbsp;<a href="https://github.com/argoproj/argo-cd" title="Declarative Continuous Deployment for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/argoproj/argo-cd?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,21 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/dce07fa0de2213967f0610f95f83672e9e1765a5" title="2024-07-02T15:20:51.000+02:00" target="_blank">dce07fa0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
+          <pre>[doc] README updated</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/timesheet/commits/bb56f4a409188fe148a2779ca406d03e3cbaa96f" title="2024-07-02T13:09:27.000+02:00" target="_blank">bb56f4a4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/timesheet" title="CLI tools to manage my timesheet">/timesheet</a></strong></div>
+          <pre>[doc] crots's README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/timesheet/commits/7220a82af7841f54f60b2804efd1e348dfe623f3" title="2024-07-02T13:09:03.000+02:00" target="_blank">7220a82a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/timesheet" title="CLI tools to manage my timesheet">/timesheet</a></strong></div>
+          <pre>[init] Git please ignore</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/97069f408c6bd1eb145f1cd384615d32048a3e05" title="2024-06-27T10:37:43.000+02:00" target="_blank">97069f40</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[feature] Use the domain name associated to the VIP</pre>
@@ -144,29 +159,11 @@ as many time as it has been locked.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/966aeb9c4a02e1c72770e2d3a7bc7c705c076d5d" title="2024-06-25T16:22:31.000+02:00" target="_blank">966aeb9c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[feature] `-t tools.vip` tell on which hosts the VIP is active</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/3483af21a5658313c1dd8810c2cef244a6d0a23b" title="2024-06-25T15:25:30.000+02:00" target="_blank">3483af21</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[fix] We only set VIP using tags</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/923b2f52035da93489aebdfef8471ff9a402c844" title="2024-06-25T15:24:44.000+02:00" target="_blank">923b2f52</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[feature] `tools.restic`
-
-This display the restic command with secret to list content of the 
-backup.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/117091e86c7074cac2c76cd1acc52d2b7833d8e7" title="2024-06-25T14:32:29.000+02:00" target="_blank">117091e8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[fix] s/buket/bucket</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 01 Jul 2024 13:45:10 GMT</small>
+<small>⏰ Updated on Tue, 02 Jul 2024 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
