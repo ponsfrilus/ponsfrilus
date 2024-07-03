@@ -103,17 +103,22 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/2eb6fbe1281b1fb0ee8fb26e2486f4e5d52f82e2" title="2024-07-02T18:30:46.000+02:00" target="_blank">2eb6fbe1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
+          <pre>[feature](WIP) initial version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/8d8d315638c4fcf9e77765fa4bd505f606ec4f96" title="2024-07-02T18:29:23.000+02:00" target="_blank">8d8d3156</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
+          <pre>[doc] crots's README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/dce07fa0de2213967f0610f95f83672e9e1765a5" title="2024-07-02T15:20:51.000+02:00" target="_blank">dce07fa0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
           <pre>[doc] README updated</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/timesheet/commits/bb56f4a409188fe148a2779ca406d03e3cbaa96f" title="2024-07-02T13:09:27.000+02:00" target="_blank">bb56f4a4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/timesheet" title="CLI tools to manage my timesheet">/timesheet</a></strong></div>
-          <pre>[doc] crots's README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/timesheet/commits/7220a82af7841f54f60b2804efd1e348dfe623f3" title="2024-07-02T13:09:03.000+02:00" target="_blank">7220a82a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/timesheet" title="CLI tools to manage my timesheet">/timesheet</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/7220a82af7841f54f60b2804efd1e348dfe623f3" title="2024-07-02T13:09:03.000+02:00" target="_blank">7220a82a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
           <pre>[init] Git please ignore</pre>
         </td>
         </tr><tr>
@@ -154,16 +159,11 @@ as many time as it has been locked.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/a9df9a91e88a3f904c8465fb1c67156ed6db28d8" title="2024-06-25T16:58:24.000+02:00" target="_blank">a9df9a91</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[fix] Unlock database juste after the backup</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/966aeb9c4a02e1c72770e2d3a7bc7c705c076d5d" title="2024-06-25T16:22:31.000+02:00" target="_blank">966aeb9c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[feature] `-t tools.vip` tell on which hosts the VIP is active</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 02 Jul 2024 13:45:16 GMT</small>
+<small>⏰ Updated on Wed, 03 Jul 2024 13:45:09 GMT</small>
 </td>
 </tr>
 </tfoot>
