@@ -103,6 +103,71 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/17539427ccafb391b31482805213a592a7d69995" title="2024-07-04T12:40:15.000+02:00" target="_blank">17539427</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
+          <pre>[PR] Some UX improvements (#92)
+
+* [feature] Use "copy" cursor
+
+* [feature] Slight rotation effect on image
+
+* [refactor] Create ticket link
+
+* [feature](CSS) Use media queries for container size
+
+* [ocd] 2 spaces is the way to go
+
+* [refactor] UserInfo into a container
+
+This is more convenient to change the CSS. Also change the big red
+square into something more inconspicuous, using media queries.
+
+* [chore] Dead code
+
+* [feature] Quick copy user info
+
+* [unfeature] Remove overflowY
+
+* [fix] Warning: validateDOMNesting(...): <ul> cannot appear as a descendant of <p>.
+
+* [fix] Warning: Each child in a list should have a unique "key" prop.
+
+* [fix] Uniqe HTML ID attribut for `aria-controls` (collapse)
+
+* [feature] Add a `keydown` method to focus the atariSearchBar
+
+Note that there may be a (better/cleaner?) way to do it with the MUI 
+components but it works this way.
+
+* [fix] Admins-IT list
+
+Now use a full bootstrap row to avoid overlapping with the rest.
+
+* [version] Bump to v1.2.0
+
+* [fix] Little hover animations
+
+It's now working for sdesk & fsd as it should.
+
+---------
+
+Co-authored-by: Azecko <samikarin24@gmail.com></pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/a24d876272f6d04bc0b2453be35fc02ebae2eced" title="2024-07-03T17:55:47.000+02:00" target="_blank">a24d8762</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
+          <pre>Merge pull request #3 from SaskyaPanchaud/patch-1
+
+Update IVEMADEIT.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-quatre/commits/0bf8a6f2f6035bfe1942b4368780f493faceacf4" title="2024-07-03T16:51:12.000+02:00" target="_blank">0bf8a6f2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !">/kata-quatre</a></strong></div>
+          <pre>Merge pull request #2 from dwesh163/patch-1
+
+[add] dwesh163 version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/2eb6fbe1281b1fb0ee8fb26e2486f4e5d52f82e2" title="2024-07-02T18:30:46.000+02:00" target="_blank">2eb6fbe1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
           <pre>[feature](WIP) initial version</pre>
         </td>
@@ -138,32 +203,11 @@ A first version that attempt to explain everything.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/2739ea0cb2e64cddc72cf276a319cfb9032175c5" title="2024-06-26T22:42:09.000+02:00" target="_blank">2739ea0c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
           <pre>[chore] Minor adjustements</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/e2a92f375e8985793cdcf38fc9fa78ed45b2e00e" title="2024-06-25T18:26:39.000+02:00" target="_blank">e2a92f37</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[feature] Install a cronjob for backup
-
-This run a `mongodump` every 6 hours and create a gunzipped tarball. 
-Also, the crontab is meant to follow the VIP if it changes.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/01fca84e0e33cc5f2189acb8eb19516c24881bdc" title="2024-06-25T17:01:17.000+02:00" target="_blank">01fca84e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[feature] `-t mongo.unlock`
-
-When the database is locked more that one time, it's necessary to unlock 
-as many time as it has been locked.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/a9df9a91e88a3f904c8465fb1c67156ed6db28d8" title="2024-06-25T16:58:24.000+02:00" target="_blank">a9df9a91</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[fix] Unlock database juste after the backup</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 03 Jul 2024 13:45:09 GMT</small>
+<small>⏰ Updated on Thu, 04 Jul 2024 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
