@@ -103,111 +103,59 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/17539427ccafb391b31482805213a592a7d69995" title="2024-07-04T12:40:15.000+02:00" target="_blank">17539427</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
-          <pre>[PR] Some UX improvements (#92)
-
-* [feature] Use "copy" cursor
-
-* [feature] Slight rotation effect on image
-
-* [refactor] Create ticket link
-
-* [feature](CSS) Use media queries for container size
-
-* [ocd] 2 spaces is the way to go
-
-* [refactor] UserInfo into a container
-
-This is more convenient to change the CSS. Also change the big red
-square into something more inconspicuous, using media queries.
-
-* [chore] Dead code
-
-* [feature] Quick copy user info
-
-* [unfeature] Remove overflowY
-
-* [fix] Warning: validateDOMNesting(...): <ul> cannot appear as a descendant of <p>.
-
-* [fix] Warning: Each child in a list should have a unique "key" prop.
-
-* [fix] Uniqe HTML ID attribut for `aria-controls` (collapse)
-
-* [feature] Add a `keydown` method to focus the atariSearchBar
-
-Note that there may be a (better/cleaner?) way to do it with the MUI 
-components but it works this way.
-
-* [fix] Admins-IT list
-
-Now use a full bootstrap row to avoid overlapping with the rest.
-
-* [version] Bump to v1.2.0
-
-* [fix] Little hover animations
-
-It's now working for sdesk & fsd as it should.
-
----------
-
-Co-authored-by: Azecko <samikarin24@gmail.com></pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/952336ede991f037698326e8e0a6d593808f4a1a" title="2024-07-06T17:53:31.000+02:00" target="_blank">952336ed</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
+          <pre>[feature] crots --summary</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/a24d876272f6d04bc0b2453be35fc02ebae2eced" title="2024-07-03T17:55:47.000+02:00" target="_blank">a24d8762</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>Merge pull request #3 from SaskyaPanchaud/patch-1
-
-Update IVEMADEIT.md</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/d7e95f512c9dcb17cc8bf95357ae2c396d5d83f0" title="2024-07-06T17:53:02.000+02:00" target="_blank">d7e95f51</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
+          <pre>[fix] Improve Makefile</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-quatre/commits/0bf8a6f2f6035bfe1942b4368780f493faceacf4" title="2024-07-03T16:51:12.000+02:00" target="_blank">0bf8a6f2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !">/kata-quatre</a></strong></div>
-          <pre>Merge pull request #2 from dwesh163/patch-1
-
-[add] dwesh163 version</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/74b82f7ec67d7a65f950551677a7122da653b126" title="2024-07-06T16:36:13.000+02:00" target="_blank">74b82f7e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
+          <pre>[fix] Extra time display</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/2eb6fbe1281b1fb0ee8fb26e2486f4e5d52f82e2" title="2024-07-02T18:30:46.000+02:00" target="_blank">2eb6fbe1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
-          <pre>[feature](WIP) initial version</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/150a8e99000d5d41de845011e1033494ba4eae2d" title="2024-07-06T14:54:13.000+02:00" target="_blank">150a8e99</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
+          <pre>[fix] 2 chars aliases are not functionning</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/8d8d315638c4fcf9e77765fa4bd505f606ec4f96" title="2024-07-02T18:29:23.000+02:00" target="_blank">8d8d3156</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
-          <pre>[doc] crots's README.md</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/2eaf377ef564743ff8bcc1de6732243b6148ec64" title="2024-07-06T14:52:44.000+02:00" target="_blank">2eaf377e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
+          <pre>[fix] Install URL</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-sql/commits/dce07fa0de2213967f0610f95f83672e9e1765a5" title="2024-07-02T15:20:51.000+02:00" target="_blank">dce07fa0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-sql" title="Kata : entraîner ses connaissances SQL en aidant le manager d'une discothèque">/kata-sql</a></strong></div>
-          <pre>[doc] README updated</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/81b703ede1e9a4151df33c6329a3a2da53c9d7a5" title="2024-07-06T14:46:19.000+02:00" target="_blank">81b703ed</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
+          <pre>[release] v1.1.2</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/7220a82af7841f54f60b2804efd1e348dfe623f3" title="2024-07-02T13:09:03.000+02:00" target="_blank">7220a82a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
-          <pre>[init] Git please ignore</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/beee4c14b7f773d5c55166dfda240799c4e19d16" title="2024-07-06T14:37:17.000+02:00" target="_blank">beee4c14</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
+          <pre>[doc] Installation + wording</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/97069f408c6bd1eb145f1cd384615d32048a3e05" title="2024-06-27T10:37:43.000+02:00" target="_blank">97069f40</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[feature] Use the domain name associated to the VIP</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/db8ffd59433fe613a6a9163cf82cae23d70d2f57" title="2024-07-06T14:36:52.000+02:00" target="_blank">db8ffd59</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
+          <pre>[feature] Install script</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/71f3fe5d04f42034ec67f36a3fa7010a469619aa" title="2024-06-26T22:55:50.000+02:00" target="_blank">71f3fe5d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[doc] README.md
-
-A first version that attempt to explain everything.</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/34be0bdc9208d6c2a3268626d8dd180fc4a10de5" title="2024-07-06T14:36:25.000+02:00" target="_blank">34be0bdc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
+          <pre>[test] Another one is failling</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mongodb.ops/commits/2739ea0cb2e64cddc72cf276a319cfb9032175c5" title="2024-06-26T22:42:09.000+02:00" target="_blank">2739ea0c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service">/mongodb.ops</a></strong></div>
-          <pre>[chore] Minor adjustements</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/fb7b928a0cf059648afdf14f3ba81f605c07ae7c" title="2024-07-06T14:36:09.000+02:00" target="_blank">fb7b928a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
+          <pre>[feature] Input file management</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 05 Jul 2024 13:45:11 GMT</small>
+<small>⏰ Updated on Mon, 08 Jul 2024 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
