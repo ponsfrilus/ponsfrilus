@@ -103,6 +103,46 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/52831cd608a1c97c7bd6afc08942da05807b21d2" title="2024-07-23T16:18:10.000+02:00" target="_blank">52831cd6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] Ansible requirements.yml</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/d5efd5e5e3020ec68bc12e17885ec1e21e8f4e70" title="2024-07-23T16:06:32.000+02:00" target="_blank">d5efd5e5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[chore] bump version to 2.1.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/5f9dd82544fe118d5311f0e8821cf66ad771f5f4" title="2024-07-23T16:06:08.000+02:00" target="_blank">5f9dd825</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] Makefile</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/cd2920faac9833ae3257041d7a2af1b949977eb7" title="2024-07-23T16:05:54.000+02:00" target="_blank">cd2920fa</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] docker-dev</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/80e530b199560a3520de9898f6350fe65e2794b8" title="2024-07-23T15:44:33.000+02:00" target="_blank">80e530b1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[feature] Version menu entry is now linked to the release</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/6f95cf2e083975ba2bbc53d4c13ac623b6cb426c" title="2024-07-23T15:35:57.000+02:00" target="_blank">6f95cf2e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[feature] enhance API's menu</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/afdba8c3ee615142c5ff197b9ba4a4b6ba9873fa" title="2024-07-23T15:35:40.000+02:00" target="_blank">afdba8c3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] API's documentation</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/696e8f7ff7387d1093561c244649be7e57bfb232" title="2024-07-23T15:05:51.000+02:00" target="_blank">696e8f7f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[chore] update meteor to 3.0-rc.4</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/952336ede991f037698326e8e0a6d593808f4a1a" title="2024-07-06T17:53:31.000+02:00" target="_blank">952336ed</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
           <pre>[feature] crots --summary</pre>
         </td>
@@ -111,51 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/d7e95f512c9dcb17cc8bf95357ae2c396d5d83f0" title="2024-07-06T17:53:02.000+02:00" target="_blank">d7e95f51</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
           <pre>[fix] Improve Makefile</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/74b82f7ec67d7a65f950551677a7122da653b126" title="2024-07-06T16:36:13.000+02:00" target="_blank">74b82f7e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
-          <pre>[fix] Extra time display</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/150a8e99000d5d41de845011e1033494ba4eae2d" title="2024-07-06T14:54:13.000+02:00" target="_blank">150a8e99</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
-          <pre>[fix] 2 chars aliases are not functionning</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/2eaf377ef564743ff8bcc1de6732243b6148ec64" title="2024-07-06T14:52:44.000+02:00" target="_blank">2eaf377e</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
-          <pre>[fix] Install URL</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/81b703ede1e9a4151df33c6329a3a2da53c9d7a5" title="2024-07-06T14:46:19.000+02:00" target="_blank">81b703ed</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
-          <pre>[release] v1.1.2</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/beee4c14b7f773d5c55166dfda240799c4e19d16" title="2024-07-06T14:37:17.000+02:00" target="_blank">beee4c14</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
-          <pre>[doc] Installation + wording</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/db8ffd59433fe613a6a9163cf82cae23d70d2f57" title="2024-07-06T14:36:52.000+02:00" target="_blank">db8ffd59</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
-          <pre>[feature] Install script</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/34be0bdc9208d6c2a3268626d8dd180fc4a10de5" title="2024-07-06T14:36:25.000+02:00" target="_blank">34be0bdc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
-          <pre>[test] Another one is failling</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/fb7b928a0cf059648afdf14f3ba81f605c07ae7c" title="2024-07-06T14:36:09.000+02:00" target="_blank">fb7b928a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
-          <pre>[feature] Input file management</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 23 Jul 2024 13:45:10 GMT</small>
+<small>⏰ Updated on Wed, 24 Jul 2024 13:45:16 GMT</small>
 </td>
 </tr>
 </tfoot>
