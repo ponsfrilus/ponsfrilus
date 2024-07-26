@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank">lexbor</a>&nbsp;<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank"><img src="https://img.shields.io/github/stars/lexbor/lexbor?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank">zed</a>&nbsp;<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank"><img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank">ImHex</a>&nbsp;<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank"><img src="https://img.shields.io/github/stars/WerWolv/ImHex?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank">hackyeaster-2024</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2024?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank">Ice</a>&nbsp;<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank"><img src="https://img.shields.io/github/stars/jordanbaird/Ice?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank">k0s</a>&nbsp;<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/k0sproject/k0s?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank">fusion</a>&nbsp;<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank"><img src="https://img.shields.io/github/stars/0x2E/fusion?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank">slipshow</a>&nbsp;<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank"><img src="https://img.shields.io/github/stars/panglesd/slipshow?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank">hackyeaster-2021</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2021?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank">hackyeaster-2023</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2023?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank">satosaaas</a>&nbsp;<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/satosaaas?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,29 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank">zed</a>&nbsp;<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank"><img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank">ImHex</a>&nbsp;<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank"><img src="https://img.shields.io/github/stars/WerWolv/ImHex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank">hackyeaster-2024</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2024?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank">Ice</a>&nbsp;<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank"><img src="https://img.shields.io/github/stars/jordanbaird/Ice?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank">k0s</a>&nbsp;<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/k0sproject/k0s?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank">fusion</a>&nbsp;<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank"><img src="https://img.shields.io/github/stars/0x2E/fusion?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank">slipshow</a>&nbsp;<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank"><img src="https://img.shields.io/github/stars/panglesd/slipshow?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank">hackyeaster-2021</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2021?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank">hackyeaster-2023</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2023?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank">LinEnum</a>&nbsp;<a href="https://github.com/rebootuser/LinEnum" title="Scripted Local Linux Enumeration & Privilege Escalation Checks" target="_blank"><img src="https://img.shields.io/github/stars/rebootuser/LinEnum?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/48d92fa17023b6e20af81509777161ceeced159f" title="2024-07-26T14:30:13.000+02:00" target="_blank">48d92fa1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
+          <pre>[feature] docker (#33)
+
+- Use node 20 "slim"
+- install pnpm and pm2 using npm</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/d0e786fb566b356e8a332eea23826d455f732d40" title="2024-07-25T16:48:48.000+02:00" target="_blank">d0e786fb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] Add the `gem install hiera-eyaml` command</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/14b4f516e271763aaebf72c8ad390df977655c5e" title="2024-07-25T16:44:36.000+02:00" target="_blank">14b4f516</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] ugly fix in case the docker run command "eat" some stdout</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/52831cd608a1c97c7bd6afc08942da05807b21d2" title="2024-07-23T16:18:10.000+02:00" target="_blank">52831cd6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[fix] Ansible requirements.yml</pre>
@@ -136,26 +154,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/afdba8c3ee615142c5ff197b9ba4a4b6ba9873fa" title="2024-07-23T15:35:40.000+02:00" target="_blank">afdba8c3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[fix] API's documentation</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/696e8f7ff7387d1093561c244649be7e57bfb232" title="2024-07-23T15:05:51.000+02:00" target="_blank">696e8f7f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[chore] update meteor to 3.0-rc.4</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/952336ede991f037698326e8e0a6d593808f4a1a" title="2024-07-06T17:53:31.000+02:00" target="_blank">952336ed</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
-          <pre>[feature] crots --summary</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/crots-timesheet/commits/d7e95f512c9dcb17cc8bf95357ae2c396d5d83f0" title="2024-07-06T17:53:02.000+02:00" target="_blank">d7e95f51</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/crots-timesheet" title="CLI tools to manage my timesheet">/crots-timesheet</a></strong></div>
-          <pre>[fix] Improve Makefile</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 25 Jul 2024 13:45:16 GMT</small>
+<small>⏰ Updated on Fri, 26 Jul 2024 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
