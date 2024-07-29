@@ -103,6 +103,29 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/demo-traefik/commits/6359a051cb380746df9ca01b133a058ca636d4a8" title="2024-07-26T19:46:15.000+02:00" target="_blank">6359a051</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/demo-traefik" title="Some configuration example with Traefik 3">/demo-traefik</a></strong></div>
+          <pre>[fix] footnote
+
+Not sure how to fixup the root commit... 
+https://stackoverflow.com/questions/2119480/edit-the-root-commit-in-git</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/demo-traefik/commits/1776cbc21d78bfa7be76219232a20a8413f562fd" title="2024-07-26T19:37:19.000+02:00" target="_blank">1776cbc2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/demo-traefik" title="Some configuration example with Traefik 3">/demo-traefik</a></strong></div>
+          <pre>[feature] enable prometheus</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/demo-traefik/commits/89a2d712100d67852b8334cbae8eb8b2d090ead1" title="2024-07-26T19:36:52.000+02:00" target="_blank">89a2d712</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/demo-traefik" title="Some configuration example with Traefik 3">/demo-traefik</a></strong></div>
+          <pre>[feature] example with http to https redirections</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/demo-traefik/commits/d3c351a5025f1ae5be62f5ebc3c4ff26695f6f59" title="2024-07-26T19:36:23.000+02:00" target="_blank">d3c351a5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/demo-traefik" title="Some configuration example with Traefik 3">/demo-traefik</a></strong></div>
+          <pre>[feature] basic example</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/48d92fa17023b6e20af81509777161ceeced159f" title="2024-07-26T14:30:13.000+02:00" target="_blank">48d92fa1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
           <pre>[feature] docker (#33)
 
@@ -134,31 +157,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/5f9dd82544fe118d5311f0e8821cf66ad771f5f4" title="2024-07-23T16:06:08.000+02:00" target="_blank">5f9dd825</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[fix] Makefile</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/cd2920faac9833ae3257041d7a2af1b949977eb7" title="2024-07-23T16:05:54.000+02:00" target="_blank">cd2920fa</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] docker-dev</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/80e530b199560a3520de9898f6350fe65e2794b8" title="2024-07-23T15:44:33.000+02:00" target="_blank">80e530b1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] Version menu entry is now linked to the release</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/6f95cf2e083975ba2bbc53d4c13ac623b6cb426c" title="2024-07-23T15:35:57.000+02:00" target="_blank">6f95cf2e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] enhance API's menu</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/afdba8c3ee615142c5ff197b9ba4a4b6ba9873fa" title="2024-07-23T15:35:40.000+02:00" target="_blank">afdba8c3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] API's documentation</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 26 Jul 2024 13:45:13 GMT</small>
+<small>⏰ Updated on Mon, 29 Jul 2024 13:45:22 GMT</small>
 </td>
 </tr>
 </tfoot>
