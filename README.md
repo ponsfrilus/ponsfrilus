@@ -103,15 +103,15 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/demo-traefik/commits/6359a051cb380746df9ca01b133a058ca636d4a8" title="2024-07-26T19:46:15.000+02:00" target="_blank">6359a051</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/demo-traefik" title="Some configuration example with Traefik 3">/demo-traefik</a></strong></div>
-          <pre>[fix] footnote
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/demo-traefik/commits/680096b26b41274d5e394c70a1d4af8e3734be5a" title="2024-07-30T09:13:27.000+02:00" target="_blank">680096b2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/demo-traefik" title="Some configuration example with Traefik 3">/demo-traefik</a></strong></div>
+          <pre>[fix] footnote & READMEs
 
 Not sure how to fixup the root commit... 
 https://stackoverflow.com/questions/2119480/edit-the-root-commit-in-git</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/demo-traefik/commits/1776cbc21d78bfa7be76219232a20a8413f562fd" title="2024-07-26T19:37:19.000+02:00" target="_blank">1776cbc2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/demo-traefik" title="Some configuration example with Traefik 3">/demo-traefik</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/demo-traefik/commits/034d79a0b0e302aa5d254a3bf9f19ee383f27a31" title="2024-07-30T09:12:09.000+02:00" target="_blank">034d79a0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/demo-traefik" title="Some configuration example with Traefik 3">/demo-traefik</a></strong></div>
           <pre>[feature] enable prometheus</pre>
         </td>
         </tr><tr>
@@ -161,7 +161,7 @@ https://stackoverflow.com/questions/2119480/edit-the-root-commit-in-git</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 29 Jul 2024 13:45:22 GMT</small>
+<small>⏰ Updated on Tue, 30 Jul 2024 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
