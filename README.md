@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank">juggl</a>&nbsp;<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank"><img src="https://img.shields.io/github/stars/HEmile/juggl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank">satosaaas</a>&nbsp;<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/satosaaas?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank">ladybird</a>&nbsp;<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank"><img src="https://img.shields.io/github/stars/LadybirdBrowser/ladybird?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch" target="_blank">ATARI</a>&nbsp;<a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ATARI?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/r-engineeringresumes/resume-templates" title="r/EngineeringResumes Resume Templates" target="_blank">resume-templates</a>&nbsp;<a href="https://github.com/r-engineeringresumes/resume-templates" title="r/EngineeringResumes Resume Templates" target="_blank"><img src="https://img.shields.io/github/stars/r-engineeringresumes/resume-templates?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service" target="_blank">mongodb.ops</a>&nbsp;<a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/mongodb.ops?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/VikParuchuri/marker" title="Convert PDF to markdown quickly with high accuracy" target="_blank">marker</a>&nbsp;<a href="https://github.com/VikParuchuri/marker" title="Convert PDF to markdown quickly with high accuracy" target="_blank"><img src="https://img.shields.io/github/stars/VikParuchuri/marker?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements" target="_blank">epfl-elements-react</a>&nbsp;<a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/epfl-elements-react?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank">minesweeper</a>&nbsp;<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/minesweeper?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank">hackyeaster-2022</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2022?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank">lexbor</a>&nbsp;<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank"><img src="https://img.shields.io/github/stars/lexbor/lexbor?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank">hackyeaster-2023</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2023?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank">satosaaas</a>&nbsp;<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/satosaaas?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank">ladybird</a>&nbsp;<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank"><img src="https://img.shields.io/github/stars/LadybirdBrowser/ladybird?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch" target="_blank">ATARI</a>&nbsp;<a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ATARI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/r-engineeringresumes/resume-templates" title="r/EngineeringResumes Resume Templates" target="_blank">resume-templates</a>&nbsp;<a href="https://github.com/r-engineeringresumes/resume-templates" title="r/EngineeringResumes Resume Templates" target="_blank"><img src="https://img.shields.io/github/stars/r-engineeringresumes/resume-templates?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service" target="_blank">mongodb.ops</a>&nbsp;<a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/mongodb.ops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/VikParuchuri/marker" title="Convert PDF to markdown quickly with high accuracy" target="_blank">marker</a>&nbsp;<a href="https://github.com/VikParuchuri/marker" title="Convert PDF to markdown quickly with high accuracy" target="_blank"><img src="https://img.shields.io/github/stars/VikParuchuri/marker?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements" target="_blank">epfl-elements-react</a>&nbsp;<a href="https://github.com/epfl-si/epfl-elements-react" title="React bindings for https://epfl-si.github.io/elements" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/epfl-elements-react?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank">minesweeper</a>&nbsp;<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/minesweeper?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank">hackyeaster-2022</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2022" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2022?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank">linux-exploit-suggester-2</a>&nbsp;<a href="https://github.com/jondonas/linux-exploit-suggester-2" title="Next-Generation Linux Kernel Exploit Suggester" target="_blank"><img src="https://img.shields.io/github/stars/jondonas/linux-exploit-suggester-2?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -161,7 +161,7 @@ https://stackoverflow.com/questions/2119480/edit-the-root-commit-in-git</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 30 Jul 2024 13:45:11 GMT</small>
+<small>⏰ Updated on Wed, 31 Jul 2024 13:45:20 GMT</small>
 </td>
 </tr>
 </tfoot>
