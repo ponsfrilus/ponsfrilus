@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank">nextra</a>&nbsp;<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/nextra?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank">lexbor</a>&nbsp;<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank"><img src="https://img.shields.io/github/stars/lexbor/lexbor?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank">zed</a>&nbsp;<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank"><img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank">ImHex</a>&nbsp;<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank"><img src="https://img.shields.io/github/stars/WerWolv/ImHex?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank">hackyeaster-2024</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2024?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank">Ice</a>&nbsp;<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank"><img src="https://img.shields.io/github/stars/jordanbaird/Ice?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank">k0s</a>&nbsp;<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/k0sproject/k0s?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank">fusion</a>&nbsp;<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank"><img src="https://img.shields.io/github/stars/0x2E/fusion?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank">slipshow</a>&nbsp;<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank"><img src="https://img.shields.io/github/stars/panglesd/slipshow?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank">hackyeaster-2021</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2021?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank">juggl</a>&nbsp;<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank"><img src="https://img.shields.io/github/stars/HEmile/juggl?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,23 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank">lexbor</a>&nbsp;<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank"><img src="https://img.shields.io/github/stars/lexbor/lexbor?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank">zed</a>&nbsp;<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank"><img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank">ImHex</a>&nbsp;<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank"><img src="https://img.shields.io/github/stars/WerWolv/ImHex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank">hackyeaster-2024</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2024?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank">Ice</a>&nbsp;<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank"><img src="https://img.shields.io/github/stars/jordanbaird/Ice?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank">k0s</a>&nbsp;<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/k0sproject/k0s?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank">fusion</a>&nbsp;<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank"><img src="https://img.shields.io/github/stars/0x2E/fusion?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank">slipshow</a>&nbsp;<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank"><img src="https://img.shields.io/github/stars/panglesd/slipshow?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank">hackyeaster-2021</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2021?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank">hackyeaster-2023</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2023" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2023?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6e6f80641a2d95dea9a2b0dc80c22e3825c2caf0" title="2024-08-08T10:04:38.000+02:00" target="_blank">6e6f8064</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] CronJob to refresh the Menu's API's cache
+
+Use
+- `oc get cronjob -n wwp -o wide` to get the cronjob list
+- `oc get pods -n wwp -o wide | grep menu-api-refresh` to get the name 
+of the pod of the last run
+- `oc logs menu-api-refresh-cron-1234567890-abcd3 -n wwp` to have the 
+logs</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/demo-traefik/commits/680096b26b41274d5e394c70a1d4af8e3734be5a" title="2024-07-30T09:13:27.000+02:00" target="_blank">680096b2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/demo-traefik" title="Some configuration example with Traefik 3">/demo-traefik</a></strong></div>
           <pre>[fix] footnote & READMEs
@@ -152,16 +164,11 @@ https://stackoverflow.com/questions/2119480/edit-the-root-commit-in-git</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/d5efd5e5e3020ec68bc12e17885ec1e21e8f4e70" title="2024-07-23T16:06:32.000+02:00" target="_blank">d5efd5e5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[chore] bump version to 2.1.0</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/5f9dd82544fe118d5311f0e8821cf66ad771f5f4" title="2024-07-23T16:06:08.000+02:00" target="_blank">5f9dd825</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] Makefile</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 07 Aug 2024 13:45:12 GMT</small>
+<small>⏰ Updated on Thu, 08 Aug 2024 13:45:17 GMT</small>
 </td>
 </tr>
 </tfoot>
