@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ea4f499e7839c9bb249d0cc145e8e910415d4ecf" title="2024-08-23T15:27:48.000+02:00" target="_blank">ea4f499e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Configure SSH accesses</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6e6f80641a2d95dea9a2b0dc80c22e3825c2caf0" title="2024-08-08T10:04:38.000+02:00" target="_blank">6e6f8064</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[feature] CronJob to refresh the Menu's API's cache
 
@@ -159,16 +164,11 @@ https://stackoverflow.com/questions/2119480/edit-the-root-commit-in-git</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/52831cd608a1c97c7bd6afc08942da05807b21d2" title="2024-07-23T16:18:10.000+02:00" target="_blank">52831cd6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[fix] Ansible requirements.yml</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/d5efd5e5e3020ec68bc12e17885ec1e21e8f4e70" title="2024-07-23T16:06:32.000+02:00" target="_blank">d5efd5e5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[chore] bump version to 2.1.0</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 22 Aug 2024 13:45:11 GMT</small>
+<small>⏰ Updated on Fri, 23 Aug 2024 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
