@@ -103,72 +103,66 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ea4f499e7839c9bb249d0cc145e8e910415d4ecf" title="2024-08-23T15:27:48.000+02:00" target="_blank">ea4f499e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Configure SSH accesses</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/84ac1462ebfd1c922cf43d4fad211a0c0189dc4a" title="2024-08-26T14:42:59.000+02:00" target="_blank">84ac1462</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Mastodon's SMTP configuration</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6e6f80641a2d95dea9a2b0dc80c22e3825c2caf0" title="2024-08-08T10:04:38.000+02:00" target="_blank">6e6f8064</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] CronJob to refresh the Menu's API's cache
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/0fd8e3323604a4856af4779ddc83d2572e5647d9" title="2024-08-26T13:46:26.000+02:00" target="_blank">0fd8e332</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Mastodon's web containers
 
-Use
-- `oc get cronjob -n wwp -o wide` to get the cronjob list
-- `oc get pods -n wwp -o wide | grep menu-api-refresh` to get the name 
-of the pod of the last run
-- `oc logs menu-api-refresh-cron-1234567890-abcd3 -n wwp` to have the 
-logs</pre>
+- Deploy Mastodon, Streaming and Sidekick, all based on the
+`ghcr.io/mastodon/mastodon:v4.2.12` (`"{{ mastodon_web_image }}"`) image
+- Mastodon's `Dockerfile` and `docker-compose.yml` not needed anymore
+- Admins' Makefile improved</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/demo-traefik/commits/680096b26b41274d5e394c70a1d4af8e3734be5a" title="2024-07-30T09:13:27.000+02:00" target="_blank">680096b2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/demo-traefik" title="Some configuration example with Traefik 3">/demo-traefik</a></strong></div>
-          <pre>[fix] footnote & READMEs
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/9a5e00699c74cc228e2f471e61290031b51f0f0c" title="2024-08-25T19:01:08.000+02:00" target="_blank">9a5e0069</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Patch release — bugfixes and easy to apply changes (4.2.12)
 
-Not sure how to fixup the root commit... 
-https://stackoverflow.com/questions/2119480/edit-the-root-commit-in-git</pre>
+https://github.com/mastodon/mastodon/releases/tag/v4.2.12</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/demo-traefik/commits/034d79a0b0e302aa5d254a3bf9f19ee383f27a31" title="2024-07-30T09:12:09.000+02:00" target="_blank">034d79a0</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/demo-traefik" title="Some configuration example with Traefik 3">/demo-traefik</a></strong></div>
-          <pre>[feature] enable prometheus</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/b47a1b9127cf1f9052f9c5c14f84fa8da538897e" title="2024-08-25T18:56:18.000+02:00" target="_blank">b47a1b91</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Admins' Makefile</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/demo-traefik/commits/89a2d712100d67852b8334cbae8eb8b2d090ead1" title="2024-07-26T19:36:52.000+02:00" target="_blank">89a2d712</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/demo-traefik" title="Some configuration example with Traefik 3">/demo-traefik</a></strong></div>
-          <pre>[feature] example with http to https redirections</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/fa07d1bf4fa5b3010c922e7f559c49ca19cbfd74" title="2024-08-25T10:40:29.000+02:00" target="_blank">fa07d1bf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Redis container</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/demo-traefik/commits/d3c351a5025f1ae5be62f5ebc3c4ff26695f6f59" title="2024-07-26T19:36:23.000+02:00" target="_blank">d3c351a5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/demo-traefik" title="Some configuration example with Traefik 3">/demo-traefik</a></strong></div>
-          <pre>[feature] basic example</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/e212d39ba127567994d214c08676299086314cf2" title="2024-08-25T10:08:04.000+02:00" target="_blank">e212d39b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature](WIP) `db:migrate` and `db:seed`</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/startpage/commits/48d92fa17023b6e20af81509777161ceeced159f" title="2024-07-26T14:30:13.000+02:00" target="_blank">48d92fa1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/startpage" title="startpage.epfl.ch">/startpage</a></strong></div>
-          <pre>[feature] docker (#33)
-
-- Use node 20 "slim"
-- install pnpm and pm2 using npm</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/33245135628e6fc859509c68bb3323cda7dd2f17" title="2024-08-25T10:04:29.000+02:00" target="_blank">33245135</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] `{{ mastodon_dir }}`</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/d0e786fb566b356e8a332eea23826d455f732d40" title="2024-07-25T16:48:48.000+02:00" target="_blank">d0e786fb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] Add the `gem install hiera-eyaml` command</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/915991a63c1ab85e4542e6c25d2d59dcc4809acc" title="2024-08-25T09:46:57.000+02:00" target="_blank">915991a6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] PostgreSQL init script path</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/14b4f516e271763aaebf72c8ad390df977655c5e" title="2024-07-25T16:44:36.000+02:00" target="_blank">14b4f516</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] ugly fix in case the docker run command "eat" some stdout</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/7163f2bcf88c82c757ac21b8ca78972ca71604d7" title="2024-08-25T09:33:01.000+02:00" target="_blank">7163f2bc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Ensure `mastodon_docker_external_network_name` is present for Traefik</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/52831cd608a1c97c7bd6afc08942da05807b21d2" title="2024-07-23T16:18:10.000+02:00" target="_blank">52831cd6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] Ansible requirements.yml</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6612667701830d361600de396d3814ad0c01cd15" title="2024-08-25T09:16:25.000+02:00" target="_blank">66126677</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Split the mastodon's role in pieces</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 23 Aug 2024 13:45:15 GMT</small>
+<small>⏰ Updated on Mon, 26 Aug 2024 13:45:22 GMT</small>
 </td>
 </tr>
 </tfoot>
