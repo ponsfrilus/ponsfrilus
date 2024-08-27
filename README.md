@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/cb4129a83556d3128f5b1437829116858b80eccb" title="2024-08-27T14:33:38.000+02:00" target="_blank">cb4129a8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[feature] Update Grafana from 9.5.2 to 11.1.4</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/c460f2a921c3f0a223f6c8acf0e202b3b8cc812e" title="2024-08-27T14:06:27.000+02:00" target="_blank">c460f2a9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[feature] Menus API monitoring</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/84ac1462ebfd1c922cf43d4fad211a0c0189dc4a" title="2024-08-26T14:42:59.000+02:00" target="_blank">84ac1462</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] Mastodon's SMTP configuration</pre>
         </td>
@@ -148,21 +158,11 @@ https://github.com/mastodon/mastodon/releases/tag/v4.2.12</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/915991a63c1ab85e4542e6c25d2d59dcc4809acc" title="2024-08-25T09:46:57.000+02:00" target="_blank">915991a6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] PostgreSQL init script path</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/7163f2bcf88c82c757ac21b8ca78972ca71604d7" title="2024-08-25T09:33:01.000+02:00" target="_blank">7163f2bc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Ensure `mastodon_docker_external_network_name` is present for Traefik</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6612667701830d361600de396d3814ad0c01cd15" title="2024-08-25T09:16:25.000+02:00" target="_blank">66126677</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Split the mastodon's role in pieces</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 26 Aug 2024 13:45:22 GMT</small>
+<small>⏰ Updated on Tue, 27 Aug 2024 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
