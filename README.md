@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/5ba2650a0b3ad2c32841b7d434a45573dee6ca74" title="2024-08-27T18:18:34.000+02:00" target="_blank">5ba2650a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[feature] Allow the team `@epfl-fsd/noc-grafana-admins` as admin</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/c144f99606e99b2c6808aa910752316aed50240b" title="2024-08-27T18:17:42.000+02:00" target="_blank">c144f996</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[bump] Black Box Exporter to v0.25.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/657335075274c58cbe955b5d5bab8e10855c6eff" title="2024-08-27T18:17:21.000+02:00" target="_blank">65733507</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[bump] Prometheus to v2.54.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/cb4129a83556d3128f5b1437829116858b80eccb" title="2024-08-27T14:33:38.000+02:00" target="_blank">cb4129a8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[feature] Update Grafana from 9.5.2 to 11.1.4</pre>
         </td>
@@ -143,26 +158,11 @@ https://github.com/mastodon/mastodon/releases/tag/v4.2.12</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/fa07d1bf4fa5b3010c922e7f559c49ca19cbfd74" title="2024-08-25T10:40:29.000+02:00" target="_blank">fa07d1bf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[feature] Redis container</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/e212d39ba127567994d214c08676299086314cf2" title="2024-08-25T10:08:04.000+02:00" target="_blank">e212d39b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature](WIP) `db:migrate` and `db:seed`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/33245135628e6fc859509c68bb3323cda7dd2f17" title="2024-08-25T10:04:29.000+02:00" target="_blank">33245135</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] `{{ mastodon_dir }}`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/915991a63c1ab85e4542e6c25d2d59dcc4809acc" title="2024-08-25T09:46:57.000+02:00" target="_blank">915991a6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] PostgreSQL init script path</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 27 Aug 2024 13:45:15 GMT</small>
+<small>⏰ Updated on Wed, 28 Aug 2024 13:45:28 GMT</small>
 </td>
 </tr>
 </tfoot>
