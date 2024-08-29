@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c5f2a245015e519e469fe9a36cd6f4e150d995c0" title="2024-08-28T11:02:10.000+02:00" target="_blank">c5f2a245</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] Pin down the version of the Find My Blocks plugin
+
+As in version 4.*, the route `blocks` that we pull requested 
+(https://github.com/morganhvidt/find-my-blocks/commit/0e7e68414c59d9a5bb3eed74d87b542b80c3c776) 
+is no longer avalaible. Before changing everything, this is an attempt 
+to pin down the version in order to make it work.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/5ba2650a0b3ad2c32841b7d434a45573dee6ca74" title="2024-08-27T18:18:34.000+02:00" target="_blank">5ba2650a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[feature] Allow the team `@epfl-fsd/noc-grafana-admins` as admin</pre>
         </td>
@@ -153,16 +163,11 @@ https://github.com/mastodon/mastodon/releases/tag/v4.2.12</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/b47a1b9127cf1f9052f9c5c14f84fa8da538897e" title="2024-08-25T18:56:18.000+02:00" target="_blank">b47a1b91</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[feature] Admins' Makefile</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/fa07d1bf4fa5b3010c922e7f559c49ca19cbfd74" title="2024-08-25T10:40:29.000+02:00" target="_blank">fa07d1bf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Redis container</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 28 Aug 2024 13:45:28 GMT</small>
+<small>⏰ Updated on Thu, 29 Aug 2024 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
