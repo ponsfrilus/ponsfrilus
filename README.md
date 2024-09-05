@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/d4a015c056265f5d2c3889516b8b557d41be5b35" title="2024-09-05T11:16:18.000+02:00" target="_blank">d4a015c0</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
+          <pre>[feature] GitLab control plane nodes</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/1e3333487d96a960e9a6bb6e55205fdf22871cd4" title="2024-09-04T16:26:42.000+02:00" target="_blank">1e333348</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Add @pascalinde</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/83d4183356a6cad89cb13087690dc60b4474d1fb" title="2024-09-04T16:20:43.000+02:00" target="_blank">83d41833</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Dead code</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c5f2a245015e519e469fe9a36cd6f4e150d995c0" title="2024-08-28T11:02:10.000+02:00" target="_blank">c5f2a245</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[fix] Pin down the version of the Find My Blocks plugin
 
@@ -141,33 +156,11 @@ to pin down the version in order to make it work.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/84ac1462ebfd1c922cf43d4fad211a0c0189dc4a" title="2024-08-26T14:42:59.000+02:00" target="_blank">84ac1462</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] Mastodon's SMTP configuration</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/0fd8e3323604a4856af4779ddc83d2572e5647d9" title="2024-08-26T13:46:26.000+02:00" target="_blank">0fd8e332</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Mastodon's web containers
-
-- Deploy Mastodon, Streaming and Sidekick, all based on the
-`ghcr.io/mastodon/mastodon:v4.2.12` (`"{{ mastodon_web_image }}"`) image
-- Mastodon's `Dockerfile` and `docker-compose.yml` not needed anymore
-- Admins' Makefile improved</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/9a5e00699c74cc228e2f471e61290031b51f0f0c" title="2024-08-25T19:01:08.000+02:00" target="_blank">9a5e0069</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Patch release — bugfixes and easy to apply changes (4.2.12)
-
-https://github.com/mastodon/mastodon/releases/tag/v4.2.12</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/b47a1b9127cf1f9052f9c5c14f84fa8da538897e" title="2024-08-25T18:56:18.000+02:00" target="_blank">b47a1b91</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Admins' Makefile</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 04 Sep 2024 13:45:15 GMT</small>
+<small>⏰ Updated on Thu, 05 Sep 2024 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
