@@ -103,6 +103,15 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/3005cc767fddd4c90f75db9a60b271aa3b63ea1d" title="2024-09-06T09:26:48.000+02:00" target="_blank">3005cc76</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Add the `--approve` option
+
+If not set, manual approval is needed (` Your application is pending 
+review by our staff. This may take some time. You will receive an e-mail 
+if your application is approved.`)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/d4a015c056265f5d2c3889516b8b557d41be5b35" title="2024-09-05T11:16:18.000+02:00" target="_blank">d4a015c0</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
           <pre>[feature] GitLab control plane nodes</pre>
         </td>
@@ -151,16 +160,11 @@ to pin down the version in order to make it work.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/c460f2a921c3f0a223f6c8acf0e202b3b8cc812e" title="2024-08-27T14:06:27.000+02:00" target="_blank">c460f2a9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[feature] Menus API monitoring</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/84ac1462ebfd1c922cf43d4fad211a0c0189dc4a" title="2024-08-26T14:42:59.000+02:00" target="_blank">84ac1462</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Mastodon's SMTP configuration</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 05 Sep 2024 13:45:12 GMT</small>
+<small>⏰ Updated on Fri, 06 Sep 2024 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
