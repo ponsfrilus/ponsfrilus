@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/nginx/nginx" title="The official NGINX Open Source repository." target="_blank">nginx</a>&nbsp;<a href="https://github.com/nginx/nginx" title="The official NGINX Open Source repository." target="_blank"><img src="https://img.shields.io/github/stars/nginx/nginx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank">nextra</a>&nbsp;<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/nextra?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank">lexbor</a>&nbsp;<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank"><img src="https://img.shields.io/github/stars/lexbor/lexbor?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank">zed</a>&nbsp;<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank"><img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank">ImHex</a>&nbsp;<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank"><img src="https://img.shields.io/github/stars/WerWolv/ImHex?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank">hackyeaster-2024</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2024?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank">Ice</a>&nbsp;<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank"><img src="https://img.shields.io/github/stars/jordanbaird/Ice?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank">k0s</a>&nbsp;<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/k0sproject/k0s?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank">fusion</a>&nbsp;<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank"><img src="https://img.shields.io/github/stars/0x2E/fusion?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank">slipshow</a>&nbsp;<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank"><img src="https://img.shields.io/github/stars/panglesd/slipshow?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank">dev_traefik</a>&nbsp;<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank"><img src="https://img.shields.io/github/stars/multiscan/dev_traefik?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank">minesweeper</a>&nbsp;<a href="https://github.com/Imbwbl/minesweeper" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Imbwbl/minesweeper?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank">nextra</a>&nbsp;<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/nextra?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank">lexbor</a>&nbsp;<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank"><img src="https://img.shields.io/github/stars/lexbor/lexbor?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank">zed</a>&nbsp;<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank"><img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank">ImHex</a>&nbsp;<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank"><img src="https://img.shields.io/github/stars/WerWolv/ImHex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank">hackyeaster-2024</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2024?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank">Ice</a>&nbsp;<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank"><img src="https://img.shields.io/github/stars/jordanbaird/Ice?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank">k0s</a>&nbsp;<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/k0sproject/k0s?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank">fusion</a>&nbsp;<a href="https://github.com/0x2E/fusion" title="A lightweight, self-hosted friendly RSS aggregator and reader" target="_blank"><img src="https://img.shields.io/github/stars/0x2E/fusion?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank">slipshow</a>&nbsp;<a href="https://github.com/panglesd/slipshow" title="An engine for displaying slips, the next-gen version of slides" target="_blank"><img src="https://img.shields.io/github/stars/panglesd/slipshow?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank">hackyeaster-2021</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2021" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2021?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -164,7 +164,7 @@ to pin down the version in order to make it work.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 06 Sep 2024 13:45:10 GMT</small>
+<small>⏰ Updated on Mon, 09 Sep 2024 13:46:01 GMT</small>
 </td>
 </tr>
 </tfoot>
