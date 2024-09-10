@@ -103,6 +103,36 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/482b02b9be1479cd6a00dc338fb2d8aa70992d3d" title="2024-09-10T12:47:02.000+02:00" target="_blank">482b02b9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Ensure containers' up after reboot</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/3134fd3a07a8e9c4dd9044d7b9ca510f1e1835c8" title="2024-09-09T23:20:54.000+02:00" target="_blank">3134fd3a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Owners</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6f6ee55397f8f7d39b94bd09f4da2dcb625e8ec8" title="2024-09-09T22:47:16.000+02:00" target="_blank">6f6ee553</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Prod's IP</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/7e6131821d07b2f3aeec4d2cd2423368e870dbd6" title="2024-09-09T18:54:08.000+02:00" target="_blank">7e613182</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] `preferred_username` is now `gaspar`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/41ca980a40ca332df230432cb2060e231be91ebc" title="2024-09-09T18:47:55.000+02:00" target="_blank">41ca980a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Add some targets (stop, rm, clean)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/c57cbf52696f4df78c2c7b1a76557c1226ffc2a2" title="2024-09-09T16:49:40.000+02:00" target="_blank">c57cbf52</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] `mastodon-web` container is needed to configure</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/3005cc767fddd4c90f75db9a60b271aa3b63ea1d" title="2024-09-06T09:26:48.000+02:00" target="_blank">3005cc76</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] Add the `--approve` option
 
@@ -125,46 +155,11 @@ if your application is approved.`)</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/83d4183356a6cad89cb13087690dc60b4474d1fb" title="2024-09-04T16:20:43.000+02:00" target="_blank">83d41833</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] Dead code</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c5f2a245015e519e469fe9a36cd6f4e150d995c0" title="2024-08-28T11:02:10.000+02:00" target="_blank">c5f2a245</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] Pin down the version of the Find My Blocks plugin
-
-As in version 4.*, the route `blocks` that we pull requested 
-(https://github.com/morganhvidt/find-my-blocks/commit/0e7e68414c59d9a5bb3eed74d87b542b80c3c776) 
-is no longer avalaible. Before changing everything, this is an attempt 
-to pin down the version in order to make it work.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/5ba2650a0b3ad2c32841b7d434a45573dee6ca74" title="2024-08-27T18:18:34.000+02:00" target="_blank">5ba2650a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[feature] Allow the team `@epfl-fsd/noc-grafana-admins` as admin</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/c144f99606e99b2c6808aa910752316aed50240b" title="2024-08-27T18:17:42.000+02:00" target="_blank">c144f996</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[bump] Black Box Exporter to v0.25.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/657335075274c58cbe955b5d5bab8e10855c6eff" title="2024-08-27T18:17:21.000+02:00" target="_blank">65733507</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[bump] Prometheus to v2.54.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/cb4129a83556d3128f5b1437829116858b80eccb" title="2024-08-27T14:33:38.000+02:00" target="_blank">cb4129a8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[feature] Update Grafana from 9.5.2 to 11.1.4</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/c460f2a921c3f0a223f6c8acf0e202b3b8cc812e" title="2024-08-27T14:06:27.000+02:00" target="_blank">c460f2a9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[feature] Menus API monitoring</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 09 Sep 2024 13:46:01 GMT</small>
+<small>⏰ Updated on Tue, 10 Sep 2024 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
