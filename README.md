@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/agarrharr/awesome-cli-apps" title="🖥 📊 🕹 🛠 A curated list of command line apps" target="_blank">awesome-cli-apps</a>&nbsp;<a href="https://github.com/agarrharr/awesome-cli-apps" title="🖥 📊 🕹 🛠 A curated list of command line apps" target="_blank"><img src="https://img.shields.io/github/stars/agarrharr/awesome-cli-apps?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tmrts/boilr" title=":zap: boilerplate template manager that generates files or directories from template repositories" target="_blank">boilr</a>&nbsp;<a href="https://github.com/tmrts/boilr" title=":zap: boilerplate template manager that generates files or directories from template repositories" target="_blank"><img src="https://img.shields.io/github/stars/tmrts/boilr?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/derailed/k9s" title="🐶 Kubernetes CLI To Manage Your Clusters In Style!" target="_blank">k9s</a>&nbsp;<a href="https://github.com/derailed/k9s" title="🐶 Kubernetes CLI To Manage Your Clusters In Style!" target="_blank"><img src="https://img.shields.io/github/stars/derailed/k9s?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nginx/nginx" title="The official NGINX Open Source repository." target="_blank">nginx</a>&nbsp;<a href="https://github.com/nginx/nginx" title="The official NGINX Open Source repository." target="_blank"><img src="https://img.shields.io/github/stars/nginx/nginx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank">nextra</a>&nbsp;<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/nextra?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank">lexbor</a>&nbsp;<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank"><img src="https://img.shields.io/github/stars/lexbor/lexbor?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank">zed</a>&nbsp;<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank"><img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank">ImHex</a>&nbsp;<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank"><img src="https://img.shields.io/github/stars/WerWolv/ImHex?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank">hackyeaster-2024</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2024?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank">Ice</a>&nbsp;<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank"><img src="https://img.shields.io/github/stars/jordanbaird/Ice?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank">cli</a>&nbsp;<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank"><img src="https://img.shields.io/github/stars/httpie/cli?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service" target="_blank">mongodb.ops</a>&nbsp;<a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/mongodb.ops?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/tmrts/boilr" title=":zap: boilerplate template manager that generates files or directories from template repositories" target="_blank">boilr</a>&nbsp;<a href="https://github.com/tmrts/boilr" title=":zap: boilerplate template manager that generates files or directories from template repositories" target="_blank"><img src="https://img.shields.io/github/stars/tmrts/boilr?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/derailed/k9s" title="🐶 Kubernetes CLI To Manage Your Clusters In Style!" target="_blank">k9s</a>&nbsp;<a href="https://github.com/derailed/k9s" title="🐶 Kubernetes CLI To Manage Your Clusters In Style!" target="_blank"><img src="https://img.shields.io/github/stars/derailed/k9s?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nginx/nginx" title="The official NGINX Open Source repository." target="_blank">nginx</a>&nbsp;<a href="https://github.com/nginx/nginx" title="The official NGINX Open Source repository." target="_blank"><img src="https://img.shields.io/github/stars/nginx/nginx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank">nextra</a>&nbsp;<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/nextra?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank">lexbor</a>&nbsp;<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank"><img src="https://img.shields.io/github/stars/lexbor/lexbor?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank">zed</a>&nbsp;<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank"><img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank">ImHex</a>&nbsp;<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank"><img src="https://img.shields.io/github/stars/WerWolv/ImHex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank">hackyeaster-2024</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2024?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank">Ice</a>&nbsp;<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank"><img src="https://img.shields.io/github/stars/jordanbaird/Ice?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank">k0s</a>&nbsp;<a href="https://github.com/k0sproject/k0s" title="k0s - The Zero Friction Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/k0sproject/k0s?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -159,7 +159,7 @@ if your application is approved.`)</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 11 Sep 2024 13:45:15 GMT</small>
+<small>⏰ Updated on Thu, 12 Sep 2024 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
