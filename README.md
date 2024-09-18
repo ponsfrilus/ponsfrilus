@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/e308f0f5e573b589c3d448d4ba1cd8910bf4e7b7" title="2024-09-18T10:58:59.000+02:00" target="_blank">e308f0f5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] `--approve` is always needed</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ffd07dc95095b01e375dced289c3df36615f7330" title="2024-09-10T16:17:07.000+02:00" target="_blank">ffd07dc9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[feature] Add custom_css if not exists</pre>
         </td>
@@ -150,16 +155,11 @@ If not set, manual approval is needed (` Your application is pending
 review by our staff. This may take some time. You will receive an e-mail 
 if your application is approved.`)</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/d4a015c056265f5d2c3889516b8b557d41be5b35" title="2024-09-05T11:16:18.000+02:00" target="_blank">d4a015c0</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
-          <pre>[feature] GitLab control plane nodes</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 17 Sep 2024 13:45:10 GMT</small>
+<small>⏰ Updated on Wed, 18 Sep 2024 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
