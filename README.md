@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/79b29e720a75ae73eaaee43fe4f9a61832b30e34" title="2024-09-19T18:20:03.000+02:00" target="_blank">79b29e72</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] Number of line grepped</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/5563e57275e2dd5876fec84ea3e33cf845c6f69a" title="2024-09-19T18:18:48.000+02:00" target="_blank">5563e572</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] Default `S3_BUCKET_NAME`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/e308f0f5e573b589c3d448d4ba1cd8910bf4e7b7" title="2024-09-18T10:58:59.000+02:00" target="_blank">e308f0f5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] `--approve` is always needed</pre>
         </td>
@@ -141,25 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/41ca980a40ca332df230432cb2060e231be91ebc" title="2024-09-09T18:47:55.000+02:00" target="_blank">41ca980a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[feature] Add some targets (stop, rm, clean)</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/c57cbf52696f4df78c2c7b1a76557c1226ffc2a2" title="2024-09-09T16:49:40.000+02:00" target="_blank">c57cbf52</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] `mastodon-web` container is needed to configure</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/3005cc767fddd4c90f75db9a60b271aa3b63ea1d" title="2024-09-06T09:26:48.000+02:00" target="_blank">3005cc76</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Add the `--approve` option
-
-If not set, manual approval is needed (` Your application is pending 
-review by our staff. This may take some time. You will receive an e-mail 
-if your application is approved.`)</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 19 Sep 2024 13:45:11 GMT</small>
+<small>⏰ Updated on Fri, 20 Sep 2024 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
