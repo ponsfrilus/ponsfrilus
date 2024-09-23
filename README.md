@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank">frankenwp</a>&nbsp;<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank"><img src="https://img.shields.io/github/stars/StephenMiracle/frankenwp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank">cli</a>&nbsp;<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank"><img src="https://img.shields.io/github/stars/httpie/cli?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank">bcal</a>&nbsp;<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank"><img src="https://img.shields.io/github/stars/jarun/bcal?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank">kakoune</a>&nbsp;<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank"><img src="https://img.shields.io/github/stars/mawww/kakoune?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank">dev_traefik</a>&nbsp;<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank"><img src="https://img.shields.io/github/stars/multiscan/dev_traefik?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank">juggl</a>&nbsp;<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank"><img src="https://img.shields.io/github/stars/HEmile/juggl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank">satosaaas</a>&nbsp;<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/satosaaas?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank">ladybird</a>&nbsp;<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank"><img src="https://img.shields.io/github/stars/LadybirdBrowser/ladybird?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch" target="_blank">ATARI</a>&nbsp;<a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ATARI?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/r-engineeringresumes/resume-templates" title="r/EngineeringResumes Resume Templates" target="_blank">resume-templates</a>&nbsp;<a href="https://github.com/r-engineeringresumes/resume-templates" title="r/EngineeringResumes Resume Templates" target="_blank"><img src="https://img.shields.io/github/stars/r-engineeringresumes/resume-templates?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/agarrharr/awesome-cli-apps" title="🖥 📊 🕹 🛠 A curated list of command line apps" target="_blank">awesome-cli-apps</a>&nbsp;<a href="https://github.com/agarrharr/awesome-cli-apps" title="🖥 📊 🕹 🛠 A curated list of command line apps" target="_blank"><img src="https://img.shields.io/github/stars/agarrharr/awesome-cli-apps?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,18 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank">cli</a>&nbsp;<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank"><img src="https://img.shields.io/github/stars/httpie/cli?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank">bcal</a>&nbsp;<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank"><img src="https://img.shields.io/github/stars/jarun/bcal?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank">kakoune</a>&nbsp;<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank"><img src="https://img.shields.io/github/stars/mawww/kakoune?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank">dev_traefik</a>&nbsp;<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank"><img src="https://img.shields.io/github/stars/multiscan/dev_traefik?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank">juggl</a>&nbsp;<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank"><img src="https://img.shields.io/github/stars/HEmile/juggl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank">satosaaas</a>&nbsp;<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/satosaaas?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank">ladybird</a>&nbsp;<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank"><img src="https://img.shields.io/github/stars/LadybirdBrowser/ladybird?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch" target="_blank">ATARI</a>&nbsp;<a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ATARI?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/r-engineeringresumes/resume-templates" title="r/EngineeringResumes Resume Templates" target="_blank">resume-templates</a>&nbsp;<a href="https://github.com/r-engineeringresumes/resume-templates" title="r/EngineeringResumes Resume Templates" target="_blank"><img src="https://img.shields.io/github/stars/r-engineeringresumes/resume-templates?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service" target="_blank">mongodb.ops</a>&nbsp;<a href="https://github.com/epfl-si/mongodb.ops" title="Ansible automation and other “ops” assets for the MongoDB hosting service" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/mongodb.ops?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/18f49ec5b54b807f1ac85e1012e65d54bcb03939" title="2024-09-21T09:41:02.000+02:00" target="_blank">18f49ec5</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
+          <pre>[feature] https://wpn.fsd.team
+
+This will allow pathprefix rules in our WPN cluster.</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/79b29e720a75ae73eaaee43fe4f9a61832b30e34" title="2024-09-19T18:20:03.000+02:00" target="_blank">79b29e72</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[fix] Number of line grepped</pre>
@@ -146,16 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/7e6131821d07b2f3aeec4d2cd2423368e870dbd6" title="2024-09-09T18:54:08.000+02:00" target="_blank">7e613182</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] `preferred_username` is now `gaspar`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/41ca980a40ca332df230432cb2060e231be91ebc" title="2024-09-09T18:47:55.000+02:00" target="_blank">41ca980a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Add some targets (stop, rm, clean)</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 20 Sep 2024 13:45:12 GMT</small>
+<small>⏰ Updated on Mon, 23 Sep 2024 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
