@@ -103,6 +103,14 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/a3bb950ef146d81decba7892c6ce78184b553f8d" title="2024-09-24T16:50:08.000+02:00" target="_blank">a3bb950e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] `oc login` now specify server
+
+Sorry to all that have a user `$USER` that doesn't match their EPFL 
+username (hehe).</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/18f49ec5b54b807f1ac85e1012e65d54bcb03939" title="2024-09-21T09:41:02.000+02:00" target="_blank">18f49ec5</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
           <pre>[feature] https://wpn.fsd.team
 
@@ -148,16 +156,11 @@ This will allow pathprefix rules in our WPN cluster.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6f6ee55397f8f7d39b94bd09f4da2dcb625e8ec8" title="2024-09-09T22:47:16.000+02:00" target="_blank">6f6ee553</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[feature] Prod's IP</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/7e6131821d07b2f3aeec4d2cd2423368e870dbd6" title="2024-09-09T18:54:08.000+02:00" target="_blank">7e613182</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] `preferred_username` is now `gaspar`</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 24 Sep 2024 13:45:12 GMT</small>
+<small>⏰ Updated on Wed, 25 Sep 2024 13:45:40 GMT</small>
 </td>
 </tr>
 </tfoot>
