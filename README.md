@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/drego85/tosint" title="Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities." target="_blank">tosint</a>&nbsp;<a href="https://github.com/drego85/tosint" title="Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities." target="_blank"><img src="https://img.shields.io/github/stars/drego85/tosint?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/agarrharr/awesome-cli-apps" title="🖥 📊 🕹 🛠 A curated list of command line apps" target="_blank">awesome-cli-apps</a>&nbsp;<a href="https://github.com/agarrharr/awesome-cli-apps" title="🖥 📊 🕹 🛠 A curated list of command line apps" target="_blank"><img src="https://img.shields.io/github/stars/agarrharr/awesome-cli-apps?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tmrts/boilr" title=":zap: boilerplate template manager that generates files or directories from template repositories" target="_blank">boilr</a>&nbsp;<a href="https://github.com/tmrts/boilr" title=":zap: boilerplate template manager that generates files or directories from template repositories" target="_blank"><img src="https://img.shields.io/github/stars/tmrts/boilr?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/derailed/k9s" title="🐶 Kubernetes CLI To Manage Your Clusters In Style!" target="_blank">k9s</a>&nbsp;<a href="https://github.com/derailed/k9s" title="🐶 Kubernetes CLI To Manage Your Clusters In Style!" target="_blank"><img src="https://img.shields.io/github/stars/derailed/k9s?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nginx/nginx" title="The official NGINX Open Source repository." target="_blank">nginx</a>&nbsp;<a href="https://github.com/nginx/nginx" title="The official NGINX Open Source repository." target="_blank"><img src="https://img.shields.io/github/stars/nginx/nginx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank">nextra</a>&nbsp;<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/nextra?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank">lexbor</a>&nbsp;<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank"><img src="https://img.shields.io/github/stars/lexbor/lexbor?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank">zed</a>&nbsp;<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank"><img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank">ImHex</a>&nbsp;<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank"><img src="https://img.shields.io/github/stars/WerWolv/ImHex?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank">hackyeaster-2024</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2024?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank">frankenwp</a>&nbsp;<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank"><img src="https://img.shields.io/github/stars/StephenMiracle/frankenwp?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/r-engineeringresumes/resume-templates" title="r/EngineeringResumes Resume Templates" target="_blank">resume-templates</a>&nbsp;<a href="https://github.com/r-engineeringresumes/resume-templates" title="r/EngineeringResumes Resume Templates" target="_blank"><img src="https://img.shields.io/github/stars/r-engineeringresumes/resume-templates?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/agarrharr/awesome-cli-apps" title="🖥 📊 🕹 🛠 A curated list of command line apps" target="_blank">awesome-cli-apps</a>&nbsp;<a href="https://github.com/agarrharr/awesome-cli-apps" title="🖥 📊 🕹 🛠 A curated list of command line apps" target="_blank"><img src="https://img.shields.io/github/stars/agarrharr/awesome-cli-apps?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tmrts/boilr" title=":zap: boilerplate template manager that generates files or directories from template repositories" target="_blank">boilr</a>&nbsp;<a href="https://github.com/tmrts/boilr" title=":zap: boilerplate template manager that generates files or directories from template repositories" target="_blank"><img src="https://img.shields.io/github/stars/tmrts/boilr?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/derailed/k9s" title="🐶 Kubernetes CLI To Manage Your Clusters In Style!" target="_blank">k9s</a>&nbsp;<a href="https://github.com/derailed/k9s" title="🐶 Kubernetes CLI To Manage Your Clusters In Style!" target="_blank"><img src="https://img.shields.io/github/stars/derailed/k9s?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nginx/nginx" title="The official NGINX Open Source repository." target="_blank">nginx</a>&nbsp;<a href="https://github.com/nginx/nginx" title="The official NGINX Open Source repository." target="_blank"><img src="https://img.shields.io/github/stars/nginx/nginx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank">nextra</a>&nbsp;<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/nextra?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank">lexbor</a>&nbsp;<a href="https://github.com/lexbor/lexbor" title="Lexbor is development of an open source HTML Renderer library. https://lexbor.com" target="_blank"><img src="https://img.shields.io/github/stars/lexbor/lexbor?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank">zed</a>&nbsp;<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank"><img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank">ImHex</a>&nbsp;<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank"><img src="https://img.shields.io/github/stars/WerWolv/ImHex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank">hackyeaster-2024</a>&nbsp;<a href="https://github.com/PhilippSieber/hackyeaster-2024" title="null" target="_blank"><img src="https://img.shields.io/github/stars/PhilippSieber/hackyeaster-2024?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank">Ice</a>&nbsp;<a href="https://github.com/jordanbaird/Ice" title="Powerful menu bar manager for macOS" target="_blank"><img src="https://img.shields.io/github/stars/jordanbaird/Ice?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -160,7 +160,7 @@ This will allow pathprefix rules in our WPN cluster.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 27 Sep 2024 13:45:12 GMT</small>
+<small>⏰ Updated on Mon, 30 Sep 2024 13:46:08 GMT</small>
 </td>
 </tr>
 </tfoot>
