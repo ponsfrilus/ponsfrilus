@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 14 years and 8 months.
+    <br />Apparently, I'm hanging around on GitHub since 14 years and 9 months.
     <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -111,6 +111,22 @@ username (hehe).</pre>
         </td>
         </tr><tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/094e9e74c757398d04da58c3f03d6426ac74133f" title="2024-09-23T14:32:09.000+02:00" target="_blank">094e9e74</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] Set option for VSMD
+
+The Very Simple Meta Description plugin allows users to set meta-data 
+for the site (`<meta name="description"...`). One of its options allow 
+to use pages and posts excerpts as meta description, but this option is 
+off by default.
+
+This commit:
+- Set the `vsmd-setting-2` to yes in the wp-options table (the setting 
+we are interested in)
+- Add the tag `-t wp.plugins.vsmd` to wpsible
+- Sort the tags for the plugins in alphabetical order</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/18f49ec5b54b807f1ac85e1012e65d54bcb03939" title="2024-09-21T09:41:02.000+02:00" target="_blank">18f49ec5</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
           <pre>[feature] https://wpn.fsd.team
 
@@ -151,16 +167,11 @@ This will allow pathprefix rules in our WPN cluster.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/3134fd3a07a8e9c4dd9044d7b9ca510f1e1835c8" title="2024-09-09T23:20:54.000+02:00" target="_blank">3134fd3a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] Owners</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6f6ee55397f8f7d39b94bd09f4da2dcb625e8ec8" title="2024-09-09T22:47:16.000+02:00" target="_blank">6f6ee553</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Prod's IP</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 30 Sep 2024 13:46:08 GMT</small>
+<small>⏰ Updated on Tue, 01 Oct 2024 13:45:35 GMT</small>
 </td>
 </tr>
 </tfoot>
