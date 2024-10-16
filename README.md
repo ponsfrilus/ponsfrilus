@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank">heyform</a>&nbsp;<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/heyform/heyform?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank">newsmap-js</a>&nbsp;<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank"><img src="https://img.shields.io/github/stars/IJMacD/newsmap-js?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank">frankenwp</a>&nbsp;<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank"><img src="https://img.shields.io/github/stars/StephenMiracle/frankenwp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank">cli</a>&nbsp;<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank"><img src="https://img.shields.io/github/stars/httpie/cli?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank">bcal</a>&nbsp;<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank"><img src="https://img.shields.io/github/stars/jarun/bcal?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank">kakoune</a>&nbsp;<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank"><img src="https://img.shields.io/github/stars/mawww/kakoune?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank">dev_traefik</a>&nbsp;<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank"><img src="https://img.shields.io/github/stars/multiscan/dev_traefik?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank">juggl</a>&nbsp;<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank"><img src="https://img.shields.io/github/stars/HEmile/juggl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank">satosaaas</a>&nbsp;<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/satosaaas?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank">ladybird</a>&nbsp;<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank"><img src="https://img.shields.io/github/stars/LadybirdBrowser/ladybird?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank">lens-resource-map-extension</a>&nbsp;<a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank"><img src="https://img.shields.io/github/stars/nevalla/lens-resource-map-extension?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank">ImHex</a>&nbsp;<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank"><img src="https://img.shields.io/github/stars/WerWolv/ImHex?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank">newsmap-js</a>&nbsp;<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank"><img src="https://img.shields.io/github/stars/IJMacD/newsmap-js?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank">frankenwp</a>&nbsp;<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank"><img src="https://img.shields.io/github/stars/StephenMiracle/frankenwp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank">cli</a>&nbsp;<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank"><img src="https://img.shields.io/github/stars/httpie/cli?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank">bcal</a>&nbsp;<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank"><img src="https://img.shields.io/github/stars/jarun/bcal?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank">kakoune</a>&nbsp;<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank"><img src="https://img.shields.io/github/stars/mawww/kakoune?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank">dev_traefik</a>&nbsp;<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank"><img src="https://img.shields.io/github/stars/multiscan/dev_traefik?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank">juggl</a>&nbsp;<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank"><img src="https://img.shields.io/github/stars/HEmile/juggl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank">satosaaas</a>&nbsp;<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/satosaaas?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank">ladybird</a>&nbsp;<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank"><img src="https://img.shields.io/github/stars/LadybirdBrowser/ladybird?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch" target="_blank">ATARI</a>&nbsp;<a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ATARI?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -171,7 +171,7 @@ This will allow pathprefix rules in our WPN cluster.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 15 Oct 2024 13:45:30 GMT</small>
+<small>⏰ Updated on Wed, 16 Oct 2024 13:45:24 GMT</small>
 </td>
 </tr>
 </tfoot>
