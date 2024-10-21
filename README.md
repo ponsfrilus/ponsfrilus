@@ -103,75 +103,81 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/a3bb950ef146d81decba7892c6ce78184b553f8d" title="2024-09-24T16:50:08.000+02:00" target="_blank">a3bb950e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] `oc login` now specify server
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/64ab8c533182f85f6a4a316e5534b19a34ef8cdc" title="2024-10-21T15:40:09.000+02:00" target="_blank">64ab8c53</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[fix] Use default WordPress DB 
 
-Sorry to all that have a user `$USER` that doesn't match their EPFL 
-username (hehe).</pre>
+As specified 
+[here](https://docs.wpvip.com/databases/supported-collations-charsets/) 
+these are the default settings for `DB_CHARSET` and `DB_COLLATE`.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/094e9e74c757398d04da58c3f03d6426ac74133f" title="2024-09-23T14:32:09.000+02:00" target="_blank">094e9e74</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] Set option for VSMD
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/0e20cdb3cdf1321a939acd05f709ce56cfe76b7e" title="2024-10-21T15:37:23.000+02:00" target="_blank">0e20cdb3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[feature] ChatGPT generated logo</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/1d25a5ccb0531a81289ed0e8d21d8962b5a707f3" title="2024-10-21T15:32:36.000+02:00" target="_blank">1d25a5cc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[feature] Add the plugins list
 
-The Very Simple Meta Description plugin allows users to set meta-data 
-for the site (`<meta name="description"...`). One of its options allow 
-to use pages and posts excerpts as meta description, but this option is 
-off by default.
+This is meant to be used to install the default required plugin list at 
+the creation of the WP site.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/82c53a6d0c9f58f0ec98354a89d8863655e9a0c7" title="2024-10-21T15:31:19.000+02:00" target="_blank">82c53a6d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[feature] Add additional `kubectl get wp` properties
 
-This commit:
-- Set the `vsmd-setting-2` to yes in the wp-options table (the setting 
-we are interested in)
-- Add the tag `-t wp.plugins.vsmd` to wpsible
-- Sort the tags for the plugins in alphabetical order</pre>
+This commit add additional properties in the `kubectl get wp` command:
+- Path (URL's path of the WP site)
+- Unit (ID of the unit that is responsible of the WP site)
+- Languages (Languages that were first requested at the site creation)</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/fsd.team/commits/18f49ec5b54b807f1ac85e1012e65d54bcb03939" title="2024-09-21T09:41:02.000+02:00" target="_blank">18f49ec5</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/fsd.team" title="null">/fsd.team</a></strong></div>
-          <pre>[feature] https://wpn.fsd.team
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/0f587161cbf08c0482f038b23acc279c191ef5f3" title="2024-10-08T11:03:25.000+02:00" target="_blank">0f587161</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[fix] Use default WP charset and collation
 
-This will allow pathprefix rules in our WPN cluster.</pre>
+See 35852eb834939ad1d6e419558d2a57b42e44f719</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/79b29e720a75ae73eaaee43fe4f9a61832b30e34" title="2024-09-19T18:20:03.000+02:00" target="_blank">79b29e72</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] Number of line grepped</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/776d9165fb738098a04fa8af02a4012240cc06dc" title="2024-10-04T12:54:41.000+02:00" target="_blank">776d9165</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[feature] Add prefix (and some logging)</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/5563e57275e2dd5876fec84ea3e33cf845c6f69a" title="2024-09-19T18:18:48.000+02:00" target="_blank">5563e572</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] Default `S3_BUCKET_NAME`</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/1724015016b3cc35c3d4c5f9a6baae2bb6c013e8" title="2024-10-03T10:25:16.000+02:00" target="_blank">17240150</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[doc] `get_wordpress.php`
+
+Add a comment that explain the puppose of the get_wordpress function and 
+where to edit it, as it's in created from the operator in a config map.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/e308f0f5e573b589c3d448d4ba1cd8910bf4e7b7" title="2024-09-18T10:58:59.000+02:00" target="_blank">e308f0f5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] `--approve` is always needed</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/721ec84b0b6e02acf865f82676e25f5e587d35db" title="2024-10-03T10:23:49.000+02:00" target="_blank">721ec84b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[feature] WordPress CR's debug
+
+Add an options to whether or not activate the WP_DEBUG in the custom 
+resource definition.
+
+This also add this properties in some k8s yaml.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ffd07dc95095b01e375dced289c3df36615f7330" title="2024-09-10T16:17:07.000+02:00" target="_blank">ffd07dc9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Add custom_css if not exists</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/d98c90b49e3ac35dda05a19fa8cadc4651bf15ff" title="2024-10-02T19:08:11.000+02:00" target="_blank">d98c90b4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[feature] Add the root site (`/`)</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-APOD/commits/8d3f013bd0c2a3bf1e26d98fb2c943b51de21ae5" title="2024-09-10T16:02:56.000+02:00" target="_blank">8d3f013b</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-APOD" title="Kata : création d'un navigateur d'APOD (Astronomy Picture of the Day)">/kata-APOD</a></strong></div>
-          <pre>[doc] README updated</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/482b02b9be1479cd6a00dc338fb2d8aa70992d3d" title="2024-09-10T12:47:02.000+02:00" target="_blank">482b02b9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Ensure containers' up after reboot</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/3134fd3a07a8e9c4dd9044d7b9ca510f1e1835c8" title="2024-09-09T23:20:54.000+02:00" target="_blank">3134fd3a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Owners</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/f40f8453bc26c0a337fb5e0c6f9e2ba7d360c70e" title="2024-10-02T19:00:21.000+02:00" target="_blank">f40f8453</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[fix] Toggle debug depending on configMap</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 18 Oct 2024 13:45:11 GMT</small>
+<small>⏰ Updated on Mon, 21 Oct 2024 13:46:57 GMT</small>
 </td>
 </tr>
 </tfoot>
