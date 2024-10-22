@@ -103,6 +103,39 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/40d102407c08b32d8cd6f22229515221acb38609" title="2024-10-22T14:33:07.000+02:00" target="_blank">40d10240</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[chore] Images folder + Repo Cover</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/28c1a4ffb44953e943a5bf6c267bcdccad42f048" title="2024-10-22T14:05:51.000+02:00" target="_blank">28c1a4ff</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[feature] Hide plugin by default
+
+Displaying the plugins list is now done by `kubectl get wp -o wide` due 
+to the `priority: 1` parameter.
+
+This fixes WPN-98.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/797fd54b1e37786463f50b9b5a64d98722ffc080" title="2024-10-21T20:08:09.000+02:00" target="_blank">797fd54b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[fix] "WordPress successfully installed"
+
+It seems that 26f718c never worked at all―at least can't see a proof of 
+it.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/c91381f0772c4ff52c53464ebe8a899bd3d393a5" title="2024-10-21T19:47:10.000+02:00" target="_blank">c91381f0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[fix] Remove extra quoting</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/d8818b6bc37ad5be09e81ecb37892c78a797c019" title="2024-10-21T19:12:32.000+02:00" target="_blank">d8818b6b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[git] Please ignore some Python files</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/64ab8c533182f85f6a4a316e5534b19a34ef8cdc" title="2024-10-21T15:40:09.000+02:00" target="_blank">64ab8c53</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[fix] Use default WordPress DB 
 
@@ -140,44 +173,11 @@ This commit add additional properties in the `kubectl get wp` command:
 
 See 35852eb834939ad1d6e419558d2a57b42e44f719</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/776d9165fb738098a04fa8af02a4012240cc06dc" title="2024-10-04T12:54:41.000+02:00" target="_blank">776d9165</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] Add prefix (and some logging)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/1724015016b3cc35c3d4c5f9a6baae2bb6c013e8" title="2024-10-03T10:25:16.000+02:00" target="_blank">17240150</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[doc] `get_wordpress.php`
-
-Add a comment that explain the puppose of the get_wordpress function and 
-where to edit it, as it's in created from the operator in a config map.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/721ec84b0b6e02acf865f82676e25f5e587d35db" title="2024-10-03T10:23:49.000+02:00" target="_blank">721ec84b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] WordPress CR's debug
-
-Add an options to whether or not activate the WP_DEBUG in the custom 
-resource definition.
-
-This also add this properties in some k8s yaml.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/d98c90b49e3ac35dda05a19fa8cadc4651bf15ff" title="2024-10-02T19:08:11.000+02:00" target="_blank">d98c90b4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] Add the root site (`/`)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/f40f8453bc26c0a337fb5e0c6f9e2ba7d360c70e" title="2024-10-02T19:00:21.000+02:00" target="_blank">f40f8453</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] Toggle debug depending on configMap</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 21 Oct 2024 13:46:57 GMT</small>
+<small>⏰ Updated on Tue, 22 Oct 2024 13:45:37 GMT</small>
 </td>
 </tr>
 </tfoot>
