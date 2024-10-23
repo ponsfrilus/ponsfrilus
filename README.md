@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/6674f92bd504ea2997cd541db430095e0bd3a00c" title="2024-10-22T17:39:42.000+02:00" target="_blank">6674f92b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[feature](WIP) Nginx sublocation</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/40d102407c08b32d8cd6f22229515221acb38609" title="2024-10-22T14:33:07.000+02:00" target="_blank">40d10240</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[chore] Images folder + Repo Cover</pre>
         </td>
@@ -166,18 +171,11 @@ This commit add additional properties in the `kubectl get wp` command:
 - Unit (ID of the unit that is responsible of the WP site)
 - Languages (Languages that were first requested at the site creation)</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/0f587161cbf08c0482f038b23acc279c191ef5f3" title="2024-10-08T11:03:25.000+02:00" target="_blank">0f587161</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] Use default WP charset and collation
-
-See 35852eb834939ad1d6e419558d2a57b42e44f719</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 22 Oct 2024 13:45:37 GMT</small>
+<small>⏰ Updated on Wed, 23 Oct 2024 13:45:20 GMT</small>
 </td>
 </tr>
 </tfoot>
