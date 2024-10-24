@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/dbd62919b59184cf79845c997fa086576b84f5ff" title="2024-10-24T14:37:52.000+02:00" target="_blank">dbd62919</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[doc] ISAS-FSD link</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/22e5e131ecd761f88251fc38a6bfa15330652de7" title="2024-10-24T14:36:23.000+02:00" target="_blank">22e5e131</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[doc] Add logo to the README</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/6674f92bd504ea2997cd541db430095e0bd3a00c" title="2024-10-22T17:39:42.000+02:00" target="_blank">6674f92b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[feature](WIP) Nginx sublocation</pre>
         </td>
@@ -153,29 +163,11 @@ these are the default settings for `DB_CHARSET` and `DB_COLLATE`.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/0e20cdb3cdf1321a939acd05f709ce56cfe76b7e" title="2024-10-21T15:37:23.000+02:00" target="_blank">0e20cdb3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[feature] ChatGPT generated logo</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/1d25a5ccb0531a81289ed0e8d21d8962b5a707f3" title="2024-10-21T15:32:36.000+02:00" target="_blank">1d25a5cc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] Add the plugins list
-
-This is meant to be used to install the default required plugin list at 
-the creation of the WP site.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/82c53a6d0c9f58f0ec98354a89d8863655e9a0c7" title="2024-10-21T15:31:19.000+02:00" target="_blank">82c53a6d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] Add additional `kubectl get wp` properties
-
-This commit add additional properties in the `kubectl get wp` command:
-- Path (URL's path of the WP site)
-- Unit (ID of the unit that is responsible of the WP site)
-- Languages (Languages that were first requested at the site creation)</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 23 Oct 2024 13:45:20 GMT</small>
+<small>⏰ Updated on Thu, 24 Oct 2024 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
