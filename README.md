@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank">mariadb-operator</a>&nbsp;<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank"><img src="https://img.shields.io/github/stars/mariadb-operator/mariadb-operator?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank">heyform</a>&nbsp;<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/heyform/heyform?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank">satosaaas</a>&nbsp;<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/satosaaas?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank">ladybird</a>&nbsp;<a href="https://github.com/LadybirdBrowser/ladybird" title="Truly independent web browser" target="_blank"><img src="https://img.shields.io/github/stars/LadybirdBrowser/ladybird?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator" target="_blank">wp-operator</a>&nbsp;<a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-operator?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank">lens-resource-map-extension</a>&nbsp;<a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank"><img src="https://img.shields.io/github/stars/nevalla/lens-resource-map-extension?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank">zed</a>&nbsp;<a href="https://github.com/zed-industries/zed" title="Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter." target="_blank"><img src="https://img.shields.io/github/stars/zed-industries/zed?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank">ImHex</a>&nbsp;<a href="https://github.com/WerWolv/ImHex" title="🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM." target="_blank"><img src="https://img.shields.io/github/stars/WerWolv/ImHex?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -167,7 +167,7 @@ these are the default settings for `DB_CHARSET` and `DB_COLLATE`.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 24 Oct 2024 13:45:13 GMT</small>
+<small>⏰ Updated on Fri, 25 Oct 2024 13:45:09 GMT</small>
 </td>
 </tr>
 </tfoot>
