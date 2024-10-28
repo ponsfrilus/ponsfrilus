@@ -167,7 +167,7 @@ these are the default settings for `DB_CHARSET` and `DB_COLLATE`.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 25 Oct 2024 13:45:09 GMT</small>
+<small>⏰ Updated on Mon, 28 Oct 2024 13:46:08 GMT</small>
 </td>
 </tr>
 </tfoot>
