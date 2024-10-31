@@ -103,6 +103,18 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/46592d72ef854b5a95f71c987521966190fc04c7" title="2024-10-31T11:37:36.000+01:00" target="_blank">46592d72</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>Merge pull request #15 from epfl-si/feature/wordline-saferpay
+
+Feature/wordline saferpay</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/e466a00fca8c76f57b487ef5cc85cdfa1a2803d7" title="2024-10-31T11:36:55.000+01:00" target="_blank">e466a00f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>Merge branch 'master' into feature/wordline-saferpay</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/dbd62919b59184cf79845c997fa086576b84f5ff" title="2024-10-24T14:37:52.000+02:00" target="_blank">dbd62919</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[doc] ISAS-FSD link</pre>
         </td>
@@ -149,25 +161,11 @@ it.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/d8818b6bc37ad5be09e81ecb37892c78a797c019" title="2024-10-21T19:12:32.000+02:00" target="_blank">d8818b6b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[git] Please ignore some Python files</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/64ab8c533182f85f6a4a316e5534b19a34ef8cdc" title="2024-10-21T15:40:09.000+02:00" target="_blank">64ab8c53</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] Use default WordPress DB 
-
-As specified 
-[here](https://docs.wpvip.com/databases/supported-collations-charsets/) 
-these are the default settings for `DB_CHARSET` and `DB_COLLATE`.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/0e20cdb3cdf1321a939acd05f709ce56cfe76b7e" title="2024-10-21T15:37:23.000+02:00" target="_blank">0e20cdb3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] ChatGPT generated logo</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 30 Oct 2024 13:45:16 GMT</small>
+<small>⏰ Updated on Thu, 31 Oct 2024 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
