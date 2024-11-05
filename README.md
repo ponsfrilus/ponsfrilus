@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank">diagrams</a>&nbsp;<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank"><img src="https://img.shields.io/github/stars/mingrammer/diagrams?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank">mariadb-operator</a>&nbsp;<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank"><img src="https://img.shields.io/github/stars/mariadb-operator/mariadb-operator?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank">heyform</a>&nbsp;<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/heyform/heyform?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank">newsmap-js</a>&nbsp;<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank"><img src="https://img.shields.io/github/stars/IJMacD/newsmap-js?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank">frankenwp</a>&nbsp;<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank"><img src="https://img.shields.io/github/stars/StephenMiracle/frankenwp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank">cli</a>&nbsp;<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank"><img src="https://img.shields.io/github/stars/httpie/cli?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank">bcal</a>&nbsp;<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank"><img src="https://img.shields.io/github/stars/jarun/bcal?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank">kakoune</a>&nbsp;<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank"><img src="https://img.shields.io/github/stars/mawww/kakoune?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank">dev_traefik</a>&nbsp;<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank"><img src="https://img.shields.io/github/stars/multiscan/dev_traefik?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank">juggl</a>&nbsp;<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank"><img src="https://img.shields.io/github/stars/HEmile/juggl?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/navidrome/navidrome" title="🎧☁️ Your Personal Streaming Service" target="_blank">navidrome</a>&nbsp;<a href="https://github.com/navidrome/navidrome" title="🎧☁️ Your Personal Streaming Service" target="_blank"><img src="https://img.shields.io/github/stars/navidrome/navidrome?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,26 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank">mariadb-operator</a>&nbsp;<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank"><img src="https://img.shields.io/github/stars/mariadb-operator/mariadb-operator?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank">heyform</a>&nbsp;<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/heyform/heyform?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank">newsmap-js</a>&nbsp;<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank"><img src="https://img.shields.io/github/stars/IJMacD/newsmap-js?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank">frankenwp</a>&nbsp;<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank"><img src="https://img.shields.io/github/stars/StephenMiracle/frankenwp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank">cli</a>&nbsp;<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank"><img src="https://img.shields.io/github/stars/httpie/cli?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank">bcal</a>&nbsp;<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank"><img src="https://img.shields.io/github/stars/jarun/bcal?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank">kakoune</a>&nbsp;<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank"><img src="https://img.shields.io/github/stars/mawww/kakoune?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank">dev_traefik</a>&nbsp;<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank"><img src="https://img.shields.io/github/stars/multiscan/dev_traefik?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank">juggl</a>&nbsp;<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank"><img src="https://img.shields.io/github/stars/HEmile/juggl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank">satosaaas</a>&nbsp;<a href="https://github.com/epfl-si/satosaaas" title="Code for satosaaas.epfl.ch" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/satosaaas?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/5256ed65364287e67a8af2293b8693941aa12d68" title="2024-11-05T10:55:42.000+01:00" target="_blank">5256ed65</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[feature] Add `Tagline` in the `additionalPrinterColumns`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/e876d2e24d9b785083245418cd5a9829ccc3830f" title="2024-11-05T10:54:00.000+01:00" target="_blank">e876d2e2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[fix] Ensure `unit_id` is required in CRD</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/ef12ff6f644f379faffe9320393e93eda3fb96aa" title="2024-11-05T10:44:18.000+01:00" target="_blank">ef12ff6f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[feature](POC) Update CR status</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/46592d72ef854b5a95f71c987521966190fc04c7" title="2024-10-31T11:37:36.000+01:00" target="_blank">46592d72</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
           <pre>Merge pull request #15 from epfl-si/feature/wordline-saferpay
@@ -143,29 +158,11 @@ to the `priority: 1` parameter.
 
 This fixes WPN-98.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/797fd54b1e37786463f50b9b5a64d98722ffc080" title="2024-10-21T20:08:09.000+02:00" target="_blank">797fd54b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] "WordPress successfully installed"
-
-It seems that 26f718c never worked at all―at least can't see a proof of 
-it.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/c91381f0772c4ff52c53464ebe8a899bd3d393a5" title="2024-10-21T19:47:10.000+02:00" target="_blank">c91381f0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] Remove extra quoting</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/d8818b6bc37ad5be09e81ecb37892c78a797c019" title="2024-10-21T19:12:32.000+02:00" target="_blank">d8818b6b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[git] Please ignore some Python files</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 04 Nov 2024 13:45:54 GMT</small>
+<small>⏰ Updated on Tue, 05 Nov 2024 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
