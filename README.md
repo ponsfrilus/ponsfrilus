@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/f2a446f87a6fa68615774795967eef393f4db718" title="2024-11-05T17:01:29.000+01:00" target="_blank">f2a446f8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[feature] Makefile
+
+Because @Azecko told to everyone ^^`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/5256ed65364287e67a8af2293b8693941aa12d68" title="2024-11-05T10:55:42.000+01:00" target="_blank">5256ed65</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[feature] Add `Tagline` in the `additionalPrinterColumns`</pre>
         </td>
@@ -148,21 +155,11 @@ Feature/wordline saferpay</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/40d102407c08b32d8cd6f22229515221acb38609" title="2024-10-22T14:33:07.000+02:00" target="_blank">40d10240</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[chore] Images folder + Repo Cover</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/28c1a4ffb44953e943a5bf6c267bcdccad42f048" title="2024-10-22T14:05:51.000+02:00" target="_blank">28c1a4ff</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] Hide plugin by default
-
-Displaying the plugins list is now done by `kubectl get wp -o wide` due 
-to the `priority: 1` parameter.
-
-This fixes WPN-98.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 05 Nov 2024 13:45:12 GMT</small>
+<small>⏰ Updated on Wed, 06 Nov 2024 13:45:09 GMT</small>
 </td>
 </tr>
 </tfoot>
