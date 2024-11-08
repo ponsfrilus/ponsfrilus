@@ -103,99 +103,70 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/783f34056fd9cec57cda7a7483cd4c5167ed5098" title="2024-11-05T22:56:28.000+01:00" target="_blank">783f3405</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[doc] README.md revamped</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/fe2085439a659379e204d4dc9a5f007325efd5f7" title="2024-11-07T15:39:29.000+01:00" target="_blank">fe208543</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
+          <pre>[doc] Add simplistic usage</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/68de6e98093f64e599d24defad751881e038fb94" title="2024-11-05T22:16:50.000+01:00" target="_blank">68de6e98</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[doc] TODOs removed
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/79a1619744550b0d46f690ce49f6bae2914902d3" title="2024-11-07T15:31:16.000+01:00" target="_blank">79a16197</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
+          <pre>[fix] Logo "etat_de_vaud_logo.webp"</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/43afb8982c4930383be6136fec0ceee55783a601" title="2024-11-07T15:23:16.000+01:00" target="_blank">43afb898</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
+          <pre>[fix] `'` to `’`
 
-As per the list below, they are all checked or we changed the way we
-want to do things.
+9:44  Error: `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, 
+`&rsquo;`.  react/no-unescaped-entities</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/2348ff66a2f846a5a23356662a0ea9ef128fd89c" title="2024-11-07T15:20:30.000+01:00" target="_blank">2348ff66</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
+          <pre>[doc] README revamped
 
-- [x] Quotes in site name / tagline, e.g. `Nicolas's site`, are not 
-escaped properly.
-- [x] We need to have a way to make the operator manage Ingresses / 
-Deployment to balance the loads / the numbers of site per pods
-- [x] As for the Ingresses and Deployments, same have to happen with 
-MariaDB (the database server)
-- [~] We have to manage the languages (which could be changed by the 
-users, so this imply some knowledges of the modification made at user 
-level, see next point)
-- [~] We need to have some sort of cron task that read the actual 
-configuration, i.e. language, that are active on a site and write thoses 
-in the kubernetes object (status / annotation)
-- [x] The operator has to create the Databases backup/restore
-- [x] The life cycle of a WordPressSite has to be fully managed by the 
-operator: introduce a thombstone/archive status that can be revived, 
-duplicate a site
-- [x] The CRD should have more filter field (the one that are shown on 
-the `kubectl get wp` output), such as `path`, etc
-- [-] wp-veritas (a clickable interface to manage WordPress sites)</pre>
+This fixes #4</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/19ee5c6a0fffca9d27dd10c8ad05d507a3481684" title="2024-11-05T19:32:52.000+01:00" target="_blank">19ee5c6a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] Deploy the WP-Operator in a pod with RBAC
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/87f5ca26d8203d05cc6ed84151306a304bd2931d" title="2024-11-07T13:03:21.000+01:00" target="_blank">87f5ca26</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
+          <pre>[feature] Moar explaination on the home page
 
-This creates:
-  - ServiceAccount/wp-operator
-  - RoleBinding/wp-operator
-  - Role/wp-operator
-  - ClusterRoleBinding/wp-operator
-  - ClusterRole/wp-operator
-  - Deployment/wp-operator</pre>
+This should close #3</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/7c2dbf9478aec7ff3ef912aaf94f2c56088dfc09" title="2024-11-05T19:31:08.000+01:00" target="_blank">7c2dbf94</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] Use run args (12 factors)
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/c11b083ef659b845d3f2b60c729616ba76f279e6" title="2024-11-07T13:02:51.000+01:00" target="_blank">c11b083e</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
+          <pre>[fix] Relative images path</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/7672e99a18402d30aafa337f3b4cf425e74540e4" title="2024-11-07T12:35:23.000+01:00" target="_blank">7672e99a</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
+          <pre>[fix] Favicon
 
-e.g. `docker run image --namespace=wordpress-test -- --db-host [...]`</pre>
+This closes #2</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/462f4f0ce3f70d73a7c29a7e7ea6785a07f2edfe" title="2024-11-05T19:29:32.000+01:00" target="_blank">462f4f0c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] `load_kube_config`
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/63647b40178f4e765e1a7e219e2ee864373ae763" title="2024-11-07T12:34:53.000+01:00" target="_blank">63647b40</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
+          <pre>[fix] basePath</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/782c176c5a59fd4e291878be2362fbda917bb1d0" title="2024-11-07T12:23:30.000+01:00" target="_blank">782c176c</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
+          <pre>[fix] Page's title
 
-`load_config` does what we want: either in the pod or in dev.</pre>
+This closes #1</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/69773d758b20dd20825ccde207468c479b9737c8" title="2024-11-05T17:21:13.000+01:00" target="_blank">69773d75</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] `make image`
-
-Add the `build`, `tag` and `push` targets that are all called by `make 
-image`.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/f2a446f87a6fa68615774795967eef393f4db718" title="2024-11-05T17:01:29.000+01:00" target="_blank">f2a446f8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] Makefile
-
-Because @Azecko told to everyone ^^`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/5256ed65364287e67a8af2293b8693941aa12d68" title="2024-11-05T10:55:42.000+01:00" target="_blank">5256ed65</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] Add `Tagline` in the `additionalPrinterColumns`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/e876d2e24d9b785083245418cd5a9829ccc3830f" title="2024-11-05T10:54:00.000+01:00" target="_blank">e876d2e2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] Ensure `unit_id` is required in CRD</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/ef12ff6f644f379faffe9320393e93eda3fb96aa" title="2024-11-05T10:44:18.000+01:00" target="_blank">ef12ff6f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature](POC) Update CR status</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/7ce062a353c1ab642a1c92d6125609fe9f9bf5fc" title="2024-11-07T12:19:59.000+01:00" target="_blank">7ce062a3</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
+          <pre>[feature] Deploy on GitHub Pages</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 07 Nov 2024 13:45:12 GMT</small>
+<small>⏰ Updated on Fri, 08 Nov 2024 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
