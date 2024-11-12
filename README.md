@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/sjdonado/idonthavespotify" title="Effortlessly convert Spotify links to your preferred streaming service" target="_blank">idonthavespotify</a>&nbsp;<a href="https://github.com/sjdonado/idonthavespotify" title="Effortlessly convert Spotify links to your preferred streaming service" target="_blank"><img src="https://img.shields.io/github/stars/sjdonado/idonthavespotify?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank">diagrams</a>&nbsp;<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank"><img src="https://img.shields.io/github/stars/mingrammer/diagrams?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank">mariadb-operator</a>&nbsp;<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank"><img src="https://img.shields.io/github/stars/mariadb-operator/mariadb-operator?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank">heyform</a>&nbsp;<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/heyform/heyform?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank">newsmap-js</a>&nbsp;<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank"><img src="https://img.shields.io/github/stars/IJMacD/newsmap-js?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank">frankenwp</a>&nbsp;<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank"><img src="https://img.shields.io/github/stars/StephenMiracle/frankenwp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank">cli</a>&nbsp;<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank"><img src="https://img.shields.io/github/stars/httpie/cli?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank">bcal</a>&nbsp;<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank"><img src="https://img.shields.io/github/stars/jarun/bcal?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank">kakoune</a>&nbsp;<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank"><img src="https://img.shields.io/github/stars/mawww/kakoune?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank">dev_traefik</a>&nbsp;<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank"><img src="https://img.shields.io/github/stars/multiscan/dev_traefik?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank">rapport-de-stage</a>&nbsp;<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/rapport-de-stage?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank">nextra</a>&nbsp;<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/nextra?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank">diagrams</a>&nbsp;<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank"><img src="https://img.shields.io/github/stars/mingrammer/diagrams?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank">mariadb-operator</a>&nbsp;<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank"><img src="https://img.shields.io/github/stars/mariadb-operator/mariadb-operator?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank">heyform</a>&nbsp;<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/heyform/heyform?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank">newsmap-js</a>&nbsp;<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank"><img src="https://img.shields.io/github/stars/IJMacD/newsmap-js?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank">frankenwp</a>&nbsp;<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank"><img src="https://img.shields.io/github/stars/StephenMiracle/frankenwp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank">cli</a>&nbsp;<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank"><img src="https://img.shields.io/github/stars/httpie/cli?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank">bcal</a>&nbsp;<a href="https://github.com/jarun/bcal" title=":1234: Bits, bytes and address calculator" target="_blank"><img src="https://img.shields.io/github/stars/jarun/bcal?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank">kakoune</a>&nbsp;<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank"><img src="https://img.shields.io/github/stars/mawww/kakoune?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank">dev_traefik</a>&nbsp;<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank"><img src="https://img.shields.io/github/stars/multiscan/dev_traefik?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank">juggl</a>&nbsp;<a href="https://github.com/HEmile/juggl" title="An interactive, stylable and expandable graph view for Obsidian. Juggl is designed as an advanced 'local' graph view, where you can juggle all your thoughts with ease. " target="_blank"><img src="https://img.shields.io/github/stars/HEmile/juggl?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -166,7 +166,7 @@ This closes #1</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 11 Nov 2024 13:45:09 GMT</small>
+<small>⏰ Updated on Tue, 12 Nov 2024 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
