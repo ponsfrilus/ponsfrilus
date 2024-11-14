@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank">jellyfin-media-player</a>&nbsp;<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank"><img src="https://img.shields.io/github/stars/jellyfin/jellyfin-media-player?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/sjdonado/idonthavespotify" title="Effortlessly convert Spotify links to your preferred streaming service" target="_blank">idonthavespotify</a>&nbsp;<a href="https://github.com/sjdonado/idonthavespotify" title="Effortlessly convert Spotify links to your preferred streaming service" target="_blank"><img src="https://img.shields.io/github/stars/sjdonado/idonthavespotify?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank">kakoune</a>&nbsp;<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank"><img src="https://img.shields.io/github/stars/mawww/kakoune?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank">dev_traefik</a>&nbsp;<a href="https://github.com/multiscan/dev_traefik" title="Generic traefik container for development on local machine" target="_blank"><img src="https://img.shields.io/github/stars/multiscan/dev_traefik?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank">paperless-ngx</a>&nbsp;<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank"><img src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank">rapport-de-stage</a>&nbsp;<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/rapport-de-stage?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/nginx/nginx" title="The official NGINX Open Source repository." target="_blank">nginx</a>&nbsp;<a href="https://github.com/nginx/nginx" title="The official NGINX Open Source repository." target="_blank"><img src="https://img.shields.io/github/stars/nginx/nginx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank">nextra</a>&nbsp;<a href="https://github.com/Azecko/nextra" title="Next.js + TailwindCSS + Entra ID Auth boilerplate" target="_blank"><img src="https://img.shields.io/github/stars/Azecko/nextra?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -170,7 +170,7 @@ This should close #3</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 13 Nov 2024 13:45:10 GMT</small>
+<small>⏰ Updated on Thu, 14 Nov 2024 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
