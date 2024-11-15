@@ -103,6 +103,40 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/a11d2e4ca93824397e47dfe0a6351acf330210ee" title="2024-11-15T14:19:47.000+01:00" target="_blank">a11d2e4c</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
+          <pre>[fix] Signature width
+
+Fixes #15</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/559a6524d7db1116528acbb70b72a4de3ed4ac1f" title="2024-11-15T14:11:15.000+01:00" target="_blank">559a6524</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
+          <pre>[fix] Name the printed PDF
+
+Fixes #16</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/f922328b25e1104d0c344b1f3c408ee80350f9a5" title="2024-11-15T11:41:03.000+01:00" target="_blank">f922328b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature](WIP) Programme</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/ae0af00dfff2b0e5102a2492942535d8e8bd6f4b" title="2024-11-15T11:40:51.000+01:00" target="_blank">ae0af00d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] Nov. 24</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/6a6f119044f32544f53b3a067fbde72992257823" title="2024-11-15T11:40:08.000+01:00" target="_blank">6a6f1190</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] Nov. 24</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/e78161a4987f59f368a783c3962d77c3a6de4419" title="2024-11-15T11:38:07.000+01:00" target="_blank">e78161a4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[feature] Generator for https://epfl-fsd.github.io/rapport-de-stage/responsable</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/266dbf6dfdb481a3871e8379409d3a7be26680ad" title="2024-11-12T15:37:28.000+01:00" target="_blank">266dbf6d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
           <pre>[git] Please ignore</pre>
         </td>
@@ -121,56 +155,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/dc5d0167e59e03e24130c919f3665e5aa2c587b4" title="2024-11-12T15:24:50.000+01:00" target="_blank">dc5d0167</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
           <pre>[fix] Registry location</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/71a5e54c343d1b59b9a31967027dea939252477e" title="2024-11-12T15:15:03.000+01:00" target="_blank">71a5e54c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
-          <pre>[init] Project's initialization
-
-Initialized with:
-```sh
-operator-sdk init --plugins helm --domain epfl.ch --group nfs --version 
-v1alpha1 --kind NfsSubdirProvisioner --helm-chart-repo 
-https://kubernetes-sigs.github.io/nfs-subdir-external-provisioner/ 
---helm-chart nfs-subdir-external-provisioner --helm-chart-version 4.0.18
-```</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/fe2085439a659379e204d4dc9a5f007325efd5f7" title="2024-11-07T15:39:29.000+01:00" target="_blank">fe208543</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
-          <pre>[doc] Add simplistic usage</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/79a1619744550b0d46f690ce49f6bae2914902d3" title="2024-11-07T15:31:16.000+01:00" target="_blank">79a16197</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
-          <pre>[fix] Logo "etat_de_vaud_logo.webp"</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/43afb8982c4930383be6136fec0ceee55783a601" title="2024-11-07T15:23:16.000+01:00" target="_blank">43afb898</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
-          <pre>[fix] `'` to `’`
-
-9:44  Error: `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, 
-`&rsquo;`.  react/no-unescaped-entities</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/2348ff66a2f846a5a23356662a0ea9ef128fd89c" title="2024-11-07T15:20:30.000+01:00" target="_blank">2348ff66</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
-          <pre>[doc] README revamped
-
-This fixes #4</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/87f5ca26d8203d05cc6ed84151306a304bd2931d" title="2024-11-07T13:03:21.000+01:00" target="_blank">87f5ca26</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
-          <pre>[feature] Moar explaination on the home page
-
-This should close #3</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 14 Nov 2024 13:45:10 GMT</small>
+<small>⏰ Updated on Fri, 15 Nov 2024 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
