@@ -103,6 +103,36 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/3d120408c269b9a9996bf4b5753758e1d6731270" title="2024-11-19T12:39:11.000+01:00" target="_blank">3d120408</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
+          <pre>[chore] Rename `nfs-subdir-external-provisioner` to `nfs-subdir-ext-provisioner`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/622be458692eb4c27e88bf17b86b949ad9ee10f7" title="2024-11-19T12:20:19.000+01:00" target="_blank">622be458</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
+          <pre>[fix] ServiceAccount for `default` and `isas-fsd-catalog`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/f36deba644cf6a0ac207ec8996f5470bbe808867" title="2024-11-19T12:19:32.000+01:00" target="_blank">f36deba6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
+          <pre>[feature] Embedded metadata in catalog</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/a1de296c691166142b68a48d1ffc45b9589d4f3c" title="2024-11-19T11:07:38.000+01:00" target="_blank">a1de296c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
+          <pre>[feature] Add `catalogSource.yaml`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/9ee9d8b99290f99052180791b4a5c96805760202" title="2024-11-19T11:06:50.000+01:00" target="_blank">9ee9d8b9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
+          <pre>[fix] Catalog image's name</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/d3f5574fa73f7824ce767f7cc62038bcbc1246ba" title="2024-11-19T11:06:34.000+01:00" target="_blank">d3f5574f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
+          <pre>[fix] Image name</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/rapport-de-stage/commits/a11d2e4ca93824397e47dfe0a6351acf330210ee" title="2024-11-15T14:19:47.000+01:00" target="_blank">a11d2e4c</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. ">/rapport-de-stage</a></strong></div>
           <pre>[fix] Signature width
 
@@ -125,41 +155,11 @@ Fixes #16</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/ae0af00dfff2b0e5102a2492942535d8e8bd6f4b" title="2024-11-15T11:40:51.000+01:00" target="_blank">ae0af00d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[fix] Nov. 24</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/6a6f119044f32544f53b3a067fbde72992257823" title="2024-11-15T11:40:08.000+01:00" target="_blank">6a6f1190</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] Nov. 24</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/e78161a4987f59f368a783c3962d77c3a6de4419" title="2024-11-15T11:38:07.000+01:00" target="_blank">e78161a4</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[feature] Generator for https://epfl-fsd.github.io/rapport-de-stage/responsable</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/266dbf6dfdb481a3871e8379409d3a7be26680ad" title="2024-11-12T15:37:28.000+01:00" target="_blank">266dbf6d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
-          <pre>[git] Please ignore</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/5ec6c94e527af0fae36396b76af619ed9b316dfc" title="2024-11-12T15:37:18.000+01:00" target="_blank">5ec6c94e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
-          <pre>[auto] Autogenerated by `make bundle bundle-build bundle-push`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/8e8a8f6a239649dd71d05bd37cd816e31afa40b9" title="2024-11-12T15:34:42.000+01:00" target="_blank">8e8a8f6a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
-          <pre>[feature] Config for "kustomize base"</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/dc5d0167e59e03e24130c919f3665e5aa2c587b4" title="2024-11-12T15:24:50.000+01:00" target="_blank">dc5d0167</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
-          <pre>[fix] Registry location</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 18 Nov 2024 13:47:07 GMT</small>
+<small>⏰ Updated on Tue, 19 Nov 2024 13:46:31 GMT</small>
 </td>
 </tr>
 </tfoot>
