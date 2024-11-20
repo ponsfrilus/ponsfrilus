@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/9f50c070ffc5530692e0860af2274c8806121ec6" title="2024-11-19T15:57:57.000+01:00" target="_blank">9f50c070</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
+          <pre>[fix] Provisioner's name</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/3d120408c269b9a9996bf4b5753758e1d6731270" title="2024-11-19T12:39:11.000+01:00" target="_blank">3d120408</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
           <pre>[chore] Rename `nfs-subdir-external-provisioner` to `nfs-subdir-ext-provisioner`</pre>
         </td>
@@ -150,16 +155,11 @@ Fixes #16</pre>
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/f922328b25e1104d0c344b1f3c408ee80350f9a5" title="2024-11-15T11:41:03.000+01:00" target="_blank">f922328b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[feature](WIP) Programme</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/ae0af00dfff2b0e5102a2492942535d8e8bd6f4b" title="2024-11-15T11:40:51.000+01:00" target="_blank">ae0af00d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] Nov. 24</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 19 Nov 2024 13:46:31 GMT</small>
+<small>⏰ Updated on Wed, 20 Nov 2024 13:46:11 GMT</small>
 </td>
 </tr>
 </tfoot>
