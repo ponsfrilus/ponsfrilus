@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/hcengineering/platform" title="Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)" target="_blank">platform</a>&nbsp;<a href="https://github.com/hcengineering/platform" title="Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)" target="_blank"><img src="https://img.shields.io/github/stars/hcengineering/platform?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank">paperless-ngx</a>&nbsp;<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank"><img src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank">rapport-de-stage</a>&nbsp;<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/rapport-de-stage?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/navidrome/navidrome" title="🎧☁️ Your Personal Streaming Service" target="_blank">navidrome</a>&nbsp;<a href="https://github.com/navidrome/navidrome" title="🎧☁️ Your Personal Streaming Service" target="_blank"><img src="https://img.shields.io/github/stars/navidrome/navidrome?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator" target="_blank">wp-operator</a>&nbsp;<a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-operator?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank">lens-resource-map-extension</a>&nbsp;<a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank"><img src="https://img.shields.io/github/stars/nevalla/lens-resource-map-extension?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/drego85/tosint" title="Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities." target="_blank">tosint</a>&nbsp;<a href="https://github.com/drego85/tosint" title="Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities." target="_blank"><img src="https://img.shields.io/github/stars/drego85/tosint?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/agarrharr/awesome-cli-apps" title="🖥 📊 🕹 🛠 A curated list of command line apps" target="_blank">awesome-cli-apps</a>&nbsp;<a href="https://github.com/agarrharr/awesome-cli-apps" title="🖥 📊 🕹 🛠 A curated list of command line apps" target="_blank"><img src="https://img.shields.io/github/stars/agarrharr/awesome-cli-apps?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tmrts/boilr" title=":zap: boilerplate template manager that generates files or directories from template repositories" target="_blank">boilr</a>&nbsp;<a href="https://github.com/tmrts/boilr" title=":zap: boilerplate template manager that generates files or directories from template repositories" target="_blank"><img src="https://img.shields.io/github/stars/tmrts/boilr?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/derailed/k9s" title="🐶 Kubernetes CLI To Manage Your Clusters In Style!" target="_blank">k9s</a>&nbsp;<a href="https://github.com/derailed/k9s" title="🐶 Kubernetes CLI To Manage Your Clusters In Style!" target="_blank"><img src="https://img.shields.io/github/stars/derailed/k9s?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank">jellyfin-media-player</a>&nbsp;<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank"><img src="https://img.shields.io/github/stars/jellyfin/jellyfin-media-player?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank">kakoune</a>&nbsp;<a href="https://github.com/mawww/kakoune" title="mawww's experiment for a better code editor" target="_blank"><img src="https://img.shields.io/github/stars/mawww/kakoune?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank">paperless-ngx</a>&nbsp;<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank"><img src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank">rapport-de-stage</a>&nbsp;<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/rapport-de-stage?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/navidrome/navidrome" title="🎧☁️ Your Personal Streaming Service" target="_blank">navidrome</a>&nbsp;<a href="https://github.com/navidrome/navidrome" title="🎧☁️ Your Personal Streaming Service" target="_blank"><img src="https://img.shields.io/github/stars/navidrome/navidrome?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator" target="_blank">wp-operator</a>&nbsp;<a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-operator?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank">lens-resource-map-extension</a>&nbsp;<a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank"><img src="https://img.shields.io/github/stars/nevalla/lens-resource-map-extension?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/drego85/tosint" title="Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities." target="_blank">tosint</a>&nbsp;<a href="https://github.com/drego85/tosint" title="Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities." target="_blank"><img src="https://img.shields.io/github/stars/drego85/tosint?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/agarrharr/awesome-cli-apps" title="🖥 📊 🕹 🛠 A curated list of command line apps" target="_blank">awesome-cli-apps</a>&nbsp;<a href="https://github.com/agarrharr/awesome-cli-apps" title="🖥 📊 🕹 🛠 A curated list of command line apps" target="_blank"><img src="https://img.shields.io/github/stars/agarrharr/awesome-cli-apps?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tmrts/boilr" title=":zap: boilerplate template manager that generates files or directories from template repositories" target="_blank">boilr</a>&nbsp;<a href="https://github.com/tmrts/boilr" title=":zap: boilerplate template manager that generates files or directories from template repositories" target="_blank"><img src="https://img.shields.io/github/stars/tmrts/boilr?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/derailed/k9s" title="🐶 Kubernetes CLI To Manage Your Clusters In Style!" target="_blank">k9s</a>&nbsp;<a href="https://github.com/derailed/k9s" title="🐶 Kubernetes CLI To Manage Your Clusters In Style!" target="_blank"><img src="https://img.shields.io/github/stars/derailed/k9s?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nginx/nginx" title="The official NGINX Open Source repository." target="_blank">nginx</a>&nbsp;<a href="https://github.com/nginx/nginx" title="The official NGINX Open Source repository." target="_blank"><img src="https://img.shields.io/github/stars/nginx/nginx?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -159,7 +159,7 @@ Fixes #16</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 20 Nov 2024 13:46:11 GMT</small>
+<small>⏰ Updated on Thu, 21 Nov 2024 13:46:30 GMT</small>
 </td>
 </tr>
 </tfoot>
