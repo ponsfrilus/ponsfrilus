@@ -9,7 +9,7 @@
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
     <br />Apparently, I'm hanging around on GitHub since 14 years and 11 months.
-    <br />You can reach me on twitter <a href="https://twitter.com/ponsfrilus">@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
+    <br />You can reach me on twitter <a href="https://twitter.com/null">@null</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
   <p align="center">
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 02 Dec 2024 13:47:50 GMT</small>
+<small>⏰ Updated on Tue, 03 Dec 2024 13:47:28 GMT</small>
 </td>
 </tr>
 </tfoot>
