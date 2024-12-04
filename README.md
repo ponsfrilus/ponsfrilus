@@ -103,7 +103,7 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Test-pour-candidats/commits/07e0698af6721a00d08594ddae43b54df4bcad26" title="2024-12-01T12:05:35.000+01:00" target="_blank">07e0698a</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Test-pour-candidats" title="null">/Test-pour-candidats</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Test-pour-candidats/commits/188a61d1fcb6985d99f6eaf5825431c840f626b1" title="2024-12-04T13:13:48.000+01:00" target="_blank">188a61d1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Test-pour-candidats" title="null">/Test-pour-candidats</a></strong></div>
           <pre>[init] First version</pre>
         </td>
         </tr><tr>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 03 Dec 2024 13:47:28 GMT</small>
+<small>⏰ Updated on Wed, 04 Dec 2024 13:47:32 GMT</small>
 </td>
 </tr>
 </tfoot>
