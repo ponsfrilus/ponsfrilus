@@ -103,7 +103,51 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/4c9895c70cd4c480d51b8a3bfc699774bd61eb09" title="2024-12-09T14:06:32.000+01:00" target="_blank">4c9895c7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/f610ff3e68a28436eab934bfad511305bb0d1461" title="2024-12-09T17:45:53.000+01:00" target="_blank">f610ff3e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[doc] New `Makefile` commands</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/1a41ddd793c98258d09d696601169aec59274858" title="2024-12-09T17:40:02.000+01:00" target="_blank">1a41ddd7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[hotfix] ConfigMaps' RBAC</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/56bc68f881d3f08c4933c4f04f7feb02d00fd613" title="2024-12-09T17:05:25.000+01:00" target="_blank">56bc68f8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[hotfix] Push the `latest` tag too</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/e08cedc543d87d4ab43b49005ed4e63ef12d4d0e" title="2024-12-09T17:04:48.000+01:00" target="_blank">e08cedc5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[hotfix] `config.load_config()`
+
+`config.load_kube_config()` is only looking for the `KUBECONFIG` file 
+while `config.load_config()` is a bit smarter and find its configuration 
+in `/var/run/secrets/kubernetes.io/serviceaccount/token` too.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/ef3828a8156ef4a579af5b148b111ad0facbafc9" title="2024-12-09T16:45:44.000+01:00" target="_blank">ef3828a8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[hotfix] s/wpn/wp</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/a320624167309b97910bcca489ebfde5acfb34da" title="2024-12-09T15:12:40.000+01:00" target="_blank">a3206241</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[fix] Gitignore the default secret file</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/0fd3977af3ebcb5198f26148bb3d1d6d9c09d50f" title="2024-12-09T15:11:55.000+01:00" target="_blank">0fd3977a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[feature] More targets for operator's life cycle</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/5512ffee482b090fcbde3d3abe03129797b54cfd" title="2024-12-09T15:11:30.000+01:00" target="_blank">5512ffee</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[fix] For now, use the latest tag</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/2cb174e6d179936d54c3edc290c380302eab763e" title="2024-12-09T14:47:36.000+01:00" target="_blank">2cb174e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[feature] Add some check and variables
 
 This commit add some better management of the variables in the script 
@@ -116,51 +160,11 @@ Also, create the `.gitignore` to be sure not to commit secrets.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/4773f686b3b098c7e2ff95769338ae8587948260" title="2024-12-06T16:05:54.000+01:00" target="_blank">4773f686</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[feature] Fix wpforms-epfl-payonline's version to v2.1.3</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Test-pour-candidats/commits/188a61d1fcb6985d99f6eaf5825431c840f626b1" title="2024-12-04T13:13:48.000+01:00" target="_blank">188a61d1</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Test-pour-candidats" title="null">/Test-pour-candidats</a></strong></div>
-          <pre>[init] First version</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/ea3f89abb0bc0b4dc36e6344bcbeb4d2e6ddf3b3" title="2024-11-25T19:54:18.000+01:00" target="_blank">ea3f89ab</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
-          <pre>[feature&fix] Logs' table</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/35b7e4485f1db4a16575f562dfe7045acf56314c" title="2024-11-25T19:45:21.000+01:00" target="_blank">35b7e448</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
-          <pre>[fix] Logs page</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/7a109777315db4ebe99d6bb6dfcc63fa9d7074de" title="2024-11-25T19:38:48.000+01:00" target="_blank">7a109777</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
-          <pre>[feature] Block "Add ressource"</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/51aebe5efff59103f1355c31a1b073eba541e34d" title="2024-11-25T19:26:35.000+01:00" target="_blank">51aebe5e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
-          <pre>[feature] Add 168891 as a admin</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/f0bb258ca81734839de94419ef7e757977dfeb90" title="2024-11-25T17:07:10.000+01:00" target="_blank">f0bb258c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
-          <pre>[bump] To version 0.0.17</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/nfs-subdir-external-provisioner-olm/commits/b5b8505c016e3cb405b7479570680e06911ee753" title="2024-11-25T17:02:05.000+01:00" target="_blank">b5b8505c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/nfs-subdir-external-provisioner-olm" title="null">/nfs-subdir-external-provisioner-olm</a></strong></div>
-          <pre>[feature] NFS's icon</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/isas-fsd-catalog/commits/235689a387a5d78ff03707a67bc5615197e5396b" title="2024-11-25T16:25:59.000+01:00" target="_blank">235689a3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/isas-fsd-catalog" title="OLM catalogs for ISAS-FSD operators">/isas-fsd-catalog</a></strong></div>
-          <pre>[git] Please ignore</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 09 Dec 2024 13:47:59 GMT</small>
+<small>⏰ Updated on Tue, 10 Dec 2024 13:47:48 GMT</small>
 </td>
 </tr>
 </tfoot>
