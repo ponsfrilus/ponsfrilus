@@ -113,6 +113,11 @@
         </td>
         </tr><tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/a225d6623924c226369954e12028756b81b4a3cb" title="2024-12-09T17:40:02.000+01:00" target="_blank">a225d662</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[hotfix] ConfigMaps' RBAC</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/56bc68f881d3f08c4933c4f04f7feb02d00fd613" title="2024-12-09T17:05:25.000+01:00" target="_blank">56bc68f8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[hotfix] Push the `latest` tag too</pre>
         </td>
@@ -155,16 +160,11 @@ and fail more properly if the `KUBECONFIG` is not set (at least that
 `kubectl get secret` fails).
 Also, create the `.gitignore` to be sure not to commit secrets.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/4773f686b3b098c7e2ff95769338ae8587948260" title="2024-12-06T16:05:54.000+01:00" target="_blank">4773f686</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] Fix wpforms-epfl-payonline's version to v2.1.3</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 11 Dec 2024 13:47:27 GMT</small>
+<small>⏰ Updated on Thu, 12 Dec 2024 13:47:07 GMT</small>
 </td>
 </tr>
 </tfoot>
