@@ -103,6 +103,43 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Test-pour-candidats/commits/72b219462b74c6bc37253362043a51436a53779c" title="2024-12-12T22:33:39.000+01:00" target="_blank">72b21946</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Test-pour-candidats" title="null">/Test-pour-candidats</a></strong></div>
+          <pre>[pdf] Add 2 versions</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Test-pour-candidats/commits/3115b574abfb56c3353444a1cbf402012a7ebcaa" title="2024-12-12T22:31:26.000+01:00" target="_blank">3115b574</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Test-pour-candidats" title="null">/Test-pour-candidats</a></strong></div>
+          <pre>[feature] Test pour stagiaire</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mariadb.ops/commits/c5d54e7eb245ade62d39c73d394e1d32ff7a278a" title="2024-12-12T16:23:00.000+01:00" target="_blank">c5d54e7e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mariadb.ops" title="Ansible jam for deploying a temporary MariaDB server">/mariadb.ops</a></strong></div>
+          <pre>[feature] Message of the day</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mariadb.ops/commits/07f0312c4ac66cad280e9be18c63d4dc3366fc1f" title="2024-12-12T15:45:06.000+01:00" target="_blank">07f0312c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mariadb.ops" title="Ansible jam for deploying a temporary MariaDB server">/mariadb.ops</a></strong></div>
+          <pre>[feature] Basic MariaDB values</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mariadb.ops/commits/91f65ea6d339c0b5749ab9a660c4df894ec9602d" title="2024-12-12T15:44:47.000+01:00" target="_blank">91f65ea6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mariadb.ops" title="Ansible jam for deploying a temporary MariaDB server">/mariadb.ops</a></strong></div>
+          <pre>[doc] `./mariasible -t vm.os.upgrade`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mariadb.ops/commits/6be94322da58414023af11a567239fd41a999518" title="2024-12-12T15:07:08.000+01:00" target="_blank">6be94322</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mariadb.ops" title="Ansible jam for deploying a temporary MariaDB server">/mariadb.ops</a></strong></div>
+          <pre>[feature] `mariasible` ...
+
+... with some base element from mongodb.ops.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mariadb.ops/commits/a21919be4522e72f4c6ccbe57b9c5461b640fe46" title="2024-12-12T14:50:16.000+01:00" target="_blank">a21919be</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mariadb.ops" title="Ansible jam for deploying a temporary MariaDB server">/mariadb.ops</a></strong></div>
+          <pre>Initial commit</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/f610ff3e68a28436eab934bfad511305bb0d1461" title="2024-12-09T17:45:53.000+01:00" target="_blank">f610ff3e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[doc] New `Makefile` commands</pre>
         </td>
@@ -116,55 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/a225d6623924c226369954e12028756b81b4a3cb" title="2024-12-09T17:40:02.000+01:00" target="_blank">a225d662</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[hotfix] ConfigMaps' RBAC</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/56bc68f881d3f08c4933c4f04f7feb02d00fd613" title="2024-12-09T17:05:25.000+01:00" target="_blank">56bc68f8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[hotfix] Push the `latest` tag too</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/e08cedc543d87d4ab43b49005ed4e63ef12d4d0e" title="2024-12-09T17:04:48.000+01:00" target="_blank">e08cedc5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[hotfix] `config.load_config()`
-
-`config.load_kube_config()` is only looking for the `KUBECONFIG` file 
-while `config.load_config()` is a bit smarter and find its configuration 
-in `/var/run/secrets/kubernetes.io/serviceaccount/token` too.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/ef3828a8156ef4a579af5b148b111ad0facbafc9" title="2024-12-09T16:45:44.000+01:00" target="_blank">ef3828a8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[hotfix] s/wpn/wp</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/a320624167309b97910bcca489ebfde5acfb34da" title="2024-12-09T15:12:40.000+01:00" target="_blank">a3206241</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] Gitignore the default secret file</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/0fd3977af3ebcb5198f26148bb3d1d6d9c09d50f" title="2024-12-09T15:11:55.000+01:00" target="_blank">0fd3977a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] More targets for operator's life cycle</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/5512ffee482b090fcbde3d3abe03129797b54cfd" title="2024-12-09T15:11:30.000+01:00" target="_blank">5512ffee</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] For now, use the latest tag</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/2cb174e6d179936d54c3edc290c380302eab763e" title="2024-12-09T14:47:36.000+01:00" target="_blank">2cb174e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] Add some check and variables
-
-This commit add some better management of the variables in the script 
-and fail more properly if the `KUBECONFIG` is not set (at least that 
-`kubectl get secret` fails).
-Also, create the `.gitignore` to be sure not to commit secrets.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 12 Dec 2024 13:47:07 GMT</small>
+<small>⏰ Updated on Fri, 13 Dec 2024 13:46:56 GMT</small>
 </td>
 </tr>
 </tfoot>
