@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 <p align="center">
-  <!-- use https://avatars.githubusercontent.com/u/176002?v=4 for your default github picture 
+  <!-- use https://private-avatars.githubusercontent.com/u/176002?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTY0NDAsIm5iZiI6MTczNDYxNTI0MCwicGF0aCI6Ii91LzE3NjAwMiJ9.gGp5a3FZ06_LouIGiQL3RvUPQFYSy2zYmDFrRcPYYL0&v=4 for your default github picture 
   <img src="https://raw.githubusercontent.com/ponsfrilus/ponsfrilus/master/img/ponsfrilus.png" title="Nicolas Borboën aka ‟ponsfrilus„" alt="Nicolas Borboën aka ‟ponsfrilus„" /> -->
   <h3 align="center">
     Nicolas Borboën aka ‟ponsfrilus„
@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/ab20631841be0d49a490010d6e9aae4714c3f111" title="2024-12-18T16:04:49.000+01:00" target="_blank">ab206318</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[fix] Ensure that plugins default to an empty array</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/8c5677273ea5c114c294bf31f7b3a2c9f2e90db9" title="2024-12-18T16:03:21.000+01:00" target="_blank">8c567727</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[fix] Set the description to `The EPFL WordPress Operator`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/b7238948f7983f10b9bc57169ac9845a3ac0b6b2" title="2024-12-18T14:29:30.000+01:00" target="_blank">b7238948</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[fix] Typo + comment</pre>
         </td>
@@ -143,21 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/mariadb.ops/commits/a21919be4522e72f4c6ccbe57b9c5461b640fe46" title="2024-12-12T14:50:16.000+01:00" target="_blank">a21919be</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mariadb.ops" title="Ansible jam for deploying a temporary MariaDB server">/mariadb.ops</a></strong></div>
           <pre>Initial commit</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/f610ff3e68a28436eab934bfad511305bb0d1461" title="2024-12-09T17:45:53.000+01:00" target="_blank">f610ff3e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[doc] New `Makefile` commands</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/a225d6623924c226369954e12028756b81b4a3cb" title="2024-12-09T17:40:02.000+01:00" target="_blank">a225d662</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[hotfix] ConfigMaps' RBAC</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 18 Dec 2024 13:45:31 GMT</small>
+<small>⏰ Updated on Thu, 19 Dec 2024 13:45:55 GMT</small>
 </td>
 </tr>
 </tfoot>
