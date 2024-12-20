@@ -1,7 +1,7 @@
 ### Hello World 👋
 
 <p align="center">
-  <!-- use https://private-avatars.githubusercontent.com/u/176002?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTY0NDAsIm5iZiI6MTczNDYxNTI0MCwicGF0aCI6Ii91LzE3NjAwMiJ9.gGp5a3FZ06_LouIGiQL3RvUPQFYSy2zYmDFrRcPYYL0&v=4 for your default github picture 
+  <!-- use https://avatars.githubusercontent.com/u/176002?v=4 for your default github picture 
   <img src="https://raw.githubusercontent.com/ponsfrilus/ponsfrilus/master/img/ponsfrilus.png" title="Nicolas Borboën aka ‟ponsfrilus„" alt="Nicolas Borboën aka ‟ponsfrilus„" /> -->
   <h3 align="center">
     Nicolas Borboën aka ‟ponsfrilus„
@@ -157,7 +157,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 19 Dec 2024 13:45:55 GMT</small>
+<small>⏰ Updated on Fri, 20 Dec 2024 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
