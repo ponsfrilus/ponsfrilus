@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank">publicodes</a>&nbsp;<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank"><img src="https://img.shields.io/github/stars/publicodes/publicodes?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vriteio/vrite" title="Open-source developer content platform" target="_blank">vrite</a>&nbsp;<a href="https://github.com/vriteio/vrite" title="Open-source developer content platform" target="_blank"><img src="https://img.shields.io/github/stars/vriteio/vrite?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/e-id-admin/eidch-public-beta" title="The Public Beta environment is designed to test and refine the Swiss e-ID technology stack." target="_blank">eidch-public-beta</a>&nbsp;<a href="https://github.com/e-id-admin/eidch-public-beta" title="The Public Beta environment is designed to test and refine the Swiss e-ID technology stack." target="_blank"><img src="https://img.shields.io/github/stars/e-id-admin/eidch-public-beta?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sezanzeb/input-remapper" title="🎮 ⌨ An easy to use tool to change the behaviour of your input devices." target="_blank">input-remapper</a>&nbsp;<a href="https://github.com/sezanzeb/input-remapper" title="🎮 ⌨ An easy to use tool to change the behaviour of your input devices." target="_blank"><img src="https://img.shields.io/github/stars/sezanzeb/input-remapper?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank">jellyfin-media-player</a>&nbsp;<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank"><img src="https://img.shields.io/github/stars/jellyfin/jellyfin-media-player?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sjdonado/idonthavespotify" title="Effortlessly convert Spotify links to your preferred streaming service" target="_blank">idonthavespotify</a>&nbsp;<a href="https://github.com/sjdonado/idonthavespotify" title="Effortlessly convert Spotify links to your preferred streaming service" target="_blank"><img src="https://img.shields.io/github/stars/sjdonado/idonthavespotify?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank">diagrams</a>&nbsp;<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank"><img src="https://img.shields.io/github/stars/mingrammer/diagrams?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank">mariadb-operator</a>&nbsp;<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank"><img src="https://img.shields.io/github/stars/mariadb-operator/mariadb-operator?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank">heyform</a>&nbsp;<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/heyform/heyform?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank">newsmap-js</a>&nbsp;<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank"><img src="https://img.shields.io/github/stars/IJMacD/newsmap-js?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank">hedgedoc</a>&nbsp;<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank"><img src="https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/frameable/aviary.sh" title="Minimal distributed configuration management in bash" target="_blank">aviary.sh</a>&nbsp;<a href="https://github.com/frameable/aviary.sh" title="Minimal distributed configuration management in bash" target="_blank"><img src="https://img.shields.io/github/stars/frameable/aviary.sh?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/drego85/tosint" title="Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities." target="_blank">tosint</a>&nbsp;<a href="https://github.com/drego85/tosint" title="Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities." target="_blank"><img src="https://img.shields.io/github/stars/drego85/tosint?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/agarrharr/awesome-cli-apps" title="🖥 📊 🕹 🛠 A curated list of command line apps" target="_blank">awesome-cli-apps</a>&nbsp;<a href="https://github.com/agarrharr/awesome-cli-apps" title="🖥 📊 🕹 🛠 A curated list of command line apps" target="_blank"><img src="https://img.shields.io/github/stars/agarrharr/awesome-cli-apps?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/e-id-admin/eidch-public-beta" title="The Public Beta environment is designed to test and refine the Swiss e-ID technology stack." target="_blank">eidch-public-beta</a>&nbsp;<a href="https://github.com/e-id-admin/eidch-public-beta" title="The Public Beta environment is designed to test and refine the Swiss e-ID technology stack." target="_blank"><img src="https://img.shields.io/github/stars/e-id-admin/eidch-public-beta?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sezanzeb/input-remapper" title="🎮 ⌨ An easy to use tool to change the behaviour of your input devices." target="_blank">input-remapper</a>&nbsp;<a href="https://github.com/sezanzeb/input-remapper" title="🎮 ⌨ An easy to use tool to change the behaviour of your input devices." target="_blank"><img src="https://img.shields.io/github/stars/sezanzeb/input-remapper?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank">jellyfin-media-player</a>&nbsp;<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank"><img src="https://img.shields.io/github/stars/jellyfin/jellyfin-media-player?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sjdonado/idonthavespotify" title="Effortlessly convert Spotify links to your preferred streaming service" target="_blank">idonthavespotify</a>&nbsp;<a href="https://github.com/sjdonado/idonthavespotify" title="Effortlessly convert Spotify links to your preferred streaming service" target="_blank"><img src="https://img.shields.io/github/stars/sjdonado/idonthavespotify?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank">diagrams</a>&nbsp;<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank"><img src="https://img.shields.io/github/stars/mingrammer/diagrams?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank">mariadb-operator</a>&nbsp;<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank"><img src="https://img.shields.io/github/stars/mariadb-operator/mariadb-operator?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank">heyform</a>&nbsp;<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/heyform/heyform?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank">newsmap-js</a>&nbsp;<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank"><img src="https://img.shields.io/github/stars/IJMacD/newsmap-js?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank">frankenwp</a>&nbsp;<a href="https://github.com/StephenMiracle/frankenwp" title="null" target="_blank"><img src="https://img.shields.io/github/stars/StephenMiracle/frankenwp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank">cli</a>&nbsp;<a href="https://github.com/httpie/cli" title="🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more." target="_blank"><img src="https://img.shields.io/github/stars/httpie/cli?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 20 Dec 2024 13:45:12 GMT</small>
+<small>⏰ Updated on Mon, 23 Dec 2024 13:45:09 GMT</small>
 </td>
 </tr>
 </tfoot>
