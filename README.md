@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank">ghostty</a>&nbsp;<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank"><img src="https://img.shields.io/github/stars/ghostty-org/ghostty?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank">hedgedoc</a>&nbsp;<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank"><img src="https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/frameable/aviary.sh" title="Minimal distributed configuration management in bash" target="_blank">aviary.sh</a>&nbsp;<a href="https://github.com/frameable/aviary.sh" title="Minimal distributed configuration management in bash" target="_blank"><img src="https://img.shields.io/github/stars/frameable/aviary.sh?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kubeshark/kubeshark" title="The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes" target="_blank">kubeshark</a>&nbsp;<a href="https://github.com/kubeshark/kubeshark" title="The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/kubeshark/kubeshark?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hcengineering/platform" title="Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)" target="_blank">platform</a>&nbsp;<a href="https://github.com/hcengineering/platform" title="Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)" target="_blank"><img src="https://img.shields.io/github/stars/hcengineering/platform?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank">paperless-ngx</a>&nbsp;<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank"><img src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank">rapport-de-stage</a>&nbsp;<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/rapport-de-stage?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/navidrome/navidrome" title="🎧☁️ Your Personal Streaming Service" target="_blank">navidrome</a>&nbsp;<a href="https://github.com/navidrome/navidrome" title="🎧☁️ Your Personal Streaming Service" target="_blank"><img src="https://img.shields.io/github/stars/navidrome/navidrome?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator" target="_blank">wp-operator</a>&nbsp;<a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-operator?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank">lens-resource-map-extension</a>&nbsp;<a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank"><img src="https://img.shields.io/github/stars/nevalla/lens-resource-map-extension?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank">publicodes</a>&nbsp;<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank"><img src="https://img.shields.io/github/stars/publicodes/publicodes?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank">newsmap-js</a>&nbsp;<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank"><img src="https://img.shields.io/github/stars/IJMacD/newsmap-js?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank">hedgedoc</a>&nbsp;<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank"><img src="https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/frameable/aviary.sh" title="Minimal distributed configuration management in bash" target="_blank">aviary.sh</a>&nbsp;<a href="https://github.com/frameable/aviary.sh" title="Minimal distributed configuration management in bash" target="_blank"><img src="https://img.shields.io/github/stars/frameable/aviary.sh?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kubeshark/kubeshark" title="The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes" target="_blank">kubeshark</a>&nbsp;<a href="https://github.com/kubeshark/kubeshark" title="The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/kubeshark/kubeshark?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hcengineering/platform" title="Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)" target="_blank">platform</a>&nbsp;<a href="https://github.com/hcengineering/platform" title="Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)" target="_blank"><img src="https://img.shields.io/github/stars/hcengineering/platform?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank">paperless-ngx</a>&nbsp;<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank"><img src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank">rapport-de-stage</a>&nbsp;<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/rapport-de-stage?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/navidrome/navidrome" title="🎧☁️ Your Personal Streaming Service" target="_blank">navidrome</a>&nbsp;<a href="https://github.com/navidrome/navidrome" title="🎧☁️ Your Personal Streaming Service" target="_blank"><img src="https://img.shields.io/github/stars/navidrome/navidrome?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator" target="_blank">wp-operator</a>&nbsp;<a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-operator?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank">lens-resource-map-extension</a>&nbsp;<a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank"><img src="https://img.shields.io/github/stars/nevalla/lens-resource-map-extension?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/drego85/tosint" title="Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities." target="_blank">tosint</a>&nbsp;<a href="https://github.com/drego85/tosint" title="Tosint (Telegram OSINT) is a powerful tool designed to extract valuable information from Telegram bots and channels. It serves as an essential resource for security researchers, investigators, and anyone interested in gathering insights from various Telegram entities." target="_blank"><img src="https://img.shields.io/github/stars/drego85/tosint?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 27 Dec 2024 13:45:13 GMT</small>
+<small>⏰ Updated on Mon, 30 Dec 2024 13:45:08 GMT</small>
 </td>
 </tr>
 </tfoot>
