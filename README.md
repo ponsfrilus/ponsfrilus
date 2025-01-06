@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank">openproject</a>&nbsp;<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank"><img src="https://img.shields.io/github/stars/opf/openproject?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank">publicodes</a>&nbsp;<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank"><img src="https://img.shields.io/github/stars/publicodes/publicodes?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vriteio/vrite" title="Open-source developer content platform" target="_blank">vrite</a>&nbsp;<a href="https://github.com/vriteio/vrite" title="Open-source developer content platform" target="_blank"><img src="https://img.shields.io/github/stars/vriteio/vrite?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/e-id-admin/eidch-public-beta" title="The Public Beta environment is designed to test and refine the Swiss e-ID technology stack." target="_blank">eidch-public-beta</a>&nbsp;<a href="https://github.com/e-id-admin/eidch-public-beta" title="The Public Beta environment is designed to test and refine the Swiss e-ID technology stack." target="_blank"><img src="https://img.shields.io/github/stars/e-id-admin/eidch-public-beta?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sezanzeb/input-remapper" title="🎮 ⌨ An easy to use tool to change the behaviour of your input devices." target="_blank">input-remapper</a>&nbsp;<a href="https://github.com/sezanzeb/input-remapper" title="🎮 ⌨ An easy to use tool to change the behaviour of your input devices." target="_blank"><img src="https://img.shields.io/github/stars/sezanzeb/input-remapper?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank">jellyfin-media-player</a>&nbsp;<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank"><img src="https://img.shields.io/github/stars/jellyfin/jellyfin-media-player?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sjdonado/idonthavespotify" title="Effortlessly convert Spotify links to your preferred streaming service" target="_blank">idonthavespotify</a>&nbsp;<a href="https://github.com/sjdonado/idonthavespotify" title="Effortlessly convert Spotify links to your preferred streaming service" target="_blank"><img src="https://img.shields.io/github/stars/sjdonado/idonthavespotify?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank">diagrams</a>&nbsp;<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank"><img src="https://img.shields.io/github/stars/mingrammer/diagrams?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank">mariadb-operator</a>&nbsp;<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank"><img src="https://img.shields.io/github/stars/mariadb-operator/mariadb-operator?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank">heyform</a>&nbsp;<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/heyform/heyform?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank">ghostty</a>&nbsp;<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank"><img src="https://img.shields.io/github/stars/ghostty-org/ghostty?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank">lens-resource-map-extension</a>&nbsp;<a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank"><img src="https://img.shields.io/github/stars/nevalla/lens-resource-map-extension?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank">publicodes</a>&nbsp;<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank"><img src="https://img.shields.io/github/stars/publicodes/publicodes?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vriteio/vrite" title="Open-source developer content platform" target="_blank">vrite</a>&nbsp;<a href="https://github.com/vriteio/vrite" title="Open-source developer content platform" target="_blank"><img src="https://img.shields.io/github/stars/vriteio/vrite?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/e-id-admin/eidch-public-beta" title="The Public Beta environment is designed to test and refine the Swiss e-ID technology stack." target="_blank">eidch-public-beta</a>&nbsp;<a href="https://github.com/e-id-admin/eidch-public-beta" title="The Public Beta environment is designed to test and refine the Swiss e-ID technology stack." target="_blank"><img src="https://img.shields.io/github/stars/e-id-admin/eidch-public-beta?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sezanzeb/input-remapper" title="🎮 ⌨ An easy to use tool to change the behaviour of your input devices." target="_blank">input-remapper</a>&nbsp;<a href="https://github.com/sezanzeb/input-remapper" title="🎮 ⌨ An easy to use tool to change the behaviour of your input devices." target="_blank"><img src="https://img.shields.io/github/stars/sezanzeb/input-remapper?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank">jellyfin-media-player</a>&nbsp;<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank"><img src="https://img.shields.io/github/stars/jellyfin/jellyfin-media-player?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sjdonado/idonthavespotify" title="Effortlessly convert Spotify links to your preferred streaming service" target="_blank">idonthavespotify</a>&nbsp;<a href="https://github.com/sjdonado/idonthavespotify" title="Effortlessly convert Spotify links to your preferred streaming service" target="_blank"><img src="https://img.shields.io/github/stars/sjdonado/idonthavespotify?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank">diagrams</a>&nbsp;<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank"><img src="https://img.shields.io/github/stars/mingrammer/diagrams?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank">mariadb-operator</a>&nbsp;<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank"><img src="https://img.shields.io/github/stars/mariadb-operator/mariadb-operator?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank">heyform</a>&nbsp;<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/heyform/heyform?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank">newsmap-js</a>&nbsp;<a href="https://github.com/IJMacD/newsmap-js" title="NewsMap JS - JS implementation of the defunct newsmap.jp" target="_blank"><img src="https://img.shields.io/github/stars/IJMacD/newsmap-js?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 03 Jan 2025 13:45:09 GMT</small>
+<small>⏰ Updated on Mon, 06 Jan 2025 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
