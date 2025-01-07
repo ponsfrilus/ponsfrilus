@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/3332871721aaeaa39bc7ebdc8bf66a2ebfc3700d" title="2025-01-06T15:16:48.000+01:00" target="_blank">33328717</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
+          <pre>[info] Démantèlement</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/ab20631841be0d49a490010d6e9aae4714c3f111" title="2024-12-18T16:04:49.000+01:00" target="_blank">ab206318</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[fix] Ensure that plugins default to an empty array</pre>
         </td>
@@ -148,16 +153,11 @@
 
 ... with some base element from mongodb.ops.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mariadb.ops/commits/a21919be4522e72f4c6ccbe57b9c5461b640fe46" title="2024-12-12T14:50:16.000+01:00" target="_blank">a21919be</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mariadb.ops" title="Ansible jam for deploying a temporary MariaDB server">/mariadb.ops</a></strong></div>
-          <pre>Initial commit</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 06 Jan 2025 13:45:12 GMT</small>
+<small>⏰ Updated on Tue, 07 Jan 2025 15:13:29 GMT</small>
 </td>
 </tr>
 </tfoot>
