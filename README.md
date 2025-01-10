@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank">simplenote-android</a>&nbsp;<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/simplenote-android?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank">openproject</a>&nbsp;<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank"><img src="https://img.shields.io/github/stars/opf/openproject?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank">mariadb-operator</a>&nbsp;<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank"><img src="https://img.shields.io/github/stars/mariadb-operator/mariadb-operator?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank">heyform</a>&nbsp;<a href="https://github.com/heyform/heyform" title="Open-Source Form Builder" target="_blank"><img src="https://img.shields.io/github/stars/heyform/heyform?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank">timeshift</a>&nbsp;<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank"><img src="https://img.shields.io/github/stars/linuxmint/timeshift?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank">ghostty</a>&nbsp;<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank"><img src="https://img.shields.io/github/stars/ghostty-org/ghostty?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator" target="_blank">wp-operator</a>&nbsp;<a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-operator?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank">lens-resource-map-extension</a>&nbsp;<a href="https://github.com/nevalla/lens-resource-map-extension" title="Lens - The Kubernetes IDE extension that displays Kubernetes resources and their relations as a force graph." target="_blank"><img src="https://img.shields.io/github/stars/nevalla/lens-resource-map-extension?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 09 Jan 2025 13:45:18 GMT</small>
+<small>⏰ Updated on Fri, 10 Jan 2025 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
