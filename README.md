@@ -103,8 +103,15 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/3332871721aaeaa39bc7ebdc8bf66a2ebfc3700d" title="2025-01-06T15:16:48.000+01:00" target="_blank">33328717</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
-          <pre>[info] Démantèlement</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/840c3a2d86b816eff420a8bdf8d8b3dc857d70ab" title="2025-01-14T14:52:54.000+01:00" target="_blank">840c3a2d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
+          <pre>[feature] Script to manage the groups' creation</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/a56f7e88255c95024870fbbfd7faf372f476546c" title="2025-01-06T15:16:48.000+01:00" target="_blank">a56f7e88</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
+          <pre>[info] Démantèlement
+
+[info] Démantèlement</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -146,18 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/mariadb.ops/commits/91f65ea6d339c0b5749ab9a660c4df894ec9602d" title="2024-12-12T15:44:47.000+01:00" target="_blank">91f65ea6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mariadb.ops" title="Ansible jam for deploying a temporary MariaDB server">/mariadb.ops</a></strong></div>
           <pre>[doc] `./mariasible -t vm.os.upgrade`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mariadb.ops/commits/6be94322da58414023af11a567239fd41a999518" title="2024-12-12T15:07:08.000+01:00" target="_blank">6be94322</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mariadb.ops" title="Ansible jam for deploying a temporary MariaDB server">/mariadb.ops</a></strong></div>
-          <pre>[feature] `mariasible` ...
-
-... with some base element from mongodb.ops.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 14 Jan 2025 13:45:17 GMT</small>
+<small>⏰ Updated on Wed, 15 Jan 2025 13:45:11 GMT</small>
 </td>
 </tr>
 </tfoot>
