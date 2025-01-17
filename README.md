@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/mrvladus/Errands" title="Todo application for those who prefer simplicity. " target="_blank">Errands</a>&nbsp;<a href="https://github.com/mrvladus/Errands" title="Todo application for those who prefer simplicity. " target="_blank"><img src="https://img.shields.io/github/stars/mrvladus/Errands?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank">timeshift</a>&nbsp;<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank"><img src="https://img.shields.io/github/stars/linuxmint/timeshift?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank">ghostty</a>&nbsp;<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank"><img src="https://img.shields.io/github/stars/ghostty-org/ghostty?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank">hedgedoc</a>&nbsp;<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank"><img src="https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/frameable/aviary.sh" title="Minimal distributed configuration management in bash" target="_blank">aviary.sh</a>&nbsp;<a href="https://github.com/frameable/aviary.sh" title="Minimal distributed configuration management in bash" target="_blank"><img src="https://img.shields.io/github/stars/frameable/aviary.sh?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kubeshark/kubeshark" title="The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes" target="_blank">kubeshark</a>&nbsp;<a href="https://github.com/kubeshark/kubeshark" title="The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/kubeshark/kubeshark?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hcengineering/platform" title="Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)" target="_blank">platform</a>&nbsp;<a href="https://github.com/hcengineering/platform" title="Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)" target="_blank"><img src="https://img.shields.io/github/stars/hcengineering/platform?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank">paperless-ngx</a>&nbsp;<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank"><img src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank">rapport-de-stage</a>&nbsp;<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/rapport-de-stage?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/navidrome/navidrome" title="🎧☁️ Your Personal Streaming Service" target="_blank">navidrome</a>&nbsp;<a href="https://github.com/navidrome/navidrome" title="🎧☁️ Your Personal Streaming Service" target="_blank"><img src="https://img.shields.io/github/stars/navidrome/navidrome?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank">simplenote-android</a>&nbsp;<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/simplenote-android?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank">mariadb-operator</a>&nbsp;<a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way" target="_blank"><img src="https://img.shields.io/github/stars/mariadb-operator/mariadb-operator?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank">timeshift</a>&nbsp;<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank"><img src="https://img.shields.io/github/stars/linuxmint/timeshift?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank">ghostty</a>&nbsp;<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank"><img src="https://img.shields.io/github/stars/ghostty-org/ghostty?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank">hedgedoc</a>&nbsp;<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank"><img src="https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/frameable/aviary.sh" title="Minimal distributed configuration management in bash" target="_blank">aviary.sh</a>&nbsp;<a href="https://github.com/frameable/aviary.sh" title="Minimal distributed configuration management in bash" target="_blank"><img src="https://img.shields.io/github/stars/frameable/aviary.sh?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kubeshark/kubeshark" title="The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes" target="_blank">kubeshark</a>&nbsp;<a href="https://github.com/kubeshark/kubeshark" title="The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/kubeshark/kubeshark?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hcengineering/platform" title="Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)" target="_blank">platform</a>&nbsp;<a href="https://github.com/hcengineering/platform" title="Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)" target="_blank"><img src="https://img.shields.io/github/stars/hcengineering/platform?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank">paperless-ngx</a>&nbsp;<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank"><img src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank">rapport-de-stage</a>&nbsp;<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/rapport-de-stage?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/navidrome/navidrome" title="🎧☁️ Your Personal Streaming Service" target="_blank">navidrome</a>&nbsp;<a href="https://github.com/navidrome/navidrome" title="🎧☁️ Your Personal Streaming Service" target="_blank"><img src="https://img.shields.io/github/stars/navidrome/navidrome?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator" target="_blank">wp-operator</a>&nbsp;<a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-operator?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 16 Jan 2025 13:45:11 GMT</small>
+<small>⏰ Updated on Fri, 17 Jan 2025 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
