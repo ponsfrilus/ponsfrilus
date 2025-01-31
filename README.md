@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank">friendica</a>&nbsp;<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank"><img src="https://img.shields.io/github/stars/friendica/friendica?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank">secure-code-game</a>&nbsp;<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank"><img src="https://img.shields.io/github/stars/skills/secure-code-game?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank">occupancy-epfl</a>&nbsp;<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank"><img src="https://img.shields.io/github/stars/antoninfaure/occupancy-epfl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank">simplenote-android</a>&nbsp;<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/simplenote-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank">openproject</a>&nbsp;<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank"><img src="https://img.shields.io/github/stars/opf/openproject?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank">publicodes</a>&nbsp;<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank"><img src="https://img.shields.io/github/stars/publicodes/publicodes?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vriteio/vrite" title="Open-source developer content platform" target="_blank">vrite</a>&nbsp;<a href="https://github.com/vriteio/vrite" title="Open-source developer content platform" target="_blank"><img src="https://img.shields.io/github/stars/vriteio/vrite?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/e-id-admin/eidch-public-beta" title="The Public Beta environment is designed to test and refine the Swiss e-ID technology stack." target="_blank">eidch-public-beta</a>&nbsp;<a href="https://github.com/e-id-admin/eidch-public-beta" title="The Public Beta environment is designed to test and refine the Swiss e-ID technology stack." target="_blank"><img src="https://img.shields.io/github/stars/e-id-admin/eidch-public-beta?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/sezanzeb/input-remapper" title="🎮 ⌨ An easy to use tool to change the behaviour of your input devices." target="_blank">input-remapper</a>&nbsp;<a href="https://github.com/sezanzeb/input-remapper" title="🎮 ⌨ An easy to use tool to change the behaviour of your input devices." target="_blank"><img src="https://img.shields.io/github/stars/sezanzeb/input-remapper?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank">jellyfin-media-player</a>&nbsp;<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank"><img src="https://img.shields.io/github/stars/jellyfin/jellyfin-media-player?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank">writefreely</a>&nbsp;<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank"><img src="https://img.shields.io/github/stars/writefreely/writefreely?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank">grafana-prometheus-alertmanager-datasource</a>&nbsp;<a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/grafana-prometheus-alertmanager-datasource?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,43 +95,6 @@
 <li>
 <a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank">paperless-ngx</a>&nbsp;<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank"><img src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank">rapport-de-stage</a>&nbsp;<a href="https://github.com/epfl-fsd/rapport-de-stage" title="Outil de création de rapports de stages 2024 de l'Etat de Vaud. " target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/rapport-de-stage?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank">occupancy-epfl</a>&nbsp;<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank"><img src="https://img.shields.io/github/stars/antoninfaure/occupancy-epfl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank">simplenote-android</a>&nbsp;<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/simplenote-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank">openproject</a>&nbsp;<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank"><img src="https://img.shields.io/github/stars/opf/openproject?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank">publicodes</a>&nbsp;<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank"><img src="https://img.shields.io/github/stars/publicodes/publicodes?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vriteio/vrite" title="Open-source developer content platform" target="_blank">vrite</a>&nbsp;<a href="https://github.com/vriteio/vrite" title="Open-source developer content platform" target="_blank"><img src="https://img.shields.io/github/stars/vriteio/vrite?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/e-id-admin/eidch-public-beta" title="The Public Beta environment is designed to test and refine the Swiss e-ID technology stack." target="_blank">eidch-public-beta</a>&nbsp;<a href="https://github.com/e-id-admin/eidch-public-beta" title="The Public Beta environment is designed to test and refine the Swiss e-ID technology stack." target="_blank"><img src="https://img.shields.io/github/stars/e-id-admin/eidch-public-beta?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sezanzeb/input-remapper" title="🎮 ⌨ An easy to use tool to change the behaviour of your input devices." target="_blank">input-remapper</a>&nbsp;<a href="https://github.com/sezanzeb/input-remapper" title="🎮 ⌨ An easy to use tool to change the behaviour of your input devices." target="_blank"><img src="https://img.shields.io/github/stars/sezanzeb/input-remapper?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank">jellyfin-media-player</a>&nbsp;<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank"><img src="https://img.shields.io/github/stars/jellyfin/jellyfin-media-player?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sjdonado/idonthavespotify" title="Effortlessly convert Spotify links to your preferred streaming service" target="_blank">idonthavespotify</a>&nbsp;<a href="https://github.com/sjdonado/idonthavespotify" title="Effortlessly convert Spotify links to your preferred streaming service" target="_blank"><img src="https://img.shields.io/github/stars/sjdonado/idonthavespotify?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank">diagrams</a>&nbsp;<a href="https://github.com/mingrammer/diagrams" title=":art: Diagram as Code for prototyping cloud system architectures" target="_blank"><img src="https://img.shields.io/github/stars/mingrammer/diagrams?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,11 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/71ad0006737522710fc24ba9324c3f1dbeaab9f7" title="2025-01-30T15:12:21.000+01:00" target="_blank">71ad0006</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
+          <pre>[fix] s/apprentis.epfl.ch/apprentissage.epfl.ch/g</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/840c3a2d86b816eff420a8bdf8d8b3dc857d70ab" title="2025-01-14T14:52:54.000+01:00" target="_blank">840c3a2d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
           <pre>[feature] Script to manage the groups' creation</pre>
@@ -148,16 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/mariadb.ops/commits/07f0312c4ac66cad280e9be18c63d4dc3366fc1f" title="2024-12-12T15:45:06.000+01:00" target="_blank">07f0312c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mariadb.ops" title="Ansible jam for deploying a temporary MariaDB server">/mariadb.ops</a></strong></div>
           <pre>[feature] Basic MariaDB values</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mariadb.ops/commits/91f65ea6d339c0b5749ab9a660c4df894ec9602d" title="2024-12-12T15:44:47.000+01:00" target="_blank">91f65ea6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mariadb.ops" title="Ansible jam for deploying a temporary MariaDB server">/mariadb.ops</a></strong></div>
-          <pre>[doc] `./mariasible -t vm.os.upgrade`</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 30 Jan 2025 13:45:10 GMT</small>
+<small>⏰ Updated on Fri, 31 Jan 2025 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
