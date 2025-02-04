@@ -32,6 +32,49 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank">omakub</a>&nbsp;<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omakub?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank">CFF-bot</a>&nbsp;<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/CFF-bot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank">passwordGame</a>&nbsp;<a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/passwordGame?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ETML-Midicix/wordpress-suivi-formation" title="null" target="_blank">wordpress-suivi-formation</a>&nbsp;<a href="https://github.com/ETML-Midicix/wordpress-suivi-formation" title="null" target="_blank"><img src="https://img.shields.io/github/stars/ETML-Midicix/wordpress-suivi-formation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank">writefreely</a>&nbsp;<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank"><img src="https://img.shields.io/github/stars/writefreely/writefreely?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank">grafana-prometheus-alertmanager-datasource</a>&nbsp;<a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/grafana-prometheus-alertmanager-datasource?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mrvladus/Errands" title="Todo application for those who prefer simplicity. " target="_blank">Errands</a>&nbsp;<a href="https://github.com/mrvladus/Errands" title="Todo application for those who prefer simplicity. " target="_blank"><img src="https://img.shields.io/github/stars/mrvladus/Errands?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank">timeshift</a>&nbsp;<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank"><img src="https://img.shields.io/github/stars/linuxmint/timeshift?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank">ghostty</a>&nbsp;<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank"><img src="https://img.shields.io/github/stars/ghostty-org/ghostty?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank">hedgedoc</a>&nbsp;<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank"><img src="https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank">NextPause</a>&nbsp;<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/NextPause?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank">url-shortener</a>&nbsp;<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/url-shortener?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank">api-ict</a>&nbsp;<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/api-ict?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank">friendica</a>&nbsp;<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank"><img src="https://img.shields.io/github/stars/friendica/friendica?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -52,49 +95,6 @@
 <li>
 <a href="https://github.com/vriteio/vrite" title="Open-source developer content platform" target="_blank">vrite</a>&nbsp;<a href="https://github.com/vriteio/vrite" title="Open-source developer content platform" target="_blank"><img src="https://img.shields.io/github/stars/vriteio/vrite?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/e-id-admin/eidch-public-beta" title="The Public Beta environment is designed to test and refine the Swiss e-ID technology stack." target="_blank">eidch-public-beta</a>&nbsp;<a href="https://github.com/e-id-admin/eidch-public-beta" title="The Public Beta environment is designed to test and refine the Swiss e-ID technology stack." target="_blank"><img src="https://img.shields.io/github/stars/e-id-admin/eidch-public-beta?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/sezanzeb/input-remapper" title="🎮 ⌨ An easy to use tool to change the behaviour of your input devices." target="_blank">input-remapper</a>&nbsp;<a href="https://github.com/sezanzeb/input-remapper" title="🎮 ⌨ An easy to use tool to change the behaviour of your input devices." target="_blank"><img src="https://img.shields.io/github/stars/sezanzeb/input-remapper?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank">jellyfin-media-player</a>&nbsp;<a href="https://github.com/jellyfin/jellyfin-media-player" title="Jellyfin Desktop Client" target="_blank"><img src="https://img.shields.io/github/stars/jellyfin/jellyfin-media-player?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank">writefreely</a>&nbsp;<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank"><img src="https://img.shields.io/github/stars/writefreely/writefreely?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank">grafana-prometheus-alertmanager-datasource</a>&nbsp;<a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/grafana-prometheus-alertmanager-datasource?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mrvladus/Errands" title="Todo application for those who prefer simplicity. " target="_blank">Errands</a>&nbsp;<a href="https://github.com/mrvladus/Errands" title="Todo application for those who prefer simplicity. " target="_blank"><img src="https://img.shields.io/github/stars/mrvladus/Errands?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank">timeshift</a>&nbsp;<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank"><img src="https://img.shields.io/github/stars/linuxmint/timeshift?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank">ghostty</a>&nbsp;<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank"><img src="https://img.shields.io/github/stars/ghostty-org/ghostty?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank">hedgedoc</a>&nbsp;<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank"><img src="https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/frameable/aviary.sh" title="Minimal distributed configuration management in bash" target="_blank">aviary.sh</a>&nbsp;<a href="https://github.com/frameable/aviary.sh" title="Minimal distributed configuration management in bash" target="_blank"><img src="https://img.shields.io/github/stars/frameable/aviary.sh?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kubeshark/kubeshark" title="The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes" target="_blank">kubeshark</a>&nbsp;<a href="https://github.com/kubeshark/kubeshark" title="The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and clusters. Inspired by Wireshark, purposely built for Kubernetes" target="_blank"><img src="https://img.shields.io/github/stars/kubeshark/kubeshark?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hcengineering/platform" title="Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)" target="_blank">platform</a>&nbsp;<a href="https://github.com/hcengineering/platform" title="Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)" target="_blank"><img src="https://img.shields.io/github/stars/hcengineering/platform?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank">paperless-ngx</a>&nbsp;<a href="https://github.com/paperless-ngx/paperless-ngx" title="A community-supported supercharged version of paperless: scan, index and archive all your physical documents" target="_blank"><img src="https://img.shields.io/github/stars/paperless-ngx/paperless-ngx?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,26 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/56c103d4aa0ea5faa731453d21783d52d2849bea" title="2025-01-30T17:14:13.000+01:00" target="_blank">56c103d4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[feature] Operator's version
+
+Isn't `tippelskirchi` a nice codename?</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/987a38bd4f37f40e20ff4a27c9edd4650c3fa633" title="2025-01-30T17:13:28.000+01:00" target="_blank">987a38bd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[fix] WP-Operator needs rights on Routes
+
+Without the correct rights on Routes object, the operator is getting a
+Forbidden error:
+```sh
+routes.route.openshift.io is forbidden: User "system:serviceaccount:
+  svc0041t-wordpress:wp-operator" cannot create resource "routes" in API
+  group "route.openshift.io" in the namespace "svc0041t-wordpress"
+```</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/71ad0006737522710fc24ba9324c3f1dbeaab9f7" title="2025-01-30T15:12:21.000+01:00" target="_blank">71ad0006</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
           <pre>[fix] s/apprentis.epfl.ch/apprentissage.epfl.ch/g</pre>
@@ -143,21 +163,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/Test-pour-candidats/commits/3115b574abfb56c3353444a1cbf402012a7ebcaa" title="2024-12-12T22:31:26.000+01:00" target="_blank">3115b574</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Test-pour-candidats" title="null">/Test-pour-candidats</a></strong></div>
           <pre>[feature] Test pour stagiaire</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mariadb.ops/commits/c5d54e7eb245ade62d39c73d394e1d32ff7a278a" title="2024-12-12T16:23:00.000+01:00" target="_blank">c5d54e7e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mariadb.ops" title="Ansible jam for deploying a temporary MariaDB server">/mariadb.ops</a></strong></div>
-          <pre>[feature] Message of the day</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mariadb.ops/commits/07f0312c4ac66cad280e9be18c63d4dc3366fc1f" title="2024-12-12T15:45:06.000+01:00" target="_blank">07f0312c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mariadb.ops" title="Ansible jam for deploying a temporary MariaDB server">/mariadb.ops</a></strong></div>
-          <pre>[feature] Basic MariaDB values</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 03 Feb 2025 13:45:14 GMT</small>
+<small>⏰ Updated on Tue, 04 Feb 2025 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
