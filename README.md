@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/ousontlesfrites/commits/807458e013bc95c81928bd1114d5e53c4998def3" title="2025-02-07T09:12:15.000+01:00" target="_blank">807458e0</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/ousontlesfrites" title="null">/ousontlesfrites</a></strong></div>
+          <pre>[fix] `s/Satellight/Satellite/`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/56c103d4aa0ea5faa731453d21783d52d2849bea" title="2025-01-30T17:14:13.000+01:00" target="_blank">56c103d4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[feature] Operator's version
 
@@ -158,16 +163,11 @@ routes.route.openshift.io is forbidden: User "system:serviceaccount:
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/Test-pour-candidats/commits/72b219462b74c6bc37253362043a51436a53779c" title="2024-12-12T22:33:39.000+01:00" target="_blank">72b21946</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Test-pour-candidats" title="null">/Test-pour-candidats</a></strong></div>
           <pre>[pdf] Add 2 versions</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Test-pour-candidats/commits/3115b574abfb56c3353444a1cbf402012a7ebcaa" title="2024-12-12T22:31:26.000+01:00" target="_blank">3115b574</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Test-pour-candidats" title="null">/Test-pour-candidats</a></strong></div>
-          <pre>[feature] Test pour stagiaire</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 06 Feb 2025 13:45:09 GMT</small>
+<small>⏰ Updated on Fri, 07 Feb 2025 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
