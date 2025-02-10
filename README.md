@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank">prometheus-mastodon-exporter</a>&nbsp;<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank"><img src="https://img.shields.io/github/stars/systemli/prometheus-mastodon-exporter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank">NextPause</a>&nbsp;<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/NextPause?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank">url-shortener</a>&nbsp;<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/url-shortener?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank">api-ict</a>&nbsp;<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/api-ict?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank">friendica</a>&nbsp;<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank"><img src="https://img.shields.io/github/stars/friendica/friendica?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank">secure-code-game</a>&nbsp;<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank"><img src="https://img.shields.io/github/stars/skills/secure-code-game?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank">occupancy-epfl</a>&nbsp;<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank"><img src="https://img.shields.io/github/stars/antoninfaure/occupancy-epfl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank">simplenote-android</a>&nbsp;<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/simplenote-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank">openproject</a>&nbsp;<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank"><img src="https://img.shields.io/github/stars/opf/openproject?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank">publicodes</a>&nbsp;<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank"><img src="https://img.shields.io/github/stars/publicodes/publicodes?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank">omakub</a>&nbsp;<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omakub?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,111 +97,83 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank">NextPause</a>&nbsp;<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/NextPause?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank">url-shortener</a>&nbsp;<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/url-shortener?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank">api-ict</a>&nbsp;<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/api-ict?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank">friendica</a>&nbsp;<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank"><img src="https://img.shields.io/github/stars/friendica/friendica?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank">secure-code-game</a>&nbsp;<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank"><img src="https://img.shields.io/github/stars/skills/secure-code-game?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank">occupancy-epfl</a>&nbsp;<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank"><img src="https://img.shields.io/github/stars/antoninfaure/occupancy-epfl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank">simplenote-android</a>&nbsp;<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/simplenote-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank">openproject</a>&nbsp;<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank"><img src="https://img.shields.io/github/stars/opf/openproject?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank">publicodes</a>&nbsp;<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank"><img src="https://img.shields.io/github/stars/publicodes/publicodes?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vriteio/vrite" title="Open-source developer content platform" target="_blank">vrite</a>&nbsp;<a href="https://github.com/vriteio/vrite" title="Open-source developer content platform" target="_blank"><img src="https://img.shields.io/github/stars/vriteio/vrite?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/ousontlesfrites/commits/807458e013bc95c81928bd1114d5e53c4998def3" title="2025-02-07T09:12:15.000+01:00" target="_blank">807458e0</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/ousontlesfrites" title="null">/ousontlesfrites</a></strong></div>
-          <pre>[fix] `s/Satellight/Satellite/`</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6a3569a85214e03b8348a435af1cf7504abde315" title="2025-02-10T00:41:05.000+01:00" target="_blank">6a3569a8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[comment] `.well-known/openid-configuration`</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/56c103d4aa0ea5faa731453d21783d52d2849bea" title="2025-01-30T17:14:13.000+01:00" target="_blank">56c103d4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] Operator's version
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/0ce91e88c0a01a91a76522385f290c85f629701d" title="2025-02-10T00:40:16.000+01:00" target="_blank">0ce91e88</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] `unattended-upgrades`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/83e7b0013f05aa93121f003954baf61942423671" title="2025-02-10T00:39:58.000+01:00" target="_blank">83e7b001</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Install dir</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ae914979e257a678c02ad80543838dc3bfa8b80a" title="2025-02-09T19:28:34.000+01:00" target="_blank">ae914979</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Improve and auto-document `Makefile`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/c97983b8dc3e80cd1259fe7dbf0700cfd49d8e42" title="2025-02-09T19:27:56.000+01:00" target="_blank">c97983b8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Rotate Docker's log</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6cf9b372efc23ca3921fe88e69a5b884215ec224" title="2025-02-09T19:27:41.000+01:00" target="_blank">6cf9b372</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Add `catimg` and `tree`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/1f4a726dbb5566030fcc1ab172f1118e15303f33" title="2025-02-09T19:27:12.000+01:00" target="_blank">1f4a726d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Test scripts for SMTP</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/7159643bdb063ac87fb63004efac8c59c12103ac" title="2025-02-09T19:23:54.000+01:00" target="_blank">7159643b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Default alertmanager's log level to `error`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/1838785e10750424b378f45fb4d41688b3375e4f" title="2025-02-09T19:23:25.000+01:00" target="_blank">1838785e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Upload directoy mod</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/32183702e3a6c1debd188ba0982fbba5219d747a" title="2025-02-09T19:17:26.000+01:00" target="_blank">32183702</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] As of version v4.3, `mastodon-streaming` is on its own
 
-Isn't `tippelskirchi` a nice codename?</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/987a38bd4f37f40e20ff4a27c9edd4650c3fa633" title="2025-01-30T17:13:28.000+01:00" target="_blank">987a38bd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] WP-Operator needs rights on Routes
+As of version v4.3, `mastodon-streaming` is no longer included in the 
+`mastodon`'s docker as `mastodon-sidekiq` or `mastodon-web`:
 
-Without the correct rights on Routes object, the operator is getting a
-Forbidden error:
-```sh
-routes.route.openshift.io is forbidden: User "system:serviceaccount:
-  svc0041t-wordpress:wp-operator" cannot create resource "routes" in API
-  group "route.openshift.io" in the namespace "svc0041t-wordpress"
-```</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/attestation_de_stage/commits/71ad0006737522710fc24ba9324c3f1dbeaab9f7" title="2025-01-30T15:12:21.000+01:00" target="_blank">71ad0006</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/attestation_de_stage" title="null">/attestation_de_stage</a></strong></div>
-          <pre>[fix] s/apprentis.epfl.ch/apprentissage.epfl.ch/g</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/840c3a2d86b816eff420a8bdf8d8b3dc857d70ab" title="2025-01-14T14:52:54.000+01:00" target="_blank">840c3a2d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
-          <pre>[feature] Script to manage the groups' creation</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/a56f7e88255c95024870fbbfd7faf372f476546c" title="2025-01-06T15:16:48.000+01:00" target="_blank">a56f7e88</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
-          <pre>[info] Démantèlement
+> Docker image split
+> 
+> The official Docker image has now been split in two smaller images:
+> 
+>     ghcr.io/mastodon/mastodon, which does not contain the streaming 
+server anymore
+>     ghcr.io/mastodon/mastodon-streaming, which contains only the 
+streaming server
+> 
+> The docker-compose.yml file shipped with Mastodon has been updated 
+accordingly. If you use something else, you will need to update your 
+configuration.
 
-[info] Démantèlement</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/ab20631841be0d49a490010d6e9aae4714c3f111" title="2024-12-18T16:04:49.000+01:00" target="_blank">ab206318</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] Ensure that plugins default to an empty array</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/8c5677273ea5c114c294bf31f7b3a2c9f2e90db9" title="2024-12-18T16:03:21.000+01:00" target="_blank">8c567727</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] Set the description to `The EPFL WordPress Operator`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/b7238948f7983f10b9bc57169ac9845a3ac0b6b2" title="2024-12-18T14:29:30.000+01:00" target="_blank">b7238948</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] Typo + comment</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Test-pour-candidats/commits/72b219462b74c6bc37253362043a51436a53779c" title="2024-12-12T22:33:39.000+01:00" target="_blank">72b21946</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Test-pour-candidats" title="null">/Test-pour-candidats</a></strong></div>
-          <pre>[pdf] Add 2 versions</pre>
+Source: https://github.com/mastodon/mastodon/releases/tag/v4.3.0</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 07 Feb 2025 13:45:12 GMT</small>
+<small>⏰ Updated on Mon, 10 Feb 2025 13:45:09 GMT</small>
 </td>
 </tr>
 </tfoot>
