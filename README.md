@@ -103,6 +103,67 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ed70e4b05c9c543c671faf3757c018915ef82705" title="2025-02-10T19:30:04.000+01:00" target="_blank">ed70e4b0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[doc] Customization, server rules and TCs
+
+These are not actually used in the configuration as code but let's save 
+them here just in case.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/4fabde6b936ed93e43a09c862ca94b8900678482" title="2025-02-10T19:28:31.000+01:00" target="_blank">4fabde6b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[chore] Clean up</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/5ed7ffcaaf4d23bd0f1f2a70b41695ce5627edeb" title="2025-02-10T19:27:42.000+01:00" target="_blank">5ed7ffca</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[doc](WIP) Readme's intro</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/69eb1e07e51ac4291899c1c37fb55145dfdf6126" title="2025-02-10T19:27:00.000+01:00" target="_blank">69eb1e07</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Someone needed moar coffee</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/f99ae2b7d237b31e21591d767eb5ddd0935b2be0" title="2025-02-10T17:56:06.000+01:00" target="_blank">f99ae2b7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Redirect http to https
+
+Fixes #3</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/mariadb-operator/mariadb-operator/commits/779cc15b04ebed9422b9c1767000f681aa7d8de5" title="2025-02-10T16:20:30.000+01:00" target="_blank">779cc15b</a><a href="https://github.com/mariadb-operator">@mariadb-operator</a><a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way">/mariadb-operator</a></strong></div>
+          <pre>[fix] `restore.spec.databases` doesn't exist
+
+```sh
+$ k explain restore.spec.databases
+GROUP:      k8s.mariadb.com
+KIND:       Restore
+VERSION:    v1alpha1
+
+error: field "databases" does not exist
+```
+but 
+```sh
+k explain restore.spec.database
+GROUP:      k8s.mariadb.com
+KIND:       Restore
+VERSION:    v1alpha1
+
+FIELD: database <string>
+
+
+DESCRIPTION:
+    Database defines the logical database to be restored. If not provided, all
+    databases available in the backup are restored.
+    IMPORTANT: The database must previously exist.
+```
+
+Therefore the key of specification of the database to restore should be singular.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6a3569a85214e03b8348a435af1cf7504abde315" title="2025-02-10T00:41:05.000+01:00" target="_blank">6a3569a8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[comment] `.well-known/openid-configuration`</pre>
         </td>
@@ -121,59 +182,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ae914979e257a678c02ad80543838dc3bfa8b80a" title="2025-02-09T19:28:34.000+01:00" target="_blank">ae914979</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[feature] Improve and auto-document `Makefile`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/c97983b8dc3e80cd1259fe7dbf0700cfd49d8e42" title="2025-02-09T19:27:56.000+01:00" target="_blank">c97983b8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Rotate Docker's log</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6cf9b372efc23ca3921fe88e69a5b884215ec224" title="2025-02-09T19:27:41.000+01:00" target="_blank">6cf9b372</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Add `catimg` and `tree`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/1f4a726dbb5566030fcc1ab172f1118e15303f33" title="2025-02-09T19:27:12.000+01:00" target="_blank">1f4a726d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Test scripts for SMTP</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/7159643bdb063ac87fb63004efac8c59c12103ac" title="2025-02-09T19:23:54.000+01:00" target="_blank">7159643b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Default alertmanager's log level to `error`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/1838785e10750424b378f45fb4d41688b3375e4f" title="2025-02-09T19:23:25.000+01:00" target="_blank">1838785e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Upload directoy mod</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/32183702e3a6c1debd188ba0982fbba5219d747a" title="2025-02-09T19:17:26.000+01:00" target="_blank">32183702</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] As of version v4.3, `mastodon-streaming` is on its own
-
-As of version v4.3, `mastodon-streaming` is no longer included in the 
-`mastodon`'s docker as `mastodon-sidekiq` or `mastodon-web`:
-
-> Docker image split
-> 
-> The official Docker image has now been split in two smaller images:
-> 
->     ghcr.io/mastodon/mastodon, which does not contain the streaming 
-server anymore
->     ghcr.io/mastodon/mastodon-streaming, which contains only the 
-streaming server
-> 
-> The docker-compose.yml file shipped with Mastodon has been updated 
-accordingly. If you use something else, you will need to update your 
-configuration.
-
-Source: https://github.com/mastodon/mastodon/releases/tag/v4.3.0</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 10 Feb 2025 13:45:09 GMT</small>
+<small>⏰ Updated on Tue, 11 Feb 2025 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
