@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/462add6cebf5ec6f324e7f1c6c24f04012255488" title="2025-02-12T18:30:24.000+01:00" target="_blank">462add6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[doc] README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/47208fb12597cb1e4dc483afa07b0de60315418a" title="2025-02-12T18:22:52.000+01:00" target="_blank">47208fb1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Ensure `{{ mastodon_web_build_dir }}/docker/mastodon-web`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ed70e4b05c9c543c671faf3757c018915ef82705" title="2025-02-10T19:30:04.000+01:00" target="_blank">ed70e4b0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[doc] Customization, server rules and TCs
 
@@ -172,21 +182,11 @@ Therefore the key of specification of the database to restore should be singular
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/0ce91e88c0a01a91a76522385f290c85f629701d" title="2025-02-10T00:40:16.000+01:00" target="_blank">0ce91e88</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] `unattended-upgrades`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/83e7b0013f05aa93121f003954baf61942423671" title="2025-02-10T00:39:58.000+01:00" target="_blank">83e7b001</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Install dir</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ae914979e257a678c02ad80543838dc3bfa8b80a" title="2025-02-09T19:28:34.000+01:00" target="_blank">ae914979</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Improve and auto-document `Makefile`</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 12 Feb 2025 13:45:14 GMT</small>
+<small>⏰ Updated on Thu, 13 Feb 2025 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
