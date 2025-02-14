@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank">shell-operator</a>&nbsp;<a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank"><img src="https://img.shields.io/github/stars/flant/shell-operator?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank">omakub</a>&nbsp;<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omakub?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank">CFF-bot</a>&nbsp;<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/CFF-bot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank">passwordGame</a>&nbsp;<a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/passwordGame?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ETML-Midicix/wordpress-suivi-formation" title="null" target="_blank">wordpress-suivi-formation</a>&nbsp;<a href="https://github.com/ETML-Midicix/wordpress-suivi-formation" title="null" target="_blank"><img src="https://img.shields.io/github/stars/ETML-Midicix/wordpress-suivi-formation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank">writefreely</a>&nbsp;<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank"><img src="https://img.shields.io/github/stars/writefreely/writefreely?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank">grafana-prometheus-alertmanager-datasource</a>&nbsp;<a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/grafana-prometheus-alertmanager-datasource?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mrvladus/Errands" title="Todo application for those who prefer simplicity. " target="_blank">Errands</a>&nbsp;<a href="https://github.com/mrvladus/Errands" title="Todo application for those who prefer simplicity. " target="_blank"><img src="https://img.shields.io/github/stars/mrvladus/Errands?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank">timeshift</a>&nbsp;<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank"><img src="https://img.shields.io/github/stars/linuxmint/timeshift?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank">ghostty</a>&nbsp;<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank"><img src="https://img.shields.io/github/stars/ghostty-org/ghostty?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank">prometheus-mastodon-exporter</a>&nbsp;<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank"><img src="https://img.shields.io/github/stars/systemli/prometheus-mastodon-exporter?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank">publicodes</a>&nbsp;<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank"><img src="https://img.shields.io/github/stars/publicodes/publicodes?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank">omakub</a>&nbsp;<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omakub?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank">CFF-bot</a>&nbsp;<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/CFF-bot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank">passwordGame</a>&nbsp;<a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/passwordGame?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ETML-Midicix/wordpress-suivi-formation" title="null" target="_blank">wordpress-suivi-formation</a>&nbsp;<a href="https://github.com/ETML-Midicix/wordpress-suivi-formation" title="null" target="_blank"><img src="https://img.shields.io/github/stars/ETML-Midicix/wordpress-suivi-formation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank">writefreely</a>&nbsp;<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank"><img src="https://img.shields.io/github/stars/writefreely/writefreely?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank">grafana-prometheus-alertmanager-datasource</a>&nbsp;<a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/grafana-prometheus-alertmanager-datasource?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mrvladus/Errands" title="Todo application for those who prefer simplicity. " target="_blank">Errands</a>&nbsp;<a href="https://github.com/mrvladus/Errands" title="Todo application for those who prefer simplicity. " target="_blank"><img src="https://img.shields.io/github/stars/mrvladus/Errands?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank">timeshift</a>&nbsp;<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank"><img src="https://img.shields.io/github/stars/linuxmint/timeshift?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank">ghostty</a>&nbsp;<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank"><img src="https://img.shields.io/github/stars/ghostty-org/ghostty?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank">hedgedoc</a>&nbsp;<a href="https://github.com/hedgedoc/hedgedoc" title="HedgeDoc - Ideas grow better together" target="_blank"><img src="https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -186,7 +186,7 @@ Therefore the key of specification of the database to restore should be singular
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 13 Feb 2025 13:45:12 GMT</small>
+<small>⏰ Updated on Fri, 14 Feb 2025 13:45:09 GMT</small>
 </td>
 </tr>
 </tfoot>
