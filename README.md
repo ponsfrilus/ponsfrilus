@@ -103,6 +103,43 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/9b9cabf876f349f2962d81f492e51ec949a20b39" title="2025-02-17T10:34:49.000+01:00" target="_blank">9b9cabf8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] `callback_whitelist` is deprecated
+
+Thanks to https://stackoverflow.com/a/71781869/960623:
+> callback_whitelist is deprecated and will be removed in Ansible 2.15),
+> callbacks_enabled (introduced in 2.11) should be used instead in
+> modern versions of Ansible.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/db72a9ce7155aff354aa8b07236e58f6528aa429" title="2025-02-17T10:34:16.000+01:00" target="_blank">db72a9ce</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] `callback_whitelist` is deprecated
+
+Thanks to https://stackoverflow.com/a/71781869/960623:
+> callback_whitelist is deprecated and will be removed in Ansible 2.15),
+> callbacks_enabled (introduced in 2.11) should be used instead in
+> modern versions of Ansible.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/0d201c45394c9c8b0ca6a1037102b0d996fbc070" title="2025-02-16T11:40:32.000+01:00" target="_blank">0d201c45</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature+refactor] Backup rotation + block usage</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/d2de050e6886c314ef228c9adde72ea4695ae79c" title="2025-02-16T10:52:40.000+01:00" target="_blank">d2de050e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Backups
+
+Ensure the backup are in the crontab file.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/38a07d097fec175fb028c45e513f5affb7a5e552" title="2025-02-15T19:31:50.000+01:00" target="_blank">38a07d09</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Link verification</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/462add6cebf5ec6f324e7f1c6c24f04012255488" title="2025-02-12T18:30:24.000+01:00" target="_blank">462add6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[doc] README.md</pre>
         </td>
@@ -129,64 +166,11 @@ them here just in case.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/5ed7ffcaaf4d23bd0f1f2a70b41695ce5627edeb" title="2025-02-10T19:27:42.000+01:00" target="_blank">5ed7ffca</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[doc](WIP) Readme's intro</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/69eb1e07e51ac4291899c1c37fb55145dfdf6126" title="2025-02-10T19:27:00.000+01:00" target="_blank">69eb1e07</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Someone needed moar coffee</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/f99ae2b7d237b31e21591d767eb5ddd0935b2be0" title="2025-02-10T17:56:06.000+01:00" target="_blank">f99ae2b7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Redirect http to https
-
-Fixes #3</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/mariadb-operator/mariadb-operator/commits/779cc15b04ebed9422b9c1767000f681aa7d8de5" title="2025-02-10T16:20:30.000+01:00" target="_blank">779cc15b</a><a href="https://github.com/mariadb-operator">@mariadb-operator</a><a href="https://github.com/mariadb-operator/mariadb-operator" title="🦭 Run and operate MariaDB in a cloud native way">/mariadb-operator</a></strong></div>
-          <pre>[fix] `restore.spec.databases` doesn't exist
-
-```sh
-$ k explain restore.spec.databases
-GROUP:      k8s.mariadb.com
-KIND:       Restore
-VERSION:    v1alpha1
-
-error: field "databases" does not exist
-```
-but 
-```sh
-k explain restore.spec.database
-GROUP:      k8s.mariadb.com
-KIND:       Restore
-VERSION:    v1alpha1
-
-FIELD: database <string>
-
-
-DESCRIPTION:
-    Database defines the logical database to be restored. If not provided, all
-    databases available in the backup are restored.
-    IMPORTANT: The database must previously exist.
-```
-
-Therefore the key of specification of the database to restore should be singular.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6a3569a85214e03b8348a435af1cf7504abde315" title="2025-02-10T00:41:05.000+01:00" target="_blank">6a3569a8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[comment] `.well-known/openid-configuration`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/0ce91e88c0a01a91a76522385f290c85f629701d" title="2025-02-10T00:40:16.000+01:00" target="_blank">0ce91e88</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] `unattended-upgrades`</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 14 Feb 2025 13:45:09 GMT</small>
+<small>⏰ Updated on Mon, 17 Feb 2025 13:45:13 GMT</small>
 </td>
 </tr>
 </tfoot>
