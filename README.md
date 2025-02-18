@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank">ULTIMATE-JAVASCRIPT-PROJECT</a>&nbsp;<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank"><img src="https://img.shields.io/github/stars/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank">prometheus-mastodon-exporter</a>&nbsp;<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank"><img src="https://img.shields.io/github/stars/systemli/prometheus-mastodon-exporter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank">NextPause</a>&nbsp;<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/NextPause?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank">url-shortener</a>&nbsp;<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/url-shortener?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank">api-ict</a>&nbsp;<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/api-ict?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank">friendica</a>&nbsp;<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank"><img src="https://img.shields.io/github/stars/friendica/friendica?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank">secure-code-game</a>&nbsp;<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank"><img src="https://img.shields.io/github/stars/skills/secure-code-game?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank">occupancy-epfl</a>&nbsp;<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank"><img src="https://img.shields.io/github/stars/antoninfaure/occupancy-epfl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank">simplenote-android</a>&nbsp;<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/simplenote-android?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank">openproject</a>&nbsp;<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank"><img src="https://img.shields.io/github/stars/opf/openproject?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank">shell-operator</a>&nbsp;<a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank"><img src="https://img.shields.io/github/stars/flant/shell-operator?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank">ghostty</a>&nbsp;<a href="https://github.com/ghostty-org/ghostty" title="👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration." target="_blank"><img src="https://img.shields.io/github/stars/ghostty-org/ghostty?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank">prometheus-mastodon-exporter</a>&nbsp;<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank"><img src="https://img.shields.io/github/stars/systemli/prometheus-mastodon-exporter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank">NextPause</a>&nbsp;<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/NextPause?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank">url-shortener</a>&nbsp;<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/url-shortener?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank">api-ict</a>&nbsp;<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/api-ict?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank">friendica</a>&nbsp;<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank"><img src="https://img.shields.io/github/stars/friendica/friendica?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank">secure-code-game</a>&nbsp;<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank"><img src="https://img.shields.io/github/stars/skills/secure-code-game?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank">occupancy-epfl</a>&nbsp;<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank"><img src="https://img.shields.io/github/stars/antoninfaure/occupancy-epfl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank">simplenote-android</a>&nbsp;<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/simplenote-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank">openproject</a>&nbsp;<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank"><img src="https://img.shields.io/github/stars/opf/openproject?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank">publicodes</a>&nbsp;<a href="https://github.com/publicodes/publicodes" title="Le langage pour les algorithmes d'intérêt public" target="_blank"><img src="https://img.shields.io/github/stars/publicodes/publicodes?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -170,7 +170,7 @@ them here just in case.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 17 Feb 2025 13:45:13 GMT</small>
+<small>⏰ Updated on Tue, 18 Feb 2025 13:45:10 GMT</small>
 </td>
 </tr>
 </tfoot>
