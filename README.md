@@ -32,6 +32,43 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank">phanpy</a>&nbsp;<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank"><img src="https://img.shields.io/github/stars/cheeaun/phanpy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dockur/macos" title="OSX (macOS) inside a Docker container." target="_blank">macos</a>&nbsp;<a href="https://github.com/dockur/macos" title="OSX (macOS) inside a Docker container." target="_blank"><img src="https://img.shields.io/github/stars/dockur/macos?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank">ULTIMATE-JAVASCRIPT-PROJECT</a>&nbsp;<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank"><img src="https://img.shields.io/github/stars/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank">prometheus-mastodon-exporter</a>&nbsp;<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank"><img src="https://img.shields.io/github/stars/systemli/prometheus-mastodon-exporter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank">NextPause</a>&nbsp;<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/NextPause?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank">url-shortener</a>&nbsp;<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/url-shortener?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank">api-ict</a>&nbsp;<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/api-ict?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank">friendica</a>&nbsp;<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank"><img src="https://img.shields.io/github/stars/friendica/friendica?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank">secure-code-game</a>&nbsp;<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank"><img src="https://img.shields.io/github/stars/skills/secure-code-game?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank">occupancy-epfl</a>&nbsp;<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank"><img src="https://img.shields.io/github/stars/antoninfaure/occupancy-epfl?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank">typst</a>&nbsp;<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank"><img src="https://img.shields.io/github/stars/typst/typst?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank">mastodon.ops</a>&nbsp;<a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/mastodon.ops?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -57,43 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/mrvladus/Errands" title="Todo application for those who prefer simplicity. " target="_blank">Errands</a>&nbsp;<a href="https://github.com/mrvladus/Errands" title="Todo application for those who prefer simplicity. " target="_blank"><img src="https://img.shields.io/github/stars/mrvladus/Errands?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank">timeshift</a>&nbsp;<a href="https://github.com/linuxmint/timeshift" title="System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB." target="_blank"><img src="https://img.shields.io/github/stars/linuxmint/timeshift?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank">ULTIMATE-JAVASCRIPT-PROJECT</a>&nbsp;<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank"><img src="https://img.shields.io/github/stars/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank">prometheus-mastodon-exporter</a>&nbsp;<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank"><img src="https://img.shields.io/github/stars/systemli/prometheus-mastodon-exporter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank">NextPause</a>&nbsp;<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/NextPause?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank">url-shortener</a>&nbsp;<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/url-shortener?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank">api-ict</a>&nbsp;<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/api-ict?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank">friendica</a>&nbsp;<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank"><img src="https://img.shields.io/github/stars/friendica/friendica?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank">secure-code-game</a>&nbsp;<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank"><img src="https://img.shields.io/github/stars/skills/secure-code-game?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank">occupancy-epfl</a>&nbsp;<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank"><img src="https://img.shields.io/github/stars/antoninfaure/occupancy-epfl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank">simplenote-android</a>&nbsp;<a href="https://github.com/Automattic/simplenote-android" title="Simplenote for Android" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/simplenote-android?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank">openproject</a>&nbsp;<a href="https://github.com/opf/openproject" title="OpenProject is the leading open source project management software." target="_blank"><img src="https://img.shields.io/github/stars/opf/openproject?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -170,7 +170,7 @@ them here just in case.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 20 Feb 2025 13:45:09 GMT</small>
+<small>⏰ Updated on Fri, 21 Feb 2025 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
