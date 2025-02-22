@@ -9,7 +9,7 @@
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
     <br />Apparently, I'm hanging around on GitHub since 15 years and 1 months.
-    <br />You can reach me on twitter <a href="https://twitter.com/null">@null</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
+    <br />You can reach me on mastodon <a href="https://mastodon.social/@ponsfrilus" rel="me">@mastodon.social@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
   <p align="center">
@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/978dd391a05e1b72b569e0bf44c7f07977405930" title="2025-02-21T20:02:32.000+01:00" target="_blank">978dd391</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Expose promethus</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/9b9cabf876f349f2962d81f492e51ec949a20b39" title="2025-02-17T10:34:49.000+01:00" target="_blank">9b9cabf8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[fix] `callback_whitelist` is deprecated
 
@@ -113,7 +118,7 @@ Thanks to https://stackoverflow.com/a/71781869/960623:
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/db72a9ce7155aff354aa8b07236e58f6528aa429" title="2025-02-17T10:34:16.000+01:00" target="_blank">db72a9ce</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ec5db3faa6c9bbe4cf3fe74c82399981dfaaa888" title="2025-02-17T10:34:16.000+01:00" target="_blank">ec5db3fa</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] `callback_whitelist` is deprecated
 
 Thanks to https://stackoverflow.com/a/71781869/960623:
@@ -123,7 +128,7 @@ Thanks to https://stackoverflow.com/a/71781869/960623:
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/0d201c45394c9c8b0ca6a1037102b0d996fbc070" title="2025-02-16T11:40:32.000+01:00" target="_blank">0d201c45</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/fe3b4a4e3754457df99b496b66f345f4b1a7bd97" title="2025-02-16T11:40:32.000+01:00" target="_blank">fe3b4a4e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[feature+refactor] Backup rotation + block usage</pre>
         </td>
         </tr><tr>
@@ -161,16 +166,11 @@ them here just in case.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/4fabde6b936ed93e43a09c862ca94b8900678482" title="2025-02-10T19:28:31.000+01:00" target="_blank">4fabde6b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[chore] Clean up</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/5ed7ffcaaf4d23bd0f1f2a70b41695ce5627edeb" title="2025-02-10T19:27:42.000+01:00" target="_blank">5ed7ffca</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[doc](WIP) Readme's intro</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 21 Feb 2025 13:45:12 GMT</small>
+<small>⏰ Updated on Sat, 22 Feb 2025 06:14:12 GMT</small>
 </td>
 </tr>
 </tfoot>
