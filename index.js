@@ -33,7 +33,7 @@ const _generateREADMEheader = async () => {
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">${info.data.company}</a> in ${info.data.location}.
     <br />Apparently, I'm hanging around on GitHub since ${monthDiff(new Date(info.data.created_at), new Date())}.
-    <br />You can reach me on twitter <a href="https://twitter.com/${info.data.twitter_username}">@${info.data.twitter_username}</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
+    <br />You can reach me on mastodon <a href="https://mastodon.social/@ponsfrilus" rel="me">@mastodon.social@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
   <p align="center">
