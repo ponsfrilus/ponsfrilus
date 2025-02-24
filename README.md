@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank">btrfly-keyboard</a>&nbsp;<a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank"><img src="https://img.shields.io/github/stars/SolidHal/btrfly-keyboard?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank">typst</a>&nbsp;<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank"><img src="https://img.shields.io/github/stars/typst/typst?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank">mastodon.ops</a>&nbsp;<a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/mastodon.ops?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank">shell-operator</a>&nbsp;<a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank"><img src="https://img.shields.io/github/stars/flant/shell-operator?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank">omakub</a>&nbsp;<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omakub?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank">CFF-bot</a>&nbsp;<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/CFF-bot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank">passwordGame</a>&nbsp;<a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/passwordGame?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ETML-Midicix/wordpress-suivi-formation" title="null" target="_blank">wordpress-suivi-formation</a>&nbsp;<a href="https://github.com/ETML-Midicix/wordpress-suivi-formation" title="null" target="_blank"><img src="https://img.shields.io/github/stars/ETML-Midicix/wordpress-suivi-formation?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank">writefreely</a>&nbsp;<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank"><img src="https://img.shields.io/github/stars/writefreely/writefreely?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank">grafana-prometheus-alertmanager-datasource</a>&nbsp;<a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/grafana-prometheus-alertmanager-datasource?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank">phanpy</a>&nbsp;<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank"><img src="https://img.shields.io/github/stars/cheeaun/phanpy?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank">typst</a>&nbsp;<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank"><img src="https://img.shields.io/github/stars/typst/typst?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank">mastodon.ops</a>&nbsp;<a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/mastodon.ops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank">shell-operator</a>&nbsp;<a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank"><img src="https://img.shields.io/github/stars/flant/shell-operator?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank">omakub</a>&nbsp;<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omakub?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank">CFF-bot</a>&nbsp;<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/CFF-bot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank">passwordGame</a>&nbsp;<a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/passwordGame?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ETML-Midicix/wordpress-suivi-formation" title="null" target="_blank">wordpress-suivi-formation</a>&nbsp;<a href="https://github.com/ETML-Midicix/wordpress-suivi-formation" title="null" target="_blank"><img src="https://img.shields.io/github/stars/ETML-Midicix/wordpress-suivi-formation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank">writefreely</a>&nbsp;<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank"><img src="https://img.shields.io/github/stars/writefreely/writefreely?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank">grafana-prometheus-alertmanager-datasource</a>&nbsp;<a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/grafana-prometheus-alertmanager-datasource?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mrvladus/Errands" title="Todo application for those who prefer simplicity. " target="_blank">Errands</a>&nbsp;<a href="https://github.com/mrvladus/Errands" title="Todo application for those who prefer simplicity. " target="_blank"><img src="https://img.shields.io/github/stars/mrvladus/Errands?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/eaeac80d498b059ce830607cc11735f01308cf59" title="2025-02-22T07:13:55.000+01:00" target="_blank">eaeac80d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ponsfrilus" title="My profile's README generator">/ponsfrilus</a></strong></div>
+          <pre>[fix] Mastodon handle</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/978dd391a05e1b72b569e0bf44c7f07977405930" title="2025-02-21T20:02:32.000+01:00" target="_blank">978dd391</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[feature] Expose promethus</pre>
@@ -161,16 +166,11 @@ Ensure the backup are in the crontab file.</pre>
 These are not actually used in the configuration as code but let's save 
 them here just in case.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/4fabde6b936ed93e43a09c862ca94b8900678482" title="2025-02-10T19:28:31.000+01:00" target="_blank">4fabde6b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[chore] Clean up</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Sat, 22 Feb 2025 06:14:12 GMT</small>
+<small>⏰ Updated on Mon, 24 Feb 2025 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
