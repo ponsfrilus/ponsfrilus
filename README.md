@@ -53,7 +53,7 @@
 <a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank">passwordGame</a>&nbsp;<a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/passwordGame?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/ETML-Midicix/wordpress-suivi-formation" title="null" target="_blank">wordpress-suivi-formation</a>&nbsp;<a href="https://github.com/ETML-Midicix/wordpress-suivi-formation" title="null" target="_blank"><img src="https://img.shields.io/github/stars/ETML-Midicix/wordpress-suivi-formation?style=social" alt="GitHub"></a>
+<a href="https://github.com/FlizzerMDX/wordpress-suivi-formation" title="null" target="_blank">wordpress-suivi-formation</a>&nbsp;<a href="https://github.com/FlizzerMDX/wordpress-suivi-formation" title="null" target="_blank"><img src="https://img.shields.io/github/stars/FlizzerMDX/wordpress-suivi-formation?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank">writefreely</a>&nbsp;<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank"><img src="https://img.shields.io/github/stars/writefreely/writefreely?style=social" alt="GitHub"></a>
@@ -170,7 +170,7 @@ them here just in case.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 24 Feb 2025 13:45:12 GMT</small>
+<small>⏰ Updated on Tue, 25 Feb 2025 13:45:15 GMT</small>
 </td>
 </tr>
 </tfoot>
