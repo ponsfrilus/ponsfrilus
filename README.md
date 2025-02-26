@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/jmhobbs/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/jmhobbs/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/jmhobbs/terminal-parrot?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank">btrfly-keyboard</a>&nbsp;<a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank"><img src="https://img.shields.io/github/stars/SolidHal/btrfly-keyboard?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank">writefreely</a>&nbsp;<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank"><img src="https://img.shields.io/github/stars/writefreely/writefreely?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank">grafana-prometheus-alertmanager-datasource</a>&nbsp;<a href="https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource" title="Grafana Datasource for the Prometheus Alertmanager" target="_blank"><img src="https://img.shields.io/github/stars/camptocamp/grafana-prometheus-alertmanager-datasource?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kz6fittycent/terminal-parrot?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank">phanpy</a>&nbsp;<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank"><img src="https://img.shields.io/github/stars/cheeaun/phanpy?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank">secure-code-game</a>&nbsp;<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank"><img src="https://img.shields.io/github/stars/skills/secure-code-game?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank">occupancy-epfl</a>&nbsp;<a href="https://github.com/antoninfaure/occupancy-epfl" title="Backend of Occupancy FLEP, an interface of edu.epfl.ch useful for finding free rooms or schedule by studyplan, at EPFL." target="_blank"><img src="https://img.shields.io/github/stars/antoninfaure/occupancy-epfl?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -170,7 +170,7 @@ them here just in case.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 25 Feb 2025 13:45:15 GMT</small>
+<small>⏰ Updated on Wed, 26 Feb 2025 13:45:18 GMT</small>
 </td>
 </tr>
 </tfoot>
