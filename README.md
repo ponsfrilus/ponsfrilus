@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank">oslf</a>&nbsp;<a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/oslf?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kz6fittycent/terminal-parrot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank">phanpy</a>&nbsp;<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank"><img src="https://img.shields.io/github/stars/cheeaun/phanpy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dockur/macos" title="OSX (macOS) inside a Docker container." target="_blank">macos</a>&nbsp;<a href="https://github.com/dockur/macos" title="OSX (macOS) inside a Docker container." target="_blank"><img src="https://img.shields.io/github/stars/dockur/macos?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank">ULTIMATE-JAVASCRIPT-PROJECT</a>&nbsp;<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank"><img src="https://img.shields.io/github/stars/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank">prometheus-mastodon-exporter</a>&nbsp;<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank"><img src="https://img.shields.io/github/stars/systemli/prometheus-mastodon-exporter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank">NextPause</a>&nbsp;<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/NextPause?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank">url-shortener</a>&nbsp;<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/url-shortener?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank">api-ict</a>&nbsp;<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/api-ict?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank">friendica</a>&nbsp;<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank"><img src="https://img.shields.io/github/stars/friendica/friendica?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/jmhobbs/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/jmhobbs/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/jmhobbs/terminal-parrot?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank">writefreely</a>&nbsp;<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank"><img src="https://img.shields.io/github/stars/writefreely/writefreely?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kz6fittycent/terminal-parrot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank">phanpy</a>&nbsp;<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank"><img src="https://img.shields.io/github/stars/cheeaun/phanpy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dockur/macos" title="OSX (macOS) inside a Docker container." target="_blank">macos</a>&nbsp;<a href="https://github.com/dockur/macos" title="OSX (macOS) inside a Docker container." target="_blank"><img src="https://img.shields.io/github/stars/dockur/macos?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank">ULTIMATE-JAVASCRIPT-PROJECT</a>&nbsp;<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank"><img src="https://img.shields.io/github/stars/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank">prometheus-mastodon-exporter</a>&nbsp;<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank"><img src="https://img.shields.io/github/stars/systemli/prometheus-mastodon-exporter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank">NextPause</a>&nbsp;<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/NextPause?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank">url-shortener</a>&nbsp;<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/url-shortener?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank">api-ict</a>&nbsp;<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/api-ict?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank">friendica</a>&nbsp;<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank"><img src="https://img.shields.io/github/stars/friendica/friendica?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank">secure-code-game</a>&nbsp;<a href="https://github.com/skills/secure-code-game" title="A GitHub Security Lab initiative, providing an in-repo learning experience, where learners secure intentionally vulnerable code." target="_blank"><img src="https://img.shields.io/github/stars/skills/secure-code-game?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -170,7 +170,7 @@ them here just in case.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 26 Feb 2025 13:45:18 GMT</small>
+<small>⏰ Updated on Thu, 27 Feb 2025 13:45:14 GMT</small>
 </td>
 </tr>
 </tfoot>
