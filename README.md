@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/johngodley/redirection" title="Manage all your WordPress 301 redirects and monitor 404 errors" target="_blank">redirection</a>&nbsp;<a href="https://github.com/johngodley/redirection" title="Manage all your WordPress 301 redirects and monitor 404 errors" target="_blank"><img src="https://img.shields.io/github/stars/johngodley/redirection?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jmhobbs/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/jmhobbs/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/jmhobbs/terminal-parrot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank">btrfly-keyboard</a>&nbsp;<a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank"><img src="https://img.shields.io/github/stars/SolidHal/btrfly-keyboard?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank">typst</a>&nbsp;<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank"><img src="https://img.shields.io/github/stars/typst/typst?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank">mastodon.ops</a>&nbsp;<a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/mastodon.ops?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank">shell-operator</a>&nbsp;<a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank"><img src="https://img.shields.io/github/stars/flant/shell-operator?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank">omakub</a>&nbsp;<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omakub?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank">CFF-bot</a>&nbsp;<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/CFF-bot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank">passwordGame</a>&nbsp;<a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/passwordGame?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/FlizzerMDX/wordpress-suivi-formation" title="null" target="_blank">wordpress-suivi-formation</a>&nbsp;<a href="https://github.com/FlizzerMDX/wordpress-suivi-formation" title="null" target="_blank"><img src="https://img.shields.io/github/stars/FlizzerMDX/wordpress-suivi-formation?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank">oslf</a>&nbsp;<a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/oslf?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank">friendica</a>&nbsp;<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank"><img src="https://img.shields.io/github/stars/friendica/friendica?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/jmhobbs/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/jmhobbs/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/jmhobbs/terminal-parrot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank">btrfly-keyboard</a>&nbsp;<a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank"><img src="https://img.shields.io/github/stars/SolidHal/btrfly-keyboard?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank">typst</a>&nbsp;<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank"><img src="https://img.shields.io/github/stars/typst/typst?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank">mastodon.ops</a>&nbsp;<a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/mastodon.ops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank">shell-operator</a>&nbsp;<a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank"><img src="https://img.shields.io/github/stars/flant/shell-operator?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank">omakub</a>&nbsp;<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omakub?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank">CFF-bot</a>&nbsp;<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/CFF-bot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank">passwordGame</a>&nbsp;<a href="https://github.com/dwesh163/passwordGame" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/passwordGame?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/FlizzerMDX/wordpress-suivi-formation" title="null" target="_blank">wordpress-suivi-formation</a>&nbsp;<a href="https://github.com/FlizzerMDX/wordpress-suivi-formation" title="null" target="_blank"><img src="https://img.shields.io/github/stars/FlizzerMDX/wordpress-suivi-formation?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank">writefreely</a>&nbsp;<a href="https://github.com/writefreely/writefreely" title="A clean, Markdown-based publishing platform made for writers. Write together and build a community." target="_blank"><img src="https://img.shields.io/github/stars/writefreely/writefreely?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -170,7 +170,7 @@ them here just in case.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 04 Mar 2025 13:45:22 GMT</small>
+<small>⏰ Updated on Wed, 05 Mar 2025 13:45:19 GMT</small>
 </td>
 </tr>
 </tfoot>
