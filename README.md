@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6fbe2dd5b96791a63b7d331cc99e747c79790d81" title="2025-03-09T01:51:04.000+01:00" target="_blank">6fbe2dd5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[version] v4.3.4</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/b17bdda65c36567fbd3bcb0259a6261632e4ab7d" title="2025-03-07T16:59:32.000+01:00" target="_blank">b17bdda6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
+          <pre>[feature] Script to add admin group to booking group</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/ad95a686b9e1cbb3c0355ff12db0f0424c990321" title="2025-03-07T16:10:11.000+01:00" target="_blank">ad95a686</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
+          <pre>[feature] Script to add admins</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/eaeac80d498b059ce830607cc11735f01308cf59" title="2025-02-22T07:13:55.000+01:00" target="_blank">eaeac80d</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ponsfrilus" title="My profile's README generator">/ponsfrilus</a></strong></div>
           <pre>[fix] Mastodon handle</pre>
         </td>
@@ -148,29 +163,11 @@ Ensure the backup are in the crontab file.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/38a07d097fec175fb028c45e513f5affb7a5e552" title="2025-02-15T19:31:50.000+01:00" target="_blank">38a07d09</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[feature] Link verification</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/462add6cebf5ec6f324e7f1c6c24f04012255488" title="2025-02-12T18:30:24.000+01:00" target="_blank">462add6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[doc] README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/47208fb12597cb1e4dc483afa07b0de60315418a" title="2025-02-12T18:22:52.000+01:00" target="_blank">47208fb1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Ensure `{{ mastodon_web_build_dir }}/docker/mastodon-web`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ed70e4b05c9c543c671faf3757c018915ef82705" title="2025-02-10T19:30:04.000+01:00" target="_blank">ed70e4b0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[doc] Customization, server rules and TCs
-
-These are not actually used in the configuration as code but let's save 
-them here just in case.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 07 Mar 2025 13:45:09 GMT</small>
+<small>⏰ Updated on Mon, 10 Mar 2025 13:46:46 GMT</small>
 </td>
 </tr>
 </tfoot>
