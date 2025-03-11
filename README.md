@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/697496965ace8f645b042591476a61408569b4df" title="2025-03-11T09:19:48.000+01:00" target="_blank">69749696</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
+          <pre>[feature] Logs improved</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6fbe2dd5b96791a63b7d331cc99e747c79790d81" title="2025-03-09T01:51:04.000+01:00" target="_blank">6fbe2dd5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[version] v4.3.4</pre>
         </td>
@@ -158,16 +163,11 @@ Thanks to https://stackoverflow.com/a/71781869/960623:
 
 Ensure the backup are in the crontab file.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/38a07d097fec175fb028c45e513f5affb7a5e552" title="2025-02-15T19:31:50.000+01:00" target="_blank">38a07d09</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Link verification</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 10 Mar 2025 13:46:46 GMT</small>
+<small>⏰ Updated on Tue, 11 Mar 2025 13:46:10 GMT</small>
 </td>
 </tr>
 </tfoot>
