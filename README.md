@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/eduardoagarcia/shef" title="Shef is a powerful CLI tool for cooking up shell recipes." target="_blank">shef</a>&nbsp;<a href="https://github.com/eduardoagarcia/shef" title="Shef is a powerful CLI tool for cooking up shell recipes." target="_blank"><img src="https://img.shields.io/github/stars/eduardoagarcia/shef?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank">oslf</a>&nbsp;<a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/oslf?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kz6fittycent/terminal-parrot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank">phanpy</a>&nbsp;<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank"><img src="https://img.shields.io/github/stars/cheeaun/phanpy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dockur/macos" title="OSX (macOS) inside a Docker container." target="_blank">macos</a>&nbsp;<a href="https://github.com/dockur/macos" title="OSX (macOS) inside a Docker container." target="_blank"><img src="https://img.shields.io/github/stars/dockur/macos?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank">ULTIMATE-JAVASCRIPT-PROJECT</a>&nbsp;<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank"><img src="https://img.shields.io/github/stars/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank">prometheus-mastodon-exporter</a>&nbsp;<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank"><img src="https://img.shields.io/github/stars/systemli/prometheus-mastodon-exporter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank">NextPause</a>&nbsp;<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/NextPause?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank">url-shortener</a>&nbsp;<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/url-shortener?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank">api-ict</a>&nbsp;<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/api-ict?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/johngodley/redirection" title="Manage all your WordPress 301 redirects and monitor 404 errors" target="_blank">redirection</a>&nbsp;<a href="https://github.com/johngodley/redirection" title="Manage all your WordPress 301 redirects and monitor 404 errors" target="_blank"><img src="https://img.shields.io/github/stars/johngodley/redirection?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/FlizzerMDX/wordpress-suivi-formation" title="null" target="_blank">wordpress-suivi-formation</a>&nbsp;<a href="https://github.com/FlizzerMDX/wordpress-suivi-formation" title="null" target="_blank"><img src="https://img.shields.io/github/stars/FlizzerMDX/wordpress-suivi-formation?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank">oslf</a>&nbsp;<a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/oslf?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kz6fittycent/terminal-parrot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank">phanpy</a>&nbsp;<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank"><img src="https://img.shields.io/github/stars/cheeaun/phanpy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dockur/macos" title="OSX (macOS) inside a Docker container." target="_blank">macos</a>&nbsp;<a href="https://github.com/dockur/macos" title="OSX (macOS) inside a Docker container." target="_blank"><img src="https://img.shields.io/github/stars/dockur/macos?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank">ULTIMATE-JAVASCRIPT-PROJECT</a>&nbsp;<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank"><img src="https://img.shields.io/github/stars/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank">prometheus-mastodon-exporter</a>&nbsp;<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank"><img src="https://img.shields.io/github/stars/systemli/prometheus-mastodon-exporter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank">NextPause</a>&nbsp;<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/NextPause?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank">url-shortener</a>&nbsp;<a href="https://github.com/kooked-ch/url-shortener" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/url-shortener?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank">api-ict</a>&nbsp;<a href="https://github.com/dwesh163/api-ict" title="This API allows you to list all ICT modules" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/api-ict?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank">friendica</a>&nbsp;<a href="https://github.com/friendica/friendica" title="Friendica Communications Platform" target="_blank"><img src="https://img.shields.io/github/stars/friendica/friendica?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -167,7 +167,7 @@ Ensure the backup are in the crontab file.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 11 Mar 2025 13:46:10 GMT</small>
+<small>⏰ Updated on Wed, 12 Mar 2025 13:46:01 GMT</small>
 </td>
 </tr>
 </tfoot>
