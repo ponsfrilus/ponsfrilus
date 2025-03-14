@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/b7b32046a14735c83e2293a35e94fdfbcfc4a8ee" title="2025-03-13T15:46:41.000+01:00" target="_blank">b7b32046</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[design] Self made logo
+
+insert "It ain't much, but it's honest work" meme here.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/00b461b5dade90577194ebb291529011df6b33b5" title="2025-03-13T11:09:00.000+01:00" target="_blank">00b461b5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[feature] Add `Age` column</pre>
         </td>
@@ -151,16 +158,11 @@ This is the new prod.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/be25f117e35d728cf9b80cc7b0fd549de6896a2c" title="2025-03-09T01:52:33.000+01:00" target="_blank">be25f117</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] Backups</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/38e462c58a9e351220a9ef86a5008103b5c286b5" title="2025-03-09T01:52:19.000+01:00" target="_blank">38e462c5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Welcome @multiscan</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 13 Mar 2025 13:45:49 GMT</small>
+<small>⏰ Updated on Fri, 14 Mar 2025 13:45:12 GMT</small>
 </td>
 </tr>
 </tfoot>
