@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank">note-mark</a>&nbsp;<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank"><img src="https://img.shields.io/github/stars/enchant97/note-mark?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank">wordpress-activitypub</a>&nbsp;<a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/wordpress-activitypub?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank">prometheus-mastodon-exporter</a>&nbsp;<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank"><img src="https://img.shields.io/github/stars/systemli/prometheus-mastodon-exporter?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank">NextPause</a>&nbsp;<a href="https://github.com/dwesh163/NextPause" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/NextPause?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank">docs</a>&nbsp;<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/docs?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/lukevella/rallly" title="Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier." target="_blank">rallly</a>&nbsp;<a href="https://github.com/lukevella/rallly" title="Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier." target="_blank"><img src="https://img.shields.io/github/stars/lukevella/rallly?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank">omakub</a>&nbsp;<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omakub?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank">CFF-bot</a>&nbsp;<a href="https://github.com/dwesh163/CFF-bot" title="This is a Telegram bot for CFF train" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/CFF-bot?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -103,66 +103,67 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8b61d4661ee5f2637e4557ff524fdbade90067e0" title="2025-03-18T12:07:51.000+01:00" target="_blank">8b61d466</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] `apache_redirector` tag is now `2025-002`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/01a39e944e20b2c6bca22da2cec489afe8a2cd85" title="2025-03-18T12:04:53.000+01:00" target="_blank">01a39e94</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[doc] README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/cb1858b9e370f46de7ed06ddb2e0d5afc2831d20" title="2025-03-17T16:09:30.000+01:00" target="_blank">cb1858b9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] Memory request has to be specified</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/fd802dbff5e865abdebbbca12852bb78502b592d" title="2025-03-17T15:53:42.000+01:00" target="_blank">fd802dbf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] Miniaml `httpd.conf`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/3519a3c37a9ba561f7c573cf79ca3c6e593684ec" title="2025-03-17T12:12:44.000+01:00" target="_blank">3519a3c3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] Use an image tag and rename wp-redirector to apache-redirector</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ee5835712c0f4a1ef000c36f44d0f0d244a563aa" title="2025-03-17T12:11:58.000+01:00" target="_blank">ee583571</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] `httpd:2.4` image is now mirrored</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/4e488960a0af5cfb27729f3502be3266c581b34b" title="2025-03-17T12:10:50.000+01:00" target="_blank">4e488960</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[feature] Build/Push apache-redirector
+
+See https://github.com/epfl-si/wp-ops/pull/656</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/078e999444755b1fcee31ee86a3731242f91cef8" title="2025-03-14T15:08:05.000+01:00" target="_blank">078e9994</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] Simplify the Dockerfile with a copied `httpd.conf`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/ab6ffc7d5745a349a1943497208eeb84bea36013" title="2025-03-14T15:04:15.000+01:00" target="_blank">ab6ffc7d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
           <pre>[feature] Convenience script to extract reservation</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/b7b32046a14735c83e2293a35e94fdfbcfc4a8ee" title="2025-03-13T15:46:41.000+01:00" target="_blank">b7b32046</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[design] Self made logo
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/1a678f207cec54bb3148733c66914e0c36ed69d2" title="2025-03-14T12:32:08.000+01:00" target="_blank">1a678f20</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] Apache "redirector" pod
 
-insert "It ain't much, but it's honest work" meme here.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/00b461b5dade90577194ebb291529011df6b33b5" title="2025-03-13T11:09:00.000+01:00" target="_blank">00b461b5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] Add `Age` column</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/7dff323ff03ec8ab75d9cbc704f936a2f311355b" title="2025-03-13T10:46:19.000+01:00" target="_blank">7dff323f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[feature] Better `kubectl get wp`
-
-This try to improve the output of the `kubectl get wp` command, adding 
-the `hostname` and the site's `title` and moving things to `-o wide`.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/868d154e85794c5b52ebc3530bb4d7a840e59dff" title="2025-03-12T18:36:58.000+01:00" target="_blank">868d154e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[bump] Version to `2025-046`
-
-This is the new prod.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/558de9ee12bc2af5fca5a7ce9c88bc3cf6ca03b5" title="2025-03-12T18:17:57.000+01:00" target="_blank">558de9ee</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] Authenticated msmtp</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f9f7e8c867b223d59aca42427aad8d53bb526196" title="2025-03-12T16:59:04.000+01:00" target="_blank">f9f7e8c8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] Variable for `wp-nginx` deployment images tag</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/7a6795df2ad1b2e743a2327c84a949f4094612f3" title="2025-03-12T15:20:44.000+01:00" target="_blank">7a6795df</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Cronjob to run `tootctl media remove`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/697496965ace8f645b042591476a61408569b4df" title="2025-03-11T09:19:48.000+01:00" target="_blank">69749696</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
-          <pre>[feature] Logs improved</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/150ecc8fe27b76b1234afd913ebe9d67409af7dd" title="2025-03-09T02:35:07.000+01:00" target="_blank">150ecc8f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Permissions</pre>
+- PCV named `wordpress-apache-redirector` with the StorageClass
+  `wordpress-nfs-apache-redirector`
+- A `wp-redirector` Service to respond to any routes pointed to it
+- And a Apache pod based on an httpd image with the mod_rewrite
+  activated</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 17 Mar 2025 13:47:06 GMT</small>
+<small>⏰ Updated on Tue, 18 Mar 2025 13:46:58 GMT</small>
 </td>
 </tr>
 </tfoot>
