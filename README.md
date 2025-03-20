@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/konvajs/konva" title="Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications." target="_blank">konva</a>&nbsp;<a href="https://github.com/konvajs/konva" title="Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications." target="_blank"><img src="https://img.shields.io/github/stars/konvajs/konva?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank">docs</a>&nbsp;<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/docs?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lukevella/rallly" title="Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier." target="_blank">rallly</a>&nbsp;<a href="https://github.com/lukevella/rallly" title="Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier." target="_blank"><img src="https://img.shields.io/github/stars/lukevella/rallly?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cydrobolt/polr" title=":aerial_tramway: A modern, powerful, and robust URL shortener" target="_blank">polr</a>&nbsp;<a href="https://github.com/cydrobolt/polr" title=":aerial_tramway: A modern, powerful, and robust URL shortener" target="_blank"><img src="https://img.shields.io/github/stars/cydrobolt/polr?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/johngodley/redirection" title="Manage all your WordPress 301 redirects and monitor 404 errors" target="_blank">redirection</a>&nbsp;<a href="https://github.com/johngodley/redirection" title="Manage all your WordPress 301 redirects and monitor 404 errors" target="_blank"><img src="https://img.shields.io/github/stars/johngodley/redirection?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jmhobbs/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/jmhobbs/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/jmhobbs/terminal-parrot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank">btrfly-keyboard</a>&nbsp;<a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank"><img src="https://img.shields.io/github/stars/SolidHal/btrfly-keyboard?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank">typst</a>&nbsp;<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank"><img src="https://img.shields.io/github/stars/typst/typst?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank">mastodon.ops</a>&nbsp;<a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/mastodon.ops?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank">shell-operator</a>&nbsp;<a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank"><img src="https://img.shields.io/github/stars/flant/shell-operator?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank">note-mark</a>&nbsp;<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank"><img src="https://img.shields.io/github/stars/enchant97/note-mark?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank">docs</a>&nbsp;<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/docs?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lukevella/rallly" title="Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier." target="_blank">rallly</a>&nbsp;<a href="https://github.com/lukevella/rallly" title="Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier." target="_blank"><img src="https://img.shields.io/github/stars/lukevella/rallly?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cydrobolt/polr" title=":aerial_tramway: A modern, powerful, and robust URL shortener" target="_blank">polr</a>&nbsp;<a href="https://github.com/cydrobolt/polr" title=":aerial_tramway: A modern, powerful, and robust URL shortener" target="_blank"><img src="https://img.shields.io/github/stars/cydrobolt/polr?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/johngodley/redirection" title="Manage all your WordPress 301 redirects and monitor 404 errors" target="_blank">redirection</a>&nbsp;<a href="https://github.com/johngodley/redirection" title="Manage all your WordPress 301 redirects and monitor 404 errors" target="_blank"><img src="https://img.shields.io/github/stars/johngodley/redirection?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jmhobbs/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/jmhobbs/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/jmhobbs/terminal-parrot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank">btrfly-keyboard</a>&nbsp;<a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank"><img src="https://img.shields.io/github/stars/SolidHal/btrfly-keyboard?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank">typst</a>&nbsp;<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank"><img src="https://img.shields.io/github/stars/typst/typst?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank">mastodon.ops</a>&nbsp;<a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/mastodon.ops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank">shell-operator</a>&nbsp;<a href="https://github.com/flant/shell-operator" title="Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster" target="_blank"><img src="https://img.shields.io/github/stars/flant/shell-operator?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank">omakub</a>&nbsp;<a href="https://github.com/basecamp/omakub" title="Opinionated Ubuntu Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omakub?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/CartaFlow/commits/64dad7c873c7a150f428a889fc34dd49506492d1" title="2025-03-20T11:20:50.000+01:00" target="_blank">64dad7c8</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/CartaFlow" title="A card sorting web app">/CartaFlow</a></strong></div>
+          <pre>[hello] Initial commit</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8b61d4661ee5f2637e4557ff524fdbade90067e0" title="2025-03-18T12:07:51.000+01:00" target="_blank">8b61d466</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[fix] `apache_redirector` tag is now `2025-002`</pre>
@@ -148,22 +153,11 @@ See https://github.com/epfl-si/wp-ops/pull/656</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/ab6ffc7d5745a349a1943497208eeb84bea36013" title="2025-03-14T15:04:15.000+01:00" target="_blank">ab6ffc7d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
           <pre>[feature] Convenience script to extract reservation</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/1a678f207cec54bb3148733c66914e0c36ed69d2" title="2025-03-14T12:32:08.000+01:00" target="_blank">1a678f20</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] Apache "redirector" pod
-
-- PCV named `wordpress-apache-redirector` with the StorageClass
-  `wordpress-nfs-apache-redirector`
-- A `wp-redirector` Service to respond to any routes pointed to it
-- And a Apache pod based on an httpd image with the mod_rewrite
-  activated</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 19 Mar 2025 13:46:44 GMT</small>
+<small>⏰ Updated on Thu, 20 Mar 2025 13:46:14 GMT</small>
 </td>
 </tr>
 </tfoot>
