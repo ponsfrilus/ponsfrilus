@@ -157,7 +157,7 @@ See https://github.com/epfl-si/wp-ops/pull/656</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 21 Mar 2025 13:45:15 GMT</small>
+<small>⏰ Updated on Mon, 24 Mar 2025 13:47:04 GMT</small>
 </td>
 </tr>
 </tfoot>
