@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/087c7b67c71cc1825c90575dea9b64f442253d36" title="2025-03-25T14:28:48.000+01:00" target="_blank">087c7b67</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] `wp-data` has to be accessible in PHP scope</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/CartaFlow/commits/4f9489dac74d8d5f68b062eca80f0faab6f5285a" title="2025-03-21T09:20:51.000+01:00" target="_blank">4f9489da</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/CartaFlow" title="A card sorting web app">/CartaFlow</a></strong></div>
           <pre>[hello] Initial commit</pre>
         </td>
@@ -148,16 +153,11 @@ See https://github.com/epfl-si/wp-ops/pull/656</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/078e999444755b1fcee31ee86a3731242f91cef8" title="2025-03-14T15:08:05.000+01:00" target="_blank">078e9994</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[feature] Simplify the Dockerfile with a copied `httpd.conf`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/ab6ffc7d5745a349a1943497208eeb84bea36013" title="2025-03-14T15:04:15.000+01:00" target="_blank">ab6ffc7d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
-          <pre>[feature] Convenience script to extract reservation</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 24 Mar 2025 13:47:04 GMT</small>
+<small>⏰ Updated on Tue, 25 Mar 2025 13:46:32 GMT</small>
 </td>
 </tr>
 </tfoot>
