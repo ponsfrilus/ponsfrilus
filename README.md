@@ -103,8 +103,47 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/a3ac2fefcf9c20aaf0c9865593d093ebfc030077" title="2025-03-26T14:41:14.000+01:00" target="_blank">a3ac2fef</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] s/command/entrypoint</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/f5ad5c86e4e13d1d27b4cc3229b244f3180f9e88" title="2025-03-25T16:05:23.000+01:00" target="_blank">f5ad5c86</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[feature] `make git-ssh`
+
+This will change all remotes URL of "epfl-si" repositories to
+git@github.com: instead of https://github.com/</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/087c7b67c71cc1825c90575dea9b64f442253d36" title="2025-03-25T14:28:48.000+01:00" target="_blank">087c7b67</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[fix] `wp-data` has to be accessible in PHP scope</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/8562e6e46076789e14679890b7de86dc2975dafe" title="2025-03-21T11:18:34.000+01:00" target="_blank">8562e6e4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[doc] Default branch + typos
+
+The `WPN` branch has been set as default, no need to `checkout -b WPN`
+anymore...</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/7e47a1f4065501aa17418f0cb122b8fdaabdf44b" title="2025-03-21T11:06:28.000+01:00" target="_blank">7e47a1f4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] Define variables used by `docker-compose.yaml`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/67ce648c4f2f416cbd2fc54019a099c5b851457f" title="2025-03-21T10:47:07.000+01:00" target="_blank">67ce648c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[feature] Get tag from the `curl-authenticated-quay` script
+
+Using the `curl-authenticated-quay` script allow us to:
+- Ensure that user is "docker logged" to our registry, quay-its.epfl.ch
+- Avoid the "mid-fix" tags using the `^[0-9]{4}-[0-9]{3}$` regex
+- Precedence comes from the variable in the `.env` file
+
+Note: The default value and/or the .env file are still used by the 
+      docker-compose.yml.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -113,51 +152,33 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8b61d4661ee5f2637e4557ff524fdbade90067e0" title="2025-03-18T12:07:51.000+01:00" target="_blank">8b61d466</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] `apache_redirector` tag is now `2025-002`</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/0b2a7bd10795abe22507883a50fe21590ea609a5" title="2025-03-20T14:16:54.000+01:00" target="_blank">0b2a7bd1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] `curl` please be silent</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/01a39e944e20b2c6bca22da2cec489afe8a2cd85" title="2025-03-18T12:04:53.000+01:00" target="_blank">01a39e94</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[doc] README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/cb1858b9e370f46de7ed06ddb2e0d5afc2831d20" title="2025-03-17T16:09:30.000+01:00" target="_blank">cb1858b9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] Memory request has to be specified</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/fd802dbff5e865abdebbbca12852bb78502b592d" title="2025-03-17T15:53:42.000+01:00" target="_blank">fd802dbf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] Miniaml `httpd.conf`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/3519a3c37a9ba561f7c573cf79ca3c6e593684ec" title="2025-03-17T12:12:44.000+01:00" target="_blank">3519a3c3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] Use an image tag and rename wp-redirector to apache-redirector</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ee5835712c0f4a1ef000c36f44d0f0d244a563aa" title="2025-03-17T12:11:58.000+01:00" target="_blank">ee583571</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] `httpd:2.4` image is now mirrored</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/4e488960a0af5cfb27729f3502be3266c581b34b" title="2025-03-17T12:10:50.000+01:00" target="_blank">4e488960</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[feature] Build/Push apache-redirector
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/583c9c4bc700e8a1ebae6694c089935ed451e3df" title="2025-03-19T18:13:08.000+01:00" target="_blank">583c9c4b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[feature] Read the latest `wp-php` image tag from Quay
 
-See https://github.com/epfl-si/wp-ops/pull/656</pre>
+Using a secret from `/keybase/team/epfl_wp_test/quay-its.sh`, the
+`_get_latest_image_tag` will query the Quay's API to get the latest
+tag of the image.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/078e999444755b1fcee31ee86a3731242f91cef8" title="2025-03-14T15:08:05.000+01:00" target="_blank">078e9994</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] Simplify the Dockerfile with a copied `httpd.conf`</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/1de50113b88dec3b19ce89d1f18e6f1a8a018ab4" title="2025-03-18T17:08:29.000+01:00" target="_blank">1de50113</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[feature] `.env.sample`
+
+This add a `.env.sample` that can be used as an example for a "real"
+`.env` file that will be read both by the `docker-compose.yml` and the
+`Makefile`. This allow to change the images' version in one place only.
+Also bump all default versions.</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 25 Mar 2025 13:46:32 GMT</small>
+<small>⏰ Updated on Wed, 26 Mar 2025 13:47:44 GMT</small>
 </td>
 </tr>
 </tfoot>
