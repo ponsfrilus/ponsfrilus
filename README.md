@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank">cloudnative-pg</a>&nbsp;<a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank"><img src="https://img.shields.io/github/stars/cloudnative-pg/cloudnative-pg?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank">note-mark</a>&nbsp;<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank"><img src="https://img.shields.io/github/stars/enchant97/note-mark?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank">wordpress-activitypub</a>&nbsp;<a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/wordpress-activitypub?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/anandbaburajan/samay" title="Find a time which works for everyone" target="_blank">samay</a>&nbsp;<a href="https://github.com/anandbaburajan/samay" title="Find a time which works for everyone" target="_blank"><img src="https://img.shields.io/github/stars/anandbaburajan/samay?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/eduardoagarcia/shef" title="Shef is a powerful CLI tool for cooking up shell recipes." target="_blank">shef</a>&nbsp;<a href="https://github.com/eduardoagarcia/shef" title="Shef is a powerful CLI tool for cooking up shell recipes." target="_blank"><img src="https://img.shields.io/github/stars/eduardoagarcia/shef?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank">oslf</a>&nbsp;<a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/oslf?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kz6fittycent/terminal-parrot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank">phanpy</a>&nbsp;<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank"><img src="https://img.shields.io/github/stars/cheeaun/phanpy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dockur/macos" title="macOS inside a Docker container." target="_blank">macos</a>&nbsp;<a href="https://github.com/dockur/macos" title="macOS inside a Docker container." target="_blank"><img src="https://img.shields.io/github/stars/dockur/macos?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank">ULTIMATE-JAVASCRIPT-PROJECT</a>&nbsp;<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank"><img src="https://img.shields.io/github/stars/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/konvajs/konva" title="Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications." target="_blank">konva</a>&nbsp;<a href="https://github.com/konvajs/konva" title="Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications." target="_blank"><img src="https://img.shields.io/github/stars/konvajs/konva?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,23 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank">note-mark</a>&nbsp;<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank"><img src="https://img.shields.io/github/stars/enchant97/note-mark?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank">wordpress-activitypub</a>&nbsp;<a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/wordpress-activitypub?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/anandbaburajan/samay" title="Find a time which works for everyone" target="_blank">samay</a>&nbsp;<a href="https://github.com/anandbaburajan/samay" title="Find a time which works for everyone" target="_blank"><img src="https://img.shields.io/github/stars/anandbaburajan/samay?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/eduardoagarcia/shef" title="Shef is a powerful CLI tool for cooking up shell recipes." target="_blank">shef</a>&nbsp;<a href="https://github.com/eduardoagarcia/shef" title="Shef is a powerful CLI tool for cooking up shell recipes." target="_blank"><img src="https://img.shields.io/github/stars/eduardoagarcia/shef?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank">oslf</a>&nbsp;<a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/oslf?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kz6fittycent/terminal-parrot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank">phanpy</a>&nbsp;<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank"><img src="https://img.shields.io/github/stars/cheeaun/phanpy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dockur/macos" title="macOS inside a Docker container." target="_blank">macos</a>&nbsp;<a href="https://github.com/dockur/macos" title="macOS inside a Docker container." target="_blank"><img src="https://img.shields.io/github/stars/dockur/macos?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank">ULTIMATE-JAVASCRIPT-PROJECT</a>&nbsp;<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank"><img src="https://img.shields.io/github/stars/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank">prometheus-mastodon-exporter</a>&nbsp;<a href="https://github.com/systemli/prometheus-mastodon-exporter" title="Prometheus Exporter for Mastodon" target="_blank"><img src="https://img.shields.io/github/stars/systemli/prometheus-mastodon-exporter?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/b37f2e6cd9ff06a9f9c10709fbca92c1ca9125a5" title="2025-03-26T18:33:27.000+01:00" target="_blank">b37f2e6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[doc] Improved message after build</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ef721557a4e9e0b9acc3fece0dddf76724fdb8f9" title="2025-03-26T16:18:04.000+01:00" target="_blank">ef721557</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] Remove the "Welcome to OpenResty!" page
+
+This fixes WPN-366</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/a3ac2fefcf9c20aaf0c9865593d093ebfc030077" title="2025-03-26T14:41:14.000+01:00" target="_blank">a3ac2fef</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[fix] s/command/entrypoint</pre>
@@ -155,30 +167,11 @@ Note: The default value and/or the .env file are still used by the
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/0b2a7bd10795abe22507883a50fe21590ea609a5" title="2025-03-20T14:16:54.000+01:00" target="_blank">0b2a7bd1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[fix] `curl` please be silent</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/583c9c4bc700e8a1ebae6694c089935ed451e3df" title="2025-03-19T18:13:08.000+01:00" target="_blank">583c9c4b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[feature] Read the latest `wp-php` image tag from Quay
-
-Using a secret from `/keybase/team/epfl_wp_test/quay-its.sh`, the
-`_get_latest_image_tag` will query the Quay's API to get the latest
-tag of the image.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/1de50113b88dec3b19ce89d1f18e6f1a8a018ab4" title="2025-03-18T17:08:29.000+01:00" target="_blank">1de50113</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[feature] `.env.sample`
-
-This add a `.env.sample` that can be used as an example for a "real"
-`.env` file that will be read both by the `docker-compose.yml` and the
-`Makefile`. This allow to change the images' version in one place only.
-Also bump all default versions.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 26 Mar 2025 13:47:44 GMT</small>
+<small>⏰ Updated on Thu, 27 Mar 2025 13:46:59 GMT</small>
 </td>
 </tr>
 </tfoot>
