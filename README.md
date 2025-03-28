@@ -103,6 +103,18 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/8005f8771ff4999e457db957b06357cd058fed39" title="2025-03-28T06:32:35.000+01:00" target="_blank">8005f877</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[bump] to v3.4.6</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6a0717533d95fd6f3e44653d1b1b60d0c022bf5d" title="2025-03-28T06:23:54.000+01:00" target="_blank">6a071753</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Default value "ignore" for image_name_mismatch
+
+Fixes #6</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/b37f2e6cd9ff06a9f9c10709fbca92c1ca9125a5" title="2025-03-26T18:33:27.000+01:00" target="_blank">b37f2e6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[doc] Improved message after build</pre>
         </td>
@@ -157,21 +169,11 @@ Using the `curl-authenticated-quay` script allow us to:
 Note: The default value and/or the .env file are still used by the 
       docker-compose.yml.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/CartaFlow/commits/4f9489dac74d8d5f68b062eca80f0faab6f5285a" title="2025-03-21T09:20:51.000+01:00" target="_blank">4f9489da</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/CartaFlow" title="A card sorting web app">/CartaFlow</a></strong></div>
-          <pre>[hello] Initial commit</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/0b2a7bd10795abe22507883a50fe21590ea609a5" title="2025-03-20T14:16:54.000+01:00" target="_blank">0b2a7bd1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] `curl` please be silent</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 27 Mar 2025 13:46:59 GMT</small>
+<small>⏰ Updated on Fri, 28 Mar 2025 13:46:14 GMT</small>
 </td>
 </tr>
 </tfoot>
