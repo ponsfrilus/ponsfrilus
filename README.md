@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank">headlamp</a>&nbsp;<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes-sigs/headlamp?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/tw93/Pake" title="🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用" target="_blank">Pake</a>&nbsp;<a href="https://github.com/tw93/Pake" title="🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用" target="_blank"><img src="https://img.shields.io/github/stars/tw93/Pake?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank">typst</a>&nbsp;<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank"><img src="https://img.shields.io/github/stars/typst/typst?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank">mastodon.ops</a>&nbsp;<a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/mastodon.ops?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank">leantime</a>&nbsp;<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank"><img src="https://img.shields.io/github/stars/Leantime/leantime?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank">cloudnative-pg</a>&nbsp;<a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank"><img src="https://img.shields.io/github/stars/cloudnative-pg/cloudnative-pg?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/dockur/macos" title="macOS inside a Docker container." target="_blank">macos</a>&nbsp;<a href="https://github.com/dockur/macos" title="macOS inside a Docker container." target="_blank"><img src="https://img.shields.io/github/stars/dockur/macos?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank">ULTIMATE-JAVASCRIPT-PROJECT</a>&nbsp;<a href="https://github.com/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT" title="A comprehensive list of 500 JavaScript project ideas for developers of all skill levels. Open-source and community-driven." target="_blank"><img src="https://img.shields.io/github/stars/deepakkumar55/ULTIMATE-JAVASCRIPT-PROJECT?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,18 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/8005f8771ff4999e457db957b06357cd058fed39" title="2025-03-28T06:32:35.000+01:00" target="_blank">8005f877</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[bump] to v3.4.6</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6a0717533d95fd6f3e44653d1b1b60d0c022bf5d" title="2025-03-28T06:23:54.000+01:00" target="_blank">6a071753</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Default value "ignore" for image_name_mismatch
+
+Fixes #6</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/b37f2e6cd9ff06a9f9c10709fbca92c1ca9125a5" title="2025-03-26T18:33:27.000+01:00" target="_blank">b37f2e6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[doc] Improved message after build</pre>
@@ -157,21 +169,11 @@ Using the `curl-authenticated-quay` script allow us to:
 Note: The default value and/or the .env file are still used by the 
       docker-compose.yml.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/CartaFlow/commits/4f9489dac74d8d5f68b062eca80f0faab6f5285a" title="2025-03-21T09:20:51.000+01:00" target="_blank">4f9489da</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/CartaFlow" title="A card sorting web app">/CartaFlow</a></strong></div>
-          <pre>[hello] Initial commit</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/0b2a7bd10795abe22507883a50fe21590ea609a5" title="2025-03-20T14:16:54.000+01:00" target="_blank">0b2a7bd1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] `curl` please be silent</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 01 Apr 2025 13:48:46 GMT</small>
+<small>⏰ Updated on Wed, 02 Apr 2025 13:47:52 GMT</small>
 </td>
 </tr>
 </tfoot>
