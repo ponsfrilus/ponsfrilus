@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/eaf8b742da24c6d15a13a78a5cfd930a61d64519" title="2025-04-07T07:01:46.000+02:00" target="_blank">eaf8b742</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[bump] to v3.4.7</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/8005f8771ff4999e457db957b06357cd058fed39" title="2025-03-28T06:32:35.000+01:00" target="_blank">8005f877</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[bump] to v3.4.6</pre>
         </td>
@@ -156,24 +161,11 @@ anymore...</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/7e47a1f4065501aa17418f0cb122b8fdaabdf44b" title="2025-03-21T11:06:28.000+01:00" target="_blank">7e47a1f4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[fix] Define variables used by `docker-compose.yaml`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/67ce648c4f2f416cbd2fc54019a099c5b851457f" title="2025-03-21T10:47:07.000+01:00" target="_blank">67ce648c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[feature] Get tag from the `curl-authenticated-quay` script
-
-Using the `curl-authenticated-quay` script allow us to:
-- Ensure that user is "docker logged" to our registry, quay-its.epfl.ch
-- Avoid the "mid-fix" tags using the `^[0-9]{4}-[0-9]{3}$` regex
-- Precedence comes from the variable in the `.env` file
-
-Note: The default value and/or the .env file are still used by the 
-      docker-compose.yml.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 04 Apr 2025 13:46:23 GMT</small>
+<small>⏰ Updated on Mon, 07 Apr 2025 13:48:17 GMT</small>
 </td>
 </tr>
 </tfoot>
