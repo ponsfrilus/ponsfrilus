@@ -12,7 +12,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     # container: node:latest ## If used, the git command use git version < 2.11 
     # and the checkout action uses tarball, so no git repository is created which
     # makes the commits more complicated...
@@ -21,10 +21,10 @@ jobs:
     - name: Checkout the repo
       uses: actions/checkout@v2
     # https://github.com/actions/setup-node
-    - name: Use Node.js 12.x
+    - name: Use Node.js 22.x
       uses: actions/setup-node@v1
       with:
-        node-version: 12.x
+        node-version: 22.x
     # https://docs.npmjs.com/cli/ci.html
     - name: NPM install clean
       run: npm ci
