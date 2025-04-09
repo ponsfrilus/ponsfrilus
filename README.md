@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank">drawdb</a>&nbsp;<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank"><img src="https://img.shields.io/github/stars/drawdb-io/drawdb?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank">Plume</a>&nbsp;<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank"><img src="https://img.shields.io/github/stars/Plume-org/Plume?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kz6fittycent/terminal-parrot?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank">phanpy</a>&nbsp;<a href="https://github.com/cheeaun/phanpy" title="A minimalistic opinionated Mastodon web client" target="_blank"><img src="https://img.shields.io/github/stars/cheeaun/phanpy?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank">inngest</a>&nbsp;<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank"><img src="https://img.shields.io/github/stars/inngest/inngest?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank">headlamp</a>&nbsp;<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes-sigs/headlamp?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank">btrfly-keyboard</a>&nbsp;<a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank"><img src="https://img.shields.io/github/stars/SolidHal/btrfly-keyboard?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank">typst</a>&nbsp;<a href="https://github.com/typst/typst" title="A new markup-based typesetting system that is powerful and easy to learn." target="_blank"><img src="https://img.shields.io/github/stars/typst/typst?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,14 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/b6a3c99b91604b10b5dbee89ca87b83a528e2a88" title="2025-04-08T17:37:06.000+02:00" target="_blank">b6a3c99b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ponsfrilus" title="My profile's README generator">/ponsfrilus</a></strong></div>
+          <pre>[fix] Ubuntu and Node version
+
+- Bump Ubuntu from 20.04 to 24.04
+- Bump Node from 12 to 22</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/24ecc6b5d5c5adb939f3abddbcfbd63a24e21b90" title="2025-04-08T07:29:45.000+02:00" target="_blank">24ecc6b5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[bump] to version `2025-084`
@@ -163,16 +171,11 @@ Fixes #6</pre>
 
 This fixes WPN-366</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/a3ac2fefcf9c20aaf0c9865593d093ebfc030077" title="2025-03-26T14:41:14.000+01:00" target="_blank">a3ac2fef</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] s/command/entrypoint</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 08 Apr 2025 15:37:23 GMT</small>
+<small>⏰ Updated on Wed, 09 Apr 2025 13:52:12 GMT</small>
 </td>
 </tr>
 </tfoot>
