@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-intranet/commits/9cb84ff9f1530c5d4c43d76b80fad0053f26c83b" title="2025-04-09T16:37:30.000+02:00" target="_blank">9cb84ff9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-intranet" title="null">/wp-plugin-epfl-intranet</a></strong></div>
+          <pre>[chore] Remove (not so useful) logs
+
+And bump to version 1.3.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/b6a3c99b91604b10b5dbee89ca87b83a528e2a88" title="2025-04-08T17:37:06.000+02:00" target="_blank">b6a3c99b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ponsfrilus" title="My profile's README generator">/ponsfrilus</a></strong></div>
           <pre>[fix] Ubuntu and Node version
 
@@ -164,18 +171,11 @@ Fixes #6</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/b37f2e6cd9ff06a9f9c10709fbca92c1ca9125a5" title="2025-03-26T18:33:27.000+01:00" target="_blank">b37f2e6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[doc] Improved message after build</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/4f1ab73fb8c6c63c20dd6bc0ad0be688af465900" title="2025-03-26T16:18:04.000+01:00" target="_blank">4f1ab73f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] Remove the "Welcome to OpenResty!" page
-
-This fixes WPN-366</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 09 Apr 2025 13:52:12 GMT</small>
+<small>⏰ Updated on Thu, 10 Apr 2025 13:48:06 GMT</small>
 </td>
 </tr>
 </tfoot>
