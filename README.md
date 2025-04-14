@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank">discourse</a>&nbsp;<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank"><img src="https://img.shields.io/github/stars/discourse/discourse?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank">drawdb</a>&nbsp;<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank"><img src="https://img.shields.io/github/stars/drawdb-io/drawdb?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank">oslf</a>&nbsp;<a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/oslf?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/kz6fittycent/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kz6fittycent/terminal-parrot?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank">outlinewiki-exporter</a>&nbsp;<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/outlinewiki-exporter?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank">inngest</a>&nbsp;<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank"><img src="https://img.shields.io/github/stars/inngest/inngest?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/jmhobbs/terminal-parrot" title="null" target="_blank">terminal-parrot</a>&nbsp;<a href="https://github.com/jmhobbs/terminal-parrot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/jmhobbs/terminal-parrot?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank">btrfly-keyboard</a>&nbsp;<a href="https://github.com/SolidHal/btrfly-keyboard" title="small dactyl with the halves squished together" target="_blank"><img src="https://img.shields.io/github/stars/SolidHal/btrfly-keyboard?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,11 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/b01e3913f9eb29cdba524dd955005bff6833e9aa" title="2025-04-12T10:14:47.000+02:00" target="_blank">b01e3913</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] s/--/—/g and triple spaces</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-intranet/commits/9cb84ff9f1530c5d4c43d76b80fad0053f26c83b" title="2025-04-09T16:37:30.000+02:00" target="_blank">9cb84ff9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-intranet" title="null">/wp-plugin-epfl-intranet</a></strong></div>
           <pre>[chore] Remove (not so useful) logs
@@ -166,16 +171,11 @@ INC0707789 that raised the issue.</pre>
 
 Fixes #6</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/b37f2e6cd9ff06a9f9c10709fbca92c1ca9125a5" title="2025-03-26T18:33:27.000+01:00" target="_blank">b37f2e6c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[doc] Improved message after build</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 11 Apr 2025 13:47:36 GMT</small>
+<small>⏰ Updated on Mon, 14 Apr 2025 13:48:37 GMT</small>
 </td>
 </tr>
 </tfoot>
