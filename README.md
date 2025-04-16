@@ -103,6 +103,47 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c1872b0d5407195e9906ac13b7d676c82e324baf" title="2025-04-16T12:54:13.000+02:00" target="_blank">c1872b0d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[bump] Images to `2025-091`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/00a49c1b96677fb25fadbe4d559573a96b212369" title="2025-04-16T12:46:04.000+02:00" target="_blank">00a49c1b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] Install the `fr_FR` language pack
+
+At this point we are not sure why this has not be done sooner, but as we 
+looked for somthing to do before the lunch, here it is.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/016f7c6647e26ae9a13ed29c8db233fbd0ba38c9" title="2025-04-15T22:12:13.000+02:00" target="_blank">016f7c66</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] Apache Redirector's Loki dashboard</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8673ee5764bbfebb1dc023f10195cfe39a5009f6" title="2025-04-15T22:00:43.000+02:00" target="_blank">8673ee57</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] JSON log format</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/0e36b8861384bd77510fc79810172e0dd95d1bbb" title="2025-04-15T20:13:36.000+02:00" target="_blank">0e36b886</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] Optimize request processing</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/83622cb661f76322c30a044ee6f7d93df1ab3ab8" title="2025-04-15T16:44:17.000+02:00" target="_blank">83622cb6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[bump] Apache Redirector `2025-007`
+
+Which include the JSON logs
+(https://github.com/epfl-si/wp-ops/pull/670).</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c5e1c68a8b651735d9f0f8dc6f5bae97a59ee7d5" title="2025-04-15T15:34:29.000+02:00" target="_blank">c5e1c68a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] JSON log format</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/b01e3913f9eb29cdba524dd955005bff6833e9aa" title="2025-04-12T10:14:47.000+02:00" target="_blank">b01e3913</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[fix] s/--/—/g and triple spaces</pre>
         </td>
@@ -121,61 +162,11 @@ And bump to version 1.3.0</pre>
 - Bump Ubuntu from 20.04 to 24.04
 - Bump Node from 12 to 22</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/24ecc6b5d5c5adb939f3abddbcfbd63a24e21b90" title="2025-04-08T07:29:45.000+02:00" target="_blank">24ecc6b5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[bump] to version `2025-084`
-
-Wich is deployed on the production</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/f668f75a92b73a3506f5a65c20d1661dbdee3898" title="2025-04-07T22:52:15.000+02:00" target="_blank">f668f75a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Add some new metrics
-
-- status_count_gauge
-- local_status_count_gauge
-- boost_count_gauge
-- local_boost_count_gauge
-- favourite_count_gauge
-- local_favourite_count_gauge</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-intranet/commits/4f4fc7da5d52d1221679516920789908e9c8f01a" title="2025-04-07T16:43:30.000+02:00" target="_blank">4f4fc7da</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-intranet" title="null">/wp-plugin-epfl-intranet</a></strong></div>
-          <pre>[bump] to version 1.2.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-intranet/commits/9326b787b69f4e1de9ed6050d3f9c2dbe1480aee" title="2025-04-07T16:40:14.000+02:00" target="_blank">9326b787</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-intranet" title="null">/wp-plugin-epfl-intranet</a></strong></div>
-          <pre>[fix] Media with query string
-
-Whenever search for the corresponding path from the URL, one must remove
-the query string in order to actually find the file. See the incident
-INC0707789 that raised the issue.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/eaf8b742da24c6d15a13a78a5cfd930a61d64519" title="2025-04-07T07:01:46.000+02:00" target="_blank">eaf8b742</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[bump] to v3.4.7</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/8005f8771ff4999e457db957b06357cd058fed39" title="2025-03-28T06:32:35.000+01:00" target="_blank">8005f877</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[bump] to v3.4.6</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6a0717533d95fd6f3e44653d1b1b60d0c022bf5d" title="2025-03-28T06:23:54.000+01:00" target="_blank">6a071753</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Default value "ignore" for image_name_mismatch
-
-Fixes #6</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 15 Apr 2025 13:49:07 GMT</small>
+<small>⏰ Updated on Wed, 16 Apr 2025 13:48:14 GMT</small>
 </td>
 </tr>
 </tfoot>
