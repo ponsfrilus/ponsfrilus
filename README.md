@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank">apitable</a>&nbsp;<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank"><img src="https://img.shields.io/github/stars/apitable/apitable?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank">discourse</a>&nbsp;<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank"><img src="https://img.shields.io/github/stars/discourse/discourse?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank">drawdb</a>&nbsp;<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank"><img src="https://img.shields.io/github/stars/drawdb-io/drawdb?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank">Plume</a>&nbsp;<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank"><img src="https://img.shields.io/github/stars/Plume-org/Plume?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank">leantime</a>&nbsp;<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank"><img src="https://img.shields.io/github/stars/Leantime/leantime?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank">cloudnative-pg</a>&nbsp;<a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank"><img src="https://img.shields.io/github/stars/cloudnative-pg/cloudnative-pg?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank">note-mark</a>&nbsp;<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank"><img src="https://img.shields.io/github/stars/enchant97/note-mark?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank">wordpress-activitypub</a>&nbsp;<a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/wordpress-activitypub?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/anandbaburajan/samay" title="Find a time which works for everyone" target="_blank">samay</a>&nbsp;<a href="https://github.com/anandbaburajan/samay" title="Find a time which works for everyone" target="_blank"><img src="https://img.shields.io/github/stars/anandbaburajan/samay?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/eduardoagarcia/shef" title="Shef is a powerful CLI framework for cooking up dynamic shell recipes." target="_blank">shef</a>&nbsp;<a href="https://github.com/eduardoagarcia/shef" title="Shef is a powerful CLI framework for cooking up dynamic shell recipes." target="_blank"><img src="https://img.shields.io/github/stars/eduardoagarcia/shef?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank">keda</a>&nbsp;<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank"><img src="https://img.shields.io/github/stars/kedacore/keda?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/johngodley/redirection" title="Manage all your WordPress 301 redirects and monitor 404 errors" target="_blank">redirection</a>&nbsp;<a href="https://github.com/johngodley/redirection" title="Manage all your WordPress 301 redirects and monitor 404 errors" target="_blank"><img src="https://img.shields.io/github/stars/johngodley/redirection?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank">discourse</a>&nbsp;<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank"><img src="https://img.shields.io/github/stars/discourse/discourse?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank">drawdb</a>&nbsp;<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank"><img src="https://img.shields.io/github/stars/drawdb-io/drawdb?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank">Plume</a>&nbsp;<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank"><img src="https://img.shields.io/github/stars/Plume-org/Plume?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank">leantime</a>&nbsp;<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank"><img src="https://img.shields.io/github/stars/Leantime/leantime?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank">cloudnative-pg</a>&nbsp;<a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank"><img src="https://img.shields.io/github/stars/cloudnative-pg/cloudnative-pg?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank">note-mark</a>&nbsp;<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank"><img src="https://img.shields.io/github/stars/enchant97/note-mark?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank">wordpress-activitypub</a>&nbsp;<a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/wordpress-activitypub?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/anandbaburajan/samay" title="Find a time which works for everyone" target="_blank">samay</a>&nbsp;<a href="https://github.com/anandbaburajan/samay" title="Find a time which works for everyone" target="_blank"><img src="https://img.shields.io/github/stars/anandbaburajan/samay?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/eduardoagarcia/shef" title="Shef is a powerful CLI framework for cooking up dynamic shell recipes." target="_blank">shef</a>&nbsp;<a href="https://github.com/eduardoagarcia/shef" title="Shef is a powerful CLI framework for cooking up dynamic shell recipes." target="_blank"><img src="https://img.shields.io/github/stars/eduardoagarcia/shef?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank">oslf</a>&nbsp;<a href="https://github.com/epfl-fsd/oslf" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-fsd/oslf?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -166,7 +166,7 @@ And bump to version 1.3.0</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 16 Apr 2025 13:48:14 GMT</small>
+<small>⏰ Updated on Thu, 17 Apr 2025 13:47:04 GMT</small>
 </td>
 </tr>
 </tfoot>
