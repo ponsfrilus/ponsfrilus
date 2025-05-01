@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 15 years and 3 months.
+    <br />Apparently, I'm hanging around on GitHub since 15 years and 4 months.
     <br />You can reach me on mastodon <a href="https://mastodon.social/@ponsfrilus" rel="me">@mastodon.social@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -29,6 +29,40 @@
 <td colspan="2" align="center"><h4>My last starred repos</h4></td>
 </tr>
 <tr>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank">open-saas</a>&nbsp;<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank"><img src="https://img.shields.io/github/stars/wasp-lang/open-saas?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank">keybr.com</a>&nbsp;<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank"><img src="https://img.shields.io/github/stars/aradzie/keybr.com?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank">keda</a>&nbsp;<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank"><img src="https://img.shields.io/github/stars/kedacore/keda?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank">outlinewiki-exporter</a>&nbsp;<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/outlinewiki-exporter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank">inngest</a>&nbsp;<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank"><img src="https://img.shields.io/github/stars/inngest/inngest?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank">headlamp</a>&nbsp;<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes-sigs/headlamp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tw93/Pake" title="🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用" target="_blank">Pake</a>&nbsp;<a href="https://github.com/tw93/Pake" title="🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用" target="_blank"><img src="https://img.shields.io/github/stars/tw93/Pake?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/konvajs/konva" title="Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications." target="_blank">konva</a>&nbsp;<a href="https://github.com/konvajs/konva" title="Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications." target="_blank"><img src="https://img.shields.io/github/stars/konvajs/konva?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank">docs</a>&nbsp;<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/docs?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lukevella/rallly" title="Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier." target="_blank">rallly</a>&nbsp;<a href="https://github.com/lukevella/rallly" title="Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier." target="_blank"><img src="https://img.shields.io/github/stars/lukevella/rallly?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
 <td valign="top">
 <ul>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/anandbaburajan/samay" title="Find a time which works for everyone" target="_blank">samay</a>&nbsp;<a href="https://github.com/anandbaburajan/samay" title="Find a time which works for everyone" target="_blank"><img src="https://img.shields.io/github/stars/anandbaburajan/samay?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank">keybr.com</a>&nbsp;<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank"><img src="https://img.shields.io/github/stars/aradzie/keybr.com?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank">keda</a>&nbsp;<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank"><img src="https://img.shields.io/github/stars/kedacore/keda?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank">outlinewiki-exporter</a>&nbsp;<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/outlinewiki-exporter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank">inngest</a>&nbsp;<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank"><img src="https://img.shields.io/github/stars/inngest/inngest?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank">headlamp</a>&nbsp;<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes-sigs/headlamp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tw93/Pake" title="🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用" target="_blank">Pake</a>&nbsp;<a href="https://github.com/tw93/Pake" title="🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用" target="_blank"><img src="https://img.shields.io/github/stars/tw93/Pake?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/konvajs/konva" title="Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications." target="_blank">konva</a>&nbsp;<a href="https://github.com/konvajs/konva" title="Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications." target="_blank"><img src="https://img.shields.io/github/stars/konvajs/konva?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank">docs</a>&nbsp;<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/docs?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lukevella/rallly" title="Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier." target="_blank">rallly</a>&nbsp;<a href="https://github.com/lukevella/rallly" title="Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier." target="_blank"><img src="https://img.shields.io/github/stars/lukevella/rallly?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cydrobolt/polr" title=":aerial_tramway: A modern, powerful, and robust URL shortener" target="_blank">polr</a>&nbsp;<a href="https://github.com/cydrobolt/polr" title=":aerial_tramway: A modern, powerful, and robust URL shortener" target="_blank"><img src="https://img.shields.io/github/stars/cydrobolt/polr?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -166,7 +166,7 @@ And bump to version 1.3.0</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 30 Apr 2025 13:48:24 GMT</small>
+<small>⏰ Updated on Thu, 01 May 2025 13:47:18 GMT</small>
 </td>
 </tr>
 </tfoot>
