@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank">svg-spinners</a>&nbsp;<a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank"><img src="https://img.shields.io/github/stars/n3r4zzurr0/svg-spinners?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/slidevjs/slidev" title="Presentation Slides for Developers" target="_blank">slidev</a>&nbsp;<a href="https://github.com/slidevjs/slidev" title="Presentation Slides for Developers" target="_blank"><img src="https://img.shields.io/github/stars/slidevjs/slidev?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank">apitable</a>&nbsp;<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank"><img src="https://img.shields.io/github/stars/apitable/apitable?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank">discourse</a>&nbsp;<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank"><img src="https://img.shields.io/github/stars/discourse/discourse?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank">drawdb</a>&nbsp;<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank"><img src="https://img.shields.io/github/stars/drawdb-io/drawdb?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank">Plume</a>&nbsp;<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank"><img src="https://img.shields.io/github/stars/Plume-org/Plume?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank">leantime</a>&nbsp;<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank"><img src="https://img.shields.io/github/stars/Leantime/leantime?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank">cloudnative-pg</a>&nbsp;<a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank"><img src="https://img.shields.io/github/stars/cloudnative-pg/cloudnative-pg?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank">note-mark</a>&nbsp;<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank"><img src="https://img.shields.io/github/stars/enchant97/note-mark?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank">wordpress-activitypub</a>&nbsp;<a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/wordpress-activitypub?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank">open-saas</a>&nbsp;<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank"><img src="https://img.shields.io/github/stars/wasp-lang/open-saas?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/lukevella/rallly" title="Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier." target="_blank">rallly</a>&nbsp;<a href="https://github.com/lukevella/rallly" title="Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier." target="_blank"><img src="https://img.shields.io/github/stars/lukevella/rallly?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/slidevjs/slidev" title="Presentation Slides for Developers" target="_blank">slidev</a>&nbsp;<a href="https://github.com/slidevjs/slidev" title="Presentation Slides for Developers" target="_blank"><img src="https://img.shields.io/github/stars/slidevjs/slidev?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank">apitable</a>&nbsp;<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank"><img src="https://img.shields.io/github/stars/apitable/apitable?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank">discourse</a>&nbsp;<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank"><img src="https://img.shields.io/github/stars/discourse/discourse?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank">drawdb</a>&nbsp;<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank"><img src="https://img.shields.io/github/stars/drawdb-io/drawdb?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank">Plume</a>&nbsp;<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank"><img src="https://img.shields.io/github/stars/Plume-org/Plume?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank">leantime</a>&nbsp;<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank"><img src="https://img.shields.io/github/stars/Leantime/leantime?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank">cloudnative-pg</a>&nbsp;<a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank"><img src="https://img.shields.io/github/stars/cloudnative-pg/cloudnative-pg?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank">note-mark</a>&nbsp;<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank"><img src="https://img.shields.io/github/stars/enchant97/note-mark?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank">wordpress-activitypub</a>&nbsp;<a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/wordpress-activitypub?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/anandbaburajan/samay" title="Find a time which works for everyone" target="_blank">samay</a>&nbsp;<a href="https://github.com/anandbaburajan/samay" title="Find a time which works for everyone" target="_blank"><img src="https://img.shields.io/github/stars/anandbaburajan/samay?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -166,7 +166,7 @@ And bump to version 1.3.0</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 01 May 2025 13:47:18 GMT</small>
+<small>⏰ Updated on Fri, 02 May 2025 13:47:11 GMT</small>
 </td>
 </tr>
 </tfoot>
