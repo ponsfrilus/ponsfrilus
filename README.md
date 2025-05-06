@@ -103,70 +103,59 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c1872b0d5407195e9906ac13b7d676c82e324baf" title="2025-04-16T12:54:13.000+02:00" target="_blank">c1872b0d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[bump] Images to `2025-091`</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/e17696829763737c66cfb6899dda4075a430b388" title="2025-05-06T15:04:02.000+02:00" target="_blank">e1769682</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] Get latest tags from quay</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/00a49c1b96677fb25fadbe4d559573a96b212369" title="2025-04-16T12:46:04.000+02:00" target="_blank">00a49c1b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] Install the `fr_FR` language pack
-
-At this point we are not sure why this has not be done sooner, but as we 
-looked for somthing to do before the lunch, here it is.</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/b26a56921ae7690338813fe8450c5b4e98090fdf" title="2025-05-06T11:13:29.000+02:00" target="_blank">b26a5692</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[version] Bump to v3.5.0</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/016f7c6647e26ae9a13ed29c8db233fbd0ba38c9" title="2025-04-15T22:12:13.000+02:00" target="_blank">016f7c66</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] Apache Redirector's Loki dashboard</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/35f337347cae69666117ee99cb9d9c7a29dc543e" title="2025-05-06T11:13:01.000+02:00" target="_blank">35f33734</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] Delete Themes</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/8673ee5764bbfebb1dc023f10195cfe39a5009f6" title="2025-04-15T22:00:43.000+02:00" target="_blank">8673ee57</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] JSON log format</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/2662e9884abf13bf436f583ce5e4f86ef8f6e1c9" title="2025-05-05T19:21:34.000+02:00" target="_blank">2662e988</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[revert] `{{ tag }} ` variable dropped in 774fa01</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/0e36b8861384bd77510fc79810172e0dd95d1bbb" title="2025-04-15T20:13:36.000+02:00" target="_blank">0e36b886</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] Optimize request processing</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/771fce3cbb8446e60c08c6a89d58deaf97905edf" title="2025-05-05T19:11:18.000+02:00" target="_blank">771fce3c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[version] v3.4.0</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/83622cb661f76322c30a044ee6f7d93df1ab3ab8" title="2025-04-15T16:44:17.000+02:00" target="_blank">83622cb6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[bump] Apache Redirector `2025-007`
-
-Which include the JSON logs
-(https://github.com/epfl-si/wp-ops/pull/670).</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/2c8fe1a9232bf9363400b10e4398e1a929a47fe3" title="2025-05-05T19:03:59.000+02:00" target="_blank">2c8fe1a9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] Edit tags</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c5e1c68a8b651735d9f0f8dc6f5bae97a59ee7d5" title="2025-04-15T15:34:29.000+02:00" target="_blank">c5e1c68a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] JSON log format</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/e0c8fb873d7b6a26d9d17cf3e43d6f620ab54c84" title="2025-05-05T17:20:42.000+02:00" target="_blank">e0c8fb87</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[version] Bump to v3.3.0</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/b01e3913f9eb29cdba524dd955005bff6833e9aa" title="2025-04-12T10:14:47.000+02:00" target="_blank">b01e3913</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] s/--/—/g and triple spaces</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/d5d6ab8920280e54f596e7ef4e7b71575fd3e3a6" title="2025-05-05T17:11:48.000+02:00" target="_blank">d5d6ab89</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] App's name</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-intranet/commits/9cb84ff9f1530c5d4c43d76b80fad0053f26c83b" title="2025-04-09T16:37:30.000+02:00" target="_blank">9cb84ff9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-intranet" title="null">/wp-plugin-epfl-intranet</a></strong></div>
-          <pre>[chore] Remove (not so useful) logs
-
-And bump to version 1.3.0</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/328fc8fd190b1cea3ed43eb42a18eb1f96c60541" title="2025-05-05T17:00:57.000+02:00" target="_blank">328fc8fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] Container's `min-width`</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/ponsfrilus/commits/b6a3c99b91604b10b5dbee89ca87b83a528e2a88" title="2025-04-08T17:37:06.000+02:00" target="_blank">b6a3c99b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/ponsfrilus" title="My profile's README generator">/ponsfrilus</a></strong></div>
-          <pre>[fix] Ubuntu and Node version
-
-- Bump Ubuntu from 20.04 to 24.04
-- Bump Node from 12 to 22</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/3a8c8a5c27946b39903f6d5fb036c977d710f1fa" title="2025-05-05T15:54:59.000+02:00" target="_blank">3a8c8a5c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[feature] UX FTW!</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 05 May 2025 13:48:29 GMT</small>
+<small>⏰ Updated on Tue, 06 May 2025 13:50:16 GMT</small>
 </td>
 </tr>
 </tfoot>
