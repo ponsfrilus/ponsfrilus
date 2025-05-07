@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank">mijn-bureau</a>&nbsp;<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank"><img src="https://img.shields.io/github/stars/MinBZK/mijn-bureau?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank">open-saas</a>&nbsp;<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank"><img src="https://img.shields.io/github/stars/wasp-lang/open-saas?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank">keybr.com</a>&nbsp;<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank"><img src="https://img.shields.io/github/stars/aradzie/keybr.com?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank">keda</a>&nbsp;<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank"><img src="https://img.shields.io/github/stars/kedacore/keda?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank">outlinewiki-exporter</a>&nbsp;<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/outlinewiki-exporter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank">inngest</a>&nbsp;<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank"><img src="https://img.shields.io/github/stars/inngest/inngest?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank">headlamp</a>&nbsp;<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes-sigs/headlamp?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tw93/Pake" title="🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用" target="_blank">Pake</a>&nbsp;<a href="https://github.com/tw93/Pake" title="🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用" target="_blank"><img src="https://img.shields.io/github/stars/tw93/Pake?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/konvajs/konva" title="Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications." target="_blank">konva</a>&nbsp;<a href="https://github.com/konvajs/konva" title="Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications." target="_blank"><img src="https://img.shields.io/github/stars/konvajs/konva?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank">docs</a>&nbsp;<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/docs?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank">svg-spinners</a>&nbsp;<a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank"><img src="https://img.shields.io/github/stars/n3r4zzurr0/svg-spinners?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,26 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank">open-saas</a>&nbsp;<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank"><img src="https://img.shields.io/github/stars/wasp-lang/open-saas?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank">keybr.com</a>&nbsp;<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank"><img src="https://img.shields.io/github/stars/aradzie/keybr.com?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank">keda</a>&nbsp;<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank"><img src="https://img.shields.io/github/stars/kedacore/keda?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank">outlinewiki-exporter</a>&nbsp;<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/outlinewiki-exporter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank">inngest</a>&nbsp;<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank"><img src="https://img.shields.io/github/stars/inngest/inngest?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank">headlamp</a>&nbsp;<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes-sigs/headlamp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tw93/Pake" title="🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用" target="_blank">Pake</a>&nbsp;<a href="https://github.com/tw93/Pake" title="🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用" target="_blank"><img src="https://img.shields.io/github/stars/tw93/Pake?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/konvajs/konva" title="Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications." target="_blank">konva</a>&nbsp;<a href="https://github.com/konvajs/konva" title="Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications." target="_blank"><img src="https://img.shields.io/github/stars/konvajs/konva?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank">docs</a>&nbsp;<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/docs?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lukevella/rallly" title="Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier." target="_blank">rallly</a>&nbsp;<a href="https://github.com/lukevella/rallly" title="Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier." target="_blank"><img src="https://img.shields.io/github/stars/lukevella/rallly?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-translate/commits/5e3fcdebd329e3ce1417a407e6bf2867417ee348" title="2025-05-07T13:03:05.000+02:00" target="_blank">5e3fcdeb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-translate" title="Simple WordPress plugin to translate page with Google Translate">/wp-plugin-epfl-translate</a></strong></div>
+          <pre>[doc] README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-translate/commits/7959f435270f3d455b64c6ca0df7a0523955e78e" title="2025-05-07T13:02:52.000+02:00" target="_blank">7959f435</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-translate" title="Simple WordPress plugin to translate page with Google Translate">/wp-plugin-epfl-translate</a></strong></div>
+          <pre>[feature] Add action on EPFL Theme language filter</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/bf71f259bbacf19ff1698be9bdf991aa3469d782" title="2025-05-07T12:56:40.000+02:00" target="_blank">bf71f259</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
+          <pre>[feature] Add `EPFL_theme_after_language_switcher` hook</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/e17696829763737c66cfb6899dda4075a430b388" title="2025-05-06T15:04:02.000+02:00" target="_blank">e1769682</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[fix] Get latest tags from quay</pre>
@@ -136,26 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/e0c8fb873d7b6a26d9d17cf3e43d6f620ab54c84" title="2025-05-05T17:20:42.000+02:00" target="_blank">e0c8fb87</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[version] Bump to v3.3.0</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/d5d6ab8920280e54f596e7ef4e7b71575fd3e3a6" title="2025-05-05T17:11:48.000+02:00" target="_blank">d5d6ab89</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] App's name</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/328fc8fd190b1cea3ed43eb42a18eb1f96c60541" title="2025-05-05T17:00:57.000+02:00" target="_blank">328fc8fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] Container's `min-width`</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/3a8c8a5c27946b39903f6d5fb036c977d710f1fa" title="2025-05-05T15:54:59.000+02:00" target="_blank">3a8c8a5c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] UX FTW!</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 06 May 2025 13:50:16 GMT</small>
+<small>⏰ Updated on Wed, 07 May 2025 13:51:09 GMT</small>
 </td>
 </tr>
 </tfoot>
