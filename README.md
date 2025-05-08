@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank">rybbit</a>&nbsp;<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank"><img src="https://img.shields.io/github/stars/rybbit-io/rybbit?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank">mijn-bureau</a>&nbsp;<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank"><img src="https://img.shields.io/github/stars/MinBZK/mijn-bureau?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/konvajs/konva" title="Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications." target="_blank">konva</a>&nbsp;<a href="https://github.com/konvajs/konva" title="Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications." target="_blank"><img src="https://img.shields.io/github/stars/konvajs/konva?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank">docs</a>&nbsp;<a href="https://github.com/suitenumerique/docs" title="A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/docs?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/TerryCavanagh/VVVVVV" title="The source code to VVVVVV! http://thelettervsixtim.es/" target="_blank">VVVVVV</a>&nbsp;<a href="https://github.com/TerryCavanagh/VVVVVV" title="The source code to VVVVVV! http://thelettervsixtim.es/" target="_blank"><img src="https://img.shields.io/github/stars/TerryCavanagh/VVVVVV?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank">svg-spinners</a>&nbsp;<a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank"><img src="https://img.shields.io/github/stars/n3r4zzurr0/svg-spinners?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank">note-mark</a>&nbsp;<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank"><img src="https://img.shields.io/github/stars/enchant97/note-mark?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank">wordpress-activitypub</a>&nbsp;<a href="https://github.com/Automattic/wordpress-activitypub" title="ActivityPub for WordPress" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/wordpress-activitypub?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,13 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/2ae4e4f6d901c0a8bd15cb4069e20fe1b201d21a" title="2025-05-08T15:28:50.000+02:00" target="_blank">2ae4e4f6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[feature] `make up`
+
+Just getting tired to run `make up` in this project and nothing happend.</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-translate/commits/5e3fcdebd329e3ce1417a407e6bf2867417ee348" title="2025-05-07T13:03:05.000+02:00" target="_blank">5e3fcdeb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-translate" title="Simple WordPress plugin to translate page with Google Translate">/wp-plugin-epfl-translate</a></strong></div>
           <pre>[doc] README.md</pre>
@@ -146,16 +153,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/2c8fe1a9232bf9363400b10e4398e1a929a47fe3" title="2025-05-05T19:03:59.000+02:00" target="_blank">2c8fe1a9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[fix] Edit tags</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/e0c8fb873d7b6a26d9d17cf3e43d6f620ab54c84" title="2025-05-05T17:20:42.000+02:00" target="_blank">e0c8fb87</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[version] Bump to v3.3.0</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 07 May 2025 13:51:09 GMT</small>
+<small>⏰ Updated on Thu, 08 May 2025 13:45:46 GMT</small>
 </td>
 </tr>
 </tfoot>
