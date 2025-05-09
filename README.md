@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/outline/outline" title="The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible." target="_blank">outline</a>&nbsp;<a href="https://github.com/outline/outline" title="The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible." target="_blank"><img src="https://img.shields.io/github/stars/outline/outline?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TerryCavanagh/VVVVVV" title="The source code to VVVVVV! http://thelettervsixtim.es/" target="_blank">VVVVVV</a>&nbsp;<a href="https://github.com/TerryCavanagh/VVVVVV" title="The source code to VVVVVV! http://thelettervsixtim.es/" target="_blank"><img src="https://img.shields.io/github/stars/TerryCavanagh/VVVVVV?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank">svg-spinners</a>&nbsp;<a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank"><img src="https://img.shields.io/github/stars/n3r4zzurr0/svg-spinners?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/slidevjs/slidev" title="Presentation Slides for Developers" target="_blank">slidev</a>&nbsp;<a href="https://github.com/slidevjs/slidev" title="Presentation Slides for Developers" target="_blank"><img src="https://img.shields.io/github/stars/slidevjs/slidev?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank">apitable</a>&nbsp;<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank"><img src="https://img.shields.io/github/stars/apitable/apitable?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank">discourse</a>&nbsp;<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank"><img src="https://img.shields.io/github/stars/discourse/discourse?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank">drawdb</a>&nbsp;<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank"><img src="https://img.shields.io/github/stars/drawdb-io/drawdb?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank">Plume</a>&nbsp;<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank"><img src="https://img.shields.io/github/stars/Plume-org/Plume?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank">leantime</a>&nbsp;<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank"><img src="https://img.shields.io/github/stars/Leantime/leantime?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank">cloudnative-pg</a>&nbsp;<a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank"><img src="https://img.shields.io/github/stars/cloudnative-pg/cloudnative-pg?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank">rybbit</a>&nbsp;<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank"><img src="https://img.shields.io/github/stars/rybbit-io/rybbit?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,47 +97,50 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/TerryCavanagh/VVVVVV" title="The source code to VVVVVV! http://thelettervsixtim.es/" target="_blank">VVVVVV</a>&nbsp;<a href="https://github.com/TerryCavanagh/VVVVVV" title="The source code to VVVVVV! http://thelettervsixtim.es/" target="_blank"><img src="https://img.shields.io/github/stars/TerryCavanagh/VVVVVV?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank">svg-spinners</a>&nbsp;<a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank"><img src="https://img.shields.io/github/stars/n3r4zzurr0/svg-spinners?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/slidevjs/slidev" title="Presentation Slides for Developers" target="_blank">slidev</a>&nbsp;<a href="https://github.com/slidevjs/slidev" title="Presentation Slides for Developers" target="_blank"><img src="https://img.shields.io/github/stars/slidevjs/slidev?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank">apitable</a>&nbsp;<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank"><img src="https://img.shields.io/github/stars/apitable/apitable?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank">discourse</a>&nbsp;<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank"><img src="https://img.shields.io/github/stars/discourse/discourse?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank">drawdb</a>&nbsp;<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank"><img src="https://img.shields.io/github/stars/drawdb-io/drawdb?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank">Plume</a>&nbsp;<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank"><img src="https://img.shields.io/github/stars/Plume-org/Plume?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank">leantime</a>&nbsp;<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank"><img src="https://img.shields.io/github/stars/Leantime/leantime?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank">cloudnative-pg</a>&nbsp;<a href="https://github.com/cloudnative-pg/cloudnative-pg" title="CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance" target="_blank"><img src="https://img.shields.io/github/stars/cloudnative-pg/cloudnative-pg?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank">note-mark</a>&nbsp;<a href="https://github.com/enchant97/note-mark" title="Note Mark is a lighting fast and minimal; web-based Markdown notes app." target="_blank"><img src="https://img.shields.io/github/stars/enchant97/note-mark?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/2ae4e4f6d901c0a8bd15cb4069e20fe1b201d21a" title="2025-05-08T15:28:50.000+02:00" target="_blank">2ae4e4f6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/32f884fc1b31a7cc0e13ae4e8e34592cc0c60123" title="2025-05-09T15:32:24.000+02:00" target="_blank">32f884fc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[version] Bump to v3.11.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/ec0183c6573d37184b17f39c8baad78274d8fe8a" title="2025-05-09T15:30:07.000+02:00" target="_blank">ec0183c6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[update] Meteor to v3.2.2</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/446b915de8bc45a0ab4762a8750dfabbc8acba8f" title="2025-05-09T15:25:43.000+02:00" target="_blank">446b915d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[update] "@babel/runtime" to 7.27.1</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/20b739281cb8003457baaa188b150e630eb1173f" title="2025-05-09T14:35:24.000+02:00" target="_blank">20b73928</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[version] Bump to v3.10.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/0652d3d64beb091e65727924696cc5232e9c3c79" title="2025-05-09T14:22:42.000+02:00" target="_blank">0652d3d6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] Don't publish comments in the API</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Awesome-TPI/commits/fd63df79af2703572e4cab3e459602c49f6a488b" title="2025-05-09T11:39:04.000+02:00" target="_blank">fd63df79</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Awesome-TPI" title="Dépôt regroupant des ressources utiles aux apprentis, chefs de projet et experts pour les taravaux pratiques individuels (TPI) de fin d'apprentissage des informaticien·ne·s CFC.">/Awesome-TPI</a></strong></div>
+          <pre>[update] Mail-chef-de-projet.md
+
+Add a new "2021" formulation that refers to EP-1 and EP-10</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/c659f5c4091991d3e58f5c047b4411eeaade8875" title="2025-05-08T15:54:35.000+02:00" target="_blank">c659f5c4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[feature] Better CSV filename</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/79e4136f87087e6359fdf13a18fb8b41a644115f" title="2025-05-08T15:28:50.000+02:00" target="_blank">79e4136f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[feature] `make up`
 
 Just getting tired to run `make up` in this project and nothing happend.</pre>
@@ -118,46 +155,11 @@ Just getting tired to run `make up` in this project and nothing happend.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-translate/commits/7959f435270f3d455b64c6ca0df7a0523955e78e" title="2025-05-07T13:02:52.000+02:00" target="_blank">7959f435</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-translate" title="Simple WordPress plugin to translate page with Google Translate">/wp-plugin-epfl-translate</a></strong></div>
           <pre>[feature] Add action on EPFL Theme language filter</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/bf71f259bbacf19ff1698be9bdf991aa3469d782" title="2025-05-07T12:56:40.000+02:00" target="_blank">bf71f259</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
-          <pre>[feature] Add `EPFL_theme_after_language_switcher` hook</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/e17696829763737c66cfb6899dda4075a430b388" title="2025-05-06T15:04:02.000+02:00" target="_blank">e1769682</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] Get latest tags from quay</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/b26a56921ae7690338813fe8450c5b4e98090fdf" title="2025-05-06T11:13:29.000+02:00" target="_blank">b26a5692</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[version] Bump to v3.5.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/35f337347cae69666117ee99cb9d9c7a29dc543e" title="2025-05-06T11:13:01.000+02:00" target="_blank">35f33734</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] Delete Themes</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/2662e9884abf13bf436f583ce5e4f86ef8f6e1c9" title="2025-05-05T19:21:34.000+02:00" target="_blank">2662e988</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[revert] `{{ tag }} ` variable dropped in 774fa01</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/771fce3cbb8446e60c08c6a89d58deaf97905edf" title="2025-05-05T19:11:18.000+02:00" target="_blank">771fce3c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[version] v3.4.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/2c8fe1a9232bf9363400b10e4398e1a929a47fe3" title="2025-05-05T19:03:59.000+02:00" target="_blank">2c8fe1a9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] Edit tags</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 08 May 2025 13:45:46 GMT</small>
+<small>⏰ Updated on Fri, 09 May 2025 13:48:16 GMT</small>
 </td>
 </tr>
 </tfoot>
