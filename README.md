@@ -103,6 +103,31 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/bc35046a42e29ce37d7217a8555c09fb7269ac3b" title="2025-05-13T11:07:18.000+02:00" target="_blank">bc35046a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[version] Bump to v3.14.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/d9c5180eda0c155a4dffae1a4f1f673c96b52e43" title="2025-05-13T11:06:02.000+02:00" target="_blank">d9c5180e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] Subscribe to k8ssites</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/5045c658a95f07fce3ee0802d6c02aa43cba99ae" title="2025-05-13T10:54:12.000+02:00" target="_blank">5045c658</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[version] Bump to v3.13.1</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/414336bb50238e92430d4c9f43cc177dc894d26b" title="2025-05-13T10:53:25.000+02:00" target="_blank">414336bb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] `/Search`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/b6480baa343e0ceff8c517dad069da28305741c2" title="2025-05-13T10:52:24.000+02:00" target="_blank">b6480baa</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] No more `WpInfra`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/8df942aec671b79659fb4cd57e1d7f57a94fe5a2" title="2025-05-09T19:20:07.000+02:00" target="_blank">8df942ae</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[fix] UI for Actions</pre>
         </td>
@@ -129,39 +154,11 @@
 If an URL is specified as a query param the the `/search`route, then the 
 form will be autofilled.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/9aec8b972d952a54176d4d427c26450bebf12739" title="2025-05-09T18:11:25.000+02:00" target="_blank">9aec8b97</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] Add non-breaking spaces</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/6f55a4f3ef8acf009974554e4c394c6023ce1b10" title="2025-05-09T17:56:41.000+02:00" target="_blank">6f55a4f3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[version] Bump to v3.12.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/b3da27e5e2a9d5cf52ff4ca74caa7ab609ebeab4" title="2025-05-09T17:50:50.000+02:00" target="_blank">b3da27e5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] Homogenise the `/search` page</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/9485743751d7894ac6d45989fe49aa0c5db2328f" title="2025-05-09T17:26:21.000+02:00" target="_blank">94857437</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] Navigation menu
-
-- Increase size of Lucide's Icon
-- Center with a `d-flex align-items-center` class in the parent element.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/3bbd645d7d6ad319e93c013c4f498ed5cb563c17" title="2025-05-09T16:39:35.000+02:00" target="_blank">3bbd645d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] New navigation menu</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 12 May 2025 13:49:32 GMT</small>
+<small>⏰ Updated on Tue, 13 May 2025 13:51:36 GMT</small>
 </td>
 </tr>
 </tfoot>
