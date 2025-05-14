@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank">firefox</a>&nbsp;<a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank"><img src="https://img.shields.io/github/stars/mozilla-firefox/firefox?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank">Seal</a>&nbsp;<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank"><img src="https://img.shields.io/github/stars/JunkFood02/Seal?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank">rybbit</a>&nbsp;<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank"><img src="https://img.shields.io/github/stars/rybbit-io/rybbit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank">mijn-bureau</a>&nbsp;<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank"><img src="https://img.shields.io/github/stars/MinBZK/mijn-bureau?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank">open-saas</a>&nbsp;<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank"><img src="https://img.shields.io/github/stars/wasp-lang/open-saas?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank">keybr.com</a>&nbsp;<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank"><img src="https://img.shields.io/github/stars/aradzie/keybr.com?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank">keda</a>&nbsp;<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank"><img src="https://img.shields.io/github/stars/kedacore/keda?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank">outlinewiki-exporter</a>&nbsp;<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/outlinewiki-exporter?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank">inngest</a>&nbsp;<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank"><img src="https://img.shields.io/github/stars/inngest/inngest?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank">headlamp</a>&nbsp;<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes-sigs/headlamp?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community‑maintained n8n node for Mastodon—seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank">n8n-nodes-the-mastodon</a>&nbsp;<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community‑maintained n8n node for Mastodon—seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank"><img src="https://img.shields.io/github/stars/redoracle/n8n-nodes-the-mastodon?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,37 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank">Seal</a>&nbsp;<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank"><img src="https://img.shields.io/github/stars/JunkFood02/Seal?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank">rybbit</a>&nbsp;<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank"><img src="https://img.shields.io/github/stars/rybbit-io/rybbit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank">mijn-bureau</a>&nbsp;<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank"><img src="https://img.shields.io/github/stars/MinBZK/mijn-bureau?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank">open-saas</a>&nbsp;<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank"><img src="https://img.shields.io/github/stars/wasp-lang/open-saas?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank">keybr.com</a>&nbsp;<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank"><img src="https://img.shields.io/github/stars/aradzie/keybr.com?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank">keda</a>&nbsp;<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank"><img src="https://img.shields.io/github/stars/kedacore/keda?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank">outlinewiki-exporter</a>&nbsp;<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/outlinewiki-exporter?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank">inngest</a>&nbsp;<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank"><img src="https://img.shields.io/github/stars/inngest/inngest?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank">headlamp</a>&nbsp;<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes-sigs/headlamp?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tw93/Pake" title="🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用" target="_blank">Pake</a>&nbsp;<a href="https://github.com/tw93/Pake" title="🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用" target="_blank"><img src="https://img.shields.io/github/stars/tw93/Pake?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/75e67843a06a83a6fbd04a04fe5a8c27d09a4fc5" title="2025-05-14T15:40:20.000+02:00" target="_blank">75e67843</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[feature] Better `lastPageModified` message</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/97dca9ce0ba5fe78f5cbec131f644fbdd6ec1e92" title="2025-05-14T14:39:58.000+02:00" target="_blank">97dca9ce</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[feature] Add count of Sites
+
+This displays the number of results in the homepage's list.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/42bf1b7e385092413606635faa4cca9b79a1ea85" title="2025-05-13T11:39:45.000+02:00" target="_blank">42bf1b7e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] More explicit "Last edited" message
+
+On the `/search` page, one query the last modification date of the page
+under the current URL, not the website under the current URL nor the
+last edited page. This has been confusing for some of us.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/371fb0a39927c6496cab97fa8d7a204a7c54fa45" title="2025-05-13T11:38:09.000+02:00" target="_blank">371fb0a3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] Hide the "Add new" menu to non-editor or non-admin</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/bc35046a42e29ce37d7217a8555c09fb7269ac3b" title="2025-05-13T11:07:18.000+02:00" target="_blank">bc35046a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[version] Bump to v3.14.0</pre>
@@ -131,34 +157,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/8df942aec671b79659fb4cd57e1d7f57a94fe5a2" title="2025-05-09T19:20:07.000+02:00" target="_blank">8df942ae</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[fix] UI for Actions</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/ce4bbfc0ca86d16be43d4efa2b9371c4b545445d" title="2025-05-09T19:06:05.000+02:00" target="_blank">ce4bbfc0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[version] Bump to v3.13.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/1e568ad26ed0733bfa292f947f2060e894b69332" title="2025-05-09T19:05:34.000+02:00" target="_blank">1e568ad2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] Add a shortcut to the `/search` route</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/6f4ba853beea9935cd1b56d94b4510ed92667192" title="2025-05-09T19:05:05.000+02:00" target="_blank">6f4ba853</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] Ensure to push the navigation history</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/5512f7f25c59d48f19f173b73b0b8cf689c63797" title="2025-05-09T19:04:39.000+02:00" target="_blank">5512f7f2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] Get WP info by URL
-
-If an URL is specified as a query param the the `/search`route, then the 
-form will be autofilled.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 13 May 2025 13:51:36 GMT</small>
+<small>⏰ Updated on Wed, 14 May 2025 13:49:36 GMT</small>
 </td>
 </tr>
 </tfoot>
