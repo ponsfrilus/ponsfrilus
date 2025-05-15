@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/106d29b6b5eab4e591dec6d458a7447d700d21be" title="2025-05-15T14:48:37.000+02:00" target="_blank">106d29b6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[fix] https://luc.com should work</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/75e67843a06a83a6fbd04a04fe5a8c27d09a4fc5" title="2025-05-14T15:40:20.000+02:00" target="_blank">75e67843</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[feature] Better `lastPageModified` message</pre>
         </td>
@@ -152,16 +157,11 @@ last edited page. This has been confusing for some of us.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/b6480baa343e0ceff8c517dad069da28305741c2" title="2025-05-13T10:52:24.000+02:00" target="_blank">b6480baa</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[fix] No more `WpInfra`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/8df942aec671b79659fb4cd57e1d7f57a94fe5a2" title="2025-05-09T19:20:07.000+02:00" target="_blank">8df942ae</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] UI for Actions</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 14 May 2025 13:49:36 GMT</small>
+<small>⏰ Updated on Thu, 15 May 2025 13:49:42 GMT</small>
 </td>
 </tr>
 </tfoot>
