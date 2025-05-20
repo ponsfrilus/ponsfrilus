@@ -66,7 +66,7 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community‑maintained n8n node for Mastodon—seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank">n8n-nodes-the-mastodon</a>&nbsp;<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community‑maintained n8n node for Mastodon—seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank"><img src="https://img.shields.io/github/stars/redoracle/n8n-nodes-the-mastodon?style=social" alt="GitHub"></a>
+<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community maintained n8n node for Mastodon, seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank">n8n-nodes-the-mastodon</a>&nbsp;<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community maintained n8n node for Mastodon, seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank"><img src="https://img.shields.io/github/stars/redoracle/n8n-nodes-the-mastodon?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/outline/outline" title="The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible." target="_blank">outline</a>&nbsp;<a href="https://github.com/outline/outline" title="The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible." target="_blank"><img src="https://img.shields.io/github/stars/outline/outline?style=social" alt="GitHub"></a>
@@ -161,7 +161,7 @@ last edited page. This has been confusing for some of us.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 19 May 2025 13:51:03 GMT</small>
+<small>⏰ Updated on Tue, 20 May 2025 13:51:09 GMT</small>
 </td>
 </tr>
 </tfoot>
