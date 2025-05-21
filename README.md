@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank">jellyfin-plugin-sso</a>&nbsp;<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank"><img src="https://img.shields.io/github/stars/9p4/jellyfin-plugin-sso?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank">firefox</a>&nbsp;<a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank"><img src="https://img.shields.io/github/stars/mozilla-firefox/firefox?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank">inngest</a>&nbsp;<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank"><img src="https://img.shields.io/github/stars/inngest/inngest?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank">headlamp</a>&nbsp;<a href="https://github.com/kubernetes-sigs/headlamp" title="A Kubernetes web UI that is fully-featured, user-friendly and extensible" target="_blank"><img src="https://img.shields.io/github/stars/kubernetes-sigs/headlamp?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank">streamyfin</a>&nbsp;<a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank"><img src="https://img.shields.io/github/stars/streamyfin/streamyfin?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community maintained n8n node for Mastodon, seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank">n8n-nodes-the-mastodon</a>&nbsp;<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community maintained n8n node for Mastodon, seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank"><img src="https://img.shields.io/github/stars/redoracle/n8n-nodes-the-mastodon?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank">Plume</a>&nbsp;<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank"><img src="https://img.shields.io/github/stars/Plume-org/Plume?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank">leantime</a>&nbsp;<a href="https://github.com/Leantime/leantime" title="Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind." target="_blank"><img src="https://img.shields.io/github/stars/Leantime/leantime?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,15 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/dd7d5a3474153b80c2c22ab04be8a7ff3bd23815" title="2025-05-20T11:30:12.000+02:00" target="_blank">dd7d5a34</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[feature] Add the LAMP type
+
+This is based on the `Type.schema` attribute, meaning this is the same 
+logic than a site using the `external` schema within showing the `LAMP` 
+type.</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/6f994646dc9cf0812b95b324e708417574d6adf7" title="2025-05-16T16:38:12.000+02:00" target="_blank">6f994646</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[version] Bump to v3.17.1</pre>
@@ -120,6 +129,14 @@
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/ea185fe449c14b6eed3a112ef4decae0dbffa5f2" title="2025-05-16T15:41:26.000+02:00" target="_blank">ea185fe4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[fix](INC0716591) Add link to unit in `/search`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/6dc7dc77d9a9cfbd7deab8557eaa7cd8a84f2b40" title="2025-05-16T14:24:53.000+02:00" target="_blank">6dc7dc77</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[feature] More `wp_options`
+
+This add EPFL specific plugins' option, such as for `wp-media-folder`,
+`WPForms`, `EPFLComingSoon`, `EPFLRestauration`, etc...</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -147,21 +164,11 @@ On the `/search` page, one query the last modification date of the page
 under the current URL, not the website under the current URL nor the
 last edited page. This has been confusing for some of us.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/371fb0a39927c6496cab97fa8d7a204a7c54fa45" title="2025-05-13T11:38:09.000+02:00" target="_blank">371fb0a3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] Hide the "Add new" menu to non-editor or non-admin</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/bc35046a42e29ce37d7217a8555c09fb7269ac3b" title="2025-05-13T11:07:18.000+02:00" target="_blank">bc35046a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[version] Bump to v3.14.0</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 20 May 2025 13:51:09 GMT</small>
+<small>⏰ Updated on Wed, 21 May 2025 13:50:34 GMT</small>
 </td>
 </tr>
 </tfoot>
