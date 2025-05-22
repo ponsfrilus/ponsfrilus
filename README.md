@@ -103,6 +103,14 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/5f029095253e552ca320fb3b44bf74f6211c7601" title="2025-05-22T11:56:46.000+02:00" target="_blank">5f029095</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] Visualisation using `wp_page_count`
+
+New in the WPN dashboard, new visualisation on language, posts and 
+pages.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/dd7d5a3474153b80c2c22ab04be8a7ff3bd23815" title="2025-05-20T11:30:12.000+02:00" target="_blank">dd7d5a34</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[feature] Add the LAMP type
 
@@ -155,20 +163,11 @@ This add EPFL specific plugins' option, such as for `wp-media-folder`,
 
 This displays the number of results in the homepage's list.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/42bf1b7e385092413606635faa4cca9b79a1ea85" title="2025-05-13T11:39:45.000+02:00" target="_blank">42bf1b7e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] More explicit "Last edited" message
-
-On the `/search` page, one query the last modification date of the page
-under the current URL, not the website under the current URL nor the
-last edited page. This has been confusing for some of us.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 21 May 2025 13:50:34 GMT</small>
+<small>⏰ Updated on Thu, 22 May 2025 13:50:50 GMT</small>
 </td>
 </tr>
 </tfoot>
