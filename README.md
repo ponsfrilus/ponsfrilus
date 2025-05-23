@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/henrygd/beszel" title="Lightweight server monitoring hub with historical data, docker stats, and alerts." target="_blank">beszel</a>&nbsp;<a href="https://github.com/henrygd/beszel" title="Lightweight server monitoring hub with historical data, docker stats, and alerts." target="_blank"><img src="https://img.shields.io/github/stars/henrygd/beszel?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank">streamyfin</a>&nbsp;<a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank"><img src="https://img.shields.io/github/stars/streamyfin/streamyfin?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community maintained n8n node for Mastodon, seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank">n8n-nodes-the-mastodon</a>&nbsp;<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community maintained n8n node for Mastodon, seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank"><img src="https://img.shields.io/github/stars/redoracle/n8n-nodes-the-mastodon?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/outline/outline" title="The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible." target="_blank">outline</a>&nbsp;<a href="https://github.com/outline/outline" title="The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible." target="_blank"><img src="https://img.shields.io/github/stars/outline/outline?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TerryCavanagh/VVVVVV" title="The source code to VVVVVV! http://thelettervsixtim.es/" target="_blank">VVVVVV</a>&nbsp;<a href="https://github.com/TerryCavanagh/VVVVVV" title="The source code to VVVVVV! http://thelettervsixtim.es/" target="_blank"><img src="https://img.shields.io/github/stars/TerryCavanagh/VVVVVV?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank">svg-spinners</a>&nbsp;<a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank"><img src="https://img.shields.io/github/stars/n3r4zzurr0/svg-spinners?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/slidevjs/slidev" title="Presentation Slides for Developers" target="_blank">slidev</a>&nbsp;<a href="https://github.com/slidevjs/slidev" title="Presentation Slides for Developers" target="_blank"><img src="https://img.shields.io/github/stars/slidevjs/slidev?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank">apitable</a>&nbsp;<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank"><img src="https://img.shields.io/github/stars/apitable/apitable?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank">discourse</a>&nbsp;<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank"><img src="https://img.shields.io/github/stars/discourse/discourse?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank">drawdb</a>&nbsp;<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank"><img src="https://img.shields.io/github/stars/drawdb-io/drawdb?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank">jellyfin-plugin-sso</a>&nbsp;<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank"><img src="https://img.shields.io/github/stars/9p4/jellyfin-plugin-sso?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank">inngest</a>&nbsp;<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank"><img src="https://img.shields.io/github/stars/inngest/inngest?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank">streamyfin</a>&nbsp;<a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank"><img src="https://img.shields.io/github/stars/streamyfin/streamyfin?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community maintained n8n node for Mastodon, seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank">n8n-nodes-the-mastodon</a>&nbsp;<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community maintained n8n node for Mastodon, seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank"><img src="https://img.shields.io/github/stars/redoracle/n8n-nodes-the-mastodon?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/outline/outline" title="The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible." target="_blank">outline</a>&nbsp;<a href="https://github.com/outline/outline" title="The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible." target="_blank"><img src="https://img.shields.io/github/stars/outline/outline?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TerryCavanagh/VVVVVV" title="The source code to VVVVVV! http://thelettervsixtim.es/" target="_blank">VVVVVV</a>&nbsp;<a href="https://github.com/TerryCavanagh/VVVVVV" title="The source code to VVVVVV! http://thelettervsixtim.es/" target="_blank"><img src="https://img.shields.io/github/stars/TerryCavanagh/VVVVVV?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank">svg-spinners</a>&nbsp;<a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank"><img src="https://img.shields.io/github/stars/n3r4zzurr0/svg-spinners?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/slidevjs/slidev" title="Presentation Slides for Developers" target="_blank">slidev</a>&nbsp;<a href="https://github.com/slidevjs/slidev" title="Presentation Slides for Developers" target="_blank"><img src="https://img.shields.io/github/stars/slidevjs/slidev?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank">apitable</a>&nbsp;<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank"><img src="https://img.shields.io/github/stars/apitable/apitable?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank">discourse</a>&nbsp;<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank"><img src="https://img.shields.io/github/stars/discourse/discourse?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank">drawdb</a>&nbsp;<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank"><img src="https://img.shields.io/github/stars/drawdb-io/drawdb?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank">Plume</a>&nbsp;<a href="https://github.com/Plume-org/Plume" title="Federated blogging application, thanks to ActivityPub (now on https://git.joinplu.me/ — this is just a mirror)" target="_blank"><img src="https://img.shields.io/github/stars/Plume-org/Plume?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -167,7 +167,7 @@ This displays the number of results in the homepage's list.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 22 May 2025 13:50:50 GMT</small>
+<small>⏰ Updated on Fri, 23 May 2025 13:48:39 GMT</small>
 </td>
 </tr>
 </tfoot>
