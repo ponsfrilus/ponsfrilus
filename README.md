@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/iib0011/omni-tools" title="Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!" target="_blank">omni-tools</a>&nbsp;<a href="https://github.com/iib0011/omni-tools" title="Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!" target="_blank"><img src="https://img.shields.io/github/stars/iib0011/omni-tools?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/henrygd/beszel" title="Lightweight server monitoring hub with historical data, docker stats, and alerts." target="_blank">beszel</a>&nbsp;<a href="https://github.com/henrygd/beszel" title="Lightweight server monitoring hub with historical data, docker stats, and alerts." target="_blank"><img src="https://img.shields.io/github/stars/henrygd/beszel?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank">discourse</a>&nbsp;<a href="https://github.com/discourse/discourse" title="A platform for community discussion. Free, open, simple." target="_blank"><img src="https://img.shields.io/github/stars/discourse/discourse?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank">drawdb</a>&nbsp;<a href="https://github.com/drawdb-io/drawdb" title="Free, simple, and intuitive online database diagram editor and SQL generator." target="_blank"><img src="https://img.shields.io/github/stars/drawdb-io/drawdb?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/giantpinkrobots/varia" title="Download manager that supports regular downloads, torrents and videos" target="_blank">varia</a>&nbsp;<a href="https://github.com/giantpinkrobots/varia" title="Download manager that supports regular downloads, torrents and videos" target="_blank"><img src="https://img.shields.io/github/stars/giantpinkrobots/varia?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank">jellyfin-plugin-sso</a>&nbsp;<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank"><img src="https://img.shields.io/github/stars/9p4/jellyfin-plugin-sso?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank">outlinewiki-exporter</a>&nbsp;<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/outlinewiki-exporter?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank">inngest</a>&nbsp;<a href="https://github.com/inngest/inngest" title="The leading workflow orchestration platform.  Run stateful step functions and AI workflows on serverless, servers, or the edge." target="_blank"><img src="https://img.shields.io/github/stars/inngest/inngest?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,19 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/86c0f22c0eb5165afbda2a3369d8190a9532bf6b" title="2025-05-26T09:55:51.000+02:00" target="_blank">86c0f22c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[monotoring] Grafana's dashboard
+
+It's deployed (manually) on our NOC for now, but at least we have the 
+source here.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/47cf769b8bc9a51264c29a2a1eeb5dbd01eb4cd9" title="2025-05-26T09:54:19.000+02:00" target="_blank">47cf769b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[doc] Add usage</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/5f029095253e552ca320fb3b44bf74f6211c7601" title="2025-05-22T11:56:46.000+02:00" target="_blank">5f029095</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[feature] Visualisation using `wp_page_count`
@@ -151,23 +164,11 @@ This add EPFL specific plugins' option, such as for `wp-media-folder`,
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/106d29b6b5eab4e591dec6d458a7447d700d21be" title="2025-05-15T14:48:37.000+02:00" target="_blank">106d29b6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[fix] https://luc.com should work</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/75e67843a06a83a6fbd04a04fe5a8c27d09a4fc5" title="2025-05-14T15:40:20.000+02:00" target="_blank">75e67843</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] Better `lastPageModified` message</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/97dca9ce0ba5fe78f5cbec131f644fbdd6ec1e92" title="2025-05-14T14:39:58.000+02:00" target="_blank">97dca9ce</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] Add count of Sites
-
-This displays the number of results in the homepage's list.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 23 May 2025 13:48:39 GMT</small>
+<small>⏰ Updated on Mon, 26 May 2025 13:49:26 GMT</small>
 </td>
 </tr>
 </tfoot>
