@@ -103,6 +103,19 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6119ea3c72fa45bce09a60c8281cb405678d9283" title="2025-05-26T19:22:02.000+02:00" target="_blank">6119ea3c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[bump] to v3.4.8</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/46addfd1c293be15e509e084bbc0e73e83e5bd86" title="2025-05-26T19:19:03.000+02:00" target="_blank">46addfd1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[feature] Moar maintenance
+
+Add cronjob to clean statuses, preview-cards, orphans media, remote 
+accounts, cache and avatars and headers.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/86c0f22c0eb5165afbda2a3369d8190a9532bf6b" title="2025-05-26T09:55:51.000+02:00" target="_blank">86c0f22c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[monotoring] Grafana's dashboard
 
@@ -151,24 +164,11 @@ type.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/ea185fe449c14b6eed3a112ef4decae0dbffa5f2" title="2025-05-16T15:41:26.000+02:00" target="_blank">ea185fe4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[fix](INC0716591) Add link to unit in `/search`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/6dc7dc77d9a9cfbd7deab8557eaa7cd8a84f2b40" title="2025-05-16T14:24:53.000+02:00" target="_blank">6dc7dc77</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] More `wp_options`
-
-This add EPFL specific plugins' option, such as for `wp-media-folder`,
-`WPForms`, `EPFLComingSoon`, `EPFLRestauration`, etc...</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/106d29b6b5eab4e591dec6d458a7447d700d21be" title="2025-05-15T14:48:37.000+02:00" target="_blank">106d29b6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] https://luc.com should work</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 26 May 2025 13:49:26 GMT</small>
+<small>⏰ Updated on Tue, 27 May 2025 13:51:24 GMT</small>
 </td>
 </tr>
 </tfoot>
