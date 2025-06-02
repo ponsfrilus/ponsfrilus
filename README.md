@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 15 years and 4 months.
+    <br />Apparently, I'm hanging around on GitHub since 15 years and 5 months.
     <br />You can reach me on mastodon <a href="https://mastodon.social/@ponsfrilus" rel="me">@mastodon.social@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -29,6 +29,40 @@
 <td colspan="2" align="center"><h4>My last starred repos</h4></td>
 </tr>
 <tr>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/ralsei/types.pl" title="The glitch-soc/Mastodon fork running on types.pl" target="_blank">types.pl</a>&nbsp;<a href="https://github.com/ralsei/types.pl" title="The glitch-soc/Mastodon fork running on types.pl" target="_blank"><img src="https://img.shields.io/github/stars/ralsei/types.pl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/giantpinkrobots/varia" title="Download manager that supports regular downloads, torrents and videos" target="_blank">varia</a>&nbsp;<a href="https://github.com/giantpinkrobots/varia" title="Download manager that supports regular downloads, torrents and videos" target="_blank"><img src="https://img.shields.io/github/stars/giantpinkrobots/varia?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank">jellyfin-plugin-sso</a>&nbsp;<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank"><img src="https://img.shields.io/github/stars/9p4/jellyfin-plugin-sso?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank">firefox</a>&nbsp;<a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank"><img src="https://img.shields.io/github/stars/mozilla-firefox/firefox?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank">Seal</a>&nbsp;<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank"><img src="https://img.shields.io/github/stars/JunkFood02/Seal?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank">rybbit</a>&nbsp;<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank"><img src="https://img.shields.io/github/stars/rybbit-io/rybbit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank">mijn-bureau</a>&nbsp;<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank"><img src="https://img.shields.io/github/stars/MinBZK/mijn-bureau?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank">open-saas</a>&nbsp;<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank"><img src="https://img.shields.io/github/stars/wasp-lang/open-saas?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank">keybr.com</a>&nbsp;<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank"><img src="https://img.shields.io/github/stars/aradzie/keybr.com?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank">keda</a>&nbsp;<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank"><img src="https://img.shields.io/github/stars/kedacore/keda?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
 <td valign="top">
 <ul>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/giantpinkrobots/varia" title="Download manager that supports regular downloads, torrents and videos" target="_blank">varia</a>&nbsp;<a href="https://github.com/giantpinkrobots/varia" title="Download manager that supports regular downloads, torrents and videos" target="_blank"><img src="https://img.shields.io/github/stars/giantpinkrobots/varia?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank">jellyfin-plugin-sso</a>&nbsp;<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank"><img src="https://img.shields.io/github/stars/9p4/jellyfin-plugin-sso?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank">firefox</a>&nbsp;<a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank"><img src="https://img.shields.io/github/stars/mozilla-firefox/firefox?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank">Seal</a>&nbsp;<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank"><img src="https://img.shields.io/github/stars/JunkFood02/Seal?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank">rybbit</a>&nbsp;<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank"><img src="https://img.shields.io/github/stars/rybbit-io/rybbit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank">mijn-bureau</a>&nbsp;<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank"><img src="https://img.shields.io/github/stars/MinBZK/mijn-bureau?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank">open-saas</a>&nbsp;<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank"><img src="https://img.shields.io/github/stars/wasp-lang/open-saas?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank">keybr.com</a>&nbsp;<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank"><img src="https://img.shields.io/github/stars/aradzie/keybr.com?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank">keda</a>&nbsp;<a href="https://github.com/kedacore/keda" title=" KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes " target="_blank"><img src="https://img.shields.io/github/stars/kedacore/keda?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank">outlinewiki-exporter</a>&nbsp;<a href="https://github.com/dwesh163/outlinewiki-exporter" title="null" target="_blank"><img src="https://img.shields.io/github/stars/dwesh163/outlinewiki-exporter?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6fcac91d16fa7b859634e1608a709bf496281166" title="2025-06-02T14:51:40.000+02:00" target="_blank">6fcac91d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[doc] Files organisation</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6119ea3c72fa45bce09a60c8281cb405678d9283" title="2025-05-26T19:22:02.000+02:00" target="_blank">6119ea3c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[bump] to v3.4.8</pre>
@@ -159,16 +164,11 @@ type.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/7281b683a3c3ac2168498c8288128680cf053f2b" title="2025-05-16T15:42:38.000+02:00" target="_blank">7281b683</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
           <pre>[version] Bump version to v3.17.0</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/ea185fe449c14b6eed3a112ef4decae0dbffa5f2" title="2025-05-16T15:41:26.000+02:00" target="_blank">ea185fe4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix](INC0716591) Add link to unit in `/search`</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 30 May 2025 13:49:35 GMT</small>
+<small>⏰ Updated on Mon, 02 Jun 2025 13:50:59 GMT</small>
 </td>
 </tr>
 </tfoot>
