@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/fab991d886557e1d970868cf3d21dcbfafba0b06" title="2025-06-02T17:47:24.000+02:00" target="_blank">fab991d8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[alerting] Alerts on disk free space</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/f83016e0df40f7d254796ea1013130bdd21e3bad" title="2025-06-02T15:58:02.000+02:00" target="_blank">f83016e0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[monitoring] Add Traefik data</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/7283e5a9ee25cbfc68e2af629c81c66b48abad96" title="2025-06-02T15:57:16.000+02:00" target="_blank">7283e5a9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[monitoring] Add disk monitoring (new volumes)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6fcac91d16fa7b859634e1608a709bf496281166" title="2025-06-02T14:51:40.000+02:00" target="_blank">6fcac91d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[doc] Files organisation</pre>
         </td>
@@ -149,26 +164,11 @@ This is based on the `Type.schema` attribute, meaning this is the same
 logic than a site using the `external` schema within showing the `LAMP` 
 type.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/6f994646dc9cf0812b95b324e708417574d6adf7" title="2025-05-16T16:38:12.000+02:00" target="_blank">6f994646</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[version] Bump to v3.17.1</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/d317c2e58d0e85e89810360ee002aaa8a61ccf56" title="2025-05-16T16:37:37.000+02:00" target="_blank">d317c2e5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[fix] Add the units.epfl.ch URL</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/7281b683a3c3ac2168498c8288128680cf053f2b" title="2025-05-16T15:42:38.000+02:00" target="_blank">7281b683</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[version] Bump version to v3.17.0</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 02 Jun 2025 13:50:59 GMT</small>
+<small>⏰ Updated on Tue, 03 Jun 2025 13:52:41 GMT</small>
 </td>
 </tr>
 </tfoot>
