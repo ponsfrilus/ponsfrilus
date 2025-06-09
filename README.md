@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/webfinger/webfinger.net" title="webfinger.net website" target="_blank">webfinger.net</a>&nbsp;<a href="https://github.com/webfinger/webfinger.net" title="webfinger.net website" target="_blank"><img src="https://img.shields.io/github/stars/webfinger/webfinger.net?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/hugomd/parrot.live" title="🐦  Bringing animated parrots to terminals everywhere" target="_blank">parrot.live</a>&nbsp;<a href="https://github.com/hugomd/parrot.live" title="🐦  Bringing animated parrots to terminals everywhere" target="_blank"><img src="https://img.shields.io/github/stars/hugomd/parrot.live?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank">open-saas</a>&nbsp;<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank"><img src="https://img.shields.io/github/stars/wasp-lang/open-saas?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank">keybr.com</a>&nbsp;<a href="https://github.com/aradzie/keybr.com" title="The smartest way to learn touch typing and improve your typing speed." target="_blank"><img src="https://img.shields.io/github/stars/aradzie/keybr.com?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/arduinocelentano/cdimage" title="A tool for burning visible pictures on a compact disc surfase" target="_blank">cdimage</a>&nbsp;<a href="https://github.com/arduinocelentano/cdimage" title="A tool for burning visible pictures on a compact disc surfase" target="_blank"><img src="https://img.shields.io/github/stars/arduinocelentano/cdimage?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/interstellar-app/interstellar" title="An app for Mbin/Lemmy/PieFed, connecting you to the fediverse." target="_blank">interstellar</a>&nbsp;<a href="https://github.com/interstellar-app/interstellar" title="An app for Mbin/Lemmy/PieFed, connecting you to the fediverse." target="_blank"><img src="https://img.shields.io/github/stars/interstellar-app/interstellar?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/slidevjs/slidev" title="Presentation Slides for Developers" target="_blank">slidev</a>&nbsp;<a href="https://github.com/slidevjs/slidev" title="Presentation Slides for Developers" target="_blank"><img src="https://img.shields.io/github/stars/slidevjs/slidev?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank">apitable</a>&nbsp;<a href="https://github.com/apitable/apitable" title="🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. " target="_blank"><img src="https://img.shields.io/github/stars/apitable/apitable?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -168,7 +168,7 @@ type.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 06 Jun 2025 13:50:44 GMT</small>
+<small>⏰ Updated on Mon, 09 Jun 2025 13:51:37 GMT</small>
 </td>
 </tr>
 </tfoot>
