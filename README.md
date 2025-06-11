@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/82f2b4d516a6037a7b666d8722c0b22c9893fa7c" title="2025-06-11T13:53:25.000+02:00" target="_blank">82f2b4d5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
+          <pre>[chore] Adjust CPU and memory requests</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/6f2684b06e4d4da9e18da6dbd1efa1c0f6588534" title="2025-06-11T13:48:23.000+02:00" target="_blank">6f2684b0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
+          <pre>[chore] Adjust CPU and memory requests</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/767ea9856f6a03dbf3a9d8909e5ca0d0eb50cd7b" title="2025-06-11T13:38:07.000+02:00" target="_blank">767ea985</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
+          <pre>[chore] Adjust CPU and memory requests</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/fab991d886557e1d970868cf3d21dcbfafba0b06" title="2025-06-02T17:47:24.000+02:00" target="_blank">fab991d8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[alerting] Alerts on disk free space</pre>
         </td>
@@ -142,33 +157,11 @@ accounts, cache and avatars and headers.</pre>
 It's deployed (manually) on our NOC for now, but at least we have the 
 source here.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/47cf769b8bc9a51264c29a2a1eeb5dbd01eb4cd9" title="2025-05-26T09:54:19.000+02:00" target="_blank">47cf769b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[doc] Add usage</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/5f029095253e552ca320fb3b44bf74f6211c7601" title="2025-05-22T11:56:46.000+02:00" target="_blank">5f029095</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] Visualisation using `wp_page_count`
-
-New in the WPN dashboard, new visualisation on language, posts and 
-pages.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/dd7d5a3474153b80c2c22ab04be8a7ff3bd23815" title="2025-05-20T11:30:12.000+02:00" target="_blank">dd7d5a34</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[feature] Add the LAMP type
-
-This is based on the `Type.schema` attribute, meaning this is the same 
-logic than a site using the `external` schema within showing the `LAMP` 
-type.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 10 Jun 2025 13:52:23 GMT</small>
+<small>⏰ Updated on Wed, 11 Jun 2025 13:52:11 GMT</small>
 </td>
 </tr>
 </tfoot>
