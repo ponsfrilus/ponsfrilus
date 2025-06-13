@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/fe0d44b6e01eb5561df74869777db930ba429a0d" title="2025-06-13T15:42:16.000+02:00" target="_blank">fe0d44b6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
+          <pre>[fix] `s/EPFL/INTRANET` for AD</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/82f2b4d516a6037a7b666d8722c0b22c9893fa7c" title="2025-06-11T13:53:25.000+02:00" target="_blank">82f2b4d5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
           <pre>[chore] Adjust CPU and memory requests</pre>
         </td>
@@ -149,19 +154,11 @@
 Add cronjob to clean statuses, preview-cards, orphans media, remote 
 accounts, cache and avatars and headers.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/86c0f22c0eb5165afbda2a3369d8190a9532bf6b" title="2025-05-26T09:55:51.000+02:00" target="_blank">86c0f22c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[monotoring] Grafana's dashboard
-
-It's deployed (manually) on our NOC for now, but at least we have the 
-source here.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 12 Jun 2025 13:52:03 GMT</small>
+<small>⏰ Updated on Fri, 13 Jun 2025 13:50:38 GMT</small>
 </td>
 </tr>
 </tfoot>
