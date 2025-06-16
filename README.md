@@ -103,6 +103,25 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-continuous-integration/commits/b7358cb519fe50e882f51f8cc65cbcfec70454c4" title="2025-06-16T10:07:50.000+02:00" target="_blank">b7358cb5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton">/wp-continuous-integration</a></strong></div>
+          <pre>[fix] PR info message
+
+This add more links and info into the bot's message under every PR.
+
+Also add some 🍍.
+
+Also fixes #1</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/2ae6386e30d51762ba82a85b376244e7a09a8e2e" title="2025-06-16T09:25:38.000+02:00" target="_blank">2ae6386e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[feature] Add `wp-continuous-integration` into the mix
+
+Use `make checkout` to checkout the wp-continuous-integration repository 
+into wp-dev.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/fe0d44b6e01eb5561df74869777db930ba429a0d" title="2025-06-13T15:42:16.000+02:00" target="_blank">fe0d44b6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
           <pre>[fix] `s/EPFL/INTRANET` for AD</pre>
         </td>
@@ -141,24 +160,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6fcac91d16fa7b859634e1608a709bf496281166" title="2025-06-02T14:51:40.000+02:00" target="_blank">6fcac91d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[doc] Files organisation</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6119ea3c72fa45bce09a60c8281cb405678d9283" title="2025-05-26T19:22:02.000+02:00" target="_blank">6119ea3c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[bump] to v3.4.8</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/46addfd1c293be15e509e084bbc0e73e83e5bd86" title="2025-05-26T19:19:03.000+02:00" target="_blank">46addfd1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] Moar maintenance
-
-Add cronjob to clean statuses, preview-cards, orphans media, remote 
-accounts, cache and avatars and headers.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 13 Jun 2025 13:50:38 GMT</small>
+<small>⏰ Updated on Mon, 16 Jun 2025 13:53:28 GMT</small>
 </td>
 </tr>
 </tfoot>
