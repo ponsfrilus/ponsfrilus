@@ -103,68 +103,59 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-continuous-integration/commits/b7358cb519fe50e882f51f8cc65cbcfec70454c4" title="2025-06-16T10:07:50.000+02:00" target="_blank">b7358cb5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton">/wp-continuous-integration</a></strong></div>
-          <pre>[fix] PR info message
-
-This add more links and info into the bot's message under every PR.
-
-Also add some 🍍.
-
-Also fixes #1</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-quatre/commits/e17b0ffc32519e5b99507e88f603c986e7a8bf75" title="2025-06-17T00:15:38.000+02:00" target="_blank">e17b0ffc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !">/kata-quatre</a></strong></div>
+          <pre>[doc] README.md updated in ./kata-quatre</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/2ae6386e30d51762ba82a85b376244e7a09a8e2e" title="2025-06-16T09:25:38.000+02:00" target="_blank">2ae6386e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[feature] Add `wp-continuous-integration` into the mix
-
-Use `make checkout` to checkout the wp-continuous-integration repository 
-into wp-dev.</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-morse/commits/31a1eb535b3b4485bd865b5bf4d75080dfb5e0dd" title="2025-06-17T00:15:32.000+02:00" target="_blank">31a1eb53</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse">/kata-morse</a></strong></div>
+          <pre>[doc] README.md updated in ./kata-morse</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/fe0d44b6e01eb5561df74869777db930ba429a0d" title="2025-06-13T15:42:16.000+02:00" target="_blank">fe0d44b6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
-          <pre>[fix] `s/EPFL/INTRANET` for AD</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-ldap/commits/5d136b106312f76bc0f02ace2d41b373e181eaaf" title="2025-06-17T00:15:26.000+02:00" target="_blank">5d136b10</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-ldap" title="Kata : annuaire LDAP (ldapsearch)">/kata-ldap</a></strong></div>
+          <pre>[doc] README.md updated in ./kata-ldap</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/82f2b4d516a6037a7b666d8722c0b22c9893fa7c" title="2025-06-11T13:53:25.000+02:00" target="_blank">82f2b4d5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
-          <pre>[chore] Adjust CPU and memory requests</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-frame/commits/e151b47904c3891512c7de164af6fd8180822758" title="2025-06-17T00:15:19.000+02:00" target="_blank">e151b479</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D">/kata-frame</a></strong></div>
+          <pre>[doc] README.md updated in ./kata-frame</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop.ops/commits/6f2684b06e4d4da9e18da6dbd1efa1c0f6588534" title="2025-06-11T13:48:23.000+02:00" target="_blank">6f2684b0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop.ops" title="Ansible code to manage EPFL Ticketshop lifecycle">/ticketshop.ops</a></strong></div>
-          <pre>[chore] Adjust CPU and memory requests</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-FMW/commits/8f953f5b8a57934d04db82a1f1399cf4249aaf84" title="2025-06-17T00:15:09.000+02:00" target="_blank">8f953f5b</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-FMW" title="Kata : création d'un quiz FBI Most Wanted (FMW)">/kata-FMW</a></strong></div>
+          <pre>[doc] README.md updated in ./kata-fmw</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/businesscard.ops/commits/767ea9856f6a03dbf3a9d8909e5ca0d0eb50cd7b" title="2025-06-11T13:38:07.000+02:00" target="_blank">767ea985</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/businesscard.ops" title="null">/businesscard.ops</a></strong></div>
-          <pre>[chore] Adjust CPU and memory requests</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-fleche/commits/f287abd961f3742783710ed8a6d60889600347a4" title="2025-06-17T00:15:03.000+02:00" target="_blank">f287abd9</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur">/kata-fleche</a></strong></div>
+          <pre>[doc] README.md updated in ./kata-fleche</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/fab991d886557e1d970868cf3d21dcbfafba0b06" title="2025-06-02T17:47:24.000+02:00" target="_blank">fab991d8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[alerting] Alerts on disk free space</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-diamond/commits/c143ec24c356c28159693a06ac7d2694202d05c9" title="2025-06-17T00:14:58.000+02:00" target="_blank">c143ec24</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !">/kata-diamond</a></strong></div>
+          <pre>[doc] README.md updated in ./kata-diamond</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/f83016e0df40f7d254796ea1013130bdd21e3bad" title="2025-06-02T15:58:02.000+02:00" target="_blank">f83016e0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[monitoring] Add Traefik data</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-braille/commits/171bfa4fa24c35e106064290eeeb2fa9fcee7108" title="2025-06-17T00:14:50.000+02:00" target="_blank">171bfa4f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille">/kata-braille</a></strong></div>
+          <pre>[doc] README.md updated in ./kata-braille</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/7283e5a9ee25cbfc68e2af629c81c66b48abad96" title="2025-06-02T15:57:16.000+02:00" target="_blank">7283e5a9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[monitoring] Add disk monitoring (new volumes)</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-APOD/commits/7fb7fbbd06f46c3c054ff5e19f29847df78d2199" title="2025-06-17T00:02:00.000+02:00" target="_blank">7fb7fbbd</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-APOD" title="Kata : création d'un navigateur d'APOD (Astronomy Picture of the Day)">/kata-APOD</a></strong></div>
+          <pre>[doc] README.md updated in ./kata-apod</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6fcac91d16fa7b859634e1608a709bf496281166" title="2025-06-02T14:51:40.000+02:00" target="_blank">6fcac91d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[doc] Files organisation</pre>
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-alien/commits/756a102f9e8fa829dc80e92f212b47bb19e571d5" title="2025-06-17T00:01:49.000+02:00" target="_blank">756a102f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre">/kata-alien</a></strong></div>
+          <pre>[doc] README.md updated in ./kata-alien</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 16 Jun 2025 13:53:28 GMT</small>
+<small>⏰ Updated on Tue, 17 Jun 2025 13:52:09 GMT</small>
 </td>
 </tr>
 </tfoot>
