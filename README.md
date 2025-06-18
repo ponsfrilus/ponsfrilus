@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/nohello-net/site" title="null" target="_blank">site</a>&nbsp;<a href="https://github.com/nohello-net/site" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nohello-net/site?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/webfinger/webfinger.net" title="webfinger.net website" target="_blank">webfinger.net</a>&nbsp;<a href="https://github.com/webfinger/webfinger.net" title="webfinger.net website" target="_blank"><img src="https://img.shields.io/github/stars/webfinger/webfinger.net?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hugomd/parrot.live" title="🐦  Bringing animated parrots to terminals everywhere" target="_blank">parrot.live</a>&nbsp;<a href="https://github.com/hugomd/parrot.live" title="🐦  Bringing animated parrots to terminals everywhere" target="_blank"><img src="https://img.shields.io/github/stars/hugomd/parrot.live?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ralsei/types.pl" title="The glitch-soc/Mastodon fork running on types.pl" target="_blank">types.pl</a>&nbsp;<a href="https://github.com/ralsei/types.pl" title="The glitch-soc/Mastodon fork running on types.pl" target="_blank"><img src="https://img.shields.io/github/stars/ralsei/types.pl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/giantpinkrobots/varia" title="Download manager that supports regular downloads, torrents and videos" target="_blank">varia</a>&nbsp;<a href="https://github.com/giantpinkrobots/varia" title="Download manager that supports regular downloads, torrents and videos" target="_blank"><img src="https://img.shields.io/github/stars/giantpinkrobots/varia?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank">jellyfin-plugin-sso</a>&nbsp;<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank"><img src="https://img.shields.io/github/stars/9p4/jellyfin-plugin-sso?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank">firefox</a>&nbsp;<a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank"><img src="https://img.shields.io/github/stars/mozilla-firefox/firefox?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank">Seal</a>&nbsp;<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank"><img src="https://img.shields.io/github/stars/JunkFood02/Seal?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank">rybbit</a>&nbsp;<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank"><img src="https://img.shields.io/github/stars/rybbit-io/rybbit?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank">mijn-bureau</a>&nbsp;<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank"><img src="https://img.shields.io/github/stars/MinBZK/mijn-bureau?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/bloom42/markdown-ninja" title="Markdown-first CMS for bloggers, minimalists and startups. Open Source alternative to Substack, Mailchimp and Netlify - https://markdown.ninja" target="_blank">markdown-ninja</a>&nbsp;<a href="https://github.com/bloom42/markdown-ninja" title="Markdown-first CMS for bloggers, minimalists and startups. Open Source alternative to Substack, Mailchimp and Netlify - https://markdown.ninja" target="_blank"><img src="https://img.shields.io/github/stars/bloom42/markdown-ninja?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank">svg-spinners</a>&nbsp;<a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank"><img src="https://img.shields.io/github/stars/n3r4zzurr0/svg-spinners?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/webfinger/webfinger.net" title="webfinger.net website" target="_blank">webfinger.net</a>&nbsp;<a href="https://github.com/webfinger/webfinger.net" title="webfinger.net website" target="_blank"><img src="https://img.shields.io/github/stars/webfinger/webfinger.net?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hugomd/parrot.live" title="🐦  Bringing animated parrots to terminals everywhere" target="_blank">parrot.live</a>&nbsp;<a href="https://github.com/hugomd/parrot.live" title="🐦  Bringing animated parrots to terminals everywhere" target="_blank"><img src="https://img.shields.io/github/stars/hugomd/parrot.live?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ralsei/types.pl" title="The glitch-soc/Mastodon fork running on types.pl" target="_blank">types.pl</a>&nbsp;<a href="https://github.com/ralsei/types.pl" title="The glitch-soc/Mastodon fork running on types.pl" target="_blank"><img src="https://img.shields.io/github/stars/ralsei/types.pl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/giantpinkrobots/varia" title="Download manager that supports regular downloads, torrents and videos" target="_blank">varia</a>&nbsp;<a href="https://github.com/giantpinkrobots/varia" title="Download manager that supports regular downloads, torrents and videos" target="_blank"><img src="https://img.shields.io/github/stars/giantpinkrobots/varia?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank">jellyfin-plugin-sso</a>&nbsp;<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank"><img src="https://img.shields.io/github/stars/9p4/jellyfin-plugin-sso?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank">firefox</a>&nbsp;<a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank"><img src="https://img.shields.io/github/stars/mozilla-firefox/firefox?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank">Seal</a>&nbsp;<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank"><img src="https://img.shields.io/github/stars/JunkFood02/Seal?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank">rybbit</a>&nbsp;<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank"><img src="https://img.shields.io/github/stars/rybbit-io/rybbit?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank">mijn-bureau</a>&nbsp;<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank"><img src="https://img.shields.io/github/stars/MinBZK/mijn-bureau?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank">open-saas</a>&nbsp;<a href="https://github.com/wasp-lang/open-saas" title="A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven." target="_blank"><img src="https://img.shields.io/github/stars/wasp-lang/open-saas?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 17 Jun 2025 13:52:09 GMT</small>
+<small>⏰ Updated on Wed, 18 Jun 2025 13:52:48 GMT</small>
 </td>
 </tr>
 </tfoot>
