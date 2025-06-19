@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Snouzy/workout-cool" title="🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database." target="_blank">workout-cool</a>&nbsp;<a href="https://github.com/Snouzy/workout-cool" title="🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database." target="_blank"><img src="https://img.shields.io/github/stars/Snouzy/workout-cool?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/nohello-net/site" title="null" target="_blank">site</a>&nbsp;<a href="https://github.com/nohello-net/site" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nohello-net/site?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank">rybbit</a>&nbsp;<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank"><img src="https://img.shields.io/github/stars/rybbit-io/rybbit?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank">mijn-bureau</a>&nbsp;<a href="https://github.com/MinBZK/mijn-bureau" title="Onderzoek naar open source samenwerksoftware voor, door en met overheden." target="_blank"><img src="https://img.shields.io/github/stars/MinBZK/mijn-bureau?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank">wp-continuous-integration</a>&nbsp;<a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-continuous-integration?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/bloom42/markdown-ninja" title="Markdown-first CMS for bloggers, minimalists and startups. Open Source alternative to Substack, Mailchimp and Netlify - https://markdown.ninja" target="_blank">markdown-ninja</a>&nbsp;<a href="https://github.com/bloom42/markdown-ninja" title="Markdown-first CMS for bloggers, minimalists and startups. Open Source alternative to Substack, Mailchimp and Netlify - https://markdown.ninja" target="_blank"><img src="https://img.shields.io/github/stars/bloom42/markdown-ninja?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/TerryCavanagh/VVVVVV" title="The source code to VVVVVV! http://thelettervsixtim.es/" target="_blank">VVVVVV</a>&nbsp;<a href="https://github.com/TerryCavanagh/VVVVVV" title="The source code to VVVVVV! http://thelettervsixtim.es/" target="_blank"><img src="https://img.shields.io/github/stars/TerryCavanagh/VVVVVV?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank">svg-spinners</a>&nbsp;<a href="https://github.com/n3r4zzurr0/svg-spinners" title="A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)" target="_blank"><img src="https://img.shields.io/github/stars/n3r4zzurr0/svg-spinners?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,31 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-continuous-integration/commits/124998219883a75ddec6db0d9685f154355d9330" title="2025-06-18T19:39:04.000+02:00" target="_blank">12499821</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton">/wp-continuous-integration</a></strong></div>
+          <pre>[version] Bump to v1.1.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-continuous-integration/commits/b86b12a13e2990860f01388adebd723b537f8ae2" title="2025-06-18T19:26:31.000+02:00" target="_blank">b86b12a1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton">/wp-continuous-integration</a></strong></div>
+          <pre>[fix] More generic moniker</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-continuous-integration/commits/9a5060221efc9ceda93af1b477cbd23dde5d00be" title="2025-06-18T19:26:13.000+02:00" target="_blank">9a506022</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton">/wp-continuous-integration</a></strong></div>
+          <pre>[feature] Add a fruit emoji in the logs</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-continuous-integration/commits/303cdb2674fcead58bc374effad1440f91ab3584" title="2025-06-18T18:20:10.000+02:00" target="_blank">303cdb26</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton">/wp-continuous-integration</a></strong></div>
+          <pre>[chore] Ignore node_modules</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-continuous-integration/commits/3324d338d9720001e8642b204fc62b2d921ef1bf" title="2025-06-18T18:19:56.000+02:00" target="_blank">3324d338</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton">/wp-continuous-integration</a></strong></div>
+          <pre>[feature] Set prefixed emoji according to flavor</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-quatre/commits/e17b0ffc32519e5b99507e88f603c986e7a8bf75" title="2025-06-17T00:15:38.000+02:00" target="_blank">e17b0ffc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !">/kata-quatre</a></strong></div>
           <pre>[doc] README.md updated in ./kata-quatre</pre>
@@ -126,36 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-FMW/commits/8f953f5b8a57934d04db82a1f1399cf4249aaf84" title="2025-06-17T00:15:09.000+02:00" target="_blank">8f953f5b</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-FMW" title="Kata : création d'un quiz FBI Most Wanted (FMW)">/kata-FMW</a></strong></div>
           <pre>[doc] README.md updated in ./kata-fmw</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-fleche/commits/f287abd961f3742783710ed8a6d60889600347a4" title="2025-06-17T00:15:03.000+02:00" target="_blank">f287abd9</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-fleche" title="Kata : créer une flèche selon entrée de l'utilisateur">/kata-fleche</a></strong></div>
-          <pre>[doc] README.md updated in ./kata-fleche</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-diamond/commits/c143ec24c356c28159693a06ac7d2694202d05c9" title="2025-06-17T00:14:58.000+02:00" target="_blank">c143ec24</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-diamond" title="Kata : une lettre pour un diamant !">/kata-diamond</a></strong></div>
-          <pre>[doc] README.md updated in ./kata-diamond</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-braille/commits/171bfa4fa24c35e106064290eeeb2fa9fcee7108" title="2025-06-17T00:14:50.000+02:00" target="_blank">171bfa4f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-braille" title="Kata : convertisseur de Braille">/kata-braille</a></strong></div>
-          <pre>[doc] README.md updated in ./kata-braille</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-APOD/commits/7fb7fbbd06f46c3c054ff5e19f29847df78d2199" title="2025-06-17T00:02:00.000+02:00" target="_blank">7fb7fbbd</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-APOD" title="Kata : création d'un navigateur d'APOD (Astronomy Picture of the Day)">/kata-APOD</a></strong></div>
-          <pre>[doc] README.md updated in ./kata-apod</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-alien/commits/756a102f9e8fa829dc80e92f212b47bb19e571d5" title="2025-06-17T00:01:49.000+02:00" target="_blank">756a102f</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-alien" title="Kata : alphabète extra-terrestre">/kata-alien</a></strong></div>
-          <pre>[doc] README.md updated in ./kata-alien</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 18 Jun 2025 13:52:48 GMT</small>
+<small>⏰ Updated on Thu, 19 Jun 2025 13:50:52 GMT</small>
 </td>
 </tr>
 </tfoot>
