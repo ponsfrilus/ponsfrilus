@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank">harper</a>&nbsp;<a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/harper?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/Snouzy/workout-cool" title="🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database." target="_blank">workout-cool</a>&nbsp;<a href="https://github.com/Snouzy/workout-cool" title="🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database." target="_blank"><img src="https://img.shields.io/github/stars/Snouzy/workout-cool?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank">Seal</a>&nbsp;<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank"><img src="https://img.shields.io/github/stars/JunkFood02/Seal?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank">rybbit</a>&nbsp;<a href="https://github.com/rybbit-io/rybbit" title="🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive." target="_blank"><img src="https://img.shields.io/github/stars/rybbit-io/rybbit?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank">hurl</a>&nbsp;<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank"><img src="https://img.shields.io/github/stars/Orange-OpenSource/hurl?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank">wp-continuous-integration</a>&nbsp;<a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-continuous-integration?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/outline/outline" title="The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible." target="_blank">outline</a>&nbsp;<a href="https://github.com/outline/outline" title="The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible." target="_blank"><img src="https://img.shields.io/github/stars/outline/outline?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TerryCavanagh/VVVVVV" title="The source code to VVVVVV! http://thelettervsixtim.es/" target="_blank">VVVVVV</a>&nbsp;<a href="https://github.com/TerryCavanagh/VVVVVV" title="The source code to VVVVVV! http://thelettervsixtim.es/" target="_blank"><img src="https://img.shields.io/github/stars/TerryCavanagh/VVVVVV?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 20 Jun 2025 13:50:36 GMT</small>
+<small>⏰ Updated on Mon, 23 Jun 2025 13:53:52 GMT</small>
 </td>
 </tr>
 </tfoot>
