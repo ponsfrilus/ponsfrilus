@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/kooked-ch/portal" title="null" target="_blank">portal</a>&nbsp;<a href="https://github.com/kooked-ch/portal" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/portal?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank">hurl</a>&nbsp;<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank"><img src="https://img.shields.io/github/stars/Orange-OpenSource/hurl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank">wp-continuous-integration</a>&nbsp;<a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-continuous-integration?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bloom42/markdown-ninja" title="Markdown-first CMS for bloggers, minimalists and startups. Open Source alternative to Substack, Mailchimp and Netlify - https://markdown.ninja" target="_blank">markdown-ninja</a>&nbsp;<a href="https://github.com/bloom42/markdown-ninja" title="Markdown-first CMS for bloggers, minimalists and startups. Open Source alternative to Substack, Mailchimp and Netlify - https://markdown.ninja" target="_blank"><img src="https://img.shields.io/github/stars/bloom42/markdown-ninja?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/arduinocelentano/cdimage" title="A tool for burning visible pictures on a compact disc surfase" target="_blank">cdimage</a>&nbsp;<a href="https://github.com/arduinocelentano/cdimage" title="A tool for burning visible pictures on a compact disc surfase" target="_blank"><img src="https://img.shields.io/github/stars/arduinocelentano/cdimage?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/interstellar-app/interstellar" title="An app for Mbin/Lemmy/PieFed, connecting you to the fediverse." target="_blank">interstellar</a>&nbsp;<a href="https://github.com/interstellar-app/interstellar" title="An app for Mbin/Lemmy/PieFed, connecting you to the fediverse." target="_blank"><img src="https://img.shields.io/github/stars/interstellar-app/interstellar?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/iib0011/omni-tools" title="Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!" target="_blank">omni-tools</a>&nbsp;<a href="https://github.com/iib0011/omni-tools" title="Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!" target="_blank"><img src="https://img.shields.io/github/stars/iib0011/omni-tools?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/henrygd/beszel" title="Lightweight server monitoring hub with historical data, docker stats, and alerts." target="_blank">beszel</a>&nbsp;<a href="https://github.com/henrygd/beszel" title="Lightweight server monitoring hub with historical data, docker stats, and alerts." target="_blank"><img src="https://img.shields.io/github/stars/henrygd/beszel?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank">streamyfin</a>&nbsp;<a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank"><img src="https://img.shields.io/github/stars/streamyfin/streamyfin?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community maintained n8n node for Mastodon, seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank">n8n-nodes-the-mastodon</a>&nbsp;<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community maintained n8n node for Mastodon, seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank"><img src="https://img.shields.io/github/stars/redoracle/n8n-nodes-the-mastodon?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank">harper</a>&nbsp;<a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/harper?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank">Seal</a>&nbsp;<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank"><img src="https://img.shields.io/github/stars/JunkFood02/Seal?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank">hurl</a>&nbsp;<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank"><img src="https://img.shields.io/github/stars/Orange-OpenSource/hurl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank">wp-continuous-integration</a>&nbsp;<a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-continuous-integration?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bloom42/markdown-ninja" title="Markdown-first CMS for bloggers, minimalists and startups. Open Source alternative to Substack, Mailchimp and Netlify - https://markdown.ninja" target="_blank">markdown-ninja</a>&nbsp;<a href="https://github.com/bloom42/markdown-ninja" title="Markdown-first CMS for bloggers, minimalists and startups. Open Source alternative to Substack, Mailchimp and Netlify - https://markdown.ninja" target="_blank"><img src="https://img.shields.io/github/stars/bloom42/markdown-ninja?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/arduinocelentano/cdimage" title="A tool for burning visible pictures on a compact disc surfase" target="_blank">cdimage</a>&nbsp;<a href="https://github.com/arduinocelentano/cdimage" title="A tool for burning visible pictures on a compact disc surfase" target="_blank"><img src="https://img.shields.io/github/stars/arduinocelentano/cdimage?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/interstellar-app/interstellar" title="An app for Mbin/Lemmy/PieFed, connecting you to the fediverse." target="_blank">interstellar</a>&nbsp;<a href="https://github.com/interstellar-app/interstellar" title="An app for Mbin/Lemmy/PieFed, connecting you to the fediverse." target="_blank"><img src="https://img.shields.io/github/stars/interstellar-app/interstellar?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/iib0011/omni-tools" title="Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!" target="_blank">omni-tools</a>&nbsp;<a href="https://github.com/iib0011/omni-tools" title="Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!" target="_blank"><img src="https://img.shields.io/github/stars/iib0011/omni-tools?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/henrygd/beszel" title="Lightweight server monitoring hub with historical data, docker stats, and alerts." target="_blank">beszel</a>&nbsp;<a href="https://github.com/henrygd/beszel" title="Lightweight server monitoring hub with historical data, docker stats, and alerts." target="_blank"><img src="https://img.shields.io/github/stars/henrygd/beszel?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank">streamyfin</a>&nbsp;<a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank"><img src="https://img.shields.io/github/stars/streamyfin/streamyfin?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community maintained n8n node for Mastodon, seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank">n8n-nodes-the-mastodon</a>&nbsp;<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community maintained n8n node for Mastodon, seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank"><img src="https://img.shields.io/github/stars/redoracle/n8n-nodes-the-mastodon?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/outline/outline" title="The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible." target="_blank">outline</a>&nbsp;<a href="https://github.com/outline/outline" title="The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible." target="_blank"><img src="https://img.shields.io/github/stars/outline/outline?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 24 Jun 2025 13:53:10 GMT</small>
+<small>⏰ Updated on Wed, 25 Jun 2025 13:54:23 GMT</small>
 </td>
 </tr>
 </tfoot>
