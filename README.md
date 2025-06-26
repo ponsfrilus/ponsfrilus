@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank">md-bruno</a>&nbsp;<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/md-bruno?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/kooked-ch/portal" title="null" target="_blank">portal</a>&nbsp;<a href="https://github.com/kooked-ch/portal" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/portal?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank">streamyfin</a>&nbsp;<a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank"><img src="https://img.shields.io/github/stars/streamyfin/streamyfin?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community maintained n8n node for Mastodon, seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank">n8n-nodes-the-mastodon</a>&nbsp;<a href="https://github.com/redoracle/n8n-nodes-the-mastodon" title="A community maintained n8n node for Mastodon, seamlessly integrate Mastodon API operations (statuses, accounts, timelines, media, admin endpoints, and more) into your n8n workflows." target="_blank"><img src="https://img.shields.io/github/stars/redoracle/n8n-nodes-the-mastodon?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank">automatisch</a>&nbsp;<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank"><img src="https://img.shields.io/github/stars/automatisch/automatisch?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank">harper</a>&nbsp;<a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/harper?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank">firefox</a>&nbsp;<a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank"><img src="https://img.shields.io/github/stars/mozilla-firefox/firefox?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank">Seal</a>&nbsp;<a href="https://github.com/JunkFood02/Seal" title="🦭 Video/Audio Downloader for Android, based on yt-dlp, designed with Material You" target="_blank"><img src="https://img.shields.io/github/stars/JunkFood02/Seal?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,11 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/fba382a4294aadb744a9212d12436dd417fdbd7f" title="2025-06-18T19:57:46.000+02:00" target="_blank">fba382a4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] Pass the fruit via annotation</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-continuous-integration/commits/124998219883a75ddec6db0d9685f154355d9330" title="2025-06-18T19:39:04.000+02:00" target="_blank">12499821</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton">/wp-continuous-integration</a></strong></div>
           <pre>[version] Bump to v1.1.0</pre>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-frame/commits/e151b47904c3891512c7de164af6fd8180822758" title="2025-06-17T00:15:19.000+02:00" target="_blank">e151b479</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D">/kata-frame</a></strong></div>
           <pre>[doc] README.md updated in ./kata-frame</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-dojo/kata-FMW/commits/8f953f5b8a57934d04db82a1f1399cf4249aaf84" title="2025-06-17T00:15:09.000+02:00" target="_blank">8f953f5b</a><a href="https://github.com/epfl-dojo">@epfl-dojo</a><a href="https://github.com/epfl-dojo/kata-FMW" title="Kata : création d'un quiz FBI Most Wanted (FMW)">/kata-FMW</a></strong></div>
-          <pre>[doc] README.md updated in ./kata-fmw</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 25 Jun 2025 13:54:23 GMT</small>
+<small>⏰ Updated on Thu, 26 Jun 2025 13:52:00 GMT</small>
 </td>
 </tr>
 </tfoot>
