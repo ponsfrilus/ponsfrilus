@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/intel/ipu6-camera-bins" title="null" target="_blank">ipu6-camera-bins</a>&nbsp;<a href="https://github.com/intel/ipu6-camera-bins" title="null" target="_blank"><img src="https://img.shields.io/github/stars/intel/ipu6-camera-bins?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank">automatisch</a>&nbsp;<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank"><img src="https://img.shields.io/github/stars/automatisch/automatisch?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank">harper</a>&nbsp;<a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/harper?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Snouzy/workout-cool" title="🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database." target="_blank">workout-cool</a>&nbsp;<a href="https://github.com/Snouzy/workout-cool" title="🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database." target="_blank"><img src="https://img.shields.io/github/stars/Snouzy/workout-cool?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/nohello-net/site" title="null" target="_blank">site</a>&nbsp;<a href="https://github.com/nohello-net/site" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nohello-net/site?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/webfinger/webfinger.net" title="webfinger.net website" target="_blank">webfinger.net</a>&nbsp;<a href="https://github.com/webfinger/webfinger.net" title="webfinger.net website" target="_blank"><img src="https://img.shields.io/github/stars/webfinger/webfinger.net?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/hugomd/parrot.live" title="🐦  Bringing animated parrots to terminals everywhere" target="_blank">parrot.live</a>&nbsp;<a href="https://github.com/hugomd/parrot.live" title="🐦  Bringing animated parrots to terminals everywhere" target="_blank"><img src="https://img.shields.io/github/stars/hugomd/parrot.live?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ralsei/types.pl" title="The glitch-soc/Mastodon fork running on types.pl" target="_blank">types.pl</a>&nbsp;<a href="https://github.com/ralsei/types.pl" title="The glitch-soc/Mastodon fork running on types.pl" target="_blank"><img src="https://img.shields.io/github/stars/ralsei/types.pl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/giantpinkrobots/varia" title="Download manager that supports regular downloads, torrents and videos" target="_blank">varia</a>&nbsp;<a href="https://github.com/giantpinkrobots/varia" title="Download manager that supports regular downloads, torrents and videos" target="_blank"><img src="https://img.shields.io/github/stars/giantpinkrobots/varia?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank">jellyfin-plugin-sso</a>&nbsp;<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank"><img src="https://img.shields.io/github/stars/9p4/jellyfin-plugin-sso?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank">md-bruno</a>&nbsp;<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/md-bruno?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank">streamyfin</a>&nbsp;<a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank"><img src="https://img.shields.io/github/stars/streamyfin/streamyfin?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank">automatisch</a>&nbsp;<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank"><img src="https://img.shields.io/github/stars/automatisch/automatisch?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank">harper</a>&nbsp;<a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/harper?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Snouzy/workout-cool" title="🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database." target="_blank">workout-cool</a>&nbsp;<a href="https://github.com/Snouzy/workout-cool" title="🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database." target="_blank"><img src="https://img.shields.io/github/stars/Snouzy/workout-cool?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nohello-net/site" title="null" target="_blank">site</a>&nbsp;<a href="https://github.com/nohello-net/site" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nohello-net/site?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/webfinger/webfinger.net" title="webfinger.net website" target="_blank">webfinger.net</a>&nbsp;<a href="https://github.com/webfinger/webfinger.net" title="webfinger.net website" target="_blank"><img src="https://img.shields.io/github/stars/webfinger/webfinger.net?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/hugomd/parrot.live" title="🐦  Bringing animated parrots to terminals everywhere" target="_blank">parrot.live</a>&nbsp;<a href="https://github.com/hugomd/parrot.live" title="🐦  Bringing animated parrots to terminals everywhere" target="_blank"><img src="https://img.shields.io/github/stars/hugomd/parrot.live?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ralsei/types.pl" title="The glitch-soc/Mastodon fork running on types.pl" target="_blank">types.pl</a>&nbsp;<a href="https://github.com/ralsei/types.pl" title="The glitch-soc/Mastodon fork running on types.pl" target="_blank"><img src="https://img.shields.io/github/stars/ralsei/types.pl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/giantpinkrobots/varia" title="Download manager that supports regular downloads, torrents and videos" target="_blank">varia</a>&nbsp;<a href="https://github.com/giantpinkrobots/varia" title="Download manager that supports regular downloads, torrents and videos" target="_blank"><img src="https://img.shields.io/github/stars/giantpinkrobots/varia?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank">jellyfin-plugin-sso</a>&nbsp;<a href="https://github.com/9p4/jellyfin-plugin-sso" title="This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin." target="_blank"><img src="https://img.shields.io/github/stars/9p4/jellyfin-plugin-sso?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank">firefox</a>&nbsp;<a href="https://github.com/mozilla-firefox/firefox" title="The official repository of Mozilla's Firefox web browser." target="_blank"><img src="https://img.shields.io/github/stars/mozilla-firefox/firefox?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -155,7 +155,7 @@
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 26 Jun 2025 13:52:00 GMT</small>
+<small>⏰ Updated on Fri, 27 Jun 2025 13:50:36 GMT</small>
 </td>
 </tr>
 </tfoot>
