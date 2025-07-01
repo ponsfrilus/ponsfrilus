@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 15 years and 5 months.
+    <br />Apparently, I'm hanging around on GitHub since 15 years and 6 months.
     <br />You can reach me on mastodon <a href="https://mastodon.social/@ponsfrilus" rel="me">@mastodon.social@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -103,6 +103,14 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c73bfd80c357da6b36846cb16a7e97fc826bda0f" title="2025-06-30T18:35:17.000+02:00" target="_blank">c73bfd80</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] Replace all ubuntu sources
+
+We began to use `noble` instead of `jammy`, so let's be more generic in 
+the FROM image replacement.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/fba382a4294aadb744a9212d12436dd417fdbd7f" title="2025-06-18T19:57:46.000+02:00" target="_blank">fba382a4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[feature] Pass the fruit via annotation</pre>
         </td>
@@ -146,16 +154,11 @@
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-ldap/commits/5d136b106312f76bc0f02ace2d41b373e181eaaf" title="2025-06-17T00:15:26.000+02:00" target="_blank">5d136b10</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-ldap" title="Kata : annuaire LDAP (ldapsearch)">/kata-ldap</a></strong></div>
           <pre>[doc] README.md updated in ./kata-ldap</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-frame/commits/e151b47904c3891512c7de164af6fd8180822758" title="2025-06-17T00:15:19.000+02:00" target="_blank">e151b479</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-frame" title="Kata : calcul d'encombrement en 2D">/kata-frame</a></strong></div>
-          <pre>[doc] README.md updated in ./kata-frame</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 30 Jun 2025 13:52:44 GMT</small>
+<small>⏰ Updated on Tue, 01 Jul 2025 13:52:29 GMT</small>
 </td>
 </tr>
 </tfoot>
