@@ -103,6 +103,40 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/3af0f54f6e345779720d1204c260804a94aa4426" title="2025-07-01T18:46:23.000+02:00" target="_blank">3af0f54f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[hotfix] `nginx-ingress-controller` image name + tag
+
+d1d802aacc51798bfdbc25cd3e258e4c4430168c</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ee4b3bc7739fa1b9abc520de84460a20f3794c93" title="2025-07-01T17:34:06.000+02:00" target="_blank">ee4b3bc7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[deadcode] no more `mirrors-vars.yml`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/9b090c90fba478856b762460e1f7bbe56271afb0" title="2025-07-01T17:27:41.000+02:00" target="_blank">9b090c90</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] More `nginx-ingress-controller` mirroired images</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/7071a30c2b0e0e3caa67eabc79eaad1fd0dd228b" title="2025-07-01T17:10:53.000+02:00" target="_blank">7071a30c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] More OpenResty mirroired image
+
+In order to be able to test more recent image, the regex to mirror 
+OpenResty image is more "open", getting all the "alping-fat" tags.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/b8fc276638496f4ab6800e3b6157ad59e6224b57" title="2025-07-01T17:09:02.000+02:00" target="_blank">b8fc2766</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] Quay mirrored image's sync interval defaulted to 1 day
+
+Due to Docker's hub rate limit, the one hour synchronization interval is
+too frequent. This commit default the sync interval to one day (86400
+seconds) in the template used for all our mirroired images.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/c73bfd80c357da6b36846cb16a7e97fc826bda0f" title="2025-06-30T18:35:17.000+02:00" target="_blank">c73bfd80</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[fix] Replace all ubuntu sources
 
@@ -129,36 +163,11 @@ the FROM image replacement.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-continuous-integration/commits/9a5060221efc9ceda93af1b477cbd23dde5d00be" title="2025-06-18T19:26:13.000+02:00" target="_blank">9a506022</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton">/wp-continuous-integration</a></strong></div>
           <pre>[feature] Add a fruit emoji in the logs</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-continuous-integration/commits/303cdb2674fcead58bc374effad1440f91ab3584" title="2025-06-18T18:20:10.000+02:00" target="_blank">303cdb26</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton">/wp-continuous-integration</a></strong></div>
-          <pre>[chore] Ignore node_modules</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-continuous-integration/commits/3324d338d9720001e8642b204fc62b2d921ef1bf" title="2025-06-18T18:19:56.000+02:00" target="_blank">3324d338</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton">/wp-continuous-integration</a></strong></div>
-          <pre>[feature] Set prefixed emoji according to flavor</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-quatre/commits/e17b0ffc32519e5b99507e88f603c986e7a8bf75" title="2025-06-17T00:15:38.000+02:00" target="_blank">e17b0ffc</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-quatre" title="Kata : 4 est magique !">/kata-quatre</a></strong></div>
-          <pre>[doc] README.md updated in ./kata-quatre</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-morse/commits/31a1eb535b3b4485bd865b5bf4d75080dfb5e0dd" title="2025-06-17T00:15:32.000+02:00" target="_blank">31a1eb53</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-morse" title="Kata : convertisseur de code morse">/kata-morse</a></strong></div>
-          <pre>[doc] README.md updated in ./kata-morse</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/kata-ldap/commits/5d136b106312f76bc0f02ace2d41b373e181eaaf" title="2025-06-17T00:15:26.000+02:00" target="_blank">5d136b10</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/kata-ldap" title="Kata : annuaire LDAP (ldapsearch)">/kata-ldap</a></strong></div>
-          <pre>[doc] README.md updated in ./kata-ldap</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 01 Jul 2025 13:52:29 GMT</small>
+<small>⏰ Updated on Wed, 02 Jul 2025 13:51:56 GMT</small>
 </td>
 </tr>
 </tfoot>
