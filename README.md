@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/gristlabs/grist-core" title="Grist is the evolution of spreadsheets." target="_blank">grist-core</a>&nbsp;<a href="https://github.com/gristlabs/grist-core" title="Grist is the evolution of spreadsheets." target="_blank"><img src="https://img.shields.io/github/stars/gristlabs/grist-core?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank">md-bruno</a>&nbsp;<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/md-bruno?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kooked-ch/portal" title="null" target="_blank">portal</a>&nbsp;<a href="https://github.com/kooked-ch/portal" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/portal?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank">hurl</a>&nbsp;<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank"><img src="https://img.shields.io/github/stars/Orange-OpenSource/hurl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank">wp-continuous-integration</a>&nbsp;<a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-continuous-integration?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bloom42/markdown-ninja" title="Markdown-first CMS for bloggers, minimalists and startups. Open Source alternative to Substack, Mailchimp and Netlify - https://markdown.ninja" target="_blank">markdown-ninja</a>&nbsp;<a href="https://github.com/bloom42/markdown-ninja" title="Markdown-first CMS for bloggers, minimalists and startups. Open Source alternative to Substack, Mailchimp and Netlify - https://markdown.ninja" target="_blank"><img src="https://img.shields.io/github/stars/bloom42/markdown-ninja?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/arduinocelentano/cdimage" title="A tool for burning visible pictures on a compact disc surfase" target="_blank">cdimage</a>&nbsp;<a href="https://github.com/arduinocelentano/cdimage" title="A tool for burning visible pictures on a compact disc surfase" target="_blank"><img src="https://img.shields.io/github/stars/arduinocelentano/cdimage?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/interstellar-app/interstellar" title="An app for Mbin/Lemmy/PieFed, connecting you to the fediverse." target="_blank">interstellar</a>&nbsp;<a href="https://github.com/interstellar-app/interstellar" title="An app for Mbin/Lemmy/PieFed, connecting you to the fediverse." target="_blank"><img src="https://img.shields.io/github/stars/interstellar-app/interstellar?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/iib0011/omni-tools" title="Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!" target="_blank">omni-tools</a>&nbsp;<a href="https://github.com/iib0011/omni-tools" title="Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!" target="_blank"><img src="https://img.shields.io/github/stars/iib0011/omni-tools?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/henrygd/beszel" title="Lightweight server monitoring hub with historical data, docker stats, and alerts." target="_blank">beszel</a>&nbsp;<a href="https://github.com/henrygd/beszel" title="Lightweight server monitoring hub with historical data, docker stats, and alerts." target="_blank"><img src="https://img.shields.io/github/stars/henrygd/beszel?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/intel/ipu6-camera-bins" title="null" target="_blank">ipu6-camera-bins</a>&nbsp;<a href="https://github.com/intel/ipu6-camera-bins" title="null" target="_blank"><img src="https://img.shields.io/github/stars/intel/ipu6-camera-bins?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank">md-bruno</a>&nbsp;<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/md-bruno?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kooked-ch/portal" title="null" target="_blank">portal</a>&nbsp;<a href="https://github.com/kooked-ch/portal" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/portal?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank">hurl</a>&nbsp;<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank"><img src="https://img.shields.io/github/stars/Orange-OpenSource/hurl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank">wp-continuous-integration</a>&nbsp;<a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-continuous-integration?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bloom42/markdown-ninja" title="Markdown-first CMS for bloggers, minimalists and startups. Open Source alternative to Substack, Mailchimp and Netlify - https://markdown.ninja" target="_blank">markdown-ninja</a>&nbsp;<a href="https://github.com/bloom42/markdown-ninja" title="Markdown-first CMS for bloggers, minimalists and startups. Open Source alternative to Substack, Mailchimp and Netlify - https://markdown.ninja" target="_blank"><img src="https://img.shields.io/github/stars/bloom42/markdown-ninja?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/arduinocelentano/cdimage" title="A tool for burning visible pictures on a compact disc surfase" target="_blank">cdimage</a>&nbsp;<a href="https://github.com/arduinocelentano/cdimage" title="A tool for burning visible pictures on a compact disc surfase" target="_blank"><img src="https://img.shields.io/github/stars/arduinocelentano/cdimage?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/interstellar-app/interstellar" title="An app for Mbin/Lemmy/PieFed, connecting you to the fediverse." target="_blank">interstellar</a>&nbsp;<a href="https://github.com/interstellar-app/interstellar" title="An app for Mbin/Lemmy/PieFed, connecting you to the fediverse." target="_blank"><img src="https://img.shields.io/github/stars/interstellar-app/interstellar?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/iib0011/omni-tools" title="Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!" target="_blank">omni-tools</a>&nbsp;<a href="https://github.com/iib0011/omni-tools" title="Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!" target="_blank"><img src="https://img.shields.io/github/stars/iib0011/omni-tools?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/henrygd/beszel" title="Lightweight server monitoring hub with historical data, docker stats, and alerts." target="_blank">beszel</a>&nbsp;<a href="https://github.com/henrygd/beszel" title="Lightweight server monitoring hub with historical data, docker stats, and alerts." target="_blank"><img src="https://img.shields.io/github/stars/henrygd/beszel?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank">streamyfin</a>&nbsp;<a href="https://github.com/streamyfin/streamyfin" title="A Jellyfin client built with Expo" target="_blank"><img src="https://img.shields.io/github/stars/streamyfin/streamyfin?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/076860ef06dc378e6755536ecb083db7bb1dc272" title="2025-07-03T19:46:28.000+02:00" target="_blank">076860ef</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] (WPN-438) SBOM of the WordPress installation</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/3af0f54f6e345779720d1204c260804a94aa4426" title="2025-07-01T18:46:23.000+02:00" target="_blank">3af0f54f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[hotfix] `nginx-ingress-controller` image name + tag
@@ -158,16 +163,11 @@ the FROM image replacement.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-continuous-integration/commits/b86b12a13e2990860f01388adebd723b537f8ae2" title="2025-06-18T19:26:31.000+02:00" target="_blank">b86b12a1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton">/wp-continuous-integration</a></strong></div>
           <pre>[fix] More generic moniker</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-continuous-integration/commits/9a5060221efc9ceda93af1b477cbd23dde5d00be" title="2025-06-18T19:26:13.000+02:00" target="_blank">9a506022</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton">/wp-continuous-integration</a></strong></div>
-          <pre>[feature] Add a fruit emoji in the logs</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 03 Jul 2025 13:51:46 GMT</small>
+<small>⏰ Updated on Fri, 04 Jul 2025 13:50:23 GMT</small>
 </td>
 </tr>
 </tfoot>
