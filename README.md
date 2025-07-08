@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank">CPU-X</a>&nbsp;<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank"><img src="https://img.shields.io/github/stars/TheTumultuousUnicornOfDarkness/CPU-X?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank">kafka</a>&nbsp;<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank"><img src="https://img.shields.io/github/stars/apache/kafka?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/bloom42/markdown-ninja" title="Markdown-first CMS for bloggers, minimalists and startups. Open Source alternative to Substack, Mailchimp and Netlify - https://markdown.ninja" target="_blank">markdown-ninja</a>&nbsp;<a href="https://github.com/bloom42/markdown-ninja" title="Markdown-first CMS for bloggers, minimalists and startups. Open Source alternative to Substack, Mailchimp and Netlify - https://markdown.ninja" target="_blank"><img src="https://img.shields.io/github/stars/bloom42/markdown-ninja?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/arduinocelentano/cdimage" title="A tool for burning visible pictures on a compact disc surfase" target="_blank">cdimage</a>&nbsp;<a href="https://github.com/arduinocelentano/cdimage" title="A tool for burning visible pictures on a compact disc surfase" target="_blank"><img src="https://img.shields.io/github/stars/arduinocelentano/cdimage?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/jackjackbits/bitchat" title="bluetooth mesh chat, IRC vibes" target="_blank">bitchat</a>&nbsp;<a href="https://github.com/jackjackbits/bitchat" title="bluetooth mesh chat, IRC vibes" target="_blank"><img src="https://img.shields.io/github/stars/jackjackbits/bitchat?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/basecamp/omarchy" title="Opinionated Arch/Hyprland Setup" target="_blank">omarchy</a>&nbsp;<a href="https://github.com/basecamp/omarchy" title="Opinionated Arch/Hyprland Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omarchy?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/webfinger/webfinger.net" title="webfinger.net website" target="_blank">webfinger.net</a>&nbsp;<a href="https://github.com/webfinger/webfinger.net" title="webfinger.net website" target="_blank"><img src="https://img.shields.io/github/stars/webfinger/webfinger.net?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/hugomd/parrot.live" title="🐦  Bringing animated parrots to terminals everywhere" target="_blank">parrot.live</a>&nbsp;<a href="https://github.com/hugomd/parrot.live" title="🐦  Bringing animated parrots to terminals everywhere" target="_blank"><img src="https://img.shields.io/github/stars/hugomd/parrot.live?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,17 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f68e64fd8df766d697e3966dcc89ef656df10eb6" title="2025-07-07T18:23:37.000+02:00" target="_blank">f68e64fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] Confine MariaDB dashboard to "WPN"
+
+The rule `mysql_global_status_acl_database_grants` is too broad and 
+catch other instance of MariaDB among the cluster. Adding the label 
+filter 
+`{instance=~'mariadb-0(.*).svc0041p-wordpress.svc.cluster.local'}` 
+ensure that only "our" namespace and "service" is taken.</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/3834f5de64772a9f4a3e169f68ecd86c0d41619c" title="2025-07-06T00:16:14.000+02:00" target="_blank">3834f5de</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] Alertmanager `web.external-url`</pre>
@@ -148,16 +159,11 @@ d1d802aacc51798bfdbc25cd3e258e4c4430168c</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/ee4b3bc7739fa1b9abc520de84460a20f3794c93" title="2025-07-01T17:34:06.000+02:00" target="_blank">ee4b3bc7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[deadcode] no more `mirrors-vars.yml`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/9b090c90fba478856b762460e1f7bbe56271afb0" title="2025-07-01T17:27:41.000+02:00" target="_blank">9b090c90</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] More `nginx-ingress-controller` mirroired images</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 07 Jul 2025 13:52:35 GMT</small>
+<small>⏰ Updated on Tue, 08 Jul 2025 13:55:25 GMT</small>
 </td>
 </tr>
 </tfoot>
