@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/wichtounet/swr-calculator" title="Safe Withdrawal Rate (SWR) Calculator" target="_blank">swr-calculator</a>&nbsp;<a href="https://github.com/wichtounet/swr-calculator" title="Safe Withdrawal Rate (SWR) Calculator" target="_blank"><img src="https://img.shields.io/github/stars/wichtounet/swr-calculator?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dani-garcia/vaultwarden" title="Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs" target="_blank">vaultwarden</a>&nbsp;<a href="https://github.com/dani-garcia/vaultwarden" title="Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs" target="_blank"><img src="https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/permissionlesstech/bitchat" title="bluetooth mesh chat, IRC vibes" target="_blank">bitchat</a>&nbsp;<a href="https://github.com/permissionlesstech/bitchat" title="bluetooth mesh chat, IRC vibes" target="_blank"><img src="https://img.shields.io/github/stars/permissionlesstech/bitchat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/basecamp/omarchy" title="Opinionated Arch/Hyprland Setup" target="_blank">omarchy</a>&nbsp;<a href="https://github.com/basecamp/omarchy" title="Opinionated Arch/Hyprland Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omarchy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Alex313031/thorium" title="Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md." target="_blank">thorium</a>&nbsp;<a href="https://github.com/Alex313031/thorium" title="Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md." target="_blank"><img src="https://img.shields.io/github/stars/Alex313031/thorium?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/DPGAlliance/dpg-standard" title="Digital Public Goods Standard" target="_blank">dpg-standard</a>&nbsp;<a href="https://github.com/DPGAlliance/dpg-standard" title="Digital Public Goods Standard" target="_blank"><img src="https://img.shields.io/github/stars/DPGAlliance/dpg-standard?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/intel/ipu6-camera-bins" title="null" target="_blank">ipu6-camera-bins</a>&nbsp;<a href="https://github.com/intel/ipu6-camera-bins" title="null" target="_blank"><img src="https://img.shields.io/github/stars/intel/ipu6-camera-bins?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank">automatisch</a>&nbsp;<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank"><img src="https://img.shields.io/github/stars/automatisch/automatisch?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank">harper</a>&nbsp;<a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/harper?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Snouzy/workout-cool" title="🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database." target="_blank">workout-cool</a>&nbsp;<a href="https://github.com/Snouzy/workout-cool" title="🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database." target="_blank"><img src="https://img.shields.io/github/stars/Snouzy/workout-cool?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank">FlopperZiro</a>&nbsp;<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank"><img src="https://img.shields.io/github/stars/lraton/FlopperZiro?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank">wp-continuous-integration</a>&nbsp;<a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-continuous-integration?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/dani-garcia/vaultwarden" title="Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs" target="_blank">vaultwarden</a>&nbsp;<a href="https://github.com/dani-garcia/vaultwarden" title="Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs" target="_blank"><img src="https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/permissionlesstech/bitchat" title="bluetooth mesh chat, IRC vibes" target="_blank">bitchat</a>&nbsp;<a href="https://github.com/permissionlesstech/bitchat" title="bluetooth mesh chat, IRC vibes" target="_blank"><img src="https://img.shields.io/github/stars/permissionlesstech/bitchat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/basecamp/omarchy" title="Opinionated Arch/Hyprland Setup" target="_blank">omarchy</a>&nbsp;<a href="https://github.com/basecamp/omarchy" title="Opinionated Arch/Hyprland Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omarchy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Alex313031/thorium" title="Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md." target="_blank">thorium</a>&nbsp;<a href="https://github.com/Alex313031/thorium" title="Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md." target="_blank"><img src="https://img.shields.io/github/stars/Alex313031/thorium?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/DPGAlliance/dpg-standard" title="Digital Public Goods Standard" target="_blank">dpg-standard</a>&nbsp;<a href="https://github.com/DPGAlliance/dpg-standard" title="Digital Public Goods Standard" target="_blank"><img src="https://img.shields.io/github/stars/DPGAlliance/dpg-standard?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/intel/ipu6-camera-bins" title="null" target="_blank">ipu6-camera-bins</a>&nbsp;<a href="https://github.com/intel/ipu6-camera-bins" title="null" target="_blank"><img src="https://img.shields.io/github/stars/intel/ipu6-camera-bins?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank">automatisch</a>&nbsp;<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank"><img src="https://img.shields.io/github/stars/automatisch/automatisch?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank">harper</a>&nbsp;<a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/harper?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Snouzy/workout-cool" title="🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database." target="_blank">workout-cool</a>&nbsp;<a href="https://github.com/Snouzy/workout-cool" title="🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database." target="_blank"><img src="https://img.shields.io/github/stars/Snouzy/workout-cool?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/nohello-net/site" title="null" target="_blank">site</a>&nbsp;<a href="https://github.com/nohello-net/site" title="null" target="_blank"><img src="https://img.shields.io/github/stars/nohello-net/site?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -170,7 +170,7 @@ ensure that only "our" namespace and "service" is taken.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 23 Jul 2025 13:56:58 GMT</small>
+<small>⏰ Updated on Thu, 24 Jul 2025 13:58:03 GMT</small>
 </td>
 </tr>
 </tfoot>
