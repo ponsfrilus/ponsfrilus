@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank">quarkdown</a>&nbsp;<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank"><img src="https://img.shields.io/github/stars/iamgio/quarkdown?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank">FlopperZiro</a>&nbsp;<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank"><img src="https://img.shields.io/github/stars/lraton/FlopperZiro?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank">CPU-X</a>&nbsp;<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank"><img src="https://img.shields.io/github/stars/TheTumultuousUnicornOfDarkness/CPU-X?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank">kafka</a>&nbsp;<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank"><img src="https://img.shields.io/github/stars/apache/kafka?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/keplergl/kepler.gl" title="Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets." target="_blank">kepler.gl</a>&nbsp;<a href="https://github.com/keplergl/kepler.gl" title="Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets." target="_blank"><img src="https://img.shields.io/github/stars/keplergl/kepler.gl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/paperwm/PaperWM" title="Tiled scrollable window management for GNOME Shell" target="_blank">PaperWM</a>&nbsp;<a href="https://github.com/paperwm/PaperWM" title="Tiled scrollable window management for GNOME Shell" target="_blank"><img src="https://img.shields.io/github/stars/paperwm/PaperWM?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gristlabs/grist-core" title="Grist is the evolution of spreadsheets." target="_blank">grist-core</a>&nbsp;<a href="https://github.com/gristlabs/grist-core" title="Grist is the evolution of spreadsheets." target="_blank"><img src="https://img.shields.io/github/stars/gristlabs/grist-core?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank">md-bruno</a>&nbsp;<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/md-bruno?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kooked-ch/portal" title="null" target="_blank">portal</a>&nbsp;<a href="https://github.com/kooked-ch/portal" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/portal?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank">hurl</a>&nbsp;<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank"><img src="https://img.shields.io/github/stars/Orange-OpenSource/hurl?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/wichtounet/swr-calculator" title="Safe Withdrawal Rate (SWR) Calculator" target="_blank">swr-calculator</a>&nbsp;<a href="https://github.com/wichtounet/swr-calculator" title="Safe Withdrawal Rate (SWR) Calculator" target="_blank"><img src="https://img.shields.io/github/stars/wichtounet/swr-calculator?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,20 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank">FlopperZiro</a>&nbsp;<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank"><img src="https://img.shields.io/github/stars/lraton/FlopperZiro?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank">CPU-X</a>&nbsp;<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank"><img src="https://img.shields.io/github/stars/TheTumultuousUnicornOfDarkness/CPU-X?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank">kafka</a>&nbsp;<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank"><img src="https://img.shields.io/github/stars/apache/kafka?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/keplergl/kepler.gl" title="Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets." target="_blank">kepler.gl</a>&nbsp;<a href="https://github.com/keplergl/kepler.gl" title="Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets." target="_blank"><img src="https://img.shields.io/github/stars/keplergl/kepler.gl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/paperwm/PaperWM" title="Tiled scrollable window management for GNOME Shell" target="_blank">PaperWM</a>&nbsp;<a href="https://github.com/paperwm/PaperWM" title="Tiled scrollable window management for GNOME Shell" target="_blank"><img src="https://img.shields.io/github/stars/paperwm/PaperWM?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gristlabs/grist-core" title="Grist is the evolution of spreadsheets." target="_blank">grist-core</a>&nbsp;<a href="https://github.com/gristlabs/grist-core" title="Grist is the evolution of spreadsheets." target="_blank"><img src="https://img.shields.io/github/stars/gristlabs/grist-core?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank">md-bruno</a>&nbsp;<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/md-bruno?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kooked-ch/portal" title="null" target="_blank">portal</a>&nbsp;<a href="https://github.com/kooked-ch/portal" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/portal?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank">hurl</a>&nbsp;<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank"><img src="https://img.shields.io/github/stars/Orange-OpenSource/hurl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank">wp-continuous-integration</a>&nbsp;<a href="https://github.com/epfl-si/wp-continuous-integration" title="WP Continuous Integration for PR images builds with Tekton" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-continuous-integration?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/la-plaje/website/commits/311b9c2fcaacc692c89236c8215b17ba531e0c5c" title="2025-07-30T18:43:11.000+02:00" target="_blank">311b9c2f</a><a href="https://github.com/la-plaje">@la-plaje</a><a href="https://github.com/la-plaje/website" title="null">/website</a></strong></div>
+          <pre>First home page
+
+- Uses the "umbrella on the beach" Twemoji SVG
+- "Logo" text uses the Josefin Google Font
+- OpenGraph and other meta are set</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/b47786a53dd9f69bfc50454690b6614b329412c2" title="2025-07-08T20:18:29.000+02:00" target="_blank">b47786a5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] `Gemfile`: You cannot specify the same gem twice with different version requirements.
@@ -161,16 +170,11 @@ ensure that only "our" namespace and "service" is taken.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/c8cb44ed45e515bf81bfdae895f10c420b7c2a93" title="2025-07-05T23:58:15.000+02:00" target="_blank">c8cb44ed</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[feature] `/alertmanger/` now serves the Prometheus's Alertmanager</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/8e8a9ecf62305dcc12299f297b6ec5e3082b6b40" title="2025-07-05T23:30:31.000+02:00" target="_blank">8e8a9ecf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[bump] to v3.9.0</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 30 Jul 2025 14:00:10 GMT</small>
+<small>⏰ Updated on Thu, 31 Jul 2025 13:58:48 GMT</small>
 </td>
 </tr>
 </tfoot>
