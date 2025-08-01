@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 15 years and 6 months.
+    <br />Apparently, I'm hanging around on GitHub since 15 years and 7 months.
     <br />You can reach me on mastodon <a href="https://mastodon.social/@ponsfrilus" rel="me">@mastodon.social@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -174,7 +174,7 @@ ensure that only "our" namespace and "service" is taken.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 31 Jul 2025 13:58:48 GMT</small>
+<small>⏰ Updated on Fri, 01 Aug 2025 13:58:29 GMT</small>
 </td>
 </tr>
 </tfoot>
