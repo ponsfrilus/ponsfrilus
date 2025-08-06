@@ -103,6 +103,24 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-translate/commits/63e5e3a24632a91201210543c80cb89b47547e19" title="2025-08-06T11:25:32.000+02:00" target="_blank">63e5e3a2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-translate" title="Simple WordPress plugin to translate page with Google Translate">/wp-plugin-epfl-translate</a></strong></div>
+          <pre>[bump] version to 1.0.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-translate/commits/07164ae2057ce8f05e5ec71c3e2fba40593a5b20" title="2025-08-06T10:34:58.000+02:00" target="_blank">07164ae2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-translate" title="Simple WordPress plugin to translate page with Google Translate">/wp-plugin-epfl-translate</a></strong></div>
+          <pre>[feature] Improve file header
+
+- Add package and license
+- Add plugin URI</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-translate/commits/910f02acd408ebb94f3837c6cd59741409db91d1" title="2025-08-06T10:34:19.000+02:00" target="_blank">910f02ac</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-translate" title="Simple WordPress plugin to translate page with Google Translate">/wp-plugin-epfl-translate</a></strong></div>
+          <pre>[lint] Fix spacing and get closer to WordPress Coding Standards</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/la-plaje/website/commits/311b9c2fcaacc692c89236c8215b17ba531e0c5c" title="2025-07-30T18:43:11.000+02:00" target="_blank">311b9c2f</a><a href="https://github.com/la-plaje">@la-plaje</a><a href="https://github.com/la-plaje/website" title="null">/website</a></strong></div>
           <pre>First home page
 
@@ -155,26 +173,11 @@ ensure that only "our" namespace and "service" is taken.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/be8d9e9558f551ad0cb63cf6d583a2a89e9aec51" title="2025-07-05T23:59:16.000+02:00" target="_blank">be8d9e95</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[chore] Increase prometheus retention</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/8ff356a3718e7667777fadc2a1891a23d50ce223" title="2025-07-05T23:59:03.000+02:00" target="_blank">8ff356a3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Disk usage alerts description</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/7968177ee039825a9caf8b193e3cbe1801316492" title="2025-07-05T23:58:35.000+02:00" target="_blank">7968177e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[chore] Use latest prometheus</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/c8cb44ed45e515bf81bfdae895f10c420b7c2a93" title="2025-07-05T23:58:15.000+02:00" target="_blank">c8cb44ed</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[feature] `/alertmanger/` now serves the Prometheus's Alertmanager</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 05 Aug 2025 14:01:58 GMT</small>
+<small>⏰ Updated on Wed, 06 Aug 2025 14:01:26 GMT</small>
 </td>
 </tr>
 </tfoot>
