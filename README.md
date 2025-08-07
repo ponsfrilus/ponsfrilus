@@ -103,6 +103,13 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-translate/commits/5ed8552fc7a39c874ba635ee678387ff5001d369" title="2025-08-07T11:21:03.000+02:00" target="_blank">5ed8552f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-translate" title="Simple WordPress plugin to translate page with Google Translate">/wp-plugin-epfl-translate</a></strong></div>
+          <pre>[doc] Screenshots
+
+Add 2 screenshots (disclaimer text and languages selector).</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-translate/commits/63e5e3a24632a91201210543c80cb89b47547e19" title="2025-08-06T11:25:32.000+02:00" target="_blank">63e5e3a2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-translate" title="Simple WordPress plugin to translate page with Google Translate">/wp-plugin-epfl-translate</a></strong></div>
           <pre>[bump] version to 1.0.0</pre>
         </td>
@@ -168,16 +175,11 @@ ensure that only "our" namespace and "service" is taken.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/3834f5de64772a9f4a3e169f68ecd86c0d41619c" title="2025-07-06T00:16:14.000+02:00" target="_blank">3834f5de</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] Alertmanager `web.external-url`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/be8d9e9558f551ad0cb63cf6d583a2a89e9aec51" title="2025-07-05T23:59:16.000+02:00" target="_blank">be8d9e95</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[chore] Increase prometheus retention</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 06 Aug 2025 14:01:26 GMT</small>
+<small>⏰ Updated on Thu, 07 Aug 2025 14:00:06 GMT</small>
 </td>
 </tr>
 </tfoot>
