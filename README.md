@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer allows you to download Spotify tracks, albums, and playlists from Deezer using ISRC matching, which is very accurate." target="_blank">Spotizer</a>&nbsp;<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer allows you to download Spotify tracks, albums, and playlists from Deezer using ISRC matching, which is very accurate." target="_blank"><img src="https://img.shields.io/github/stars/afkarxyz/Spotizer?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank">quarkdown</a>&nbsp;<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank"><img src="https://img.shields.io/github/stars/iamgio/quarkdown?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/kooked-ch/portal" title="null" target="_blank">portal</a>&nbsp;<a href="https://github.com/kooked-ch/portal" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/portal?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank">hurl</a>&nbsp;<a href="https://github.com/Orange-OpenSource/hurl" title="Hurl, run and test HTTP requests with plain text." target="_blank"><img src="https://img.shields.io/github/stars/Orange-OpenSource/hurl?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/audabas/bga-dark-theme" title="A dark css theme for boardgamearena.com" target="_blank">bga-dark-theme</a>&nbsp;<a href="https://github.com/audabas/bga-dark-theme" title="A dark css theme for boardgamearena.com" target="_blank"><img src="https://img.shields.io/github/stars/audabas/bga-dark-theme?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/wichtounet/swr-calculator" title="Safe Withdrawal Rate (SWR) Calculator" target="_blank">swr-calculator</a>&nbsp;<a href="https://github.com/wichtounet/swr-calculator" title="Safe Withdrawal Rate (SWR) Calculator" target="_blank"><img src="https://img.shields.io/github/stars/wichtounet/swr-calculator?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank">harper</a>&nbsp;<a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/harper?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Snouzy/workout-cool" title="🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database." target="_blank">workout-cool</a>&nbsp;<a href="https://github.com/Snouzy/workout-cool" title="🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database." target="_blank"><img src="https://img.shields.io/github/stars/Snouzy/workout-cool?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -179,7 +179,7 @@ ensure that only "our" namespace and "service" is taken.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 08 Aug 2025 13:58:29 GMT</small>
+<small>⏰ Updated on Mon, 11 Aug 2025 13:57:57 GMT</small>
 </td>
 </tr>
 </tfoot>
