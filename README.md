@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/embedpdf/embed-pdf-viewer" title="A PDF viewer that seamlessly integrates with any JavaScript project" target="_blank">embed-pdf-viewer</a>&nbsp;<a href="https://github.com/embedpdf/embed-pdf-viewer" title="A PDF viewer that seamlessly integrates with any JavaScript project" target="_blank"><img src="https://img.shields.io/github/stars/embedpdf/embed-pdf-viewer?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/audabas/bga-dark-theme" title="A dark css theme for boardgamearena.com" target="_blank">bga-dark-theme</a>&nbsp;<a href="https://github.com/audabas/bga-dark-theme" title="A dark css theme for boardgamearena.com" target="_blank"><img src="https://img.shields.io/github/stars/audabas/bga-dark-theme?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/wichtounet/swr-calculator" title="Safe Withdrawal Rate (SWR) Calculator" target="_blank">swr-calculator</a>&nbsp;<a href="https://github.com/wichtounet/swr-calculator" title="Safe Withdrawal Rate (SWR) Calculator" target="_blank"><img src="https://img.shields.io/github/stars/wichtounet/swr-calculator?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/dani-garcia/vaultwarden" title="Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs" target="_blank">vaultwarden</a>&nbsp;<a href="https://github.com/dani-garcia/vaultwarden" title="Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs" target="_blank"><img src="https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/permissionlesstech/bitchat" title="bluetooth mesh chat, IRC vibes" target="_blank">bitchat</a>&nbsp;<a href="https://github.com/permissionlesstech/bitchat" title="bluetooth mesh chat, IRC vibes" target="_blank"><img src="https://img.shields.io/github/stars/permissionlesstech/bitchat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/basecamp/omarchy" title="Opinionated Arch/Hyprland Setup" target="_blank">omarchy</a>&nbsp;<a href="https://github.com/basecamp/omarchy" title="Opinionated Arch/Hyprland Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omarchy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Alex313031/thorium" title="Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md." target="_blank">thorium</a>&nbsp;<a href="https://github.com/Alex313031/thorium" title="Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md." target="_blank"><img src="https://img.shields.io/github/stars/Alex313031/thorium?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/DPGAlliance/dpg-standard" title="Digital Public Goods Standard" target="_blank">dpg-standard</a>&nbsp;<a href="https://github.com/DPGAlliance/dpg-standard" title="Digital Public Goods Standard" target="_blank"><img src="https://img.shields.io/github/stars/DPGAlliance/dpg-standard?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/intel/ipu6-camera-bins" title="null" target="_blank">ipu6-camera-bins</a>&nbsp;<a href="https://github.com/intel/ipu6-camera-bins" title="null" target="_blank"><img src="https://img.shields.io/github/stars/intel/ipu6-camera-bins?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank">automatisch</a>&nbsp;<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank"><img src="https://img.shields.io/github/stars/automatisch/automatisch?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/afkarxyz/Spotizer" title="Spotizer allows you to download Spotify tracks, albums, and playlists from Deezer using ISRC matching, which is very accurate." target="_blank">Spotizer</a>&nbsp;<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer allows you to download Spotify tracks, albums, and playlists from Deezer using ISRC matching, which is very accurate." target="_blank"><img src="https://img.shields.io/github/stars/afkarxyz/Spotizer?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/kooked-ch/portal" title="null" target="_blank">portal</a>&nbsp;<a href="https://github.com/kooked-ch/portal" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/portal?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/audabas/bga-dark-theme" title="A dark css theme for boardgamearena.com" target="_blank">bga-dark-theme</a>&nbsp;<a href="https://github.com/audabas/bga-dark-theme" title="A dark css theme for boardgamearena.com" target="_blank"><img src="https://img.shields.io/github/stars/audabas/bga-dark-theme?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/wichtounet/swr-calculator" title="Safe Withdrawal Rate (SWR) Calculator" target="_blank">swr-calculator</a>&nbsp;<a href="https://github.com/wichtounet/swr-calculator" title="Safe Withdrawal Rate (SWR) Calculator" target="_blank"><img src="https://img.shields.io/github/stars/wichtounet/swr-calculator?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dani-garcia/vaultwarden" title="Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs" target="_blank">vaultwarden</a>&nbsp;<a href="https://github.com/dani-garcia/vaultwarden" title="Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs" target="_blank"><img src="https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/permissionlesstech/bitchat" title="bluetooth mesh chat, IRC vibes" target="_blank">bitchat</a>&nbsp;<a href="https://github.com/permissionlesstech/bitchat" title="bluetooth mesh chat, IRC vibes" target="_blank"><img src="https://img.shields.io/github/stars/permissionlesstech/bitchat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/basecamp/omarchy" title="Opinionated Arch/Hyprland Setup" target="_blank">omarchy</a>&nbsp;<a href="https://github.com/basecamp/omarchy" title="Opinionated Arch/Hyprland Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omarchy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Alex313031/thorium" title="Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md." target="_blank">thorium</a>&nbsp;<a href="https://github.com/Alex313031/thorium" title="Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md." target="_blank"><img src="https://img.shields.io/github/stars/Alex313031/thorium?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/DPGAlliance/dpg-standard" title="Digital Public Goods Standard" target="_blank">dpg-standard</a>&nbsp;<a href="https://github.com/DPGAlliance/dpg-standard" title="Digital Public Goods Standard" target="_blank"><img src="https://img.shields.io/github/stars/DPGAlliance/dpg-standard?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/intel/ipu6-camera-bins" title="null" target="_blank">ipu6-camera-bins</a>&nbsp;<a href="https://github.com/intel/ipu6-camera-bins" title="null" target="_blank"><img src="https://img.shields.io/github/stars/intel/ipu6-camera-bins?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank">automatisch</a>&nbsp;<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank"><img src="https://img.shields.io/github/stars/automatisch/automatisch?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank">harper</a>&nbsp;<a href="https://github.com/Automattic/harper" title="Offline, privacy-first grammar checker. Fast, open-source, Rust-powered" target="_blank"><img src="https://img.shields.io/github/stars/Automattic/harper?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -179,7 +179,7 @@ ensure that only "our" namespace and "service" is taken.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 15 Aug 2025 13:50:02 GMT</small>
+<small>⏰ Updated on Mon, 18 Aug 2025 13:55:33 GMT</small>
 </td>
 </tr>
 </tfoot>
