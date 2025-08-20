@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/9fc1cfdcbfc39bc5323aa38ddd383ca511a3fe5d" title="2025-08-19T11:36:12.000+02:00" target="_blank">9fc1cfdc</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
+          <pre>[feature] Add quiz's title</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/c6e34b716f3797bb94f6bee74440d3eca78e119a" title="2025-08-19T11:26:30.000+02:00" target="_blank">c6e34b71</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
+          <pre>[feature] Git quiz</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-translate/commits/5ed8552fc7a39c874ba635ee678387ff5001d369" title="2025-08-07T11:21:03.000+02:00" target="_blank">5ed8552f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-translate" title="Simple WordPress plugin to translate page with Google Translate">/wp-plugin-epfl-translate</a></strong></div>
           <pre>[doc] Screenshots
 
@@ -159,27 +169,11 @@ See https://docs.joinmastodon.org/admin/config/#prometheus</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/reservations/commits/3c3cf92dfab0567682b2201c119d7c934b0948cc" title="2025-07-08T16:18:38.000+02:00" target="_blank">3c3cf92d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/reservations" title="Source code for the reservations.epfl.ch Web app">/reservations</a></strong></div>
           <pre>[feature] Script to ensure Super Admin Group is included</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/f68e64fd8df766d697e3966dcc89ef656df10eb6" title="2025-07-07T18:23:37.000+02:00" target="_blank">f68e64fd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] Confine MariaDB dashboard to "WPN"
-
-The rule `mysql_global_status_acl_database_grants` is too broad and 
-catch other instance of MariaDB among the cluster. Adding the label 
-filter 
-`{instance=~'mariadb-0(.*).svc0041p-wordpress.svc.cluster.local'}` 
-ensure that only "our" namespace and "service" is taken.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/3834f5de64772a9f4a3e169f68ecd86c0d41619c" title="2025-07-06T00:16:14.000+02:00" target="_blank">3834f5de</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Alertmanager `web.external-url`</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 19 Aug 2025 13:49:37 GMT</small>
+<small>⏰ Updated on Wed, 20 Aug 2025 13:50:05 GMT</small>
 </td>
 </tr>
 </tfoot>
