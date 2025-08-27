@@ -103,6 +103,32 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/8a6ce0f70965084600b36ff1913e236a83b198bb" title="2025-08-27T09:58:26.000+02:00" target="_blank">8a6ce0f7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Simplify the docker install (hello `python3-docker`)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/82bf736c37338ae1c173f8b3457a88c48e9ff335" title="2025-08-27T09:57:58.000+02:00" target="_blank">82bf736c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Network Ouroboros</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/bb744cd272f2eec627043a5109cd117a4b18b0b7" title="2025-08-27T09:57:08.000+02:00" target="_blank">bb744cd2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Diretory creation</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/a2c4ea322c6e6eb01fc050839413532ccaae117e" title="2025-08-27T09:55:38.000+02:00" target="_blank">a2c4ea32</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[rollback] Networking
+
+No sure why molesting the DHCP configuration is needed, but I'm sure
+that I lost some hours because of it: this should be tested after a
+reboot, and you will happily learn that, instead of fixing it, you will
+loose the connection to the VM. Do you know who didn't set a local admin
+password offering the ability to fix stuff in the OpenStack console? Us.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6ee72c2845c514465ac119bb7a2d3b37c5788a57" title="2025-08-21T11:52:06.000+02:00" target="_blank">6ee72c28</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[ocd] Sort plugins in alphabetical order</pre>
         </td>
@@ -136,44 +162,11 @@ Add 2 screenshots (disclaimer text and languages selector).</pre>
 - Add package and license
 - Add plugin URI</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-translate/commits/910f02acd408ebb94f3837c6cd59741409db91d1" title="2025-08-06T10:34:19.000+02:00" target="_blank">910f02ac</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-translate" title="Simple WordPress plugin to translate page with Google Translate">/wp-plugin-epfl-translate</a></strong></div>
-          <pre>[lint] Fix spacing and get closer to WordPress Coding Standards</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/la-plaje/website/commits/311b9c2fcaacc692c89236c8215b17ba531e0c5c" title="2025-07-30T18:43:11.000+02:00" target="_blank">311b9c2f</a><a href="https://github.com/la-plaje">@la-plaje</a><a href="https://github.com/la-plaje/website" title="null">/website</a></strong></div>
-          <pre>First home page
-
-- Uses the "umbrella on the beach" Twemoji SVG
-- "Logo" text uses the Josefin Google Font
-- OpenGraph and other meta are set</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/b47786a53dd9f69bfc50454690b6614b329412c2" title="2025-07-08T20:18:29.000+02:00" target="_blank">b47786a5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] `Gemfile`: You cannot specify the same gem twice with different version requirements.
-
-Due to this PR (https://github.com/mastodon/mastodon/pull/33734), the 
-`prometheus_exporter` gem is already in the image causing a conflict.
-
-Need to check which `PrometheusExporter::Instrumentation` to remove now. 
-See https://docs.joinmastodon.org/admin/config/#prometheus</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/39137e06ba8d0365224747ba9ad0b37cedc4190c" title="2025-07-08T19:54:09.000+02:00" target="_blank">39137e06</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[bump] to v4.4.0
-
-- https://blog.joinmastodon.org/2025/07/mastodon-4.4/
-- https://github.com/mastodon/mastodon/releases/tag/v4.4.0</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 26 Aug 2025 13:50:06 GMT</small>
+<small>⏰ Updated on Wed, 27 Aug 2025 13:48:20 GMT</small>
 </td>
 </tr>
 </tfoot>
