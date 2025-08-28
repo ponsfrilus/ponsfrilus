@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/ffae964f27848356fe1212e055459e4cb067d106" title="2025-08-28T09:52:30.000+02:00" target="_blank">ffae964f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <pre>[feature] Subtler version</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/acbad59b2c111058dd5f221215daf9886860193c" title="2025-08-28T09:43:27.000+02:00" target="_blank">acbad59b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <pre>[fix] White bottom padding</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/8a6ce0f70965084600b36ff1913e236a83b198bb" title="2025-08-27T09:58:26.000+02:00" target="_blank">8a6ce0f7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[fix] Simplify the docker install (hello `python3-docker`)</pre>
         </td>
@@ -149,24 +159,11 @@ password offering the ability to fix stuff in the OpenStack console? Us.</pre>
 
 Add 2 screenshots (disclaimer text and languages selector).</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-translate/commits/63e5e3a24632a91201210543c80cb89b47547e19" title="2025-08-06T11:25:32.000+02:00" target="_blank">63e5e3a2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-translate" title="Simple WordPress plugin to translate page with Google Translate">/wp-plugin-epfl-translate</a></strong></div>
-          <pre>[bump] version to 1.0.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-translate/commits/07164ae2057ce8f05e5ec71c3e2fba40593a5b20" title="2025-08-06T10:34:58.000+02:00" target="_blank">07164ae2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-translate" title="Simple WordPress plugin to translate page with Google Translate">/wp-plugin-epfl-translate</a></strong></div>
-          <pre>[feature] Improve file header
-
-- Add package and license
-- Add plugin URI</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 27 Aug 2025 13:48:20 GMT</small>
+<small>⏰ Updated on Thu, 28 Aug 2025 13:48:07 GMT</small>
 </td>
 </tr>
 </tfoot>
