@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank">core</a>&nbsp;<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank"><img src="https://img.shields.io/github/stars/adonisjs/core?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer allows you to download Spotify tracks, albums, and playlists from Deezer using ISRC matching, which is very accurate." target="_blank">Spotizer</a>&nbsp;<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer allows you to download Spotify tracks, albums, and playlists from Deezer using ISRC matching, which is very accurate." target="_blank"><img src="https://img.shields.io/github/stars/afkarxyz/Spotizer?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank">quarkdown</a>&nbsp;<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank"><img src="https://img.shields.io/github/stars/iamgio/quarkdown?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank">FlopperZiro</a>&nbsp;<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank"><img src="https://img.shields.io/github/stars/lraton/FlopperZiro?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank">CPU-X</a>&nbsp;<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank"><img src="https://img.shields.io/github/stars/TheTumultuousUnicornOfDarkness/CPU-X?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank">kafka</a>&nbsp;<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank"><img src="https://img.shields.io/github/stars/apache/kafka?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/keplergl/kepler.gl" title="Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets." target="_blank">kepler.gl</a>&nbsp;<a href="https://github.com/keplergl/kepler.gl" title="Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets." target="_blank"><img src="https://img.shields.io/github/stars/keplergl/kepler.gl?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/paperwm/PaperWM" title="Tiled scrollable window management for GNOME Shell" target="_blank">PaperWM</a>&nbsp;<a href="https://github.com/paperwm/PaperWM" title="Tiled scrollable window management for GNOME Shell" target="_blank"><img src="https://img.shields.io/github/stars/paperwm/PaperWM?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gristlabs/grist-core" title="Grist is the evolution of spreadsheets." target="_blank">grist-core</a>&nbsp;<a href="https://github.com/gristlabs/grist-core" title="Grist is the evolution of spreadsheets." target="_blank"><img src="https://img.shields.io/github/stars/gristlabs/grist-core?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank">md-bruno</a>&nbsp;<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/md-bruno?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/embedpdf/embed-pdf-viewer" title="A PDF viewer that seamlessly integrates with any JavaScript project" target="_blank">embed-pdf-viewer</a>&nbsp;<a href="https://github.com/embedpdf/embed-pdf-viewer" title="A PDF viewer that seamlessly integrates with any JavaScript project" target="_blank"><img src="https://img.shields.io/github/stars/embedpdf/embed-pdf-viewer?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank">automatisch</a>&nbsp;<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank"><img src="https://img.shields.io/github/stars/automatisch/automatisch?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer allows you to download Spotify tracks, albums, and playlists from Deezer using ISRC matching, which is very accurate." target="_blank">Spotizer</a>&nbsp;<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer allows you to download Spotify tracks, albums, and playlists from Deezer using ISRC matching, which is very accurate." target="_blank"><img src="https://img.shields.io/github/stars/afkarxyz/Spotizer?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank">quarkdown</a>&nbsp;<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank"><img src="https://img.shields.io/github/stars/iamgio/quarkdown?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank">FlopperZiro</a>&nbsp;<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank"><img src="https://img.shields.io/github/stars/lraton/FlopperZiro?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank">CPU-X</a>&nbsp;<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank"><img src="https://img.shields.io/github/stars/TheTumultuousUnicornOfDarkness/CPU-X?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank">kafka</a>&nbsp;<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank"><img src="https://img.shields.io/github/stars/apache/kafka?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/keplergl/kepler.gl" title="Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets." target="_blank">kepler.gl</a>&nbsp;<a href="https://github.com/keplergl/kepler.gl" title="Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets." target="_blank"><img src="https://img.shields.io/github/stars/keplergl/kepler.gl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/paperwm/PaperWM" title="Tiled scrollable window management for GNOME Shell" target="_blank">PaperWM</a>&nbsp;<a href="https://github.com/paperwm/PaperWM" title="Tiled scrollable window management for GNOME Shell" target="_blank"><img src="https://img.shields.io/github/stars/paperwm/PaperWM?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gristlabs/grist-core" title="Grist is the evolution of spreadsheets." target="_blank">grist-core</a>&nbsp;<a href="https://github.com/gristlabs/grist-core" title="Grist is the evolution of spreadsheets." target="_blank"><img src="https://img.shields.io/github/stars/gristlabs/grist-core?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank">md-bruno</a>&nbsp;<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/md-bruno?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kooked-ch/portal" title="null" target="_blank">portal</a>&nbsp;<a href="https://github.com/kooked-ch/portal" title="null" target="_blank"><img src="https://img.shields.io/github/stars/kooked-ch/portal?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -163,7 +163,7 @@ Add 2 screenshots (disclaimer text and languages selector).</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 28 Aug 2025 13:48:07 GMT</small>
+<small>⏰ Updated on Fri, 29 Aug 2025 13:46:46 GMT</small>
 </td>
 </tr>
 </tfoot>
