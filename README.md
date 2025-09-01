@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 15 years and 7 months.
+    <br />Apparently, I'm hanging around on GitHub since 15 years and 8 months.
     <br />You can reach me on mastodon <a href="https://mastodon.social/@ponsfrilus" rel="me">@mastodon.social@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -31,6 +31,9 @@
 <tr>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive Load is what matters" target="_blank">cognitive-load</a>&nbsp;<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive Load is what matters" target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/cognitive-load?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank">core</a>&nbsp;<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank"><img src="https://img.shields.io/github/stars/adonisjs/core?style=social" alt="GitHub"></a>
 </li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/gristlabs/grist-core" title="Grist is the evolution of spreadsheets." target="_blank">grist-core</a>&nbsp;<a href="https://github.com/gristlabs/grist-core" title="Grist is the evolution of spreadsheets." target="_blank"><img src="https://img.shields.io/github/stars/gristlabs/grist-core?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank">md-bruno</a>&nbsp;<a href="https://github.com/epfl-si/md-bruno" title="Collection d'appels vers les APIs de l'équipe MD" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/md-bruno?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/jj-vcs/jj" title="A Git-compatible VCS that is both simple and powerful" target="_blank">jj</a>&nbsp;<a href="https://github.com/jj-vcs/jj" title="A Git-compatible VCS that is both simple and powerful" target="_blank"><img src="https://img.shields.io/github/stars/jj-vcs/jj?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/embedpdf/embed-pdf-viewer" title="A PDF viewer that seamlessly integrates with any JavaScript project" target="_blank">embed-pdf-viewer</a>&nbsp;<a href="https://github.com/embedpdf/embed-pdf-viewer" title="A PDF viewer that seamlessly integrates with any JavaScript project" target="_blank"><img src="https://img.shields.io/github/stars/embedpdf/embed-pdf-viewer?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/intel/ipu6-camera-bins" title="null" target="_blank">ipu6-camera-bins</a>&nbsp;<a href="https://github.com/intel/ipu6-camera-bins" title="null" target="_blank"><img src="https://img.shields.io/github/stars/intel/ipu6-camera-bins?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank">automatisch</a>&nbsp;<a href="https://github.com/automatisch/automatisch" title="The open source Zapier alternative. Build workflow automation without spending time and money." target="_blank"><img src="https://img.shields.io/github/stars/automatisch/automatisch?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -163,7 +163,7 @@ Add 2 screenshots (disclaimer text and languages selector).</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 29 Aug 2025 13:46:46 GMT</small>
+<small>⏰ Updated on Mon, 01 Sep 2025 13:48:10 GMT</small>
 </td>
 </tr>
 </tfoot>
