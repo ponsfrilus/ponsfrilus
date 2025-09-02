@@ -163,7 +163,7 @@ Add 2 screenshots (disclaimer text and languages selector).</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 01 Sep 2025 13:48:10 GMT</small>
+<small>⏰ Updated on Tue, 02 Sep 2025 13:49:08 GMT</small>
 </td>
 </tr>
 </tfoot>
