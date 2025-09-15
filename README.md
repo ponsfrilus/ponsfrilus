@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/ofkm/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank">arcane</a>&nbsp;<a href="https://github.com/ofkm/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank"><img src="https://img.shields.io/github/stars/ofkm/arcane?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank">apertus-tech-report</a>&nbsp;<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank"><img src="https://img.shields.io/github/stars/swiss-ai/apertus-tech-report?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive Load is what matters" target="_blank">cognitive-load</a>&nbsp;<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive Load is what matters" target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/cognitive-load?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank">core</a>&nbsp;<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank"><img src="https://img.shields.io/github/stars/adonisjs/core?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer allows you to download Spotify tracks, albums, and playlists from Deezer using ISRC matching, which is very accurate." target="_blank">Spotizer</a>&nbsp;<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer allows you to download Spotify tracks, albums, and playlists from Deezer using ISRC matching, which is very accurate." target="_blank"><img src="https://img.shields.io/github/stars/afkarxyz/Spotizer?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank">quarkdown</a>&nbsp;<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank"><img src="https://img.shields.io/github/stars/iamgio/quarkdown?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank">FlopperZiro</a>&nbsp;<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank"><img src="https://img.shields.io/github/stars/lraton/FlopperZiro?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank">CPU-X</a>&nbsp;<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank"><img src="https://img.shields.io/github/stars/TheTumultuousUnicornOfDarkness/CPU-X?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank">kafka</a>&nbsp;<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank"><img src="https://img.shields.io/github/stars/apache/kafka?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/keplergl/kepler.gl" title="Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets." target="_blank">kepler.gl</a>&nbsp;<a href="https://github.com/keplergl/kepler.gl" title="Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets." target="_blank"><img src="https://img.shields.io/github/stars/keplergl/kepler.gl?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank">linear</a>&nbsp;<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank"><img src="https://img.shields.io/github/stars/linear/linear?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank">apertus-tech-report</a>&nbsp;<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank"><img src="https://img.shields.io/github/stars/swiss-ai/apertus-tech-report?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive Load is what matters" target="_blank">cognitive-load</a>&nbsp;<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive Load is what matters" target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/cognitive-load?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank">core</a>&nbsp;<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank"><img src="https://img.shields.io/github/stars/adonisjs/core?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer allows you to download Spotify tracks, albums, and playlists from Deezer using ISRC matching, which is very accurate." target="_blank">Spotizer</a>&nbsp;<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer allows you to download Spotify tracks, albums, and playlists from Deezer using ISRC matching, which is very accurate." target="_blank"><img src="https://img.shields.io/github/stars/afkarxyz/Spotizer?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank">quarkdown</a>&nbsp;<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank"><img src="https://img.shields.io/github/stars/iamgio/quarkdown?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank">FlopperZiro</a>&nbsp;<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank"><img src="https://img.shields.io/github/stars/lraton/FlopperZiro?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank">CPU-X</a>&nbsp;<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank"><img src="https://img.shields.io/github/stars/TheTumultuousUnicornOfDarkness/CPU-X?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank">kafka</a>&nbsp;<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank"><img src="https://img.shields.io/github/stars/apache/kafka?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/keplergl/kepler.gl" title="Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets." target="_blank">kepler.gl</a>&nbsp;<a href="https://github.com/keplergl/kepler.gl" title="Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets." target="_blank"><img src="https://img.shields.io/github/stars/keplergl/kepler.gl?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/paperwm/PaperWM" title="Tiled scrollable window management for GNOME Shell" target="_blank">PaperWM</a>&nbsp;<a href="https://github.com/paperwm/PaperWM" title="Tiled scrollable window management for GNOME Shell" target="_blank"><img src="https://img.shields.io/github/stars/paperwm/PaperWM?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/2be6fb71bb65fad75858c86966b2c621080cf5be" title="2025-09-15T09:45:47.000+02:00" target="_blank">2be6fb71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
+          <pre>Update python version and add pre-requisites (#1287)</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/ffae964f27848356fe1212e055459e4cb067d106" title="2025-08-28T09:52:30.000+02:00" target="_blank">ffae964f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
           <pre>[feature] Subtler version</pre>
@@ -152,18 +157,11 @@ password offering the ability to fix stuff in the OpenStack console? Us.</pre>
           <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/c6e34b716f3797bb94f6bee74440d3eca78e119a" title="2025-08-19T11:26:30.000+02:00" target="_blank">c6e34b71</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
           <pre>[feature] Git quiz</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-plugin-epfl-translate/commits/5ed8552fc7a39c874ba635ee678387ff5001d369" title="2025-08-07T11:21:03.000+02:00" target="_blank">5ed8552f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-plugin-epfl-translate" title="Simple WordPress plugin to translate page with Google Translate">/wp-plugin-epfl-translate</a></strong></div>
-          <pre>[doc] Screenshots
-
-Add 2 screenshots (disclaimer text and languages selector).</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 12 Sep 2025 13:45:19 GMT</small>
+<small>⏰ Updated on Mon, 15 Sep 2025 13:45:59 GMT</small>
 </td>
 </tr>
 </tfoot>
