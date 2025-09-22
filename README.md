@@ -38,7 +38,7 @@
 <a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank">apertus-tech-report</a>&nbsp;<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank"><img src="https://img.shields.io/github/stars/swiss-ai/apertus-tech-report?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive Load is what matters" target="_blank">cognitive-load</a>&nbsp;<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive Load is what matters" target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/cognitive-load?style=social" alt="GitHub"></a>
+<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive load is what matters" target="_blank">cognitive-load</a>&nbsp;<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive load is what matters" target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/cognitive-load?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank">core</a>&nbsp;<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank"><img src="https://img.shields.io/github/stars/adonisjs/core?style=social" alt="GitHub"></a>
@@ -161,7 +161,7 @@ password offering the ability to fix stuff in the OpenStack console? Us.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 19 Sep 2025 13:46:21 GMT</small>
+<small>⏰ Updated on Mon, 22 Sep 2025 13:48:03 GMT</small>
 </td>
 </tr>
 </tfoot>
