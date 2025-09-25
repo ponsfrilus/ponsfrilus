@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails" target="_blank">people2</a>&nbsp;<a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/people2?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank">winboat</a>&nbsp;<a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank"><img src="https://img.shields.io/github/stars/TibixDev/winboat?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/permissionlesstech/bitchat" title="bluetooth mesh chat, IRC vibes" target="_blank">bitchat</a>&nbsp;<a href="https://github.com/permissionlesstech/bitchat" title="bluetooth mesh chat, IRC vibes" target="_blank"><img src="https://img.shields.io/github/stars/permissionlesstech/bitchat?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/basecamp/omarchy" title="Opinionated Arch/Hyprland Setup" target="_blank">omarchy</a>&nbsp;<a href="https://github.com/basecamp/omarchy" title="Opinionated Arch/Hyprland Setup" target="_blank"><img src="https://img.shields.io/github/stars/basecamp/omarchy?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank">helium-linux</a>&nbsp;<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank"><img src="https://img.shields.io/github/stars/imputnet/helium-linux?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/ofkm/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank">arcane</a>&nbsp;<a href="https://github.com/ofkm/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank"><img src="https://img.shields.io/github/stars/ofkm/arcane?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank">kafka</a>&nbsp;<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank"><img src="https://img.shields.io/github/stars/apache/kafka?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/keplergl/kepler.gl" title="Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets." target="_blank">kepler.gl</a>&nbsp;<a href="https://github.com/keplergl/kepler.gl" title="Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets." target="_blank"><img src="https://img.shields.io/github/stars/keplergl/kepler.gl?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -161,7 +161,7 @@ password offering the ability to fix stuff in the OpenStack console? Us.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 24 Sep 2025 13:48:21 GMT</small>
+<small>⏰ Updated on Thu, 25 Sep 2025 13:48:06 GMT</small>
 </td>
 </tr>
 </tfoot>
