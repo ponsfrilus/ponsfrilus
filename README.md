@@ -103,6 +103,20 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/e8cd25b2dfda2e21fcd202037f6d3e446b581c0c" title="2025-09-24T16:05:34.000+02:00" target="_blank">e8cd25b2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <pre>[feature] Mock data
+
+(cherry picked from commit 219433018b83ff358c41c66f3ac108d11f59f2ae)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/a764775cf09ef5b0e25756255185e8be4befec36" title="2025-09-24T15:51:54.000+02:00" target="_blank">a764775c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <pre>[feature] Revive `wsgetcours`
+
+(cherry picked from commit 5e968763c869ecf93117ef9fea0ccf6dd2ed09bb)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/2be6fb71bb65fad75858c86966b2c621080cf5be" title="2025-09-15T09:45:47.000+02:00" target="_blank">2be6fb71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
           <pre>Update python version and add pre-requisites (#1287)</pre>
         </td>
@@ -147,21 +161,11 @@ password offering the ability to fix stuff in the OpenStack console? Us.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6ee72c2845c514465ac119bb7a2d3b37c5788a57" title="2025-08-21T11:52:06.000+02:00" target="_blank">6ee72c28</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[ocd] Sort plugins in alphabetical order</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/9fc1cfdcbfc39bc5323aa38ddd383ca511a3fe5d" title="2025-08-19T11:36:12.000+02:00" target="_blank">9fc1cfdc</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
-          <pre>[feature] Add quiz's title</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/c6e34b716f3797bb94f6bee74440d3eca78e119a" title="2025-08-19T11:26:30.000+02:00" target="_blank">c6e34b71</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
-          <pre>[feature] Git quiz</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 25 Sep 2025 13:48:06 GMT</small>
+<small>⏰ Updated on Fri, 26 Sep 2025 13:46:48 GMT</small>
 </td>
 </tr>
 </tfoot>
