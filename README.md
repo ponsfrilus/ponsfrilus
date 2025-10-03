@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/0b6b32b1e30b9a8b23a785dad1ca0c3b921c5664" title="2025-10-02T15:46:22.000+02:00" target="_blank">0b6b32b1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <pre>[feature] /signatures</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/e8cd25b2dfda2e21fcd202037f6d3e446b581c0c" title="2025-09-24T16:05:34.000+02:00" target="_blank">e8cd25b2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
           <pre>[feature] Mock data
 
@@ -156,16 +161,11 @@ reboot, and you will happily learn that, instead of fixing it, you will
 loose the connection to the VM. Do you know who didn't set a local admin
 password offering the ability to fix stuff in the OpenStack console? Us.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6ee72c2845c514465ac119bb7a2d3b37c5788a57" title="2025-08-21T11:52:06.000+02:00" target="_blank">6ee72c28</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[ocd] Sort plugins in alphabetical order</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 02 Oct 2025 13:46:14 GMT</small>
+<small>⏰ Updated on Fri, 03 Oct 2025 13:45:32 GMT</small>
 </td>
 </tr>
 </tfoot>
