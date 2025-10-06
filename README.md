@@ -81,7 +81,7 @@
 <a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank">core</a>&nbsp;<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank"><img src="https://img.shields.io/github/stars/adonisjs/core?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer allows you to download Spotify tracks, albums, and playlists from Deezer using ISRC matching, which is very accurate." target="_blank">Spotizer</a>&nbsp;<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer allows you to download Spotify tracks, albums, and playlists from Deezer using ISRC matching, which is very accurate." target="_blank"><img src="https://img.shields.io/github/stars/afkarxyz/Spotizer?style=social" alt="GitHub"></a>
+<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer lets you download Spotify tracks, albums, and playlists from Deezer using highly accurate ISRC matching." target="_blank">Spotizer</a>&nbsp;<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer lets you download Spotify tracks, albums, and playlists from Deezer using highly accurate ISRC matching." target="_blank"><img src="https://img.shields.io/github/stars/afkarxyz/Spotizer?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank">quarkdown</a>&nbsp;<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank"><img src="https://img.shields.io/github/stars/iamgio/quarkdown?style=social" alt="GitHub"></a>
@@ -165,7 +165,7 @@ password offering the ability to fix stuff in the OpenStack console? Us.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 03 Oct 2025 13:45:32 GMT</small>
+<small>⏰ Updated on Mon, 06 Oct 2025 13:49:13 GMT</small>
 </td>
 </tr>
 </tfoot>
