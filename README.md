@@ -103,6 +103,35 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/f35db4426261eba8d483ca161a6ec18b5814399f" title="2025-10-07T11:35:02.000+02:00" target="_blank">f35db442</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <pre>[hotfix] `index.html` return an error
+
+Right now we do not understand why 
+https://people-next.epfl.ch/signatures/index.html returns an error, but 
+as it works without the filename, let's hot fix it.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/fcabb25fbaeb5d1c47c90555e35b279637036ccf" title="2025-10-07T11:12:57.000+02:00" target="_blank">fcabb25f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <pre>[fix] Avoid the whole import at startup</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/c63d9f7d0236c187a19319db3524d1cff466082a" title="2025-10-07T11:03:17.000+02:00" target="_blank">c63d9f7d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <pre>[fix] Ensure /signatures/index.html</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/3101a38f8e7f487f70159b55996346b18365ef4b" title="2025-10-07T10:31:38.000+02:00" target="_blank">3101a38f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <pre>[fix] Add lang as query param</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/ea46e7d269f3f1ddca556eabb0d739353e6da4a9" title="2025-10-07T10:12:58.000+02:00" target="_blank">ea46e7d2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <pre>[fix] Add sciper as query param</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/0b6b32b1e30b9a8b23a785dad1ca0c3b921c5664" title="2025-10-02T15:46:22.000+02:00" target="_blank">0b6b32b1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
           <pre>[feature] /signatures</pre>
         </td>
@@ -130,42 +159,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/ffae964f27848356fe1212e055459e4cb067d106" title="2025-08-28T09:52:30.000+02:00" target="_blank">ffae964f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
           <pre>[feature] Subtler version</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/acbad59b2c111058dd5f221215daf9886860193c" title="2025-08-28T09:43:27.000+02:00" target="_blank">acbad59b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
-          <pre>[fix] White bottom padding</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/8a6ce0f70965084600b36ff1913e236a83b198bb" title="2025-08-27T09:58:26.000+02:00" target="_blank">8a6ce0f7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[fix] Simplify the docker install (hello `python3-docker`)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/82bf736c37338ae1c173f8b3457a88c48e9ff335" title="2025-08-27T09:57:58.000+02:00" target="_blank">82bf736c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[fix] Network Ouroboros</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/bb744cd272f2eec627043a5109cd117a4b18b0b7" title="2025-08-27T09:57:08.000+02:00" target="_blank">bb744cd2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[fix] Diretory creation</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/a2c4ea322c6e6eb01fc050839413532ccaae117e" title="2025-08-27T09:55:38.000+02:00" target="_blank">a2c4ea32</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[rollback] Networking
-
-No sure why molesting the DHCP configuration is needed, but I'm sure
-that I lost some hours because of it: this should be tested after a
-reboot, and you will happily learn that, instead of fixing it, you will
-loose the connection to the VM. Do you know who didn't set a local admin
-password offering the ability to fix stuff in the OpenStack console? Us.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 06 Oct 2025 13:49:13 GMT</small>
+<small>⏰ Updated on Tue, 07 Oct 2025 13:48:48 GMT</small>
 </td>
 </tr>
 </tfoot>
