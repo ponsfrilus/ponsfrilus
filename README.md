@@ -41,7 +41,7 @@
 <a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank">linear</a>&nbsp;<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank"><img src="https://img.shields.io/github/stars/linear/linear?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/XPL0Z/spotish" title="null" target="_blank">spotish</a>&nbsp;<a href="https://github.com/XPL0Z/spotish" title="null" target="_blank"><img src="https://img.shields.io/github/stars/XPL0Z/spotish?style=social" alt="GitHub"></a>
+<a href="https://github.com/XPL0Z/spotish" title="Download spotify song and play it on hp. You can remote with telegram" target="_blank">spotish</a>&nbsp;<a href="https://github.com/XPL0Z/spotish" title="Download spotify song and play it on hp. You can remote with telegram" target="_blank"><img src="https://img.shields.io/github/stars/XPL0Z/spotish?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/jj-vcs/jj" title="A Git-compatible VCS that is both simple and powerful" target="_blank">jj</a>&nbsp;<a href="https://github.com/jj-vcs/jj" title="A Git-compatible VCS that is both simple and powerful" target="_blank"><img src="https://img.shields.io/github/stars/jj-vcs/jj?style=social" alt="GitHub"></a>
@@ -163,7 +163,7 @@ as it works without the filename, let's hot fix it.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 10 Oct 2025 13:46:47 GMT</small>
+<small>⏰ Updated on Mon, 13 Oct 2025 13:49:37 GMT</small>
 </td>
 </tr>
 </tfoot>
