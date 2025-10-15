@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/karpathy/nanochat" title="The best ChatGPT that $100 can buy." target="_blank">nanochat</a>&nbsp;<a href="https://github.com/karpathy/nanochat" title="The best ChatGPT that $100 can buy." target="_blank"><img src="https://img.shields.io/github/stars/karpathy/nanochat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank">helium-linux</a>&nbsp;<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank"><img src="https://img.shields.io/github/stars/imputnet/helium-linux?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ofkm/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank">arcane</a>&nbsp;<a href="https://github.com/ofkm/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank"><img src="https://img.shields.io/github/stars/ofkm/arcane?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank">apertus-tech-report</a>&nbsp;<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank"><img src="https://img.shields.io/github/stars/swiss-ai/apertus-tech-report?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive load is what matters" target="_blank">cognitive-load</a>&nbsp;<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive load is what matters" target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/cognitive-load?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank">core</a>&nbsp;<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank"><img src="https://img.shields.io/github/stars/adonisjs/core?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer lets you download Spotify tracks, albums, and playlists from Deezer using highly accurate ISRC matching." target="_blank">Spotizer</a>&nbsp;<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer lets you download Spotify tracks, albums, and playlists from Deezer using highly accurate ISRC matching." target="_blank"><img src="https://img.shields.io/github/stars/afkarxyz/Spotizer?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank">quarkdown</a>&nbsp;<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank"><img src="https://img.shields.io/github/stars/iamgio/quarkdown?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank">FlopperZiro</a>&nbsp;<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank"><img src="https://img.shields.io/github/stars/lraton/FlopperZiro?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank">CPU-X</a>&nbsp;<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank"><img src="https://img.shields.io/github/stars/TheTumultuousUnicornOfDarkness/CPU-X?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails" target="_blank">people2</a>&nbsp;<a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/people2?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/permissionlesstech/bitchat" title="bluetooth mesh chat, IRC vibes" target="_blank">bitchat</a>&nbsp;<a href="https://github.com/permissionlesstech/bitchat" title="bluetooth mesh chat, IRC vibes" target="_blank"><img src="https://img.shields.io/github/stars/permissionlesstech/bitchat?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank">helium-linux</a>&nbsp;<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank"><img src="https://img.shields.io/github/stars/imputnet/helium-linux?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ofkm/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank">arcane</a>&nbsp;<a href="https://github.com/ofkm/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank"><img src="https://img.shields.io/github/stars/ofkm/arcane?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank">apertus-tech-report</a>&nbsp;<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank"><img src="https://img.shields.io/github/stars/swiss-ai/apertus-tech-report?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive load is what matters" target="_blank">cognitive-load</a>&nbsp;<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive load is what matters" target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/cognitive-load?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank">core</a>&nbsp;<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank"><img src="https://img.shields.io/github/stars/adonisjs/core?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer lets you download Spotify tracks, albums, and playlists from Deezer using highly accurate ISRC matching." target="_blank">Spotizer</a>&nbsp;<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer lets you download Spotify tracks, albums, and playlists from Deezer using highly accurate ISRC matching." target="_blank"><img src="https://img.shields.io/github/stars/afkarxyz/Spotizer?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank">quarkdown</a>&nbsp;<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank"><img src="https://img.shields.io/github/stars/iamgio/quarkdown?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank">FlopperZiro</a>&nbsp;<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank"><img src="https://img.shields.io/github/stars/lraton/FlopperZiro?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank">CPU-X</a>&nbsp;<a href="https://github.com/TheTumultuousUnicornOfDarkness/CPU-X" title="CPU-X is a Free software that gathers information on CPU, motherboard and more" target="_blank"><img src="https://img.shields.io/github/stars/TheTumultuousUnicornOfDarkness/CPU-X?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank">kafka</a>&nbsp;<a href="https://github.com/apache/kafka" title="Mirror of Apache Kafka" target="_blank"><img src="https://img.shields.io/github/stars/apache/kafka?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -163,7 +163,7 @@ as it works without the filename, let's hot fix it.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 14 Oct 2025 13:49:35 GMT</small>
+<small>⏰ Updated on Wed, 15 Oct 2025 13:50:12 GMT</small>
 </td>
 </tr>
 </tfoot>
