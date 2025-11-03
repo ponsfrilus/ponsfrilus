@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 15 years and 9 months.
+    <br />Apparently, I'm hanging around on GitHub since 15 years and 10 months.
     <br />You can reach me on mastodon <a href="https://mastodon.social/@ponsfrilus" rel="me">@mastodon.social@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -31,6 +31,9 @@
 <tr>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/charmbracelet/glow" title="Render markdown on the CLI, with pizzazz! 💅🏻" target="_blank">glow</a>&nbsp;<a href="https://github.com/charmbracelet/glow" title="Render markdown on the CLI, with pizzazz! 💅🏻" target="_blank"><img src="https://img.shields.io/github/stars/charmbracelet/glow?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/YAL-Tools/ergo-keyboards" title="A list of ergonomic keyboards with filters and stuff" target="_blank">ergo-keyboards</a>&nbsp;<a href="https://github.com/YAL-Tools/ergo-keyboards" title="A list of ergonomic keyboards with filters and stuff" target="_blank"><img src="https://img.shields.io/github/stars/YAL-Tools/ergo-keyboards?style=social" alt="GitHub"></a>
 </li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank">quarkdown</a>&nbsp;<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank"><img src="https://img.shields.io/github/stars/iamgio/quarkdown?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank">FlopperZiro</a>&nbsp;<a href="https://github.com/lraton/FlopperZiro" title="A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE" target="_blank"><img src="https://img.shields.io/github/stars/lraton/FlopperZiro?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank">SARCASM</a>&nbsp;<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank"><img src="https://img.shields.io/github/stars/vindar/SARCASM?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/24eme/signaturepdf" title="Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf" target="_blank">signaturepdf</a>&nbsp;<a href="https://github.com/24eme/signaturepdf" title="Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf" target="_blank"><img src="https://img.shields.io/github/stars/24eme/signaturepdf?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/wichtounet/swr-calculator" title="Safe Withdrawal Rate (SWR) Calculator" target="_blank">swr-calculator</a>&nbsp;<a href="https://github.com/wichtounet/swr-calculator" title="Safe Withdrawal Rate (SWR) Calculator" target="_blank"><img src="https://img.shields.io/github/stars/wichtounet/swr-calculator?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/dani-garcia/vaultwarden" title="Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs" target="_blank">vaultwarden</a>&nbsp;<a href="https://github.com/dani-garcia/vaultwarden" title="Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs" target="_blank"><img src="https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -163,7 +163,7 @@ as it works without the filename, let's hot fix it.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 31 Oct 2025 13:49:00 GMT</small>
+<small>⏰ Updated on Mon, 03 Nov 2025 13:49:30 GMT</small>
 </td>
 </tr>
 </tfoot>
