@@ -44,7 +44,7 @@
 <a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank">helium-linux</a>&nbsp;<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank"><img src="https://img.shields.io/github/stars/imputnet/helium-linux?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/ofkm/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank">arcane</a>&nbsp;<a href="https://github.com/ofkm/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank"><img src="https://img.shields.io/github/stars/ofkm/arcane?style=social" alt="GitHub"></a>
+<a href="https://github.com/getarcaneapp/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank">arcane</a>&nbsp;<a href="https://github.com/getarcaneapp/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank"><img src="https://img.shields.io/github/stars/getarcaneapp/arcane?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank">apertus-tech-report</a>&nbsp;<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank"><img src="https://img.shields.io/github/stars/swiss-ai/apertus-tech-report?style=social" alt="GitHub"></a>
@@ -103,7 +103,7 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/f35db4426261eba8d483ca161a6ec18b5814399f" title="2025-10-07T11:35:02.000+02:00" target="_blank">f35db442</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/1f048be941efa67eb2dcad10114ce2a9114bc3f7" title="2025-10-07T11:35:02.000+02:00" target="_blank">1f048be9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
           <pre>[hotfix] `index.html` return an error
 
 Right now we do not understand why 
@@ -112,42 +112,42 @@ as it works without the filename, let's hot fix it.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/fcabb25fbaeb5d1c47c90555e35b279637036ccf" title="2025-10-07T11:12:57.000+02:00" target="_blank">fcabb25f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/08c47d77d9bf4fe0921eefa302d10a17ce09865d" title="2025-10-07T11:12:57.000+02:00" target="_blank">08c47d77</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
           <pre>[fix] Avoid the whole import at startup</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/c63d9f7d0236c187a19319db3524d1cff466082a" title="2025-10-07T11:03:17.000+02:00" target="_blank">c63d9f7d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/0b72e823c8038f37b70e688d728a6817736906ec" title="2025-10-07T11:03:17.000+02:00" target="_blank">0b72e823</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
           <pre>[fix] Ensure /signatures/index.html</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/3101a38f8e7f487f70159b55996346b18365ef4b" title="2025-10-07T10:31:38.000+02:00" target="_blank">3101a38f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/1e7413df69e14ddc245419c3fc885418f4b7cb89" title="2025-10-07T10:31:38.000+02:00" target="_blank">1e7413df</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
           <pre>[fix] Add lang as query param</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/ea46e7d269f3f1ddca556eabb0d739353e6da4a9" title="2025-10-07T10:12:58.000+02:00" target="_blank">ea46e7d2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/ff15e6f300628d29f3148e14c91fd526c20005b8" title="2025-10-07T10:12:58.000+02:00" target="_blank">ff15e6f3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
           <pre>[fix] Add sciper as query param</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/0b6b32b1e30b9a8b23a785dad1ca0c3b921c5664" title="2025-10-02T15:46:22.000+02:00" target="_blank">0b6b32b1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/f29aedbd7c67aa7662be45951b9e4fd03be75632" title="2025-10-02T15:46:22.000+02:00" target="_blank">f29aedbd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
           <pre>[feature] /signatures</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/e8cd25b2dfda2e21fcd202037f6d3e446b581c0c" title="2025-09-24T16:05:34.000+02:00" target="_blank">e8cd25b2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/259fc4e63cbce0485b145af72b9ee2af39bc23e5" title="2025-09-24T16:05:34.000+02:00" target="_blank">259fc4e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
           <pre>[feature] Mock data
 
-(cherry picked from commit 219433018b83ff358c41c66f3ac108d11f59f2ae)</pre>
+(cherry picked from commit 5b3b6f428b298adde47bc7635a7ffc5e5e218f10)</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/a764775cf09ef5b0e25756255185e8be4befec36" title="2025-09-24T15:51:54.000+02:00" target="_blank">a764775c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/c0281faf4da7e89cdbcb9cf3195f16db0a24351f" title="2025-09-24T15:51:54.000+02:00" target="_blank">c0281faf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
           <pre>[feature] Revive `wsgetcours`
 
-(cherry picked from commit 5e968763c869ecf93117ef9fea0ccf6dd2ed09bb)</pre>
+(cherry picked from commit 8e5f69a9f614974f23679971b40aadc089c182cf)</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -156,14 +156,14 @@ as it works without the filename, let's hot fix it.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/ffae964f27848356fe1212e055459e4cb067d106" title="2025-08-28T09:52:30.000+02:00" target="_blank">ffae964f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/3f57166f870de16a594d1397c4f3c97a450e8f22" title="2025-08-28T09:52:30.000+02:00" target="_blank">3f57166f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
           <pre>[feature] Subtler version</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 03 Nov 2025 13:49:30 GMT</small>
+<small>⏰ Updated on Tue, 04 Nov 2025 13:51:53 GMT</small>
 </td>
 </tr>
 </tfoot>
