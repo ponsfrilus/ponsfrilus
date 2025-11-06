@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank">FlameGraph</a>&nbsp;<a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank"><img src="https://img.shields.io/github/stars/brendangregg/FlameGraph?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank">SARCASM</a>&nbsp;<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank"><img src="https://img.shields.io/github/stars/vindar/SARCASM?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/24eme/signaturepdf" title="Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf" target="_blank">signaturepdf</a>&nbsp;<a href="https://github.com/24eme/signaturepdf" title="Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf" target="_blank"><img src="https://img.shields.io/github/stars/24eme/signaturepdf?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails" target="_blank">people2</a>&nbsp;<a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/people2?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank">winboat</a>&nbsp;<a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank"><img src="https://img.shields.io/github/stars/TibixDev/winboat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank">linear</a>&nbsp;<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank"><img src="https://img.shields.io/github/stars/linear/linear?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/XPL0Z/spotish" title="Download spotify song and play it on hp. You can remote with telegram" target="_blank">spotish</a>&nbsp;<a href="https://github.com/XPL0Z/spotish" title="Download spotify song and play it on hp. You can remote with telegram" target="_blank"><img src="https://img.shields.io/github/stars/XPL0Z/spotish?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jj-vcs/jj" title="A Git-compatible VCS that is both simple and powerful" target="_blank">jj</a>&nbsp;<a href="https://github.com/jj-vcs/jj" title="A Git-compatible VCS that is both simple and powerful" target="_blank"><img src="https://img.shields.io/github/stars/jj-vcs/jj?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/embedpdf/embed-pdf-viewer" title="A PDF viewer that seamlessly integrates with any JavaScript project" target="_blank">embed-pdf-viewer</a>&nbsp;<a href="https://github.com/embedpdf/embed-pdf-viewer" title="A PDF viewer that seamlessly integrates with any JavaScript project" target="_blank"><img src="https://img.shields.io/github/stars/embedpdf/embed-pdf-viewer?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/audabas/bga-dark-theme" title="A dark css theme for boardgamearena.com" target="_blank">bga-dark-theme</a>&nbsp;<a href="https://github.com/audabas/bga-dark-theme" title="A dark css theme for boardgamearena.com" target="_blank"><img src="https://img.shields.io/github/stars/audabas/bga-dark-theme?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/charmbracelet/glow" title="Render markdown on the CLI, with pizzazz! 💅🏻" target="_blank">glow</a>&nbsp;<a href="https://github.com/charmbracelet/glow" title="Render markdown on the CLI, with pizzazz! 💅🏻" target="_blank"><img src="https://img.shields.io/github/stars/charmbracelet/glow?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank">quarkdown</a>&nbsp;<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank"><img src="https://img.shields.io/github/stars/iamgio/quarkdown?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank">SARCASM</a>&nbsp;<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank"><img src="https://img.shields.io/github/stars/vindar/SARCASM?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/24eme/signaturepdf" title="Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf" target="_blank">signaturepdf</a>&nbsp;<a href="https://github.com/24eme/signaturepdf" title="Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf" target="_blank"><img src="https://img.shields.io/github/stars/24eme/signaturepdf?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails" target="_blank">people2</a>&nbsp;<a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/people2?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank">winboat</a>&nbsp;<a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank"><img src="https://img.shields.io/github/stars/TibixDev/winboat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank">linear</a>&nbsp;<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank"><img src="https://img.shields.io/github/stars/linear/linear?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/XPL0Z/spotish" title="Download spotify song and play it on hp. You can remote with telegram" target="_blank">spotish</a>&nbsp;<a href="https://github.com/XPL0Z/spotish" title="Download spotify song and play it on hp. You can remote with telegram" target="_blank"><img src="https://img.shields.io/github/stars/XPL0Z/spotish?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jj-vcs/jj" title="A Git-compatible VCS that is both simple and powerful" target="_blank">jj</a>&nbsp;<a href="https://github.com/jj-vcs/jj" title="A Git-compatible VCS that is both simple and powerful" target="_blank"><img src="https://img.shields.io/github/stars/jj-vcs/jj?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/embedpdf/embed-pdf-viewer" title="A PDF viewer that seamlessly integrates with any JavaScript project" target="_blank">embed-pdf-viewer</a>&nbsp;<a href="https://github.com/embedpdf/embed-pdf-viewer" title="A PDF viewer that seamlessly integrates with any JavaScript project" target="_blank"><img src="https://img.shields.io/github/stars/embedpdf/embed-pdf-viewer?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/audabas/bga-dark-theme" title="A dark css theme for boardgamearena.com" target="_blank">bga-dark-theme</a>&nbsp;<a href="https://github.com/audabas/bga-dark-theme" title="A dark css theme for boardgamearena.com" target="_blank"><img src="https://img.shields.io/github/stars/audabas/bga-dark-theme?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/wichtounet/swr-calculator" title="Safe Withdrawal Rate (SWR) Calculator" target="_blank">swr-calculator</a>&nbsp;<a href="https://github.com/wichtounet/swr-calculator" title="Safe Withdrawal Rate (SWR) Calculator" target="_blank"><img src="https://img.shields.io/github/stars/wichtounet/swr-calculator?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -163,7 +163,7 @@ as it works without the filename, let's hot fix it.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 05 Nov 2025 13:51:19 GMT</small>
+<small>⏰ Updated on Thu, 06 Nov 2025 13:51:00 GMT</small>
 </td>
 </tr>
 </tfoot>
