@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/TRaSH-Guides/Guides" title="TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications." target="_blank">Guides</a>&nbsp;<a href="https://github.com/TRaSH-Guides/Guides" title="TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications." target="_blank"><img src="https://img.shields.io/github/stars/TRaSH-Guides/Guides?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/charmbracelet/glow" title="Render markdown on the CLI, with pizzazz! 💅🏻" target="_blank">glow</a>&nbsp;<a href="https://github.com/charmbracelet/glow" title="Render markdown on the CLI, with pizzazz! 💅🏻" target="_blank"><img src="https://img.shields.io/github/stars/charmbracelet/glow?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/YAL-Tools/ergo-keyboards" title="A list of ergonomic keyboards with filters and stuff" target="_blank">ergo-keyboards</a>&nbsp;<a href="https://github.com/YAL-Tools/ergo-keyboards" title="A list of ergonomic keyboards with filters and stuff" target="_blank"><img src="https://img.shields.io/github/stars/YAL-Tools/ergo-keyboards?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/karpathy/nanochat" title="The best ChatGPT that $100 can buy." target="_blank">nanochat</a>&nbsp;<a href="https://github.com/karpathy/nanochat" title="The best ChatGPT that $100 can buy." target="_blank"><img src="https://img.shields.io/github/stars/karpathy/nanochat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank">helium-linux</a>&nbsp;<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank"><img src="https://img.shields.io/github/stars/imputnet/helium-linux?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/getarcaneapp/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank">arcane</a>&nbsp;<a href="https://github.com/getarcaneapp/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank"><img src="https://img.shields.io/github/stars/getarcaneapp/arcane?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank">apertus-tech-report</a>&nbsp;<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank"><img src="https://img.shields.io/github/stars/swiss-ai/apertus-tech-report?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive load is what matters" target="_blank">cognitive-load</a>&nbsp;<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive load is what matters" target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/cognitive-load?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank">core</a>&nbsp;<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank"><img src="https://img.shields.io/github/stars/adonisjs/core?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer lets you download Spotify tracks, albums, and playlists from Deezer using highly accurate ISRC matching." target="_blank">Spotizer</a>&nbsp;<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer lets you download Spotify tracks, albums, and playlists from Deezer using highly accurate ISRC matching." target="_blank"><img src="https://img.shields.io/github/stars/afkarxyz/Spotizer?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank">FlameGraph</a>&nbsp;<a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank"><img src="https://img.shields.io/github/stars/brendangregg/FlameGraph?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/audabas/bga-dark-theme" title="A dark css theme for boardgamearena.com" target="_blank">bga-dark-theme</a>&nbsp;<a href="https://github.com/audabas/bga-dark-theme" title="A dark css theme for boardgamearena.com" target="_blank"><img src="https://img.shields.io/github/stars/audabas/bga-dark-theme?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/charmbracelet/glow" title="Render markdown on the CLI, with pizzazz! 💅🏻" target="_blank">glow</a>&nbsp;<a href="https://github.com/charmbracelet/glow" title="Render markdown on the CLI, with pizzazz! 💅🏻" target="_blank"><img src="https://img.shields.io/github/stars/charmbracelet/glow?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/YAL-Tools/ergo-keyboards" title="A list of ergonomic keyboards with filters and stuff" target="_blank">ergo-keyboards</a>&nbsp;<a href="https://github.com/YAL-Tools/ergo-keyboards" title="A list of ergonomic keyboards with filters and stuff" target="_blank"><img src="https://img.shields.io/github/stars/YAL-Tools/ergo-keyboards?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/karpathy/nanochat" title="The best ChatGPT that $100 can buy." target="_blank">nanochat</a>&nbsp;<a href="https://github.com/karpathy/nanochat" title="The best ChatGPT that $100 can buy." target="_blank"><img src="https://img.shields.io/github/stars/karpathy/nanochat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank">helium-linux</a>&nbsp;<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank"><img src="https://img.shields.io/github/stars/imputnet/helium-linux?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/getarcaneapp/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank">arcane</a>&nbsp;<a href="https://github.com/getarcaneapp/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank"><img src="https://img.shields.io/github/stars/getarcaneapp/arcane?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank">apertus-tech-report</a>&nbsp;<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank"><img src="https://img.shields.io/github/stars/swiss-ai/apertus-tech-report?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive load is what matters" target="_blank">cognitive-load</a>&nbsp;<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive load is what matters" target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/cognitive-load?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank">core</a>&nbsp;<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank"><img src="https://img.shields.io/github/stars/adonisjs/core?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer lets you download Spotify tracks, albums, and playlists from Deezer using highly accurate ISRC matching." target="_blank">Spotizer</a>&nbsp;<a href="https://github.com/afkarxyz/Spotizer" title="Spotizer lets you download Spotify tracks, albums, and playlists from Deezer using highly accurate ISRC matching." target="_blank"><img src="https://img.shields.io/github/stars/afkarxyz/Spotizer?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank">quarkdown</a>&nbsp;<a href="https://github.com/iamgio/quarkdown" title="🪐 Markdown with superpowers — from ideas to papers, presentations and books." target="_blank"><img src="https://img.shields.io/github/stars/iamgio/quarkdown?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -163,7 +163,7 @@ as it works without the filename, let's hot fix it.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 07 Nov 2025 13:47:56 GMT</small>
+<small>⏰ Updated on Mon, 10 Nov 2025 13:50:39 GMT</small>
 </td>
 </tr>
 </tfoot>
