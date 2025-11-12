@@ -103,6 +103,14 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/0510b811456fbea8e21ce63c1af3e25e9f3b85cb" title="2025-11-12T09:05:47.000+01:00" target="_blank">0510b811</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
+          <pre>[fix] Unchecked var
+
+This fix the message `Warning: Undefined array key "type" in 
+/wp/wp-content/mu-plugins/EPFL_audit.php on line 89`</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/1f048be941efa67eb2dcad10114ce2a9114bc3f7" title="2025-10-07T11:35:02.000+02:00" target="_blank">1f048be9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
           <pre>[hotfix] `index.html` return an error
 
@@ -154,16 +162,11 @@ as it works without the filename, let's hot fix it.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/2be6fb71bb65fad75858c86966b2c621080cf5be" title="2025-09-15T09:45:47.000+02:00" target="_blank">2be6fb71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
           <pre>Update python version and add pre-requisites (#1287)</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/3f57166f870de16a594d1397c4f3c97a450e8f22" title="2025-08-28T09:52:30.000+02:00" target="_blank">3f57166f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
-          <pre>[feature] Subtler version</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 11 Nov 2025 13:49:59 GMT</small>
+<small>⏰ Updated on Wed, 12 Nov 2025 13:51:33 GMT</small>
 </td>
 </tr>
 </tfoot>
