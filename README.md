@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank">llm-council</a>&nbsp;<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank"><img src="https://img.shields.io/github/stars/karpathy/llm-council?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank">sidoc.ops</a>&nbsp;<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sidoc.ops?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/XPL0Z/spotish" title="Download spotify song and play it on hp. You can remote with telegram" target="_blank">spotish</a>&nbsp;<a href="https://github.com/XPL0Z/spotish" title="Download spotify song and play it on hp. You can remote with telegram" target="_blank"><img src="https://img.shields.io/github/stars/XPL0Z/spotish?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/jj-vcs/jj" title="A Git-compatible VCS that is both simple and powerful" target="_blank">jj</a>&nbsp;<a href="https://github.com/jj-vcs/jj" title="A Git-compatible VCS that is both simple and powerful" target="_blank"><img src="https://img.shields.io/github/stars/jj-vcs/jj?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/EPFL-CePro/CREP.ops" title="configuration-as-code for the deployment of the CREP project" target="_blank">CREP.ops</a>&nbsp;<a href="https://github.com/EPFL-CePro/CREP.ops" title="configuration-as-code for the deployment of the CREP project" target="_blank"><img src="https://img.shields.io/github/stars/EPFL-CePro/CREP.ops?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/jonasstrehle/supercookie" title="⚠️ Browser fingerprinting via favicon!" target="_blank">supercookie</a>&nbsp;<a href="https://github.com/jonasstrehle/supercookie" title="⚠️ Browser fingerprinting via favicon!" target="_blank"><img src="https://img.shields.io/github/stars/jonasstrehle/supercookie?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive load is what matters" target="_blank">cognitive-load</a>&nbsp;<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive load is what matters" target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/cognitive-load?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank">core</a>&nbsp;<a href="https://github.com/adonisjs/core" title="AdonisJS is a TypeScript-first web framework for building web apps and API servers. It comes with support for testing, modern tooling, an ecosystem of official packages, and more." target="_blank"><img src="https://img.shields.io/github/stars/adonisjs/core?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -166,7 +166,7 @@ as it works without the filename, let's hot fix it.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 21 Nov 2025 13:47:26 GMT</small>
+<small>⏰ Updated on Mon, 24 Nov 2025 13:52:38 GMT</small>
 </td>
 </tr>
 </tfoot>
