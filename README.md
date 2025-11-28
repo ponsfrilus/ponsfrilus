@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank">penpot</a>&nbsp;<a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank"><img src="https://img.shields.io/github/stars/penpot/penpot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/EPFL-CePro/CREP.ops" title="configuration-as-code for the deployment of the CREP project" target="_blank">CREP.ops</a>&nbsp;<a href="https://github.com/EPFL-CePro/CREP.ops" title="configuration-as-code for the deployment of the CREP project" target="_blank"><img src="https://img.shields.io/github/stars/EPFL-CePro/CREP.ops?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jonasstrehle/supercookie" title="⚠️ Browser fingerprinting via favicon!" target="_blank">supercookie</a>&nbsp;<a href="https://github.com/jonasstrehle/supercookie" title="⚠️ Browser fingerprinting via favicon!" target="_blank"><img src="https://img.shields.io/github/stars/jonasstrehle/supercookie?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TRaSH-Guides/Guides" title="TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications." target="_blank">Guides</a>&nbsp;<a href="https://github.com/TRaSH-Guides/Guides" title="TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications." target="_blank"><img src="https://img.shields.io/github/stars/TRaSH-Guides/Guides?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/charmbracelet/glow" title="Render markdown on the CLI, with pizzazz! 💅🏻" target="_blank">glow</a>&nbsp;<a href="https://github.com/charmbracelet/glow" title="Render markdown on the CLI, with pizzazz! 💅🏻" target="_blank"><img src="https://img.shields.io/github/stars/charmbracelet/glow?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/YAL-Tools/ergo-keyboards" title="A list of ergonomic keyboards with filters and stuff" target="_blank">ergo-keyboards</a>&nbsp;<a href="https://github.com/YAL-Tools/ergo-keyboards" title="A list of ergonomic keyboards with filters and stuff" target="_blank"><img src="https://img.shields.io/github/stars/YAL-Tools/ergo-keyboards?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/karpathy/nanochat" title="The best ChatGPT that $100 can buy." target="_blank">nanochat</a>&nbsp;<a href="https://github.com/karpathy/nanochat" title="The best ChatGPT that $100 can buy." target="_blank"><img src="https://img.shields.io/github/stars/karpathy/nanochat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank">helium-linux</a>&nbsp;<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank"><img src="https://img.shields.io/github/stars/imputnet/helium-linux?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/getarcaneapp/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank">arcane</a>&nbsp;<a href="https://github.com/getarcaneapp/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank"><img src="https://img.shields.io/github/stars/getarcaneapp/arcane?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank">apertus-tech-report</a>&nbsp;<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank"><img src="https://img.shields.io/github/stars/swiss-ai/apertus-tech-report?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank">llm-council</a>&nbsp;<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank"><img src="https://img.shields.io/github/stars/karpathy/llm-council?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,18 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/EPFL-CePro/CREP.ops" title="configuration-as-code for the deployment of the CREP project" target="_blank">CREP.ops</a>&nbsp;<a href="https://github.com/EPFL-CePro/CREP.ops" title="configuration-as-code for the deployment of the CREP project" target="_blank"><img src="https://img.shields.io/github/stars/EPFL-CePro/CREP.ops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jonasstrehle/supercookie" title="⚠️ Browser fingerprinting via favicon!" target="_blank">supercookie</a>&nbsp;<a href="https://github.com/jonasstrehle/supercookie" title="⚠️ Browser fingerprinting via favicon!" target="_blank"><img src="https://img.shields.io/github/stars/jonasstrehle/supercookie?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TRaSH-Guides/Guides" title="TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications." target="_blank">Guides</a>&nbsp;<a href="https://github.com/TRaSH-Guides/Guides" title="TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications." target="_blank"><img src="https://img.shields.io/github/stars/TRaSH-Guides/Guides?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/charmbracelet/glow" title="Render markdown on the CLI, with pizzazz! 💅🏻" target="_blank">glow</a>&nbsp;<a href="https://github.com/charmbracelet/glow" title="Render markdown on the CLI, with pizzazz! 💅🏻" target="_blank"><img src="https://img.shields.io/github/stars/charmbracelet/glow?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/YAL-Tools/ergo-keyboards" title="A list of ergonomic keyboards with filters and stuff" target="_blank">ergo-keyboards</a>&nbsp;<a href="https://github.com/YAL-Tools/ergo-keyboards" title="A list of ergonomic keyboards with filters and stuff" target="_blank"><img src="https://img.shields.io/github/stars/YAL-Tools/ergo-keyboards?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/karpathy/nanochat" title="The best ChatGPT that $100 can buy." target="_blank">nanochat</a>&nbsp;<a href="https://github.com/karpathy/nanochat" title="The best ChatGPT that $100 can buy." target="_blank"><img src="https://img.shields.io/github/stars/karpathy/nanochat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank">helium-linux</a>&nbsp;<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank"><img src="https://img.shields.io/github/stars/imputnet/helium-linux?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/getarcaneapp/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank">arcane</a>&nbsp;<a href="https://github.com/getarcaneapp/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank"><img src="https://img.shields.io/github/stars/getarcaneapp/arcane?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank">apertus-tech-report</a>&nbsp;<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank"><img src="https://img.shields.io/github/stars/swiss-ai/apertus-tech-report?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive load is what matters" target="_blank">cognitive-load</a>&nbsp;<a href="https://github.com/zakirullin/cognitive-load" title="🧠 Cognitive load is what matters" target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/cognitive-load?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/5e2978e6d165f15fb81be7330e1bb8b4f1d93b80" title="2025-11-26T09:50:52.000+01:00" target="_blank">5e2978e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
+          <pre>[i18n] Improve translation
+
+This fixes #333</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/0510b811456fbea8e21ce63c1af3e25e9f3b85cb" title="2025-11-12T09:05:47.000+01:00" target="_blank">0510b811</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
           <pre>[fix] Unchecked var
@@ -157,16 +164,11 @@ as it works without the filename, let's hot fix it.</pre>
 
 (cherry picked from commit 8e5f69a9f614974f23679971b40aadc089c182cf)</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/2be6fb71bb65fad75858c86966b2c621080cf5be" title="2025-09-15T09:45:47.000+02:00" target="_blank">2be6fb71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
-          <pre>Update python version and add pre-requisites (#1287)</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 27 Nov 2025 13:51:37 GMT</small>
+<small>⏰ Updated on Fri, 28 Nov 2025 13:49:16 GMT</small>
 </td>
 </tr>
 </tfoot>
