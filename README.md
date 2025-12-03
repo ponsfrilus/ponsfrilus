@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/swiss/oss-catalog" title="OSS Catalog" target="_blank">oss-catalog</a>&nbsp;<a href="https://github.com/swiss/oss-catalog" title="OSS Catalog" target="_blank"><img src="https://img.shields.io/github/stars/swiss/oss-catalog?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank">llm-council</a>&nbsp;<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank"><img src="https://img.shields.io/github/stars/karpathy/llm-council?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank">sidoc.ops</a>&nbsp;<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sidoc.ops?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank">librepods</a>&nbsp;<a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank"><img src="https://img.shields.io/github/stars/kavishdevar/librepods?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank">FlameGraph</a>&nbsp;<a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank"><img src="https://img.shields.io/github/stars/brendangregg/FlameGraph?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank">SARCASM</a>&nbsp;<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank"><img src="https://img.shields.io/github/stars/vindar/SARCASM?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/24eme/signaturepdf" title="Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf" target="_blank">signaturepdf</a>&nbsp;<a href="https://github.com/24eme/signaturepdf" title="Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf" target="_blank"><img src="https://img.shields.io/github/stars/24eme/signaturepdf?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails" target="_blank">people2</a>&nbsp;<a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/people2?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank">winboat</a>&nbsp;<a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank"><img src="https://img.shields.io/github/stars/TibixDev/winboat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank">linear</a>&nbsp;<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank"><img src="https://img.shields.io/github/stars/linear/linear?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank">penpot</a>&nbsp;<a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank"><img src="https://img.shields.io/github/stars/penpot/penpot?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank">apertus-tech-report</a>&nbsp;<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank"><img src="https://img.shields.io/github/stars/swiss-ai/apertus-tech-report?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank">llm-council</a>&nbsp;<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank"><img src="https://img.shields.io/github/stars/karpathy/llm-council?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank">sidoc.ops</a>&nbsp;<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sidoc.ops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank">librepods</a>&nbsp;<a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank"><img src="https://img.shields.io/github/stars/kavishdevar/librepods?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank">FlameGraph</a>&nbsp;<a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank"><img src="https://img.shields.io/github/stars/brendangregg/FlameGraph?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank">SARCASM</a>&nbsp;<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank"><img src="https://img.shields.io/github/stars/vindar/SARCASM?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/24eme/signaturepdf" title="Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf" target="_blank">signaturepdf</a>&nbsp;<a href="https://github.com/24eme/signaturepdf" title="Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf" target="_blank"><img src="https://img.shields.io/github/stars/24eme/signaturepdf?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails" target="_blank">people2</a>&nbsp;<a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/people2?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank">winboat</a>&nbsp;<a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank"><img src="https://img.shields.io/github/stars/TibixDev/winboat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank">linear</a>&nbsp;<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank"><img src="https://img.shields.io/github/stars/linear/linear?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/XPL0Z/spotish" title="Download spotify song and play it on hp. You can remote with telegram" target="_blank">spotish</a>&nbsp;<a href="https://github.com/XPL0Z/spotish" title="Download spotify song and play it on hp. You can remote with telegram" target="_blank"><img src="https://img.shields.io/github/stars/XPL0Z/spotish?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -168,7 +168,7 @@ as it works without the filename, let's hot fix it.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 02 Dec 2025 13:55:16 GMT</small>
+<small>⏰ Updated on Wed, 03 Dec 2025 13:55:56 GMT</small>
 </td>
 </tr>
 </tfoot>
