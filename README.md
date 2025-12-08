@@ -32,39 +32,8 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/swiss/oss-catalog" title="OSS Catalog" target="_blank">oss-catalog</a>&nbsp;<a href="https://github.com/swiss/oss-catalog" title="OSS Catalog" target="_blank"><img src="https://img.shields.io/github/stars/swiss/oss-catalog?style=social" alt="GitHub"></a>
+<a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank">dice-for-engineers</a>&nbsp;<a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank"><img src="https://img.shields.io/github/stars/ctrlaltdel/dice-for-engineers?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank">llm-council</a>&nbsp;<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank"><img src="https://img.shields.io/github/stars/karpathy/llm-council?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank">sidoc.ops</a>&nbsp;<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sidoc.ops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank">librepods</a>&nbsp;<a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank"><img src="https://img.shields.io/github/stars/kavishdevar/librepods?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank">FlameGraph</a>&nbsp;<a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank"><img src="https://img.shields.io/github/stars/brendangregg/FlameGraph?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank">SARCASM</a>&nbsp;<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank"><img src="https://img.shields.io/github/stars/vindar/SARCASM?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/24eme/signaturepdf" title="Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf" target="_blank">signaturepdf</a>&nbsp;<a href="https://github.com/24eme/signaturepdf" title="Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf" target="_blank"><img src="https://img.shields.io/github/stars/24eme/signaturepdf?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails" target="_blank">people2</a>&nbsp;<a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/people2?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank">winboat</a>&nbsp;<a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank"><img src="https://img.shields.io/github/stars/TibixDev/winboat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank">linear</a>&nbsp;<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank"><img src="https://img.shields.io/github/stars/linear/linear?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
 <li>
 <a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank">penpot</a>&nbsp;<a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank"><img src="https://img.shields.io/github/stars/penpot/penpot?style=social" alt="GitHub"></a>
 </li>
@@ -85,6 +54,37 @@
 </li>
 <li>
 <a href="https://github.com/karpathy/nanochat" title="The best ChatGPT that $100 can buy." target="_blank">nanochat</a>&nbsp;<a href="https://github.com/karpathy/nanochat" title="The best ChatGPT that $100 can buy." target="_blank"><img src="https://img.shields.io/github/stars/karpathy/nanochat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank">winboat</a>&nbsp;<a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank"><img src="https://img.shields.io/github/stars/TibixDev/winboat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank">linear</a>&nbsp;<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank"><img src="https://img.shields.io/github/stars/linear/linear?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
+<a href="https://github.com/swiss/oss-catalog" title="OSS Catalog" target="_blank">oss-catalog</a>&nbsp;<a href="https://github.com/swiss/oss-catalog" title="OSS Catalog" target="_blank"><img src="https://img.shields.io/github/stars/swiss/oss-catalog?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank">llm-council</a>&nbsp;<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank"><img src="https://img.shields.io/github/stars/karpathy/llm-council?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank">sidoc.ops</a>&nbsp;<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sidoc.ops?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank">librepods</a>&nbsp;<a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank"><img src="https://img.shields.io/github/stars/kavishdevar/librepods?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank">FlameGraph</a>&nbsp;<a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank"><img src="https://img.shields.io/github/stars/brendangregg/FlameGraph?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank">SARCASM</a>&nbsp;<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank"><img src="https://img.shields.io/github/stars/vindar/SARCASM?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/24eme/signaturepdf" title="Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf" target="_blank">signaturepdf</a>&nbsp;<a href="https://github.com/24eme/signaturepdf" title="Free open-source web software for signing PDF (alone or with others) and also organize pages, edit medata and compress pdf" target="_blank"><img src="https://img.shields.io/github/stars/24eme/signaturepdf?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank">helium-linux</a>&nbsp;<a href="https://github.com/imputnet/helium-linux" title="Helium Browser for Linux" target="_blank"><img src="https://img.shields.io/github/stars/imputnet/helium-linux?style=social" alt="GitHub"></a>
@@ -118,57 +118,55 @@ This fix the message `Warning: Undefined array key "type" in
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/1f048be941efa67eb2dcad10114ce2a9114bc3f7" title="2025-10-07T11:35:02.000+02:00" target="_blank">1f048be9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
-          <pre>[hotfix] `index.html` return an error
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/2be6fb71bb65fad75858c86966b2c621080cf5be" title="2025-09-15T09:45:47.000+02:00" target="_blank">2be6fb71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
+          <pre>Update python version and add pre-requisites (#1287)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/8a6ce0f70965084600b36ff1913e236a83b198bb" title="2025-08-27T09:58:26.000+02:00" target="_blank">8a6ce0f7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Simplify the docker install (hello `python3-docker`)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/82bf736c37338ae1c173f8b3457a88c48e9ff335" title="2025-08-27T09:57:58.000+02:00" target="_blank">82bf736c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Network Ouroboros</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/bb744cd272f2eec627043a5109cd117a4b18b0b7" title="2025-08-27T09:57:08.000+02:00" target="_blank">bb744cd2</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Diretory creation</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/a2c4ea322c6e6eb01fc050839413532ccaae117e" title="2025-08-27T09:55:38.000+02:00" target="_blank">a2c4ea32</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[rollback] Networking
 
-Right now we do not understand why 
-https://people-next.epfl.ch/signatures/index.html returns an error, but 
-as it works without the filename, let's hot fix it.</pre>
+No sure why molesting the DHCP configuration is needed, but I'm sure
+that I lost some hours because of it: this should be tested after a
+reboot, and you will happily learn that, instead of fixing it, you will
+loose the connection to the VM. Do you know who didn't set a local admin
+password offering the ability to fix stuff in the OpenStack console? Us.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/08c47d77d9bf4fe0921eefa302d10a17ce09865d" title="2025-10-07T11:12:57.000+02:00" target="_blank">08c47d77</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
-          <pre>[fix] Avoid the whole import at startup</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6ee72c2845c514465ac119bb7a2d3b37c5788a57" title="2025-08-21T11:52:06.000+02:00" target="_blank">6ee72c28</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[ocd] Sort plugins in alphabetical order</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/0b72e823c8038f37b70e688d728a6817736906ec" title="2025-10-07T11:03:17.000+02:00" target="_blank">0b72e823</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
-          <pre>[fix] Ensure /signatures/index.html</pre>
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/9fc1cfdcbfc39bc5323aa38ddd383ca511a3fe5d" title="2025-08-19T11:36:12.000+02:00" target="_blank">9fc1cfdc</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
+          <pre>[feature] Add quiz's title</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/1e7413df69e14ddc245419c3fc885418f4b7cb89" title="2025-10-07T10:31:38.000+02:00" target="_blank">1e7413df</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
-          <pre>[fix] Add lang as query param</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/ff15e6f300628d29f3148e14c91fd526c20005b8" title="2025-10-07T10:12:58.000+02:00" target="_blank">ff15e6f3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
-          <pre>[fix] Add sciper as query param</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/f29aedbd7c67aa7662be45951b9e4fd03be75632" title="2025-10-02T15:46:22.000+02:00" target="_blank">f29aedbd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
-          <pre>[feature] /signatures</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/259fc4e63cbce0485b145af72b9ee2af39bc23e5" title="2025-09-24T16:05:34.000+02:00" target="_blank">259fc4e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
-          <pre>[feature] Mock data
-
-(cherry picked from commit 5b3b6f428b298adde47bc7635a7ffc5e5e218f10)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/people2/commits/c0281faf4da7e89cdbcb9cf3195f16db0a24351f" title="2025-09-24T15:51:54.000+02:00" target="_blank">c0281faf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/people2" title="People reborn in Ruby on Rails">/people2</a></strong></div>
-          <pre>[feature] Revive `wsgetcours`
-
-(cherry picked from commit 8e5f69a9f614974f23679971b40aadc089c182cf)</pre>
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/c6e34b716f3797bb94f6bee74440d3eca78e119a" title="2025-08-19T11:26:30.000+02:00" target="_blank">c6e34b71</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
+          <pre>[feature] Git quiz</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 05 Dec 2025 13:51:46 GMT</small>
+<small>⏰ Updated on Mon, 08 Dec 2025 13:53:27 GMT</small>
 </td>
 </tr>
 </tfoot>
