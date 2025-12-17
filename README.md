@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees" target="_blank">ticketshop</a>&nbsp;<a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ticketshop?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank">dice-for-engineers</a>&nbsp;<a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank"><img src="https://img.shields.io/github/stars/ctrlaltdel/dice-for-engineers?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank">winboat</a>&nbsp;<a href="https://github.com/TibixDev/winboat" title="Run Windows apps on 🐧 Linux with ✨ seamless integration" target="_blank"><img src="https://img.shields.io/github/stars/TibixDev/winboat?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank">linear</a>&nbsp;<a href="https://github.com/linear/linear" title="Tools, SDK's and plugins for Linear" target="_blank"><img src="https://img.shields.io/github/stars/linear/linear?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/readur/readur" title="Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience." target="_blank">readur</a>&nbsp;<a href="https://github.com/readur/readur" title="Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience." target="_blank"><img src="https://img.shields.io/github/stars/readur/readur?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/swiss/oss-catalog" title="Open Source Software Catalog" target="_blank">oss-catalog</a>&nbsp;<a href="https://github.com/swiss/oss-catalog" title="Open Source Software Catalog" target="_blank"><img src="https://img.shields.io/github/stars/swiss/oss-catalog?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/getarcaneapp/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank">arcane</a>&nbsp;<a href="https://github.com/getarcaneapp/arcane" title="Modern Docker Management, Designed for Everyone" target="_blank"><img src="https://img.shields.io/github/stars/getarcaneapp/arcane?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank">apertus-tech-report</a>&nbsp;<a href="https://github.com/swiss-ai/apertus-tech-report" title="Tech Report of the Apertus LLM Suite" target="_blank"><img src="https://img.shields.io/github/stars/swiss-ai/apertus-tech-report?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -166,7 +166,7 @@ password offering the ability to fix stuff in the OpenStack console? Us.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 16 Dec 2025 13:57:41 GMT</small>
+<small>⏰ Updated on Wed, 17 Dec 2025 13:53:55 GMT</small>
 </td>
 </tr>
 </tfoot>
