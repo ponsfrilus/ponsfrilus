@@ -147,11 +147,26 @@ reboot, and you will happily learn that, instead of fixing it, you will
 loose the connection to the VM. Do you know who didn't set a local admin
 password offering the ability to fix stuff in the OpenStack console? Us.</pre>
         </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6ee72c2845c514465ac119bb7a2d3b37c5788a57" title="2025-08-21T11:52:06.000+02:00" target="_blank">6ee72c28</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[ocd] Sort plugins in alphabetical order</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/9fc1cfdcbfc39bc5323aa38ddd383ca511a3fe5d" title="2025-08-19T11:36:12.000+02:00" target="_blank">9fc1cfdc</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
+          <pre>[feature] Add quiz's title</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/dwesh163/InputGame/commits/c6e34b716f3797bb94f6bee74440d3eca78e119a" title="2025-08-19T11:26:30.000+02:00" target="_blank">c6e34b71</a><a href="https://github.com/dwesh163">@dwesh163</a><a href="https://github.com/dwesh163/InputGame" title="null">/InputGame</a></strong></div>
+          <pre>[feature] Git quiz</pre>
+        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 01 Jan 2026 13:52:21 GMT</small>
+<small>⏰ Updated on Fri, 02 Jan 2026 13:52:06 GMT</small>
 </td>
 </tr>
 </tfoot>
