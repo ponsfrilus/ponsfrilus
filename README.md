@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank">meet</a>&nbsp;<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/meet?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank">openclaw</a>&nbsp;<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank">Ferrite</a>&nbsp;<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank"><img src="https://img.shields.io/github/stars/OlaProeis/Ferrite?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gayanvoice/top-github-users" title="Check your ranking in GitHub! Don't forget to star ⭐ this repository." target="_blank">top-github-users</a>&nbsp;<a href="https://github.com/gayanvoice/top-github-users" title="Check your ranking in GitHub! Don't forget to star ⭐ this repository." target="_blank"><img src="https://img.shields.io/github/stars/gayanvoice/top-github-users?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/readur/readur" title="Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience." target="_blank">readur</a>&nbsp;<a href="https://github.com/readur/readur" title="Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience." target="_blank"><img src="https://img.shields.io/github/stars/readur/readur?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/swiss/oss-catalog" title="Open Source Software Catalog" target="_blank">oss-catalog</a>&nbsp;<a href="https://github.com/swiss/oss-catalog" title="Open Source Software Catalog" target="_blank"><img src="https://img.shields.io/github/stars/swiss/oss-catalog?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank">llm-council</a>&nbsp;<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank"><img src="https://img.shields.io/github/stars/karpathy/llm-council?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank">sidoc.ops</a>&nbsp;<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sidoc.ops?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank">librepods</a>&nbsp;<a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank"><img src="https://img.shields.io/github/stars/kavishdevar/librepods?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank">FlameGraph</a>&nbsp;<a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank"><img src="https://img.shields.io/github/stars/brendangregg/FlameGraph?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank">aurora</a>&nbsp;<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank"><img src="https://img.shields.io/github/stars/element-hq/aurora?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/charmbracelet/glow" title="Render markdown on the CLI, with pizzazz! 💅🏻" target="_blank">glow</a>&nbsp;<a href="https://github.com/charmbracelet/glow" title="Render markdown on the CLI, with pizzazz! 💅🏻" target="_blank"><img src="https://img.shields.io/github/stars/charmbracelet/glow?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank">openclaw</a>&nbsp;<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank">Ferrite</a>&nbsp;<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank"><img src="https://img.shields.io/github/stars/OlaProeis/Ferrite?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gayanvoice/top-github-users" title="Check your ranking in GitHub! Don't forget to star ⭐ this repository." target="_blank">top-github-users</a>&nbsp;<a href="https://github.com/gayanvoice/top-github-users" title="Check your ranking in GitHub! Don't forget to star ⭐ this repository." target="_blank"><img src="https://img.shields.io/github/stars/gayanvoice/top-github-users?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/readur/readur" title="Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience." target="_blank">readur</a>&nbsp;<a href="https://github.com/readur/readur" title="Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience." target="_blank"><img src="https://img.shields.io/github/stars/readur/readur?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/swiss/oss-catalog" title="Open Source Software Catalog" target="_blank">oss-catalog</a>&nbsp;<a href="https://github.com/swiss/oss-catalog" title="Open Source Software Catalog" target="_blank"><img src="https://img.shields.io/github/stars/swiss/oss-catalog?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank">llm-council</a>&nbsp;<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank"><img src="https://img.shields.io/github/stars/karpathy/llm-council?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank">sidoc.ops</a>&nbsp;<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sidoc.ops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank">librepods</a>&nbsp;<a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank"><img src="https://img.shields.io/github/stars/kavishdevar/librepods?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank">FlameGraph</a>&nbsp;<a href="https://github.com/brendangregg/FlameGraph" title="Stack trace visualizer" target="_blank"><img src="https://img.shields.io/github/stars/brendangregg/FlameGraph?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank">SARCASM</a>&nbsp;<a href="https://github.com/vindar/SARCASM" title="S.A.R.C.A.S.M : Slightly Annoying Rubik's Cube Automatic Solving Machine" target="_blank"><img src="https://img.shields.io/github/stars/vindar/SARCASM?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -126,11 +126,47 @@ This fixes #333</pre>
 This fix the message `Warning: Undefined array key "type" in 
 /wp/wp-content/mu-plugins/EPFL_audit.php on line 89`</pre>
         </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/2be6fb71bb65fad75858c86966b2c621080cf5be" title="2025-09-15T09:45:47.000+02:00" target="_blank">2be6fb71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
+          <pre>Update python version and add pre-requisites (#1287)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/f1181561fa422f0a841ddd823d4d8aa4bf440c41" title="2025-08-27T09:58:26.000+02:00" target="_blank">f1181561</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Simplify the docker install (hello `python3-docker`)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/2c912eb9f535f7c727f6623fe72ae90ca2d485de" title="2025-08-27T09:57:58.000+02:00" target="_blank">2c912eb9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Network Ouroboros</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/20f18dc75e9bc3ea569240bf97e5de531d61d869" title="2025-08-27T09:57:08.000+02:00" target="_blank">20f18dc7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Diretory creation</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/aead594bc6f59630af5cd00a3decaace1462cfe9" title="2025-08-27T09:55:38.000+02:00" target="_blank">aead594b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[rollback] Networking
+
+No sure why molesting the DHCP configuration is needed, but I'm sure
+that I lost some hours because of it: this should be tested after a
+reboot, and you will happily learn that, instead of fixing it, you will
+loose the connection to the VM. Do you know who didn't set a local admin
+password offering the ability to fix stuff in the OpenStack console? Us.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6ee72c2845c514465ac119bb7a2d3b37c5788a57" title="2025-08-21T11:52:06.000+02:00" target="_blank">6ee72c28</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[ocd] Sort plugins in alphabetical order</pre>
+        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 03 Feb 2026 14:27:07 GMT</small>
+<small>⏰ Updated on Wed, 04 Feb 2026 14:25:18 GMT</small>
 </td>
 </tr>
 </tfoot>
