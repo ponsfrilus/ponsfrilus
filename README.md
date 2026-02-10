@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank">fullcalendar</a>&nbsp;<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank"><img src="https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank">jujutsu-tutorial</a>&nbsp;<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank"><img src="https://img.shields.io/github/stars/steveklabnik/jujutsu-tutorial?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank">aurora</a>&nbsp;<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank"><img src="https://img.shields.io/github/stars/element-hq/aurora?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Smaug6739/Alexandrie" title="Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured notes using an extended Markdown syntax, organize them with workspaces and categories, and work seamlessly both online and offline." target="_blank">Alexandrie</a>&nbsp;<a href="https://github.com/Smaug6739/Alexandrie" title="Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured notes using an extended Markdown syntax, organize them with workspaces and categories, and work seamlessly both online and offline." target="_blank"><img src="https://img.shields.io/github/stars/Smaug6739/Alexandrie?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank">AdAway</a>&nbsp;<a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank"><img src="https://img.shields.io/github/stars/AdAway/AdAway?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees" target="_blank">ticketshop</a>&nbsp;<a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ticketshop?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank">dice-for-engineers</a>&nbsp;<a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank"><img src="https://img.shields.io/github/stars/ctrlaltdel/dice-for-engineers?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank">penpot</a>&nbsp;<a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank"><img src="https://img.shields.io/github/stars/penpot/penpot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/EPFL-CePro/CREP.ops" title="configuration-as-code for the deployment of the CREP project" target="_blank">CREP.ops</a>&nbsp;<a href="https://github.com/EPFL-CePro/CREP.ops" title="configuration-as-code for the deployment of the CREP project" target="_blank"><img src="https://img.shields.io/github/stars/EPFL-CePro/CREP.ops?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jonasstrehle/supercookie" title="⚠️ Browser fingerprinting via favicon!" target="_blank">supercookie</a>&nbsp;<a href="https://github.com/jonasstrehle/supercookie" title="⚠️ Browser fingerprinting via favicon!" target="_blank"><img src="https://img.shields.io/github/stars/jonasstrehle/supercookie?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank">mdBook</a>&nbsp;<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank"><img src="https://img.shields.io/github/stars/rust-lang/mdBook?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank">librepods</a>&nbsp;<a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank"><img src="https://img.shields.io/github/stars/kavishdevar/librepods?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank">jujutsu-tutorial</a>&nbsp;<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank"><img src="https://img.shields.io/github/stars/steveklabnik/jujutsu-tutorial?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank">aurora</a>&nbsp;<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank"><img src="https://img.shields.io/github/stars/element-hq/aurora?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Smaug6739/Alexandrie" title="Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured notes using an extended Markdown syntax, organize them with workspaces and categories, and work seamlessly both online and offline." target="_blank">Alexandrie</a>&nbsp;<a href="https://github.com/Smaug6739/Alexandrie" title="Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured notes using an extended Markdown syntax, organize them with workspaces and categories, and work seamlessly both online and offline." target="_blank"><img src="https://img.shields.io/github/stars/Smaug6739/Alexandrie?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank">AdAway</a>&nbsp;<a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank"><img src="https://img.shields.io/github/stars/AdAway/AdAway?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees" target="_blank">ticketshop</a>&nbsp;<a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ticketshop?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank">dice-for-engineers</a>&nbsp;<a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank"><img src="https://img.shields.io/github/stars/ctrlaltdel/dice-for-engineers?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank">penpot</a>&nbsp;<a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank"><img src="https://img.shields.io/github/stars/penpot/penpot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/EPFL-CePro/CREP.ops" title="configuration-as-code for the deployment of the CREP project" target="_blank">CREP.ops</a>&nbsp;<a href="https://github.com/EPFL-CePro/CREP.ops" title="configuration-as-code for the deployment of the CREP project" target="_blank"><img src="https://img.shields.io/github/stars/EPFL-CePro/CREP.ops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jonasstrehle/supercookie" title="⚠️ Browser fingerprinting via favicon!" target="_blank">supercookie</a>&nbsp;<a href="https://github.com/jonasstrehle/supercookie" title="⚠️ Browser fingerprinting via favicon!" target="_blank"><img src="https://img.shields.io/github/stars/jonasstrehle/supercookie?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TRaSH-Guides/Guides" title="TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications." target="_blank">Guides</a>&nbsp;<a href="https://github.com/TRaSH-Guides/Guides" title="TRaSH-Guides is a comprehensive collection of guides for Radarr, Sonarr, and related media management applications." target="_blank"><img src="https://img.shields.io/github/stars/TRaSH-Guides/Guides?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -126,47 +126,11 @@ This fixes #333</pre>
 This fix the message `Warning: Undefined array key "type" in 
 /wp/wp-content/mu-plugins/EPFL_audit.php on line 89`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/2be6fb71bb65fad75858c86966b2c621080cf5be" title="2025-09-15T09:45:47.000+02:00" target="_blank">2be6fb71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
-          <pre>Update python version and add pre-requisites (#1287)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/f1181561fa422f0a841ddd823d4d8aa4bf440c41" title="2025-08-27T09:58:26.000+02:00" target="_blank">f1181561</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[fix] Simplify the docker install (hello `python3-docker`)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/2c912eb9f535f7c727f6623fe72ae90ca2d485de" title="2025-08-27T09:57:58.000+02:00" target="_blank">2c912eb9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[fix] Network Ouroboros</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/20f18dc75e9bc3ea569240bf97e5de531d61d869" title="2025-08-27T09:57:08.000+02:00" target="_blank">20f18dc7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[fix] Diretory creation</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/aead594bc6f59630af5cd00a3decaace1462cfe9" title="2025-08-27T09:55:38.000+02:00" target="_blank">aead594b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[rollback] Networking
-
-No sure why molesting the DHCP configuration is needed, but I'm sure
-that I lost some hours because of it: this should be tested after a
-reboot, and you will happily learn that, instead of fixing it, you will
-loose the connection to the VM. Do you know who didn't set a local admin
-password offering the ability to fix stuff in the OpenStack console? Us.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6ee72c2845c514465ac119bb7a2d3b37c5788a57" title="2025-08-21T11:52:06.000+02:00" target="_blank">6ee72c28</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[ocd] Sort plugins in alphabetical order</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 09 Feb 2026 14:36:50 GMT</small>
+<small>⏰ Updated on Tue, 10 Feb 2026 14:43:10 GMT</small>
 </td>
 </tr>
 </tfoot>
