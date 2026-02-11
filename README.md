@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/54435ec86d65c7537dcfffe0d5c25d5e5cc7e554" title="2026-02-11T12:35:28.000+01:00" target="_blank">54435ec8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] Add CPU visualisation of the 2 nginx serving pods</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/la-plaje/website/commits/f93cd1d9b28e98c8ec9ec2ccd02be53de2540205" title="2026-01-27T01:12:32.000+01:00" target="_blank">f93cd1d9</a><a href="https://github.com/la-plaje">@la-plaje</a><a href="https://github.com/la-plaje/website" title="null">/website</a></strong></div>
           <pre>[doc] README.md</pre>
         </td>
@@ -126,11 +131,16 @@ This fixes #333</pre>
 This fix the message `Warning: Undefined array key "type" in 
 /wp/wp-content/mu-plugins/EPFL_audit.php on line 89`</pre>
         </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/968a41e647b30ca5a21a0529cd61eeecfc25f7c7" title="2025-11-10T11:16:23.000+01:00" target="_blank">968a41e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] `PodDisruptionBudget` needs 2 pods in test</pre>
+        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 10 Feb 2026 14:43:10 GMT</small>
+<small>⏰ Updated on Wed, 11 Feb 2026 14:38:23 GMT</small>
 </td>
 </tr>
 </tfoot>
