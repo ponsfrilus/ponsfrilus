@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank">awesome-programming-games</a>&nbsp;<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank"><img src="https://img.shields.io/github/stars/readyready15728/awesome-programming-games?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank">mdBook</a>&nbsp;<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank"><img src="https://img.shields.io/github/stars/rust-lang/mdBook?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank">meet</a>&nbsp;<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/meet?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank">openclaw</a>&nbsp;<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank">Ferrite</a>&nbsp;<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank"><img src="https://img.shields.io/github/stars/OlaProeis/Ferrite?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gayanvoice/top-github-users" title="Check your ranking in GitHub! Don't forget to star ⭐ this repository." target="_blank">top-github-users</a>&nbsp;<a href="https://github.com/gayanvoice/top-github-users" title="Check your ranking in GitHub! Don't forget to star ⭐ this repository." target="_blank"><img src="https://img.shields.io/github/stars/gayanvoice/top-github-users?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/readur/readur" title="Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience." target="_blank">readur</a>&nbsp;<a href="https://github.com/readur/readur" title="Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience." target="_blank"><img src="https://img.shields.io/github/stars/readur/readur?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/swiss/oss-catalog" title="Open Source Software Catalog" target="_blank">oss-catalog</a>&nbsp;<a href="https://github.com/swiss/oss-catalog" title="Open Source Software Catalog" target="_blank"><img src="https://img.shields.io/github/stars/swiss/oss-catalog?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank">llm-council</a>&nbsp;<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank"><img src="https://img.shields.io/github/stars/karpathy/llm-council?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank">sidoc.ops</a>&nbsp;<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sidoc.ops?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank">fullcalendar</a>&nbsp;<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank"><img src="https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/jonasstrehle/supercookie" title="⚠️ Browser fingerprinting via favicon!" target="_blank">supercookie</a>&nbsp;<a href="https://github.com/jonasstrehle/supercookie" title="⚠️ Browser fingerprinting via favicon!" target="_blank"><img src="https://img.shields.io/github/stars/jonasstrehle/supercookie?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank">mdBook</a>&nbsp;<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank"><img src="https://img.shields.io/github/stars/rust-lang/mdBook?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank">meet</a>&nbsp;<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/meet?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank">openclaw</a>&nbsp;<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank">Ferrite</a>&nbsp;<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank"><img src="https://img.shields.io/github/stars/OlaProeis/Ferrite?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gayanvoice/top-github-users" title="Check your ranking in GitHub! Don't forget to star ⭐ this repository." target="_blank">top-github-users</a>&nbsp;<a href="https://github.com/gayanvoice/top-github-users" title="Check your ranking in GitHub! Don't forget to star ⭐ this repository." target="_blank"><img src="https://img.shields.io/github/stars/gayanvoice/top-github-users?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/readur/readur" title="Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience." target="_blank">readur</a>&nbsp;<a href="https://github.com/readur/readur" title="Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience." target="_blank"><img src="https://img.shields.io/github/stars/readur/readur?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/swiss/oss-catalog" title="Open Source Software Catalog" target="_blank">oss-catalog</a>&nbsp;<a href="https://github.com/swiss/oss-catalog" title="Open Source Software Catalog" target="_blank"><img src="https://img.shields.io/github/stars/swiss/oss-catalog?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank">llm-council</a>&nbsp;<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank"><img src="https://img.shields.io/github/stars/karpathy/llm-council?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank">sidoc.ops</a>&nbsp;<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sidoc.ops?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank">librepods</a>&nbsp;<a href="https://github.com/kavishdevar/librepods" title="AirPods liberated from Apple's ecosystem." target="_blank"><img src="https://img.shields.io/github/stars/kavishdevar/librepods?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -140,7 +140,7 @@ This fix the message `Warning: Undefined array key "type" in
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 11 Feb 2026 14:38:23 GMT</small>
+<small>⏰ Updated on Thu, 12 Feb 2026 14:32:44 GMT</small>
 </td>
 </tr>
 </tfoot>
