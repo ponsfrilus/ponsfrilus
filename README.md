@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank">mastro</a>&nbsp;<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank"><img src="https://img.shields.io/github/stars/mastrojs/mastro?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank">awesome-programming-games</a>&nbsp;<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank"><img src="https://img.shields.io/github/stars/readyready15728/awesome-programming-games?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank">llm-council</a>&nbsp;<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank"><img src="https://img.shields.io/github/stars/karpathy/llm-council?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank">sidoc.ops</a>&nbsp;<a href="https://github.com/epfl-si/sidoc.ops" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sidoc.ops?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank">bearnie</a>&nbsp;<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank"><img src="https://img.shields.io/github/stars/michael-andreuzza/bearnie?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank">fullcalendar</a>&nbsp;<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank"><img src="https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/EPFL-CePro/CREP.ops" title="configuration-as-code for the deployment of the CREP project" target="_blank">CREP.ops</a>&nbsp;<a href="https://github.com/EPFL-CePro/CREP.ops" title="configuration-as-code for the deployment of the CREP project" target="_blank"><img src="https://img.shields.io/github/stars/EPFL-CePro/CREP.ops?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/jonasstrehle/supercookie" title="⚠️ Browser fingerprinting via favicon!" target="_blank">supercookie</a>&nbsp;<a href="https://github.com/jonasstrehle/supercookie" title="⚠️ Browser fingerprinting via favicon!" target="_blank"><img src="https://img.shields.io/github/stars/jonasstrehle/supercookie?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -103,7 +103,7 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/54435ec86d65c7537dcfffe0d5c25d5e5cc7e554" title="2026-02-11T12:35:28.000+01:00" target="_blank">54435ec8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6e2af12c8b2707ea606246e9294ed4d3d9d34b3c" title="2026-02-12T16:58:15.000+01:00" target="_blank">6e2af12c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[feature] Add CPU visualisation of the 2 nginx serving pods</pre>
         </td>
         </tr><tr>
@@ -136,11 +136,31 @@ This fix the message `Warning: Undefined array key "type" in
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/968a41e647b30ca5a21a0529cd61eeecfc25f7c7" title="2025-11-10T11:16:23.000+01:00" target="_blank">968a41e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[fix] `PodDisruptionBudget` needs 2 pods in test</pre>
         </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/2be6fb71bb65fad75858c86966b2c621080cf5be" title="2025-09-15T09:45:47.000+02:00" target="_blank">2be6fb71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
+          <pre>Update python version and add pre-requisites (#1287)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/f1181561fa422f0a841ddd823d4d8aa4bf440c41" title="2025-08-27T09:58:26.000+02:00" target="_blank">f1181561</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Simplify the docker install (hello `python3-docker`)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/2c912eb9f535f7c727f6623fe72ae90ca2d485de" title="2025-08-27T09:57:58.000+02:00" target="_blank">2c912eb9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Network Ouroboros</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/20f18dc75e9bc3ea569240bf97e5de531d61d869" title="2025-08-27T09:57:08.000+02:00" target="_blank">20f18dc7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Diretory creation</pre>
+        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 12 Feb 2026 14:32:44 GMT</small>
+<small>⏰ Updated on Fri, 13 Feb 2026 14:25:15 GMT</small>
 </td>
 </tr>
 </tfoot>
