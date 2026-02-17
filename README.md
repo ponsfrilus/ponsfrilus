@@ -136,11 +136,31 @@ This fix the message `Warning: Undefined array key "type" in
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/968a41e647b30ca5a21a0529cd61eeecfc25f7c7" title="2025-11-10T11:16:23.000+01:00" target="_blank">968a41e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[fix] `PodDisruptionBudget` needs 2 pods in test</pre>
         </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/2be6fb71bb65fad75858c86966b2c621080cf5be" title="2025-09-15T09:45:47.000+02:00" target="_blank">2be6fb71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
+          <pre>Update python version and add pre-requisites (#1287)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/f1181561fa422f0a841ddd823d4d8aa4bf440c41" title="2025-08-27T09:58:26.000+02:00" target="_blank">f1181561</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Simplify the docker install (hello `python3-docker`)</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/2c912eb9f535f7c727f6623fe72ae90ca2d485de" title="2025-08-27T09:57:58.000+02:00" target="_blank">2c912eb9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Network Ouroboros</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/20f18dc75e9bc3ea569240bf97e5de531d61d869" title="2025-08-27T09:57:08.000+02:00" target="_blank">20f18dc7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[fix] Diretory creation</pre>
+        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 16 Feb 2026 14:26:34 GMT</small>
+<small>⏰ Updated on Tue, 17 Feb 2026 14:29:56 GMT</small>
 </td>
 </tr>
 </tfoot>
