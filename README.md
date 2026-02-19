@@ -136,16 +136,11 @@ This fix the message `Warning: Undefined array key "type" in
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/968a41e647b30ca5a21a0529cd61eeecfc25f7c7" title="2025-11-10T11:16:23.000+01:00" target="_blank">968a41e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[fix] `PodDisruptionBudget` needs 2 pods in test</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/2be6fb71bb65fad75858c86966b2c621080cf5be" title="2025-09-15T09:45:47.000+02:00" target="_blank">2be6fb71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
-          <pre>Update python version and add pre-requisites (#1287)</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 18 Feb 2026 14:28:36 GMT</small>
+<small>⏰ Updated on Thu, 19 Feb 2026 14:32:11 GMT</small>
 </td>
 </tr>
 </tfoot>
