@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/epfl-si/sopec" title="null" target="_blank">sopec</a>&nbsp;<a href="https://github.com/epfl-si/sopec" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sopec?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank">bearnie</a>&nbsp;<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank"><img src="https://img.shields.io/github/stars/michael-andreuzza/bearnie?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank">fullcalendar</a>&nbsp;<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank"><img src="https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank">jujutsu-tutorial</a>&nbsp;<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank"><img src="https://img.shields.io/github/stars/steveklabnik/jujutsu-tutorial?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank">aurora</a>&nbsp;<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank"><img src="https://img.shields.io/github/stars/element-hq/aurora?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Smaug6739/Alexandrie" title="Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured notes using an extended Markdown syntax, organize them with workspaces and categories, and work seamlessly both online and offline." target="_blank">Alexandrie</a>&nbsp;<a href="https://github.com/Smaug6739/Alexandrie" title="Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured notes using an extended Markdown syntax, organize them with workspaces and categories, and work seamlessly both online and offline." target="_blank"><img src="https://img.shields.io/github/stars/Smaug6739/Alexandrie?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank">AdAway</a>&nbsp;<a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank"><img src="https://img.shields.io/github/stars/AdAway/AdAway?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees" target="_blank">ticketshop</a>&nbsp;<a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ticketshop?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank">dice-for-engineers</a>&nbsp;<a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank"><img src="https://img.shields.io/github/stars/ctrlaltdel/dice-for-engineers?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank">penpot</a>&nbsp;<a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank"><img src="https://img.shields.io/github/stars/penpot/penpot?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank">mastro</a>&nbsp;<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank"><img src="https://img.shields.io/github/stars/mastrojs/mastro?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank">llm-council</a>&nbsp;<a href="https://github.com/karpathy/llm-council" title="LLM Council works together to answer your hardest questions" target="_blank"><img src="https://img.shields.io/github/stars/karpathy/llm-council?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank">bearnie</a>&nbsp;<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank"><img src="https://img.shields.io/github/stars/michael-andreuzza/bearnie?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank">fullcalendar</a>&nbsp;<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank"><img src="https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank">jujutsu-tutorial</a>&nbsp;<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank"><img src="https://img.shields.io/github/stars/steveklabnik/jujutsu-tutorial?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank">aurora</a>&nbsp;<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank"><img src="https://img.shields.io/github/stars/element-hq/aurora?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Smaug6739/Alexandrie" title="Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured notes using an extended Markdown syntax, organize them with workspaces and categories, and work seamlessly both online and offline." target="_blank">Alexandrie</a>&nbsp;<a href="https://github.com/Smaug6739/Alexandrie" title="Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured notes using an extended Markdown syntax, organize them with workspaces and categories, and work seamlessly both online and offline." target="_blank"><img src="https://img.shields.io/github/stars/Smaug6739/Alexandrie?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank">AdAway</a>&nbsp;<a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank"><img src="https://img.shields.io/github/stars/AdAway/AdAway?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees" target="_blank">ticketshop</a>&nbsp;<a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ticketshop?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank">dice-for-engineers</a>&nbsp;<a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank"><img src="https://img.shields.io/github/stars/ctrlaltdel/dice-for-engineers?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank">penpot</a>&nbsp;<a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank"><img src="https://img.shields.io/github/stars/penpot/penpot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/EPFL-CePro/CREP.ops" title="configuration-as-code for the deployment of the CREP project" target="_blank">CREP.ops</a>&nbsp;<a href="https://github.com/EPFL-CePro/CREP.ops" title="configuration-as-code for the deployment of the CREP project" target="_blank"><img src="https://img.shields.io/github/stars/EPFL-CePro/CREP.ops?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -140,7 +140,7 @@ This fix the message `Warning: Undefined array key "type" in
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 19 Feb 2026 14:32:11 GMT</small>
+<small>⏰ Updated on Fri, 20 Feb 2026 14:22:52 GMT</small>
 </td>
 </tr>
 </tfoot>
