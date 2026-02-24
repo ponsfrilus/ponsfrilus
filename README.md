@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank">niri</a>&nbsp;<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank"><img src="https://img.shields.io/github/stars/niri-wm/niri?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/sopec" title="null" target="_blank">sopec</a>&nbsp;<a href="https://github.com/epfl-si/sopec" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sopec?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank">bearnie</a>&nbsp;<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank"><img src="https://img.shields.io/github/stars/michael-andreuzza/bearnie?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank">fullcalendar</a>&nbsp;<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank"><img src="https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank">jujutsu-tutorial</a>&nbsp;<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank"><img src="https://img.shields.io/github/stars/steveklabnik/jujutsu-tutorial?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank">aurora</a>&nbsp;<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank"><img src="https://img.shields.io/github/stars/element-hq/aurora?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Smaug6739/Alexandrie" title="Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured notes using an extended Markdown syntax, organize them with workspaces and categories, and work seamlessly both online and offline." target="_blank">Alexandrie</a>&nbsp;<a href="https://github.com/Smaug6739/Alexandrie" title="Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured notes using an extended Markdown syntax, organize them with workspaces and categories, and work seamlessly both online and offline." target="_blank"><img src="https://img.shields.io/github/stars/Smaug6739/Alexandrie?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank">AdAway</a>&nbsp;<a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank"><img src="https://img.shields.io/github/stars/AdAway/AdAway?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees" target="_blank">ticketshop</a>&nbsp;<a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ticketshop?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank">dice-for-engineers</a>&nbsp;<a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank"><img src="https://img.shields.io/github/stars/ctrlaltdel/dice-for-engineers?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank">zclaw</a>&nbsp;<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank"><img src="https://img.shields.io/github/stars/tnm/zclaw?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/epfl-si/sopec" title="null" target="_blank">sopec</a>&nbsp;<a href="https://github.com/epfl-si/sopec" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sopec?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank">bearnie</a>&nbsp;<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank"><img src="https://img.shields.io/github/stars/michael-andreuzza/bearnie?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank">fullcalendar</a>&nbsp;<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank"><img src="https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank">jujutsu-tutorial</a>&nbsp;<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank"><img src="https://img.shields.io/github/stars/steveklabnik/jujutsu-tutorial?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank">aurora</a>&nbsp;<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank"><img src="https://img.shields.io/github/stars/element-hq/aurora?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Smaug6739/Alexandrie" title="Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured notes using an extended Markdown syntax, organize them with workspaces and categories, and work seamlessly both online and offline." target="_blank">Alexandrie</a>&nbsp;<a href="https://github.com/Smaug6739/Alexandrie" title="Alexandrie is a fast, modern, and open-source web application for Markdown note taking, designed for students, creators, and knowledge workers seeking a productive and flexible tool. Build structured notes using an extended Markdown syntax, organize them with workspaces and categories, and work seamlessly both online and offline." target="_blank"><img src="https://img.shields.io/github/stars/Smaug6739/Alexandrie?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank">AdAway</a>&nbsp;<a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank"><img src="https://img.shields.io/github/stars/AdAway/AdAway?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees" target="_blank">ticketshop</a>&nbsp;<a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/ticketshop?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank">dice-for-engineers</a>&nbsp;<a href="https://github.com/ctrlaltdel/dice-for-engineers" title="A dice for helping network engineers in their daily troubleshooting" target="_blank"><img src="https://img.shields.io/github/stars/ctrlaltdel/dice-for-engineers?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank">penpot</a>&nbsp;<a href="https://github.com/penpot/penpot" title="Penpot: The open-source design tool for design and code collaboration" target="_blank"><img src="https://img.shields.io/github/stars/penpot/penpot?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/5d5ce98147c2c9f91214702da76e42b8739d2b2e" title="2026-02-24T11:43:26.000+01:00" target="_blank">5d5ce981</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] Update image tag to 2026</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6e2af12c8b2707ea606246e9294ed4d3d9d34b3c" title="2026-02-12T16:58:15.000+01:00" target="_blank">6e2af12c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[feature] Add CPU visualisation of the 2 nginx serving pods</pre>
@@ -136,31 +141,11 @@ This fix the message `Warning: Undefined array key "type" in
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/968a41e647b30ca5a21a0529cd61eeecfc25f7c7" title="2025-11-10T11:16:23.000+01:00" target="_blank">968a41e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[fix] `PodDisruptionBudget` needs 2 pods in test</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/2be6fb71bb65fad75858c86966b2c621080cf5be" title="2025-09-15T09:45:47.000+02:00" target="_blank">2be6fb71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
-          <pre>Update python version and add pre-requisites (#1287)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/f1181561fa422f0a841ddd823d4d8aa4bf440c41" title="2025-08-27T09:58:26.000+02:00" target="_blank">f1181561</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[fix] Simplify the docker install (hello `python3-docker`)</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/2c912eb9f535f7c727f6623fe72ae90ca2d485de" title="2025-08-27T09:57:58.000+02:00" target="_blank">2c912eb9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[fix] Network Ouroboros</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/20f18dc75e9bc3ea569240bf97e5de531d61d869" title="2025-08-27T09:57:08.000+02:00" target="_blank">20f18dc7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[fix] Diretory creation</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 23 Feb 2026 14:30:11 GMT</small>
+<small>⏰ Updated on Tue, 24 Feb 2026 14:34:49 GMT</small>
 </td>
 </tr>
 </tfoot>
