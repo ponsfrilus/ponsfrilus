@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/SimonHalvdansson/Harmonic-HN" title="Modern Android client for Hacker News" target="_blank">Harmonic-HN</a>&nbsp;<a href="https://github.com/SimonHalvdansson/Harmonic-HN" title="Modern Android client for Hacker News" target="_blank"><img src="https://img.shields.io/github/stars/SimonHalvdansson/Harmonic-HN?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank">zclaw</a>&nbsp;<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank"><img src="https://img.shields.io/github/stars/tnm/zclaw?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank">mastro</a>&nbsp;<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank"><img src="https://img.shields.io/github/stars/mastrojs/mastro?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank">awesome-programming-games</a>&nbsp;<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank"><img src="https://img.shields.io/github/stars/readyready15728/awesome-programming-games?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank">mdBook</a>&nbsp;<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank"><img src="https://img.shields.io/github/stars/rust-lang/mdBook?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank">meet</a>&nbsp;<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/meet?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank">openclaw</a>&nbsp;<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank">Ferrite</a>&nbsp;<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank"><img src="https://img.shields.io/github/stars/OlaProeis/Ferrite?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gayanvoice/top-github-users" title="Check your ranking in GitHub! Don't forget to star ⭐ this repository." target="_blank">top-github-users</a>&nbsp;<a href="https://github.com/gayanvoice/top-github-users" title="Check your ranking in GitHub! Don't forget to star ⭐ this repository." target="_blank"><img src="https://img.shields.io/github/stars/gayanvoice/top-github-users?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/readur/readur" title="Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience." target="_blank">readur</a>&nbsp;<a href="https://github.com/readur/readur" title="Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience." target="_blank"><img src="https://img.shields.io/github/stars/readur/readur?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank">niri</a>&nbsp;<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank"><img src="https://img.shields.io/github/stars/niri-wm/niri?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank">zclaw</a>&nbsp;<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank"><img src="https://img.shields.io/github/stars/tnm/zclaw?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank">mastro</a>&nbsp;<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank"><img src="https://img.shields.io/github/stars/mastrojs/mastro?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank">awesome-programming-games</a>&nbsp;<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank"><img src="https://img.shields.io/github/stars/readyready15728/awesome-programming-games?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank">mdBook</a>&nbsp;<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank"><img src="https://img.shields.io/github/stars/rust-lang/mdBook?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank">meet</a>&nbsp;<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/meet?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank">openclaw</a>&nbsp;<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank">Ferrite</a>&nbsp;<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank"><img src="https://img.shields.io/github/stars/OlaProeis/Ferrite?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gayanvoice/top-github-users" title="Check your ranking in GitHub! Don't forget to star ⭐ this repository." target="_blank">top-github-users</a>&nbsp;<a href="https://github.com/gayanvoice/top-github-users" title="Check your ranking in GitHub! Don't forget to star ⭐ this repository." target="_blank"><img src="https://img.shields.io/github/stars/gayanvoice/top-github-users?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/readur/readur" title="Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience." target="_blank">readur</a>&nbsp;<a href="https://github.com/readur/readur" title="Quick, painless, intuitive OCR platform written in Rust and TypeScript. Modern UI with modern API, with an emphasis on intuitive user experience." target="_blank"><img src="https://img.shields.io/github/stars/readur/readur?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/swiss/oss-catalog" title="Open Source Software Catalog" target="_blank">oss-catalog</a>&nbsp;<a href="https://github.com/swiss/oss-catalog" title="Open Source Software Catalog" target="_blank"><img src="https://img.shields.io/github/stars/swiss/oss-catalog?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/Jch4ipas/grist-widget/commits/5f4635059f789197d7c216485b092e49e06b4d74" title="2026-02-25T15:03:32.000+01:00" target="_blank">5f463505</a><a href="https://github.com/Jch4ipas">@Jch4ipas</a><a href="https://github.com/Jch4ipas/grist-widget" title="null">/grist-widget</a></strong></div>
+          <pre>[fix] Button title grammar and spelling</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/5d5ce98147c2c9f91214702da76e42b8739d2b2e" title="2026-02-24T11:43:26.000+01:00" target="_blank">5d5ce981</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[fix] Update image tag to 2026</pre>
@@ -145,7 +150,7 @@ This fix the message `Warning: Undefined array key "type" in
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 24 Feb 2026 14:34:49 GMT</small>
+<small>⏰ Updated on Wed, 25 Feb 2026 14:33:04 GMT</small>
 </td>
 </tr>
 </tfoot>
