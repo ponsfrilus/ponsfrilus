@@ -69,7 +69,7 @@
 <a href="https://github.com/SimonHalvdansson/Harmonic-HN" title="Modern Android client for Hacker News" target="_blank">Harmonic-HN</a>&nbsp;<a href="https://github.com/SimonHalvdansson/Harmonic-HN" title="Modern Android client for Hacker News" target="_blank"><img src="https://img.shields.io/github/stars/SimonHalvdansson/Harmonic-HN?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank">zclaw</a>&nbsp;<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~25KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank"><img src="https://img.shields.io/github/stars/tnm/zclaw?style=social" alt="GitHub"></a>
+<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank">zclaw</a>&nbsp;<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank"><img src="https://img.shields.io/github/stars/tnm/zclaw?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank">mastro</a>&nbsp;<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank"><img src="https://img.shields.io/github/stars/mastrojs/mastro?style=social" alt="GitHub"></a>
@@ -157,7 +157,7 @@ This fix the message `Warning: Undefined array key "type" in
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 02 Mar 2026 14:25:22 GMT</small>
+<small>⏰ Updated on Tue, 03 Mar 2026 14:25:00 GMT</small>
 </td>
 </tr>
 </tfoot>
