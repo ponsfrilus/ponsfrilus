@@ -103,6 +103,21 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/laboratoire-it/ressources/commits/a640febd4fe2b18dd03af144fcd69b1e476de126" title="2026-03-05T12:50:24.000+01:00" target="_blank">a640febd</a><a href="https://github.com/laboratoire-it">@laboratoire-it</a><a href="https://github.com/laboratoire-it/ressources" title="null">/ressources</a></strong></div>
+          <pre>[fix] Modèle de capsule avec "Frontmatter"</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/laboratoire-it/ressources/commits/ccb7ec9690f832fa1f4f7783b0d78da2d987fff4" title="2026-03-05T11:56:54.000+01:00" target="_blank">ccb7ec96</a><a href="https://github.com/laboratoire-it">@laboratoire-it</a><a href="https://github.com/laboratoire-it/ressources" title="null">/ressources</a></strong></div>
+          <pre>[doc] Modèle MarkDown pour les propositions de capsule
+
+Ce document, placé dans le dossier `.github`, permet de formatter
+les créations d'issues sous forme de capsule. C'est un bon point de
+départ pour recuillir les propositions de capsules proposées par les
+différents intéressés, pour autant qu'ils aient accès au dépôt.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/72e346fbc4c38a4259101cba457b675bb6eebd94" title="2026-02-25T16:45:27.000+01:00" target="_blank">72e346fb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[feature] Add `wpforms-epfl-payonline` ...
 
@@ -148,21 +163,11 @@ This fixes #333</pre>
 This fix the message `Warning: Undefined array key "type" in 
 /wp/wp-content/mu-plugins/EPFL_audit.php on line 89`</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/968a41e647b30ca5a21a0529cd61eeecfc25f7c7" title="2025-11-10T11:16:23.000+01:00" target="_blank">968a41e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] `PodDisruptionBudget` needs 2 pods in test</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/2be6fb71bb65fad75858c86966b2c621080cf5be" title="2025-09-15T09:45:47.000+02:00" target="_blank">2be6fb71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
-          <pre>Update python version and add pre-requisites (#1287)</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 04 Mar 2026 14:23:00 GMT</small>
+<small>⏰ Updated on Thu, 05 Mar 2026 14:25:46 GMT</small>
 </td>
 </tr>
 </tfoot>
