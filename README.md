@@ -103,12 +103,31 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/laboratoire-it/ressources/commits/a640febd4fe2b18dd03af144fcd69b1e476de126" title="2026-03-05T12:50:24.000+01:00" target="_blank">a640febd</a><a href="https://github.com/laboratoire-it">@laboratoire-it</a><a href="https://github.com/laboratoire-it/ressources" title="null">/ressources</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/d146c0beada740fcd6c49d829aef31bd22d7c354" title="2026-03-10T20:01:44.000+01:00" target="_blank">d146c0be</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[monitoring] Enable new variables</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ef4e108ed4f0efb687c76dd30dc02eaedd52b89d" title="2026-03-10T20:01:15.000+01:00" target="_blank">ef4e108e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[bump] to version 4.5.7</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/cb21d7d43738673b68410d268ef88ce9d51487a1" title="2026-03-10T20:00:48.000+01:00" target="_blank">cb21d7d4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[pause] Ad-hoc monitoring removed
+
+For now, let's rely on official image as since v4.4.4 there planty of 
+built-in monitoring: 
+https://docs.joinmastodon.org/admin/config/#prometheus</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/laboratoire-it/cursus_formation/commits/a640febd4fe2b18dd03af144fcd69b1e476de126" title="2026-03-05T12:50:24.000+01:00" target="_blank">a640febd</a><a href="https://github.com/laboratoire-it">@laboratoire-it</a><a href="https://github.com/laboratoire-it/cursus_formation" title="null">/cursus_formation</a></strong></div>
           <pre>[fix] Modèle de capsule avec "Frontmatter"</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/laboratoire-it/ressources/commits/ccb7ec9690f832fa1f4f7783b0d78da2d987fff4" title="2026-03-05T11:56:54.000+01:00" target="_blank">ccb7ec96</a><a href="https://github.com/laboratoire-it">@laboratoire-it</a><a href="https://github.com/laboratoire-it/ressources" title="null">/ressources</a></strong></div>
+          <div><strong><a href="https://api.github.com/repos/laboratoire-it/cursus_formation/commits/ccb7ec9690f832fa1f4f7783b0d78da2d987fff4" title="2026-03-05T11:56:54.000+01:00" target="_blank">ccb7ec96</a><a href="https://github.com/laboratoire-it">@laboratoire-it</a><a href="https://github.com/laboratoire-it/cursus_formation" title="null">/cursus_formation</a></strong></div>
           <pre>[doc] Modèle MarkDown pour les propositions de capsule
 
 Ce document, placé dans le dossier `.github`, permet de formatter
@@ -143,31 +162,11 @@ différents intéressés, pour autant qu'ils aient accès au dépôt.</pre>
           <div><strong><a href="https://api.github.com/repos/la-plaje/website/commits/f93cd1d9b28e98c8ec9ec2ccd02be53de2540205" title="2026-01-27T01:12:32.000+01:00" target="_blank">f93cd1d9</a><a href="https://github.com/la-plaje">@la-plaje</a><a href="https://github.com/la-plaje/website" title="null">/website</a></strong></div>
           <pre>[doc] README.md</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/la-plaje/website/commits/42d7f30ac6cbed67ca4648660ece180bd3839c2b" title="2026-01-27T01:06:59.000+01:00" target="_blank">42d7f30a</a><a href="https://github.com/la-plaje">@la-plaje</a><a href="https://github.com/la-plaje/website" title="null">/website</a></strong></div>
-          <pre>[feature] new logo</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-veritas/commits/5e2978e6d165f15fb81be7330e1bb8b4f1d93b80" title="2025-11-26T09:50:52.000+01:00" target="_blank">5e2978e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-veritas" title="https://wp-veritas.epfl.ch">/wp-veritas</a></strong></div>
-          <pre>[i18n] Improve translation
-
-This fixes #333</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-mu-plugins/commits/0510b811456fbea8e21ce63c1af3e25e9f3b85cb" title="2025-11-12T09:05:47.000+01:00" target="_blank">0510b811</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-mu-plugins" title="null">/wp-mu-plugins</a></strong></div>
-          <pre>[fix] Unchecked var
-
-This fix the message `Warning: Undefined array key "type" in 
-/wp/wp-content/mu-plugins/EPFL_audit.php on line 89`</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 10 Mar 2026 14:26:53 GMT</small>
+<small>⏰ Updated on Wed, 11 Mar 2026 14:28:54 GMT</small>
 </td>
 </tr>
 </tfoot>
