@@ -137,6 +137,11 @@ différents intéressés, pour autant qu'ils aient accès au dépôt.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/c2b6db9ec769cb46a919189ba14906c4fa12f722" title="2026-02-26T10:42:07.000+01:00" target="_blank">c2b6db9e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[fix] Moar deadcode + CHANGELOG</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/72e346fbc4c38a4259101cba457b675bb6eebd94" title="2026-02-25T16:45:27.000+01:00" target="_blank">72e346fb</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[feature] Add `wpforms-epfl-payonline` ...
 
@@ -154,19 +159,16 @@ différents intéressés, pour autant qu'ils aient accès au dépôt.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6e2af12c8b2707ea606246e9294ed4d3d9d34b3c" title="2026-02-12T16:58:15.000+01:00" target="_blank">6e2af12c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] Add CPU visualisation of the 2 nginx serving pods</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/la-plaje/website/commits/f93cd1d9b28e98c8ec9ec2ccd02be53de2540205" title="2026-01-27T01:12:32.000+01:00" target="_blank">f93cd1d9</a><a href="https://github.com/la-plaje">@la-plaje</a><a href="https://github.com/la-plaje/website" title="null">/website</a></strong></div>
-          <pre>[doc] README.md</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/8c1b7996dbc097771a7067cfe583aecbf861d83b" title="2026-02-23T17:31:50.000+01:00" target="_blank">8c1b7996</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
+          <pre>[bump] version to 2.8.1
+
+ec8c8ad undeaded</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 12 Mar 2026 14:29:24 GMT</small>
+<small>⏰ Updated on Fri, 13 Mar 2026 14:24:51 GMT</small>
 </td>
 </tr>
 </tfoot>
