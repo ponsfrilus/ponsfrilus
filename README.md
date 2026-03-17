@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/shanraisshan/claude-code-best-practice" title="practice made claude perfect" target="_blank">claude-code-best-practice</a>&nbsp;<a href="https://github.com/shanraisshan/claude-code-best-practice" title="practice made claude perfect" target="_blank"><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/srizzon/git-city" title="Your GitHub profile as a 3D pixel art building in an interactive city" target="_blank">git-city</a>&nbsp;<a href="https://github.com/srizzon/git-city" title="Your GitHub profile as a 3D pixel art building in an interactive city" target="_blank"><img src="https://img.shields.io/github/stars/srizzon/git-city?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SimonHalvdansson/Harmonic-HN" title="Modern Android client for Hacker News" target="_blank">Harmonic-HN</a>&nbsp;<a href="https://github.com/SimonHalvdansson/Harmonic-HN" title="Modern Android client for Hacker News" target="_blank"><img src="https://img.shields.io/github/stars/SimonHalvdansson/Harmonic-HN?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank">zclaw</a>&nbsp;<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank"><img src="https://img.shields.io/github/stars/tnm/zclaw?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank">mastro</a>&nbsp;<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank"><img src="https://img.shields.io/github/stars/mastrojs/mastro?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank">awesome-programming-games</a>&nbsp;<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank"><img src="https://img.shields.io/github/stars/readyready15728/awesome-programming-games?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank">mdBook</a>&nbsp;<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank"><img src="https://img.shields.io/github/stars/rust-lang/mdBook?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank">meet</a>&nbsp;<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/meet?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank">openclaw</a>&nbsp;<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank">Ferrite</a>&nbsp;<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank"><img src="https://img.shields.io/github/stars/OlaProeis/Ferrite?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank">k8s-unix-system</a>&nbsp;<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank"><img src="https://img.shields.io/github/stars/jlandersen/k8s-unix-system?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank">AdAway</a>&nbsp;<a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank"><img src="https://img.shields.io/github/stars/AdAway/AdAway?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/srizzon/git-city" title="Your GitHub profile as a 3D pixel art building in an interactive city" target="_blank">git-city</a>&nbsp;<a href="https://github.com/srizzon/git-city" title="Your GitHub profile as a 3D pixel art building in an interactive city" target="_blank"><img src="https://img.shields.io/github/stars/srizzon/git-city?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SimonHalvdansson/Harmonic-HN" title="Modern Android client for Hacker News" target="_blank">Harmonic-HN</a>&nbsp;<a href="https://github.com/SimonHalvdansson/Harmonic-HN" title="Modern Android client for Hacker News" target="_blank"><img src="https://img.shields.io/github/stars/SimonHalvdansson/Harmonic-HN?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank">zclaw</a>&nbsp;<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank"><img src="https://img.shields.io/github/stars/tnm/zclaw?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank">mastro</a>&nbsp;<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank"><img src="https://img.shields.io/github/stars/mastrojs/mastro?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank">awesome-programming-games</a>&nbsp;<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank"><img src="https://img.shields.io/github/stars/readyready15728/awesome-programming-games?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank">mdBook</a>&nbsp;<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank"><img src="https://img.shields.io/github/stars/rust-lang/mdBook?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank">meet</a>&nbsp;<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/meet?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank">openclaw</a>&nbsp;<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank">Ferrite</a>&nbsp;<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank"><img src="https://img.shields.io/github/stars/OlaProeis/Ferrite?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gayanvoice/top-github-users" title="Check your ranking in GitHub! Don't forget to star ⭐ this repository." target="_blank">top-github-users</a>&nbsp;<a href="https://github.com/gayanvoice/top-github-users" title="Check your ranking in GitHub! Don't forget to star ⭐ this repository." target="_blank"><img src="https://img.shields.io/github/stars/gayanvoice/top-github-users?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -164,7 +164,7 @@ différents intéressés, pour autant qu'ils aient accès au dépôt.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 16 Mar 2026 14:45:57 GMT</small>
+<small>⏰ Updated on Tue, 17 Mar 2026 14:40:23 GMT</small>
 </td>
 </tr>
 </tfoot>
