@@ -103,68 +103,59 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/lvenries/stage_challenge/commits/f965a2de31167772ee05060dd20a2d935a2a080d" title="2026-03-16T12:18:30.000+01:00" target="_blank">f965a2de</a><a href="https://github.com/lvenries">@lvenries</a><a href="https://github.com/lvenries/stage_challenge" title="null">/stage_challenge</a></strong></div>
-          <pre>[fix] Itching double spaces</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/0b1b7191fed5f6ea36afc7344fd4408db32a2a87" title="2026-03-18T12:54:01.000+01:00" target="_blank">0b1b7191</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[fix] Docker restart</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/lvenries/stage_challenge/commits/681673713050a7968313e3480780f1127159f34a" title="2026-03-16T12:17:54.000+01:00" target="_blank">68167371</a><a href="https://github.com/lvenries">@lvenries</a><a href="https://github.com/lvenries/stage_challenge" title="null">/stage_challenge</a></strong></div>
-          <pre>[fix] Cowsay does Tux too</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/51e83d69007e305edcc1a1be82f779c712a846b4" title="2026-03-18T12:46:17.000+01:00" target="_blank">51e83d69</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[doc] Usage</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/lvenries/stage_challenge/commits/5f789c5db83076b14cbe54b1b4dc41815fb686c1" title="2026-03-16T12:13:51.000+01:00" target="_blank">5f789c5d</a><a href="https://github.com/lvenries">@lvenries</a><a href="https://github.com/lvenries/stage_challenge" title="null">/stage_challenge</a></strong></div>
-          <pre>[fix] Comment</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/7eb70c077906fac160c64ab9ef1532861163078b" title="2026-03-18T12:43:48.000+01:00" target="_blank">7eb70c07</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[doc] README</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/lvenries/stage_challenge/commits/812e503154c1fc9ce84234cbf468d01d9d61efe0" title="2026-03-16T12:12:47.000+01:00" target="_blank">812e5031</a><a href="https://github.com/lvenries">@lvenries</a><a href="https://github.com/lvenries/stage_challenge" title="null">/stage_challenge</a></strong></div>
-          <pre>[fix] https://chiffrer.info/</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/7ad39a21bcd59f9056c9f096fddab8f733dc47c8" title="2026-03-18T12:14:27.000+01:00" target="_blank">7ad39a21</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[feature] Install Docker</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/d146c0beada740fcd6c49d829aef31bd22d7c354" title="2026-03-10T20:01:44.000+01:00" target="_blank">d146c0be</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[monitoring] Enable new variables</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/bcb00aabb4976d55a0fa5e8940f71f1d074c902c" title="2026-03-18T12:00:48.000+01:00" target="_blank">bcb00aab</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[feature] Start Docker stage challenge</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ef4e108ed4f0efb687c76dd30dc02eaedd52b89d" title="2026-03-10T20:01:15.000+01:00" target="_blank">ef4e108e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[bump] to version 4.5.7</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/1260f95f89ec81a950e4cd43da71345e0542b372" title="2026-03-18T11:59:30.000+01:00" target="_blank">1260f95f</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[feature] Add the `stage` user</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/cb21d7d43738673b68410d268ef88ce9d51487a1" title="2026-03-10T20:00:48.000+01:00" target="_blank">cb21d7d4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[pause] Ad-hoc monitoring removed
-
-For now, let's rely on official image as since v4.4.4 there planty of 
-built-in monitoring: 
-https://docs.joinmastodon.org/admin/config/#prometheus</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/62a86f666ba8079884c2e9b2dbb10adc0f5c70c6" title="2026-03-18T11:59:19.000+01:00" target="_blank">62a86f66</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[feature] Install tools</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/laboratoire-it/cursus_formation/commits/a640febd4fe2b18dd03af144fcd69b1e476de126" title="2026-03-05T12:50:24.000+01:00" target="_blank">a640febd</a><a href="https://github.com/laboratoire-it">@laboratoire-it</a><a href="https://github.com/laboratoire-it/cursus_formation" title="null">/cursus_formation</a></strong></div>
-          <pre>[fix] Modèle de capsule avec "Frontmatter"</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/e2dacd2df1a94c9c541e4784cb2e090fb6ed87d0" title="2026-03-18T11:59:10.000+01:00" target="_blank">e2dacd2d</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[feature] Connect to `eduroam`</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/laboratoire-it/cursus_formation/commits/ccb7ec9690f832fa1f4f7783b0d78da2d987fff4" title="2026-03-05T11:56:54.000+01:00" target="_blank">ccb7ec96</a><a href="https://github.com/laboratoire-it">@laboratoire-it</a><a href="https://github.com/laboratoire-it/cursus_formation" title="null">/cursus_formation</a></strong></div>
-          <pre>[doc] Modèle MarkDown pour les propositions de capsule
-
-Ce document, placé dans le dossier `.github`, permet de formatter
-les créations d'issues sous forme de capsule. C'est un bon point de
-départ pour recuillir les propositions de capsules proposées par les
-différents intéressés, pour autant qu'ils aient accès au dépôt.</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/d00f7762e949402a30bcd7ce67c54c6d4ec804b4" title="2026-03-18T11:58:56.000+01:00" target="_blank">d00f7762</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[feature] Add update & upgrade</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wpforms-epfl-payonline/commits/c2b6db9ec769cb46a919189ba14906c4fa12f722" title="2026-02-26T10:42:07.000+01:00" target="_blank">c2b6db9e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wpforms-epfl-payonline" title="EPFL Payonline integration with WPForms">/wpforms-epfl-payonline</a></strong></div>
-          <pre>[fix] Moar deadcode + CHANGELOG</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/a6a5ded0e1a02416946440902ed83a2170615344" title="2026-03-18T11:58:40.000+01:00" target="_blank">a6a5ded0</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[feature] Add source and usage</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 17 Mar 2026 14:40:23 GMT</small>
+<small>⏰ Updated on Wed, 18 Mar 2026 14:47:09 GMT</small>
 </td>
 </tr>
 </tfoot>
