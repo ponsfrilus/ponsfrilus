@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Diolinux/PhotoGIMP" title="A Patch for GIMP 3+ for Photoshop Users" target="_blank">PhotoGIMP</a>&nbsp;<a href="https://github.com/Diolinux/PhotoGIMP" title="A Patch for GIMP 3+ for Photoshop Users" target="_blank"><img src="https://img.shields.io/github/stars/Diolinux/PhotoGIMP?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/shanraisshan/claude-code-best-practice" title="practice made claude perfect" target="_blank">claude-code-best-practice</a>&nbsp;<a href="https://github.com/shanraisshan/claude-code-best-practice" title="practice made claude perfect" target="_blank"><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank">openclaw</a>&nbsp;<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank">Ferrite</a>&nbsp;<a href="https://github.com/OlaProeis/Ferrite" title="A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience." target="_blank"><img src="https://img.shields.io/github/stars/OlaProeis/Ferrite?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank">spank</a>&nbsp;<a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank"><img src="https://img.shields.io/github/stars/taigrr/spank?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank">k8s-unix-system</a>&nbsp;<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank"><img src="https://img.shields.io/github/stars/jlandersen/k8s-unix-system?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/Smaug6739/Alexandrie" title="Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy in one command." target="_blank">Alexandrie</a>&nbsp;<a href="https://github.com/Smaug6739/Alexandrie" title="Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy in one command." target="_blank"><img src="https://img.shields.io/github/stars/Smaug6739/Alexandrie?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank">AdAway</a>&nbsp;<a href="https://github.com/AdAway/AdAway" title="AdAway is a free and open source ad blocker for Android. " target="_blank"><img src="https://img.shields.io/github/stars/AdAway/AdAway?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -103,59 +103,59 @@
 </tr>
 <tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/0b1b7191fed5f6ea36afc7344fd4408db32a2a87" title="2026-03-18T12:54:01.000+01:00" target="_blank">0b1b7191</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[fix] Docker restart</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/5f09443a6b49fee215aa626ad091ec40020afbae" title="2026-03-18T18:12:25.000+01:00" target="_blank">5f09443a</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[feature] Add personalized background</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/51e83d69007e305edcc1a1be82f779c712a846b4" title="2026-03-18T12:46:17.000+01:00" target="_blank">51e83d69</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[doc] Usage</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/203ab0b5bc8798b9760d54e7803a693cb01b3feb" title="2026-03-18T18:12:09.000+01:00" target="_blank">203ab0b5</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[fix] More quiet update and added comment</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/7eb70c077906fac160c64ab9ef1532861163078b" title="2026-03-18T12:43:48.000+01:00" target="_blank">7eb70c07</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[doc] README</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/9c5608601b5ce1700eab2af459835c9819dc2e1c" title="2026-03-18T17:36:33.000+01:00" target="_blank">9c560860</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[fix] Reboot again</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/7ad39a21bcd59f9056c9f096fddab8f733dc47c8" title="2026-03-18T12:14:27.000+01:00" target="_blank">7ad39a21</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[feature] Install Docker</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/2cfba63867e9945c56ea7b53e59016b876b7c579" title="2026-03-18T16:39:20.000+01:00" target="_blank">2cfba638</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[fix] Ensure Bash shell</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/bcb00aabb4976d55a0fa5e8940f71f1d074c902c" title="2026-03-18T12:00:48.000+01:00" target="_blank">bcb00aab</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[feature] Start Docker stage challenge</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/899371a924be5a1872046a3eb11a30b42c8f0121" title="2026-03-18T16:39:06.000+01:00" target="_blank">899371a9</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[feature] Add SSH server + users</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/1260f95f89ec81a950e4cd43da71345e0542b372" title="2026-03-18T11:59:30.000+01:00" target="_blank">1260f95f</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[feature] Add the `stage` user</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/d38997ab4558bf8c9524146bce0fdcb917ba7564" title="2026-03-18T16:07:50.000+01:00" target="_blank">d38997ab</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[fix] Do not reboot by default</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/62a86f666ba8079884c2e9b2dbb10adc0f5c70c6" title="2026-03-18T11:59:19.000+01:00" target="_blank">62a86f66</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[feature] Install tools</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/2edb96f65a411b421e0fb7d2a733a748c3f394df" title="2026-03-18T16:07:38.000+01:00" target="_blank">2edb96f6</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[feature] Remove bloatware</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/e2dacd2df1a94c9c541e4784cb2e090fb6ed87d0" title="2026-03-18T11:59:10.000+01:00" target="_blank">e2dacd2d</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[feature] Connect to `eduroam`</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/fe224974c5efb97050c5bbb8ee468691ba56ed7b" title="2026-03-18T16:01:26.000+01:00" target="_blank">fe224974</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[fix] Save time if Docker is already here</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/d00f7762e949402a30bcd7ce67c54c6d4ec804b4" title="2026-03-18T11:58:56.000+01:00" target="_blank">d00f7762</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[feature] Add update & upgrade</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/6968587d48dad6dfb210090a26d549b5763c2777" title="2026-03-18T15:59:27.000+01:00" target="_blank">6968587d</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[fix] No more sudo</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/a6a5ded0e1a02416946440902ed83a2170615344" title="2026-03-18T11:58:40.000+01:00" target="_blank">a6a5ded0</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[feature] Add source and usage</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/f56d14834eb168d4174e3593fd60fbde5e62ec53" title="2026-03-18T15:57:51.000+01:00" target="_blank">f56d1483</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[fix] Script URL</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 18 Mar 2026 14:47:09 GMT</small>
+<small>⏰ Updated on Thu, 19 Mar 2026 14:30:49 GMT</small>
 </td>
 </tr>
 </tfoot>
