@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank">Bot-JDT</a>&nbsp;<a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Evinne8/Bot-JDT?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank">spank</a>&nbsp;<a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank"><img src="https://img.shields.io/github/stars/taigrr/spank?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank">k8s-unix-system</a>&nbsp;<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank"><img src="https://img.shields.io/github/stars/jlandersen/k8s-unix-system?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/polylex-chatbot" title="null" target="_blank">polylex-chatbot</a>&nbsp;<a href="https://github.com/epfl-si/polylex-chatbot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/polylex-chatbot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank">niri</a>&nbsp;<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank"><img src="https://img.shields.io/github/stars/niri-wm/niri?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/sopec" title="null" target="_blank">sopec</a>&nbsp;<a href="https://github.com/epfl-si/sopec" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sopec?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank">bearnie</a>&nbsp;<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank"><img src="https://img.shields.io/github/stars/michael-andreuzza/bearnie?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank">fullcalendar</a>&nbsp;<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank"><img src="https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank">jujutsu-tutorial</a>&nbsp;<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank"><img src="https://img.shields.io/github/stars/steveklabnik/jujutsu-tutorial?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank">aurora</a>&nbsp;<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank"><img src="https://img.shields.io/github/stars/element-hq/aurora?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/Diolinux/PhotoGIMP" title="A Patch for GIMP 3+ for Photoshop Users" target="_blank">PhotoGIMP</a>&nbsp;<a href="https://github.com/Diolinux/PhotoGIMP" title="A Patch for GIMP 3+ for Photoshop Users" target="_blank"><img src="https://img.shields.io/github/stars/Diolinux/PhotoGIMP?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank">spank</a>&nbsp;<a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank"><img src="https://img.shields.io/github/stars/taigrr/spank?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank">k8s-unix-system</a>&nbsp;<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank"><img src="https://img.shields.io/github/stars/jlandersen/k8s-unix-system?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/polylex-chatbot" title="null" target="_blank">polylex-chatbot</a>&nbsp;<a href="https://github.com/epfl-si/polylex-chatbot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/polylex-chatbot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank">niri</a>&nbsp;<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank"><img src="https://img.shields.io/github/stars/niri-wm/niri?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/sopec" title="null" target="_blank">sopec</a>&nbsp;<a href="https://github.com/epfl-si/sopec" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sopec?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank">bearnie</a>&nbsp;<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank"><img src="https://img.shields.io/github/stars/michael-andreuzza/bearnie?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank">fullcalendar</a>&nbsp;<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank"><img src="https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank">jujutsu-tutorial</a>&nbsp;<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank"><img src="https://img.shields.io/github/stars/steveklabnik/jujutsu-tutorial?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank">aurora</a>&nbsp;<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank"><img src="https://img.shields.io/github/stars/element-hq/aurora?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Smaug6739/Alexandrie" title="Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy in one command." target="_blank">Alexandrie</a>&nbsp;<a href="https://github.com/Smaug6739/Alexandrie" title="Self-hosted knowledge base with extended Markdown, Kanban, OIDC/SSO, PWA & offline support. Deploy in one command." target="_blank"><img src="https://img.shields.io/github/stars/Smaug6739/Alexandrie?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/status/commits/94019b5a4ae0785cbc54bd2a23a1312cde00b3f7" title="2026-03-23T12:32:56.000+01:00" target="_blank">94019b5a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/status" title="null">/status</a></strong></div>
+          <pre>Initial commit</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/5f09443a6b49fee215aa626ad091ec40020afbae" title="2026-03-18T18:12:25.000+01:00" target="_blank">5f09443a</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
           <pre>[feature] Add personalized background</pre>
@@ -146,16 +151,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/6968587d48dad6dfb210090a26d549b5763c2777" title="2026-03-18T15:59:27.000+01:00" target="_blank">6968587d</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
           <pre>[fix] No more sudo</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/f56d14834eb168d4174e3593fd60fbde5e62ec53" title="2026-03-18T15:57:51.000+01:00" target="_blank">f56d1483</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[fix] Script URL</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 20 Mar 2026 14:25:40 GMT</small>
+<small>⏰ Updated on Mon, 23 Mar 2026 14:40:00 GMT</small>
 </td>
 </tr>
 </tfoot>
