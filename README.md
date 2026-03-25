@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/imfing/hextra-starter-template" title="🐣 Minimal template for using Hextra for Hugo" target="_blank">hextra-starter-template</a>&nbsp;<a href="https://github.com/imfing/hextra-starter-template" title="🐣 Minimal template for using Hextra for Hugo" target="_blank"><img src="https://img.shields.io/github/stars/imfing/hextra-starter-template?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Diolinux/PhotoGIMP" title="A Patch for GIMP 3+ for Photoshop Users" target="_blank">PhotoGIMP</a>&nbsp;<a href="https://github.com/Diolinux/PhotoGIMP" title="A Patch for GIMP 3+ for Photoshop Users" target="_blank"><img src="https://img.shields.io/github/stars/Diolinux/PhotoGIMP?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/shanraisshan/claude-code-best-practice" title="practice made claude perfect" target="_blank">claude-code-best-practice</a>&nbsp;<a href="https://github.com/shanraisshan/claude-code-best-practice" title="practice made claude perfect" target="_blank"><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/srizzon/git-city" title="Your GitHub profile as a 3D pixel art building in an interactive city" target="_blank">git-city</a>&nbsp;<a href="https://github.com/srizzon/git-city" title="Your GitHub profile as a 3D pixel art building in an interactive city" target="_blank"><img src="https://img.shields.io/github/stars/srizzon/git-city?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/SimonHalvdansson/Harmonic-HN" title="Modern Android client for Hacker News" target="_blank">Harmonic-HN</a>&nbsp;<a href="https://github.com/SimonHalvdansson/Harmonic-HN" title="Modern Android client for Hacker News" target="_blank"><img src="https://img.shields.io/github/stars/SimonHalvdansson/Harmonic-HN?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank">zclaw</a>&nbsp;<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank"><img src="https://img.shields.io/github/stars/tnm/zclaw?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank">mastro</a>&nbsp;<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank"><img src="https://img.shields.io/github/stars/mastrojs/mastro?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank">awesome-programming-games</a>&nbsp;<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank"><img src="https://img.shields.io/github/stars/readyready15728/awesome-programming-games?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank">mdBook</a>&nbsp;<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank"><img src="https://img.shields.io/github/stars/rust-lang/mdBook?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank">meet</a>&nbsp;<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/meet?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank">Bot-JDT</a>&nbsp;<a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Evinne8/Bot-JDT?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,50 +97,11 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/Diolinux/PhotoGIMP" title="A Patch for GIMP 3+ for Photoshop Users" target="_blank">PhotoGIMP</a>&nbsp;<a href="https://github.com/Diolinux/PhotoGIMP" title="A Patch for GIMP 3+ for Photoshop Users" target="_blank"><img src="https://img.shields.io/github/stars/Diolinux/PhotoGIMP?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/shanraisshan/claude-code-best-practice" title="practice made claude perfect" target="_blank">claude-code-best-practice</a>&nbsp;<a href="https://github.com/shanraisshan/claude-code-best-practice" title="practice made claude perfect" target="_blank"><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/srizzon/git-city" title="Your GitHub profile as a 3D pixel art building in an interactive city" target="_blank">git-city</a>&nbsp;<a href="https://github.com/srizzon/git-city" title="Your GitHub profile as a 3D pixel art building in an interactive city" target="_blank"><img src="https://img.shields.io/github/stars/srizzon/git-city?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/SimonHalvdansson/Harmonic-HN" title="Modern Android client for Hacker News" target="_blank">Harmonic-HN</a>&nbsp;<a href="https://github.com/SimonHalvdansson/Harmonic-HN" title="Modern Android client for Hacker News" target="_blank"><img src="https://img.shields.io/github/stars/SimonHalvdansson/Harmonic-HN?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank">zclaw</a>&nbsp;<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank"><img src="https://img.shields.io/github/stars/tnm/zclaw?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank">mastro</a>&nbsp;<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank"><img src="https://img.shields.io/github/stars/mastrojs/mastro?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank">awesome-programming-games</a>&nbsp;<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank"><img src="https://img.shields.io/github/stars/readyready15728/awesome-programming-games?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank">mdBook</a>&nbsp;<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank"><img src="https://img.shields.io/github/stars/rust-lang/mdBook?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank">meet</a>&nbsp;<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/meet?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank">openclaw</a>&nbsp;<a href="https://github.com/openclaw/openclaw" title="Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 " target="_blank"><img src="https://img.shields.io/github/stars/openclaw/openclaw?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/status/commits/94019b5a4ae0785cbc54bd2a23a1312cde00b3f7" title="2026-03-23T12:32:56.000+01:00" target="_blank">94019b5a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/status" title="null">/status</a></strong></div>
-          <pre>Initial commit</pre>
-        </td>
-        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/5f09443a6b49fee215aa626ad091ec40020afbae" title="2026-03-18T18:12:25.000+01:00" target="_blank">5f09443a</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
           <pre>[feature] Add personalized background</pre>
@@ -151,11 +146,16 @@
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/6968587d48dad6dfb210090a26d549b5763c2777" title="2026-03-18T15:59:27.000+01:00" target="_blank">6968587d</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
           <pre>[fix] No more sudo</pre>
         </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/f56d14834eb168d4174e3593fd60fbde5e62ec53" title="2026-03-18T15:57:51.000+01:00" target="_blank">f56d1483</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>[fix] Script URL</pre>
+        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 24 Mar 2026 14:41:57 GMT</small>
+<small>⏰ Updated on Wed, 25 Mar 2026 14:43:09 GMT</small>
 </td>
 </tr>
 </tfoot>
