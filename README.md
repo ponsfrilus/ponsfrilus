@@ -59,7 +59,7 @@
 <a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank">mdBook</a>&nbsp;<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank"><img src="https://img.shields.io/github/stars/rust-lang/mdBook?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank">meet</a>&nbsp;<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/meet?style=social" alt="GitHub"></a>
+<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit. Built with Django and React." target="_blank">meet</a>&nbsp;<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit. Built with Django and React." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/meet?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -103,6 +103,34 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/13c153086558461bf258fac9826030ecbaf8ab8a" title="2026-04-02T12:11:11.000+02:00" target="_blank">13c15308</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[bump] Images version to 2026-142</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/6e7a0fc5593cc5724248485be8dfc094bc49b470" title="2026-04-02T11:31:03.000+02:00" target="_blank">6e7a0fc5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
+          <pre>[hotfix] SRI jQuery's SHA</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/ccb3f41761a22e851f4046ddfdfb82589e1641fe" title="2026-04-01T17:54:57.000+02:00" target="_blank">ccb3f417</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
+          <pre>[bump] to version 1.62.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/7c6b99c83e5b3c48d76acf3063d9ad9465a309e2" title="2026-04-01T15:55:15.000+02:00" target="_blank">7c6b99c8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
+          <pre>[feature] Umami
+
+Umami is a simple, fast, privacy-friendly alternative to Google 
+Analytics.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/5bb7ebaf18187cca512817b62c898288ca3d690c" title="2026-04-01T15:05:25.000+02:00" target="_blank">5bb7ebaf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
+          <pre>[bump] jQuery from 3.5.1 to 3.7.1</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/5f09443a6b49fee215aa626ad091ec40020afbae" title="2026-03-18T18:12:25.000+01:00" target="_blank">5f09443a</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
           <pre>[feature] Add personalized background</pre>
         </td>
@@ -126,36 +154,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/899371a924be5a1872046a3eb11a30b42c8f0121" title="2026-03-18T16:39:06.000+01:00" target="_blank">899371a9</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
           <pre>[feature] Add SSH server + users</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/d38997ab4558bf8c9524146bce0fdcb917ba7564" title="2026-03-18T16:07:50.000+01:00" target="_blank">d38997ab</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[fix] Do not reboot by default</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/2edb96f65a411b421e0fb7d2a733a748c3f394df" title="2026-03-18T16:07:38.000+01:00" target="_blank">2edb96f6</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[feature] Remove bloatware</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/fe224974c5efb97050c5bbb8ee468691ba56ed7b" title="2026-03-18T16:01:26.000+01:00" target="_blank">fe224974</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[fix] Save time if Docker is already here</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/6968587d48dad6dfb210090a26d549b5763c2777" title="2026-03-18T15:59:27.000+01:00" target="_blank">6968587d</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[fix] No more sudo</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/f56d14834eb168d4174e3593fd60fbde5e62ec53" title="2026-03-18T15:57:51.000+01:00" target="_blank">f56d1483</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[fix] Script URL</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 01 Apr 2026 14:50:55 GMT</small>
+<small>⏰ Updated on Thu, 02 Apr 2026 14:40:22 GMT</small>
 </td>
 </tr>
 </tfoot>
