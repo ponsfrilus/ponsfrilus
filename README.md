@@ -103,6 +103,14 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/b52f5cbc1475bbe0d27681b60eef98912cd439a6" title="2026-04-09T10:45:08.000+02:00" target="_blank">b52f5cbc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[todo] Need another SSH Exporter
+
+The one we used to deploy (https://github.com/Nordstrom/ssh_exporter) is 
+not avalaible anymore.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/13c153086558461bf258fac9826030ecbaf8ab8a" title="2026-04-02T12:11:11.000+02:00" target="_blank">13c15308</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[bump] Images version to 2026-142</pre>
         </td>
@@ -149,16 +157,11 @@ Analytics.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/2cfba63867e9945c56ea7b53e59016b876b7c579" title="2026-03-18T16:39:20.000+01:00" target="_blank">2cfba638</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
           <pre>[fix] Ensure Bash shell</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/899371a924be5a1872046a3eb11a30b42c8f0121" title="2026-03-18T16:39:06.000+01:00" target="_blank">899371a9</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[feature] Add SSH server + users</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 08 Apr 2026 14:54:21 GMT</small>
+<small>⏰ Updated on Thu, 09 Apr 2026 15:07:38 GMT</small>
 </td>
 </tr>
 </tfoot>
