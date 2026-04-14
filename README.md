@@ -38,7 +38,7 @@
 <a href="https://github.com/Diolinux/PhotoGIMP" title="A Patch for GIMP 3+ for Photoshop Users" target="_blank">PhotoGIMP</a>&nbsp;<a href="https://github.com/Diolinux/PhotoGIMP" title="A Patch for GIMP 3+ for Photoshop Users" target="_blank"><img src="https://img.shields.io/github/stars/Diolinux/PhotoGIMP?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/shanraisshan/claude-code-best-practice" title="practice made claude perfect" target="_blank">claude-code-best-practice</a>&nbsp;<a href="https://github.com/shanraisshan/claude-code-best-practice" title="practice made claude perfect" target="_blank"><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=social" alt="GitHub"></a>
+<a href="https://github.com/shanraisshan/claude-code-best-practice" title="from vibe coding to agentic engineering - practice makes claude perfect" target="_blank">claude-code-best-practice</a>&nbsp;<a href="https://github.com/shanraisshan/claude-code-best-practice" title="from vibe coding to agentic engineering - practice makes claude perfect" target="_blank"><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/srizzon/git-city" title="Your GitHub profile as a 3D pixel art building in an interactive city" target="_blank">git-city</a>&nbsp;<a href="https://github.com/srizzon/git-city" title="Your GitHub profile as a 3D pixel art building in an interactive city" target="_blank"><img src="https://img.shields.io/github/stars/srizzon/git-city?style=social" alt="GitHub"></a>
@@ -161,7 +161,7 @@ Analytics.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 13 Apr 2026 15:02:36 GMT</small>
+<small>⏰ Updated on Tue, 14 Apr 2026 15:01:20 GMT</small>
 </td>
 </tr>
 </tfoot>
