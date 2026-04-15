@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Raphire/Win11Debloat" title="A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11." target="_blank">Win11Debloat</a>&nbsp;<a href="https://github.com/Raphire/Win11Debloat" title="A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11." target="_blank"><img src="https://img.shields.io/github/stars/Raphire/Win11Debloat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank">Bot-JDT</a>&nbsp;<a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Evinne8/Bot-JDT?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank">spank</a>&nbsp;<a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank"><img src="https://img.shields.io/github/stars/taigrr/spank?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank">k8s-unix-system</a>&nbsp;<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank"><img src="https://img.shields.io/github/stars/jlandersen/k8s-unix-system?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/polylex-chatbot" title="null" target="_blank">polylex-chatbot</a>&nbsp;<a href="https://github.com/epfl-si/polylex-chatbot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/polylex-chatbot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank">niri</a>&nbsp;<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank"><img src="https://img.shields.io/github/stars/niri-wm/niri?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/sopec" title="null" target="_blank">sopec</a>&nbsp;<a href="https://github.com/epfl-si/sopec" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sopec?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank">bearnie</a>&nbsp;<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank"><img src="https://img.shields.io/github/stars/michael-andreuzza/bearnie?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank">fullcalendar</a>&nbsp;<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank"><img src="https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank">jujutsu-tutorial</a>&nbsp;<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank"><img src="https://img.shields.io/github/stars/steveklabnik/jujutsu-tutorial?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/imfing/hextra-starter-template" title="🐣 Minimal template for using Hextra for Hugo" target="_blank">hextra-starter-template</a>&nbsp;<a href="https://github.com/imfing/hextra-starter-template" title="🐣 Minimal template for using Hextra for Hugo" target="_blank"><img src="https://img.shields.io/github/stars/imfing/hextra-starter-template?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit. Built with Django and React." target="_blank">meet</a>&nbsp;<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit. Built with Django and React." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/meet?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank">Bot-JDT</a>&nbsp;<a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Evinne8/Bot-JDT?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank">spank</a>&nbsp;<a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank"><img src="https://img.shields.io/github/stars/taigrr/spank?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank">k8s-unix-system</a>&nbsp;<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank"><img src="https://img.shields.io/github/stars/jlandersen/k8s-unix-system?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/polylex-chatbot" title="null" target="_blank">polylex-chatbot</a>&nbsp;<a href="https://github.com/epfl-si/polylex-chatbot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/polylex-chatbot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank">niri</a>&nbsp;<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank"><img src="https://img.shields.io/github/stars/niri-wm/niri?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/sopec" title="null" target="_blank">sopec</a>&nbsp;<a href="https://github.com/epfl-si/sopec" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sopec?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank">bearnie</a>&nbsp;<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank"><img src="https://img.shields.io/github/stars/michael-andreuzza/bearnie?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank">fullcalendar</a>&nbsp;<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank"><img src="https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank">jujutsu-tutorial</a>&nbsp;<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank"><img src="https://img.shields.io/github/stars/steveklabnik/jujutsu-tutorial?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank">aurora</a>&nbsp;<a href="https://github.com/element-hq/aurora" title="matrix-rust-sdk + WASM = EXW/D?" target="_blank"><img src="https://img.shields.io/github/stars/element-hq/aurora?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -161,7 +161,7 @@ Analytics.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 14 Apr 2026 15:01:20 GMT</small>
+<small>⏰ Updated on Wed, 15 Apr 2026 14:54:09 GMT</small>
 </td>
 </tr>
 </tfoot>
