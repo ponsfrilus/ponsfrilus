@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/cloud-gouv/securix" title="Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank">securix</a>&nbsp;<a href="https://github.com/cloud-gouv/securix" title="Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank"><img src="https://img.shields.io/github/stars/cloud-gouv/securix?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/Raphire/Win11Debloat" title="A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11." target="_blank">Win11Debloat</a>&nbsp;<a href="https://github.com/Raphire/Win11Debloat" title="A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11." target="_blank"><img src="https://img.shields.io/github/stars/Raphire/Win11Debloat?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank">fullcalendar</a>&nbsp;<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank"><img src="https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank">jujutsu-tutorial</a>&nbsp;<a href="https://github.com/steveklabnik/jujutsu-tutorial" title="trying to figure out this jujutsu thing" target="_blank"><img src="https://img.shields.io/github/stars/steveklabnik/jujutsu-tutorial?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/cloud-gouv/bureautix-example" title="null" target="_blank">bureautix-example</a>&nbsp;<a href="https://github.com/cloud-gouv/bureautix-example" title="null" target="_blank"><img src="https://img.shields.io/github/stars/cloud-gouv/bureautix-example?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/imfing/hextra-starter-template" title="🐣 Minimal template for using Hextra for Hugo" target="_blank">hextra-starter-template</a>&nbsp;<a href="https://github.com/imfing/hextra-starter-template" title="🐣 Minimal template for using Hextra for Hugo" target="_blank"><img src="https://img.shields.io/github/stars/imfing/hextra-starter-template?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank">mdBook</a>&nbsp;<a href="https://github.com/rust-lang/mdBook" title="Create book from markdown files. Like Gitbook but implemented in Rust" target="_blank"><img src="https://img.shields.io/github/stars/rust-lang/mdBook?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit. Built with Django and React." target="_blank">meet</a>&nbsp;<a href="https://github.com/suitenumerique/meet" title="Open source video conferencing app powered by LiveKit. Built with Django and React." target="_blank"><img src="https://img.shields.io/github/stars/suitenumerique/meet?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,38 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/2ac6ec6f8c12b52cea5d1dc4f52fc342bdf08f97" title="2026-04-16T12:32:16.000+02:00" target="_blank">2ac6ec6f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[hotfix] Change the Ubuntu archive and security mirrors to ETHZ</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6c17bb7933fa8cca07bdcbce850f09c80b5ac043" title="2026-04-16T11:04:51.000+02:00" target="_blank">6c17bb79</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[monitoring] Dashboards' Tags unifomisation</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/a36a5e8943fb8405dcaffe75cfef1814d4b2da42" title="2026-04-16T10:59:50.000+02:00" target="_blank">a36a5e89</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[monitoring] PHP Errors dashboard</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-clinic/commits/736d8cd6a23a1ddc9c855b1eff6bc7176ec30ccb" title="2026-04-16T09:29:58.000+02:00" target="_blank">736d8cd6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-clinic" title="🚑 WP-Clinic – A pod for debugging purposes.">/wp-clinic</a></strong></div>
+          <pre>[doc] README</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-clinic/commits/942855542c0dc3a49af93edf6560667a2ea53051" title="2026-04-15T19:44:45.000+02:00" target="_blank">94285554</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-clinic" title="🚑 WP-Clinic – A pod for debugging purposes.">/wp-clinic</a></strong></div>
+          <pre>[init] WP-Clinic</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/41d8bb81db6f8877840a88dc196243e128dfb94e" title="2026-04-15T19:12:59.000+02:00" target="_blank">41d8bb81</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[feature] `make wp-clinic`
+
+See https://github.com/epfl-si/wp-clinic</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/b52f5cbc1475bbe0d27681b60eef98912cd439a6" title="2026-04-09T10:45:08.000+02:00" target="_blank">b52f5cbc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[todo] Need another SSH Exporter
@@ -124,44 +156,11 @@ not avalaible anymore.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/ccb3f41761a22e851f4046ddfdfb82589e1641fe" title="2026-04-01T17:54:57.000+02:00" target="_blank">ccb3f417</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
           <pre>[bump] to version 1.62.0</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/7c6b99c83e5b3c48d76acf3063d9ad9465a309e2" title="2026-04-01T15:55:15.000+02:00" target="_blank">7c6b99c8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
-          <pre>[feature] Umami
-
-Umami is a simple, fast, privacy-friendly alternative to Google 
-Analytics.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/5bb7ebaf18187cca512817b62c898288ca3d690c" title="2026-04-01T15:05:25.000+02:00" target="_blank">5bb7ebaf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
-          <pre>[bump] jQuery from 3.5.1 to 3.7.1</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/5f09443a6b49fee215aa626ad091ec40020afbae" title="2026-03-18T18:12:25.000+01:00" target="_blank">5f09443a</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[feature] Add personalized background</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/203ab0b5bc8798b9760d54e7803a693cb01b3feb" title="2026-03-18T18:12:09.000+01:00" target="_blank">203ab0b5</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[fix] More quiet update and added comment</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/9c5608601b5ce1700eab2af459835c9819dc2e1c" title="2026-03-18T17:36:33.000+01:00" target="_blank">9c560860</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[fix] Reboot again</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/2cfba63867e9945c56ea7b53e59016b876b7c579" title="2026-03-18T16:39:20.000+01:00" target="_blank">2cfba638</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
-          <pre>[fix] Ensure Bash shell</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 15 Apr 2026 14:54:09 GMT</small>
+<small>⏰ Updated on Thu, 16 Apr 2026 15:12:12 GMT</small>
 </td>
 </tr>
 </tfoot>
