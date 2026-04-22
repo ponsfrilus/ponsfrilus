@@ -32,6 +32,12 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/AutoCodeRoverSG/auto-code-rover" title="A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7." target="_blank">auto-code-rover</a>&nbsp;<a href="https://github.com/AutoCodeRoverSG/auto-code-rover" title="A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7." target="_blank"><img src="https://img.shields.io/github/stars/AutoCodeRoverSG/auto-code-rover?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/OpenHands/OpenHands" title="🙌 OpenHands: AI-Driven Development" target="_blank">OpenHands</a>&nbsp;<a href="https://github.com/OpenHands/OpenHands" title="🙌 OpenHands: AI-Driven Development" target="_blank"><img src="https://img.shields.io/github/stars/OpenHands/OpenHands?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/davidhuser/mxmap" title="Email providers of Swiss municipalities displayed on a map" target="_blank">mxmap</a>&nbsp;<a href="https://github.com/davidhuser/mxmap" title="Email providers of Swiss municipalities displayed on a map" target="_blank"><img src="https://img.shields.io/github/stars/davidhuser/mxmap?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -55,16 +61,16 @@
 <li>
 <a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank">zclaw</a>&nbsp;<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank"><img src="https://img.shields.io/github/stars/tnm/zclaw?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank">mastro</a>&nbsp;<a href="https://github.com/mastrojs/mastro" title="The simplest web framework and site generator yet – no bloat, no bundler, no client-side JS by default." target="_blank"><img src="https://img.shields.io/github/stars/mastrojs/mastro?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank">awesome-programming-games</a>&nbsp;<a href="https://github.com/readyready15728/awesome-programming-games" title="An ultra mega giga curated list of programming games" target="_blank"><img src="https://img.shields.io/github/stars/readyready15728/awesome-programming-games?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/aaif-goose/goose" title="an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM" target="_blank">goose</a>&nbsp;<a href="https://github.com/aaif-goose/goose" title="an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM" target="_blank"><img src="https://img.shields.io/github/stars/aaif-goose/goose?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/phodal/auto-dev" title="🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC." target="_blank">auto-dev</a>&nbsp;<a href="https://github.com/phodal/auto-dev" title="🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC." target="_blank"><img src="https://img.shields.io/github/stars/phodal/auto-dev?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/cloud-gouv/securix" title="Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank">securix</a>&nbsp;<a href="https://github.com/cloud-gouv/securix" title="Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank"><img src="https://img.shields.io/github/stars/cloud-gouv/securix?style=social" alt="GitHub"></a>
 </li>
@@ -88,12 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/epfl-si/sopec" title="null" target="_blank">sopec</a>&nbsp;<a href="https://github.com/epfl-si/sopec" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sopec?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank">bearnie</a>&nbsp;<a href="https://github.com/michael-andreuzza/bearnie" title="Accessible components for Astro and Tailwind CSS. Components are copied to your project. You own and control the code." target="_blank"><img src="https://img.shields.io/github/stars/michael-andreuzza/bearnie?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank">fullcalendar</a>&nbsp;<a href="https://github.com/fullcalendar/fullcalendar" title="Full-sized drag & drop event calendar in JavaScript" target="_blank"><img src="https://img.shields.io/github/stars/fullcalendar/fullcalendar?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -160,7 +160,7 @@ not avalaible anymore.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 21 Apr 2026 14:59:39 GMT</small>
+<small>⏰ Updated on Wed, 22 Apr 2026 14:59:25 GMT</small>
 </td>
 </tr>
 </tfoot>
