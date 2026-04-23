@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/continuedev/continue" title="⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI" target="_blank">continue</a>&nbsp;<a href="https://github.com/continuedev/continue" title="⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI" target="_blank"><img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/aaif-goose/goose" title="an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM" target="_blank">goose</a>&nbsp;<a href="https://github.com/aaif-goose/goose" title="an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM" target="_blank"><img src="https://img.shields.io/github/stars/aaif-goose/goose?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/phodal/auto-dev" title="🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC." target="_blank">auto-dev</a>&nbsp;<a href="https://github.com/phodal/auto-dev" title="🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC." target="_blank"><img src="https://img.shields.io/github/stars/phodal/auto-dev?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cloud-gouv/securix" title="Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank">securix</a>&nbsp;<a href="https://github.com/cloud-gouv/securix" title="Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank"><img src="https://img.shields.io/github/stars/cloud-gouv/securix?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Raphire/Win11Debloat" title="A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11." target="_blank">Win11Debloat</a>&nbsp;<a href="https://github.com/Raphire/Win11Debloat" title="A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11." target="_blank"><img src="https://img.shields.io/github/stars/Raphire/Win11Debloat?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank">Bot-JDT</a>&nbsp;<a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Evinne8/Bot-JDT?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank">spank</a>&nbsp;<a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank"><img src="https://img.shields.io/github/stars/taigrr/spank?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank">k8s-unix-system</a>&nbsp;<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank"><img src="https://img.shields.io/github/stars/jlandersen/k8s-unix-system?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/polylex-chatbot" title="null" target="_blank">polylex-chatbot</a>&nbsp;<a href="https://github.com/epfl-si/polylex-chatbot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/polylex-chatbot?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank">niri</a>&nbsp;<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank"><img src="https://img.shields.io/github/stars/niri-wm/niri?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/AutoCodeRoverSG/auto-code-rover" title="A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7." target="_blank">auto-code-rover</a>&nbsp;<a href="https://github.com/AutoCodeRoverSG/auto-code-rover" title="A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7." target="_blank"><img src="https://img.shields.io/github/stars/AutoCodeRoverSG/auto-code-rover?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank">zclaw</a>&nbsp;<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank"><img src="https://img.shields.io/github/stars/tnm/zclaw?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/aaif-goose/goose" title="an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM" target="_blank">goose</a>&nbsp;<a href="https://github.com/aaif-goose/goose" title="an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM" target="_blank"><img src="https://img.shields.io/github/stars/aaif-goose/goose?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/phodal/auto-dev" title="🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC." target="_blank">auto-dev</a>&nbsp;<a href="https://github.com/phodal/auto-dev" title="🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC." target="_blank"><img src="https://img.shields.io/github/stars/phodal/auto-dev?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cloud-gouv/securix" title="Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank">securix</a>&nbsp;<a href="https://github.com/cloud-gouv/securix" title="Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank"><img src="https://img.shields.io/github/stars/cloud-gouv/securix?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Raphire/Win11Debloat" title="A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11." target="_blank">Win11Debloat</a>&nbsp;<a href="https://github.com/Raphire/Win11Debloat" title="A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11." target="_blank"><img src="https://img.shields.io/github/stars/Raphire/Win11Debloat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank">Bot-JDT</a>&nbsp;<a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Evinne8/Bot-JDT?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank">spank</a>&nbsp;<a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank"><img src="https://img.shields.io/github/stars/taigrr/spank?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank">k8s-unix-system</a>&nbsp;<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank"><img src="https://img.shields.io/github/stars/jlandersen/k8s-unix-system?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/polylex-chatbot" title="null" target="_blank">polylex-chatbot</a>&nbsp;<a href="https://github.com/epfl-si/polylex-chatbot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/polylex-chatbot?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank">niri</a>&nbsp;<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank"><img src="https://img.shields.io/github/stars/niri-wm/niri?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/sopec" title="null" target="_blank">sopec</a>&nbsp;<a href="https://github.com/epfl-si/sopec" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/sopec?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -160,7 +160,7 @@ not avalaible anymore.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 22 Apr 2026 14:59:25 GMT</small>
+<small>⏰ Updated on Thu, 23 Apr 2026 15:26:45 GMT</small>
 </td>
 </tr>
 </tfoot>
