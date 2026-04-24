@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/basecamp/fizzy" title="Kanban as it should be. Not as it has been." target="_blank">fizzy</a>&nbsp;<a href="https://github.com/basecamp/fizzy" title="Kanban as it should be. Not as it has been." target="_blank"><img src="https://img.shields.io/github/stars/basecamp/fizzy?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/continuedev/continue" title="⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI" target="_blank">continue</a>&nbsp;<a href="https://github.com/continuedev/continue" title="⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI" target="_blank"><img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/epfl-si/polylex-chatbot" title="null" target="_blank">polylex-chatbot</a>&nbsp;<a href="https://github.com/epfl-si/polylex-chatbot" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/polylex-chatbot?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank">niri</a>&nbsp;<a href="https://github.com/niri-wm/niri" title="A scrollable-tiling Wayland compositor." target="_blank"><img src="https://img.shields.io/github/stars/niri-wm/niri?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/refactoringhq/tolaria" title="Desktop app to manage markdown knowledge bases" target="_blank">tolaria</a>&nbsp;<a href="https://github.com/refactoringhq/tolaria" title="Desktop app to manage markdown knowledge bases" target="_blank"><img src="https://img.shields.io/github/stars/refactoringhq/tolaria?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/AutoCodeRoverSG/auto-code-rover" title="A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7." target="_blank">auto-code-rover</a>&nbsp;<a href="https://github.com/AutoCodeRoverSG/auto-code-rover" title="A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7." target="_blank"><img src="https://img.shields.io/github/stars/AutoCodeRoverSG/auto-code-rover?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/SimonHalvdansson/Harmonic-HN" title="Modern Android client for Hacker News" target="_blank">Harmonic-HN</a>&nbsp;<a href="https://github.com/SimonHalvdansson/Harmonic-HN" title="Modern Android client for Hacker News" target="_blank"><img src="https://img.shields.io/github/stars/SimonHalvdansson/Harmonic-HN?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank">zclaw</a>&nbsp;<a href="https://github.com/tnm/zclaw" title="Your personal AI assistant at all-in 888KiB (~35KB in app code). Running on an ESP32. GPIO, cron, custom tools, memory, and more." target="_blank"><img src="https://img.shields.io/github/stars/tnm/zclaw?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -160,7 +160,7 @@ not avalaible anymore.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 23 Apr 2026 15:26:45 GMT</small>
+<small>⏰ Updated on Fri, 24 Apr 2026 14:55:58 GMT</small>
 </td>
 </tr>
 </tfoot>
