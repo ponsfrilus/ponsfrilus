@@ -128,10 +128,31 @@
         </td>
         </tr><tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/53619c9d7565411141d0e27887bfa424414eb038" title="2026-04-15T19:41:11.000+02:00" target="_blank">53619c9d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] Instrument the build and the redeployment of WP-Clinic</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/41d8bb81db6f8877840a88dc196243e128dfb94e" title="2026-04-15T19:12:59.000+02:00" target="_blank">41d8bb81</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[feature] `make wp-clinic`
 
 See https://github.com/epfl-si/wp-clinic</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/31295423245e5f042edee92416b1dde7f3839cbc" title="2026-04-15T17:57:23.000+02:00" target="_blank">31295423</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[feature] WP-Clinic is now a Git repo...
+
+... see https://github.com/epfl-si/wp-clinic</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/0ef2d14728248964738edefee6de96abe326f1e3" title="2026-04-15T15:57:49.000+02:00" target="_blank">0ef2d147</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[refactor] Move things around
+
+- Now the WP-Clinic builder is in a separated file
+- All Ansible tags are sorted alphabetically
+- More convenience tools are installed in the WP-Clinic image</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -141,26 +162,11 @@ See https://github.com/epfl-si/wp-clinic</pre>
 The one we used to deploy (https://github.com/Nordstrom/ssh_exporter) is 
 not avalaible anymore.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/13c153086558461bf258fac9826030ecbaf8ab8a" title="2026-04-02T12:11:11.000+02:00" target="_blank">13c15308</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[bump] Images version to 2026-142</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/6e7a0fc5593cc5724248485be8dfc094bc49b470" title="2026-04-02T11:31:03.000+02:00" target="_blank">6e7a0fc5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
-          <pre>[hotfix] SRI jQuery's SHA</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-theme-2018/commits/ccb3f41761a22e851f4046ddfdfb82589e1641fe" title="2026-04-01T17:54:57.000+02:00" target="_blank">ccb3f417</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-theme-2018" title="A wordpress Underscore-powered theme for wordpress">/wp-theme-2018</a></strong></div>
-          <pre>[bump] to version 1.62.0</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 28 Apr 2026 15:58:27 GMT</small>
+<small>⏰ Updated on Wed, 29 Apr 2026 15:32:56 GMT</small>
 </td>
 </tr>
 </tfoot>
