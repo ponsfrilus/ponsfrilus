@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/md-app-portal-frontend/commits/d8753040fc4484339f5679cae276b01e861886eb" title="2026-04-30T10:55:43.000+02:00" target="_blank">d8753040</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/md-app-portal-frontend" title="null">/md-app-portal-frontend</a></strong></div>
+          <pre>Fix typo in REDIRECTURI_VALIDATION message</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/2ac6ec6f8c12b52cea5d1dc4f52fc342bdf08f97" title="2026-04-16T12:32:16.000+02:00" target="_blank">2ac6ec6f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[hotfix] Change the Ubuntu archive and security mirrors to ETHZ</pre>
         </td>
@@ -154,19 +159,11 @@ See https://github.com/epfl-si/wp-clinic</pre>
 - All Ansible tags are sorted alphabetically
 - More convenience tools are installed in the WP-Clinic image</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/b52f5cbc1475bbe0d27681b60eef98912cd439a6" title="2026-04-09T10:45:08.000+02:00" target="_blank">b52f5cbc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[todo] Need another SSH Exporter
-
-The one we used to deploy (https://github.com/Nordstrom/ssh_exporter) is 
-not avalaible anymore.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 29 Apr 2026 15:32:56 GMT</small>
+<small>⏰ Updated on Thu, 30 Apr 2026 15:28:07 GMT</small>
 </td>
 </tr>
 </tfoot>
