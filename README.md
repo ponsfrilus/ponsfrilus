@@ -163,7 +163,7 @@ See https://github.com/epfl-si/wp-clinic</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 11 May 2026 16:17:20 GMT</small>
+<small>⏰ Updated on Tue, 12 May 2026 16:04:18 GMT</small>
 </td>
 </tr>
 </tfoot>
