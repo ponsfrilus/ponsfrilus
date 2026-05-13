@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank">herding-cats</a>&nbsp;<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank"><img src="https://img.shields.io/github/stars/Apress/herding-cats?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank">Agora</a>&nbsp;<a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank"><img src="https://img.shields.io/github/stars/ThomNardou/Agora?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank">spank</a>&nbsp;<a href="https://github.com/taigrr/spank" title="Slap your MacBook, it yells back. Uses Apple Silicon accelerometer via IOKit HID." target="_blank"><img src="https://img.shields.io/github/stars/taigrr/spank?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank">k8s-unix-system</a>&nbsp;<a href="https://github.com/jlandersen/k8s-unix-system" title="Jurassic Park Unix System style Kubernetes resource viewer" target="_blank"><img src="https://img.shields.io/github/stars/jlandersen/k8s-unix-system?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank">gstack</a>&nbsp;<a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank"><img src="https://img.shields.io/github/stars/garrytan/gstack?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/mikefarah/yq" title="yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor" target="_blank">yq</a>&nbsp;<a href="https://github.com/mikefarah/yq" title="yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor" target="_blank"><img src="https://img.shields.io/github/stars/mikefarah/yq?style=social" alt="GitHub"></a>
 </li>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/shanraisshan/claude-code-best-practice" title="from vibe coding to agentic engineering - practice makes claude perfect" target="_blank">claude-code-best-practice</a>&nbsp;<a href="https://github.com/shanraisshan/claude-code-best-practice" title="from vibe coding to agentic engineering - practice makes claude perfect" target="_blank"><img src="https://img.shields.io/github/stars/shanraisshan/claude-code-best-practice?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/srizzon/git-city" title="Your GitHub profile as a 3D pixel art building in an interactive city" target="_blank">git-city</a>&nbsp;<a href="https://github.com/srizzon/git-city" title="Your GitHub profile as a 3D pixel art building in an interactive city" target="_blank"><img src="https://img.shields.io/github/stars/srizzon/git-city?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -163,7 +163,7 @@ See https://github.com/epfl-si/wp-clinic</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 12 May 2026 16:04:18 GMT</small>
+<small>⏰ Updated on Wed, 13 May 2026 16:07:10 GMT</small>
 </td>
 </tr>
 </tfoot>
