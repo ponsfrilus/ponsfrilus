@@ -32,7 +32,7 @@
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/zakirullin/files.md" title="🌱 Your life in plain .md files" target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Your life in plain .md files" target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
+<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. A simple app for your .md files." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. A simple app for your .md files." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank">herding-cats</a>&nbsp;<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank"><img src="https://img.shields.io/github/stars/Apress/herding-cats?style=social" alt="GitHub"></a>
@@ -163,7 +163,7 @@ See https://github.com/epfl-si/wp-clinic</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 19 May 2026 16:37:52 GMT</small>
+<small>⏰ Updated on Wed, 20 May 2026 16:36:01 GMT</small>
 </td>
 </tr>
 </tfoot>
