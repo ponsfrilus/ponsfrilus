@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank">BMAD-METHOD</a>&nbsp;<a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank"><img src="https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gi-dellav/zerostack" title="Minimalistic coding agent written in Rust, optimized for memory footprint and performance" target="_blank">zerostack</a>&nbsp;<a href="https://github.com/gi-dellav/zerostack" title="Minimalistic coding agent written in Rust, optimized for memory footprint and performance" target="_blank"><img src="https://img.shields.io/github/stars/gi-dellav/zerostack?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank">gstack</a>&nbsp;<a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank"><img src="https://img.shields.io/github/stars/garrytan/gstack?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mikefarah/yq" title="yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor" target="_blank">yq</a>&nbsp;<a href="https://github.com/mikefarah/yq" title="yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor" target="_blank"><img src="https://img.shields.io/github/stars/mikefarah/yq?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/refactoringhq/tolaria" title="Desktop app to manage markdown knowledge bases" target="_blank">tolaria</a>&nbsp;<a href="https://github.com/refactoringhq/tolaria" title="Desktop app to manage markdown knowledge bases" target="_blank"><img src="https://img.shields.io/github/stars/refactoringhq/tolaria?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/AutoCodeRoverSG/auto-code-rover" title="A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7." target="_blank">auto-code-rover</a>&nbsp;<a href="https://github.com/AutoCodeRoverSG/auto-code-rover" title="A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7." target="_blank"><img src="https://img.shields.io/github/stars/AutoCodeRoverSG/auto-code-rover?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/OpenHands/OpenHands" title="🙌 OpenHands: AI-Driven Development" target="_blank">OpenHands</a>&nbsp;<a href="https://github.com/OpenHands/OpenHands" title="🙌 OpenHands: AI-Driven Development" target="_blank"><img src="https://img.shields.io/github/stars/OpenHands/OpenHands?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/davidhuser/mxmap" title="Email providers of Swiss municipalities displayed on a map" target="_blank">mxmap</a>&nbsp;<a href="https://github.com/davidhuser/mxmap" title="Email providers of Swiss municipalities displayed on a map" target="_blank"><img src="https://img.shields.io/github/stars/davidhuser/mxmap?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/cloud-gouv/bureautix-example" title="null" target="_blank">bureautix-example</a>&nbsp;<a href="https://github.com/cloud-gouv/bureautix-example" title="null" target="_blank"><img src="https://img.shields.io/github/stars/cloud-gouv/bureautix-example?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/imfing/hextra-starter-template" title="🐣 Minimal template for using Hextra for Hugo" target="_blank">hextra-starter-template</a>&nbsp;<a href="https://github.com/imfing/hextra-starter-template" title="🐣 Minimal template for using Hextra for Hugo" target="_blank"><img src="https://img.shields.io/github/stars/imfing/hextra-starter-template?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. A simple app for your .md files." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. A simple app for your .md files." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank">Bot-JDT</a>&nbsp;<a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Evinne8/Bot-JDT?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/gi-dellav/zerostack" title="Minimalistic coding agent written in Rust, optimized for memory footprint and performance" target="_blank">zerostack</a>&nbsp;<a href="https://github.com/gi-dellav/zerostack" title="Minimalistic coding agent written in Rust, optimized for memory footprint and performance" target="_blank"><img src="https://img.shields.io/github/stars/gi-dellav/zerostack?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank">gstack</a>&nbsp;<a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank"><img src="https://img.shields.io/github/stars/garrytan/gstack?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mikefarah/yq" title="yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor" target="_blank">yq</a>&nbsp;<a href="https://github.com/mikefarah/yq" title="yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor" target="_blank"><img src="https://img.shields.io/github/stars/mikefarah/yq?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/refactoringhq/tolaria" title="Desktop app to manage markdown knowledge bases" target="_blank">tolaria</a>&nbsp;<a href="https://github.com/refactoringhq/tolaria" title="Desktop app to manage markdown knowledge bases" target="_blank"><img src="https://img.shields.io/github/stars/refactoringhq/tolaria?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/AutoCodeRoverSG/auto-code-rover" title="A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7." target="_blank">auto-code-rover</a>&nbsp;<a href="https://github.com/AutoCodeRoverSG/auto-code-rover" title="A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7." target="_blank"><img src="https://img.shields.io/github/stars/AutoCodeRoverSG/auto-code-rover?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/OpenHands/OpenHands" title="🙌 OpenHands: AI-Driven Development" target="_blank">OpenHands</a>&nbsp;<a href="https://github.com/OpenHands/OpenHands" title="🙌 OpenHands: AI-Driven Development" target="_blank"><img src="https://img.shields.io/github/stars/OpenHands/OpenHands?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/davidhuser/mxmap" title="Email providers of Swiss municipalities displayed on a map" target="_blank">mxmap</a>&nbsp;<a href="https://github.com/davidhuser/mxmap" title="Email providers of Swiss municipalities displayed on a map" target="_blank"><img src="https://img.shields.io/github/stars/davidhuser/mxmap?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cloud-gouv/bureautix-example" title="null" target="_blank">bureautix-example</a>&nbsp;<a href="https://github.com/cloud-gouv/bureautix-example" title="null" target="_blank"><img src="https://img.shields.io/github/stars/cloud-gouv/bureautix-example?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/imfing/hextra-starter-template" title="🐣 Minimal template for using Hextra for Hugo" target="_blank">hextra-starter-template</a>&nbsp;<a href="https://github.com/imfing/hextra-starter-template" title="🐣 Minimal template for using Hextra for Hugo" target="_blank"><img src="https://img.shields.io/github/stars/imfing/hextra-starter-template?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Diolinux/PhotoGIMP" title="A Patch for GIMP 3+ for Photoshop Users" target="_blank">PhotoGIMP</a>&nbsp;<a href="https://github.com/Diolinux/PhotoGIMP" title="A Patch for GIMP 3+ for Photoshop Users" target="_blank"><img src="https://img.shields.io/github/stars/Diolinux/PhotoGIMP?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -163,7 +163,7 @@ See https://github.com/epfl-si/wp-clinic</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 20 May 2026 16:36:01 GMT</small>
+<small>⏰ Updated on Thu, 21 May 2026 16:26:23 GMT</small>
 </td>
 </tr>
 </tfoot>
