@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/sopec/commits/6a7af81d1bdf7ed0d83a29d0abddd300065f4061" title="2026-05-27T10:53:12.000+02:00" target="_blank">6a7af81d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/sopec" title="null">/sopec</a></strong></div>
+          <pre>[feature] OpenwebUI</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/sopec/commits/3315abdce999695ae96aa815dac512b054be9a4b" title="2026-05-27T10:39:36.000+02:00" target="_blank">3315abdc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/sopec" title="null">/sopec</a></strong></div>
+          <pre>[doc] README.md</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/md-app-portal-frontend/commits/d8753040fc4484339f5679cae276b01e861886eb" title="2026-04-30T10:55:43.000+02:00" target="_blank">d8753040</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/md-app-portal-frontend" title="null">/md-app-portal-frontend</a></strong></div>
           <pre>Fix typo in REDIRECTURI_VALIDATION message</pre>
         </td>
@@ -143,27 +153,11 @@
 
 See https://github.com/epfl-si/wp-clinic</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/31295423245e5f042edee92416b1dde7f3839cbc" title="2026-04-15T17:57:23.000+02:00" target="_blank">31295423</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] WP-Clinic is now a Git repo...
-
-... see https://github.com/epfl-si/wp-clinic</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/0ef2d14728248964738edefee6de96abe326f1e3" title="2026-04-15T15:57:49.000+02:00" target="_blank">0ef2d147</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[refactor] Move things around
-
-- Now the WP-Clinic builder is in a separated file
-- All Ansible tags are sorted alphabetically
-- More convenience tools are installed in the WP-Clinic image</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 26 May 2026 16:58:10 GMT</small>
+<small>⏰ Updated on Wed, 27 May 2026 16:49:33 GMT</small>
 </td>
 </tr>
 </tfoot>
