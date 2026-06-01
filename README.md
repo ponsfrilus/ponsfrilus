@@ -8,7 +8,7 @@
   </h3>
   <p align="center">
     Hello world! I'm a full stack engineer working <a href="https://github.com/epfl-si">@epfl-si</a> in Lausanne, Switzerland.
-    <br />Apparently, I'm hanging around on GitHub since 16 years and 4 months.
+    <br />Apparently, I'm hanging around on GitHub since 16 years and 5 months.
     <br />You can reach me on mastodon <a href="https://mastodon.social/@ponsfrilus" rel="me">@mastodon.social@ponsfrilus</a> or <a href="http://linkedin.com/in/nicolasborboen">LinkedIn</a>.
     <br />I'm also a teacher, a bots breeder, a happy husband and father of 2.
   </p>
@@ -32,10 +32,13 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret sharing. End-to-end encrypted, self-hosted, open source." target="_blank">1time.io</a>&nbsp;<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret sharing. End-to-end encrypted, self-hosted, open source." target="_blank"><img src="https://img.shields.io/github/stars/shingrus/1time.io?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank">BMAD-METHOD</a>&nbsp;<a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank"><img src="https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/gi-dellav/zerostack" title="Minimalistic coding agent written in Rust, optimized for memory footprint and performance" target="_blank">zerostack</a>&nbsp;<a href="https://github.com/gi-dellav/zerostack" title="Minimalistic coding agent written in Rust, optimized for memory footprint and performance" target="_blank"><img src="https://img.shields.io/github/stars/gi-dellav/zerostack?style=social" alt="GitHub"></a>
+<a href="https://github.com/gi-dellav/zerostack" title="Minimal coding agent written in Rust, optimized for memory footprint and performance" target="_blank">zerostack</a>&nbsp;<a href="https://github.com/gi-dellav/zerostack" title="Minimal coding agent written in Rust, optimized for memory footprint and performance" target="_blank"><img src="https://img.shields.io/github/stars/gi-dellav/zerostack?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank">gstack</a>&nbsp;<a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank"><img src="https://img.shields.io/github/stars/garrytan/gstack?style=social" alt="GitHub"></a>
@@ -58,15 +61,15 @@
 <li>
 <a href="https://github.com/cloud-gouv/bureautix-example" title="null" target="_blank">bureautix-example</a>&nbsp;<a href="https://github.com/cloud-gouv/bureautix-example" title="null" target="_blank"><img src="https://img.shields.io/github/stars/cloud-gouv/bureautix-example?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/imfing/hextra-starter-template" title="🐣 Minimal template for using Hextra for Hugo" target="_blank">hextra-starter-template</a>&nbsp;<a href="https://github.com/imfing/hextra-starter-template" title="🐣 Minimal template for using Hextra for Hugo" target="_blank"><img src="https://img.shields.io/github/stars/imfing/hextra-starter-template?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
 <li>
-<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. A simple app for your .md files." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. A simple app for your .md files." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
+<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank">awesome-privacy</a>&nbsp;<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank"><img src="https://img.shields.io/github/stars/lissy93/awesome-privacy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank">herding-cats</a>&nbsp;<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank"><img src="https://img.shields.io/github/stars/Apress/herding-cats?style=social" alt="GitHub"></a>
@@ -91,9 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Raphire/Win11Debloat" title="A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11." target="_blank">Win11Debloat</a>&nbsp;<a href="https://github.com/Raphire/Win11Debloat" title="A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11." target="_blank"><img src="https://img.shields.io/github/stars/Raphire/Win11Debloat?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank">Bot-JDT</a>&nbsp;<a href="https://github.com/Evinne8/Bot-JDT" title="null" target="_blank"><img src="https://img.shields.io/github/stars/Evinne8/Bot-JDT?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -157,7 +157,7 @@ See https://github.com/epfl-si/wp-clinic</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 29 May 2026 16:59:01 GMT</small>
+<small>⏰ Updated on Mon, 01 Jun 2026 19:10:39 GMT</small>
 </td>
 </tr>
 </tfoot>
