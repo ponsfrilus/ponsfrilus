@@ -103,6 +103,15 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/4941e88443b50752e260a41280bcf5bc54bccae5" title="2026-06-02T12:25:11.000+02:00" target="_blank">4941e884</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
+          <pre>[feature] Allow DSI-IT-catalog iframes (#456)
+
+* [ocd] Sort URLs alphabetically
+
+* [feature] Allow dsi-it-catalog</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/sopec/commits/6a7af81d1bdf7ed0d83a29d0abddd300065f4061" title="2026-05-27T10:53:12.000+02:00" target="_blank">6a7af81d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/sopec" title="null">/sopec</a></strong></div>
           <pre>[feature] OpenwebUI</pre>
         </td>
@@ -146,18 +155,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/53619c9d7565411141d0e27887bfa424414eb038" title="2026-04-15T19:41:11.000+02:00" target="_blank">53619c9d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[feature] Instrument the build and the redeployment of WP-Clinic</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/41d8bb81db6f8877840a88dc196243e128dfb94e" title="2026-04-15T19:12:59.000+02:00" target="_blank">41d8bb81</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[feature] `make wp-clinic`
-
-See https://github.com/epfl-si/wp-clinic</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 01 Jun 2026 19:10:39 GMT</small>
+<small>⏰ Updated on Tue, 02 Jun 2026 17:52:56 GMT</small>
 </td>
 </tr>
 </tfoot>
