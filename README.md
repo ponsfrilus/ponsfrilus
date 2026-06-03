@@ -90,7 +90,7 @@
 <a href="https://github.com/phodal/auto-dev" title="🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC." target="_blank">auto-dev</a>&nbsp;<a href="https://github.com/phodal/auto-dev" title="🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC." target="_blank"><img src="https://img.shields.io/github/stars/phodal/auto-dev?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/cloud-gouv/securix" title="Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank">securix</a>&nbsp;<a href="https://github.com/cloud-gouv/securix" title="Sécurix is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank"><img src="https://img.shields.io/github/stars/cloud-gouv/securix?style=social" alt="GitHub"></a>
+<a href="https://github.com/cloud-gouv/securix" title="SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank">securix</a>&nbsp;<a href="https://github.com/cloud-gouv/securix" title="SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank"><img src="https://img.shields.io/github/stars/cloud-gouv/securix?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/Raphire/Win11Debloat" title="A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11." target="_blank">Win11Debloat</a>&nbsp;<a href="https://github.com/Raphire/Win11Debloat" title="A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11." target="_blank"><img src="https://img.shields.io/github/stars/Raphire/Win11Debloat?style=social" alt="GitHub"></a>
@@ -102,6 +102,22 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/e3dd4ad8df4a2edb78e79d9c1cf66f13516f520f" title="2026-06-03T15:54:18.000+02:00" target="_blank">e3dd4ad8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
+          <pre>[fix] Memory limits for Apache-redirector</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/c0bc4f747e1e730830667514aed076ea4cec73f1" title="2026-06-02T17:41:45.000+02:00" target="_blank">c0bc4f74</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
+          <pre>[feature] Add `container_class` attribute
+
+* This allow to chose the CSS class applied to the iframe's outer 
+container. Defaults to "container". Allowed value: "container-grid", 
+"container-full".
+* Update the doc accordingly
+* Bump version to 2.55</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/4941e88443b50752e260a41280bcf5bc54bccae5" title="2026-06-02T12:25:11.000+02:00" target="_blank">4941e884</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
           <pre>[feature] Allow DSI-IT-catalog iframes (#456)
@@ -145,21 +161,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-clinic/commits/736d8cd6a23a1ddc9c855b1eff6bc7176ec30ccb" title="2026-04-16T09:29:58.000+02:00" target="_blank">736d8cd6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-clinic" title="🚑 WP-Clinic – A pod for debugging purposes.">/wp-clinic</a></strong></div>
           <pre>[doc] README</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-clinic/commits/942855542c0dc3a49af93edf6560667a2ea53051" title="2026-04-15T19:44:45.000+02:00" target="_blank">94285554</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-clinic" title="🚑 WP-Clinic – A pod for debugging purposes.">/wp-clinic</a></strong></div>
-          <pre>[init] WP-Clinic</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/53619c9d7565411141d0e27887bfa424414eb038" title="2026-04-15T19:41:11.000+02:00" target="_blank">53619c9d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[feature] Instrument the build and the redeployment of WP-Clinic</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 02 Jun 2026 17:52:56 GMT</small>
+<small>⏰ Updated on Wed, 03 Jun 2026 18:09:37 GMT</small>
 </td>
 </tr>
 </tfoot>
