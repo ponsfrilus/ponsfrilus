@@ -69,7 +69,7 @@
 <a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank">awesome-privacy</a>&nbsp;<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank"><img src="https://img.shields.io/github/stars/lissy93/awesome-privacy?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
+<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files. LLM-friendly." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files. LLM-friendly." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank">herding-cats</a>&nbsp;<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank"><img src="https://img.shields.io/github/stars/Apress/herding-cats?style=social" alt="GitHub"></a>
@@ -165,7 +165,7 @@ container. Defaults to "container". Allowed value: "container-grid",
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 05 Jun 2026 16:14:50 GMT</small>
+<small>⏰ Updated on Mon, 08 Jun 2026 16:56:49 GMT</small>
 </td>
 </tr>
 </tfoot>
