@@ -108,11 +108,6 @@
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/e3dd4ad8df4a2edb78e79d9c1cf66f13516f520f" title="2026-06-03T15:54:18.000+02:00" target="_blank">e3dd4ad8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] Memory limits for Apache-redirector</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/c0bc4f747e1e730830667514aed076ea4cec73f1" title="2026-06-02T17:41:45.000+02:00" target="_blank">c0bc4f74</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
           <pre>[feature] Add `container_class` attribute
 
@@ -161,11 +156,16 @@ container. Defaults to "container". Allowed value: "container-grid",
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/a36a5e8943fb8405dcaffe75cfef1814d4b2da42" title="2026-04-16T10:59:50.000+02:00" target="_blank">a36a5e89</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[monitoring] PHP Errors dashboard</pre>
         </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-clinic/commits/736d8cd6a23a1ddc9c855b1eff6bc7176ec30ccb" title="2026-04-16T09:29:58.000+02:00" target="_blank">736d8cd6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-clinic" title="🚑 WP-Clinic – A pod for debugging purposes.">/wp-clinic</a></strong></div>
+          <pre>[doc] README</pre>
+        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 08 Jun 2026 16:56:49 GMT</small>
+<small>⏰ Updated on Tue, 09 Jun 2026 16:18:29 GMT</small>
 </td>
 </tr>
 </tfoot>
