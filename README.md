@@ -108,6 +108,16 @@
         </td>
         </tr><tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/c676a40c9a69f6a269aaa484050c5a285eb53d32" title="2026-06-03T17:43:36.000+02:00" target="_blank">c676a40c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[fix] Memory limits of wp-operator</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/76181fd3ee820609408ea8339d7a2f9694e64bae" title="2026-06-03T16:01:28.000+02:00" target="_blank">76181fd3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
+          <pre>[fix] Memory limits of wordpresssite-conversion-webhook</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/e3dd4ad8df4a2edb78e79d9c1cf66f13516f520f" title="2026-06-03T15:54:18.000+02:00" target="_blank">e3dd4ad8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[fix] Memory limits for Apache-redirector</pre>
         </td>
@@ -151,21 +161,11 @@ container. Defaults to "container". Allowed value: "container-grid",
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/2ac6ec6f8c12b52cea5d1dc4f52fc342bdf08f97" title="2026-04-16T12:32:16.000+02:00" target="_blank">2ac6ec6f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
           <pre>[hotfix] Change the Ubuntu archive and security mirrors to ETHZ</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/6c17bb7933fa8cca07bdcbce850f09c80b5ac043" title="2026-04-16T11:04:51.000+02:00" target="_blank">6c17bb79</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[monitoring] Dashboards' Tags unifomisation</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/a36a5e8943fb8405dcaffe75cfef1814d4b2da42" title="2026-04-16T10:59:50.000+02:00" target="_blank">a36a5e89</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[monitoring] PHP Errors dashboard</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 10 Jun 2026 16:47:43 GMT</small>
+<small>⏰ Updated on Thu, 11 Jun 2026 17:07:05 GMT</small>
 </td>
 </tr>
 </tfoot>
