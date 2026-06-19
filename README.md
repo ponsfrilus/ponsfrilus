@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/c78ea5b2e27657c612ef1faf266555d30da08a94" title="2026-06-19T11:00:10.000+02:00" target="_blank">c78ea5b2</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
+          <pre>Update install.sh</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/sopec/commits/90b0af7a6543267387815d926b4c81a6cb9afc2e" title="2026-06-05T11:59:10.000+02:00" target="_blank">90b0af7a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/sopec" title="null">/sopec</a></strong></div>
           <pre>[feature] VPA for umami</pre>
         </td>
@@ -156,16 +161,11 @@ container. Defaults to "container". Allowed value: "container-grid",
           <div><strong><a href="https://api.github.com/repos/epfl-si/md-app-portal-frontend/commits/d8753040fc4484339f5679cae276b01e861886eb" title="2026-04-30T10:55:43.000+02:00" target="_blank">d8753040</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/md-app-portal-frontend" title="null">/md-app-portal-frontend</a></strong></div>
           <pre>Fix typo in REDIRECTURI_VALIDATION message</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/2ac6ec6f8c12b52cea5d1dc4f52fc342bdf08f97" title="2026-04-16T12:32:16.000+02:00" target="_blank">2ac6ec6f</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[hotfix] Change the Ubuntu archive and security mirrors to ETHZ</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 18 Jun 2026 16:45:03 GMT</small>
+<small>⏰ Updated on Fri, 19 Jun 2026 16:18:35 GMT</small>
 </td>
 </tr>
 </tfoot>
