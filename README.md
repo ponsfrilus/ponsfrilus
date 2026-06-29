@@ -103,6 +103,26 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/785fb2407cbf279866b5024988a01718dd4242c9" title="2026-06-29T17:39:53.000+02:00" target="_blank">785fb240</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[feature] Bump prometheus to v3.12.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/ccd8c7a940ae935988d4f998a0138796083bdaac" title="2026-06-29T17:39:09.000+02:00" target="_blank">ccd8c7a9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[feature] Bump blackboxexporter to v.0.28.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/ba4880c15a2b857e4ccbcddd97485a7772b7a350" title="2026-06-29T17:13:44.000+02:00" target="_blank">ba4880c1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[feature] Bump grafana to v13.1</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/7590d409882ada857110960b58df3479c5454a83" title="2026-06-29T16:57:34.000+02:00" target="_blank">7590d409</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[feature] Bump traefik to v2.11.50</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/c78ea5b2e27657c612ef1faf266555d30da08a94" title="2026-06-19T11:00:10.000+02:00" target="_blank">c78ea5b2</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
           <pre>Update install.sh</pre>
         </td>
@@ -137,35 +157,11 @@ container. Defaults to "container". Allowed value: "container-grid",
 * Update the doc accordingly
 * Bump version to 2.55</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/4941e88443b50752e260a41280bcf5bc54bccae5" title="2026-06-02T12:25:11.000+02:00" target="_blank">4941e884</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
-          <pre>[feature] Allow DSI-IT-catalog iframes (#456)
-
-* [ocd] Sort URLs alphabetically
-
-* [feature] Allow dsi-it-catalog</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/sopec/commits/6a7af81d1bdf7ed0d83a29d0abddd300065f4061" title="2026-05-27T10:53:12.000+02:00" target="_blank">6a7af81d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/sopec" title="null">/sopec</a></strong></div>
-          <pre>[feature] OpenwebUI</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/sopec/commits/3315abdce999695ae96aa815dac512b054be9a4b" title="2026-05-27T10:39:36.000+02:00" target="_blank">3315abdc</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/sopec" title="null">/sopec</a></strong></div>
-          <pre>[doc] README.md</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/md-app-portal-frontend/commits/d8753040fc4484339f5679cae276b01e861886eb" title="2026-04-30T10:55:43.000+02:00" target="_blank">d8753040</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/md-app-portal-frontend" title="null">/md-app-portal-frontend</a></strong></div>
-          <pre>Fix typo in REDIRECTURI_VALIDATION message</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 26 Jun 2026 15:57:06 GMT</small>
+<small>⏰ Updated on Mon, 29 Jun 2026 16:45:36 GMT</small>
 </td>
 </tr>
 </tfoot>
