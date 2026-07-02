@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/kuvasz-uptime/kuvasz" title="Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!" target="_blank">kuvasz</a>&nbsp;<a href="https://github.com/kuvasz-uptime/kuvasz" title="Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!" target="_blank"><img src="https://img.shields.io/github/stars/kuvasz-uptime/kuvasz?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret sharing. End-to-end encrypted, self-hosted, open source." target="_blank">1time.io</a>&nbsp;<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret sharing. End-to-end encrypted, self-hosted, open source." target="_blank"><img src="https://img.shields.io/github/stars/shingrus/1time.io?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank">BMAD-METHOD</a>&nbsp;<a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank"><img src="https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gi-dellav/zerostack" title="Lightweight coding agent written in Rust, optimized for memory footprint and performance" target="_blank">zerostack</a>&nbsp;<a href="https://github.com/gi-dellav/zerostack" title="Lightweight coding agent written in Rust, optimized for memory footprint and performance" target="_blank"><img src="https://img.shields.io/github/stars/gi-dellav/zerostack?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank">gstack</a>&nbsp;<a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank"><img src="https://img.shields.io/github/stars/garrytan/gstack?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/mikefarah/yq" title="yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor" target="_blank">yq</a>&nbsp;<a href="https://github.com/mikefarah/yq" title="yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor" target="_blank"><img src="https://img.shields.io/github/stars/mikefarah/yq?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/refactoringhq/tolaria" title="Desktop app to manage markdown knowledge bases" target="_blank">tolaria</a>&nbsp;<a href="https://github.com/refactoringhq/tolaria" title="Desktop app to manage markdown knowledge bases" target="_blank"><img src="https://img.shields.io/github/stars/refactoringhq/tolaria?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/AutoCodeRoverSG/auto-code-rover" title="A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7." target="_blank">auto-code-rover</a>&nbsp;<a href="https://github.com/AutoCodeRoverSG/auto-code-rover" title="A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7." target="_blank"><img src="https://img.shields.io/github/stars/AutoCodeRoverSG/auto-code-rover?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/OpenHands/OpenHands" title="🙌 OpenHands: AI-Driven Development" target="_blank">OpenHands</a>&nbsp;<a href="https://github.com/OpenHands/OpenHands" title="🙌 OpenHands: AI-Driven Development" target="_blank"><img src="https://img.shields.io/github/stars/OpenHands/OpenHands?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/davidhuser/mxmap" title="Email providers of Swiss municipalities displayed on a map" target="_blank">mxmap</a>&nbsp;<a href="https://github.com/davidhuser/mxmap" title="Email providers of Swiss municipalities displayed on a map" target="_blank"><img src="https://img.shields.io/github/stars/davidhuser/mxmap?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank">osv-scanner</a>&nbsp;<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank"><img src="https://img.shields.io/github/stars/google/osv-scanner?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/cloud-gouv/securix" title="SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank">securix</a>&nbsp;<a href="https://github.com/cloud-gouv/securix" title="SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank"><img src="https://img.shields.io/github/stars/cloud-gouv/securix?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret sharing. End-to-end encrypted, self-hosted, open source." target="_blank">1time.io</a>&nbsp;<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret sharing. End-to-end encrypted, self-hosted, open source." target="_blank"><img src="https://img.shields.io/github/stars/shingrus/1time.io?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank">BMAD-METHOD</a>&nbsp;<a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank"><img src="https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gi-dellav/zerostack" title="Lightweight coding agent written in Rust, optimized for memory footprint and performance" target="_blank">zerostack</a>&nbsp;<a href="https://github.com/gi-dellav/zerostack" title="Lightweight coding agent written in Rust, optimized for memory footprint and performance" target="_blank"><img src="https://img.shields.io/github/stars/gi-dellav/zerostack?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank">gstack</a>&nbsp;<a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank"><img src="https://img.shields.io/github/stars/garrytan/gstack?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/mikefarah/yq" title="yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor" target="_blank">yq</a>&nbsp;<a href="https://github.com/mikefarah/yq" title="yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor" target="_blank"><img src="https://img.shields.io/github/stars/mikefarah/yq?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/refactoringhq/tolaria" title="Desktop app to manage markdown knowledge bases" target="_blank">tolaria</a>&nbsp;<a href="https://github.com/refactoringhq/tolaria" title="Desktop app to manage markdown knowledge bases" target="_blank"><img src="https://img.shields.io/github/stars/refactoringhq/tolaria?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/AutoCodeRoverSG/auto-code-rover" title="A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7." target="_blank">auto-code-rover</a>&nbsp;<a href="https://github.com/AutoCodeRoverSG/auto-code-rover" title="A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 37.3% tasks (pass@1) in SWE-bench lite and 46.2% tasks (pass@1) in SWE-bench verified with each task costs less than $0.7." target="_blank"><img src="https://img.shields.io/github/stars/AutoCodeRoverSG/auto-code-rover?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/OpenHands/OpenHands" title="🙌 OpenHands: AI-Driven Development" target="_blank">OpenHands</a>&nbsp;<a href="https://github.com/OpenHands/OpenHands" title="🙌 OpenHands: AI-Driven Development" target="_blank"><img src="https://img.shields.io/github/stars/OpenHands/OpenHands?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/davidhuser/mxmap" title="Email providers of Swiss municipalities displayed on a map" target="_blank">mxmap</a>&nbsp;<a href="https://github.com/davidhuser/mxmap" title="Email providers of Swiss municipalities displayed on a map" target="_blank"><img src="https://img.shields.io/github/stars/davidhuser/mxmap?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cloud-gouv/bureautix-example" title="null" target="_blank">bureautix-example</a>&nbsp;<a href="https://github.com/cloud-gouv/bureautix-example" title="null" target="_blank"><img src="https://img.shields.io/github/stars/cloud-gouv/bureautix-example?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -161,7 +161,7 @@ container. Defaults to "container". Allowed value: "container-grid",
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 01 Jul 2026 16:08:43 GMT</small>
+<small>⏰ Updated on Thu, 02 Jul 2026 15:53:50 GMT</small>
 </td>
 </tr>
 </tfoot>
