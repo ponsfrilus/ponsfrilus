@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank">claude-design-system-prompt</a>&nbsp;<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank"><img src="https://img.shields.io/github/stars/Trystan-SA/claude-design-system-prompt?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank">osv-scanner</a>&nbsp;<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank"><img src="https://img.shields.io/github/stars/google/osv-scanner?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank">awesome-privacy</a>&nbsp;<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank"><img src="https://img.shields.io/github/stars/lissy93/awesome-privacy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files. LLM-friendly." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files. LLM-friendly." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank">herding-cats</a>&nbsp;<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank"><img src="https://img.shields.io/github/stars/Apress/herding-cats?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank">Agora</a>&nbsp;<a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank"><img src="https://img.shields.io/github/stars/ThomNardou/Agora?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/basecamp/fizzy" title="Kanban as it should be. Not as it has been." target="_blank">fizzy</a>&nbsp;<a href="https://github.com/basecamp/fizzy" title="Kanban as it should be. Not as it has been." target="_blank"><img src="https://img.shields.io/github/stars/basecamp/fizzy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/continuedev/continue" title="open-source coding agent" target="_blank">continue</a>&nbsp;<a href="https://github.com/continuedev/continue" title="open-source coding agent" target="_blank"><img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/aaif-goose/goose" title="an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM" target="_blank">goose</a>&nbsp;<a href="https://github.com/aaif-goose/goose" title="an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM" target="_blank"><img src="https://img.shields.io/github/stars/aaif-goose/goose?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/phodal/auto-dev" title="🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC." target="_blank">auto-dev</a>&nbsp;<a href="https://github.com/phodal/auto-dev" title="🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC." target="_blank"><img src="https://img.shields.io/github/stars/phodal/auto-dev?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/kuvasz-uptime/kuvasz" title="Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!" target="_blank">kuvasz</a>&nbsp;<a href="https://github.com/kuvasz-uptime/kuvasz" title="Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!" target="_blank"><img src="https://img.shields.io/github/stars/kuvasz-uptime/kuvasz?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/davidhuser/mxmap" title="Email providers of Swiss municipalities displayed on a map" target="_blank">mxmap</a>&nbsp;<a href="https://github.com/davidhuser/mxmap" title="Email providers of Swiss municipalities displayed on a map" target="_blank"><img src="https://img.shields.io/github/stars/davidhuser/mxmap?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank">osv-scanner</a>&nbsp;<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank"><img src="https://img.shields.io/github/stars/google/osv-scanner?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank">awesome-privacy</a>&nbsp;<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank"><img src="https://img.shields.io/github/stars/lissy93/awesome-privacy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files. LLM-friendly." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files. LLM-friendly." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank">herding-cats</a>&nbsp;<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank"><img src="https://img.shields.io/github/stars/Apress/herding-cats?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank">Agora</a>&nbsp;<a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank"><img src="https://img.shields.io/github/stars/ThomNardou/Agora?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/basecamp/fizzy" title="Kanban as it should be. Not as it has been." target="_blank">fizzy</a>&nbsp;<a href="https://github.com/basecamp/fizzy" title="Kanban as it should be. Not as it has been." target="_blank"><img src="https://img.shields.io/github/stars/basecamp/fizzy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/continuedev/continue" title="open-source coding agent" target="_blank">continue</a>&nbsp;<a href="https://github.com/continuedev/continue" title="open-source coding agent" target="_blank"><img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/aaif-goose/goose" title="an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM" target="_blank">goose</a>&nbsp;<a href="https://github.com/aaif-goose/goose" title="an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM" target="_blank"><img src="https://img.shields.io/github/stars/aaif-goose/goose?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/phodal/auto-dev" title="🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC." target="_blank">auto-dev</a>&nbsp;<a href="https://github.com/phodal/auto-dev" title="🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC." target="_blank"><img src="https://img.shields.io/github/stars/phodal/auto-dev?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/cloud-gouv/securix" title="SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank">securix</a>&nbsp;<a href="https://github.com/cloud-gouv/securix" title="SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance." target="_blank"><img src="https://img.shields.io/github/stars/cloud-gouv/securix?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -161,7 +161,7 @@ container. Defaults to "container". Allowed value: "container-grid",
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 03 Jul 2026 15:34:58 GMT</small>
+<small>⏰ Updated on Mon, 06 Jul 2026 16:42:26 GMT</small>
 </td>
 </tr>
 </tfoot>
