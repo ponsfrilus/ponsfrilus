@@ -41,7 +41,7 @@
 <a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank">awesome-privacy</a>&nbsp;<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank"><img src="https://img.shields.io/github/stars/lissy93/awesome-privacy?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files. LLM-friendly." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files. LLM-friendly." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
+<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files. AI-friendly." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files. AI-friendly." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank">herding-cats</a>&nbsp;<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank"><img src="https://img.shields.io/github/stars/Apress/herding-cats?style=social" alt="GitHub"></a>
@@ -103,6 +103,24 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wordpress.plugin.accred.entra/commits/d18dda4ccecfd7d44f5e802ae5f263a91a5848d2" title="2026-07-06T17:34:01.000+02:00" target="_blank">d18dda4c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wordpress.plugin.accred.entra" title="RBAC plugin for EPFL Accred / Entra ID">/wordpress.plugin.accred.entra</a></strong></div>
+          <pre>[feature] README.md
+
+Please note that is vide-written by Claude Sonnet 4.6 using nborboen's
+[Markdown] and [Repository] skills.
+
+
+[Markdown]: https://gitlab.epfl.ch/nborboen/skills/-/tree/main/markdown
+[Repository]: 
+https://gitlab.epfl.ch/nborboen/skills/-/tree/main/repository</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wordpress.plugin.accred.entra/commits/d0eeb2e6efe1781e3c08df788aad7df70ea922ea" title="2026-07-06T17:22:07.000+02:00" target="_blank">d0eeb2e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wordpress.plugin.accred.entra" title="RBAC plugin for EPFL Accred / Entra ID">/wordpress.plugin.accred.entra</a></strong></div>
+          <pre>[feature] Add headers fields</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/785fb2407cbf279866b5024988a01718dd4242c9" title="2026-06-29T17:39:53.000+02:00" target="_blank">785fb240</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[feature] Bump prometheus to v3.12.0</pre>
         </td>
@@ -141,27 +159,11 @@
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/76181fd3ee820609408ea8339d7a2f9694e64bae" title="2026-06-03T16:01:28.000+02:00" target="_blank">76181fd3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[fix] Memory limits of wordpresssite-conversion-webhook</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-ops/commits/e3dd4ad8df4a2edb78e79d9c1cf66f13516f520f" title="2026-06-03T15:54:18.000+02:00" target="_blank">e3dd4ad8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-ops" title="DevOps infrastructure for the WordPress-at-EFPL project">/wp-ops</a></strong></div>
-          <pre>[fix] Memory limits for Apache-redirector</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/c0bc4f747e1e730830667514aed076ea4cec73f1" title="2026-06-02T17:41:45.000+02:00" target="_blank">c0bc4f74</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
-          <pre>[feature] Add `container_class` attribute
-
-* This allow to chose the CSS class applied to the iframe's outer 
-container. Defaults to "container". Allowed value: "container-grid", 
-"container-full".
-* Update the doc accordingly
-* Bump version to 2.55</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 06 Jul 2026 16:42:26 GMT</small>
+<small>⏰ Updated on Tue, 07 Jul 2026 16:07:27 GMT</small>
 </td>
 </tr>
 </tfoot>
