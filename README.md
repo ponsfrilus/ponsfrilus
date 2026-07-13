@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank">chatto</a>&nbsp;<a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank"><img src="https://img.shields.io/github/stars/chattocorp/chatto?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank">claude-design-system-prompt</a>&nbsp;<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank"><img src="https://img.shields.io/github/stars/Trystan-SA/claude-design-system-prompt?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank">osv-scanner</a>&nbsp;<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank"><img src="https://img.shields.io/github/stars/google/osv-scanner?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank">awesome-privacy</a>&nbsp;<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank"><img src="https://img.shields.io/github/stars/lissy93/awesome-privacy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files. AI-friendly." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files. AI-friendly." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank">herding-cats</a>&nbsp;<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank"><img src="https://img.shields.io/github/stars/Apress/herding-cats?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank">Agora</a>&nbsp;<a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank"><img src="https://img.shields.io/github/stars/ThomNardou/Agora?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/basecamp/fizzy" title="Kanban as it should be. Not as it has been." target="_blank">fizzy</a>&nbsp;<a href="https://github.com/basecamp/fizzy" title="Kanban as it should be. Not as it has been." target="_blank"><img src="https://img.shields.io/github/stars/basecamp/fizzy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/continuedev/continue" title="open-source coding agent" target="_blank">continue</a>&nbsp;<a href="https://github.com/continuedev/continue" title="open-source coding agent" target="_blank"><img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/aaif-goose/goose" title="an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM" target="_blank">goose</a>&nbsp;<a href="https://github.com/aaif-goose/goose" title="an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM" target="_blank"><img src="https://img.shields.io/github/stars/aaif-goose/goose?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/epfl-si/wp-controller" title="null" target="_blank">wp-controller</a>&nbsp;<a href="https://github.com/epfl-si/wp-controller" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-controller?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,18 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank">claude-design-system-prompt</a>&nbsp;<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank"><img src="https://img.shields.io/github/stars/Trystan-SA/claude-design-system-prompt?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank">osv-scanner</a>&nbsp;<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank"><img src="https://img.shields.io/github/stars/google/osv-scanner?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank">awesome-privacy</a>&nbsp;<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank"><img src="https://img.shields.io/github/stars/lissy93/awesome-privacy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files. AI-friendly." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files. AI-friendly." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank">herding-cats</a>&nbsp;<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank"><img src="https://img.shields.io/github/stars/Apress/herding-cats?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank">Agora</a>&nbsp;<a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank"><img src="https://img.shields.io/github/stars/ThomNardou/Agora?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/basecamp/fizzy" title="Kanban as it should be. Not as it has been." target="_blank">fizzy</a>&nbsp;<a href="https://github.com/basecamp/fizzy" title="Kanban as it should be. Not as it has been." target="_blank"><img src="https://img.shields.io/github/stars/basecamp/fizzy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/continuedev/continue" title="open-source coding agent" target="_blank">continue</a>&nbsp;<a href="https://github.com/continuedev/continue" title="open-source coding agent" target="_blank"><img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/aaif-goose/goose" title="an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM" target="_blank">goose</a>&nbsp;<a href="https://github.com/aaif-goose/goose" title="an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM" target="_blank"><img src="https://img.shields.io/github/stars/aaif-goose/goose?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/phodal/auto-dev" title="🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC." target="_blank">auto-dev</a>&nbsp;<a href="https://github.com/phodal/auto-dev" title="🧙‍AutoDev: the AI-native Multi-Agent development platform built on Kotlin Multiplatform, covering all 7 phases of SDLC." target="_blank"><img src="https://img.shields.io/github/stars/phodal/auto-dev?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/9d556302739f47c40f358d50f7c5cfd53d45eba5" title="2026-07-13T11:18:58.000+02:00" target="_blank">9d556302</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
+          <pre>[feature] Add widget-wordpress URL
+
+Co-authored-by: Rosa Maggi <rosa.maggi@epfl.ch></pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wordpress.plugin.accred.entra/commits/d18dda4ccecfd7d44f5e802ae5f263a91a5848d2" title="2026-07-06T17:34:01.000+02:00" target="_blank">d18dda4c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wordpress.plugin.accred.entra" title="RBAC plugin for EPFL Accred / Entra ID">/wordpress.plugin.accred.entra</a></strong></div>
           <pre>[feature] README.md
@@ -154,16 +161,11 @@ https://gitlab.epfl.ch/nborboen/skills/-/tree/main/repository</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/c676a40c9a69f6a269aaa484050c5a285eb53d32" title="2026-06-03T17:43:36.000+02:00" target="_blank">c676a40c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
           <pre>[fix] Memory limits of wp-operator</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/76181fd3ee820609408ea8339d7a2f9694e64bae" title="2026-06-03T16:01:28.000+02:00" target="_blank">76181fd3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] Memory limits of wordpresssite-conversion-webhook</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 10 Jul 2026 16:00:53 GMT</small>
+<small>⏰ Updated on Mon, 13 Jul 2026 16:08:53 GMT</small>
 </td>
 </tr>
 </tfoot>
