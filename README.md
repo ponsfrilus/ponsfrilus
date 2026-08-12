@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/fa00a1141869232c0388530b5c12ce8a75a226f9" title="2026-08-12T10:19:31.000+02:00" target="_blank">fa00a114</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
+          <pre>[bump] version to 1.4.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/ce7bd3bf29b8770511261dbac6a26c1546f31796" title="2026-08-12T09:23:00.000+02:00" target="_blank">ce7bd3bf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="Ansible jam to deploy atari.epfl.ch">/atari.ops</a></strong></div>
+          <pre>[hello] @Xpl0Z</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/9d556302739f47c40f358d50f7c5cfd53d45eba5" title="2026-07-13T11:18:58.000+02:00" target="_blank">9d556302</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
           <pre>[feature] Add widget-wordpress URL
 
@@ -151,21 +161,11 @@ https://gitlab.epfl.ch/nborboen/skills/-/tree/main/repository</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/config-laptop-stagiaire/commits/c78ea5b2e27657c612ef1faf266555d30da08a94" title="2026-06-19T11:00:10.000+02:00" target="_blank">c78ea5b2</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/config-laptop-stagiaire" title="null">/config-laptop-stagiaire</a></strong></div>
           <pre>Update install.sh</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/sopec/commits/90b0af7a6543267387815d926b4c81a6cb9afc2e" title="2026-06-05T11:59:10.000+02:00" target="_blank">90b0af7a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/sopec" title="null">/sopec</a></strong></div>
-          <pre>[feature] VPA for umami</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-operator/commits/c676a40c9a69f6a269aaa484050c5a285eb53d32" title="2026-06-03T17:43:36.000+02:00" target="_blank">c676a40c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-operator" title="EPFL's WordPress Operator">/wp-operator</a></strong></div>
-          <pre>[fix] Memory limits of wp-operator</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 11 Aug 2026 14:39:43 GMT</small>
+<small>⏰ Updated on Wed, 12 Aug 2026 14:40:07 GMT</small>
 </td>
 </tr>
 </tfoot>
