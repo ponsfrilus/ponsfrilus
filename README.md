@@ -173,7 +173,7 @@ https://gitlab.epfl.ch/nborboen/skills/-/tree/main/repository</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 14 Aug 2026 14:34:41 GMT</small>
+<small>⏰ Updated on Mon, 17 Aug 2026 14:03:12 GMT</small>
 </td>
 </tr>
 </tfoot>
