@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/sidoc.ops/commits/a50c0256655fe684b39dd8ff5a5b684f9f6a9e94" title="2026-08-21T11:16:50.000+02:00" target="_blank">a50c0256</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/sidoc.ops" title="null">/sidoc.ops</a></strong></div>
+          <pre>[feature] Add an "Open Knowledge" common collection</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/visites-guidees.dev/commits/e02325d60431332b0ad5111f43a5ef2555db3b4b" title="2026-08-12T17:35:38.000+02:00" target="_blank">e02325d6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/visites-guidees.dev" title="null">/visites-guidees.dev</a></strong></div>
           <pre>[feature] Makefile improvements
 
@@ -164,16 +169,11 @@ https://gitlab.epfl.ch/nborboen/skills/-/tree/main/repository</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/ba4880c15a2b857e4ccbcddd97485a7772b7a350" title="2026-06-29T17:13:44.000+02:00" target="_blank">ba4880c1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[feature] Bump grafana to v13.1</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/7590d409882ada857110960b58df3479c5454a83" title="2026-06-29T16:57:34.000+02:00" target="_blank">7590d409</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[feature] Bump traefik to v2.11.50</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 20 Aug 2026 14:17:51 GMT</small>
+<small>⏰ Updated on Fri, 21 Aug 2026 14:16:05 GMT</small>
 </td>
 </tr>
 </tfoot>
