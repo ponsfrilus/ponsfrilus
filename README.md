@@ -103,8 +103,27 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop/commits/657ec962ed01884aaf26deffb7d6c69166a8b1c3" title="2026-08-26T19:05:01.000+02:00" target="_blank">657ec962</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees">/ticketshop</a></strong></div>
+          <pre>[version] Bump version to 2.16.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/ccd0f9d8e75f77fd5e038c3137f044a2def8298a" title="2026-08-26T18:43:00.000+02:00" target="_blank">ccd0f9d8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
+          <pre>[fix] Unmanaged missing adData
+
+This also bump to version 1.6.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/sidoc.ops/commits/a50c0256655fe684b39dd8ff5a5b684f9f6a9e94" title="2026-08-21T11:16:50.000+02:00" target="_blank">a50c0256</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/sidoc.ops" title="null">/sidoc.ops</a></strong></div>
           <pre>[feature] Add an "Open Knowledge" common collection</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/1de8f13dfaa9d17260e3963ed6f10e4a241932be" title="2026-08-18T14:37:59.000+02:00" target="_blank">1de8f13d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
+          <pre>[feature] Profile picture
+
+Closes #125</pre>
         </td>
         </tr><tr>
         <td colspan="2">
@@ -154,26 +173,11 @@ https://gitlab.epfl.ch/nborboen/skills/-/tree/main/repository</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/wordpress.plugin.accred.entra/commits/d0eeb2e6efe1781e3c08df788aad7df70ea922ea" title="2026-07-06T17:22:07.000+02:00" target="_blank">d0eeb2e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wordpress.plugin.accred.entra" title="RBAC plugin for EPFL Accred / Entra ID">/wordpress.plugin.accred.entra</a></strong></div>
           <pre>[feature] Add headers fields</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/785fb2407cbf279866b5024988a01718dd4242c9" title="2026-06-29T17:39:53.000+02:00" target="_blank">785fb240</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[feature] Bump prometheus to v3.12.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/ccd8c7a940ae935988d4f998a0138796083bdaac" title="2026-06-29T17:39:09.000+02:00" target="_blank">ccd8c7a9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[feature] Bump blackboxexporter to v.0.28.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/ba4880c15a2b857e4ccbcddd97485a7772b7a350" title="2026-06-29T17:13:44.000+02:00" target="_blank">ba4880c1</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[feature] Bump grafana to v13.1</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 26 Aug 2026 14:22:16 GMT</small>
+<small>⏰ Updated on Thu, 27 Aug 2026 23:02:54 GMT</small>
 </td>
 </tr>
 </tfoot>
