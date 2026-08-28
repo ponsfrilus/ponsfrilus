@@ -103,6 +103,44 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/ar-game-2/commits/ca017545fc2d8a4b2a46c173175ca4b0ac84cea0" title="2026-08-28T18:15:40.000+02:00" target="_blank">ca017545</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/ar-game-2" title="An augmented-reality web experience built for the "Formation Apprenti·e·s" at EPFL.">/ar-game-2</a></strong></div>
+          <pre>[chore] Stop debug and bum to 0.6.1</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/ar-game-2/commits/58ae128e6b780279b4ced4719bd694f9c6fd59ac" title="2026-08-28T17:57:26.000+02:00" target="_blank">58ae128e</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/ar-game-2" title="An augmented-reality web experience built for the "Formation Apprenti·e·s" at EPFL.">/ar-game-2</a></strong></div>
+          <pre>[chore] Bump version to 0.6.0</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/ar-game-2/commits/ddf6fcaa806fd29691b1846064d18430c99102ce" title="2026-08-28T17:56:51.000+02:00" target="_blank">ddf6fcaa</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/ar-game-2" title="An augmented-reality web experience built for the "Formation Apprenti·e·s" at EPFL.">/ar-game-2</a></strong></div>
+          <pre>[feature] Add umami tag</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/ar-game-2/commits/67206639420a43453a1d5c176587f4a306ed073e" title="2026-08-28T17:56:19.000+02:00" target="_blank">67206639</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/ar-game-2" title="An augmented-reality web experience built for the "Formation Apprenti·e·s" at EPFL.">/ar-game-2</a></strong></div>
+          <pre>[fix] Photo countdown to 5s</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/ar-game-2/commits/a00714a0e84ab421b86dd8e0591eaeb552b601ff" title="2026-08-28T17:11:18.000+02:00" target="_blank">a00714a0</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/ar-game-2" title="An augmented-reality web experience built for the "Formation Apprenti·e·s" at EPFL.">/ar-game-2</a></strong></div>
+          <pre>[feature] Add replyTo
+
+Mainly add new email parameter to be more flexible when deploying the 
+app.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/ar-game-2/commits/a60216c225c295726c0b111f7c3840325cc693b8" title="2026-08-28T14:07:17.000+02:00" target="_blank">a60216c2</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/ar-game-2" title="An augmented-reality web experience built for the "Formation Apprenti·e·s" at EPFL.">/ar-game-2</a></strong></div>
+          <pre>[doc] Add LICENSE</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-fsd/ar-game-2/commits/aef0bf5ff8fe6af1d6361c857207e8673a51a5b7" title="2026-08-28T12:24:29.000+02:00" target="_blank">aef0bf5f</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/ar-game-2" title="An augmented-reality web experience built for the "Formation Apprenti·e·s" at EPFL.">/ar-game-2</a></strong></div>
+          <pre>[doc] AI generated README</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop/commits/657ec962ed01884aaf26deffb7d6c69166a8b1c3" title="2026-08-26T19:05:01.000+02:00" target="_blank">657ec962</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees">/ticketshop</a></strong></div>
           <pre>[version] Bump version to 2.16.0</pre>
         </td>
@@ -118,66 +156,11 @@ This also bump to version 1.6.0</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/sidoc.ops/commits/a50c0256655fe684b39dd8ff5a5b684f9f6a9e94" title="2026-08-21T11:16:50.000+02:00" target="_blank">a50c0256</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/sidoc.ops" title="null">/sidoc.ops</a></strong></div>
           <pre>[feature] Add an "Open Knowledge" common collection</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/1de8f13dfaa9d17260e3963ed6f10e4a241932be" title="2026-08-18T14:37:59.000+02:00" target="_blank">1de8f13d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
-          <pre>[feature] Profile picture
-
-Closes #125</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/visites-guidees.dev/commits/e02325d60431332b0ad5111f43a5ef2555db3b4b" title="2026-08-12T17:35:38.000+02:00" target="_blank">e02325d6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/visites-guidees.dev" title="null">/visites-guidees.dev</a></strong></div>
-          <pre>[feature] Makefile improvements
-
-- Use an autogenerated make help
-- Use better directories names
-- Clone and git pull --rebase in the same `make checkout` command
-- Use bun where possible
-- Ensure to `bun i` from the top repository
-- Run the whole app with `make setup`
-- Last but not least, use `make all` and be happy!</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/fa00a1141869232c0388530b5c12ce8a75a226f9" title="2026-08-12T10:19:31.000+02:00" target="_blank">fa00a114</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
-          <pre>[bump] version to 1.4.0</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/atari.ops/commits/ce7bd3bf29b8770511261dbac6a26c1546f31796" title="2026-08-12T09:23:00.000+02:00" target="_blank">ce7bd3bf</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/atari.ops" title="Ansible jam to deploy atari.epfl.ch">/atari.ops</a></strong></div>
-          <pre>[hello] @Xpl0Z</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/9d556302739f47c40f358d50f7c5cfd53d45eba5" title="2026-07-13T11:18:58.000+02:00" target="_blank">9d556302</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
-          <pre>[feature] Add widget-wordpress URL
-
-Co-authored-by: Rosa Maggi <rosa.maggi@epfl.ch></pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wordpress.plugin.accred.entra/commits/d18dda4ccecfd7d44f5e802ae5f263a91a5848d2" title="2026-07-06T17:34:01.000+02:00" target="_blank">d18dda4c</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wordpress.plugin.accred.entra" title="RBAC plugin for EPFL Accred / Entra ID">/wordpress.plugin.accred.entra</a></strong></div>
-          <pre>[feature] README.md
-
-Please note that is vide-written by Claude Sonnet 4.6 using nborboen's
-[Markdown] and [Repository] skills.
-
-
-[Markdown]: https://gitlab.epfl.ch/nborboen/skills/-/tree/main/markdown
-[Repository]: 
-https://gitlab.epfl.ch/nborboen/skills/-/tree/main/repository</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wordpress.plugin.accred.entra/commits/d0eeb2e6efe1781e3c08df788aad7df70ea922ea" title="2026-07-06T17:22:07.000+02:00" target="_blank">d0eeb2e6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wordpress.plugin.accred.entra" title="RBAC plugin for EPFL Accred / Entra ID">/wordpress.plugin.accred.entra</a></strong></div>
-          <pre>[feature] Add headers fields</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 27 Aug 2026 23:02:54 GMT</small>
+<small>⏰ Updated on Fri, 28 Aug 2026 23:11:16 GMT</small>
 </td>
 </tr>
 </tfoot>
