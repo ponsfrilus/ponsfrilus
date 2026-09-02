@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/bradAGI/awesome-cli-coding-agents" title="Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. " target="_blank">awesome-cli-coding-agents</a>&nbsp;<a href="https://github.com/bradAGI/awesome-cli-coding-agents" title="Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. " target="_blank"><img src="https://img.shields.io/github/stars/bradAGI/awesome-cli-coding-agents?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/anthropics/skills" title="Public repository for Agent Skills" target="_blank">skills</a>&nbsp;<a href="https://github.com/anthropics/skills" title="Public repository for Agent Skills" target="_blank"><img src="https://img.shields.io/github/stars/anthropics/skills?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank">chatto</a>&nbsp;<a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank"><img src="https://img.shields.io/github/stars/chattocorp/chatto?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank">claude-design-system-prompt</a>&nbsp;<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank"><img src="https://img.shields.io/github/stars/Trystan-SA/claude-design-system-prompt?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank">osv-scanner</a>&nbsp;<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank"><img src="https://img.shields.io/github/stars/google/osv-scanner?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank">awesome-privacy</a>&nbsp;<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank"><img src="https://img.shields.io/github/stars/lissy93/awesome-privacy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank">herding-cats</a>&nbsp;<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank"><img src="https://img.shields.io/github/stars/Apress/herding-cats?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank">Agora</a>&nbsp;<a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank"><img src="https://img.shields.io/github/stars/ThomNardou/Agora?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/basecamp/fizzy" title="Kanban as it should be. Not as it has been." target="_blank">fizzy</a>&nbsp;<a href="https://github.com/basecamp/fizzy" title="Kanban as it should be. Not as it has been." target="_blank"><img src="https://img.shields.io/github/stars/basecamp/fizzy?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank">scientific-agent-skills</a>&nbsp;<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank"><img src="https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,18 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/anthropics/skills" title="Public repository for Agent Skills" target="_blank">skills</a>&nbsp;<a href="https://github.com/anthropics/skills" title="Public repository for Agent Skills" target="_blank"><img src="https://img.shields.io/github/stars/anthropics/skills?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank">chatto</a>&nbsp;<a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank"><img src="https://img.shields.io/github/stars/chattocorp/chatto?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank">claude-design-system-prompt</a>&nbsp;<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank"><img src="https://img.shields.io/github/stars/Trystan-SA/claude-design-system-prompt?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank">osv-scanner</a>&nbsp;<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank"><img src="https://img.shields.io/github/stars/google/osv-scanner?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank">awesome-privacy</a>&nbsp;<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank"><img src="https://img.shields.io/github/stars/lissy93/awesome-privacy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank">herding-cats</a>&nbsp;<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank"><img src="https://img.shields.io/github/stars/Apress/herding-cats?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank">Agora</a>&nbsp;<a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank"><img src="https://img.shields.io/github/stars/ThomNardou/Agora?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/basecamp/fizzy" title="Kanban as it should be. Not as it has been." target="_blank">fizzy</a>&nbsp;<a href="https://github.com/basecamp/fizzy" title="Kanban as it should be. Not as it has been." target="_blank"><img src="https://img.shields.io/github/stars/basecamp/fizzy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/continuedev/continue" title="open-source coding agent" target="_blank">continue</a>&nbsp;<a href="https://github.com/continuedev/continue" title="open-source coding agent" target="_blank"><img src="https://img.shields.io/github/stars/continuedev/continue?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/elements/commits/8cca454b04d834387ce40732a20a0c4c43d17242" title="2026-09-02T17:14:46.000+02:00" target="_blank">8cca454b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/elements" title="Charte graphique Web EPFL">/elements</a></strong></div>
+          <pre>[fix] Replace all dashes with spaces in filenames (#860)
+
+This fixes #859</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-fsd/ar-game-2/commits/ca017545fc2d8a4b2a46c173175ca4b0ac84cea0" title="2026-08-28T18:15:40.000+02:00" target="_blank">ca017545</a><a href="https://github.com/epfl-fsd">@epfl-fsd</a><a href="https://github.com/epfl-fsd/ar-game-2" title="An augmented-reality web experience built for the "Formation Apprenti·e·s" at EPFL.">/ar-game-2</a></strong></div>
           <pre>[chore] Stop debug and bum to 0.6.1</pre>
@@ -151,16 +158,11 @@ app.</pre>
 
 This also bump to version 1.6.0</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/sidoc.ops/commits/a50c0256655fe684b39dd8ff5a5b684f9f6a9e94" title="2026-08-21T11:16:50.000+02:00" target="_blank">a50c0256</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/sidoc.ops" title="null">/sidoc.ops</a></strong></div>
-          <pre>[feature] Add an "Open Knowledge" common collection</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 01 Sep 2026 17:25:49 GMT</small>
+<small>⏰ Updated on Wed, 02 Sep 2026 17:18:23 GMT</small>
 </td>
 </tr>
 </tfoot>
