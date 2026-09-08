@@ -103,6 +103,34 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-gutenberg-epfl/commits/44574e78f77bfba979d58aaff98512ed1aafe6bb" title="2026-09-08T11:08:40.000+02:00" target="_blank">44574e78</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-gutenberg-epfl" title="A Wordpress plugin which provides multiple blocks for EPFL services">/wp-gutenberg-epfl</a></strong></div>
+          <pre>[feature] Filter archived project (#462)
+
+This commit add several improvement to the "student-project" Gutenberg block from @Amine672
+
+* Adding filter
+* Update index.js
+* Adapting to the new inspector
+* Adding choose for school and logic behind it
+* Adding tag to dropdown
+* Fixing bug - page crash, adding filter by level
+* Fixing conflict issue
+* [fix] Remove post-sorting by person name (name particles are considered in People directly)
+* [bump] Bump version of people and gutenberg
+* [bump] Version to 2.57.0
+
+Notes:
+- Please note that this plugin does not work from our testing plateforme (aka salad de fruits) because the ISA API is not allowed.
+- Please note that this plugin does now work when someone is using the VPN and have a 10.251.3.0/32 IP due to sti-zen CORS policy.
+- Please note that this plugin requires that you accept your browser to access local network and services
+---------
+
+Co-authored-by: Amine.Kabbouch <kabbouch.amine@gmail.com>
+Co-authored-by: amine <amine.kabbouch@epfl.ch>
+Co-authored-by: Saskya Panchaud <saskya.panchaud@epfl.ch></pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/elements/commits/8cca454b04d834387ce40732a20a0c4c43d17242" title="2026-09-02T17:14:46.000+02:00" target="_blank">8cca454b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/elements" title="Charte graphique Web EPFL">/elements</a></strong></div>
           <pre>[fix] Replace all dashes with spaces in filenames (#860)
 
@@ -151,18 +179,11 @@ app.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop/commits/657ec962ed01884aaf26deffb7d6c69166a8b1c3" title="2026-08-26T19:05:01.000+02:00" target="_blank">657ec962</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees">/ticketshop</a></strong></div>
           <pre>[version] Bump version to 2.16.0</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ATARI/commits/ccd0f9d8e75f77fd5e038c3137f044a2def8298a" title="2026-08-26T18:43:00.000+02:00" target="_blank">ccd0f9d8</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ATARI" title="Code source for atari.epfl.ch">/ATARI</a></strong></div>
-          <pre>[fix] Unmanaged missing adData
-
-This also bump to version 1.6.0</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 07 Sep 2026 18:22:12 GMT</small>
+<small>⏰ Updated on Tue, 08 Sep 2026 17:27:33 GMT</small>
 </td>
 </tr>
 </tfoot>
