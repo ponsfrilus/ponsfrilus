@@ -35,7 +35,7 @@
 <a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank">block-finder</a>&nbsp;<a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank"><img src="https://img.shields.io/github/stars/troychaplin/block-finder?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank">scientific-agent-skills</a>&nbsp;<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank"><img src="https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=social" alt="GitHub"></a>
+<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 164 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank">scientific-agent-skills</a>&nbsp;<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 164 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank"><img src="https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/openai/codex" title="Lightweight coding agent that runs in your terminal" target="_blank">codex</a>&nbsp;<a href="https://github.com/openai/codex" title="Lightweight coding agent that runs in your terminal" target="_blank"><img src="https://img.shields.io/github/stars/openai/codex?style=social" alt="GitHub"></a>
@@ -331,7 +331,7 @@ de code d'environ cinq cadratins vers la droite.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 10 Sep 2026 17:09:14 GMT</small>
+<small>⏰ Updated on Fri, 11 Sep 2026 17:10:40 GMT</small>
 </td>
 </tr>
 </tfoot>
