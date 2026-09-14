@@ -35,7 +35,7 @@
 <a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank">block-finder</a>&nbsp;<a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank"><img src="https://img.shields.io/github/stars/troychaplin/block-finder?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 164 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank">scientific-agent-skills</a>&nbsp;<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 164 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank"><img src="https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=social" alt="GitHub"></a>
+<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank">scientific-agent-skills</a>&nbsp;<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank"><img src="https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/openai/codex" title="Lightweight coding agent that runs in your terminal" target="_blank">codex</a>&nbsp;<a href="https://github.com/openai/codex" title="Lightweight coding agent that runs in your terminal" target="_blank"><img src="https://img.shields.io/github/stars/openai/codex?style=social" alt="GitHub"></a>
@@ -102,6 +102,16 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/aa1c370b7ef7eaa39c5ebd84a7b30db2c986f5d0" title="2026-09-14T11:30:22.000+02:00" target="_blank">aa1c370b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
+          <pre>[fix] Bump wp-{nginx,php} image version
+
+Quay only returns the 100 most recent image tags when retrieving
+available versions. Bump the images to a newer version so the currently
+used tags remain within that window and are not incorrectly resolved to
+older versions.</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/Linux-LEIT/commits/397b34812e8d41ce7317a1a552a8e0e9833df142" title="2026-09-09T16:53:53.000+02:00" target="_blank">397b3481</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Linux-LEIT" title="Linux@LEIT">/Linux-LEIT</a></strong></div>
           <pre>[doc] Signaler que le dépôt a été vibe-codé
@@ -304,34 +314,11 @@ nombre de diapositives écrites.
 Le script sort en erreur dès qu'une diapositive déborde : il est donc
 utilisable en intégration continue.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Linux-LEIT/commits/5d044a643db664ae6b547a7770de4fd0908a6a25" title="2026-09-09T16:42:16.000+02:00" target="_blank">5d044a64</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Linux-LEIT" title="Linux@LEIT">/Linux-LEIT</a></strong></div>
-          <pre>[feature] Ajouter l'habillage EPFL des présentations
-
-assets/css/epfl.css se superpose au thème « white » de reveal.js :
-
-- couleurs de la charte EPFL déclarées en propriétés personnalisées,
-  avec des combinaisons conformes au contraste WCAG 2.1 AA — le
-  Groseille est préféré au rouge vif pour les titres sur fond blanc ;
-- titres en casse normale, soulignés d'un filet rouge ;
-- taille de base ramenée de 42 à 30 px, afin de tenir davantage de
-  contenu sur une diapositive de 1280x720 sans déborder ;
-- encadrés .note, .tip, .warning et .danger, tableaux et disposition
-  en deux colonnes ;
-- blocs « console » sur fond sombre, visuellement distincts des blocs
-  de code colorés.
-
-Le bloc @media print neutralise l'indentation suspendue que pandoc
-applique aux lignes de code colorées (text-indent de -5em compensé par
-un padding-left de 5em) : à l'export PDF, elle décalait tous les blocs
-de code d'environ cinq cadratins vers la droite.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 11 Sep 2026 17:10:40 GMT</small>
+<small>⏰ Updated on Mon, 14 Sep 2026 18:51:11 GMT</small>
 </td>
 </tr>
 </tfoot>
