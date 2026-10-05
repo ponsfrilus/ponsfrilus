@@ -318,7 +318,7 @@ utilisable en intégration continue.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 02 Oct 2026 18:39:57 GMT</small>
+<small>⏰ Updated on Mon, 05 Oct 2026 21:18:13 GMT</small>
 </td>
 </tr>
 </tfoot>
