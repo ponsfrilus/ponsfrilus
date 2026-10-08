@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/bfc84016c18430ce34c84135306972a2965963e4" title="2026-10-08T16:56:44.000+02:00" target="_blank">bfc84016</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Mastodon Env Vars</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/c87d20f398b938f639ce03e35c683f1cb5732b9d" title="2026-10-08T16:56:08.000+02:00" target="_blank">c87d20f3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[bump] to version 4.6.9</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/aa1c370b7ef7eaa39c5ebd84a7b30db2c986f5d0" title="2026-09-14T11:30:22.000+02:00" target="_blank">aa1c370b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
           <pre>[fix] Bump wp-{nginx,php} image version
 
@@ -274,51 +284,11 @@ la confusion la plus fréquente chez les débutants.
 Les notes du présentateur sont incluses dans les sources et restent
 invisibles à l'écran comme dans le PDF.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Linux-LEIT/commits/ba73319bfc4278a319fb96eafd28801f2c78d7f8" title="2026-09-09T16:42:31.000+02:00" target="_blank">ba73319b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Linux-LEIT" title="Linux@LEIT">/Linux-LEIT</a></strong></div>
-          <pre>[feature] Ajouter la génération des supports A4
-
-scripts/handout.sh convertit les documents de travail — consignes,
-exercices, corrigé et aide-mémoire — en PDF A4 au moyen de pandoc et
-de XeLaTeX, avec table des matières et sections numérotées.
-
-La police à chasse fixe utilisée par défaut en LaTeX, Latin Modern
-Mono, ne contient pas les caractères de dessin de tableaux U+2500 et
-suivants employés par les schémas de permissions du cours ; XeLaTeX
-émet alors un avertissement « Missing character » et les schémas sont
-tronqués. Le script impose donc DejaVu Sans Mono, surchargeable par la
-variable MONOFONT.
-
-En l'absence de XeLaTeX, le script produit un HTML autonome plutôt que
-d'échouer.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Linux-LEIT/commits/8613b513686a7943d78ae0d4ed1d02d7925ca1b7" title="2026-09-09T16:42:30.000+02:00" target="_blank">8613b513</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Linux-LEIT" title="Linux@LEIT">/Linux-LEIT</a></strong></div>
-          <pre>[feature] Ajouter le contrôle de débordement des diapositives
-
-Une diapositive trop chargée n'est pas tronquée par reveal.js : son
-contenu est réparti sur plusieurs pages du PDF. Le défaut passe
-inaperçu tant que l'on ne compare pas le nombre de pages obtenu au
-nombre de diapositives écrites.
-
-- assets/overflow-audit.html : à la fin de la mise en page
-  d'impression (événement pdf-ready), compare la hauteur de chaque
-  élément .pdf-page à celle d'une page et consigne le résultat dans un
-  attribut du <body> ;
-- scripts/check-overflow.sh : construit la présentation avec cet
-  ajout, relit l'attribut au moyen de --dump-dom et liste les
-  diapositives fautives avec leur titre et leur taux de dépassement.
-
-Le script sort en erreur dès qu'une diapositive déborde : il est donc
-utilisable en intégration continue.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 07 Oct 2026 19:30:27 GMT</small>
+<small>⏰ Updated on Thu, 08 Oct 2026 19:24:44 GMT</small>
 </td>
 </tr>
 </tfoot>
