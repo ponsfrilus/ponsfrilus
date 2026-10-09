@@ -103,6 +103,43 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ad5ee8d6e8ef59df3d874a53b00a054e0976a84a" title="2026-10-09T00:00:14.000+02:00" target="_blank">ad5ee8d6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Monitoring
+
+Attempt to use build-in monitoring instead of adhoc.rb script.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/64228c5e4d59e435782fe97bce1c5a11dbac3bf1" title="2026-10-08T23:09:10.000+02:00" target="_blank">64228c5e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[doc] Announcements</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/802964c471b2fd074aa8caf014b178dfb5a86fd3" title="2026-10-08T23:08:53.000+02:00" target="_blank">802964c4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[bump] to version 4.7.3</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ae1d8f7144dfc786d46b615aa70594cff61bc3c6" title="2026-10-08T18:26:59.000+02:00" target="_blank">ae1d8f71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Recursively change perms take forever</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/af655dc95a6e58feee78b1ffecacdebb956eed70" title="2026-10-08T18:23:06.000+02:00" target="_blank">af655dc9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] mastodon-sidekiq's healthcheck</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6df0bfca8623dccb4074454bbceae84292dfb8e1" title="2026-10-08T18:22:32.000+02:00" target="_blank">6df0bfca</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[bump] Traefik to v3.7</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/432afa4d19eff01f663032166d396fe78e8b98e5" title="2026-10-08T17:00:00.000+02:00" target="_blank">432afa4d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] tar cmd</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/bfc84016c18430ce34c84135306972a2965963e4" title="2026-10-08T16:56:44.000+02:00" target="_blank">bfc84016</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] Mastodon Env Vars</pre>
         </td>
@@ -121,174 +158,11 @@ available versions. Bump the images to a newer version so the currently
 used tags remain within that window and are not incorrectly resolved to
 older versions.</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Linux-LEIT/commits/397b34812e8d41ce7317a1a552a8e0e9833df142" title="2026-09-09T16:53:53.000+02:00" target="_blank">397b3481</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Linux-LEIT" title="Linux@LEIT">/Linux-LEIT</a></strong></div>
-          <pre>[doc] Signaler que le dépôt a été vibe-codé
-
-Ajoute un encadré en tête du README indiquant que l'intégralité du
-dépôt — contenu des trois parties, chaîne de génération, scripts,
-thème et documentation — a été produite par un agent conversationnel
-à partir d'une consigne en langage naturel.
-
-La mention précise ce qui a réellement été vérifié : faits historiques
-et techniques recoupés, commandes exécutées, PDF contrôlés. Elle
-rappelle néanmoins que la relecture pédagogique incombe à l'humain qui
-enseignera ce cours.
-
-Cette transparence est attendue de la part des étudiant·e·s dans les
-consignes de la partie 2, où l'usage d'une IA générative doit être
-déclaré et chaque fait vérifié auprès d'une source officielle. Le
-dépôt s'applique donc à lui-même la règle qu'il impose.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Linux-LEIT/commits/62f5d9b5cf7ab120d05776651733b74acd89e110" title="2026-09-09T16:43:24.000+02:00" target="_blank">62f5d9b5</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Linux-LEIT" title="Linux@LEIT">/Linux-LEIT</a></strong></div>
-          <pre>[doc] Ajouter le README et le CHANGELOG
-
-- README.md : présentation des trois parties du cours, prérequis et
-  ligne d'installation pour Debian ou Ubuntu, démarrage rapide,
-  utilisation du Makefile, raccourcis utiles pendant une présentation,
-  syntaxe d'écriture des diapositives et détails techniques ;
-- CHANGELOG.md : version 1.0.0, au format Keep a Changelog.
-
-La section « Détails techniques » consigne les trois contournements
-mis en place, afin qu'ils ne soient pas défaits par inadvertance : le
-correctif de requestAnimationFrame pour la vue d'impression de
-reveal.js, la neutralisation de l'indentation suspendue appliquée par
-pandoc aux blocs de code, et le choix de DejaVu Sans Mono pour les
-supports A4.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Linux-LEIT/commits/7d1a83225379288b711a1c9bd6885ba34bcd29fc" title="2026-09-09T16:43:23.000+02:00" target="_blank">7d1a8322</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Linux-LEIT" title="Linux@LEIT">/Linux-LEIT</a></strong></div>
-          <pre>[feature] Ajouter le Makefile d'orchestration
-
-Assemble les scripts de génération et les sources des trois parties du
-cours en une interface unique.
-
-Cibles disponibles : deps, slides, pdf, handouts, check, watch, up,
-down, test, clean et distclean. L'aide auto-documentée est la cible
-par défaut, de sorte qu'un « make » sans argument ne construit rien.
-
-Toutes les variables sont surchargeables depuis la ligne de commande,
-par exemple « make pdf THEME=black OUTDIR=/tmp/cours » ou « make up
-PORT=9000 ». La cible test vérifie la présence de pandoc, d'un
-navigateur Chromium, de XeLaTeX et de reveal.js, et liste la valeur
-effective de chaque variable ; elle sert de premier diagnostic quand
-une construction échoue.
-
-La cible check enchaîne le contrôle de débordement sur les trois
-présentations et refuse de réussir tant qu'une diapositive déborde.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Linux-LEIT/commits/0268bd0313da22553dacecbd564d0b99a15a2273" title="2026-09-09T16:43:08.000+02:00" target="_blank">0268bd03</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Linux-LEIT" title="Linux@LEIT">/Linux-LEIT</a></strong></div>
-          <pre>[feature] Ajouter les exercices et le corrigé de la partie 3
-
-- exercices.md : huit séries progressives et un défi final, tous
-  fondés sur le bac à sable créé par preparer-atelier.sh, ce qui rend
-  les énoncés et les réponses reproductibles d'une classe à l'autre ;
-- corriges.md : commandes attendues et sorties réelles, vérifiées sur
-  le bac à sable, suivies des erreurs fréquemment observées.
-
-La deuxième série est consacrée à la lecture de ls -l et reprend les
-points traités dans la présentation, dont le piège classique : le
-droit w sur un fichier n'autorise pas sa suppression, qui dépend des
-droits du répertoire qui le contient.
-
-Le corrigé accepte explicitement toute variante correcte que
-l'apprenti·e sait expliquer, et signale les points à valoriser lors de
-la correction du défi final.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Linux-LEIT/commits/24ec4f244223152c00bce3c7b4858d74f641c199" title="2026-09-09T16:43:07.000+02:00" target="_blank">24ec4f24</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Linux-LEIT" title="Linux@LEIT">/Linux-LEIT</a></strong></div>
-          <pre>[feature] Ajouter la partie 3 : atelier ligne de commande
-
-Présentation de 57 diapositives, accompagnée d'un aide-mémoire
-imprimable et du script qui prépare l'environnement d'exercice.
-
-Le cœur de la séance est la lecture complète de la sortie de ls -l :
-les sept colonnes, le caractère de type, les neuf caractères de
-permissions, le sens différent de r, w et x sur un fichier et sur un
-répertoire, la notation octale, les bits setuid, setgid et sticky, le
-onzième caractère signalant une ACL ou un contexte SELinux, le
-compteur de liens physiques, la taille, la règle des six mois qui
-remplace l'heure par l'année, et la signification de la ligne
-« total ».
-
-Le reste de la présentation couvre le terminal et l'invite, la
-navigation et le FHS, la manipulation de fichiers, la recherche, la
-lecture du manuel, les tubes et redirections, les droits et les
-processus, puis les pièges classiques.
-
-preparer-atelier.sh crée le bac à sable ~/atelier-linux sur lequel
-reposent les exercices : droits variés dont un fichier en lecture
-seule, liens symboliques valide et cassé, fichiers cachés, dates
-antérieures à six mois pour illustrer l'affichage de l'année, et un
-nom de fichier contenant une espace. Le script ne demande aucun droit
-d'administrateur et sait se défaire avec --supprimer.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Linux-LEIT/commits/fc8e2c11675707f6fd10285432c6b3620f380905" title="2026-09-09T16:42:49.000+02:00" target="_blank">fc8e2c11</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Linux-LEIT" title="Linux@LEIT">/Linux-LEIT</a></strong></div>
-          <pre>[feature] Ajouter la partie 2 : présenter une distribution
-
-Exercice dans lequel les étudiant·e·s choisissent une distribution,
-l'installent, l'essaient, puis la présentent en dix minutes.
-
-- consignes.md : objectifs, organisation, liste de distributions
-  proposées par famille, contenu attendu, obligation de citer trois
-  sources datées, mode d'emploi de la chaîne de génération et barème
-  sur 20 points ;
-- modele-presentation.md : modèle de 27 diapositives à compléter, dont
-  le mode d'emploi est rédigé en commentaires HTML au début du fichier
-  et n'apparaît donc pas dans le résultat produit ;
-- rendus/ : répertoire de dépôt des travaux.
-
-La preuve d'un essai réel — capture d'écran personnelle et sortie de
-commandes exécutées sur la distribution — est notée séparément, afin
-d'écarter les présentations recopiées du site officiel.
-
-Le modèle sert aussi d'exemple d'utilisation des encadrés, des notes
-du présentateur et de la disposition en deux colonnes.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/Linux-LEIT/commits/c37781c248f29dea14428255c7d2ad3eafa3c188" title="2026-09-09T16:42:48.000+02:00" target="_blank">c37781c2</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/Linux-LEIT" title="Linux@LEIT">/Linux-LEIT</a></strong></div>
-          <pre>[feature] Ajouter la partie 1 : introduction à Linux
-
-Présentation magistrale de 57 diapositives, prévue pour 90 minutes :
-
-- histoire : Unix en 1969, le projet GNU en 1983, le message de Linus
-  Torvalds du 25 août 1991 sur comp.os.minix, le passage sous GPL en
-  1992, puis les jalons jusqu'au noyau actuel ;
-- où l'on trouve Linux : TOP500, cloud, Android, embarqué, poste de
-  travail, et pourquoi sa part y reste faible ;
-- comparaison avec Windows, macOS et les BSD, ainsi que le cas
-  d'Android, fondé sur le noyau mais sans espace utilisateur GNU ;
-- avantages, limites, et réponses concrètes à ces limites ;
-- anatomie du système en couches : noyau (espace noyau et espace
-  utilisateur, appels système, modules), shell, serveur d'affichage
-  X11 ou Wayland, gestionnaire de fenêtres, environnement de bureau,
-  système d'initialisation et gestionnaire de paquets ;
-- distributions : grandes familles, rythmes de publication, critères
-  de choix ;
-- licences libres, quiz de révision et annonce des parties 2 et 3.
-
-La distinction entre serveur d'affichage, gestionnaire de fenêtres et
-environnement de bureau fait l'objet d'une diapositive dédiée : c'est
-la confusion la plus fréquente chez les débutants.
-
-Les notes du présentateur sont incluses dans les sources et restent
-invisibles à l'écran comme dans le PDF.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 08 Oct 2026 19:24:44 GMT</small>
+<small>⏰ Updated on Fri, 09 Oct 2026 18:58:04 GMT</small>
 </td>
 </tr>
 </tfoot>
