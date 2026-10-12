@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust" target="_blank">pdfcraft</a>&nbsp;<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/pdfcraft?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/JustVugg/colibri" title="Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦" target="_blank">colibri</a>&nbsp;<a href="https://github.com/JustVugg/colibri" title="Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦" target="_blank"><img src="https://img.shields.io/github/stars/JustVugg/colibri?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank">herding-cats</a>&nbsp;<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank"><img src="https://img.shields.io/github/stars/Apress/herding-cats?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank">Agora</a>&nbsp;<a href="https://github.com/ThomNardou/Agora" title="Plateforme de diffusion de newsletters par  relais asyncrones, avec conformité légale et statistiques de suivi." target="_blank"><img src="https://img.shields.io/github/stars/ThomNardou/Agora?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/storytold/photocraft" title="PhotoCraft: An open-source, photo editor written by scratch in pure Rust" target="_blank">photocraft</a>&nbsp;<a href="https://github.com/storytold/photocraft" title="PhotoCraft: An open-source, photo editor written by scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/photocraft?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank">block-finder</a>&nbsp;<a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank"><img src="https://img.shields.io/github/stars/troychaplin/block-finder?style=social" alt="GitHub"></a>
 </li>
@@ -81,7 +84,7 @@
 <a href="https://github.com/kuvasz-uptime/kuvasz" title="Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!" target="_blank">kuvasz</a>&nbsp;<a href="https://github.com/kuvasz-uptime/kuvasz" title="Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!" target="_blank"><img src="https://img.shields.io/github/stars/kuvasz-uptime/kuvasz?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret sharing. End-to-end encrypted, self-hosted, open source." target="_blank">1time.io</a>&nbsp;<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret sharing. End-to-end encrypted, self-hosted, open source." target="_blank"><img src="https://img.shields.io/github/stars/shingrus/1time.io?style=social" alt="GitHub"></a>
+<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret and file sharing. End-to-end encrypted, self-hosted, open source." target="_blank">1time.io</a>&nbsp;<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret and file sharing. End-to-end encrypted, self-hosted, open source." target="_blank"><img src="https://img.shields.io/github/stars/shingrus/1time.io?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank">BMAD-METHOD</a>&nbsp;<a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank"><img src="https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=social" alt="GitHub"></a>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank">gstack</a>&nbsp;<a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank"><img src="https://img.shields.io/github/stars/garrytan/gstack?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/mikefarah/yq" title="yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor" target="_blank">yq</a>&nbsp;<a href="https://github.com/mikefarah/yq" title="yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor" target="_blank"><img src="https://img.shields.io/github/stars/mikefarah/yq?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,13 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/4b9c8b289c558ae9a1b35d9af8aab93c27c95e2e" title="2026-10-12T11:15:15.000+02:00" target="_blank">4b9c8b28</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[feature] GitLab alerts in their own chat
+
+📢 GitLab@EPFL Alerts</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ad5ee8d6e8ef59df3d874a53b00a054e0976a84a" title="2026-10-09T00:00:14.000+02:00" target="_blank">ad5ee8d6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] Monitoring
@@ -148,21 +155,11 @@ Attempt to use build-in monitoring instead of adhoc.rb script.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/c87d20f398b938f639ce03e35c683f1cb5732b9d" title="2026-10-08T16:56:08.000+02:00" target="_blank">c87d20f3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[bump] to version 4.6.9</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/wp-dev/commits/aa1c370b7ef7eaa39c5ebd84a7b30db2c986f5d0" title="2026-09-14T11:30:22.000+02:00" target="_blank">aa1c370b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/wp-dev" title="Development environment for the EPFL VPSI WordPress service">/wp-dev</a></strong></div>
-          <pre>[fix] Bump wp-{nginx,php} image version
-
-Quay only returns the 100 most recent image tags when retrieving
-available versions. Bump the images to a newer version so the currently
-used tags remain within that window and are not incorrectly resolved to
-older versions.</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 09 Oct 2026 18:58:04 GMT</small>
+<small>⏰ Updated on Mon, 12 Oct 2026 21:50:57 GMT</small>
 </td>
 </tr>
 </tfoot>
