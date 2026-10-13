@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/shaongitbd/doory" title="Open source canva alternative" target="_blank">doory</a>&nbsp;<a href="https://github.com/shaongitbd/doory" title="Open source canva alternative" target="_blank"><img src="https://img.shields.io/github/stars/shaongitbd/doory?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/storytold/photocraft" title="PhotoCraft: An open-source, photo editor written by scratch in pure Rust" target="_blank">photocraft</a>&nbsp;<a href="https://github.com/storytold/photocraft" title="PhotoCraft: An open-source, photo editor written by scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/photocraft?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank">block-finder</a>&nbsp;<a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank"><img src="https://img.shields.io/github/stars/troychaplin/block-finder?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank">scientific-agent-skills</a>&nbsp;<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank"><img src="https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/openai/codex" title="Lightweight coding agent that runs in your terminal" target="_blank">codex</a>&nbsp;<a href="https://github.com/openai/codex" title="Lightweight coding agent that runs in your terminal" target="_blank"><img src="https://img.shields.io/github/stars/openai/codex?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/wp-controller" title="null" target="_blank">wp-controller</a>&nbsp;<a href="https://github.com/epfl-si/wp-controller" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-controller?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kuvasz-uptime/kuvasz" title="Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!" target="_blank">kuvasz</a>&nbsp;<a href="https://github.com/kuvasz-uptime/kuvasz" title="Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!" target="_blank"><img src="https://img.shields.io/github/stars/kuvasz-uptime/kuvasz?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret and file sharing. End-to-end encrypted, self-hosted, open source." target="_blank">1time.io</a>&nbsp;<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret and file sharing. End-to-end encrypted, self-hosted, open source." target="_blank"><img src="https://img.shields.io/github/stars/shingrus/1time.io?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank">BMAD-METHOD</a>&nbsp;<a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank"><img src="https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/gi-dellav/zerostack" title="Lightweight coding agent written in Rust, optimized for memory footprint and performance" target="_blank">zerostack</a>&nbsp;<a href="https://github.com/gi-dellav/zerostack" title="Lightweight coding agent written in Rust, optimized for memory footprint and performance" target="_blank"><img src="https://img.shields.io/github/stars/gi-dellav/zerostack?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust" target="_blank">pdfcraft</a>&nbsp;<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/pdfcraft?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank">herding-cats</a>&nbsp;<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank"><img src="https://img.shields.io/github/stars/Apress/herding-cats?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/storytold/photocraft" title="PhotoCraft: An open-source, photo editor written by scratch in pure Rust" target="_blank">photocraft</a>&nbsp;<a href="https://github.com/storytold/photocraft" title="PhotoCraft: An open-source, photo editor written by scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/photocraft?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank">block-finder</a>&nbsp;<a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank"><img src="https://img.shields.io/github/stars/troychaplin/block-finder?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank">scientific-agent-skills</a>&nbsp;<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank"><img src="https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/openai/codex" title="Lightweight coding agent that runs in your terminal" target="_blank">codex</a>&nbsp;<a href="https://github.com/openai/codex" title="Lightweight coding agent that runs in your terminal" target="_blank"><img src="https://img.shields.io/github/stars/openai/codex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/wp-controller" title="null" target="_blank">wp-controller</a>&nbsp;<a href="https://github.com/epfl-si/wp-controller" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-controller?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kuvasz-uptime/kuvasz" title="Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!" target="_blank">kuvasz</a>&nbsp;<a href="https://github.com/kuvasz-uptime/kuvasz" title="Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!" target="_blank"><img src="https://img.shields.io/github/stars/kuvasz-uptime/kuvasz?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret and file sharing. End-to-end encrypted, self-hosted, open source." target="_blank">1time.io</a>&nbsp;<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret and file sharing. End-to-end encrypted, self-hosted, open source." target="_blank"><img src="https://img.shields.io/github/stars/shingrus/1time.io?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank">BMAD-METHOD</a>&nbsp;<a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank"><img src="https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/gi-dellav/zerostack" title="Lightweight coding agent written in Rust, optimized for memory footprint and performance" target="_blank">zerostack</a>&nbsp;<a href="https://github.com/gi-dellav/zerostack" title="Lightweight coding agent written in Rust, optimized for memory footprint and performance" target="_blank"><img src="https://img.shields.io/github/stars/gi-dellav/zerostack?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank">gstack</a>&nbsp;<a href="https://github.com/garrytan/gstack" title="Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA" target="_blank"><img src="https://img.shields.io/github/stars/garrytan/gstack?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -159,7 +159,7 @@ Attempt to use build-in monitoring instead of adhoc.rb script.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 12 Oct 2026 21:50:57 GMT</small>
+<small>⏰ Updated on Tue, 13 Oct 2026 19:56:52 GMT</small>
 </td>
 </tr>
 </tfoot>
