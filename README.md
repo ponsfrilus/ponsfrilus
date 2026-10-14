@@ -103,6 +103,16 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop/commits/b5749ea75dea777cf208d401a59f441e86f0b138" title="2026-10-14T14:48:37.000+02:00" target="_blank">b5749ea7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees">/ticketshop</a></strong></div>
+          <pre>[doc] README</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop/commits/207e713ee030bd6ae5b0cd608cd8f775736ed2d7" title="2026-10-14T14:40:16.000+02:00" target="_blank">207e713e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees">/ticketshop</a></strong></div>
+          <pre>[doc] CHANGELOG.md added</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/4b9c8b289c558ae9a1b35d9af8aab93c27c95e2e" title="2026-10-12T11:15:15.000+02:00" target="_blank">4b9c8b28</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[feature] GitLab alerts in their own chat
 
@@ -145,21 +155,11 @@ Attempt to use build-in monitoring instead of adhoc.rb script.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/432afa4d19eff01f663032166d396fe78e8b98e5" title="2026-10-08T17:00:00.000+02:00" target="_blank">432afa4d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] tar cmd</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/bfc84016c18430ce34c84135306972a2965963e4" title="2026-10-08T16:56:44.000+02:00" target="_blank">bfc84016</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Mastodon Env Vars</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/c87d20f398b938f639ce03e35c683f1cb5732b9d" title="2026-10-08T16:56:08.000+02:00" target="_blank">c87d20f3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[bump] to version 4.6.9</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 13 Oct 2026 19:56:52 GMT</small>
+<small>⏰ Updated on Wed, 14 Oct 2026 18:08:57 GMT</small>
 </td>
 </tr>
 </tfoot>
