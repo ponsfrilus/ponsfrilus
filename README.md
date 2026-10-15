@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/TecharoHQ/anubis" title="Weighs the soul of incoming HTTP requests to stop AI crawlers" target="_blank">anubis</a>&nbsp;<a href="https://github.com/TecharoHQ/anubis" title="Weighs the soul of incoming HTTP requests to stop AI crawlers" target="_blank"><img src="https://img.shields.io/github/stars/TecharoHQ/anubis?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust" target="_blank">pdfcraft</a>&nbsp;<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/pdfcraft?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/JustVugg/colibri" title="Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦" target="_blank">colibri</a>&nbsp;<a href="https://github.com/JustVugg/colibri" title="Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦" target="_blank"><img src="https://img.shields.io/github/stars/JustVugg/colibri?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bradAGI/awesome-cli-coding-agents" title="Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. " target="_blank">awesome-cli-coding-agents</a>&nbsp;<a href="https://github.com/bradAGI/awesome-cli-coding-agents" title="Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. " target="_blank"><img src="https://img.shields.io/github/stars/bradAGI/awesome-cli-coding-agents?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/anthropics/skills" title="Public repository for Agent Skills" target="_blank">skills</a>&nbsp;<a href="https://github.com/anthropics/skills" title="Public repository for Agent Skills" target="_blank"><img src="https://img.shields.io/github/stars/anthropics/skills?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank">chatto</a>&nbsp;<a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank"><img src="https://img.shields.io/github/stars/chattocorp/chatto?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank">claude-design-system-prompt</a>&nbsp;<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank"><img src="https://img.shields.io/github/stars/Trystan-SA/claude-design-system-prompt?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank">osv-scanner</a>&nbsp;<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank"><img src="https://img.shields.io/github/stars/google/osv-scanner?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank">awesome-privacy</a>&nbsp;<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank"><img src="https://img.shields.io/github/stars/lissy93/awesome-privacy?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/shaongitbd/doory" title="Open source canva alternative" target="_blank">doory</a>&nbsp;<a href="https://github.com/shaongitbd/doory" title="Open source canva alternative" target="_blank"><img src="https://img.shields.io/github/stars/shaongitbd/doory?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/gi-dellav/zerostack" title="Lightweight coding agent written in Rust, optimized for memory footprint and performance" target="_blank">zerostack</a>&nbsp;<a href="https://github.com/gi-dellav/zerostack" title="Lightweight coding agent written in Rust, optimized for memory footprint and performance" target="_blank"><img src="https://img.shields.io/github/stars/gi-dellav/zerostack?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust" target="_blank">pdfcraft</a>&nbsp;<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/pdfcraft?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/JustVugg/colibri" title="Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦" target="_blank">colibri</a>&nbsp;<a href="https://github.com/JustVugg/colibri" title="Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦" target="_blank"><img src="https://img.shields.io/github/stars/JustVugg/colibri?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bradAGI/awesome-cli-coding-agents" title="Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. " target="_blank">awesome-cli-coding-agents</a>&nbsp;<a href="https://github.com/bradAGI/awesome-cli-coding-agents" title="Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. " target="_blank"><img src="https://img.shields.io/github/stars/bradAGI/awesome-cli-coding-agents?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/anthropics/skills" title="Public repository for Agent Skills" target="_blank">skills</a>&nbsp;<a href="https://github.com/anthropics/skills" title="Public repository for Agent Skills" target="_blank"><img src="https://img.shields.io/github/stars/anthropics/skills?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank">chatto</a>&nbsp;<a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank"><img src="https://img.shields.io/github/stars/chattocorp/chatto?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank">claude-design-system-prompt</a>&nbsp;<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank"><img src="https://img.shields.io/github/stars/Trystan-SA/claude-design-system-prompt?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank">osv-scanner</a>&nbsp;<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank"><img src="https://img.shields.io/github/stars/google/osv-scanner?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank">awesome-privacy</a>&nbsp;<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank"><img src="https://img.shields.io/github/stars/lissy93/awesome-privacy?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank">herding-cats</a>&nbsp;<a href="https://github.com/Apress/herding-cats" title="Source code for 'Herding Cats' by Hank Rainwater" target="_blank"><img src="https://img.shields.io/github/stars/Apress/herding-cats?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -159,7 +159,7 @@ Attempt to use build-in monitoring instead of adhoc.rb script.</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Wed, 14 Oct 2026 18:08:57 GMT</small>
+<small>⏰ Updated on Thu, 15 Oct 2026 17:51:50 GMT</small>
 </td>
 </tr>
 </tfoot>
