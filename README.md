@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/625757b52bab53ae22a77dc7259d344d9ae3c47d" title="2026-10-19T17:52:49.000+02:00" target="_blank">625757b5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Monitoring</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/indico.ops/commits/f7032fbaf81f1a1fc2653e0b1418943bf887d32b" title="2026-10-16T14:23:01.000+02:00" target="_blank">f7032fba</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/indico.ops" title="Code to deploy Indico on EPFL's OpenShift">/indico.ops</a></strong></div>
           <pre>Initial commit</pre>
         </td>
@@ -150,16 +155,11 @@ Attempt to use build-in monitoring instead of adhoc.rb script.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/af655dc95a6e58feee78b1ffecacdebb956eed70" title="2026-10-08T18:23:06.000+02:00" target="_blank">af655dc9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] mastodon-sidekiq's healthcheck</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6df0bfca8623dccb4074454bbceae84292dfb8e1" title="2026-10-08T18:22:32.000+02:00" target="_blank">6df0bfca</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[bump] Traefik to v3.7</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 16 Oct 2026 17:40:42 GMT</small>
+<small>⏰ Updated on Mon, 19 Oct 2026 19:27:18 GMT</small>
 </td>
 </tr>
 </tfoot>
