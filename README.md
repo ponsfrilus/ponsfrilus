@@ -103,6 +103,15 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/press-release/commits/e1cda7c3fdaec6b53e1af7ab2f90bef64a76bd32" title="2026-10-20T13:54:44.000+02:00" target="_blank">e1cda7c3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/press-release" title="Revue de presse">/press-release</a></strong></div>
+          <pre>Add webanalytics.epfl.ch (#687)
+
+This add the Umami script from webanalytics.epfl.ch
+
+Close: #688</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/625757b52bab53ae22a77dc7259d344d9ae3c47d" title="2026-10-19T17:52:49.000+02:00" target="_blank">625757b5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] Monitoring</pre>
         </td>
@@ -150,16 +159,11 @@ Attempt to use build-in monitoring instead of adhoc.rb script.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ae1d8f7144dfc786d46b615aa70594cff61bc3c6" title="2026-10-08T18:26:59.000+02:00" target="_blank">ae1d8f71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[fix] Recursively change perms take forever</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/af655dc95a6e58feee78b1ffecacdebb956eed70" title="2026-10-08T18:23:06.000+02:00" target="_blank">af655dc9</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] mastodon-sidekiq's healthcheck</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 19 Oct 2026 19:27:18 GMT</small>
+<small>⏰ Updated on Tue, 20 Oct 2026 18:05:25 GMT</small>
 </td>
 </tr>
 </tfoot>
