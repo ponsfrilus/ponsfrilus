@@ -103,6 +103,15 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/memento/commits/ffd2420a6f98e2e36537cc5bcd0a9893b3c5f4d5" title="2026-10-21T08:45:58.000+02:00" target="_blank">ffd2420a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/memento" title="Memento">/memento</a></strong></div>
+          <pre>Add webanalytics.epfl.ch (#1225)
+
+This add the Umami script from webanalytics.epfl.ch
+
+Close: #1226</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/press-release/commits/e1cda7c3fdaec6b53e1af7ab2f90bef64a76bd32" title="2026-10-20T13:54:44.000+02:00" target="_blank">e1cda7c3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/press-release" title="Revue de presse">/press-release</a></strong></div>
           <pre>Add webanalytics.epfl.ch (#687)
 
@@ -154,16 +163,11 @@ Attempt to use build-in monitoring instead of adhoc.rb script.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/802964c471b2fd074aa8caf014b178dfb5a86fd3" title="2026-10-08T23:08:53.000+02:00" target="_blank">802964c4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[bump] to version 4.7.3</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ae1d8f7144dfc786d46b615aa70594cff61bc3c6" title="2026-10-08T18:26:59.000+02:00" target="_blank">ae1d8f71</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Recursively change perms take forever</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 20 Oct 2026 18:05:25 GMT</small>
+<small>⏰ Updated on Wed, 21 Oct 2026 18:14:27 GMT</small>
 </td>
 </tr>
 </tfoot>
