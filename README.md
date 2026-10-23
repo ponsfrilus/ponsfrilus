@@ -103,6 +103,15 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/homepage-archiveweb.epfl.ch/commits/f6b28ee081f161fe765828dd72278ba12a51b5b8" title="2026-10-23T17:32:28.000+02:00" target="_blank">f6b28ee0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/homepage-archiveweb.epfl.ch" title="EPFL homepage of archiveweb.epfl.ch - list all archived web sites">/homepage-archiveweb.epfl.ch</a></strong></div>
+          <pre>Add webanalytics.epfl.ch (#290)
+
+This add the Umami script from webanalytics.epfl.ch
+
+Close: #291</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/memento/commits/ffd2420a6f98e2e36537cc5bcd0a9893b3c5f4d5" title="2026-10-21T08:45:58.000+02:00" target="_blank">ffd2420a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/memento" title="Memento">/memento</a></strong></div>
           <pre>Add webanalytics.epfl.ch (#1225)
 
@@ -158,16 +167,11 @@ Attempt to use build-in monitoring instead of adhoc.rb script.</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/64228c5e4d59e435782fe97bce1c5a11dbac3bf1" title="2026-10-08T23:09:10.000+02:00" target="_blank">64228c5e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[doc] Announcements</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/802964c471b2fd074aa8caf014b178dfb5a86fd3" title="2026-10-08T23:08:53.000+02:00" target="_blank">802964c4</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[bump] to version 4.7.3</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 22 Oct 2026 18:08:47 GMT</small>
+<small>⏰ Updated on Fri, 23 Oct 2026 17:56:46 GMT</small>
 </td>
 </tr>
 </tfoot>
