@@ -32,6 +32,9 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/addyosmani/agent-skills" title="Production-grade engineering skills for AI coding agents." target="_blank">agent-skills</a>&nbsp;<a href="https://github.com/addyosmani/agent-skills" title="Production-grade engineering skills for AI coding agents." target="_blank"><img src="https://img.shields.io/github/stars/addyosmani/agent-skills?style=social" alt="GitHub"></a>
+</li>
+<li>
 <a href="https://github.com/tinyhumansai/openscion" title="OpenScion is an open-source, server-centric source control system for very large monorepos where most clients are AI agents and CI jobs rather than people on laptops. Based on Anthropic's Scion" target="_blank">openscion</a>&nbsp;<a href="https://github.com/tinyhumansai/openscion" title="OpenScion is an open-source, server-centric source control system for very large monorepos where most clients are AI agents and CI jobs rather than people on laptops. Based on Anthropic's Scion" target="_blank"><img src="https://img.shields.io/github/stars/tinyhumansai/openscion?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -58,13 +61,13 @@
 <li>
 <a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret and file sharing. End-to-end encrypted, self-hosted, open source." target="_blank">1time.io</a>&nbsp;<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret and file sharing. End-to-end encrypted, self-hosted, open source." target="_blank"><img src="https://img.shields.io/github/stars/shingrus/1time.io?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank">BMAD-METHOD</a>&nbsp;<a href="https://github.com/bmad-code-org/BMAD-METHOD" title="Breakthrough Method for Agile Ai Driven Development" target="_blank"><img src="https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 <td valign="top">
 <ul>
+<li>
+<a href="https://github.com/affaan-m/ECC" title="The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond." target="_blank">ECC</a>&nbsp;<a href="https://github.com/affaan-m/ECC" title="The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond." target="_blank"><img src="https://img.shields.io/github/stars/affaan-m/ECC?style=social" alt="GitHub"></a>
+</li>
 <li>
 <a href="https://github.com/TecharoHQ/anubis" title="Weighs the soul of incoming HTTP requests to stop AI crawlers" target="_blank">anubis</a>&nbsp;<a href="https://github.com/TecharoHQ/anubis" title="Weighs the soul of incoming HTTP requests to stop AI crawlers" target="_blank"><img src="https://img.shields.io/github/stars/TecharoHQ/anubis?style=social" alt="GitHub"></a>
 </li>
@@ -92,9 +95,6 @@
 <li>
 <a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank">awesome-privacy</a>&nbsp;<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank"><img src="https://img.shields.io/github/stars/lissy93/awesome-privacy?style=social" alt="GitHub"></a>
 </li>
-<li>
-<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files." target="_blank">files.md</a>&nbsp;<a href="https://github.com/zakirullin/files.md" title="🌱 Private, quiet space for thinking. Simple app for .md files." target="_blank"><img src="https://img.shields.io/github/stars/zakirullin/files.md?style=social" alt="GitHub"></a>
-</li>
 </ul>
 <img width="450" height="1" /></td>
 </tr>
@@ -102,6 +102,20 @@
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/EPFL_People_UserScript/commits/6b66551b9621518d44ad5c75889af3fdce89e721" title="2026-10-26T15:01:28.000+01:00" target="_blank">6b66551b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/EPFL_People_UserScript" title="A user script to improve browsing on people.epfl.ch and search.epfl.ch">/EPFL_People_UserScript</a></strong></div>
+          <pre>Merge pull request #7 from dieg0000000/fix-userscript
+
+Fix profile and search pages after people.epfl.ch redesign</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/EPFL_People_UserScript/commits/8c7a9a44669f8c2dd23090880a4d161b9f5c198e" title="2026-10-26T14:10:05.000+01:00" target="_blank">8c7a9a44</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/EPFL_People_UserScript" title="A user script to improve browsing on people.epfl.ch and search.epfl.ch">/EPFL_People_UserScript</a></strong></div>
+          <pre>Merge pull request #6 from dieg0000000/master
+
+Update EPFL People script to version 2.4.3</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/homepage-archiveweb.epfl.ch/commits/f6b28ee081f161fe765828dd72278ba12a51b5b8" title="2026-10-23T17:32:28.000+02:00" target="_blank">f6b28ee0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/homepage-archiveweb.epfl.ch" title="EPFL homepage of archiveweb.epfl.ch - list all archived web sites">/homepage-archiveweb.epfl.ch</a></strong></div>
           <pre>Add webanalytics.epfl.ch (#290)
@@ -155,23 +169,11 @@ Close: #688</pre>
 
 📢 GitLab@EPFL Alerts</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/ad5ee8d6e8ef59df3d874a53b00a054e0976a84a" title="2026-10-09T00:00:14.000+02:00" target="_blank">ad5ee8d6</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Monitoring
-
-Attempt to use build-in monitoring instead of adhoc.rb script.</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/64228c5e4d59e435782fe97bce1c5a11dbac3bf1" title="2026-10-08T23:09:10.000+02:00" target="_blank">64228c5e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[doc] Announcements</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 23 Oct 2026 17:56:46 GMT</small>
+<small>⏰ Updated on Mon, 26 Oct 2026 19:31:41 GMT</small>
 </td>
 </tr>
 </tfoot>
