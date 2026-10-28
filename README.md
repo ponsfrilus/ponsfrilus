@@ -103,6 +103,15 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/1089571b9c7d17a040f4453be6e030a71b8e69df" title="2026-10-28T17:17:34.000+01:00" target="_blank">1089571b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
+          <pre>Add webanalytics.epfl.ch (#1467)
+
+This add the Umami script from webanalytics.epfl.ch
+
+Close: #1468</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/ponsfrilus/EPFL_People_UserScript/commits/6b66551b9621518d44ad5c75889af3fdce89e721" title="2026-10-26T15:01:28.000+01:00" target="_blank">6b66551b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/EPFL_People_UserScript" title="A user script to improve browsing on people.epfl.ch and search.epfl.ch">/EPFL_People_UserScript</a></strong></div>
           <pre>Merge pull request #7 from dieg0000000/fix-userscript
 
@@ -162,18 +171,11 @@ Close: #688</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop/commits/207e713ee030bd6ae5b0cd608cd8f775736ed2d7" title="2026-10-14T14:40:16.000+02:00" target="_blank">207e713e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees">/ticketshop</a></strong></div>
           <pre>[doc] CHANGELOG.md added</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/4b9c8b289c558ae9a1b35d9af8aab93c27c95e2e" title="2026-10-12T11:15:15.000+02:00" target="_blank">4b9c8b28</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
-          <pre>[feature] GitLab alerts in their own chat
-
-📢 GitLab@EPFL Alerts</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 27 Oct 2026 18:56:27 GMT</small>
+<small>⏰ Updated on Wed, 28 Oct 2026 19:04:32 GMT</small>
 </td>
 </tr>
 </tfoot>
