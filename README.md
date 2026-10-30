@@ -103,6 +103,11 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/aa962d78f4db005dc7c0ce20b9d166c84bfc1557" title="2026-10-29T23:57:57.000+01:00" target="_blank">aa962d78</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[bump] to version 4.7.4</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/1089571b9c7d17a040f4453be6e030a71b8e69df" title="2026-10-28T17:17:34.000+01:00" target="_blank">1089571b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
           <pre>Add webanalytics.epfl.ch (#1467)
 
@@ -166,16 +171,11 @@ Close: #688</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop/commits/b5749ea75dea777cf208d401a59f441e86f0b138" title="2026-10-14T14:48:37.000+02:00" target="_blank">b5749ea7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees">/ticketshop</a></strong></div>
           <pre>[doc] README</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop/commits/207e713ee030bd6ae5b0cd608cd8f775736ed2d7" title="2026-10-14T14:40:16.000+02:00" target="_blank">207e713e</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees">/ticketshop</a></strong></div>
-          <pre>[doc] CHANGELOG.md added</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Thu, 29 Oct 2026 19:11:06 GMT</small>
+<small>⏰ Updated on Fri, 30 Oct 2026 18:49:12 GMT</small>
 </td>
 </tr>
 </tfoot>
