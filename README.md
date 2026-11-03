@@ -75,7 +75,7 @@
 <a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust" target="_blank">pdfcraft</a>&nbsp;<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/pdfcraft?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/JustVugg/colibri" title="Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦" target="_blank">colibri</a>&nbsp;<a href="https://github.com/JustVugg/colibri" title="Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦" target="_blank"><img src="https://img.shields.io/github/stars/JustVugg/colibri?style=social" alt="GitHub"></a>
+<a href="https://github.com/JustVugg/colibri" title="A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own." target="_blank">colibri</a>&nbsp;<a href="https://github.com/JustVugg/colibri" title="A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own." target="_blank"><img src="https://img.shields.io/github/stars/JustVugg/colibri?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/bradAGI/awesome-cli-coding-agents" title="Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. " target="_blank">awesome-cli-coding-agents</a>&nbsp;<a href="https://github.com/bradAGI/awesome-cli-coding-agents" title="Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. " target="_blank"><img src="https://img.shields.io/github/stars/bradAGI/awesome-cli-coding-agents?style=social" alt="GitHub"></a>
@@ -175,7 +175,7 @@ Close: #688</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Mon, 02 Nov 2026 22:27:24 GMT</small>
+<small>⏰ Updated on Tue, 03 Nov 2026 20:15:42 GMT</small>
 </td>
 </tr>
 </tfoot>
