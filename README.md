@@ -41,7 +41,7 @@
 <a href="https://github.com/shaongitbd/doory" title="Open source canva alternative" target="_blank">doory</a>&nbsp;<a href="https://github.com/shaongitbd/doory" title="Open source canva alternative" target="_blank"><img src="https://img.shields.io/github/stars/shaongitbd/doory?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/storytold/photocraft" title="PhotoCraft: An open-source, photo editor written by scratch in pure Rust" target="_blank">photocraft</a>&nbsp;<a href="https://github.com/storytold/photocraft" title="PhotoCraft: An open-source, photo editor written by scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/photocraft?style=social" alt="GitHub"></a>
+<a href="https://github.com/storytold/photocraft" title="PhotoCraft: An open-source photo editor written from scratch in pure Rust" target="_blank">photocraft</a>&nbsp;<a href="https://github.com/storytold/photocraft" title="PhotoCraft: An open-source photo editor written from scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/photocraft?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank">block-finder</a>&nbsp;<a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank"><img src="https://img.shields.io/github/stars/troychaplin/block-finder?style=social" alt="GitHub"></a>
@@ -72,7 +72,7 @@
 <a href="https://github.com/TecharoHQ/anubis" title="Weighs the soul of incoming HTTP requests to stop AI crawlers" target="_blank">anubis</a>&nbsp;<a href="https://github.com/TecharoHQ/anubis" title="Weighs the soul of incoming HTTP requests to stop AI crawlers" target="_blank"><img src="https://img.shields.io/github/stars/TecharoHQ/anubis?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust" target="_blank">pdfcraft</a>&nbsp;<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/pdfcraft?style=social" alt="GitHub"></a>
+<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust" target="_blank">pdfcraft</a>&nbsp;<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/pdfcraft?style=social" alt="GitHub"></a>
 </li>
 <li>
 <a href="https://github.com/JustVugg/colibri" title="A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own." target="_blank">colibri</a>&nbsp;<a href="https://github.com/JustVugg/colibri" title="A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own." target="_blank"><img src="https://img.shields.io/github/stars/JustVugg/colibri?style=social" alt="GitHub"></a>
@@ -175,7 +175,7 @@ Close: #688</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 06 Nov 2026 20:03:12 GMT</small>
+<small>⏰ Updated on Mon, 09 Nov 2026 23:07:26 GMT</small>
 </td>
 </tr>
 </tfoot>
