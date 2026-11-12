@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/HolyArrs/HolyArrs" title="One self-hosted app for your shows, movies and music." target="_blank">HolyArrs</a>&nbsp;<a href="https://github.com/HolyArrs/HolyArrs" title="One self-hosted app for your shows, movies and music." target="_blank"><img src="https://img.shields.io/github/stars/HolyArrs/HolyArrs?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/affaan-m/ECC" title="The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond." target="_blank">ECC</a>&nbsp;<a href="https://github.com/affaan-m/ECC" title="The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond." target="_blank"><img src="https://img.shields.io/github/stars/affaan-m/ECC?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/TecharoHQ/anubis" title="Weighs the soul of incoming HTTP requests to stop AI crawlers" target="_blank">anubis</a>&nbsp;<a href="https://github.com/TecharoHQ/anubis" title="Weighs the soul of incoming HTTP requests to stop AI crawlers" target="_blank"><img src="https://img.shields.io/github/stars/TecharoHQ/anubis?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust" target="_blank">pdfcraft</a>&nbsp;<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/pdfcraft?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/JustVugg/colibri" title="A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own." target="_blank">colibri</a>&nbsp;<a href="https://github.com/JustVugg/colibri" title="A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own." target="_blank"><img src="https://img.shields.io/github/stars/JustVugg/colibri?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/bradAGI/awesome-cli-coding-agents" title="Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. " target="_blank">awesome-cli-coding-agents</a>&nbsp;<a href="https://github.com/bradAGI/awesome-cli-coding-agents" title="Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. " target="_blank"><img src="https://img.shields.io/github/stars/bradAGI/awesome-cli-coding-agents?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/anthropics/skills" title="Public repository for Agent Skills" target="_blank">skills</a>&nbsp;<a href="https://github.com/anthropics/skills" title="Public repository for Agent Skills" target="_blank"><img src="https://img.shields.io/github/stars/anthropics/skills?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank">chatto</a>&nbsp;<a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank"><img src="https://img.shields.io/github/stars/chattocorp/chatto?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank">claude-design-system-prompt</a>&nbsp;<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank"><img src="https://img.shields.io/github/stars/Trystan-SA/claude-design-system-prompt?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank">osv-scanner</a>&nbsp;<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank"><img src="https://img.shields.io/github/stars/google/osv-scanner?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/addyosmani/agent-skills" title="Production-grade engineering skills for AI coding agents." target="_blank">agent-skills</a>&nbsp;<a href="https://github.com/addyosmani/agent-skills" title="Production-grade engineering skills for AI coding agents." target="_blank"><img src="https://img.shields.io/github/stars/addyosmani/agent-skills?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -60,40 +94,6 @@
 </li>
 <li>
 <a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret and file sharing. End-to-end encrypted, self-hosted, open source." target="_blank">1time.io</a>&nbsp;<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret and file sharing. End-to-end encrypted, self-hosted, open source." target="_blank"><img src="https://img.shields.io/github/stars/shingrus/1time.io?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/affaan-m/ECC" title="The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond." target="_blank">ECC</a>&nbsp;<a href="https://github.com/affaan-m/ECC" title="The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond." target="_blank"><img src="https://img.shields.io/github/stars/affaan-m/ECC?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/TecharoHQ/anubis" title="Weighs the soul of incoming HTTP requests to stop AI crawlers" target="_blank">anubis</a>&nbsp;<a href="https://github.com/TecharoHQ/anubis" title="Weighs the soul of incoming HTTP requests to stop AI crawlers" target="_blank"><img src="https://img.shields.io/github/stars/TecharoHQ/anubis?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust" target="_blank">pdfcraft</a>&nbsp;<a href="https://github.com/storytold/pdfcraft" title="PdfCraft: An open-source PDF reader and editor written from scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/pdfcraft?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/JustVugg/colibri" title="A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own." target="_blank">colibri</a>&nbsp;<a href="https://github.com/JustVugg/colibri" title="A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own." target="_blank"><img src="https://img.shields.io/github/stars/JustVugg/colibri?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/bradAGI/awesome-cli-coding-agents" title="Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. " target="_blank">awesome-cli-coding-agents</a>&nbsp;<a href="https://github.com/bradAGI/awesome-cli-coding-agents" title="Curated directory of terminal-native AI coding agents and the harnesses that orchestrate them. Covers open-source tools (Pi, OpenCode, Aider, Goose), platform agents (Claude Code, Codex, Gemini CLI), parallel runners, autonomous loops, and agent infrastructure. " target="_blank"><img src="https://img.shields.io/github/stars/bradAGI/awesome-cli-coding-agents?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/anthropics/skills" title="Public repository for Agent Skills" target="_blank">skills</a>&nbsp;<a href="https://github.com/anthropics/skills" title="Public repository for Agent Skills" target="_blank"><img src="https://img.shields.io/github/stars/anthropics/skills?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank">chatto</a>&nbsp;<a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank"><img src="https://img.shields.io/github/stars/chattocorp/chatto?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank">claude-design-system-prompt</a>&nbsp;<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank"><img src="https://img.shields.io/github/stars/Trystan-SA/claude-design-system-prompt?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank">osv-scanner</a>&nbsp;<a href="https://github.com/google/osv-scanner" title="Vulnerability scanner written in Go which uses the data provided by https://osv.dev" target="_blank"><img src="https://img.shields.io/github/stars/google/osv-scanner?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank">awesome-privacy</a>&nbsp;<a href="https://github.com/lissy93/awesome-privacy" title="🦄  A curated list of privacy & security-focused software and services" target="_blank"><img src="https://img.shields.io/github/stars/lissy93/awesome-privacy?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -175,7 +175,7 @@ Close: #688</pre>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Tue, 10 Nov 2026 20:35:12 GMT</small>
+<small>⏰ Updated on Thu, 12 Nov 2026 21:04:22 GMT</small>
 </td>
 </tr>
 </tfoot>
