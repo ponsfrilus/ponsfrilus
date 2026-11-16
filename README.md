@@ -32,6 +32,40 @@
 <td valign="top">
 <ul>
 <li>
+<a href="https://github.com/mattpocock/skills" title="Skills for Real Engineers. Straight from my .agents directory." target="_blank">skills</a>&nbsp;<a href="https://github.com/mattpocock/skills" title="Skills for Real Engineers. Straight from my .agents directory." target="_blank"><img src="https://img.shields.io/github/stars/mattpocock/skills?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/addyosmani/agent-skills" title="Production-grade engineering skills for AI coding agents." target="_blank">agent-skills</a>&nbsp;<a href="https://github.com/addyosmani/agent-skills" title="Production-grade engineering skills for AI coding agents." target="_blank"><img src="https://img.shields.io/github/stars/addyosmani/agent-skills?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/tinyhumansai/openscion" title="OpenScion is an open-source, server-centric source control system for very large monorepos where most clients are AI agents and CI jobs rather than people on laptops. Based on Anthropic's Scion" target="_blank">openscion</a>&nbsp;<a href="https://github.com/tinyhumansai/openscion" title="OpenScion is an open-source, server-centric source control system for very large monorepos where most clients are AI agents and CI jobs rather than people on laptops. Based on Anthropic's Scion" target="_blank"><img src="https://img.shields.io/github/stars/tinyhumansai/openscion?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/shaongitbd/doory" title="Open source canva alternative" target="_blank">doory</a>&nbsp;<a href="https://github.com/shaongitbd/doory" title="Open source canva alternative" target="_blank"><img src="https://img.shields.io/github/stars/shaongitbd/doory?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/storytold/photocraft" title="PhotoCraft: An open-source photo editor written from scratch in pure Rust" target="_blank">photocraft</a>&nbsp;<a href="https://github.com/storytold/photocraft" title="PhotoCraft: An open-source photo editor written from scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/photocraft?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank">block-finder</a>&nbsp;<a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank"><img src="https://img.shields.io/github/stars/troychaplin/block-finder?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank">scientific-agent-skills</a>&nbsp;<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank"><img src="https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/openai/codex" title="Lightweight coding agent that runs in your terminal" target="_blank">codex</a>&nbsp;<a href="https://github.com/openai/codex" title="Lightweight coding agent that runs in your terminal" target="_blank"><img src="https://img.shields.io/github/stars/openai/codex?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/epfl-si/wp-controller" title="null" target="_blank">wp-controller</a>&nbsp;<a href="https://github.com/epfl-si/wp-controller" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-controller?style=social" alt="GitHub"></a>
+</li>
+<li>
+<a href="https://github.com/kuvasz-uptime/kuvasz" title="Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!" target="_blank">kuvasz</a>&nbsp;<a href="https://github.com/kuvasz-uptime/kuvasz" title="Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!" target="_blank"><img src="https://img.shields.io/github/stars/kuvasz-uptime/kuvasz?style=social" alt="GitHub"></a>
+</li>
+</ul>
+<img width="450" height="1" /></td>
+<td valign="top">
+<ul>
+<li>
 <a href="https://github.com/HolyArrs/HolyArrs" title="One self-hosted app for your shows, movies and music." target="_blank">HolyArrs</a>&nbsp;<a href="https://github.com/HolyArrs/HolyArrs" title="One self-hosted app for your shows, movies and music." target="_blank"><img src="https://img.shields.io/github/stars/HolyArrs/HolyArrs?style=social" alt="GitHub"></a>
 </li>
 <li>
@@ -63,45 +97,16 @@
 </li>
 </ul>
 <img width="450" height="1" /></td>
-<td valign="top">
-<ul>
-<li>
-<a href="https://github.com/addyosmani/agent-skills" title="Production-grade engineering skills for AI coding agents." target="_blank">agent-skills</a>&nbsp;<a href="https://github.com/addyosmani/agent-skills" title="Production-grade engineering skills for AI coding agents." target="_blank"><img src="https://img.shields.io/github/stars/addyosmani/agent-skills?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/tinyhumansai/openscion" title="OpenScion is an open-source, server-centric source control system for very large monorepos where most clients are AI agents and CI jobs rather than people on laptops. Based on Anthropic's Scion" target="_blank">openscion</a>&nbsp;<a href="https://github.com/tinyhumansai/openscion" title="OpenScion is an open-source, server-centric source control system for very large monorepos where most clients are AI agents and CI jobs rather than people on laptops. Based on Anthropic's Scion" target="_blank"><img src="https://img.shields.io/github/stars/tinyhumansai/openscion?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/shaongitbd/doory" title="Open source canva alternative" target="_blank">doory</a>&nbsp;<a href="https://github.com/shaongitbd/doory" title="Open source canva alternative" target="_blank"><img src="https://img.shields.io/github/stars/shaongitbd/doory?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/storytold/photocraft" title="PhotoCraft: An open-source photo editor written from scratch in pure Rust" target="_blank">photocraft</a>&nbsp;<a href="https://github.com/storytold/photocraft" title="PhotoCraft: An open-source photo editor written from scratch in pure Rust" target="_blank"><img src="https://img.shields.io/github/stars/storytold/photocraft?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank">block-finder</a>&nbsp;<a href="https://github.com/troychaplin/block-finder" title="Adds a dashboard that select list of active Gutenberg blocks on a site and returns a list of pages, post and other post types where that block is being used." target="_blank"><img src="https://img.shields.io/github/stars/troychaplin/block-finder?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank">scientific-agent-skills</a>&nbsp;<a href="https://github.com/K-Dense-AI/scientific-agent-skills" title="Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard." target="_blank"><img src="https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/openai/codex" title="Lightweight coding agent that runs in your terminal" target="_blank">codex</a>&nbsp;<a href="https://github.com/openai/codex" title="Lightweight coding agent that runs in your terminal" target="_blank"><img src="https://img.shields.io/github/stars/openai/codex?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/epfl-si/wp-controller" title="null" target="_blank">wp-controller</a>&nbsp;<a href="https://github.com/epfl-si/wp-controller" title="null" target="_blank"><img src="https://img.shields.io/github/stars/epfl-si/wp-controller?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/kuvasz-uptime/kuvasz" title="Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!" target="_blank">kuvasz</a>&nbsp;<a href="https://github.com/kuvasz-uptime/kuvasz" title="Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more!" target="_blank"><img src="https://img.shields.io/github/stars/kuvasz-uptime/kuvasz?style=social" alt="GitHub"></a>
-</li>
-<li>
-<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret and file sharing. End-to-end encrypted, self-hosted, open source." target="_blank">1time.io</a>&nbsp;<a href="https://github.com/shingrus/1time.io" title="Zero-knowledge one-time secret and file sharing. End-to-end encrypted, self-hosted, open source." target="_blank"><img src="https://img.shields.io/github/stars/shingrus/1time.io?style=social" alt="GitHub"></a>
-</li>
-</ul>
-<img width="450" height="1" /></td>
 </tr>
 <tr>
 <td colspan="2" align="center"><h4>My last commits</h4></td>
 </tr>
 <tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/d1751c54e6d66e6df2b89a0933785b465a83b1f3" title="2026-11-16T15:43:49.000+01:00" target="_blank">d1751c54</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
+          <pre>[feature] Allow iframization</pre>
+        </td>
+        </tr><tr>
         <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/aa962d78f4db005dc7c0ce20b9d166c84bfc1557" title="2026-10-29T23:57:57.000+01:00" target="_blank">aa962d78</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
           <pre>[bump] to version 4.7.4</pre>
@@ -166,16 +171,11 @@ Close: #688</pre>
           <div><strong><a href="https://api.github.com/repos/epfl-si/indico.ops/commits/f7032fbaf81f1a1fc2653e0b1418943bf887d32b" title="2026-10-16T14:23:01.000+02:00" target="_blank">f7032fba</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/indico.ops" title="Code to deploy Indico on EPFL's OpenShift">/indico.ops</a></strong></div>
           <pre>Initial commit</pre>
         </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/ticketshop/commits/b5749ea75dea777cf208d401a59f441e86f0b138" title="2026-10-14T14:48:37.000+02:00" target="_blank">b5749ea7</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/ticketshop" title="Web service that CFF (the Swiss train company) queries to find out permissions and billing details for EPFL employees">/ticketshop</a></strong></div>
-          <pre>[doc] README</pre>
-        </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 13 Nov 2026 20:38:21 GMT</small>
+<small>⏰ Updated on Mon, 16 Nov 2026 23:00:10 GMT</small>
 </td>
 </tr>
 </tfoot>
