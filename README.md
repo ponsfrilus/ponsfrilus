@@ -59,7 +59,7 @@
 <a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank">chatto</a>&nbsp;<a href="https://github.com/chattocorp/chatto" title="A fully-featured team and group chat application that you can easily selfhost." target="_blank"><img src="https://img.shields.io/github/stars/chattocorp/chatto?style=social" alt="GitHub"></a>
 </li>
 <li>
-<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank">claude-design-system-prompt</a>&nbsp;<a href="https://github.com/Trystan-SA/claude-design-system-prompt" title="Reverse-engineered system prompt and skill library that turns an LLM into an opinionated, accessibility-aware, AI-slop-resistant design collaborator." target="_blank"><img src="https://img.shields.io/github/stars/Trystan-SA/claude-design-system-prompt?style=social" alt="GitHub"></a>
+<a href="https://github.com/Trystan-SA/product-engineer-skills" title="Agent skills for product engineers: count the clicks on your happy path, test flows against a UX budget, plan adoption, instrument analytics, and design and read A/B tests. For Claude Code, Codex and any SKILL.md agent." target="_blank">product-engineer-skills</a>&nbsp;<a href="https://github.com/Trystan-SA/product-engineer-skills" title="Agent skills for product engineers: count the clicks on your happy path, test flows against a UX budget, plan adoption, instrument analytics, and design and read A/B tests. For Claude Code, Codex and any SKILL.md agent." target="_blank"><img src="https://img.shields.io/github/stars/Trystan-SA/product-engineer-skills?style=social" alt="GitHub"></a>
 </li>
 </ul>
 <img width="450" height="1" /></td>
@@ -103,79 +103,185 @@
 </tr>
 <tr>
         <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/ponsfrilus/yakazu/commits/e1689128a85a5a32ff33e0544d776a62b4d9a6b7" title="2026-11-23T13:42:06.000+01:00" target="_blank">e1689128</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/yakazu" title="Yakazu generator">/yakazu</a></strong></div>
+          <pre>[doc] Add the project brief and gitignore
+
+Record the owner's requests verbatim in brief.md so that every later
+change can be traced back to a requirement:
+
+- 2 grids per page, PDF output
+- prompt for the grid sizes (for example 5x5 up to 12x12)
+- solutions at the end of the PDF, 4 grids per page
+- grids spread from easy to extreme
+- prompt for the number of grids (default 64)
+
+The sources are the Innoludic Yakazu page and Yakazu Player.
+
+.gitignore is added before any other file so that generated PDFs,
+dependencies and local environment files are never committed.</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/cc3eb4ac1d205e9e30d78adf10479561c5cbaf28" title="2026-11-22T22:41:41.000+01:00" target="_blank">cc3eb4ac</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[doc] Announcements</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/6ca09b1098bd23b34b7ac8e3a7d8ff9ef9023c9a" title="2026-11-22T22:22:08.000+01:00" target="_blank">6ca09b10</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[bump] to version v4.7.6</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/df0b7112fb9ef2a8ef69cb0601f8c61ac5772ec6" title="2026-11-22T22:21:30.000+01:00" target="_blank">df0b7112</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] pgdump</pre>
+        </td>
+        </tr><tr>
+        <td colspan="2">
           <div><strong><a href="https://api.github.com/repos/epfl-si/external-noc/commits/d1751c54e6d66e6df2b89a0933785b465a83b1f3" title="2026-11-16T15:43:49.000+01:00" target="_blank">d1751c54</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/external-noc" title="External Network Operations Center for EPFL SI ISAS-FSD">/external-noc</a></strong></div>
           <pre>[feature] Allow iframization</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/aa962d78f4db005dc7c0ce20b9d166c84bfc1557" title="2026-10-29T23:57:57.000+01:00" target="_blank">aa962d78</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[bump] to version 4.7.4</pre>
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/3c591cbd2e8ce608fe475f789acda0fecbf70fd0" title="2026-11-03T18:57:29.000+01:00" target="_blank">3c591cbd</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[unfeature] Stop cloning mastodon.ops on the target
+
+roles/mastodon/tasks/web.yml cloned this repository into
+{{ mastodon_web_build_dir }} (/srv/mastodon/build/web) so that the
+target could build a custom Mastodon image from docker/mastodon-web.
+
+Nothing uses the clone anymore: the image build has been disabled since
+ad5ee8d, the containers run the official Mastodon images, and since
+2071093 docker/ is removed and adhoc.rb is deployed from the mastodon
+role.
+
+Removed:
+- the "Mastodon build directory" and "Clone mastodon.ops to build Docker
+  images out of it" tasks;
+- the commented out tasks referring to the build directory (HTTPS
+  clone, docker/mastodon-web directory, image build);
+- the `mastodon_web_build_dir` variable.
+
+The existing /srv/mastodon/build directory is left untouched on the
+servers and can be removed manually. `ForwardAgent=yes`, introduced in
+5c62e30 for the SSH clone, is kept in ansible.cfg.</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/epfl-news/commits/1089571b9c7d17a040f4453be6e030a71b8e69df" title="2026-10-28T17:17:34.000+01:00" target="_blank">1089571b</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/epfl-news" title="Actu">/epfl-news</a></strong></div>
-          <pre>Add webanalytics.epfl.ch (#1467)
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/e93edc6020b3d1599f9b312c624555eaab939bcc" title="2026-11-03T18:57:07.000+01:00" target="_blank">e93edc60</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[doc] Update the Mastodon upgrade note
 
-This add the Umami script from webanalytics.epfl.ch
+The README note explained that, because of the metrics instrumentation,
+upgrading Mastodon required pushing docker/mastodon-web/Dockerfile with
+the new version so that the target could clone and build it.
 
-Close: #1468</pre>
+Since 2071093, docker/ is gone: the official Mastodon images are used as
+they are, with the built-in Prometheus instrumentation enabled by the
+MASTODON_PROMETHEUS_EXPORTER_* variables, and the custom metrics
+collector deployed by Ansible from roles/mastodon/templates/adhoc.rb.
+Upgrading now only requires changing `mastodon_version` in
+vars/versions.yml.
+
+The links of the note are now reference-style links, which also fixes
+the broken link to the removed Dockerfile.
+
+Refs:
+- https://docs.joinmastodon.org/admin/config/#prometheus</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/EPFL_People_UserScript/commits/6b66551b9621518d44ad5c75889af3fdce89e721" title="2026-10-26T15:01:28.000+01:00" target="_blank">6b66551b</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/EPFL_People_UserScript" title="A user script to improve browsing on people.epfl.ch and search.epfl.ch">/EPFL_People_UserScript</a></strong></div>
-          <pre>Merge pull request #7 from dieg0000000/fix-userscript
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/13a6fc5832d7a24444959f39ae930a6205ca4ab5" title="2026-11-03T18:51:53.000+01:00" target="_blank">13a6fc58</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[bump] Mastodon to version 4.7.5
 
-Fix profile and search pages after people.epfl.ch redesign</pre>
+Security release, from the upstream changelog:
+- Fix password authentication bypass for inactive accounts
+  (GHSA-3xjw-gv43-3w62);
+- Fix DoS through JSON-LD compaction (GHSA-cf49-73r7-rxj6);
+- Fix `Forwarded` header taking precedence over `X-Forwarded-For`
+  (GHSA-qp4r-p842-mw5c);
+- Update dependencies to address security advisories in addressable,
+  loofah, rack and rails-html-sanitizer.
+
+It also changes invites use counts to not decrease if an invited user
+deletes their account.
+
+Upgrading from 4.7.4 with Docker only requires restarting all Mastodon
+processes, no database migration is needed.
+
+Only vars/versions.yml is bumped, docker/mastodon-web/Dockerfile having
+been removed in the previous commit.
+
+Refs:
+- https://github.com/mastodon/mastodon/releases/tag/v4.7.5</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/ponsfrilus/EPFL_People_UserScript/commits/8c7a9a44669f8c2dd23090880a4d161b9f5c198e" title="2026-10-26T14:10:05.000+01:00" target="_blank">8c7a9a44</a><a href="https://github.com/ponsfrilus">@ponsfrilus</a><a href="https://github.com/ponsfrilus/EPFL_People_UserScript" title="A user script to improve browsing on people.epfl.ch and search.epfl.ch">/EPFL_People_UserScript</a></strong></div>
-          <pre>Merge pull request #6 from dieg0000000/master
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/2071093d11b272faba4faa9f748e1f28c6f537b9" title="2026-11-03T18:51:45.000+01:00" target="_blank">2071093d</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[refactor] Deploy adhoc.rb from the mastodon role
 
-Update EPFL People script to version 2.4.3</pre>
+The mastodon-prometheus-exporter container used to mount the ad hoc
+collector from the mastodon.ops clone on the target
+({{ mastodon_web_build_dir }}/docker/mastodon-web/monitoring/adhoc.rb).
+
+The collector now lives in roles/mastodon/templates/adhoc.rb (with a
+TODO list of the metrics to come) and
+roles/mastodon/tasks/monitoring.yml:
+- creates {{ mastodon_monitoring_dir }} (/srv/mastodon/monitoring);
+- templates adhoc.rb into it;
+- mounts it at the same path in the container
+  (/mastodon/monitoring/adhoc.rb), so the exporter command is unchanged;
+- restarts the container when adhoc.rb changes, as prometheus_exporter
+  only loads it at startup and a single file bind mount keeps pointing
+  to the replaced inode.
+
+The rest of docker/mastodon-web is removed. The image build has been
+disabled since ad5ee8d and the containers run the upstream
+ghcr.io/mastodon/mastodon image, which ships the same instrumentation
+(enabled by the MASTODON_PROMETHEUS_EXPORTER_* variables already set
+in roles/mastodon/vars/mastodon-vars.yml):
+- Dockerfile `bundle install`: prometheus_exporter is in the upstream
+  Gemfile;
+- config/initializers/prometheus_exporter.rb: upstream
+  config/initializers/prometheus_exporter.rb;
+- config/initializers/sidekiq_monitoring.rb: upstream
+  config/initializers/sidekiq.rb;
+- config/puma_prometheus.rb: upstream config/puma.rb.
+
+The task pre-creating {{ mastodon_web_build_dir }}/docker/mastodon-web
+is commented out accordingly.
+
+Refs:
+- https://docs.joinmastodon.org/admin/config/#prometheus
+- https://github.com/discourse/prometheus_exporter?tab=readme-ov-file#global-metrics-in-a-custom-type-collector
+- https://github.com/mastodon/mastodon/blob/v4.7.5/config/initializers/prometheus_exporter.rb</pre>
         </td>
         </tr><tr>
         <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/homepage-archiveweb.epfl.ch/commits/f6b28ee081f161fe765828dd72278ba12a51b5b8" title="2026-10-23T17:32:28.000+02:00" target="_blank">f6b28ee0</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/homepage-archiveweb.epfl.ch" title="EPFL homepage of archiveweb.epfl.ch - list all archived web sites">/homepage-archiveweb.epfl.ch</a></strong></div>
-          <pre>Add webanalytics.epfl.ch (#290)
+          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/5c62e30510180307de17fe1be5bd79136912ce59" title="2026-11-03T18:51:29.000+01:00" target="_blank">5c62e305</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
+          <pre>[fix] Clone mastodon.ops over SSH
 
-This add the Umami script from webanalytics.epfl.ch
+The epfl-si/mastodon.ops repository is private: the anonymous HTTPS
+clone done by the "Clone mastodon.ops to build Docker images out of
+it" task in roles/mastodon/tasks/web.yml fails on the target.
 
-Close: #291</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/memento/commits/ffd2420a6f98e2e36537cc5bcd0a9893b3c5f4d5" title="2026-10-21T08:45:58.000+02:00" target="_blank">ffd2420a</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/memento" title="Memento">/memento</a></strong></div>
-          <pre>Add webanalytics.epfl.ch (#1225)
+Clone it over SSH (git@github.com:epfl-si/mastodon.ops.git) instead:
+- `accept_newhostkey: true` adds github.com to the target's
+  known_hosts on the first run instead of failing on the host key
+  verification;
+- `ssh_extra_args = -o ForwardAgent=yes` in ansible.cfg forwards the
+  operator's SSH agent to the target, so that it can authenticate to
+  GitHub without storing a deploy key on the server.
 
-This add the Umami script from webanalytics.epfl.ch
+The former HTTPS task is kept commented out for reference.
 
-Close: #1226</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/press-release/commits/e1cda7c3fdaec6b53e1af7ab2f90bef64a76bd32" title="2026-10-20T13:54:44.000+02:00" target="_blank">e1cda7c3</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/press-release" title="Revue de presse">/press-release</a></strong></div>
-          <pre>Add webanalytics.epfl.ch (#687)
-
-This add the Umami script from webanalytics.epfl.ch
-
-Close: #688</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/mastodon.ops/commits/625757b52bab53ae22a77dc7259d344d9ae3c47d" title="2026-10-19T17:52:49.000+02:00" target="_blank">625757b5</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/mastodon.ops" title="Mastodon server of EPFL">/mastodon.ops</a></strong></div>
-          <pre>[fix] Monitoring</pre>
-        </td>
-        </tr><tr>
-        <td colspan="2">
-          <div><strong><a href="https://api.github.com/repos/epfl-si/indico.ops/commits/f7032fbaf81f1a1fc2653e0b1418943bf887d32b" title="2026-10-16T14:23:01.000+02:00" target="_blank">f7032fba</a><a href="https://github.com/epfl-si">@epfl-si</a><a href="https://github.com/epfl-si/indico.ops" title="Code to deploy Indico on EPFL's OpenShift">/indico.ops</a></strong></div>
-          <pre>Initial commit</pre>
+Refs:
+- https://docs.ansible.com/ansible/latest/collections/ansible/builtin/git_module.html
+- https://docs.github.com/en/authentication/connecting-to-github-with-ssh/using-ssh-agent-forwarding</pre>
         </td>
         </tr><tfoot>
 <tr>
 <td colspan="2" align="right">
 <img width="900" height="1" />
-<small>⏰ Updated on Fri, 20 Nov 2026 21:30:31 GMT</small>
+<small>⏰ Updated on Tue, 24 Nov 2026 01:10:54 GMT</small>
 </td>
 </tr>
 </tfoot>
